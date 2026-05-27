@@ -30,7 +30,7 @@ The problem for Austrian use is that M2 lumps two categorically different things
 - **Fiduciary media** (demand deposits, other checkable deposits) — uncovered bank-issued claims, exactly what [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] targets.
 - **Commodity-credit instruments** (small-denomination time deposits / small CDs, retail MMMFs) — these represent savings transferred to a borrower via the bank or fund, which by Mises's [[credit-and-deferred-payment|Credit and Deferred Payment]] distinction is *not* inflationary in the same sense. The saver gives up present-good claims; the lender does not create money out of nothing.
 
-A surge in M2 driven by households moving cash from currency holdings into small CDs would re-shuffle composition without expanding fiduciary media — fiduciary-media expansion is the cycle-theory event, and the M2 level can move from non-cycle causes too. M2 is usable as a trend indicator, theoretically noisy as a level reading of cycle pressure.
+Households moving cash from currency holdings into small CDs re-shuffles M2's composition (currency falls, small time deposits rise, M2 level roughly flat) without any fiduciary-media expansion. Conversely, banks issuing new demand deposits expands the fiduciary-media subset of M2 *and* lifts the level — but the M2 number alone can't tell the operator which is happening, because small-time-deposit and retail-MMMF flows contaminate the signal. M2 is usable as a coarse trend indicator, theoretically noisy as a level reading of cycle pressure.
 
 ## Rothbard's True Money Supply — the cleaner Austrian aggregate
 
@@ -40,7 +40,17 @@ Rothbard argued in [[americas-great-depression|America's Great Depression]] Ch. 
 >
 > — Rothbard, [[americas-great-depression|America's Great Depression]], Ch. 4
 
-[[joseph-t-salerno|Joseph T. Salerno]] later refined this in his 1987 paper *"The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy"* as the **True Money Supply (TMS)**: currency in circulation outside bank vaults + demand deposits + other checkable deposits + U.S. government demand deposits at the Fed and at commercial banks + savings deposits at commercial banks + certain foreign official and commercial-bank demand deposits held in the U.S. Salerno *excludes* money-market mutual funds, term repurchase agreements, and small-denomination time deposits and CDs — treating these as loans to banks rather than money-substitutes, a deliberate narrowing of Rothbard's AGD-era criterion which had included time deposits on the de-facto-redeemable argument. Salerno's 1987 specification does include overnight RPs.
+[[joseph-t-salerno|Joseph T. Salerno]] later refined this in his 1987 paper *"The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy"* as the **True Money Supply (TMS)**. Per Salerno's own component-by-component specification, TMS comprises:
+
+- Currency in the hands of the nonbank public, excluding Treasury, Fed, and commercial-bank vault holdings
+- Demand deposits + other checkable deposits (NOW accounts)
+- Money market deposit accounts (MMDAs) at commercial banks and thrifts
+- Savings deposits at commercial banks and thrifts
+- Overnight repurchase agreements (RPs) and overnight Eurodollars
+- U.S. Savings Bonds at their current redemption value
+- (Memorandum items) U.S. government demand deposits at the Fed and at commercial banks; foreign official and foreign commercial-bank demand deposits held in the U.S.
+
+Salerno *excludes* money market mutual funds (MMMFs), term RPs, small-denomination time deposits and CDs (treated as loans to banks rather than money-substitutes), large CDs, and short-term Treasury securities. This is a deliberate narrowing of Rothbard's AGD-era criterion, which had included time deposits on the de-facto-redeemable argument; Salerno's 1987 paper distinguishes overnight commitments (genuinely money-substitute) from term commitments (genuinely loans).
 
 TMS captures the total medium of exchange — money proper plus money-substitutes held by the public — rather than the fiduciary-media subset specifically. The *use case* for which Austrian economists deploy TMS is the cycle-theory diagnostic, where fiduciary-media expansion is what matters; TMS is preferred over M2 there because it excludes the small-time-deposit, money-fund, and term-repo components that contaminate M2 with commodity-credit savings. The Mises Institute publishes a TMS series; the Federal Reserve does not. The popular book-length treatment of the underlying money-supply criterion appears in [[the-mystery-of-banking|The Mystery of Banking]].
 
@@ -74,8 +84,8 @@ When all three signal expansion together — TMS growth, policy rate below long 
 - [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] — the sectoral diagnostic Rothbard pioneered in *AGD*
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] — Mises's typology of money-substitutes and the broader-sense framework
 - [[americas-great-depression|America's Great Depression]] — Rothbard's empirical money-supply definition and the 1921-1929 measurement
-- [[the-mystery-of-banking|The Mystery of Banking]] — Rothbard's popular treatment, the most accessible source for the broad money-supply criterion (stub; not yet ingested)
-- [[joseph-t-salerno|Joseph T. Salerno]] — Austrian monetary economist who formalized Rothbard's criterion into the modern TMS series (stub; no primary text ingested)
+- [[the-mystery-of-banking|The Mystery of Banking]] — Rothbard's popular treatment, the most accessible source for the broad money-supply criterion
+- [[joseph-t-salerno|Joseph T. Salerno]] — Austrian monetary economist who formalized Rothbard's criterion into the modern TMS
 
 ## Sources
 

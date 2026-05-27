@@ -7,21 +7,20 @@ updated: 2026-05-27
 tags: [salerno, austrian-economics, monetary-theory, tms, mises-institute, pure-time-preference]
 aliases: [Joseph Salerno, Salerno]
 confidence: medium
+summary: "Austrian-school monetary economist. Cited in this wiki as the author of the 1987 paper formalizing Rothbard's broad money-supply criterion into the True Money Supply (TMS) — see Monetary Aggregates and Credit Expansion. Other contemporary roles (Mises Institute, QJAE editorship, academic post) are not sourced from any text yet ingested."
 ---
 
 # Joseph T. Salerno
 
-> Salerno's role in the current corpus is as the formalizer of the [[monetary-aggregates-and-credit-expansion|Rothbardian True Money Supply (TMS)]] and as the editor of the *Quarterly Journal of Austrian Economics* that has carried much of the current-era Austrian-monetary literature. The 1987 TMS paper that operationalizes Rothbard's broad money-supply criterion is now ingested into the corpus.
-
-## Position in the Austrian tradition
-
-Salerno represents the Mises-Rothbard wing of contemporary Austrian economics, distinguishable from the Hayek-Kirzner wing on at least two points: (1) defense of the pure-time-preference theory of interest against productivity-based supplements, and (2) treatment of monetary calculation as the defining problem of socialist coordination, against Hayek's emphasis on dispersed knowledge. His writings draw the line from Menger's regression theorem through Mises's *[[the-theory-of-money-and-credit|Theory of Money and Credit]]* ([The Theory of Money and Credit](the-theory-of-money-and-credit.md)) and Rothbard's *[[man-economy-and-state|Man, Economy, and State]]* ([Man, Economy, and State](man-economy-and-state.md)) to the contemporary measurement and policy debates.
+> Salerno's role in the current corpus is as the formalizer of the [[monetary-aggregates-and-credit-expansion|Rothbardian True Money Supply (TMS)]]. The 1987 TMS paper that operationalizes Rothbard's broad money-supply criterion is ingested into the corpus and is the basis for what this page asserts about him. Other widely-known aspects of his contemporary role (Mises Institute academic vice president, *Quarterly Journal of Austrian Economics* editor, professor at Pace University) are not sourced from any text yet ingested here.
 
 ## Why the wiki cites him
 
-- **True Money Supply (TMS).** Salerno's 1987 paper "The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy" formalized Rothbard's broad money-supply criterion from *[[americas-great-depression|America's Great Depression]]* ([America's Great Depression](americas-great-depression.md)) Ch. 4 into a specific aggregate: currency in circulation outside banks + demand deposits + U.S. government demand deposits + savings deposits at commercial banks, excluding money-market funds and retail repurchase agreements. This is what Austrian economists generally cite when arguing the cycle theory empirically; the Mises Institute publishes a TMS series.
-- **Pure-time-preference defense.** Salerno's papers on interest theory (collected in *Money: Sound and Unsound*) defend the Misesian view that interest is the price differential between present and future goods, and that "productivity of capital" explanations confuse cause with effect.
-- **Editorial role.** Salerno has been a long-running editor at the *Quarterly Journal of Austrian Economics* and at the Mises Institute.
+- **True Money Supply (TMS).** Salerno's 1987 paper formalized Rothbard's broad money-supply criterion (from *[[americas-great-depression|America's Great Depression]]* ([America's Great Depression](americas-great-depression.md)) Ch. 4 and *[[the-mystery-of-banking|The Mystery of Banking]]* ([The Mystery of Banking](the-mystery-of-banking.md))) into a specific aggregate. Per Salerno's own component breakdown (see the ingested paper), TMS comprises currency in the hands of the nonbank public + demand deposits + other checkable deposits (NOW accounts) + savings deposits at commercial banks and thrifts + MMDAs + overnight RPs + overnight Eurodollars + U.S. Savings Bonds at redemption value, plus memorandum items: U.S. government demand deposits at the Fed and commercial banks, and foreign official + foreign commercial-bank demand deposits in the U.S. Salerno *excludes* money market mutual funds (MMMFs), term RPs, small-denomination time deposits and CDs (treated as loans to banks), large CDs, and short-term Treasury securities. The Mises Institute publishes a TMS series.
+
+## Position in the Austrian tradition
+
+Salerno is often grouped with the Mises-Rothbard wing of contemporary Austrian economics. The specific positions commonly attributed to him in this tradition — defense of the pure-time-preference theory of interest, treatment of monetary calculation (rather than dispersed knowledge) as the defining problem of socialist coordination — are not sourced from the ingested 1987 TMS paper and are not asserted here as supported claims. They would need a separate ingest of *Money: Sound and Unsound* or *"Mises and Hayek Dehomogenized"* (1993) to back.
 
 ## Selected works
 

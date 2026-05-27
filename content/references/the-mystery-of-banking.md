@@ -18,7 +18,7 @@ summary: "Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, 
 
 The book builds up the case against fractional-reserve banking in stages: (1) the origins of money and the regression theorem, (2) the warehouse-receipt theory of banking and the property-rights case for [[hundred-percent-reserve-banking|100% reserves]], (3) how fractional reserves create money in the broader Misesian sense and drive the credit-expansion mechanism that powers [[austrian-business-cycle-theory|Austrian Business Cycle Theory]], (4) the political economy of central banking and the Federal Reserve as an institutional amplifier of bank credit expansion, and (5) a history of US monetary regimes from the colonial era through the Federal Reserve's founding.
 
-The book is also the source most often cited for Rothbard's broad money-supply criterion (every claim convertible on demand is part of the money supply), which Joseph T. Salerno later formalized as the [[monetary-aggregates-and-credit-expansion|True Money Supply]].
+The book is also the source most often cited for Rothbard's broad money-supply criterion — every claim genuinely redeemable, in fact, on demand at par in cash is part of the money supply — which [[joseph-t-salerno|Joseph T. Salerno]] later formalized as the [[monetary-aggregates-and-credit-expansion|True Money Supply]]. Salerno's 1987 TMS paper cites *Mystery of Banking* (pp. 254–62) as a primary source for the criterion.
 
 ## Why the wiki cites it
 
@@ -45,3 +45,4 @@ The 100%-reserve-banking position the wiki adopts in [[hundred-percent-reserve-b
 ## Sources
 
 - [The Mystery of Banking — Full Text Aggregate](https://mises.org/library/book/mystery-banking) — 322-page PDF extracted via pdftotext -raw (~10.5k lines). OCR clean; standard book-front-matter / index artifacts at boundaries.
+- [The "True" Money Supply (Salerno 1987)](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy) — endnote 1 cites *Mystery of Banking* (pp. 254–62) as one of Rothbard's three primary statements of the broad money-supply criterion; this is what backs the "Salerno later formalized" claim above.
