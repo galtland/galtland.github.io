@@ -1,6 +1,6 @@
-# Libertarian Index
+# Galtland Index
 
-> Topic wiki for libertarian political philosophy, history, arguments, critics, and policy debates.
+> Austrian-libertarian topic wiki — political philosophy, monetary theory, history, arguments, critics, and policy debates. Published at https://index.galtland.org/.
 
 Last updated: 2026-05-24
 
