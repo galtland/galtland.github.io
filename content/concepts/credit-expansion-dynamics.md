@@ -11,7 +11,7 @@ short: "End-to-end mechanism of Austrian credit expansion: banks must drop the l
 
 # Credit Expansion Dynamics
 
-The Austrian theory of credit expansion is a dynamic process: a sequence of bank-issuance, rate-suppression, capital-structure-lengthening, and reckoning events whose interaction across time is the substance of the theory. The static "supply went up so prices will rise" framing common in mainstream monetary theory misses the structural mechanism. This article walks the mechanism end-to-end and then addresses the persistent dynamics question of whether loan-repayment makes expansion long-run zero.
+The Austrian theory of credit expansion is a dynamic process: a sequence of bank-issuance, rate-suppression, capital-structure-lengthening, and reckoning events whose interaction across time is the substance of the theory. The static "supply went up so prices will rise" framing common in mainstream monetary theory misses the structural mechanism. The mechanism runs end-to-end through five stages, and the persistent dynamics question — does loan-repayment cancel expansion in the long run? — turns on a sharp Misesian distinction between *net new issuance* and *gross rollover*.
 
 ## The five-stage mechanism
 
@@ -37,21 +37,27 @@ The same passage names the banking-channel power: a bank of issue's interest-rat
 
 A standard objection to the cycle theory runs: when a fiduciary-media loan is repaid, the corresponding fiduciary-media balance is extinguished; if all debt is paid, every expansion meets a contraction; in the long run there is no net expansion; so what is the theory complaining about?
 
-Mises addresses this directly in [[the-theory-of-money-and-credit|The Theory of Money and Credit]], Part III:
+Mises addresses the per-loan side of this directly in [[the-theory-of-money-and-credit|The Theory of Money and Credit]], Part III:
 
 > When the loans granted by the bank through the issue of fiduciary media fall due for repayment, then it is true that a corresponding sum of fiduciary media returns to the bank, and the quantity in circulation is diminished. But fresh loans are issued by the bank at the same time and new fiduciary media flow into circulation.
 >
-> — Mises, *The Theory of Money and Credit*, Part III, Ch. XX
+> — Mises, [[the-theory-of-money-and-credit|The Theory of Money and Credit]], Part III, Ch. XX
 
-The answer is layered:
+Then in [[human-action|Human Action]] Ch. XVII §11 he sharpens the definition of what counts as credit expansion:
+
+> Credit expansion is present only if credit is granted by the issue of an additional amount of fiduciary media, not if banks lend anew fiduciary media paid back to them by the old debtors.
+>
+> — Mises, [[human-action|Human Action]], Ch. XVII §11
+
+That distinction — *additional* fiduciary media vs. *re-lending of paid-back* fiduciary media — is what governs the answer. The layered points:
 
 1. **Per-loan view: yes, repayment cancels issuance.** Each loan that gets repaid extinguishes its specific fiduciary-media balance. The mechanism is symmetric on a per-loan basis.
-2. **Aggregate view: depends on bank policy, not arithmetic.** Banks roll over: gross new issuance happens at the same time as gross repayment. The aggregate stock of fiduciary media stays flat, grows, or shrinks purely as a function of the bank's credit policy choice. Empirically banks have grown the stock; the asymmetry is policy, not law.
-3. **The cycle theory operates on flow, not stock.** Even if the aggregate stock is flat year-over-year, this quarter's marginal lending still suppresses the loan rate. The malinvestment mechanism cares about *active* fiduciary-media issuance, not the integral over time. A bank rolling at constant stock is still issuing fiduciary media every quarter and still suppressing rates.
-4. **Halting issuance is the bust mechanism.** If banks ever stop issuing fresh fiduciary media, the natural rate reasserts itself and the longest-duration malinvestments are revealed as unprofitable. That *is* the bust. So "long-run no net expansion" is not a steady-state equilibrium — it is the trigger for the correction. The bank's real long-run options are: (a) keep issuing, in which case the stock grows and in the limit the currency dies in a flight from money; or (b) stop, in which case the cycle's accumulated malinvestments liquidate.
-5. **Even a fully-repaid one-shot loan still misallocates.** During the loan's life, capital was reallocated toward higher-order projects on a falsified rate signal. When the loan is repaid, the *monetary* event is undone but the *real* misallocation isn't. Longer-duration projects funded by the loan may still be in motion when the loan matures; their funding channel evaporates while their resource commitments remain. The repayment cancels the fiduciary media; it does not unwind the structural distortion.
+2. **Aggregate view: depends on bank policy, not arithmetic.** Banks may either re-lend the paid-back balance, expanding net beyond the original stock, or hold the stock flat. The aggregate stock of fiduciary media stays flat, grows, or shrinks purely as a function of the bank's credit policy choice.
+3. **What counts as credit expansion is *net new* fiduciary-media issuance — not gross rollover.** Per the Mises quote above: re-lending fiduciary media that have been paid back to the bank is *not* credit expansion in his sense. Once prices, wages, and interest rates have adjusted to the existing stock of money proper plus fiduciary media, holding that stock flat by rolling matured loans into new ones is no longer a rate-distorting event. The cycle-theory mechanism is reactivated only by *additional* issuance beyond the stock the market has adjusted to.
+4. **Halting net new issuance after a period of growth is what triggers the bust.** During the growth phase, the suppressed rate funded long-duration malinvestments. When net new issuance ceases, the marginal demand for credit at the suppressed rate is no longer being met by fresh fiduciary media; the loan rate begins to reassert toward the natural rate; and the longest-duration projects are revealed as unprofitable. That *is* the bust. The bank's real long-run options after a growth phase are: (a) keep expanding net, in which case the stock grows and in the limit the currency dies in a flight from money; or (b) stop expanding net, in which case the cycle's accumulated malinvestments liquidate.
+5. **Even a fully-repaid one-shot expansion still misallocates.** During the life of the expansion, capital was reallocated toward higher-order projects on a falsified rate signal. When the expansion stops and the eventual repayment cancels the fiduciary-media stock, the *monetary* event is undone but the *real* misallocation isn't. Long-duration projects funded during the expansion may still be in motion when the supporting credit evaporates; their funding channel disappears while their resource commitments remain.
 
-So the elegant short answer is: *yes locally, no globally, and the global "yes" is the bust*. Repayment is not a free unwinding; it is the moment the discipline returns, and the cycle theory predicts that moment is painful in proportion to how long the expansion ran before it stopped.
+So the long-run "every expansion meets a contraction" framing is correct *for a one-shot expansion that gets fully repaid* — but per Mises the cycle-theory complaint is not about net long-run quantities. It is about active *net new* issuance during the expansion phase, which causes the rate suppression and the malinvestment. Stopping net new issuance is the bust mechanism, not an equilibrium escape from the cycle.
 
 ## Measurement
 
