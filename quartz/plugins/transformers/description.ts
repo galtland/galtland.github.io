@@ -28,7 +28,14 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            let frontMatterDescription = file.data.frontmatter?.description
+            // Wiki convention: concept articles set `short:` (1-2 sentence
+            // summary); reference articles set `summary:`. Fall back across
+            // these so OG/Twitter meta description gets the curated text
+            // instead of an auto-extracted body fragment.
+            let frontMatterDescription =
+              (file.data.frontmatter?.description as string | undefined) ??
+              (file.data.frontmatter?.summary as string | undefined) ??
+              (file.data.frontmatter?.short as string | undefined)
             let text = escapeHTML(toString(tree))
 
             if (opts.replaceExternalLinks) {
