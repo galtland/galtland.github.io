@@ -30,6 +30,7 @@
 - [Mises on Credit Expansion](/concepts/mises-on-credit-expansion)
 - [Mises on Minimum Wage](/concepts/mises-on-minimum-wage) — Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 - [Mises on Rent Ceilings](/concepts/mises-on-rent-ceilings)
+- [Monetary Aggregates and Credit Expansion](/concepts/monetary-aggregates-and-credit-expansion)
 - [Nationalism and State Formation](/concepts/nationalism-and-state-formation) — Tilly's treatment of nationalism as both ruler-driven identification with state ends and minority claims to separate statehood, intertwined with direct rule and national-state formation.
 - [Nonaggression and Property Rights](/concepts/nonaggression-and-property-rights) — Normative core of the current corpus: self-ownership, property, contract, and the rule against initiated force — defended on natural-rights grounds by Rothbard and Hoppe and on consequentialist grounds by Mises.
 - [Political Means and Economic Means](/concepts/political-means-and-economic-means) — Oppenheimer's distinction between the economic means of production-and-voluntary-exchange and the political means of coercive appropriation, later adopted by Nock, Rothbard, and Hoppe and empirically illuminated by Tilly's capital/coercion account of European state formation.
