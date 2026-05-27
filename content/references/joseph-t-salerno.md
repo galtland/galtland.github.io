@@ -2,19 +2,16 @@
 title: "Joseph T. Salerno"
 volatility: warm
 category: reference
-sources: []
 created: 2026-05-27
 updated: 2026-05-27
 tags: [salerno, austrian-economics, monetary-theory, tms, mises-institute, pure-time-preference]
 aliases: [Joseph Salerno, Salerno]
-confidence: low
-summary: "Austrian-school monetary economist, longtime Mises Institute academic vice president, professor of economics at Pace University. Best known to this wiki for the 1987 formalization of the True Money Supply (TMS) as a Rothbardian alternative to M1/M2 — see Monetary Aggregates and Credit Expansion."
-ingest_status: stub
+confidence: medium
 ---
 
 # Joseph T. Salerno
 
-> Salerno's role in the current corpus is as the formalizer of the [[monetary-aggregates-and-credit-expansion|Rothbardian True Money Supply (TMS)]] and as the editor of the *Quarterly Journal of Austrian Economics* that has carried much of the current-era Austrian-monetary literature. No primary text by Salerno has been ingested into the corpus yet.
+> Salerno's role in the current corpus is as the formalizer of the [[monetary-aggregates-and-credit-expansion|Rothbardian True Money Supply (TMS)]] and as the editor of the *Quarterly Journal of Austrian Economics* that has carried much of the current-era Austrian-monetary literature. The 1987 TMS paper that operationalizes Rothbard's broad money-supply criterion is now ingested into the corpus.
 
 ## Position in the Austrian tradition
 
@@ -26,13 +23,16 @@ Salerno represents the Mises-Rothbard wing of contemporary Austrian economics, d
 - **Pure-time-preference defense.** Salerno's papers on interest theory (collected in *Money: Sound and Unsound*) defend the Misesian view that interest is the price differential between present and future goods, and that "productivity of capital" explanations confuse cause with effect.
 - **Editorial role.** Salerno has been a long-running editor at the *Quarterly Journal of Austrian Economics* and at the Mises Institute.
 
-## Selected works (not yet ingested)
+## Selected works
 
-- "The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy" (1987) — the TMS paper. Source: https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy
+**Ingested:**
+
+- *"The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy"* (1987), *Austrian Economics Newsletter* Vol. 6 No. 4. Full text in [raw/papers/2026-05-27-the-true-money-supply-salerno-1987.md](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy). The TMS specification cited in [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]].
+
+**Not yet ingested:**
+
 - *Money: Sound and Unsound* (Mises Institute, 2010) — collected papers on money, banking, and interest. Source: https://mises.org/library/book/money-sound-and-unsound
 - "Mises and Hayek Dehomogenized" (1993) — the canonical statement of the Mises-Rothbard vs. Hayek-Kirzner split on calculation. Source: https://mises.org/library/mises-and-hayek-dehomogenized
-
-Ingesting any of the above would convert this stub into a full reference article with verbatim citations.
 
 ## See Also
 
@@ -44,4 +44,4 @@ Ingesting any of the above would convert this stub into a full reference article
 
 ## Sources
 
-No primary Salerno text is ingested in this corpus yet. External pointers above (mises.org URLs) are the canonical hosts for the cited works.
+- [The "True" Money Supply (Salerno 1987) — full text](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy) — Salerno's TMS paper ingested from the Mises Institute PDF. Title page and first paragraph not captured by pdftotext; body and endnotes intact with minor OCR artifacts.

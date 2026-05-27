@@ -82,8 +82,9 @@ When all three signal expansion together — TMS growth, policy rate below long 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Mises on money in the broader sense; Ch. III typology of money-substitutes
 - [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — Ch. 4 "The Inflationary Factors" — Rothbard's broad money-supply definition and the empirical 1921-29 measurement
 - [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) — money outside bank reserves as money supply (Ch. 11 §B); inflation as supply increase beyond specie (Ch. 12 §A)
+- [The Mystery of Banking (Full Text Aggregate)](https://mises.org/library/book/mystery-banking) — Rothbard's accessible book-length treatment of banking, fractional reserves, and the money-supply criterion
+- [The "True" Money Supply (Salerno 1987)](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy) — Salerno's component-by-component TMS specification
 
-External (not yet ingested into the corpus):
+External (not yet ingested):
 
-- Salerno, J. T. (1987). "The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy." *Austrian Economics Newsletter*. https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy — the canonical TMS composition cited in this article.
 - Federal Reserve Statistical Release H.6, "Money Stock Measures." https://www.federalreserve.gov/releases/h6/current/ — the canonical M1 / M2 definitions cited in this article.

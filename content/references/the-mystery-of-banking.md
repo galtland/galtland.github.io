@@ -2,19 +2,17 @@
 title: "The Mystery of Banking"
 volatility: warm
 category: reference
-sources: []
 created: 2026-05-27
 updated: 2026-05-27
 tags: [rothbard, banking, fiduciary-media, fractional-reserves, sound-money, money-supply, 100-percent-reserves]
 aliases: [Mystery of Banking, MOB, Rothbard on banking]
-confidence: low
-summary: "Rothbard's 1983 popular treatment of money, banking, and central banking — the most accessible book-length statement of the 100%-reserve-banking case and the Rothbardian money-supply criterion that Salerno later formalizes as the True Money Supply. Not yet ingested into the corpus."
-ingest_status: stub
+confidence: medium
+summary: "Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, banking, and central banking — the most accessible statement of the 100%-reserve-banking case and the Rothbardian money-supply criterion that Salerno later formalizes as the True Money Supply. Full text now ingested into the corpus (322 pages, ~10.5k lines)."
 ---
 
 # The Mystery of Banking
 
-> *The Mystery of Banking* (1983, second edition 2008) is Rothbard's accessible book-length treatment of money creation, fractional-reserve banking, central banking, and the history of US banking institutions. It is the popular companion to the technical treatment in *[[man-economy-and-state|Man, Economy, and State]]* ([Man, Economy, and State](man-economy-and-state.md)) and the specialized historical work in *[[americas-great-depression|America's Great Depression]]* ([America's Great Depression](americas-great-depression.md)). The book is hosted in full by the Mises Institute and has not yet been ingested into this corpus.
+> *The Mystery of Banking* (1983, second edition 2008) is Rothbard's accessible book-length treatment of money creation, fractional-reserve banking, central banking, and the history of US banking institutions. It is the popular companion to the technical treatment in *[[man-economy-and-state|Man, Economy, and State]]* ([Man, Economy, and State](man-economy-and-state.md)) and the specialized historical work in *[[americas-great-depression|America's Great Depression]]* ([America's Great Depression](americas-great-depression.md)). The full 322-page text is now ingested into the corpus.
 
 ## What the book argues
 
@@ -26,13 +24,13 @@ The book is also the source most often cited for Rothbard's broad money-supply c
 
 The 100%-reserve-banking position the wiki adopts in [[hundred-percent-reserve-banking|100% Reserve Banking]] is most accessibly stated here. Where *[[man-economy-and-state|MES]]* ([Man, Economy, and State](man-economy-and-state.md)) Ch. 11 §B and Ch. 12 §A develop the technical apparatus and *[[americas-great-depression|AGD]]* ([America's Great Depression](americas-great-depression.md)) Ch. 4 applies the broad money-supply criterion to a specific historical episode, *Mystery of Banking* is the integrated narrative version that operators and contributors should send people to as the first reading on the Austrian case against fractional reserves.
 
-The book has not been ingested as full text because (a) MES and AGD already carry the load-bearing claims, and (b) ingesting it would be a separate operator decision. The reference stub is here so cross-links resolve and so future ingest has a target slug.
-
 ## Bibliographic note
 
-- First edition: Richardson & Snyder, 1983.
-- Second edition: Ludwig von Mises Institute, 2008, edited by Douglas E. French; this is the version generally cited and the one available free as a PDF from the Mises Institute.
+- First edition: Richardson & Snyder / Dutton, 1983.
+- Second edition: Ludwig von Mises Institute, 2008 (Douglas E. French sponsorship); this is the version ingested and the one available free as a PDF from the Mises Institute.
+- ISBN (2nd ed.): 978-1-933550-28-2.
 - Source: https://mises.org/library/book/mystery-banking
+- PDF: https://cdn.mises.org/Mystery%20of%20Banking_2.pdf
 
 ## See Also
 
@@ -46,4 +44,4 @@ The book has not been ingested as full text because (a) MES and AGD already carr
 
 ## Sources
 
-The full text has not been ingested. External canonical source: https://mises.org/library/book/mystery-banking
+- [The Mystery of Banking — Full Text Aggregate](https://mises.org/library/book/mystery-banking) — 322-page PDF extracted via pdftotext -raw (~10.5k lines). OCR clean; standard book-front-matter / index artifacts at boundaries.
