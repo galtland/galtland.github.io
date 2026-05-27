@@ -2,11 +2,11 @@
 
 > Austrian-libertarian topic wiki — political philosophy, monetary theory, history, arguments, critics, and policy debates. Published at https://index.galtland.org/.
 
-Last updated: 2026-05-24
+Last updated: 2026-05-27
 
 ## Statistics
 
-- Sources: 74 raw documents
+- Sources: 97 raw documents
 - Articles: 108 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-18
@@ -23,6 +23,8 @@ Last updated: 2026-05-24
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-27: ingest — bulk cypherpunk-canon ingest into `raw/articles/` and `raw/papers/` (22 sources, 23 files). Tier 1 founding manifestos: Tim May *Crypto Anarchist Manifesto* (1988), Eric Hughes *A Cypherpunk's Manifesto* (1993), Tim May *Cyphernomicon* (1994, full ~1.1MB), Satoshi Nakamoto *Bitcoin whitepaper* (2008), John Perry Barlow *Declaration of the Independence of Cyberspace* (1996). Tier 2 Nick Szabo bridge essays: *Shelling Out* (Mengerian origins of money), *Trusted Third Parties Are Security Holes*, *Smart Contracts*, *The God Protocols*, *Bit Gold*, *Money, Blockchains, and Social Scalability*. Tier 3 cryptographic primary papers: Chaum *Blind Signatures* (1982) and *Security Without Identification* (1985), Diffie-Hellman *New Directions in Cryptography* (1976), Adam Back *Hashcash* (2002), Wei Dai *b-money* (1998), Tor design (2004). Tier 4 Austrian/cypherpunk synthesis: Saifedean Ammous *The Bitcoin Standard* and *Principles of Economics* (stubs — commercial books), Pierre Rochard *Speculative Attack*, Allen Farrington *Bitcoin Is Venice*. One stub: Konrad Graf *Are Bitcoins Ownable?* (SNI URLs 404'd — manual retry pending). Extends the wiki from purely Austrian-libertarian into the cypherpunk canon at primary-source depth; the Szabo essays in particular bridge to existing concepts like `regression-theorem`, `austrian-economics`, and `nonaggression-and-property-rights`.
 
 - 2026-05-24: thesis -- added `2026-05-24-imf-sdr-climate-conditionality`; regenerated newsroom indexes and backlinks.
 
