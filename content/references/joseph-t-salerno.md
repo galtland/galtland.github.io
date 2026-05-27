@@ -12,7 +12,7 @@ summary: "Austrian-school monetary economist in the Mises-Rothbard tradition. Au
 
 # Joseph T. Salerno
 
-> Joseph T. Salerno is an Austrian-school monetary economist in the Mises-Rothbard tradition. He is best known for the 1987 formalization of the True Money Supply (TMS) — see [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — and for sustained essay-form work defending Mises-Rothbard monetary theory against rival frameworks, collected in *Money, Sound and Unsound* (2010).
+> Joseph T. Salerno is an Austrian-school monetary economist in the Mises-Rothbard tradition. Professor of Economics at the Lubin Graduate School of Business, Pace University. Best known for the 1987 formalization of the True Money Supply (TMS) — see [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — for the 1993 dehomogenization argument distinguishing the Mises and Hayek paradigms within contemporary Austrian economics, and for sustained essay-form work collected in *Money, Sound and Unsound* (2010).
 
 ## Principal contributions
 
@@ -27,20 +27,22 @@ summary: "Austrian-school monetary economist in the Mises-Rothbard tradition. Au
 
 ## Position in the Austrian tradition
 
-Salerno places himself in the Mises-Rothbard wing of contemporary Austrian economics, against the Hayek-Kirzner wing on at least one explicit axis: the dispersed-knowledge framing of the socialist-calculation debate. In *Money, Sound and Unsound* Ch. 8 ("Mises on Inflation and Expectations") he treats this divergence with a direct pointer to his 1993 paper "Mises and Hayek Dehomogenized" as the canonical statement of the split. The application of the Mises-Rothbard calculation frame to a concrete historical case appears in Ch. 19 on the ex-communist transitions: sound money, private property, and free exchange are jointly necessary for monetary calculation. The "Dehomogenized" paper itself is not yet ingested here; Ch. 8's pointer is the indirect route until it is.
+Salerno's "Mises and Hayek Dehomogenized" (1993) is the canonical statement of his positioning argument: contemporary Austrian economics encompasses *two distinct paradigms*, not one, and the post-1970s revival conflated them. The paradigms diverge on multiple axes:
 
-Pure-time-preference theory of interest — sometimes used in the secondary literature as a Salerno-vs-Kirzner discriminator — is *not* a clean discriminator in Salerno's own text. Ch. 9 of *Money, Sound and Unsound* references PTPT and cites Kirzner approvingly as a defender alongside Rothbard, Mises, and Garrison. So the positioning, if asserted, must come from a different axis than PTPT.
+- **Source lineage.** The Mises paradigm develops Böhm-Bawerk. The Hayek paradigm develops Wieser.
+- **Equilibrium and the market process.** The Mises paradigm treats equilibrium as an analytical construct used to isolate the entrepreneurial-profit residual; the Hayek paradigm treats the market as a coordinating process whose informational properties are the central object of study.
+- **The socialist-calculation debate.** The Mises paradigm rests on the impossibility of *monetary calculation* without private ownership of the means of production. The Hayek paradigm rests on the impossibility of *centralized aggregation of dispersed knowledge*. Salerno argues these are distinct (not equivalent) impossibility arguments.
+- **Modern carriers.** Salerno names Israel M. Kirzner as the principal carrier of the Hayekian paradigm in modern Austrian economics, with the modern free-banking school via Lawrence H. White as a macroeconomic outgrowth on the same trunk. The Mises-Rothbard line is the alternative carrier.
+
+The 1993 paper is explicit about what it does *not* claim: the paradigms are not opposed in their conclusions on most policy questions, and Kirzner's and White's work is acknowledged as excellent within the Hayekian paradigm. The objection is to *homogenization* — attributing Hayekian positions to Mises and reading Mises through Wieserian/Kirznerian lenses.
+
+*Money, Sound and Unsound* Ch. 8 ("Mises on Inflation and Expectations") cites this 1993 paper directly when it traces the divergence in monetary contexts; Ch. 19 ("Beyond Calculational Chaos") applies the Mises-Rothbard calculation frame to the post-communist transition. Pure-time-preference theory of interest — sometimes used in the secondary literature as a discriminator between the two paradigms — is *not* a clean discriminator in Salerno's own text: Ch. 9 references PTPT and cites Kirzner approvingly as a defender alongside Rothbard, Mises, and Garrison.
 
 ## Selected works
 
-**Ingested:**
-
 - *"The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy"* (1987), *Austrian Economics Newsletter* Vol. 6 No. 4 — also reprinted as Ch. 3 of *Money, Sound and Unsound*. Full text in [raw/papers/2026-05-27-the-true-money-supply-salerno-1987.md](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy). The TMS specification cited in [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]].
-- *Money, Sound and Unsound* (Ludwig von Mises Institute, 2010) — 646-page collected essays (26 chapters across 5 parts). Full text in [raw/articles/2026-05-27-money-sound-and-unsound-salerno-full-text.md](https://mises.org/library/book/money-sound-and-unsound). The broad monetary corpus this reference page draws on.
-
-**Not yet ingested:**
-
-- "Mises and Hayek Dehomogenized" (1993) — the canonical standalone statement of the Mises-Rothbard vs. Hayek-Kirzner split on the role of monetary calculation in the socialist-calculation debate. Source: https://mises.org/library/mises-and-hayek-dehomogenized. *Money, Sound and Unsound* Ch. 8 footnotes this paper as the dehomogenization source; Ch. 19 then applies the calculation frame to post-communist monetary reform.
+- "Mises and Hayek Dehomogenized" (1993), *Review of Austrian Economics* Vol. 6 No. 2 (originally in *A Man of Principle: Essays in Honor of Hans F. Sennholz*, Grove City College Press, 1992). Full text in [raw/papers/2026-05-27-mises-and-hayek-dehomogenized-salerno-1993.md](https://mises.org/library/mises-and-hayek-dehomogenized). The canonical statement of the Mises-paradigm-vs-Hayek-paradigm argument summarized in "Position in the Austrian tradition" above.
+- *Money, Sound and Unsound* (Ludwig von Mises Institute, 2010) — 646-page collected essays (26 chapters across 5 parts). Full text in [raw/articles/2026-05-27-money-sound-and-unsound-salerno-full-text.md](https://mises.org/library/book/money-sound-and-unsound). The broad monetary corpus that grounds the principal-contributions section.
 
 ## See Also
 
@@ -53,4 +55,5 @@ Pure-time-preference theory of interest — sometimes used in the secondary lite
 ## Sources
 
 - [The "True" Money Supply (Salerno 1987) — full text](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy) — Salerno's TMS paper ingested from the Mises Institute PDF. Title page and first paragraph not captured by pdftotext; body and endnotes intact with minor OCR artifacts.
+- [Mises and Hayek Dehomogenized (Salerno 1993) — full text](https://mises.org/library/mises-and-hayek-dehomogenized) — 34-page paper from *Review of Austrian Economics* Vol. 6 No. 2. OCR clean. The canonical paradigmatic-split paper.
 - [Money, Sound and Unsound (Salerno 2010) — full text](https://mises.org/library/book/money-sound-and-unsound) — 646-page collected essays. OCR clean. Reprints the 1987 TMS paper as Ch. 3; the rest of the collection covers monetary theory, inflation/deflation/depression, the gold standard, applications, and commentary.
