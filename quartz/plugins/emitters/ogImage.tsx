@@ -22,7 +22,7 @@ const defaultOptions: SocialImageOptions = {
 }
 
 /**
- * Generates social image (OG/twitter standard) and saves it as `.webp` inside the public folder
+ * Generates social image (OG/twitter standard) and saves it as `.png` inside the public folder
  * @param opts options for generating image
  */
 async function generateSocialImage(
@@ -158,7 +158,12 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
               : undefined
             const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
-            const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
+            // getFileExtension returns the extension with the leading dot
+            // (e.g., ".png"), so strip it before interpolating into the MIME
+            // type — otherwise og:image:type emits "image/.png" instead of
+            // "image/png", which some social-preview parsers reject.
+            const ogImageExt = getFileExtension(ogImagePath)?.replace(/^\./, "") ?? "png"
+            const ogImageMimeType = `image/${ogImageExt}`
             return (
               <>
                 {!userDefinedOgImagePath && (

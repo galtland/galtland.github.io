@@ -32,10 +32,24 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             // summary); reference articles set `summary:`. Fall back across
             // these so OG/Twitter meta description gets the curated text
             // instead of an auto-extracted body fragment.
-            let frontMatterDescription =
-              (file.data.frontmatter?.description as string | undefined) ??
-              (file.data.frontmatter?.summary as string | undefined) ??
-              (file.data.frontmatter?.short as string | undefined)
+            //
+            // Runtime-guard for unknown values: frontmatter is typed as
+            // `{ [key: string]: unknown }`, so a non-string value (number,
+            // array, mis-typed YAML) would crash the downstream `.replace`
+            // call. Pick the first non-empty *string* across the chain;
+            // anything else falls through to the auto-extracted body text.
+            const fm = file.data.frontmatter
+            const firstNonEmptyString = (...vals: unknown[]) => {
+              for (const v of vals) {
+                if (typeof v === "string" && v.length > 0) return v
+              }
+              return undefined
+            }
+            let frontMatterDescription = firstNonEmptyString(
+              fm?.description,
+              fm?.summary,
+              fm?.short,
+            )
             let text = escapeHTML(toString(tree))
 
             if (opts.replaceExternalLinks) {
