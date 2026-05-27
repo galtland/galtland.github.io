@@ -6,7 +6,7 @@ created: 2026-05-27
 updated: 2026-05-27
 tags: [mises, rothbard, tms, m2, money-supply, credit-expansion, monetary-aggregates, abct, measurement]
 aliases: [True Money Supply, TMS, M2 vs TMS, measuring credit expansion, money supply definition]
-short: "Austrian-monetary-theory measurement: M2 mixes fiduciary media with non-inflationary commodity-credit so it overstates credit expansion; Rothbard's True Money Supply (TMS), refined by Salerno, is the theoretically clean aggregate; central-bank policy rates are an input not a measure; sectoral asymmetry is the structural diagnostic."
+short: "Austrian-monetary-theory measurement: M2's time-deposit and money-fund components contaminate the cycle-theory signal with non-inflationary commodity-credit; Rothbard's broad money-supply criterion (AGD Ch. 4), refined by Salerno's 1987 True Money Supply (TMS), is the cleaner Austrian aggregate; central-bank policy rates are an input not a measure; sectoral asymmetry is the structural diagnostic."
 ---
 
 # Monetary Aggregates and Credit Expansion
@@ -19,28 +19,30 @@ short: "Austrian-monetary-theory measurement: M2 mixes fiduciary media with non-
 - **Money-certificates** (100%-covered substitutes; warehouse receipts)
 - **Fiduciary media** (uncovered substitutes — the inflation-relevant subtype)
 
-A correct Austrian aggregate adds all of these and excludes anything that is not actually held as money. The natural target is *fiduciary media plus money proper plus money-certificates outside bank reserves*. The fight in monetary statistics is about where to draw the line on what counts as a money-substitute.
+A correct Austrian aggregate counts money proper outside bank reserves plus money-substitutes held by the public, with cover *not* double-counted (the specie sitting behind money-certificates is already inside the money-proper figure — see the accounting rule in [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]]). The fight in monetary statistics is about where to draw the line on what counts as a money-substitute.
 
 ## M2 — the standard aggregate, theoretically muddled
 
-M2 includes currency, demand deposits, savings deposits at commercial banks, small-denomination time deposits, and retail money-market mutual fund shares. It is widely available, official, and standardized.
+M2 (per the Fed's H.6 statistical release) is M1 plus small-denomination time deposits and retail money-market funds. M1 itself is currency in circulation plus demand deposits plus other liquid deposits (other checkable deposits + savings deposits at depository institutions). M2 is widely available, official, and standardized.
 
 The problem for Austrian use is that M2 lumps two categorically different things:
 
-- **Fiduciary media** (demand deposits) — uncovered bank-issued claims, exactly what [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] targets.
-- **Commodity-credit instruments** (time deposits, small CDs, MMMFs) — these represent savings transferred to a borrower via the bank, which by Mises's [[credit-and-deferred-payment|Credit and Deferred Payment]] distinction is *not* inflationary. The saver gives up present-good claims; nothing is created out of nothing.
+- **Fiduciary media** (demand deposits, other checkable deposits) — uncovered bank-issued claims, exactly what [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] targets.
+- **Commodity-credit instruments** (small-denomination time deposits / small CDs, retail MMMFs) — these represent savings transferred to a borrower via the bank or fund, which by Mises's [[credit-and-deferred-payment|Credit and Deferred Payment]] distinction is *not* inflationary in the same sense. The saver gives up present-good claims; the lender does not create money out of nothing.
 
-A surge in M2 driven by Americans moving savings from mattresses to bank CDs would register as M2 growth without any fiduciary-media expansion. A surge driven by banks issuing new demand-deposit credit is the cycle-theory event. M2 can't tell those apart. As an indicator: usable for trend signal, theoretically noisy as a level.
+A surge in M2 driven by households moving cash from currency holdings into small CDs would re-shuffle composition without expanding fiduciary media — fiduciary-media expansion is the cycle-theory event, and the M2 level can move from non-cycle causes too. M2 is usable as a trend indicator, theoretically noisy as a level reading of cycle pressure.
 
 ## Rothbard's True Money Supply — the cleaner Austrian aggregate
 
-Rothbard argued in [[americas-great-depression|America's Great Depression]] Ch. 4 "The Inflationary Factors" that the right test is whether an instrument is "redeemable in cash on demand," whatever its formal label. By that test he included not just demand deposits but also time deposits, savings-and-loan shares, credit-union shares, and cash surrender values of life insurance — because in practice all are redeemable on demand even where notice is formally required.
+Rothbard argued in [[americas-great-depression|America's Great Depression]] Ch. 4 "The Inflationary Factors" that the test is whether an instrument is treated as convertible into cash on demand, whatever its formal label. By that test he included not just demand deposits but also time deposits, savings-and-loan shares, credit-union shares, and cash surrender values of life insurance — because in practice all are redeemable on demand even where notice is formally required.
 
-> if we concede the inclusion of time deposits in the money supply, even broader vistas are opened to view. For then all claims convertible into cash on demand constitute a part of the money supply, and swell the money supply whenever cash reserves are less than 100 percent.
+> But if we concede the inclusion of time deposits in the money supply, even broader vistas are opened to view. For then all claims convertible into cash on demand constitute a part of the money supply, and swell the money supply whenever cash reserves are less than 100 percent.
 >
 > — Rothbard, [[americas-great-depression|America's Great Depression]], Ch. 4
 
-[[joseph-t-salerno|Joseph T. Salerno]] later formalized this in his 1987 paper as the **True Money Supply (TMS)**: currency in circulation outside banks + demand deposits + U.S. government demand deposits at the Fed and at commercial banks + savings deposits at commercial banks, *excluding* money-market mutual funds and retail repurchase agreements (these are debt instruments / investment vehicles, not money-substitutes). TMS targets fiduciary media specifically and is the aggregate Austrian economists generally cite when arguing the cycle-theory empirically. The Mises Institute publishes a TMS series; the Federal Reserve does not. The more popular treatment of the underlying money-supply criterion appears in [[the-mystery-of-banking|The Mystery of Banking]].
+[[joseph-t-salerno|Joseph T. Salerno]] later refined this in his 1987 paper *"The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy"* as the **True Money Supply (TMS)**: currency in circulation outside bank vaults + demand deposits + other checkable deposits + U.S. government demand deposits at the Fed and at commercial banks + savings deposits at commercial banks + certain foreign official and commercial-bank demand deposits held in the U.S. Salerno *excludes* money-market mutual funds, term repurchase agreements, and small-denomination time deposits and CDs — treating these as loans to banks rather than money-substitutes, a deliberate narrowing of Rothbard's AGD-era criterion which had included time deposits on the de-facto-redeemable argument. Salerno's 1987 specification does include overnight RPs.
+
+TMS captures the total medium of exchange — money proper plus money-substitutes held by the public — rather than the fiduciary-media subset specifically. The *use case* for which Austrian economists deploy TMS is the cycle-theory diagnostic, where fiduciary-media expansion is what matters; TMS is preferred over M2 there because it excludes the small-time-deposit, money-fund, and term-repo components that contaminate M2 with commodity-credit savings. The Mises Institute publishes a TMS series; the Federal Reserve does not. The popular book-length treatment of the underlying money-supply criterion appears in [[the-mystery-of-banking|The Mystery of Banking]].
 
 ## Why central-bank policy rates are an input, not a measure
 
@@ -57,7 +59,7 @@ Worse, the natural rate of interest is unobservable. So the theoretical test "is
 No single number captures Austrian credit expansion. A working triangulation:
 
 1. **TMS** (or M1 if TMS unavailable) — the stock proxy for broader-sense money. M2 is acceptable as a trend indicator with the noise caveat above.
-2. **Policy rate vs long-term real yield** — proxy for the natural-rate gap. Persistent suppression is the predictor.
+2. **Policy rate vs long-term real yield** — a rough heuristic for the natural-rate gap, not a direct natural-rate proxy (the natural rate is unobservable; long-term real yields are themselves shaped by policy and term premia). Persistent suppression is the predictor.
 3. **Sectoral asymmetry** — the structural signature. Capital-goods vs consumer-goods activity ratios, construction and heavy-machinery sector employment vs services, yield-curve shape signalling where the lengthened production structure is concentrated.
 
 When all three signal expansion together — TMS growth, policy rate below long real yields, sectoral skew toward higher-order goods — the cycle theory's preconditions are present. When one signals and the others don't, you have ambiguous data, not a confirmed cycle.
@@ -80,3 +82,8 @@ When all three signal expansion together — TMS growth, policy rate below long 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Mises on money in the broader sense; Ch. III typology of money-substitutes
 - [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — Ch. 4 "The Inflationary Factors" — Rothbard's broad money-supply definition and the empirical 1921-29 measurement
 - [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) — money outside bank reserves as money supply (Ch. 11 §B); inflation as supply increase beyond specie (Ch. 12 §A)
+
+External (not yet ingested into the corpus):
+
+- Salerno, J. T. (1987). "The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy." *Austrian Economics Newsletter*. https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy — the canonical TMS composition cited in this article.
+- Federal Reserve Statistical Release H.6, "Money Stock Measures." https://www.federalreserve.gov/releases/h6/current/ — the canonical M1 / M2 definitions cited in this article.
