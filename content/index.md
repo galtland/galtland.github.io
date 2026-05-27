@@ -1,0 +1,74 @@
+# Libertarian Index
+
+> Topic wiki for libertarian political philosophy, history, arguments, critics, and policy debates.
+
+Last updated: 2026-05-24
+
+## Statistics
+
+- Sources: 74 raw documents
+- Articles: 108 compiled wiki articles
+- Outputs: 1 generated artifacts
+- Last compiled: 2026-05-18
+- Last lint: 2026-05-18 (post-NATO news-lens)
+
+## Quick Navigation
+
+- [All Sources](raw/_index.md)
+- [Concepts](concepts/)
+- [Topics](topics/)
+- [References](references/)
+- [Theses](theses/)
+- [Outputs](output/_index.md)
+- [Projects](output/projects/_index.md)
+
+## Recent Changes
+
+- 2026-05-24: thesis -- added `2026-05-24-imf-sdr-climate-conditionality`; regenerated newsroom indexes and backlinks.
+
+- 2026-05-18: news-lens — re-filed NATO 3.5%-floor news post under the 2026-05-18 slug; wrote new endorse-stance thesis `2026-05-18-nato-defense-spending-floor-protection-racket` (prior `2026-05-16-…` and `2026-05-17-…` index references had no on-disk files) plus rewrote focused `tilly-on-protection-rackets` and `rothbard-on-war-and-the-state` concept articles as X-thread citation targets; updated five stale See-Also references from the 2026-05-16 slug to the new 2026-05-18 slug across `war-and-state-formation`, `state-power-and-intervention`, `political-means-and-economic-means`, `references/anatomy-of-the-state`, and `references/war-making-and-state-making-as-organized-crime`.
+- 2026-05-18: ingest — two NATO primary-source documents → `raw/articles/`. The 1949 *North Atlantic Treaty* (Washington, 4 April 1949) supplies Article 3 ("continuous and effective self-help and mutual aid") as the treaty-level spending hook, plus Article 5 collective defense; the 2014 *Wales Summit Declaration* (5 September 2014) supplies paragraph 14, the Defence Investment Pledge, which is the textual origin of the 2% of GDP guideline ("aim to move towards the 2% guideline within a decade") and the 20% major-equipment guideline. Closes the news-lens-flagged gap on post-1949 Atlantic-alliance treaty mechanics — the historical sequence from Article 3 to Wales ¶14 to the May 2026 raise.
+- 2026-05-18: ingest — OECD (2018), *The Role and Design of Net Wealth Taxes in the OECD*, Tax Policy Studies No. 26 → `raw/papers/`. Metadata stub plus partial full-text aggregate (Foreword, Executive Summary, Ch. 1 overview/repeal-sequence, Ch. 5 conclusions). Closes the news-lens-flagged gap on the post-1990 European net wealth tax repeal sequence: Austria 1994, Denmark 1997, Germany 1997, Netherlands 2001, Finland/Iceland/Luxembourg 2006, Sweden 2007, France's 1 January 2018 ISF→IFI conversion; 12 → 4 OECD countries levying individual net wealth taxes between 1990 and 2017.
+- 2026-05-18: news-lens — re-filed EU wealth-tax directive news post under the 2026-05-18 slug; wrote new critique-stance thesis `2026-05-18-eu-wealth-tax-directive-capital-consumption` (the pre-existing `2026-05-17-…` index reference had no on-disk file) plus focused `rothbard-on-wealth-tax` and `mises-on-capital-consumption` concept articles as X-thread citation targets; updated five stale See-Also references in `state-power-and-intervention`, `political-means-and-economic-means`, `references/power-and-market`, `references/liberalism`, `references/democracy-the-god-that-failed`, and `theses/state-as-parasite-thesis` from the 2026-05-17 slug to the 2026-05-18 slug.
+- 2026-05-18: news-lens — re-filed fourth Argentina rent-decontrol news post under the 2026-05-18 slug; reused the existing `argentina-rent-decontrol-2023` thesis (rewrote thesis body and focused `mises-on-rent-ceilings` and `rothbard-on-price-controls` concept articles, which were stale-indexed but missing on disk in the trial wiki) as X-thread citation targets.
+- 2026-05-17: news-lens — re-filed third Argentina rent-decontrol news post under the 2026-05-17 slug; reused the existing `argentina-rent-decontrol-2023` thesis (rewrote thesis body, which was stale-indexed but missing on disk in the trial wiki), pointing at the existing focused `mises-on-rent-ceilings` and `rothbard-on-price-controls` concept articles as X-thread citation targets.
+- 2026-05-17: news-lens — re-filed May 2026 Fed rate-cut news post under the 2026-05-17 slug; wrote new endorse-stance thesis `2026-05-17-fed-may-2026-rate-cut-abct` (the pre-existing `2026-05-16-…` index reference had no on-disk file); wrote focused `mises-on-credit-expansion` and `rothbard-on-fed-induced-boom` concept articles as X-thread citation targets; updated the ABCT concept See Also pointer.
+- 2026-05-17: news-lens — filed EU wealth-tax directive news post and wrote critique-stance thesis `2026-05-17-eu-wealth-tax-directive-capital-consumption`; added focused `rothbard-on-wealth-tax` and `mises-on-capital-consumption` concept articles as X-thread citation targets; added reciprocal See Also backlinks on the cited concept and sister focused articles.
+- 2026-05-16: news-lens — filed NATO defense-spending-floor news post and wrote endorse-stance thesis `2026-05-16-nato-defense-spending-floor-protection-racket`; added focused `tilly-on-protection-rackets` and `rothbard-on-war-and-the-state` concept articles as X-thread citation targets; added reciprocal See Also backlinks on the cited concept, reference, and thesis pages.
+- 2026-05-16: ingest+compile — split Rothbard's *Power and Market: Government and the Economy* (1970) out of the combined MES + P&M aggregate. New raw full-text file `raw/articles/2026-05-16-power-and-market-government-and-economy-full-text.md` (7 chapters + bibliography, ~683 KB) extracted from the Mises online-book HTML export; new reference page `wiki/references/power-and-market.md`; updated dual-link citations in `rothbard-on-price-controls` and the `argentina-rent-decontrol-2023` thesis; updated raw/articles and references indexes.
+- 2026-05-16: news-lens — filed ECB digital-euro launch news post and wrote endorse-stance thesis `2026-05-16-digital-euro-launch-cbdc-total-intervention`; added focused `hillebrand-on-cbdcs` concept article as X-thread citation target; added reciprocal See Also backlinks on the cited concept, reference, and topic pages.
+- 2026-05-16: news-lens — filed May 2026 Fed rate-cut news post and wrote endorse-stance thesis `2026-05-16-fed-may-2026-rate-cut-abct`; added focused `mises-on-credit-expansion` and `rothbard-on-fed-induced-boom` concept articles as X-thread citation targets; added 16 reciprocal See Also backlinks on the cited concept, reference, and topic pages.
+- 2026-05-16: news-lens — re-filed Argentina rent-decontrol news post under the 2026-05-16 slug, reused the existing `argentina-rent-decontrol-2023` thesis, and added focused `mises-on-rent-ceilings` and `rothbard-on-price-controls` concept articles as X-thread citation targets; updated reciprocal See Also entries on the broad concept and reference pages.
+- 2026-05-12: news-lens — filed Argentina rent-decontrol news post and wrote endorse-stance thesis `argentina-rent-decontrol-2023`; added reciprocal See Also entries across 16 cited articles; regenerated indexes.
+- 2026-05-12: Closed four knowledge gaps with 10 new full-text raw aggregates, one expanded Tilly aggregate, 22 new compiled articles, the updated thesis, regenerated indexes, and a clean bidirectional See Also graph.
+- 2026-05-10: Ingested and compiled Tilly 1985, Arendt *Eichmann in Jerusalem*, and Solzhenitsyn *The Gulag Archipelago*: 3 new raw full-text sources, 6 new articles, and 11 updated articles for protection-racket sociology, banality of evil, total domination, and Gulag documentation.
+- 2026-05-10: Ingested and compiled Hannah Arendt, *The Origins of Totalitarianism*: 1 new raw full-text source, 4 new articles, and 8 updated articles for totalitarianism, mass society, and state-critique links.
+- 2026-05-10: Ingested and compiled Charles Tilly, *Coercion, Capital, and European States* partial UCSD scan: 1 new raw source, 3 new articles, and 6 updated articles for war-and-state-formation, capital/coercion, and state-evolution links.
+- 2026-05-10: Upgraded Hoppe's *Democracy: The God That Failed* from bibliographic stub to full-text Internet Archive OCR source; source count unchanged at 47; refreshed the reference and downstream regime-theory articles.
+- 2026-05-10: Ingested and compiled Oppenheimer, Nock, and Hoppe state-evolution sources: 3 new raw sources, 7 new articles, and 8 updated articles for historical state formation, political/economic means, consent, regime comparison, and backlinks.
+- 2026-05-10: Compiled Lowery's *Softwar* into 4 new articles: `softwar`, `jason-lowery`, `power-projection`, and `abstract-power-hierarchies`. Updated `praxeology-of-privacy`, `state-power-and-intervention`, `privacy-and-cryptography`, `the-praxeology-of-privacy`, `nonaggression-and-property-rights`, `market-anarchism-and-private-law`, and `resistance-axiom` for source integration and reciprocal links.
+- 2026-05-10: Ingested Major Jason Lowery, *Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin* (MIT SDM thesis, CC BY 4.0), adding the national-security/proof-of-work power-projection lens to the Bitcoin and abstract-authority thread.
+- 2026-05-10: Compiled Nietzsche and Hillebrand ingests into 6 new articles: `thus-spake-zarathustra-the-new-idol`, `the-praxeology-of-privacy`, `max-hillebrand`, `praxeology-of-privacy`, `resistance-axiom`, and `privacy-and-cryptography`. Updated `state-power-and-intervention`, `praxeology`, `nonaggression-and-property-rights`, `austrian-economics`, `hans-hermann-hoppe`, and `ludwig-von-mises` for cross-references and source integration.
+- 2026-05-10: Ingested Nietzsche, *Thus Spake Zarathustra* Pt. I Ch. XI "The New Idol" (Thomas Common trans., 1909, Project Gutenberg #1998), and Max Hillebrand, *The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation* (public-domain v0.2.0, official Towards Liberty EPUB/PDF). Nietzsche adds a pre-libertarian state-as-monster primary source; Hillebrand extends the praxeology-of-privacy, Bitcoin, and cypherpunk implementation thread.
+- 2026-05-09: Ingested Mises, *The Theory of Money and Credit* (1912 German; 1934 English trans. by H. E. Batson; 1953 Yale "new edition" with *Monetary Reconstruction* essay). The 500-page PDF contains the original 1912 statement of the present-good-for-future-good definition of credit ("If credit in the economic sense means the exchange of a present good or a present service against a future good or a future service…"), closing the documented gap behind the `credit-and-deferred-payment` concept article. The article should now be re-compiled to cite TMC directly instead of via Hoppe's quotation.
+- 2026-05-09: Added `credit-and-deferred-payment` concept article — present-good-for-future-good definition from MES, "credit transactions and deferred payments" from *Human Action*, and book/commercial credit from Hayek's *Prices and Production*. Closes the previously-flagged gap between Austrian credit definition and folk usage and supplies the foundational definition that the existing `austrian-business-cycle-theory` article presupposes.
+- 2026-05-06: Ingested Rothbard, *America's Great Depression* (1963; Mises Institute 5th ed., 2000, 411 pp); wrote a reference article and a historical-application section in the austrian-business-cycle-theory concept article. The wiki now has the canonical Austrian reading of 1929–1933.
+- 2026-05-06: Ingested Molinari, *The Production of Security* (1849; Mises Institute 2009 reprint with Rothbard preface, 66 pp); wrote a reference article and positioned it as the 19th-century origin in the private-security-and-insurance and market-anarchism-and-private-law concept articles.
+- 2026-05-05: Compiled 14 new articles (10 references, 4 concepts) from 8 newly-ingested books — Mises (Human Action, Socialism, Liberalism, Theory and History), Hayek (Road to Serfdom, Individualism and Economic Order, Prices and Production), plus a new reference article for Rothbard's Ethics of Liberty (full text added 2026-05-04)
+- 2026-05-05: Updated topic articles (austrian-economics, libertarianism) and concept articles (state-power-and-intervention, nonaggression-and-property-rights) with the new sources and cross-references
+- 2026-05-05: Added new author reference articles for Ludwig von Mises and F. A. Hayek
+- 2026-05-05: Ingested 7 Mises and Hayek books from cdn.mises.org PDFs
+- 2026-05-04: Normalized split between metadata files and full-text aggregates
+- 2026-05-04: Ingested The Ethics of Liberty full text from the cdn.mises.org PDF
+- 2026-04-25: Added 8 dedicated book reference articles from existing full-text ingests
+- 2026-04-25: Added `hans-hermann-hoppe` reference article and linked Hoppe mentions across compiled pages
+- 2026-04-22: Added `private-security-and-insurance` article from market-anarchist security sources
+- 2026-04-22: Added `sales-tax-incidence` article from Rothbard and Hoppe tax-incidence sources
+- 2026-04-21: Fully recompiled article graph from 20 sources into 8 wiki articles
+- 2026-04-21: Added 8 additional full-text book ingests and retained prior full-text aggregates
+- 2026-04-21: Added full-text aggregate for For a New Liberty
+- 2026-04-21: Expanded Man, Economy, and State into a full-book aggregate
+- 2026-04-21: Ingested Man, Economy, and State
+- 2026-04-21: Ingested 10 Mises libertarian book pages
+- 2026-04-21: Generated Mises Institute libertarian books list
+- 2026-04-21: Initialized topic wiki
