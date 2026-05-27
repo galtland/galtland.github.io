@@ -8,6 +8,7 @@ tags: [nick-szabo, cypherpunk, smart-contracts, bit-gold, austrian-economics, pr
 aliases: [Szabo]
 confidence: high
 summary: "Nick Szabo is the most directly Austrian figure in the cypherpunk source set: his work connects Mengerian monetary origins, Misesian regression-theorem concerns, smart contracts, trusted-third-party minimization, Bit Gold, and Bitcoin-era social scalability."
+short: "Computer scientist and legal theorist whose work bridges Austrian monetary theory and cypherpunk protocol design: smart contracts, Bit Gold, Shelling Out, social scalability."
 ---
 
 # Nick Szabo

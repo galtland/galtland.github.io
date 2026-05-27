@@ -65,6 +65,7 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 - [[friedrich-a-hayek|F. A. Hayek]] - sibling Austrian author on monetary theory
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - later Misesian who quotes TMC in EEPP
 - [[shelling-out|Shelling Out]] - Szabo's cypherpunk bridge from Mengerian monetary origins to prehistoric collectibles
+- [[nick-szabo|Nick Szabo]] - cypherpunk author whose Shelling Out extends TMC's regression-theorem premise into pre-coinage material culture
 
 ## Sources
 

@@ -8,6 +8,7 @@ tags: [bitcoin, satoshi-nakamoto, proof-of-work, digital-cash, cypherpunk, peer-
 aliases: [Bitcoin: A Peer-to-Peer Electronic Cash System, Bitcoin paper, Satoshi whitepaper]
 confidence: high
 summary: "The 2008 Bitcoin whitepaper proposes peer-to-peer electronic cash by combining digital signatures, public transaction ordering, and hash-based proof of work. Its 12 sections define the double-spending solution, network process, incentives, verification model, privacy limits, and attack calculations."
+short: "Satoshi's 2008 paper: peer-to-peer electronic cash combining digital signatures, public transaction ordering, and hash-based proof of work to solve double-spending without trusted intermediaries."
 ---
 
 # Bitcoin Whitepaper

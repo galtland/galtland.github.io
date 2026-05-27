@@ -24,15 +24,20 @@ const urlRegex = new RegExp(
  * Local fork of Quartz's Description transformer (quartz/plugins/transformers/description.ts).
  *
  * Diverges from upstream on one point: the frontmatter lookup walks a chain
- * of `description` → `summary` → `short`, returning the first non-empty
- * string. The Galtland wiki convention sets `short:` on concept articles
- * and `summary:` on reference articles; neither is the upstream-default
- * `description:` field, so upstream's lookup would always miss them and fall
- * back to auto-extracting the first ~150 chars of body text. The fallback
- * also includes a runtime type guard (typeof === "string"), so non-string
- * frontmatter values (numbers, arrays, mis-typed YAML) silently fall through
- * to the body-text extraction instead of crashing the downstream `.replace`
- * call.
+ * of `short` → `description` → `summary`, returning the first non-empty
+ * string. The Galtland wiki convention is that `short:` is the curated
+ * 1-2 sentence OG/Twitter preview text, deliberately tighter than the
+ * structured `summary:` (which is used by `_index.md` rows and tends
+ * toward 2-3 sentences). `description:` is the upstream-default
+ * Quartz field — kept second so a Quartz-native author can still set
+ * `description:` if they want, and so articles missing both `short` and
+ * `description` fall back to the longer `summary:` instead of an
+ * auto-extracted body fragment.
+ *
+ * The fallback includes a runtime type guard (typeof === "string"), so
+ * non-string frontmatter values (numbers, arrays, mis-typed YAML) silently
+ * fall through to the body-text extraction instead of crashing the
+ * downstream `.replace` call.
  *
  * Re-check against upstream on every Quartz upgrade.
  */
@@ -44,10 +49,15 @@ export const DescriptionWithFallbacks: QuartzTransformerPlugin<Partial<Options>>
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            // Wiki convention: concept articles set `short:` (1-2 sentence
-            // summary); reference articles set `summary:`. Fall back across
-            // these so OG/Twitter meta description gets the curated text
-            // instead of an auto-extracted body fragment.
+            // Wiki convention: `short:` is the curated OG/Twitter preview
+            // text — 1-2 tight sentences. `description:` is upstream Quartz's
+            // own field, honored second so Quartz-native authors can still
+            // use it. `summary:` is the wiki's structured 2-3-sentence index
+            // row text, used as the final fallback. This order means social-
+            // preview cards prefer the punchy `short:` when present, and
+            // articles missing both `short:` and `description:` still get
+            // the curated `summary:` rather than an auto-extracted body
+            // fragment.
             //
             // Runtime-guard for unknown values: frontmatter is typed as
             // `{ [key: string]: unknown }`, so a non-string value (number,
@@ -62,9 +72,9 @@ export const DescriptionWithFallbacks: QuartzTransformerPlugin<Partial<Options>>
               return undefined
             }
             let frontMatterDescription = firstNonEmptyString(
+              fm?.short,
               fm?.description,
               fm?.summary,
-              fm?.short,
             )
             let text = escapeHTML(toString(tree))
 

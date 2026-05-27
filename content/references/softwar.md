@@ -44,6 +44,7 @@ The confidence level is medium because the source is a completed MIT thesis and 
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for Bitcoin, privacy, proof-of-work, and resistance
 - [[proof-of-work|Proof of Work]] - Hashcash-to-Bitcoin cost-function lineage underlying Lowery's power-projection frame
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - primary Bitcoin design source later interpreted by Lowery
+- [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous author of the whitepaper that Softwar later reframes as electro-cyber power projection
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian state-power frame that overlaps with Lowery's critique of concentrated abstract authority
 
 ## Sources

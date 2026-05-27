@@ -70,6 +70,7 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[nick-szabo|Nick Szabo]] - smart-contracts, Bit Gold, and social-scalability anchor author
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous Bitcoin whitepaper author
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - peer-to-peer electronic cash design source
+- [[shelling-out|Shelling Out]] - Szabo's bridge from Mengerian origins of money to the cypherpunk concern with unforgeable costliness
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article on CBDCs as autistic/binary/triangular total intervention
 - [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis instantiating this topic's CBDC frame in the ECB's confirmed digital-euro design
 

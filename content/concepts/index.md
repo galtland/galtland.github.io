@@ -70,8 +70,6 @@ Last updated: 2026-05-27
 
 - 2026-05-27: Added 6 cypherpunk-canon concept articles: crypto-anarchy, trusted-third-parties-as-security-holes, smart-contracts, proof-of-work, shelling-out (Szabo's Mengerian origins-of-money bridge to Mises regression theorem), public-key-cryptography. Updated See Also backlinks on cash-holding-and-the-demand-for-money, market-anarchism-and-private-law, nonaggression-and-property-rights, power-projection, praxeology-of-privacy, and state-power-and-intervention.
 
-- 2026-05-27: Added 6 cypherpunk-canon concept articles: crypto-anarchy, trusted-third-parties-as-security-holes, smart-contracts, proof-of-work, shelling-out (Szabo's Mengerian origins-of-money bridge to Mises regression theorem), public-key-cryptography. Updated See Also backlinks on cash-holding-and-the-demand-for-money, market-anarchism-and-private-law, nonaggression-and-property-rights, power-projection, praxeology-of-privacy, and state-power-and-intervention.
-
 - 2026-05-18: Rewrote `mises-on-rent-ceilings` and `rothbard-on-price-controls` focused author-on-topic articles as X-thread citation targets for the news-lens fourth-instance Argentina rent-decontrol post; trial directory had stale index entries but no on-disk files.
 - 2026-05-17: Added `hayek-on-rule-of-law` as focused author-on-topic citation target for the news-lens X thread on the ECB digital-euro launch (paired with the existing `hillebrand-on-cbdcs` focused article).
 - 2026-05-17: Added `rothbard-on-wealth-tax` and `mises-on-capital-consumption` as focused author-on-topic citation targets for the news-lens X thread on the May 2026 EU wealth-tax directive.

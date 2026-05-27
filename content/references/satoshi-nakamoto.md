@@ -8,6 +8,7 @@ tags: [satoshi-nakamoto, bitcoin, proof-of-work, digital-cash, cypherpunk, crypt
 aliases: [Satoshi, Nakamoto]
 confidence: medium
 summary: "Satoshi Nakamoto is the pseudonymous author of the 2008 Bitcoin whitepaper. The work is high-confidence as a public design artifact; claims about identity are deliberately low-confidence and should remain limited."
+short: "Pseudonymous author of the 2008 Bitcoin whitepaper. The work is well-documented; identity claims are deliberately treated as low-confidence."
 ---
 
 # Satoshi Nakamoto

@@ -8,6 +8,7 @@ tags: [tim-may, cypherpunk, crypto-anarchy, cryptography, privacy, libertarianis
 aliases: [Tim May, Timothy May, T. C. May]
 confidence: medium
 summary: "Timothy C. May (1951-2018) was a former Intel physicist, founding cypherpunk, and author of the 1988 Crypto Anarchist Manifesto and the 1994 Cyphernomicon. In this corpus, he is the main anchor for the crypto-anarchy branch of cypherpunk libertarianism."
+short: "Tim May (1951-2018), former Intel physicist and founding cypherpunk; author of the Crypto Anarchist Manifesto (1988) and Cyphernomicon (1994)."
 ---
 
 # Timothy C. May
