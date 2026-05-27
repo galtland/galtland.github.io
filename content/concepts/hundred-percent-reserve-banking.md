@@ -57,6 +57,37 @@ A 100%-reserve regime makes *this kind* of inflation impossible by construction:
 
 It is also not the same as narrow banking, sovereign-money proposals, or central-bank digital currency (CBDC). Those are state-architecture interventions; 100% reserves is a contractual / property-rights condition that, on the Rothbardian view, ought to bind any institution calling itself a bank, with or without a state.
 
+## Q&A
+
+### How do you measure credit expansion? Is M2 a good proxy? Or central-bank rates?
+
+The Austrian framework does not have a single observable that maps cleanly to "credit expansion" in the Misesian sense. The theoretical variable is the gap between the gross market rate of interest and the natural rate; neither side of that gap is directly observable. Measurement is necessarily indirect, and different proxies catch different parts of the phenomenon.
+
+- **M2** is the standard broad-money aggregate, widely available, but theoretically muddled for Austrian use. It lumps demand deposits (fiduciary media — what the cycle theory targets per [[mises-on-credit-expansion|Mises on Credit Expansion]]) together with time deposits, which are commodity-credit (savings-backed lending) and *not* inflationary in the Misesian sense — see [[credit-and-deferred-payment|Credit and Deferred Payment]]. M2 will tell you something about broad-money trends but it overstates Austrian "credit expansion" by counting commodity-credit alongside fiduciary media.
+- **Central-bank policy rates** (Fed funds target, ECB deposit rate) are an *input*, not a measure. They are what the central bank wants the loan rate to be; the resulting expansion of fiduciary media depends on how banks and borrowers respond. Low policy rates predict more expansion but don't quantify it.
+- **Rothbard's True Money Supply (TMS)**, refined by Joseph Salerno, is the theoretically clean Austrian aggregate: currency in circulation + demand deposits + government deposits + savings deposits at commercial banks, excluding money-market funds and retail repos. It targets fiduciary media specifically and excludes time deposits. This is what the framework actually wants you to look at; M2 is a noisy substitute.
+- **Sectoral asymmetry** is the diagnostic Rothbard documents in [[americas-great-depression|America's Great Depression]] and [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]]: interest-rate-sensitive sectors (construction, capital goods, long-duration projects) expanding disproportionately is the structural footprint of suppressed rates. A rising sectoral skew is a more theoretically meaningful signal than a single aggregate number.
+
+Practical synthesis: M2 plus the policy-rate path gives a rough first-pass picture, but Austrian rigour calls for TMS or demand-deposit growth specifically, combined with the sectoral signal. The Q "is M2 a good measure" gets a qualified no: it's a usable proxy with known theoretical drift.
+
+### If all debt is paid, every expansion meets a contraction. So in the long run, no net expansion?
+
+Mises addresses this directly in [[the-theory-of-money-and-credit|The Theory of Money and Credit]], Part III:
+
+> When the loans granted by the bank through the issue of fiduciary media fall due for repayment, then it is true that a corresponding sum of fiduciary media returns to the bank, and the quantity in circulation is diminished. But fresh loans are issued by the bank at the same time and new fiduciary media flow into circulation.
+>
+> — Mises, *The Theory of Money and Credit*, Part III, Ch. XX
+
+The answer is layered:
+
+1. **Per-loan view: yes, repayment cancels issuance.** Each loan that gets repaid extinguishes its specific fiduciary-media balance. The mechanism is symmetric on a per-loan basis.
+2. **Aggregate view: depends on bank policy, not arithmetic.** Banks roll over: gross new issuance happens at the same time as gross repayment. The aggregate stock of fiduciary media stays flat, grows, or shrinks purely as a function of the bank's credit policy choice. Empirically banks have grown the stock; the asymmetry is policy, not law.
+3. **The cycle theory operates on flow, not stock.** Even if the aggregate stock is flat year-over-year, this quarter's marginal lending still suppresses the loan rate. The malinvestment mechanism cares about *active* fiduciary-media issuance, not the integral over time. A bank rolling at constant stock is still issuing fiduciary media every quarter and still suppressing rates.
+4. **Halting issuance is the bust mechanism.** If banks ever stop issuing fresh fiduciary media, the natural rate reasserts itself and the longest-duration malinvestments are revealed as unprofitable. That *is* the bust. So "long-run no net expansion" is not a steady-state equilibrium — it is the trigger for the correction. The bank's real long-run options are: (a) keep issuing, in which case the stock grows and in the limit the currency dies in a flight from money; or (b) stop, in which case the cycle's accumulated malinvestments liquidate.
+5. **Even a fully-repaid one-shot loan still misallocates.** During the loan's life, capital was reallocated toward higher-order projects on a falsified rate signal. When the loan is repaid, the *monetary* event is undone but the *real* misallocation isn't. Longer-duration projects funded by the loan may still be in motion when the loan matures; their funding channel evaporates while their resource commitments remain. The repayment cancels the fiduciary media; it does not unwind the structural distortion.
+
+So the elegant short answer is: *yes locally, no globally, and the global "yes" is the bust*. Repayment is not a free unwinding; it is the moment the discipline returns, and the cycle theory predicts that moment is painful in proportion to how long the expansion ran before it stopped.
+
 ## See Also
 
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] — the credit-expansion mechanism that fiduciary media drive and 100% reserves eliminate
