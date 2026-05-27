@@ -63,6 +63,8 @@ Lowery's [[softwar|Softwar]] thesis adds a complementary but distinct Bitcoin fr
 - [[softwar|Softwar]] - adjacent Bitcoin-as-power-projection thesis
 - [[max-hillebrand|Max Hillebrand]] - author of the source text
 - [[austrian-economics|Austrian Economics]] - broader school whose method the concept extends
+- [[crypto-anarchy|Crypto Anarchy]] - May's cypherpunk strategy for making selective disclosure effective against state control
+- [[public-key-cryptography|Public-Key Cryptography]] - technical primitive that makes user-controlled disclosure and signatures possible
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article on the Ch. 10 "total intervention" application of this concept to CBDCs
 - [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis applying the praxeology-of-privacy frame to the ECB's confirmed digital-euro architecture
 

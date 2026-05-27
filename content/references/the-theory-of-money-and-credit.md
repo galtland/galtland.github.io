@@ -64,6 +64,7 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 - [[murray-n-rothbard|Murray N. Rothbard]] - Misesian successor on monetary theory
 - [[friedrich-a-hayek|F. A. Hayek]] - sibling Austrian author on monetary theory
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - later Misesian who quotes TMC in EEPP
+- [[shelling-out|Shelling Out]] - Szabo's cypherpunk bridge from Mengerian monetary origins to prehistoric collectibles
 
 ## Sources
 

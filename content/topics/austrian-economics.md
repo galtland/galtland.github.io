@@ -61,6 +61,8 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[resistance-axiom|Resistance Axiom]] - assumption that cryptographic and decentralized systems can resist external control
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - Hillebrand source for this extension
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional implications some Austrian writers draw from property theory
+- [[shelling-out|Shelling Out]] - Szabo's prehistoric-collectibles bridge to Menger and the regression theorem
+- [[nick-szabo|Nick Szabo]] - cypherpunk author connecting Austrian monetary theory to protocol design
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - related work in this corpus
 - [[human-action|Human Action]] - related work in this corpus
 - [[individualism-and-economic-order|Individualism and Economic Order]] - related work in this corpus

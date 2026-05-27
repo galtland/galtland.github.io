@@ -45,6 +45,8 @@ The confidence level is low because this is Lowery's novel theoretical frame and
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - property-rights frame for legitimate control over scarce means
 - [[praxeology-of-privacy|Praxeology of Privacy]] - Bitcoin-as-resistance framing adjacent to Lowery's Bitcoin-as-power-projection framing
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for proof-of-work, Bitcoin, and resistant systems
+- [[proof-of-work|Proof of Work]] - cost-function mechanism that gives Bitcoin's cyber-domain control a physical resource base
+- [[bitcoin-whitepaper|Bitcoin Whitepaper]] - primary design source for Bitcoin's proof-of-work timestamp network
 
 ## Sources
 

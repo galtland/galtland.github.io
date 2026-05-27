@@ -45,6 +45,8 @@ Not every libertarian tradition embraces full market anarchism, but this topic w
 - [[the-law|The Law]] - related work in this corpus
 - [[the-market-for-liberty|The Market for Liberty]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - Molinari's 1849 essay; the founding source for the private-security thesis
+- [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - Szabo's protocol-design warning about concentrated intermediary power
+- [[smart-contracts|Smart Contracts]] - protocol-contract mechanism that can reduce some need for ex post enforcement
 
 ## Sources
 

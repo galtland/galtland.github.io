@@ -55,6 +55,8 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social-preconditions article for Arendt's totalitarianism thesis
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
 - [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
+- [[crypto-anarchy|Crypto Anarchy]] - cypherpunk strategy for moving voluntary exchange beyond ordinary state surveillance and control
+- [[timothy-c-may|Timothy C. May]] - author of the Crypto Anarchist Manifesto and the Cyphernomicon
 - [[austrian-economics|Austrian Economics]] - economic framework attached to the political philosophy here
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - major non-Rothbard author node for property theory and non-state institutions
 - [[murray-n-rothbard|Murray N. Rothbard]] - author who most fully integrates the major strands

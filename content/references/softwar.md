@@ -42,6 +42,8 @@ The confidence level is medium because the source is a completed MIT thesis and 
 - [[praxeology-of-privacy|Praxeology of Privacy]] - nearby Bitcoin-as-resistance thesis from a different starting point
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - adjacent Hillebrand source for Bitcoin, privacy, and resistance
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for Bitcoin, privacy, proof-of-work, and resistance
+- [[proof-of-work|Proof of Work]] - Hashcash-to-Bitcoin cost-function lineage underlying Lowery's power-projection frame
+- [[bitcoin-whitepaper|Bitcoin Whitepaper]] - primary Bitcoin design source later interpreted by Lowery
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian state-power frame that overlaps with Lowery's critique of concentrated abstract authority
 
 ## Sources

@@ -56,6 +56,7 @@ The Austrian-libertarian frame cannot reason about CPI movements, QE episodes, b
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] — Mises's original treatment, including the inflation Excursus that builds demand into the definition
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] — companion concept on the supply-side normative position that pairs with the demand-side analysis
+- [[shelling-out|Shelling Out]] - Szabo's prehistoric-collectibles account of proto-money and monetary properties
 
 ## Sources
 
