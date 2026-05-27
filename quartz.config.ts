@@ -1,5 +1,10 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+// Local plugins that fork upstream Quartz behavior. Isolated in
+// quartz/plugins.local/ so the upstream quartz/ tree stays pristine and the
+// next Quartz upgrade only needs to re-check files in that one folder.
+import { CustomOgImagesPng } from "./quartz/plugins.local/customOgImagesPng"
+import { DescriptionWithFallbacks } from "./quartz/plugins.local/descriptionWithFallbacks"
 
 /**
  * Quartz 4 Configuration
@@ -68,7 +73,7 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Description(),
+      DescriptionWithFallbacks(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
@@ -87,7 +92,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      CustomOgImagesPng(),
     ],
   },
 }

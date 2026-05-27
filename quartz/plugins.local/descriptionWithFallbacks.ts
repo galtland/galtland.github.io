@@ -1,7 +1,7 @@
 import { Root as HTMLRoot } from "hast"
 import { toString } from "hast-util-to-string"
-import { QuartzTransformerPlugin } from "../types"
-import { escapeHTML } from "../../util/escape"
+import { QuartzTransformerPlugin } from "../plugins/types"
+import { escapeHTML } from "../util/escape"
 
 export interface Options {
   descriptionLength: number
@@ -20,7 +20,23 @@ const urlRegex = new RegExp(
   "g",
 )
 
-export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
+/**
+ * Local fork of Quartz's Description transformer (quartz/plugins/transformers/description.ts).
+ *
+ * Diverges from upstream on one point: the frontmatter lookup walks a chain
+ * of `description` → `summary` → `short`, returning the first non-empty
+ * string. The Galtland wiki convention sets `short:` on concept articles
+ * and `summary:` on reference articles; neither is the upstream-default
+ * `description:` field, so upstream's lookup would always miss them and fall
+ * back to auto-extracting the first ~150 chars of body text. The fallback
+ * also includes a runtime type guard (typeof === "string"), so non-string
+ * frontmatter values (numbers, arrays, mis-typed YAML) silently fall through
+ * to the body-text extraction instead of crashing the downstream `.replace`
+ * call.
+ *
+ * Re-check against upstream on every Quartz upgrade.
+ */
+export const DescriptionWithFallbacks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "Description",
@@ -28,7 +44,28 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            let frontMatterDescription = file.data.frontmatter?.description
+            // Wiki convention: concept articles set `short:` (1-2 sentence
+            // summary); reference articles set `summary:`. Fall back across
+            // these so OG/Twitter meta description gets the curated text
+            // instead of an auto-extracted body fragment.
+            //
+            // Runtime-guard for unknown values: frontmatter is typed as
+            // `{ [key: string]: unknown }`, so a non-string value (number,
+            // array, mis-typed YAML) would crash the downstream `.replace`
+            // call. Pick the first non-empty *string* across the chain;
+            // anything else falls through to the auto-extracted body text.
+            const fm = file.data.frontmatter
+            const firstNonEmptyString = (...vals: unknown[]) => {
+              for (const v of vals) {
+                if (typeof v === "string" && v.length > 0) return v
+              }
+              return undefined
+            }
+            let frontMatterDescription = firstNonEmptyString(
+              fm?.description,
+              fm?.summary,
+              fm?.short,
+            )
             let text = escapeHTML(toString(tree))
 
             if (opts.replaceExternalLinks) {

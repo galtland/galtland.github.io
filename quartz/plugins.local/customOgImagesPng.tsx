@@ -1,15 +1,15 @@
-import { QuartzEmitterPlugin } from "../types"
-import { i18n } from "../../i18n"
-import { unescapeHTML } from "../../util/escape"
-import { FullSlug, getFileExtension, isAbsoluteURL, joinSegments, QUARTZ } from "../../util/path"
-import { ImageOptions, SocialImageOptions, defaultImage, getSatoriFonts } from "../../util/og"
+import { QuartzEmitterPlugin } from "../plugins/types"
+import { i18n } from "../i18n"
+import { unescapeHTML } from "../util/escape"
+import { FullSlug, getFileExtension, isAbsoluteURL, joinSegments, QUARTZ } from "../util/path"
+import { ImageOptions, SocialImageOptions, defaultImage, getSatoriFonts } from "../util/og"
 import sharp from "sharp"
 import satori, { SatoriOptions } from "satori"
-import { loadEmoji, getIconCode } from "../../util/emoji"
+import { loadEmoji, getIconCode } from "../util/emoji"
 import { Readable } from "stream"
-import { write } from "./helpers"
-import { BuildCtx } from "../../util/ctx"
-import { QuartzPluginData } from "../vfile"
+import { write } from "../plugins/emitters/helpers"
+import { BuildCtx } from "../util/ctx"
+import { QuartzPluginData } from "../plugins/vfile"
 import fs from "node:fs/promises"
 import { styleText } from "util"
 
@@ -22,7 +22,27 @@ const defaultOptions: SocialImageOptions = {
 }
 
 /**
- * Generates social image (OG/twitter standard) and saves it as `.webp` inside the public folder
+ * Local fork of Quartz's CustomOgImages emitter (quartz/plugins/emitters/ogImage.tsx).
+ *
+ * Diverges from upstream on three points:
+ *   1. Encodes social images as PNG (compressionLevel: 9) instead of WebP
+ *      (quality: 40). WhatsApp, iMessage, and some older Twitter/Slack
+ *      preview scrapers don't reliably render WebP previews. PNG is ~50-90KB
+ *      for the typical 1200x630 text-on-solid-background image — well under
+ *      WhatsApp's 300KB scraper cap.
+ *   2. Writes the file with `ext: ".png"` and emits `og:image` URLs ending
+ *      in `.png` to match.
+ *   3. Fixes a pre-existing bug in `og:image:type` interpolation: getFileExtension()
+ *      returns the extension with a leading dot, so the upstream code emits
+ *      "image/.png" instead of "image/png". Stripped here.
+ *
+ * The emitter's reported `name` is kept as the upstream value "CustomOgImages"
+ * so that quartz/components/Head.tsx's filter (`e.name === CustomOgImagesEmitterName`)
+ * continues to match.
+ *
+ * Re-check against upstream on every Quartz upgrade.
+ *
+ * Generates social image (OG/twitter standard) and saves it as `.png` inside the public folder
  * @param opts options for generating image
  */
 async function generateSocialImage(
@@ -62,7 +82,7 @@ async function generateSocialImage(
     },
   })
 
-  return sharp(Buffer.from(svg)).webp({ quality: 40 })
+  return sharp(Buffer.from(svg)).png({ compressionLevel: 9 })
 }
 
 async function processOgImage(
@@ -96,16 +116,18 @@ async function processOgImage(
     ctx,
     content: stream,
     slug: `${slug}-og-image` as FullSlug,
-    ext: ".webp",
+    ext: ".png",
   })
 }
 
-export const CustomOgImagesEmitterName = "CustomOgImages"
-export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = (userOpts) => {
+// Keep the upstream emitter-name string so quartz/components/Head.tsx
+// keeps recognizing this plugin when filtering registered emitters.
+export const CustomOgImagesPngEmitterName = "CustomOgImages"
+export const CustomOgImagesPng: QuartzEmitterPlugin<Partial<SocialImageOptions>> = (userOpts) => {
   const fullOptions = { ...defaultOptions, ...userOpts }
 
   return {
-    name: CustomOgImagesEmitterName,
+    name: CustomOgImagesPngEmitterName,
     getQuartzComponents() {
       return []
     },
@@ -154,11 +176,16 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
             }
 
             const generatedOgImagePath = isRealFile
-              ? `https://${baseUrl}/${pageData.slug!}-og-image.webp`
+              ? `https://${baseUrl}/${pageData.slug!}-og-image.png`
               : undefined
             const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
-            const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
+            // getFileExtension returns the extension with the leading dot
+            // (e.g., ".png"), so strip it before interpolating into the MIME
+            // type — otherwise og:image:type emits "image/.png" instead of
+            // "image/png", which some social-preview parsers reject.
+            const ogImageExt = getFileExtension(ogImagePath)?.replace(/^\./, "") ?? "png"
+            const ogImageMimeType = `image/${ogImageExt}`
             return (
               <>
                 {!userDefinedOgImagePath && (
