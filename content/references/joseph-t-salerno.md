@@ -7,7 +7,7 @@ updated: 2026-05-27
 tags: [salerno, austrian-economics, monetary-theory, tms, mises-institute, pure-time-preference]
 aliases: [Joseph Salerno, Salerno]
 confidence: medium
-summary: "Austrian-school monetary economist in the Mises-Rothbard tradition. Author of the 1987 True Money Supply (TMS) paper that formalizes Rothbard's broad money-supply criterion, and of the 2010 essay collection Money, Sound and Unsound spanning monetary theory foundations, inflation/deflation/depression, the gold standard, monetary-history applications, and contemporary commentary."
+summary: "Austrian-school monetary economist in the Mises-Rothbard tradition; Professor of Economics, Lubin Graduate School of Business, Pace University. Author of: (1) the 1987 True Money Supply (TMS) paper formalizing Rothbard's broad money-supply criterion; (2) the 1993 'Mises and Hayek Dehomogenized' paper distinguishing two paradigms within modern Austrian economics on source lineage, equilibrium/market-process treatment, and the socialist-calculation debate; (3) the 2010 essay collection Money, Sound and Unsound, spanning monetary theory foundations, inflation/deflation/depression, the gold standard, monetary-history applications, and contemporary commentary."
 ---
 
 # Joseph T. Salerno
@@ -31,10 +31,10 @@ Salerno's "Mises and Hayek Dehomogenized" (1993) is the canonical statement of h
 
 - **Source lineage.** The Mises paradigm develops Böhm-Bawerk. The Hayek paradigm develops Wieser.
 - **Equilibrium and the market process.** The Mises paradigm treats equilibrium as an analytical construct used to isolate the entrepreneurial-profit residual; the Hayek paradigm treats the market as a coordinating process whose informational properties are the central object of study.
-- **The socialist-calculation debate.** The Mises paradigm rests on the impossibility of *monetary calculation* without private ownership of the means of production. The Hayek paradigm rests on the impossibility of *centralized aggregation of dispersed knowledge*. Salerno argues these are distinct (not equivalent) impossibility arguments.
-- **Modern carriers.** Salerno names Israel M. Kirzner as the principal carrier of the Hayekian paradigm in modern Austrian economics, with the modern free-banking school via Lawrence H. White as a macroeconomic outgrowth on the same trunk. The Mises-Rothbard line is the alternative carrier.
+- **The socialist-calculation debate.** The Mises paradigm rests on the impossibility of *monetary calculation* in the absence of genuine factor prices, which themselves require markets — i.e., exchanges — in the higher-order means of production. The Hayek paradigm rests on the impossibility of *centralized aggregation of dispersed knowledge*. Salerno argues these are distinct (not equivalent) impossibility arguments.
+- **Modern carriers of the Hayekian paradigm.** Salerno names Israel M. Kirzner as the principal carrier of the Hayekian paradigm in modern Austrian economics, with the modern free-banking school via Lawrence H. White as a macroeconomic outgrowth on the same trunk. He does not pair this with a symmetrically-named "Mises-Rothbard carrier"; the paper's structure is about *what gets misattributed to Mises*, not a head-to-head carrier roster.
 
-The 1993 paper is explicit about what it does *not* claim: the paradigms are not opposed in their conclusions on most policy questions, and Kirzner's and White's work is acknowledged as excellent within the Hayekian paradigm. The objection is to *homogenization* — attributing Hayekian positions to Mises and reading Mises through Wieserian/Kirznerian lenses.
+The 1993 paper is explicit about what the dehomogenization argument does *not* claim. The two paradigms share Mengerian common ground and substantial overlap; the contributions of Kirzner and White are named as excellent within the Hayekian paradigm. The objection is to *homogenization* — attributing Hayekian positions to Mises and reading Mises through Wieserian/Kirznerian lenses — not to either paradigm in isolation.
 
 *Money, Sound and Unsound* Ch. 8 ("Mises on Inflation and Expectations") cites this 1993 paper directly when it traces the divergence in monetary contexts; Ch. 19 ("Beyond Calculational Chaos") applies the Mises-Rothbard calculation frame to the post-communist transition. Pure-time-preference theory of interest — sometimes used in the secondary literature as a discriminator between the two paradigms — is *not* a clean discriminator in Salerno's own text: Ch. 9 references PTPT and cites Kirzner approvingly as a defender alongside Rothbard, Mises, and Garrison.
 
@@ -54,6 +54,6 @@ The 1993 paper is explicit about what it does *not* claim: the paradigms are not
 
 ## Sources
 
-- [The "True" Money Supply (Salerno 1987) — full text](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy) — Salerno's TMS paper ingested from the Mises Institute PDF. Title page and first paragraph not captured by pdftotext; body and endnotes intact with minor OCR artifacts.
-- [Mises and Hayek Dehomogenized (Salerno 1993) — full text](https://mises.org/library/mises-and-hayek-dehomogenized) — 34-page paper from *Review of Austrian Economics* Vol. 6 No. 2. OCR clean. The canonical paradigmatic-split paper.
-- [Money, Sound and Unsound (Salerno 2010) — full text](https://mises.org/library/book/money-sound-and-unsound) — 646-page collected essays. OCR clean. Reprints the 1987 TMS paper as Ch. 3; the rest of the collection covers monetary theory, inflation/deflation/depression, the gold standard, applications, and commentary.
+- [*The "True" Money Supply* (Salerno 1987) — full text](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy) — Salerno's TMS paper. The title page and first paragraph were lost in PDF OCR; the article body and endnotes are present with minor textual artifacts.
+- [*Mises and Hayek Dehomogenized* (Salerno 1993) — full text](https://mises.org/library/mises-and-hayek-dehomogenized) — 34-page paper from *Review of Austrian Economics* Vol. 6 No. 2. The canonical paradigmatic-split paper.
+- [*Money, Sound and Unsound* (Salerno 2010) — full text](https://mises.org/library/book/money-sound-and-unsound) — 646-page collected essays. Ch. 3 reprints the 1987 TMS paper; the rest covers monetary theory, inflation/deflation/depression, the gold standard, applications, and commentary.
