@@ -40,7 +40,7 @@ Rothbard argued in [[americas-great-depression|America's Great Depression]] Ch. 
 >
 > — Rothbard, [[americas-great-depression|America's Great Depression]], Ch. 4
 
-Joseph Salerno later formalized this as the **True Money Supply (TMS)**: currency in circulation outside banks + demand deposits + U.S. government demand deposits at the Fed and at commercial banks + savings deposits at commercial banks, *excluding* money-market mutual funds and retail repurchase agreements (these are debt instruments / investment vehicles, not money-substitutes). TMS targets fiduciary media specifically and is the aggregate Austrian economists generally cite when arguing the cycle-theory empirically. The Mises Institute publishes a TMS series; the Federal Reserve does not.
+[[joseph-t-salerno|Joseph T. Salerno]] later formalized this in his 1987 paper as the **True Money Supply (TMS)**: currency in circulation outside banks + demand deposits + U.S. government demand deposits at the Fed and at commercial banks + savings deposits at commercial banks, *excluding* money-market mutual funds and retail repurchase agreements (these are debt instruments / investment vehicles, not money-substitutes). TMS targets fiduciary media specifically and is the aggregate Austrian economists generally cite when arguing the cycle-theory empirically. The Mises Institute publishes a TMS series; the Federal Reserve does not. The more popular treatment of the underlying money-supply criterion appears in [[the-mystery-of-banking|The Mystery of Banking]].
 
 ## Why central-bank policy rates are an input, not a measure
 
@@ -72,6 +72,8 @@ When all three signal expansion together — TMS growth, policy rate below long 
 - [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] — the sectoral diagnostic Rothbard pioneered in *AGD*
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] — Mises's typology of money-substitutes and the broader-sense framework
 - [[americas-great-depression|America's Great Depression]] — Rothbard's empirical money-supply definition and the 1921-1929 measurement
+- [[the-mystery-of-banking|The Mystery of Banking]] — Rothbard's popular treatment, the most accessible source for the broad money-supply criterion (stub; not yet ingested)
+- [[joseph-t-salerno|Joseph T. Salerno]] — Austrian monetary economist who formalized Rothbard's criterion into the modern TMS series (stub; no primary text ingested)
 
 ## Sources
 
