@@ -12,7 +12,7 @@ summary: "Austrian-school monetary economist in the Mises-Rothbard tradition; Pr
 
 # Joseph T. Salerno
 
-> Joseph T. Salerno is an Austrian-school monetary economist in the Mises-Rothbard tradition. Professor of Economics at the Lubin Graduate School of Business, Pace University. Best known for the 1987 formalization of the True Money Supply (TMS) — see [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — for the 1993 dehomogenization argument distinguishing the Mises and Hayek paradigms within contemporary Austrian economics, and for sustained essay-form work collected in *Money, Sound and Unsound* (2010).
+> Joseph T. Salerno is an Austrian-school monetary economist in the Mises-Rothbard tradition. Professor of Economics at the Lubin Graduate School of Business, Pace University. Best known for the 1987 formalization of the True Money Supply (TMS) — see [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — for the 1993 dehomogenization argument distinguishing the Mises and Hayek paradigms within contemporary Austrian economics, and for sustained essay-form work collected in [[money-sound-and-unsound|Money, Sound and Unsound]] (2010).
 
 ## Principal contributions
 
@@ -27,7 +27,7 @@ summary: "Austrian-school monetary economist in the Mises-Rothbard tradition; Pr
 
 ## Position in the Austrian tradition
 
-Salerno's "Mises and Hayek Dehomogenized" (1993) is the canonical statement of his positioning argument: contemporary Austrian economics encompasses *two distinct paradigms*, not one, and the post-1970s revival conflated them. The paradigms diverge on multiple axes:
+Salerno's [[mises-and-hayek-dehomogenized|"Mises and Hayek Dehomogenized"]] (1993) is the canonical statement of his positioning argument: contemporary Austrian economics encompasses *two distinct paradigms*, not one, and the post-1970s revival conflated them. The paradigms diverge on multiple axes:
 
 - **Source lineage.** The Mises paradigm develops Böhm-Bawerk. The Hayek paradigm develops Wieser.
 - **Equilibrium and the market process.** The Mises paradigm treats equilibrium as an analytical construct used to isolate the entrepreneurial-profit residual; the Hayek paradigm treats the market as a coordinating process whose informational properties are the central object of study.
@@ -40,13 +40,16 @@ The 1993 paper is explicit about what the dehomogenization argument does *not* c
 
 ## Selected works
 
-- *"The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy"* (1987), *Austrian Economics Newsletter* Vol. 6 No. 4 — also reprinted as Ch. 3 of *Money, Sound and Unsound*. Full text in [raw/papers/2026-05-27-the-true-money-supply-salerno-1987.md](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy). The TMS specification cited in [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]].
-- "Mises and Hayek Dehomogenized" (1993), *Review of Austrian Economics* Vol. 6 No. 2 (originally in *A Man of Principle: Essays in Honor of Hans F. Sennholz*, Grove City College Press, 1992). Full text in [raw/papers/2026-05-27-mises-and-hayek-dehomogenized-salerno-1993.md](https://mises.org/library/mises-and-hayek-dehomogenized). The canonical statement of the Mises-paradigm-vs-Hayek-paradigm argument summarized in "Position in the Austrian tradition" above.
-- *Money, Sound and Unsound* (Ludwig von Mises Institute, 2010) — 646-page collected essays (26 chapters across 5 parts). Full text in [raw/articles/2026-05-27-money-sound-and-unsound-salerno-full-text.md](https://mises.org/library/book/money-sound-and-unsound). The broad monetary corpus that grounds the principal-contributions section.
+- [[the-true-money-supply-salerno-1987|"The 'True' Money Supply"]] (1987), *Austrian Economics Newsletter* Vol. 6 No. 4 — also reprinted as Ch. 3 of *Money, Sound and Unsound*. Full text in [raw/papers/2026-05-27-the-true-money-supply-salerno-1987.md](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy). The TMS specification cited in [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]].
+- [[mises-and-hayek-dehomogenized|"Mises and Hayek Dehomogenized"]] (1993), *Review of Austrian Economics* Vol. 6 No. 2 (originally in *A Man of Principle: Essays in Honor of Hans F. Sennholz*, Grove City College Press, 1992). Full text in [raw/papers/2026-05-27-mises-and-hayek-dehomogenized-salerno-1993.md](https://mises.org/library/mises-and-hayek-dehomogenized). The canonical statement of the Mises-paradigm-vs-Hayek-paradigm argument summarized in "Position in the Austrian tradition" above.
+- [[money-sound-and-unsound|Money, Sound and Unsound]] (Ludwig von Mises Institute, 2010) — 646-page collected essays (26 chapters across 5 parts). Full text in [raw/articles/2026-05-27-money-sound-and-unsound-salerno-full-text.md](https://mises.org/library/book/money-sound-and-unsound). The broad monetary corpus that grounds the principal-contributions section.
 
 ## See Also
 
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — the concept article where Salerno's TMS is the load-bearing definition
+- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] — 1987 paper formalizing Rothbard's money-supply criterion
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] — 1993 paradigm-splitting paper
+- [[money-sound-and-unsound|Money, Sound and Unsound]] — 2010 collected monetary essays
 - [[the-mystery-of-banking|The Mystery of Banking]] — Rothbard's popular treatment of banking and TMS that Salerno's paper formalizes
 - [[murray-n-rothbard|Murray N. Rothbard]] — the source whose work Salerno extends
 - [[ludwig-von-mises|Ludwig von Mises]] — the foundational figure Salerno's monetary work descends from

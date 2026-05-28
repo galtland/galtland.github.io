@@ -48,6 +48,9 @@ Not every libertarian tradition embraces full market anarchism, but this topic w
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - Szabo's protocol-design warning about concentrated intermediary power
 - [[smart-contracts|Smart Contracts]] - protocol-contract mechanism that can reduce some need for ex post enforcement
 
+- [[principles-of-economics-ammous|Principles of Economics]] - textbook chapters on violence, defense, and law-order themes
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - private-law and legal-theory treatment of Bitcoin property questions
+
 ## Sources
 
 - [The Market for Liberty (Full Text Aggregate)](https://cdn.mises.org/the_market_for_liberty_2.epub) - most detailed institutional sketch of private courts, defense, insurance, and title

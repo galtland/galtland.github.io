@@ -17,7 +17,7 @@ short: "The asymmetric-key breakthrough that made secure communication, digital 
 
 ## The Key-Distribution Problem
 
-Diffie and Hellman's 1976 *New Directions in Cryptography* starts from a practical bottleneck. Classical cryptography requires the parties to share a secret key before they can communicate privately. That may work for militaries, banks, or small groups with secure couriers, but it fails as a general foundation for open computer networks. Strangers on opposite sides of a network cannot wait for a prior physical key exchange before every private interaction.
+Diffie and Hellman's 1976 [[new-directions-in-cryptography|New Directions in Cryptography]] starts from a practical bottleneck. Classical cryptography requires the parties to share a secret key before they can communicate privately. That may work for militaries, banks, or small groups with secure couriers, but it fails as a general foundation for open computer networks. Strangers on opposite sides of a network cannot wait for a prior physical key exchange before every private interaction.
 
 The paper treats this as a structural obstacle to teleprocessing and digital commerce. The promise of networks is broad, cheap connection; the older cryptographic model reintroduces expensive prior coordination. Cypherpunk politics later grows out of that technical break. If strangers can establish secure channels without permission from a central dispatcher, private association becomes a network primitive rather than an institutional favor.
 
@@ -35,7 +35,7 @@ Digital signatures become the cypherpunk identity primitive. A key pair can stan
 
 ## Blind Signatures and Digital Cash
 
-David Chaum's blind-signature work shows how public-key signatures can preserve privacy in payment and credential systems. A blind signature lets a signer certify a token without learning which certified token later appears. In the payment example, a bank can sign a withdrawal token, and later verify the deposited token, without linking deposit to withdrawal.
+David Chaum's [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] shows how public-key signatures can preserve privacy in payment and credential systems. A blind signature lets a signer certify a token without learning which certified token later appears. In the payment example, a bank can sign a withdrawal token, and later verify the deposited token, without linking deposit to withdrawal.
 
 That primitive matters because it separates validity from traceability. A system can know that a token is authorized without learning the payer's full transaction history. The cypherpunk dream of digital cash did not begin with blockchains; it first used public-key signatures, blind signatures, and cryptographic protocols to make payment both verifiable and private.
 
@@ -58,10 +58,20 @@ The confidence level is high for the core claim. Diffie and Hellman's paper expl
 - [[proof-of-work|Proof of Work]] - complementary primitive for costly public ordering
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - institutional problem that appears in public-key deployment
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - signature chain and proof-of-work consensus design
+- [[new-directions-in-cryptography|New Directions in Cryptography]] - Diffie-Hellman public-key foundation paper
+- [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's payment-privacy signature primitive
+- [[security-without-identification|Security Without Identification]] - Chaum's broader privacy-preserving transaction-system program
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - onion-routing design using public-key handshakes
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous designer who used signatures for Bitcoin ownership
 - [[praxeology-of-privacy|Praxeology of Privacy]] - privacy-as-selective-disclosure frame implemented by cryptographic tools
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for privacy-preserving technical systems
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
+
+- [[lightning-network|Lightning Network]] - payment-channel system using signatures and key control for off-chain settlement
+- [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - strong-encryption politics around public-key privacy tools
+- [[phil-zimmermann|Phil Zimmermann]] - PGP creator who packaged public-key cryptography for ordinary users
+- [[hal-finney|Hal Finney]] - PGP contributor and later Bitcoin participant
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper built around signing keys, control, and UTXOs
 
 ## Sources
 

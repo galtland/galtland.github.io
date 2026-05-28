@@ -59,6 +59,9 @@ It is also not the same as narrow banking, sovereign-money proposals, or central
 - [[the-mystery-of-banking|The Mystery of Banking]] — Rothbard's accessible book-length statement of the 100%-reserve case
 - [[americas-great-depression|America's Great Depression]] — the footnote-tight definition of inflation in the cycle-theory chapter
 
+- [[fiat-as-engineered-system|Fiat as Engineered System]] - fiat debt-issuance frame adjacent to the reserve-banking debate
+- [[the-fiat-standard|The Fiat Standard]] - Ammous source criticizing fractional-reserve and debt-based fiat money
+
 ## Sources
 
 - [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) — Ch. 12 §A "Inflation and Credit Expansion": the pseudo-warehouse-receipts framing and the definition of inflation as supply increase beyond specie

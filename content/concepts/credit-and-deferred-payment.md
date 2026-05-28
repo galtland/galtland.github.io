@@ -154,6 +154,10 @@ Mises's distinction between **commodity credit** (credit granted out of real sav
 - [[friedrich-a-hayek|F. A. Hayek]] — author reference for [[prices-and-production|Prices and Production]]
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] — author reference for [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]]
 
+- [[fiat-as-engineered-system|Fiat as Engineered System]] - debt-as-money application of the present-good/future-good distinction
+- [[the-fiat-standard|The Fiat Standard]] - Ammous source for fiat credit creation and negative balances
+- [[principles-of-economics-ammous|Principles of Economics]] - textbook treatment of credit and banking
+
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Mises's canonical 1912 statement of the structural definition (Part Three Ch. I "The Business of Banking," section "Deposits as the Origin of Circulation Credit," p. 268 of the Yale 1953 edition), the depositor passage that uses the definition to exclude deposits-against-redeemable-claims from the conception of credit (same page), and the earlier classification of "purchase on credit" as a credit transaction alongside lending (Part One Ch. I §3 "The 'Secondary' Functions of Money," p. ~35)

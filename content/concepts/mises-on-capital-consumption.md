@@ -33,6 +33,9 @@ The political-economy companion is the Oppenheimer/Nock distinction. The politic
 - [[state-power-and-intervention|State Power and Intervention]] — broader intervention-as-cumulative-process frame
 - [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] — thesis applying the policy-class frame to the May 2026 EU directive
 
+- [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's fiat-life frame extending capital-consumption concerns into monetary engineering
+- [[the-fiat-standard|The Fiat Standard]] - source for fiat capital destruction and related social effects
+
 ## Sources
 
 - [Liberalism: A Socio-Economic Exposition (Full Text)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) — Part I §5; the directly quoted formulation is at the section on the antiliberal demagogue and the contrast between present gratification and future production.

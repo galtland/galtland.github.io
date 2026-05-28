@@ -75,6 +75,8 @@ How to detect that this mechanism is in progress is a separate question handled 
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] — primary Mises source for Stage 1 and the loan-rolling question
 - [[human-action|Human Action]] — the calculation-falsification statement in Ch. XX
 - [[the-mystery-of-banking|The Mystery of Banking]] — Rothbard's accessible treatment of the whole mechanism
+- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] — Salerno's aggregate for diagnosing the money-supply side of the mechanism
+- [[money-sound-and-unsound|Money, Sound and Unsound]] — Salerno collection tying the measurement and cycle-theory pieces together
 
 ## Sources
 

@@ -50,6 +50,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[austrian-economics|Austrian Economics]] - school Mises founded in its modern form
 - [[libertarianism|Libertarianism]] - broader doctrine he helps anchor classically
 - [[friedrich-a-hayek|F. A. Hayek]] - sibling Austrian author
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 paper distinguishing the Mises and Hayek paradigms
 - [[murray-n-rothbard|Murray N. Rothbard]] - principal student carrying the system forward
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - later Misesian who restates the comparative-systems analysis in property-rights terms
 - [[economic-calculation-problem|Economic Calculation Problem]] - the argument originating with Mises in 1922

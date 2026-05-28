@@ -59,6 +59,10 @@ That places Szabo near [[market-anarchism-and-private-law|Market Anarchism and P
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader technical and political setting for Szabo's work
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
+- [[unforgeable-costliness|Unforgeable Costliness]] - concept article joining Szabo's Shelling Out and Bit Gold to Bitcoin hardness
+- [[hal-finney|Hal Finney]] - RPOW creator who cited Szabo's Bit Gold as a proof-of-work money precursor
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper that places Szabo's smart-contracts and Bit Gold work in Bitcoin legal context
+
 ## Sources
 
 - [Smart Contracts](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html) - 1994 contract-as-protocol concept, digital cash, and smart property

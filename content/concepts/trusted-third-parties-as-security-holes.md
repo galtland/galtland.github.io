@@ -61,6 +61,10 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous designer who adapted this anti-intermediary pattern in Bitcoin
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
+- [[lightning-network|Lightning Network]] - non-custodial scaling design that avoids payment hubs as trusted custodians
+- [[hal-finney|Hal Finney]] - RPOW and early Bitcoin participant working in the anti-trusted-third-party lineage
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper on Bitcoin, legal remedies, and protocol limits without trusted reversal authorities
+
 ## Sources
 
 - [Trusted Third Parties Are Security Holes](https://nakamotoinstitute.org/library/trusted-third-parties/) - Szabo's 2001 argument for TTP minimization, with certificate authority, DNS, trust terminology, and protocol-design examples

@@ -63,6 +63,9 @@ The confidence level is medium because the article synthesizes one short 1994 es
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for cryptographic primitives and privacy-preserving protocols
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
+- [[lightning-network|Lightning Network]] - practical Bitcoin-script channel design using HTLCs as enforceable contract logic
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - legal-theory paper that places Szabo's smart-contract work in the crypto-anarchic law context
+
 ## Sources
 
 - [Smart Contracts](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html) - Szabo's 1994 definition, digital-cash example, smart property extension, hidden-action warning, and limits

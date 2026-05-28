@@ -29,7 +29,7 @@ Section 6 defines incentives through newly created coins and transaction fees. S
 
 ## Proof of Work and Double Spending
 
-Section 4 is the technical hinge. Satoshi uses a proof-of-work system similar to Adam Back's Hashcash. Nodes search for a nonce that makes a block hash begin with enough zero bits. Verification requires one hash; changing history requires redoing the work for the changed block and every block after it.
+Section 4 is the technical hinge. Satoshi uses a proof-of-work system similar to Adam Back's [[hashcash|Hashcash]]. Nodes search for a nonce that makes a block hash begin with enough zero bits. Verification requires one hash; changing history requires redoing the work for the changed block and every block after it.
 
 That mechanism also solves representation. One-IP-address-one-vote can be subverted by anyone who can allocate many IP addresses. Proof of work makes the relevant vote "one-CPU-one-vote." The longest chain represents the greatest accumulated work, so honest nodes accept it as the public history. Section 11 then models an attacker trying to catch up and shows the probability falling exponentially as confirmations accumulate, assuming honest nodes control more CPU power.
 
@@ -55,6 +55,7 @@ The whitepaper is high-confidence as a primary text. Its 12 sections, references
 
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous author of the whitepaper
 - [[proof-of-work|Proof of Work]] - Hashcash-to-Bitcoin cost-function and consensus lineage
+- [[hashcash|Hashcash]] - cited proof-of-work predecessor
 - [[public-key-cryptography|Public-Key Cryptography]] - signature primitive used for ownership transfer
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - design problem addressed by removing the trusted mint
 - [[nick-szabo|Nick Szabo]] - Bit Gold author whose work parallels several whitepaper design elements
@@ -63,6 +64,13 @@ The whitepaper is high-confidence as a primary text. Its 12 sections, references
 - [[softwar|Softwar]] - later thesis interpreting Bitcoin proof of work as strategic power projection
 - [[power-projection|Power Projection]] - concept article for Lowery's physical-cost frame
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
+
+- [[lightning-network|Lightning Network]] - second-layer payment-channel design that keeps Bitcoin's blockchain as settlement backstop
+- [[the-lightning-network-paper|The Lightning Network Paper]] - 2016 paper extending Bitcoin settlement through payment channels
+- [[unforgeable-costliness|Unforgeable Costliness]] - monetary primitive connecting proof-of-work consensus to costly scarcity
+- [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's economic interpretation of Bitcoin as digital hard money
+- [[hal-finney|Hal Finney]] - early reader, runner, and recipient of the first Bitcoin transaction
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory reading of Bitcoin's signatures, UTXOs, and double-spend defenses
 
 ## Sources
 

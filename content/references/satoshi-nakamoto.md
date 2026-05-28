@@ -57,6 +57,8 @@ That limitation is important for [[privacy-and-cryptography|Privacy and Cryptogr
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for Bitcoin's cryptographic context
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
+- [[hal-finney|Hal Finney]] - first Bitcoin receiver and early correspondent with Satoshi
+
 ## Sources
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi's 2008 paper, including abstract, 12 numbered sections, and references

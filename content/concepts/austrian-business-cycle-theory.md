@@ -54,6 +54,10 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[state-power-and-intervention|State Power and Intervention]] - the political-economic context — central banking as a form of intervention
 - [[man-economy-and-state|Man, Economy, and State]] - related work in this corpus
 
+- [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's debt-as-money frame for fiat credit expansion
+- [[the-fiat-standard|The Fiat Standard]] - companion book applying fiat mining and credit expansion to the post-1971 monetary system
+- [[principles-of-economics-ammous|Principles of Economics]] - Ammous textbook section on monetary expansion and business cycles
+
 ## Sources
 
 - [Prices and Production and Other Works (Full Text Aggregate)](https://cdn.mises.org/prices_and_production_and_other_works.pdf) - principal Hayekian source

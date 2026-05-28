@@ -61,6 +61,9 @@ The confidence level is medium. Szabo's account is influential and fits Austrian
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for the cypherpunk side of digital money
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
+- [[unforgeable-costliness|Unforgeable Costliness]] - bridge concept extending Szabo's collectible attributes into Bit Gold and Bitcoin hardness
+- [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's hard-money reading of primitive moneys, metals, and Bitcoin
+
 ## Sources
 
 - [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/library/shelling-out/) - Szabo's account of prehistoric collectibles, their attributes, and their role in wealth transfer

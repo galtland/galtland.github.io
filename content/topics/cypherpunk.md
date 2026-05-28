@@ -23,9 +23,9 @@ These manifestos are deliberately programmatic. They make claims that need physi
 
 ## The Technical Lineage
 
-The technical chain starts before the mailing list existed. [[public-key-cryptography|Public-Key Cryptography]] emerges from Diffie and Hellman's 1976 *New Directions in Cryptography*: the asymmetric-key insight that makes secure communication between strangers possible without prior key exchange. David Chaum's 1982 *Blind Signatures for Untraceable Payments* and 1985 *Security Without Identification* show how cryptographic primitives can produce privacy-preserving payment, communication, and credential systems — Chaum's program of "transaction systems to make Big Brother obsolete."
+The technical chain starts before the mailing list existed. [[public-key-cryptography|Public-Key Cryptography]] emerges from Diffie and Hellman's 1976 [[new-directions-in-cryptography|New Directions in Cryptography]]: the asymmetric-key insight that makes secure communication between strangers possible without prior key exchange. David Chaum's 1982 [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] and 1985 [[security-without-identification|Security Without Identification]] show how cryptographic primitives can produce privacy-preserving payment, communication, and credential systems — Chaum's program of "transaction systems to make Big Brother obsolete."
 
-[[proof-of-work|Proof of Work]] follows in the late 1990s. Adam Back's *Hashcash* (1997 announcement, 2002 formal paper) introduces a publicly verifiable cost function for throttling spam. Wei Dai's 1998 *b-money* sketches a pseudonymous digital money using proof-of-work issuance. Nick Szabo's 2005 *Bit Gold* applies costly bits to a distributed title registry. Satoshi Nakamoto's 2008 [[bitcoin-whitepaper|Bitcoin Whitepaper]] integrates Hashcash-style proof of work, distributed timestamping, and incentive design into a working peer-to-peer cash system. Bitcoin is the most public artifact of the cypherpunk program and the moment cypherpunk technology stopped being demonstration and started being infrastructure.
+[[proof-of-work|Proof of Work]] follows in the late 1990s. Adam Back's [[hashcash|Hashcash]] (1997 announcement, 2002 formal paper) introduces a publicly verifiable cost function for throttling spam. Wei Dai's 1998 *b-money* sketches a pseudonymous digital money using proof-of-work issuance. Nick Szabo's 2005 *Bit Gold* applies costly bits to a distributed title registry. Satoshi Nakamoto's 2008 [[bitcoin-whitepaper|Bitcoin Whitepaper]] integrates Hashcash-style proof of work, distributed timestamping, and incentive design into a working peer-to-peer cash system. Bitcoin is the most public artifact of the cypherpunk program and the moment cypherpunk technology stopped being demonstration and started being infrastructure.
 
 ## The Austrian Bridge
 
@@ -35,7 +35,7 @@ The wiki position is that this is not a coincidence. Szabo writes from inside th
 
 ## The Modern Synthesis Writers
 
-A later generation reads Bitcoin as a fully Austrian-libertarian project. Saifedean Ammous's *The Bitcoin Standard* (2018) and *Principles of Economics* (2023) frame Bitcoin in explicit Misesian terms (currently stub-only in raw/ because both are commercial books). Pierre Rochard's *Speculative Attack* (2014) describes hyperbitcoinization as a monetary process in which good money drives out bad. Allen Farrington's *Bitcoin Is Venice* (essays, 2021) reads Bitcoin as a civilizational exit from fiat finance. These writers depend on the earlier cypherpunk and Austrian work and assume readers already have both backgrounds.
+A later generation reads Bitcoin as a fully Austrian-libertarian project. Saifedean Ammous's *The Bitcoin Standard* (2018) and *Principles of Economics* (2023) frame Bitcoin in explicit Misesian terms (currently stub-only in raw/ because both are commercial books). Pierre Rochard's [[speculative-attack|Speculative Attack]] (2014) describes hyperbitcoinization as a monetary process in which good money drives out bad. Allen Farrington's [[bitcoin-is-venice|Bitcoin Is Venice]] (essays, 2021) reads Bitcoin as a civilizational exit from fiat finance. These writers depend on the earlier cypherpunk and Austrian work and assume readers already have both backgrounds.
 
 ## Relation to the Privacy-and-Cryptography Topic
 
@@ -53,15 +53,33 @@ Several cypherpunk-canonical topics are notable absences as of 2026-05-28: Phil 
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - Szabo's protocol-design rule
 - [[smart-contracts|Smart Contracts]] - Szabo on contracts as protocols
 - [[proof-of-work|Proof of Work]] - Hashcash to Bit Gold to Bitcoin lineage
+- [[new-directions-in-cryptography|New Directions in Cryptography]] - Diffie-Hellman public-key foundation
+- [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaumian e-cash primitive
+- [[security-without-identification|Security Without Identification]] - Chaum's broader privacy-infrastructure program
+- [[hashcash|Hashcash]] - Adam Back's cost-function bridge to Bitcoin proof of work
 - [[shelling-out|Shelling Out]] - the Mengerian/Misesian bridge from Szabo
 - [[public-key-cryptography|Public-Key Cryptography]] - Diffie-Hellman foundation
 - [[timothy-c-may|Timothy C. May]] - crypto-anarchy anchor author
 - [[nick-szabo|Nick Szabo]] - Austrian-cypherpunk bridge author
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous Bitcoin whitepaper author
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - 2008 design source
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - anonymous-network infrastructure paper
+- [[the-lightning-network-paper|The Lightning Network Paper]] - payment-channel scaling paper
+- [[speculative-attack|Speculative Attack]] - hyperbitcoinization essay
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - modern civilizational-exit essay
 - [[privacy-and-cryptography|Privacy and Cryptography]] - paired topic emphasizing praxeology of privacy
 - [[austrian-economics|Austrian Economics]] - economic framework the bridge connects to
 - [[libertarianism|Libertarianism]] - political framework the bridge extends
+
+- [[lightning-network|Lightning Network]] - second-layer Bitcoin payment-channel design in the cypherpunk digital-cash lineage
+- [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - strong-encryption fight that made routine cryptographic privacy a civil-liberties issue
+- [[unforgeable-costliness|Unforgeable Costliness]] - Szabo-to-Saifedean monetary bridge for costly digital money
+- [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's fiat-vs-Bitcoin system comparison
+- [[the-bitcoin-standard|The Bitcoin Standard]] - later Austrian-Bitcoin synthesis in the cypherpunk reception history
+- [[the-fiat-standard|The Fiat Standard]] - companion fiat-vs-Bitcoin analysis
+- [[phil-zimmermann|Phil Zimmermann]] - PGP creator and Crypto Wars figure
+- [[hal-finney|Hal Finney]] - RPOW creator and early Bitcoin participant
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - libertarian legal-theory reading of Bitcoin ownership and protocol limits
 
 ## Sources
 

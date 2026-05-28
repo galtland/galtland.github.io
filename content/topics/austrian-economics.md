@@ -76,6 +76,12 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying Austrian Business Cycle Theory to a contemporary Fed rate cut
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
+- [[unforgeable-costliness|Unforgeable Costliness]] - Menger-Mises-to-Szabo bridge for hard money and costly scarcity
+- [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's fiat monetary system frame built from Austrian capital and money theory
+- [[the-bitcoin-standard|The Bitcoin Standard]] - Austrian-Bitcoin synthesis source
+- [[principles-of-economics-ammous|Principles of Economics]] - Ammous's Austrian economics textbook
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin
+
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - the central treatise of the modern Austrian school

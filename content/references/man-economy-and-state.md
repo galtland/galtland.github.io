@@ -48,6 +48,8 @@ The current raw source was assembled on 2026-04-21 from 23 top-level section exp
 - [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis applying Rothbard's [[power-and-market|Power and Market]] autistic/binary/triangular intervention typology to programmable central-bank money
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article that applies the [[power-and-market|Power and Market]] tripartite intervention typology to CBDCs
 
+- [[principles-of-economics-ammous|Principles of Economics]] - later Austrian textbook positioned for readers who need a concise Mises-Rothbard sequence
+
 ## Sources
 
 - [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - full aggregated source used for this reference article

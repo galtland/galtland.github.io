@@ -62,6 +62,10 @@ The confidence level is medium because the article describes May's thesis accura
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for cryptographic implementation and privacy theory
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
+- [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - Zimmermann-centered implementation and policy fight over strong encryption
+- [[phil-zimmermann|Phil Zimmermann]] - PGP creator whose work made crypto-anarchic privacy tools practical for ordinary users
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - legal-theory paper testing crypto-anarchic transaction security against property law
+
 ## Sources
 
 - [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) - 1988 statement of the thesis, state-conflict forecast, and barbed-wire metaphor

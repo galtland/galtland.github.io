@@ -46,6 +46,8 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Ch. XX "Interest, Credit Expansion, and the Trade Cycle" on the gross-market-rate distortion
 
+- [[principles-of-economics-ammous|Principles of Economics]] - later Austrian textbook drawing on Misesian action theory
+
 ## Sources
 
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - full Scholar's Edition PDF as a wiki-ingestable aggregate

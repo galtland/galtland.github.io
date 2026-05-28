@@ -67,6 +67,9 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 - [[shelling-out|Shelling Out]] - Szabo's cypherpunk bridge from Mengerian monetary origins to prehistoric collectibles
 - [[nick-szabo|Nick Szabo]] - cypherpunk author whose Shelling Out extends TMC's regression-theorem premise into pre-coinage material culture
 
+- [[unforgeable-costliness|Unforgeable Costliness]] - bridge concept applying the regression theorem to costly collectibles, Bit Gold, and Bitcoin
+- [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's Austrian monetary-history reading of hardness and Bitcoin
+
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) - full 1953 Yale edition PDF (500 pp.) as a wiki-ingestable aggregate, including all four parts plus appendices

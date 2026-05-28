@@ -17,7 +17,7 @@ short: "A publicly verifiable cost function used first to meter access to networ
 
 ## Hashcash: Cost for Access
 
-Adam Back's Hashcash paper formalizes proof of work as a denial-of-service countermeasure. The problem is asymmetry: sending email, posting to a remailer, or opening network connections can be cheap for the attacker and costly for the recipient. Hashcash changes the price of access. A sender must compute a token tied to the service name and challenge; the receiver can verify it with little work.
+Adam Back's [[hashcash|Hashcash]] paper formalizes proof of work as a denial-of-service countermeasure. The problem is asymmetry: sending email, posting to a remailer, or opening network connections can be cheap for the attacker and costly for the recipient. Hashcash changes the price of access. A sender must compute a token tied to the service name and challenge; the receiver can verify it with little work.
 
 Section 3 of the Hashcash paper defines it as non-interactive, publicly auditable, and trapdoor-free. The work is probabilistic: the sender searches for a value that makes a hash meet a target, while the receiver checks the result. Section 4 extends the idea to interactive settings where a server can issue challenges and raise the work factor under load. Section 6 lists later applications, including remailer abuse resistance, Usenet flooding, and Wei Dai's b-money.
 
@@ -54,6 +54,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 ## See Also
 
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - Satoshi's 2008 proof-of-work consensus design
+- [[hashcash|Hashcash]] - Adam Back's cost-function paper that Bitcoin cites
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous author who adapted Hashcash into Bitcoin consensus
 - [[nick-szabo|Nick Szabo]] - Bit Gold author who applied proof of work to digital money
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - design thesis that proof of work partly answers
@@ -62,6 +63,11 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[power-projection|Power Projection]] - concept article for physical-cost projection in cyberspace
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for cypherpunk technical primitives
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
+
+- [[lightning-network|Lightning Network]] - second-layer design that relies on Bitcoin's proof-of-work chain as final adjudicator
+- [[unforgeable-costliness|Unforgeable Costliness]] - monetary bridge from costly collectibles to computational proof of work
+- [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's account of Bitcoin hardness and stock-to-flow
+- [[hal-finney|Hal Finney]] - RPOW creator and early Bitcoin participant in the proof-of-work money lineage
 
 ## Sources
 

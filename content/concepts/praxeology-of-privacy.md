@@ -66,8 +66,12 @@ Lowery's [[softwar|Softwar]] thesis adds a complementary but distinct Bitcoin fr
 - [[crypto-anarchy|Crypto Anarchy]] - May's cypherpunk strategy for making selective disclosure effective against state control
 - [[timothy-c-may|Timothy C. May]] - cypherpunk anchor author whose crypto-anarchy thesis pairs with this concept's praxeological frame for privacy
 - [[public-key-cryptography|Public-Key Cryptography]] - technical primitive that makes user-controlled disclosure and signatures possible
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - anonymous-communication network design used in privacy infrastructure
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article on the Ch. 10 "total intervention" application of this concept to CBDCs
 - [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis applying the praxeology-of-privacy frame to the ECB's confirmed digital-euro architecture
+
+- [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - implementation-era case for routine encryption as selective disclosure
+- [[phil-zimmermann|Phil Zimmermann]] - PGP creator whose essay gives the Crypto Wars privacy argument
 
 ## Sources
 

@@ -7,7 +7,7 @@ Last updated: 2026-05-28
 ## Statistics
 
 - Sources: 104 raw documents
-- Articles: 119 compiled wiki articles
+- Articles: 140 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-28
 - Last lint: 2026-05-18 (post-NATO news-lens)
@@ -28,6 +28,8 @@ Last updated: 2026-05-28
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-28: compile — Two-pass compile on 2026-05-28 Phase B and Saifedean material plus the canon-completion audit. Compile-2 (10 articles): 4 new concepts (`lightning-network`, `pgp-and-the-crypto-wars`, `unforgeable-costliness`, `fiat-as-engineered-system`) and 6 new references (`phil-zimmermann`, `hal-finney`, `the-bitcoin-standard`, `the-fiat-standard`, `principles-of-economics-ammous`, `are-bitcoins-ownable`). Compile-3 (11 work-references): Salerno trilogy (`the-true-money-supply-salerno-1987`, `mises-and-hayek-dehomogenized`, `money-sound-and-unsound`); foundational crypto (`hashcash`, `new-directions-in-cryptography`, `blind-signatures-for-untraceable-payments`, `security-without-identification`, `tor-the-second-generation-onion-router`); Bitcoin synthesis (`the-lightning-network-paper`, `bitcoin-is-venice`, `speculative-attack`). Plus inline-italic-to-dual-link upgrades on existing articles that cited TMS, Dehomogenized, and MSU by full title. 21 new articles, ~38 backlink updates total. Article count 119 → 140.
 
 - 2026-05-28: ingest — Saifedean Ammous's two trade books in full text from the Internet Archive: *The Bitcoin Standard: The Decentralized Alternative to Central Banking* (Wiley, 2018; foreword by Taleb) and *The Fiat Standard: The Debt Slavery Alternative to Human Civilization* (2021). The Bitcoin Standard supersedes the 2026-05-27 metadata stub. The Fiat Standard is a first-time ingest. With *Principles of Economics* (ingested earlier today), the wiki now carries all three of Saifedean's main books at primary-source depth. Sources count 102 → 104.
 

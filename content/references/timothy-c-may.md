@@ -55,6 +55,8 @@ The confidence level is medium. The primary-source claims about the manifesto an
 - [[libertarianism|Libertarianism]] - broader political tradition connected to May's anarcho-capitalist framing
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
+- [[phil-zimmermann|Phil Zimmermann]] - PGP creator and Crypto Wars figure adjacent to May's cypherpunk program
+
 ## Sources
 
 - [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) - May's 1988 statement of crypto anarchy

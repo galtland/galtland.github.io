@@ -65,6 +65,9 @@ The wiki holds two distinct defenses of this normative core. [[the-ethics-of-lib
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis distinguishing the natural-rights and consequentialist defenses on a concrete intervention case
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis distinguishing the natural-rights and consequentialist defenses on a central-bank rate decision
 
+- [[principles-of-economics-ammous|Principles of Economics]] - textbook source with property, violence, and civilization chapters
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin ownership
+
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - states and applies the anti-aggression axiom across many domains

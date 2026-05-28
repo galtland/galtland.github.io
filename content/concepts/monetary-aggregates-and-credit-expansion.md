@@ -40,7 +40,7 @@ Rothbard argued in [[americas-great-depression|America's Great Depression]] Ch. 
 >
 > — Rothbard, [[americas-great-depression|America's Great Depression]], Ch. 4
 
-[[joseph-t-salerno|Joseph T. Salerno]] later refined this in his 1987 paper *"The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy"* as the **True Money Supply (TMS)**. Per Salerno's own component-by-component specification, TMS comprises:
+[[joseph-t-salerno|Joseph T. Salerno]] later refined this in [[the-true-money-supply-salerno-1987|"The 'True' Money Supply"]] as the **True Money Supply (TMS)**. Per Salerno's own component-by-component specification, TMS comprises:
 
 - Currency in the hands of the nonbank public, excluding Treasury, Fed, and commercial-bank vault holdings
 - Demand deposits + other checkable deposits (NOW accounts)
@@ -86,6 +86,8 @@ When all three signal expansion together — TMS growth, policy rate below long 
 - [[americas-great-depression|America's Great Depression]] — Rothbard's empirical money-supply definition and the 1921-1929 measurement
 - [[the-mystery-of-banking|The Mystery of Banking]] — Rothbard's popular treatment, the most accessible source for the broad money-supply criterion
 - [[joseph-t-salerno|Joseph T. Salerno]] — Austrian monetary economist who formalized Rothbard's criterion into the modern TMS
+- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] — Salerno's 1987 component-by-component TMS specification
+- [[money-sound-and-unsound|Money, Sound and Unsound]] — Salerno collection reprinting the TMS paper and broader monetary essays
 
 ## Sources
 

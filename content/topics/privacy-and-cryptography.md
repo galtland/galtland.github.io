@@ -63,7 +63,12 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[austrian-economics|Austrian Economics]] - broader method and political-economy setting
 - [[crypto-anarchy|Crypto Anarchy]] - May's thesis that strong cryptography enables zones outside ordinary state control
 - [[public-key-cryptography|Public-Key Cryptography]] - asymmetric-key primitive behind signatures, encrypted channels, and digital cash
+- [[new-directions-in-cryptography|New Directions in Cryptography]] - public-key foundation paper
+- [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaumian payment-privacy primitive
+- [[security-without-identification|Security Without Identification]] - Chaum's broader transaction-systems program
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - low-latency anonymous-communication design
 - [[proof-of-work|Proof of Work]] - Hashcash-to-Bitcoin cost-function lineage
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper
 - [[smart-contracts|Smart Contracts]] - Szabo's contract-as-protocol concept for reducing intermediary dependence
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - protocol-design rule for minimizing trusted intermediaries
 - [[timothy-c-may|Timothy C. May]] - crypto-anarchy anchor author
@@ -74,6 +79,10 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article on CBDCs as autistic/binary/triangular total intervention
 - [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis instantiating this topic's CBDC frame in the ECB's confirmed digital-euro design
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
+
+- [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - Crypto Wars concept centered on routine strong encryption
+- [[phil-zimmermann|Phil Zimmermann]] - PGP creator and strong-encryption advocate
+- [[hal-finney|Hal Finney]] - PGP contributor, remailer operator, RPOW creator, and early Bitcoin participant
 
 ## Sources
 
