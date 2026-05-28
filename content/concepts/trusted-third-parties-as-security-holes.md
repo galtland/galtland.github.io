@@ -59,6 +59,7 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - property framework affected by concentrated control over assets and identities
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - later peer-to-peer electronic cash design that removes the trusted mint from double-spend prevention
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous designer who adapted this anti-intermediary pattern in Bitcoin
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

@@ -61,6 +61,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[softwar|Softwar]] - Lowery's proof-of-work-as-power-projection thesis
 - [[power-projection|Power Projection]] - concept article for physical-cost projection in cyberspace
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for cypherpunk technical primitives
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

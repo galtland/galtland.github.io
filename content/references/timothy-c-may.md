@@ -53,6 +53,7 @@ The confidence level is medium. The primary-source claims about the manifesto an
 - [[praxeology-of-privacy|Praxeology of Privacy]] - later Austrian-cypherpunk privacy theory
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for May's technical and political domain
 - [[libertarianism|Libertarianism]] - broader political tradition connected to May's anarcho-capitalist framing
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

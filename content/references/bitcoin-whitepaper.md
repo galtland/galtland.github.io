@@ -62,6 +62,7 @@ The whitepaper is high-confidence as a primary text. Its 12 sections, references
 - [[crypto-anarchy|Crypto Anarchy]] - political context for peer-to-peer digital cash
 - [[softwar|Softwar]] - later thesis interpreting Bitcoin proof of work as strategic power projection
 - [[power-projection|Power Projection]] - concept article for Lowery's physical-cost frame
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

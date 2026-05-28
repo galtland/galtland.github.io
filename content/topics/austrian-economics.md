@@ -74,6 +74,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis applying Austrian price-control analysis to the Argentine rental-housing case
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying Austrian Business Cycle Theory to a contemporary Fed rate cut
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

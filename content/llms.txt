@@ -138,6 +138,7 @@
 
 - [Austrian Economics](/topics/austrian-economics) — Topic map of Austrian economics in this wiki: praxeology, calculation, the knowledge problem, capital and the business cycle, property, and the destabilizing logic of intervention.
 - [Critiques of Sovereignty and Power](/topics/critiques-of-sovereignty-and-power) — Topic map collecting non-libertarian critiques of state power through Schmitt's sovereignty/exception/friend-enemy tradition and Foucault's discipline/biopower tradition.
+- [Cypherpunk](/topics/cypherpunk) — Topic map for the cypherpunk thread: a 1990s technical-political movement holding that strong cryptography, anonymous protocols, and verifiable scarcity move power from centralized institutions to individuals. This wiki frames cypherpunk as the implementation arm of an Austrian-libertarian political economy: sound money meets strong cryptography.
 - [Libertarianism](/topics/libertarianism) — Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, Tilly's protection-racket sociology, Arendt/Solzhenitsyn totalitarianism coverage, and non-state legal order.
 - [Privacy and Cryptography](/topics/privacy-and-cryptography) — Topic map for the wiki's privacy-and-cryptography thread: Hillebrand's Austrian theory of privacy, Lowery's power-projection thesis, the resistance axiom, state and corporate surveillance, Bitcoin, proof-of-work, and parallel-economy implementation.
 

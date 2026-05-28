@@ -61,6 +61,7 @@ The confidence level is medium because the article synthesizes one short 1994 es
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - legal-order frame for private enforcement and contractual institutions
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - property-rights frame affected by automatic control over owned things
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for cryptographic primitives and privacy-preserving protocols
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

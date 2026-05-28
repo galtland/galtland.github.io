@@ -61,6 +61,7 @@ The confidence level is high for the core claim. Diffie and Hellman's paper expl
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous designer who used signatures for Bitcoin ownership
 - [[praxeology-of-privacy|Praxeology of Privacy]] - privacy-as-selective-disclosure frame implemented by cryptographic tools
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for privacy-preserving technical systems
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

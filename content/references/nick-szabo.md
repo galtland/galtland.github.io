@@ -57,6 +57,7 @@ That places Szabo near [[market-anarchism-and-private-law|Market Anarchism and P
 - [[austrian-economics|Austrian Economics]] - monetary-theory tradition Szabo most directly bridges to cypherpunk design
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises source for the regression-theorem side of Szabo's monetary bridge
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader technical and political setting for Szabo's work
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

@@ -60,6 +60,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - normative property framework relevant to voluntary cryptographic exchange
 - [[libertarianism|Libertarianism]] - broader political tradition in which May's argument sits
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for cryptographic implementation and privacy theory
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

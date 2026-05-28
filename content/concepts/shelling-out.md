@@ -59,6 +59,7 @@ The confidence level is medium. Szabo's account is influential and fits Austrian
 - [[smart-contracts|Smart Contracts]] - Szabo's protocol-design work on automatic contractual performance
 - [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - adjacent concept on money demand and monetary balances
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for the cypherpunk side of digital money
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

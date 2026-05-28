@@ -55,6 +55,7 @@ That limitation is important for [[privacy-and-cryptography|Privacy and Cryptogr
 - [[crypto-anarchy|Crypto Anarchy]] - political-technical environment in which peer-to-peer digital cash became meaningful
 - [[softwar|Softwar]] - later national-security interpretation of Bitcoin proof of work
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for Bitcoin's cryptographic context
+- [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 ## Sources
 

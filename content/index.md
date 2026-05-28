@@ -2,27 +2,34 @@
 
 > Where Austrian economics meets cypherpunk code. Political philosophy, monetary theory, cryptography, history, and the arguments that bind them. Published at https://index.galtland.org/.
 
-Last updated: 2026-05-27
+Last updated: 2026-05-28
 
 ## Statistics
 
 - Sources: 97 raw documents
-- Articles: 118 compiled wiki articles
+- Articles: 119 compiled wiki articles
 - Outputs: 1 generated artifacts
-- Last compiled: 2026-05-27
+- Last compiled: 2026-05-28
 - Last lint: 2026-05-18 (post-NATO news-lens)
 
 ## Quick Navigation
 
 - [All Sources](raw/_index.md)
 - [Concepts](concepts/)
-- [Topics](topics/)
+- [Topics](topics/):
+  - [Austrian Economics](wiki/topics/austrian-economics.md)
+  - [Cypherpunk](wiki/topics/cypherpunk.md)
+  - [Libertarianism](wiki/topics/libertarianism.md)
+  - [Privacy and Cryptography](wiki/topics/privacy-and-cryptography.md)
+  - [Critiques of Sovereignty and Power](wiki/topics/critiques-of-sovereignty-and-power.md)
 - [References](references/)
 - [Theses](theses/)
 - [Outputs](output/_index.md)
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-28: topic — added `wiki/topics/cypherpunk.md`, a dedicated topic map for the cypherpunk thread covering the manifestos (May, Hughes, Barlow), the technical lineage (Diffie-Hellman → Chaum → Hashcash → b-money → Bit Gold → Bitcoin), the Szabo-as-Austrian-bridge thesis, and the modern synthesis writers (Saifedean, Rochard, Farrington). Adjacent to but distinct from the existing `privacy-and-cryptography` topic — cypherpunk emphasizes the political-movement axis, privacy-and-cryptography emphasizes praxeology of privacy. Expanded Quick Navigation on this homepage to surface the 5 topics by name. Added reciprocal See Also entries on 10 cypherpunk-canon articles plus the 3 adjacent topics. Repositioned master description from Austrian-libertarian-only to "Where Austrian economics meets cypherpunk code." (PR #15.)
 
 - 2026-05-27: compile — drafted 10 new wiki articles from the 2026-05-27 cypherpunk-canon ingest. New concepts: `crypto-anarchy`, `trusted-third-parties-as-security-holes`, `smart-contracts`, `proof-of-work`, `shelling-out` (the Szabo bridge to existing Mengerian/Misesian regression theorem material in `the-theory-of-money-and-credit`), `public-key-cryptography`. New references: `timothy-c-may`, `nick-szabo`, `satoshi-nakamoto`, `bitcoin-whitepaper`. Added See Also backlinks to 11 existing articles (cash-holding, market-anarchism-and-private-law, nonaggression-and-property-rights, power-projection, praxeology-of-privacy, state-power-and-intervention, softwar, the-theory-of-money-and-credit, austrian-economics, libertarianism, privacy-and-cryptography) so the cypherpunk thread cross-references the Austrian-libertarian spine bidirectionally.
 
