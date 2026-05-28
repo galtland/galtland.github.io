@@ -6,7 +6,7 @@ Last updated: 2026-05-28
 
 ## Statistics
 
-- Sources: 102 raw documents
+- Sources: 104 raw documents
 - Articles: 119 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-28
@@ -28,6 +28,8 @@ Last updated: 2026-05-28
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-28: ingest — Saifedean Ammous's two trade books in full text from the Internet Archive: *The Bitcoin Standard: The Decentralized Alternative to Central Banking* (Wiley, 2018; foreword by Taleb) and *The Fiat Standard: The Debt Slavery Alternative to Human Civilization* (2021). The Bitcoin Standard supersedes the 2026-05-27 metadata stub. The Fiat Standard is a first-time ingest. With *Principles of Economics* (ingested earlier today), the wiki now carries all three of Saifedean's main books at primary-source depth. Sources count 102 → 104.
 
 - 2026-05-28: ingest — Phase B cypherpunk ingest plus user-requested *Principles of Economics* full-text (5 new raw files). Phil Zimmermann *Why I Wrote PGP* (1991/1999) — founding political text of the Crypto Wars era. Curated Hal Finney corpus: *Bitcoin and Me* (2013), RPOW announcement (2004), and Hal's first Bitcoin reaction on the cryptography mailing list (2008). Saifedean Ammous *Principles of Economics* full text from the Internet Archive scan (`principles-of-economics_202409`, 4.2MB PDF → 807KB extracted) — supersedes the 2026-05-27 stub. Lightning Network whitepaper (Poon & Dryja, 2016) — Bitcoin second-layer scaling reference. Konrad Graf *Are Bitcoins Ownable?* retry — found at the author's own free PDF mirror after the 2026-05-27 SNI URLs failed; supersedes the failed-fetch stub. Closes the four canonical gaps flagged inside the new `wiki/topics/cypherpunk.md` topic article.
 
