@@ -83,6 +83,16 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - Crypto Wars concept centered on routine strong encryption
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator and strong-encryption advocate
 - [[hal-finney|Hal Finney]] - PGP contributor, remailer operator, RPOW creator, and early Bitcoin participant
+- [[code-as-speech|Code as Speech]] - legal protection for publishing encryption source code
+- [[ring-signatures|Ring Signatures]] - transaction-privacy primitive for sender ambiguity
+- [[zk-snarks|zk-SNARKs]] - zero-knowledge proof primitive for shielded payments
+- [[forward-secrecy|Forward Secrecy]] - encrypted-communication property limiting retroactive compromise
+- [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] - government-access encryption architecture and Crypto Wars resistance
+- [[bernstein-v-united-states-1999|Bernstein v. United States (1999)]] - court ruling on encryption source code and prior restraint
+- [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin design with one-time keys and ring signatures
+- [[zerocash|Zerocash]] - zk-SNARK private-payment design
+- [[signal-x3dh|Signal X3DH]] - asynchronous key agreement for encrypted messaging
+- [[signal-double-ratchet|Signal Double Ratchet]] - per-message ratcheting for forward-secure messaging
 
 ## Sources
 

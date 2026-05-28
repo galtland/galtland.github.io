@@ -75,6 +75,9 @@ The whitepaper is high-confidence as a primary text. Its 12 sections, references
 - [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token, the payer unblinds it...
 - [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed throu...
 - [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through spec...
+- [[zk-snarks|zk-SNARKs]] - proof primitive used to hide details of Bitcoin-style ledger transitions
+- [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin paper responding to Bitcoin transaction traceability
+- [[zerocash|Zerocash]] - anonymous-payment design built as an extension or fork of Bitcoin-style ledgers
 
 ## Sources
 

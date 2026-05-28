@@ -84,6 +84,16 @@ Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-200
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator and Crypto Wars figure
 - [[hal-finney|Hal Finney]] - RPOW creator and early Bitcoin participant
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - libertarian legal-theory reading of Bitcoin ownership and protocol limits
+- [[code-as-speech|Code as Speech]] - legal thesis that publishing encryption source code can be protected speech
+- [[ring-signatures|Ring Signatures]] - sender-privacy primitive in the CryptoNote/Monero lineage
+- [[zk-snarks|zk-SNARKs]] - zero-knowledge proof primitive used in Zerocash/Zcash
+- [[forward-secrecy|Forward Secrecy]] - key-compromise property central to modern secure messaging
+- [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] - 1990s government-access encryption fight
+- [[bernstein-v-united-states-1999|Bernstein v. United States (1999)]] - Ninth Circuit code-as-speech ruling
+- [[cryptonote-whitepaper|CryptoNote Whitepaper]] - Monero foundation paper for private electronic cash
+- [[zerocash|Zerocash]] - Zcash foundation paper for zk-SNARK private payments
+- [[signal-x3dh|Signal X3DH]] - asynchronous Signal key-agreement specification
+- [[signal-double-ratchet|Signal Double Ratchet]] - Signal messaging ratchet for forward-secure conversations
 
 ## Sources
 

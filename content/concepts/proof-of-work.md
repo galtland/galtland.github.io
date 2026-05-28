@@ -69,6 +69,8 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's account of Bitcoin hardness and stock-to-flow
 - [[hal-finney|Hal Finney]] - RPOW creator and early Bitcoin participant in the proof-of-work money lineage
 - [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's bloc...
+- [[ring-signatures|Ring Signatures]] - CryptoNote privacy primitive paired with its egalitarian proof-of-work design
+- [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin paper proposing a memory-bound proof-of-work function
 
 ## Sources
 

@@ -49,6 +49,9 @@ The paper does not itself give every later algorithm or deployed protocol. Its c
 - [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - later anonymous-communication system using public-key handshakes
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - digital-signature chain plus proof-of-work settlement
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - public-key encryption as civil-liberties conflict
+- [[forward-secrecy|Forward Secrecy]] - session property built from ephemeral Diffie-Hellman exchange
+- [[signal-x3dh|Signal X3DH]] - Signal key agreement protocol built from multiple Diffie-Hellman computations
+- [[signal-double-ratchet|Signal Double Ratchet]] - messaging ratchet that repeatedly mixes Diffie-Hellman outputs into fresh chains
 
 ## Sources
 

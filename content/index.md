@@ -7,7 +7,7 @@ Last updated: 2026-05-28
 ## Statistics
 
 - Sources: 111 raw documents
-- Articles: 140 compiled wiki articles
+- Articles: 150 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-28
 - Last lint: 2026-05-18 (post-NATO news-lens)
@@ -28,6 +28,8 @@ Last updated: 2026-05-28
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-28: compile-4 — 10 new articles drawing from the Phase C ingest (PR #23). Concepts (5): `code-as-speech` (Bernstein-v-United-States thesis), `ring-signatures` (CryptoNote/Monero), `zk-snarks` (Zerocash/Zcash), `forward-secrecy` (Signal), `key-escrow-and-clipper-chip` (1990s Crypto Wars). Work-refs (5): `bernstein-v-united-states-1999`, `cryptonote-whitepaper`, `zerocash`, `signal-x3dh`, `signal-double-ratchet`. Backlink-audit script verified zero reciprocity misses (codex incorporated the explicit reciprocity instruction in the prompt; pre-emptive audit confirmed). Article count 140 → 150.
 
 - 2026-05-28: ingest — Phase C cypherpunk-canon completion (7 new raw files, ~728KB). Two dossiers (1990s Crypto Wars 140.8KB; cypherpunks mailing-list curated subset 133.3KB) + five primary documents: *Bernstein v. United States* 9th Circuit opinion (1999), CryptoNote v2.0, Zerocash extended paper, Signal X3DH, Signal Double Ratchet. Closes the 'Still missing' list named in `wiki/topics/cypherpunk.md` after the 2026-05-28 compile-3 pass. Sources count 104 → 111.
 

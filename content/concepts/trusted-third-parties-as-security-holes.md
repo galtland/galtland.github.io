@@ -67,6 +67,12 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token, the payer unblinds it...
 - [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers, untracea...
 - [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's bloc...
+- [[zk-snarks|zk-SNARKs]] - privacy primitive whose early deployments raise a trusted-setup trade-off
+- [[forward-secrecy|Forward Secrecy]] - key-management property that limits damage from later key compromise
+- [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] - explicit government-access design built around trusted key holders
+- [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin design avoiding trusted mixers through protocol-level anonymity
+- [[zerocash|Zerocash]] - anonymous-payment design that removes a bank but introduces setup assumptions
+- [[signal-x3dh|Signal X3DH]] - prekey protocol that uses a server while limiting server trust
 
 ## Sources
 

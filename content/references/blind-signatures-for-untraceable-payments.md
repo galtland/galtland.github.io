@@ -49,6 +49,10 @@ The paper belongs beside [[new-directions-in-cryptography|New Directions in Cryp
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - later digital-cash design that removes the bank but changes the privacy surface
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - Szabo's later critique of institutional trust points
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - adjacent public-key privacy deployment conflict
+- [[ring-signatures|Ring Signatures]] - later digital-cash privacy primitive without a signing bank
+- [[zk-snarks|zk-SNARKs]] - later zero-knowledge path for private ledger validation
+- [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin paper in the post-Chaum digital-cash lineage
+- [[zerocash|Zerocash]] - zk-SNARK-based anonymous payment design extending the e-cash lineage
 
 ## Sources
 

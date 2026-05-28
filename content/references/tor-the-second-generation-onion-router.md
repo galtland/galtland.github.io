@@ -49,6 +49,8 @@ This is the paper's bridge from anonymous client browsing to broader resistant i
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - Hillebrand book that includes anonymous communication networks in its implementation map
 - [[crypto-anarchy|Crypto Anarchy]] - political thesis that strong cryptography and anonymous networks frustrate control
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - earlier public conflict over routine strong encryption
+- [[forward-secrecy|Forward Secrecy]] - cryptographic property Tor's telescoping circuit construction helps provide
+- [[signal-double-ratchet|Signal Double Ratchet]] - messaging protocol with a different forward-secret key-update pattern
 
 ## Sources
 

@@ -73,6 +73,10 @@ The confidence level is high for the core claim. Diffie and Hellman's paper expl
 - [[hal-finney|Hal Finney]] - PGP contributor and later Bitcoin participant
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper built around signing keys, control, and UTXOs
 - [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's bloc...
+- [[ring-signatures|Ring Signatures]] - public-key signature variant that hides which key in a set signed
+- [[forward-secrecy|Forward Secrecy]] - session property built from ephemeral public-key exchange
+- [[signal-x3dh|Signal X3DH]] - asynchronous authenticated key agreement using identity keys, prekeys, and DH composition
+- [[signal-double-ratchet|Signal Double Ratchet]] - messaging ratchet that repeatedly mixes Diffie-Hellman outputs into new keys
 
 ## Sources
 
