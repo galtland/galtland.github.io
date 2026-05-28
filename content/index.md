@@ -1,6 +1,6 @@
 # Galtland Index
 
-> Austrian-libertarian topic wiki — political philosophy, monetary theory, history, arguments, critics, and policy debates. Published at https://index.galtland.org/.
+> Where Austrian economics meets cypherpunk code. Political philosophy, monetary theory, cryptography, history, and the arguments that bind them. Published at https://index.galtland.org/.
 
 Last updated: 2026-05-27
 
