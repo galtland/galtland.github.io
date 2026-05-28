@@ -5,7 +5,7 @@ category: concept
 created: 2026-05-28
 updated: 2026-05-28
 tags: [money, bitcoin, nick-szabo, saifedean-ammous, proof-of-work, stock-to-flow, regression-theorem, austrian-economics]
-aliases: [unforgeable costliness, hardness, stock-to-flow, costly scarcity, hard money]
+aliases: [unforgeable costliness, costly scarcity, costly-to-create money]
 confidence: medium-high
 summary: "Unforgeable costliness is the monetary primitive linking Szabo's prehistoric collectibles and Bit Gold to Saifedean Ammous's hardness and stock-to-flow account of Bitcoin. Money must be hard to produce or its issuers can cheaply inflate away holders' wealth."
 short: "The bridge from shell beads and precious metals to proof of work: money must be costly to produce, hard to forge, and hard to inflate."
