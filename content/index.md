@@ -6,7 +6,7 @@ Last updated: 2026-05-28
 
 ## Statistics
 
-- Sources: 97 raw documents
+- Sources: 102 raw documents
 - Articles: 119 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-28
@@ -28,6 +28,8 @@ Last updated: 2026-05-28
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-28: ingest — Phase B cypherpunk ingest plus user-requested *Principles of Economics* full-text (5 new raw files). Phil Zimmermann *Why I Wrote PGP* (1991/1999) — founding political text of the Crypto Wars era. Curated Hal Finney corpus: *Bitcoin and Me* (2013), RPOW announcement (2004), and Hal's first Bitcoin reaction on the cryptography mailing list (2008). Saifedean Ammous *Principles of Economics* full text from the Internet Archive scan (`principles-of-economics_202409`, 4.2MB PDF → 807KB extracted) — supersedes the 2026-05-27 stub. Lightning Network whitepaper (Poon & Dryja, 2016) — Bitcoin second-layer scaling reference. Konrad Graf *Are Bitcoins Ownable?* retry — found at the author's own free PDF mirror after the 2026-05-27 SNI URLs failed; supersedes the failed-fetch stub. Closes the four canonical gaps flagged inside the new `wiki/topics/cypherpunk.md` topic article.
 
 - 2026-05-28: topic — added `wiki/topics/cypherpunk.md`, a dedicated topic map for the cypherpunk thread covering the manifestos (May, Hughes, Barlow), the technical lineage (Diffie-Hellman → Chaum → Hashcash → b-money → Bit Gold → Bitcoin), the Szabo-as-Austrian-bridge thesis, and the modern synthesis writers (Saifedean, Rochard, Farrington). Adjacent to but distinct from the existing `privacy-and-cryptography` topic — cypherpunk emphasizes the political-movement axis, privacy-and-cryptography emphasizes praxeology of privacy. Expanded Quick Navigation on this homepage to surface the 5 topics by name. Added reciprocal See Also entries on 10 cypherpunk-canon articles plus the 3 adjacent topics. Repositioned master description from Austrian-libertarian-only to "Where Austrian economics meets cypherpunk code." (PR #15.)
 
