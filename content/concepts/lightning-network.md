@@ -65,6 +65,7 @@ The tradeoff is therefore not "blockchain or no blockchain." It is whether the b
 - [[hal-finney|Hal Finney]] - RPOW and early Bitcoin participant whose work sits upstream of payment-channel scaling
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Saifedean's monetary reading of Bitcoin, including second-layer scaling concerns
 - [[the-fiat-standard|The Fiat Standard]] - later Ammous source with a dedicated Bitcoin scaling chapter
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed throu...
 
 ## Sources
 

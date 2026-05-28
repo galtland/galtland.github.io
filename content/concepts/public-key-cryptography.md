@@ -72,6 +72,7 @@ The confidence level is high for the core claim. Diffie and Hellman's paper expl
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator who packaged public-key cryptography for ordinary users
 - [[hal-finney|Hal Finney]] - PGP contributor and later Bitcoin participant
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper built around signing keys, control, and UTXOs
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's bloc...
 
 ## Sources
 

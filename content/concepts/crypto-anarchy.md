@@ -65,6 +65,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - Zimmermann-centered implementation and policy fight over strong encryption
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator whose work made crypto-anarchic privacy tools practical for ordinary users
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - legal-theory paper testing crypto-anarchic transaction security against property law
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits, directo...
 
 ## Sources
 

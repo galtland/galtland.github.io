@@ -6,7 +6,7 @@ created: 2026-05-28
 updated: 2026-05-28
 tags: [saifedean-ammous, bitcoin, sound-money, austrian-economics, monetary-history, central-banking, stock-to-flow, cypherpunk]
 aliases: [Bitcoin Standard, The Bitcoin Standard: The Decentralized Alternative to Central Banking]
-confidence: medium-high
+confidence: medium
 summary: "Saifedean Ammous's 2018 Wiley book argues that Bitcoin should be understood as digital hard money through a Mengerian/Austrian history of monetary technologies, salability, time preference, government money, and central banking."
 short: "Ammous's 2018 hard-money case for Bitcoin, now represented by a full-text raw ingest rather than the 2026-05-27 metadata stub."
 ---
@@ -61,6 +61,11 @@ The book is influential in Bitcoin circles, but its interpretive claims should n
 - [[austrian-economics|Austrian Economics]] - school of thought Ammous uses explicitly
 - [[cypherpunk|Cypherpunk]] - movement context for Bitcoin as non-state digital money
 - [[lightning-network|Lightning Network]] - second-layer scaling design relevant to the book's Bitcoin questions
+- [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's Fiat Standard frame: fiat as debt-based monetary engineering, with central ban...
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verificat...
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's bloc...
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed throu...
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through spec...
 
 ## Sources
 

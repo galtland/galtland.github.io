@@ -64,6 +64,9 @@ Confidence is medium-high. The vocabulary is directly present in Szabo and Ammou
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's hardness and stock-to-flow source
 - [[hal-finney|Hal Finney]] - RPOW implementer who explicitly linked reusable proof of work to Szabo's Bit Gold
 - [[cypherpunk|Cypherpunk]] - political and technical milieu for digital hard-money designs
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verificat...
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed throu...
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through spec...
 
 ## Sources
 

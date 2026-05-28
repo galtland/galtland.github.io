@@ -72,6 +72,7 @@ Lowery's [[softwar|Softwar]] thesis adds a complementary but distinct Bitcoin fr
 
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - implementation-era case for routine encryption as selective disclosure
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator whose essay gives the Crypto Wars privacy argument
+- [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers, untracea...
 
 ## Sources
 

@@ -69,6 +69,8 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 
 - [[unforgeable-costliness|Unforgeable Costliness]] - bridge concept applying the regression theorem to costly collectibles, Bit Gold, and Bitcoin
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's Austrian monetary-history reading of hardness and Bitcoin
+- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate desi...
+- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian so...
 
 ## Sources
 

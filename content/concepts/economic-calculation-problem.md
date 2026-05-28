@@ -53,6 +53,7 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - application of calculation concerns to politicized fiat credit allocation
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source connecting fiat incentives to price, science, fuel, and policy distortions
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source for the capitalism and calculation chapter
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner pa...
 
 ## Sources
 

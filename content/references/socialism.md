@@ -41,6 +41,7 @@ The current raw source is the Mises Institute's PDF edition (600 pages), extract
 - [[state-power-and-intervention|State Power and Intervention]] - state coercion as a special case of destructionism
 - [[liberalism|Liberalism]] - related work in this corpus
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis grounded in the 1922 calculation framework this book opens
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner pa...
 
 ## Sources
 

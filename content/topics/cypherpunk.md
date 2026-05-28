@@ -35,7 +35,7 @@ The wiki position is that this is not a coincidence. Szabo writes from inside th
 
 ## The Modern Synthesis Writers
 
-A later generation reads Bitcoin as a fully Austrian-libertarian project. Saifedean Ammous's *The Bitcoin Standard* (2018) and *Principles of Economics* (2023) frame Bitcoin in explicit Misesian terms (currently stub-only in raw/ because both are commercial books). Pierre Rochard's [[speculative-attack|Speculative Attack]] (2014) describes hyperbitcoinization as a monetary process in which good money drives out bad. Allen Farrington's [[bitcoin-is-venice|Bitcoin Is Venice]] (essays, 2021) reads Bitcoin as a civilizational exit from fiat finance. These writers depend on the earlier cypherpunk and Austrian work and assume readers already have both backgrounds.
+A later generation reads Bitcoin as a fully Austrian-libertarian project. Saifedean Ammous's [[the-bitcoin-standard|The Bitcoin Standard]] (Wiley, 2018), [[the-fiat-standard|The Fiat Standard]] (2021), and [[principles-of-economics-ammous|Principles of Economics]] (2023) frame Bitcoin and the post-1971 fiat regime in explicit Misesian terms. Pierre Rochard's [[speculative-attack|Speculative Attack]] (2014) describes hyperbitcoinization as a monetary process in which good money drives out bad. Allen Farrington's [[bitcoin-is-venice|Bitcoin Is Venice]] (essays, 2021) reads Bitcoin as a civilizational exit from fiat finance. These writers depend on the earlier cypherpunk and Austrian work and assume readers already have both backgrounds.
 
 ## Relation to the Privacy-and-Cryptography Topic
 
@@ -45,7 +45,9 @@ This topic overlaps with [[privacy-and-cryptography|Privacy and Cryptography]] b
 
 This topic should not absorb every cryptographic or blockchain technology. The wiki value is in the cypherpunk-Austrian connection: how concrete cryptographic systems implement long-standing libertarian commitments to property, sound money, and resistance to coerced disclosure. Smart-contract-platform tutorials, altcoin economics, NFT history, and academic cryptography that does not bear on the political thesis belong elsewhere.
 
-Several cypherpunk-canonical topics are notable absences as of 2026-05-28: Phil Zimmermann's *Why I Wrote PGP* and the 1990s Crypto Wars (Clipper Chip, key escrow, code-as-speech rulings), Hal Finney's RPOW and early-Bitcoin correspondence, the Lightning Network whitepaper, the Cypherpunks mailing list archive itself, and Konrad Graf's *Are Bitcoins Ownable?* (currently a fetch-failed stub). These are flagged as gaps to close in subsequent ingest passes.
+Closed gaps as of 2026-05-28 (the same day this topic was first written): Phil Zimmermann's *Why I Wrote PGP* and the 1990s Crypto Wars are now treated in [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]]; [[hal-finney|Hal Finney]] has a dedicated author reference covering his RPOW and early-Bitcoin correspondence; the [[the-lightning-network-paper|Lightning Network whitepaper]] is ingested and paired with the [[lightning-network|Lightning Network]] concept; Konrad Graf's [[are-bitcoins-ownable|Are Bitcoins Ownable?]] was successfully retried from the author's own free PDF mirror; all three Saifedean books are ingested in full text.
+
+Still missing: 1990s Crypto Wars primary sources beyond Zimmermann's essay (Clipper Chip materials, *Bernstein v. United States* code-is-speech ruling, the PGP export-prosecution case file); the Cypherpunks mailing list archive itself (1992-2009); and primary materials on later privacy-coin and messaging protocols (Monero/CryptoNote, Zcash/Zerocash, Signal).
 
 ## See Also
 

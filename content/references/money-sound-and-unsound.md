@@ -51,6 +51,7 @@ The article's confidence is high because the raw source preserves the table of c
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises monetary source behind the collection
 - [[the-mystery-of-banking|The Mystery of Banking]] - Rothbard banking source behind Salerno's TMS and sound-money line
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] - institutional implication of the sound-money and fiduciary-media critique
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through spec...
 
 ## Sources
 

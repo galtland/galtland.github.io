@@ -6,7 +6,7 @@ created: 2026-05-28
 updated: 2026-05-28
 tags: [saifedean-ammous, economics, austrian-economics, textbook, human-action, property, money, civilization, bitcoin]
 aliases: [Ammous Principles of Economics, Saifedean Principles of Economics, Principles of Economics Ammous]
-confidence: medium-high
+confidence: medium
 summary: "Saifedean Ammous's 2023 textbook presents an Austrian economics sequence across human action, value, time, property, capital, money, markets, monetary economics, violence, defense, and civilization."
 short: "Ammous's 2023 Austrian economics textbook in five parts and eighteen chapters, positioned after The Bitcoin Standard and The Fiat Standard."
 ---

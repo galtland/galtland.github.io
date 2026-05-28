@@ -66,6 +66,8 @@ Confidence is medium. The article can describe Ammous's framing with high confid
 - [[hundred-percent-reserve-banking|Hundred Percent Reserve Banking]] - free-banking and fiduciary-media debate adjacent to fiat debt issuance
 - [[austrian-economics|Austrian Economics]] - broader monetary and capital-theory context
 - [[cypherpunk|Cypherpunk]] - Bitcoin-centered exit framework that motivates the fiat-vs-Bitcoin comparison
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed throu...
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through spec...
 
 ## Sources
 

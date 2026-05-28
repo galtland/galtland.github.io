@@ -65,6 +65,7 @@ The confidence level is medium because the article synthesizes one short 1994 es
 
 - [[lightning-network|Lightning Network]] - practical Bitcoin-script channel design using HTLCs as enforceable contract logic
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - legal-theory paper that places Szabo's smart-contract work in the crypto-anarchic law context
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's bloc...
 
 ## Sources
 

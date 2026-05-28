@@ -55,6 +55,7 @@ The book also rejects a simple "information is property" view. Its property-righ
 - [[austrian-economics|Austrian Economics]] - broader economic framework Hillebrand applies to privacy and cypherpunk implementation
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - argumentation-ethics lineage used by Hillebrand
 - [[ludwig-von-mises|Ludwig von Mises]] - source of the action axiom and praxeological method
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits, directo...
 
 ## Sources
 

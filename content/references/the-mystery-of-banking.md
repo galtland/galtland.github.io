@@ -42,6 +42,7 @@ The 100%-reserve-banking position the wiki adopts in [[hundred-percent-reserve-b
 - [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] — Salerno paper that cites this book's broad money-supply criterion
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] — the position the book most accessibly defends
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — the measurement framework whose Rothbardian basis is this book
+- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian so...
 
 ## Sources
 

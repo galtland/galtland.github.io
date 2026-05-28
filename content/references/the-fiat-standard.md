@@ -59,6 +59,8 @@ The book is best handled as Ammous's synthesis. It is valuable for its internal 
 - [[hundred-percent-reserve-banking|Hundred Percent Reserve Banking]] - reserve-banking debate adjacent to the book's anti-fractional-reserve claims
 - [[cypherpunk|Cypherpunk]] - Bitcoin exit context for the book's fiat-vs-Bitcoin conclusion
 - [[lightning-network|Lightning Network]] - second-layer scaling design relevant to the book's Bitcoin scaling chapter
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed throu...
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through spec...
 
 ## Sources
 

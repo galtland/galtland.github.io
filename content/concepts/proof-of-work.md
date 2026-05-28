@@ -68,6 +68,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[unforgeable-costliness|Unforgeable Costliness]] - monetary bridge from costly collectibles to computational proof of work
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's account of Bitcoin hardness and stock-to-flow
 - [[hal-finney|Hal Finney]] - RPOW creator and early Bitcoin participant in the proof-of-work money lineage
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's bloc...
 
 ## Sources
 

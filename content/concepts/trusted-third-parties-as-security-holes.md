@@ -64,6 +64,9 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[lightning-network|Lightning Network]] - non-custodial scaling design that avoids payment hubs as trusted custodians
 - [[hal-finney|Hal Finney]] - RPOW and early Bitcoin participant working in the anti-trusted-third-party lineage
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper on Bitcoin, legal remedies, and protocol limits without trusted reversal authorities
+- [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token, the payer unblinds it...
+- [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers, untracea...
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's bloc...
 
 ## Sources
 
