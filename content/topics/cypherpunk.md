@@ -5,7 +5,7 @@ category: topic
 created: 2026-05-28
 updated: 2026-05-28
 tags: [cypherpunk, crypto-anarchy, cryptography, bitcoin, privacy, proof-of-work, austrian-economics, libertarianism]
-aliases: [cypherpunks, crypto-anarchism, cypherpunk movement, code is speech]
+aliases: [cypherpunks, crypto-anarchism, cypherpunk movement]
 confidence: medium
 summary: "Topic map for the cypherpunk thread: a 1990s technical-political movement holding that strong cryptography, anonymous protocols, and verifiable scarcity move power from centralized institutions to individuals. This wiki frames cypherpunk as the implementation arm of an Austrian-libertarian political economy: sound money meets strong cryptography."
 short: "Cypherpunk as the implementation arm of Austrian libertarianism: strong cryptography, anonymous protocols, and verifiable scarcity replacing trusted intermediaries with verifiable rules."

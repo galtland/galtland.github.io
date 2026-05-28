@@ -5,7 +5,7 @@ category: reference
 created: 2026-05-05
 updated: 2026-05-05
 tags: [hayek, knowledge-problem, spontaneous-order, socialist-calculation-debate, competition]
-aliases: [I&EO, Hayek's Individualism, Use of Knowledge in Society]
+aliases: [I&EO, Hayek's Individualism]
 confidence: medium
 summary: "Reference guide to Hayek's 1948 essay collection containing 'The Use of Knowledge in Society', 'Economics and Knowledge', the three 'Socialist Calculation' essays, and 'The Meaning of Competition' — the most concentrated statement of his knowledge-problem critique of central planning."
 ---

@@ -5,7 +5,7 @@ category: reference
 created: 2026-05-12
 updated: 2026-05-12
 tags: [carl-schmitt, concept-of-the-political, friend-enemy-distinction, sovereignty, political-theory, non-libertarian, commercially-published]
-aliases: [Concept of the Political, Der Begriff des Politischen]
+aliases: [Der Begriff des Politischen, Schmitt's Concept of the Political]
 confidence: medium
 summary: "Reference guide to Carl Schmitt's The Concept of the Political, especially the friend/enemy criterion and critique of liberal depoliticization."
 ---
