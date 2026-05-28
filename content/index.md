@@ -6,7 +6,7 @@ Last updated: 2026-05-28
 
 ## Statistics
 
-- Sources: 104 raw documents
+- Sources: 111 raw documents
 - Articles: 140 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-28
@@ -28,6 +28,8 @@ Last updated: 2026-05-28
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-28: ingest — Phase C cypherpunk-canon completion (7 new raw files, ~728KB). Two dossiers (1990s Crypto Wars 140.8KB; cypherpunks mailing-list curated subset 133.3KB) + five primary documents: *Bernstein v. United States* 9th Circuit opinion (1999), CryptoNote v2.0, Zerocash extended paper, Signal X3DH, Signal Double Ratchet. Closes the 'Still missing' list named in `wiki/topics/cypherpunk.md` after the 2026-05-28 compile-3 pass. Sources count 104 → 111.
 
 - 2026-05-28: compile — Two-pass compile on 2026-05-28 Phase B and Saifedean material plus the canon-completion audit. Compile-2 (10 articles): 4 new concepts (`lightning-network`, `pgp-and-the-crypto-wars`, `unforgeable-costliness`, `fiat-as-engineered-system`) and 6 new references (`phil-zimmermann`, `hal-finney`, `the-bitcoin-standard`, `the-fiat-standard`, `principles-of-economics-ammous`, `are-bitcoins-ownable`). Compile-3 (11 work-references): Salerno trilogy (`the-true-money-supply-salerno-1987`, `mises-and-hayek-dehomogenized`, `money-sound-and-unsound`); foundational crypto (`hashcash`, `new-directions-in-cryptography`, `blind-signatures-for-untraceable-payments`, `security-without-identification`, `tor-the-second-generation-onion-router`); Bitcoin synthesis (`the-lightning-network-paper`, `bitcoin-is-venice`, `speculative-attack`). Plus inline-italic-to-dual-link upgrades on existing articles that cited TMS, Dehomogenized, and MSU by full title. 21 new articles, ~38 backlink updates total. Article count 119 → 140.
 
