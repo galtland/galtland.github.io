@@ -13,7 +13,7 @@ short: "Money whose supply is hard to expand. The bridge concept between Mises o
 
 # Hard Money
 
-> [[hard-money|Hard Money]] is money whose supply is difficult and costly to expand, so that holders' purchasing power cannot be cheaply inflated away by the entity that issues it. The Austrian-cypherpunk synthesis treats hardness as the primary monetary virtue and reads the gold standard, [[bit-gold|Bit Gold]] (concept covered under [[unforgeable-costliness|Unforgeable Costliness]]), and Bitcoin as successive implementations of the same underlying primitive.
+> [[hard-money|Hard Money]] is money whose supply is difficult and costly to expand, so that holders' purchasing power cannot be cheaply inflated away by the entity that issues it. The Austrian-cypherpunk synthesis treats hardness as the primary monetary virtue and reads the gold standard, Szabo's Bit Gold proposal (treated under [[unforgeable-costliness|Unforgeable Costliness]]), and Bitcoin as successive implementations of the same underlying primitive.
 
 ## Hard Money vs. Sound Money
 
@@ -27,18 +27,18 @@ The two terms therefore overlap heavily but are not identical: hardness is neces
 
 Carl Menger's origin-of-money account, restated by Mises and extended by Saifedean's [[principles-of-economics-ammous|Principles of Economics]], identifies a cluster of properties that make a good monetizable: it should be durable, portable, divisible, recognizable, and scarce. Saifedean adds **salability across time** — the property that the good retains purchasing power over years and decades, which is precisely what hardness produces. A good is salable across time when its new supply cannot grow faster than its existing stock; otherwise, holding it is a losing bet.
 
-The cypherpunk re-statement of the same idea is Szabo's **unforgeable costliness** in [[shelling-out|Shelling Out]] and [[bit-gold|Bit Gold]]. A monetary token is unforgeable-costly when its production required real resources — labor, scarce raw material, or computational work — and its authenticity can be cheaply verified by anyone receiving it. Prehistoric collectibles, precious metals, and proof-of-work tokens all satisfy this primitive in different ways. See [[unforgeable-costliness|Unforgeable Costliness]] for the full Szabo-Saifedean bridge.
+The cypherpunk re-statement of the same idea is Szabo's **unforgeable costliness** in [[shelling-out|Shelling Out]] and his proposed *Bit Gold* protocol. A monetary token is unforgeable-costly when its production required real resources — labor, scarce raw material, or computational work — and its authenticity can be cheaply verified by anyone receiving it. Prehistoric collectibles, precious metals, and proof-of-work tokens all satisfy this primitive in different ways. See [[unforgeable-costliness|Unforgeable Costliness]] for the full Szabo-Saifedean bridge.
 
 ## Historical Examples and Failure Modes
 
 Hardness is a continuum, not a binary. The historical sequence runs roughly:
 
-- **Shell beads, wampum, rai stones, cattle**: hard in pre-industrial settings, soft once external technology cheapens production (European-supplied glass beads collapsed African shell-money systems within a generation).
+- **Shell beads, wampum, rai stones, cattle**: hard in pre-industrial settings, soft once external technology cheapens production. Saifedean's canonical example in *The Bitcoin Standard* is West African aggry-bead currency, which European industrially-produced glass beads gradually debased over decades.
 - **Silver**: hard during ancient and medieval periods, gradually softer as mining technology improved and silver-to-gold ratios shifted.
 - **Gold**: the longest-running hard money. Hardness derives from chemical inertness, rarity in Earth's crust, and the energy cost of extracting marginal ounces. Industrial-mining technology has compressed gold's stock-to-flow ratio from historical highs but it remains the hardest pre-Bitcoin money.
 - **Bank-issued claims redeemable in gold**: hardness depends on the redemption being honored at face value. Fractional-reserve banking partially debauches the underlying hardness because the supply of claims can exceed the supply of underlying metal.
 - **Pure fiat (post-1971)**: zero physical production cost; issuance is a keyboard operation. See [[fiat-as-engineered-system|Fiat as Engineered System]] for Saifedean's account of fiat as a debt-money engineering specification with its own incentive logic and second-order effects.
-- **Bitcoin**: hardest money ever produced by Saifedean's measure. The protocol fixes a 21-million-unit cap and a halving schedule, so the stock-to-flow ratio rises monotonically until issuance approaches zero. Hardness comes from the [[proof-of-work|proof-of-work]] cost function plus the protocol's consensus rules.
+- **Bitcoin**: hardest money ever produced by Saifedean's measure. The protocol fixes a 21-million-unit cap and a halving schedule, so the stock-to-flow ratio rises monotonically until issuance approaches zero. Hardness comes from the [[proof-of-work|Proof of Work]] cost function plus the protocol's consensus rules.
 
 The recurring failure mode across the sequence is technology-driven debasement. A good is hard money under a given technological regime, but a new production technology can dilute the existing stock and the holders lose. The cypherpunk position, articulated by Szabo and Saifedean, is that Bitcoin closes this failure mode because its production cost is enforced cryptographically rather than physically — there is no technological breakthrough that can mint more Bitcoin than the protocol allows.
 
@@ -50,7 +50,7 @@ The recurring failure mode across the sequence is technology-driven debasement. 
 
 Mises's regression theorem in [[the-theory-of-money-and-credit|TMC]] provides the theoretical scaffolding hardness sits on. The theorem holds that money's present purchasing power must trace back through past purchasing powers to a moment when the underlying good had non-monetary value. Hardness matters in that chain because it determines whether the good can sustain its monetary use as the chain extends: a soft good loses purchasing power and falls out of monetary service. [[joseph-t-salerno|Joseph T. Salerno]]'s [[money-sound-and-unsound|Money, Sound and Unsound]] brings this Mengerian-Misesian apparatus forward into present monetary debate, including the [[the-true-money-supply-salerno-1987|True Money Supply]] framework for measuring the actual stock of money.
 
-Saifedean adds the cypherpunk-era twist: Bitcoin satisfies the regression theorem's non-monetary-value condition through its proof-of-work cost (electricity, hardware) rather than through a pre-monetary ornamental or industrial use. Some Austrian critics dispute that this satisfies Mises's original requirement; others, following Konrad Graf in [[are-bitcoins-ownable|Are Bitcoins Ownable?]], treat Bitcoin's verifiable scarcity as sufficient grounding. The debate is live; this article carries `confidence: high` on the underlying hardness concept and treats the regression-theorem application to Bitcoin specifically as the open question.
+Saifedean in *The Bitcoin Standard* argues that Bitcoin's regression-theorem grounding comes from its early collectible/network value combined with strict supply limitation — not from proof-of-work input cost in isolation. Some Austrian critics dispute that this satisfies Mises's original requirement of a non-monetary prior use. Konrad Graf in [[are-bitcoins-ownable|Are Bitcoins Ownable?]] approaches the same family of questions from a different angle: he argues that Bitcoin can be treated as ownable property through rivalness, UTXO-level control, and digital-commodity analysis without making the regression theorem the primary anchor. The regression-theorem application to Bitcoin is therefore the genuinely contested sub-question; the underlying hardness criterion stands independently.
 
 ## Boundaries
 
@@ -86,3 +86,4 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [The Fiat Standard (Full Text Aggregate)](https://archive.org/details/the-fiat-standard-the-debt-slavery-alternative-to-human-civilization_202409) - Saifedean 2021, the engineering opposite
 - [Principles of Economics (Full Text Aggregate)](https://archive.org/details/principles-of-economics_202409) - Saifedean 2023, textbook treatment of salability across time
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - Satoshi 2008, the protocol whose fixed schedule makes it Bitcoin
+- [Are Bitcoins Ownable?](https://www.konradsgraf.com/s/AreBitcoinsOwnableBookFreePDF5Nov2015.pdf) - Konrad Graf 2013/2015, property-theory framing for Bitcoin ownership
