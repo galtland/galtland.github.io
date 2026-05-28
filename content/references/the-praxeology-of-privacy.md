@@ -5,7 +5,7 @@ category: reference
 created: 2026-05-10
 updated: 2026-05-10
 tags: [max-hillebrand, privacy, praxeology, austrian-economics, bitcoin, cypherpunk, cryptography, property-rights, power-projection]
-aliases: [Praxeology of Privacy, Economic Logic in Cypherpunk Implementation, PoP]
+aliases: [Economic Logic in Cypherpunk Implementation, PoP]
 confidence: medium
 summary: "Reference guide to Max Hillebrand's public-domain v0.2.0 book arguing that privacy is a structural feature of human action and that Austrian theory and cypherpunk implementation converge in privacy-preserving money, communication, and parallel-economy tools."
 ---

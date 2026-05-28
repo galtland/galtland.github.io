@@ -5,7 +5,7 @@ category: reference
 created: 2026-05-12
 updated: 2026-05-12
 tags: [hannah-arendt, the-human-condition, vita-activa, labor, work, action, public-realm, private-realm, rise-of-the-social, commercially-published]
-aliases: [Human Condition, Arendt Human Condition, Vita Activa]
+aliases: [Human Condition, Arendt Human Condition]
 confidence: medium
 summary: "Reference guide to Hannah Arendt's 1958 account of vita activa: labor, work, action, public and private realms, the rise of the social, and the modern eclipse of public action."
 ---

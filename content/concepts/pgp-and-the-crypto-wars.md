@@ -5,7 +5,7 @@ category: concept
 created: 2026-05-28
 updated: 2026-05-28
 tags: [pgp, crypto-wars, privacy, public-key-cryptography, cypherpunk, export-controls, key-escrow, surveillance]
-aliases: [PGP, Pretty Good Privacy, Crypto Wars, strong encryption, code as speech]
+aliases: [PGP, Pretty Good Privacy, Crypto Wars, strong encryption]
 confidence: medium
 summary: "Zimmermann's PGP argument treats routine strong encryption as a civil-liberties defense against cheap mass surveillance, export controls, key escrow, and domestic pressure to criminalize uncontrolled cryptography."
 short: "PGP as routine strong encryption, and the 1990s fight over export controls, key escrow, code as speech, and mass-surveillance economics."
