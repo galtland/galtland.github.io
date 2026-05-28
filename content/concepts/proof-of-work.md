@@ -71,6 +71,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's bloc...
 - [[ring-signatures|Ring Signatures]] - CryptoNote privacy primitive paired with its egalitarian proof-of-work design
 - [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin paper proposing a memory-bound proof-of-work function
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
 
 ## Sources
 

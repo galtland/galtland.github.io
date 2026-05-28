@@ -7,7 +7,7 @@ Last updated: 2026-05-28
 ## Statistics
 
 - Sources: 111 raw documents
-- Articles: 150 compiled wiki articles
+- Articles: 151 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-28
 - Last lint: 2026-05-18 (post-NATO news-lens)
@@ -28,6 +28,8 @@ Last updated: 2026-05-28
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-28: compile — added `concepts/hard-money` as a dedicated bridge article. Hardness was discussed across ~15 existing articles (Bitcoin Standard ref, Fiat Standard ref, Salerno's TMS, Mystery of Banking, 100%-reserve banking, fiat-as-engineered-system, etc.) but had no landing page where a reader following the cypherpunk thread could click 'hard money' and get a definition + criteria + historical examples + Mises-Saifedean relationship. Closes that navigation gap. 16 reciprocal backlinks added via check-backlinks.py --fix. Article count 150 → 151.
 
 - 2026-05-28: compile-4 — 10 new articles drawing from the Phase C ingest (PR #23). Concepts (5): `code-as-speech` (Bernstein-v-United-States thesis), `ring-signatures` (CryptoNote/Monero), `zk-snarks` (Zerocash/Zcash), `forward-secrecy` (Signal), `key-escrow-and-clipper-chip` (1990s Crypto Wars). Work-refs (5): `bernstein-v-united-states-1999`, `cryptonote-whitepaper`, `zerocash`, `signal-x3dh`, `signal-double-ratchet`. Backlink-audit script verified zero reciprocity misses (codex incorporated the explicit reciprocity instruction in the prompt; pre-emptive audit confirmed). Article count 140 → 150.
 

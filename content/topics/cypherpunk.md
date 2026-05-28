@@ -94,6 +94,7 @@ Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-200
 - [[zerocash|Zerocash]] - Zcash foundation paper for zk-SNARK private payments
 - [[signal-x3dh|Signal X3DH]] - asynchronous Signal key-agreement specification
 - [[signal-double-ratchet|Signal Double Ratchet]] - Signal messaging ratchet for forward-secure conversations
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
 
 ## Sources
 

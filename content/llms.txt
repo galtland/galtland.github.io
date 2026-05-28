@@ -21,6 +21,7 @@
 - [Fiat as Engineered System](/concepts/fiat-as-engineered-system) — Saifedean Ammous frames post-1971 fiat money as an engineered monetary system: debt-based issuance through central banks and licensed lenders, with incentives that reshape saving, capital structure, family, food, fuel, science, and civilization.
 - [Forward Secrecy](/concepts/forward-secrecy) — Forward secrecy is the property that later compromise of long-term keys does not retroactively decrypt past sessions. Signal combines X3DH session initiation with the Double Ratchet's symmetric and Diffie-Hellman ratchets to keep replacing message keys.
 - [Friend/Enemy Distinction](/concepts/friend-enemy-distinction) — Schmitt's criterion of the political: the public distinction between friend and enemy as the highest-intensity form of association and dissociation.
+- [Hard Money](/concepts/hard-money) — Hard money is money whose supply is difficult and costly to expand, so that holders' purchasing power cannot be inflated away by issuers. The Austrian-cypherpunk synthesis treats hardness as the primary monetary virtue and frames the gold standard, Bit Gold, and Bitcoin as successive implementations of the same underlying primitive.
 - [Hayek on Planning and Coercion](/concepts/hayek-on-planning-and-coercion)
 - [Hayek on the Rule of Law](/concepts/hayek-on-rule-of-law)
 - [Hillebrand on Central Bank Digital Currencies](/concepts/hillebrand-on-cbdcs)

@@ -57,6 +57,7 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's debt-as-money frame for fiat credit expansion
 - [[the-fiat-standard|The Fiat Standard]] - companion book applying fiat mining and credit expansion to the post-1971 monetary system
 - [[principles-of-economics-ammous|Principles of Economics]] - Ammous textbook section on monetary expansion and business cycles
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
 
 ## Sources
 

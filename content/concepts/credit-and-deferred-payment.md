@@ -157,6 +157,7 @@ Mises's distinction between **commodity credit** (credit granted out of real sav
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - debt-as-money application of the present-good/future-good distinction
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source for fiat credit creation and negative balances
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook treatment of credit and banking
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
 
 ## Sources
 

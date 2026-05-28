@@ -43,6 +43,7 @@ The 100%-reserve-banking position the wiki adopts in [[hundred-percent-reserve-b
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] — the position the book most accessibly defends
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — the measurement framework whose Rothbardian basis is this book
 - [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian so...
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
 
 ## Sources
 
