@@ -71,6 +71,8 @@ This endorsement is descriptive. It does not decide whether a particular externa
 - [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] - source for the protection-racket model
 - [[liberalism|Liberalism]] - Reference guide to Mises's short 1927 statement of classical-liberal political economy:...
 
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [NATO defense-spending floor news post](/news/2026-05-18-nato-members-agreed-in-may-2026-to-raise-the-defense-spending-floor-from-2-percent-to-3-5-percent-of-gdp-by-2032-citing) - news item being analyzed

@@ -7,9 +7,9 @@ Last updated: 2026-05-29
 ## Statistics
 
 - Sources: 110 raw documents (+ 14 news-lens items)
-- Articles: 161 compiled wiki articles (67 concepts, 81 references, 8 theses, 5 topics)
+- Articles: 162 compiled wiki articles (67 concepts, 82 references, 8 theses, 5 topics)
 - Outputs: 1 generated artifacts
-- Last compiled: 2026-05-28
+- Last compiled: 2026-05-29
 - Last lint: 2026-05-29
 
 ## Quick Navigation
@@ -28,6 +28,22 @@ Last updated: 2026-05-29
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-29: compile — added `references/cypherpunks-mailing-list` from the curated Cypherpunks mailing-list subset ingested 2026-05-28. The new reference synthesizes the list's arc (1992 founding and the two manifestos → anonymous remailers and Chaumian digital cash → the Clipper/key-escrow Crypto Wars → Hashcash and b-money → the 2008 bridge to the cryptography list where Bitcoin was announced) and ties the cypherpunk concept/reference articles to their primary-source substrate. 11 reciprocal See Also backlinks added (author bios left one-directional per the AGENTS.md caveat). Closes the last substantive compile gap; article count 161 → 162.
+
+- 2026-05-29: thesis -- added `state-as-parasite-thesis`; regenerated newsroom indexes and backlinks.
+
+- 2026-05-29: thesis -- added `argentina-rent-decontrol-2023`; regenerated newsroom indexes and backlinks.
+
+- 2026-05-29: thesis -- added `2026-05-19-imf-conditionality-supranational-political-means`; regenerated newsroom indexes and backlinks.
+
+- 2026-05-29: thesis -- added `2026-05-18-nato-defense-spending-floor-protection-racket`; regenerated newsroom indexes and backlinks.
+
+- 2026-05-29: thesis -- added `2026-05-18-eu-wealth-tax-directive-capital-consumption`; regenerated newsroom indexes and backlinks.
+
+- 2026-05-29: thesis -- added `2026-05-18-digital-euro-launch-cbdc-total-intervention`; regenerated newsroom indexes and backlinks.
+
+- 2026-05-29: thesis -- added `2026-05-17-fed-may-2026-rate-cut-abct`; regenerated newsroom indexes and backlinks.
 
 - 2026-05-29: lint — repaired 23 dead links to re-dated thesis files (the `2026-05-16-fed-*` / `2026-05-16-nato-*` references were never updated when those theses were re-dated to 05-17/05-18, plus one renamed IMF-thesis slug), so every internal link now resolves. Filled 16 concept stubs that had only `short:` with proper `summary:` frontmatter and refreshed their index rows; added the missing `category:` to the parasite thesis. Added 123 reciprocal See Also backlinks via check-backlinks.py (author/person pages exempted per the AGENTS.md caveat), taking reciprocity misses from 142 to 19 intentional concept→author one-directionals. Corrected master statistics (Articles 151 → 161, Sources 111 → 110).
 

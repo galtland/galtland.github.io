@@ -50,6 +50,8 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] - focused author-on-topic article on the ch. 4 §C "A Tax on Individual Wealth" treatment as a pure tax on accumulated capital
 - [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis citing the ch. 4 §C "A Tax on Individual Wealth" section in critique of the May 2026 EU directive
 
+
+- [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Power and Market: Government and the Economy (Full Text Aggregate)](https://mises.org/online-book/power-and-market-government-and-economy) - full aggregated source used for this reference article (7 chapters + bibliography, captured from the Mises online-book HTML export 2026-05-16)

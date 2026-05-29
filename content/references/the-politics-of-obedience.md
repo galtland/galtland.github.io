@@ -41,6 +41,8 @@ It also complements [[evolution-of-the-state|Evolution of the State]]. Oppenheim
 - [[lets-abolish-government|Let's Abolish Government]] - Spooner collection attacking constitutional legitimacy
 - [[murray-n-rothbard|Murray N. Rothbard]] - modern curator and introducer in the current source set
 
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - full aggregated source from the Mises online-book edition

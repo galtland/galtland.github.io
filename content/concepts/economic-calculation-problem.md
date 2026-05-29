@@ -58,6 +58,8 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create ins...
 - [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
 
+
+- [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_3.pdf) - canonical 1922 statement

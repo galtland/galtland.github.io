@@ -78,6 +78,7 @@ The confidence level is high for the core claim. Diffie and Hellman's paper expl
 - [[signal-x3dh|Signal X3DH]] - asynchronous authenticated key agreement using identity keys, prekeys, and DH composition
 - [[signal-double-ratchet|Signal Double Ratchet]] - messaging ratchet that repeatedly mixes Diffie-Hellman outputs into new keys
 - [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), former Intel physicist and founding cypherpunk; author of the Cryp...
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum...
 
 ## Sources
 

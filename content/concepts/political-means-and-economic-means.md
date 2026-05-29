@@ -77,6 +77,8 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - Tilly's 1985 claim that war making and state making are quintessential protection racke...
 - [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
 
+
+- [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - original political/economic means distinction and state definition

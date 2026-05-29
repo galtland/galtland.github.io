@@ -93,6 +93,8 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 - [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
 
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - Rothbard's full-book overview of doctrine, applications, and strategy

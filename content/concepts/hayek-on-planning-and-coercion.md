@@ -38,6 +38,8 @@ The argument scales upward. Hayek's analysis of *national* planning carries over
 
 
 - [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
+
+- [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) — IEA edition (Readers' Digest condensation + *The Intellectuals and Socialism*); the "Why the Worst Get on Top" and "Planning vs. the Rule of Law" sections supply the quoted passages.

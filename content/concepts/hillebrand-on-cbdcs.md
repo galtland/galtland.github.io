@@ -33,6 +33,8 @@ The verdict follows: "Money that can be surveilled and controlled is not sound m
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - Hayek's Road to Serfdom claim that the rule of law means government action is bound by...
 - [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action, exchange,...
 
+
+- [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Holding Cap and Expiring Balances: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) — Ch. 10 §10.5 "Central Bank Digital Currencies as Total Intervention" (autistic/binary/triangular mapping; the programmability catalogue; the "not sound money" verdict)

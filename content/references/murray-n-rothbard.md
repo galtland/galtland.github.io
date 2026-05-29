@@ -64,6 +64,8 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Rothbard's [[power-and-market|Power and Market]] triangular-intervention analysis
 - [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Rothbard's [[americas-great-depression|America's Great Depression]] cluster-of-errors mechanism
 
+
+- [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's major economic treatise as a full-text aggregate

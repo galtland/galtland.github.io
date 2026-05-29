@@ -36,6 +36,8 @@ The claim sits inside the broader [[state-power-and-intervention|State Power and
 - [[political-means-and-economic-means|Political Means and Economic Means]] — Oppenheimer/Nock tradition Rothbard makes canonical
 - [[state-power-and-intervention|State Power and Intervention]] — wiki synthesis page
 
+
+- [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Anatomy of the State (Full Text)](https://mises.org/online-book/anatomy-state) — Rothbard's "How States Preserve Themselves" chapter; verbatim source for the war/defense/emergency slogan analysis and the permanent-burden formulation

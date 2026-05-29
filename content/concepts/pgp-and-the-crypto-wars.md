@@ -63,6 +63,7 @@ This is why the essay belongs in the [[cypherpunk|Cypherpunk]] thread. The civil
 - [[code-as-speech|Code as Speech]] - Bernstein legal thesis that encryption source code can be protected expression
 - [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] - Clipper-era government-access proposal resisted alongside PGP export controls
 - [[bernstein-v-united-states-1999|Bernstein v. United States (1999)]] - Ninth Circuit code-as-speech ruling from the same Crypto Wars episode
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum...
 
 ## Sources
 

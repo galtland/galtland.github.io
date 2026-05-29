@@ -47,6 +47,8 @@ The strongest connection is to [[war-and-state-formation|War and State Formation
 
 - [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - Chapter 7 concept from the expanded Tilly ingest
 
+
+- [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - full-text 1985 essay source

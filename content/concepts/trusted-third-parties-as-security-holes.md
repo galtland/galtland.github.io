@@ -73,6 +73,7 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin design avoiding trusted mixers through protocol-level anonymity
 - [[zerocash|Zerocash]] - anonymous-payment design that removes a bank but introduces setup assumptions
 - [[signal-x3dh|Signal X3DH]] - prekey protocol that uses a server while limiting server trust
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum...
 
 ## Sources
 

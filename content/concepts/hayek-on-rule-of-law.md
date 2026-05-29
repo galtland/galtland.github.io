@@ -41,6 +41,10 @@ Hayek's foreseeability condition sits at the level of [[state-power-and-interven
 - [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 - [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement t...
 
+
+- [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Holding Cap and Expiring Balances: Analysis]] - newsroom thesis backlink
+
+- [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - "Planning vs. the Rule of Law" chapter — the foreseeability definition, the contrast with discretionary planning, and the legalization-of-arbitrariness corollary

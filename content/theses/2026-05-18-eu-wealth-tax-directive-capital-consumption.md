@@ -80,6 +80,8 @@ This analysis does not decide EU competence over direct taxation, member-state c
 - [[oppenheimer-the-state|The State]] - Reference guide to Franz Oppenheimer's sociological treatise on the state's conquest or...
 - [[our-enemy-the-state|Our Enemy, the State]] - Reference guide to Albert Jay Nock's 1935 anti-state book applying Oppenheimer's politi...
 
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [EU Parliament wealth-tax directive news post](/news/2026-05-18-the-european-parliament-approved-on-may-15-2026-a-directive-requiring-all-member-states-to-enact-progressive-wealth-tax) - news item being analyzed

@@ -37,6 +37,8 @@ The broader [[war-and-state-formation|War and State Formation]] article situates
 - [[rothbard-on-war-and-the-state|Rothbard on War and the State]] — sister focused article on the Rothbardian permanent-burden claim
 - [[state-power-and-intervention|State Power and Intervention]] — wiki synthesis page
 
+
+- [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) — Tilly's 1985 essay; the verbatim "quintessential protection rackets" formulation and the racketeer-creates-the-threat definition

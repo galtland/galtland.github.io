@@ -34,6 +34,8 @@ Second, the shortage worsens with the elasticity of supply: "The more 'elastic' 
 - [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create ins...
 - [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action, exchange,...
 
+
+- [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Power and Market: Government and the Economy (Full Text)](https://mises.org/online-book/power-and-market-government-and-economy) — §3.1 "Price Control" and §3 "Triangular Intervention"

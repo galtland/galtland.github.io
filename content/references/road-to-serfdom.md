@@ -51,6 +51,10 @@ This book is the popular front of Hayek's critique of central planning. Its theo
 - [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkabl...
 
+
+- [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - full IEA-edition PDF (Readers' Digest condensation + The Intellectuals and Socialism) as a wiki-ingestable aggregate

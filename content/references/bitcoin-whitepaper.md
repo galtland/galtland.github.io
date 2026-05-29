@@ -79,6 +79,7 @@ The whitepaper is high-confidence as a primary text. Its 12 sections, references
 - [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin paper responding to Bitcoin transaction traceability
 - [[zerocash|Zerocash]] - anonymous-payment design built as an extension or fork of Bitcoin-style ledgers
 - [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-...
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum...
 
 ## Sources
 

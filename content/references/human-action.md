@@ -52,6 +52,8 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its t...
 - [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create ins...
 
+
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: Price-Control Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - full Scholar's Edition PDF as a wiki-ingestable aggregate

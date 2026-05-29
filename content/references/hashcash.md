@@ -49,6 +49,7 @@ That is why [[bitcoin-whitepaper|Bitcoin Whitepaper]] cites Hashcash in its proo
 - [[nick-szabo|Nick Szabo]] - Bit Gold author who applied costly proof strings to digital money
 - [[unforgeable-costliness|Unforgeable Costliness]] - monetary primitive connecting proof of work to costly digital scarcity
 - [[the-bitcoin-standard|The Bitcoin Standard]] - later monetary interpretation of Bitcoin's proof-of-work scarcity
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum...
 
 ## Sources
 

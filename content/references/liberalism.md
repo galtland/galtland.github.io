@@ -47,6 +47,8 @@ This book is the political-philosophy companion to [[socialism|Socialism]] (1922
 - [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis citing the antiliberal-policy-as-capital-consumption passage and noting that the minarchist carve-out does not cover the directive
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - Hayek's Road to Serfdom claim that the rule of law means government action is bound by...
 
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [Liberalism: In the Classical Tradition (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - full PDF as a wiki-ingestable aggregate
