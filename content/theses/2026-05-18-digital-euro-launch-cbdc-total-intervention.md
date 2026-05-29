@@ -80,6 +80,9 @@ This analysis does not decide whether the ECB's mandate permits the design, whet
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - administrative discretion and foreseeability
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for surveillance-resistant monetary design
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - source book for the CBDC analysis
+- [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action, exchange,...
+- [[max-hillebrand|Max Hillebrand]] - Short author reference for Max Hillebrand as represented in this wiki by *The Praxeolog...
+- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
 
 ## Sources
 

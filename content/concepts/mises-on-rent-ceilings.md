@@ -5,6 +5,7 @@ category: concept
 created: 2026-05-16
 updated: 2026-05-18
 tags: [mises, rent-control, price-control, housing, vienna, austrian-economics]
+summary: "Mises on rent control: a ceiling below the market rent produces an immediate housing shortage, illustrated by interwar Vienna where suppressed rents left no affordable dwellings despite a shrinking population."
 aliases: [Mises on rent control, rent ceiling shortage, Vienna rent abolition]
 confidence: high
 short: "Mises's claim in *Liberalism* that a residential-rent ceiling produces an immediate housing shortage, with Vienna under Social Democratic rent abolition as the worked example."
@@ -27,6 +28,7 @@ The Vienna instance is the worked example: rent-controlled units stay nominally 
 - [[liberalism|Liberalism]] — full-text source
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference page
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]] — thesis applying the Mises rent-ceiling claim to the Argentine case
+- [[economic-calculation-problem|Economic Calculation Problem]] - The Misesian argument that a socialist commonwealth without private ownership of capita...
 
 ## Sources
 

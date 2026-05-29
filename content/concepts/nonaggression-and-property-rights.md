@@ -63,10 +63,12 @@ The wiki holds two distinct defenses of this normative core. [[the-ethics-of-lib
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - protocol-design frame for reducing concentrated control over persons and property
 - [[smart-contracts|Smart Contracts]] - Szabo's protocol-embedded contract-performance concept
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis distinguishing the natural-rights and consequentialist defenses on a concrete intervention case
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis distinguishing the natural-rights and consequentialist defenses on a central-bank rate decision
+- [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis distinguishing the natural-rights and consequentialist defenses on a central-bank rate decision
 
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source with property, violence, and civilization chapters
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin ownership
+- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be 100%...
+- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
 
 ## Sources
 

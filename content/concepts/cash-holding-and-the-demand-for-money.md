@@ -5,6 +5,7 @@ category: concept
 created: 2026-05-25
 updated: 2026-05-25
 tags: [mises, money-demand, cash-holding, purchasing-power, austrian-economics, monetary-theory]
+summary: "Mises on the demand for money as cash holding: purchasing power cannot be explained without individuals' demand to hold money, whose sum (money proper plus fiduciary media) is the community's money demand."
 aliases: [demand for money, cash balance, money relation, need for money]
 short: "Austrian-monetary-theory primitive: the purchasing power of money is determined by the supply of money against the demand to hold money, where 'demand' is each individual's subjective valuation of cash balances. Without this side of the relation, neither money's price nor monetary intervention's effects can be reasoned about correctly."
 ---
@@ -57,6 +58,8 @@ The Austrian-libertarian frame cannot reason about CPI movements, QE episodes, b
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] — companion concept on the supply-side normative position that pairs with the demand-side analysis
 - [[shelling-out|Shelling Out]] - Szabo's prehistoric-collectibles account of proto-money and monetary properties
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to pla...
+- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components conta...
 
 ## Sources
 

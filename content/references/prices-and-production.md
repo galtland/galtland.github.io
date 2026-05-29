@@ -46,7 +46,7 @@ This is the technical-economic side of Hayek's project. Its concerns barely surf
 - [[ludwig-von-mises|Ludwig von Mises]] - originator of the monetary tradition Hayek extends here
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise that laid the proto-cycle groundwork Hayek's [[prices-and-production|Prices and Production]] lectures (1931) develop into the mature ABCT
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Hayek's capital-theoretic foundation
+- [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Hayek's capital-theoretic foundation
 
 ## Sources
 

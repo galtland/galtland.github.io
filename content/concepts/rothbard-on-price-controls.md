@@ -5,6 +5,7 @@ category: concept
 created: 2026-05-16
 updated: 2026-05-18
 tags: [rothbard, price-control, intervention, shortage, austrian-economics, power-and-market]
+summary: "Rothbard's price-control analysis: a maximum price below the market-clearing level leaves quantity demanded exceeding supply, producing shortages, rationing, and a risk-premium black market."
 aliases: [Rothbard maximum price, triangular intervention price control, Power and Market price control]
 confidence: high
 short: "Rothbard's *Power and Market* claim that an effective maximum price creates a shortage that worsens as supply has time to shift, and that elastic supply aggravates the shortage."
@@ -30,6 +31,8 @@ Second, the shortage worsens with the elasticity of supply: "The more 'elastic' 
 - [[murray-n-rothbard|Murray N. Rothbard]] — author reference page
 - [[economic-calculation-problem|Economic Calculation Problem]] — adjacent Austrian frame: the suppressed price is the calculation signal the intervener obliterates
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]] — thesis applying the maximum-price claim to the Argentine case
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create ins...
+- [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action, exchange,...
 
 ## Sources
 

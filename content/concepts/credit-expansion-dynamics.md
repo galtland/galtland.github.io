@@ -5,6 +5,7 @@ category: concept
 created: 2026-05-27
 updated: 2026-05-27
 tags: [credit-expansion, fiduciary-media, mises, rothbard, austrian-economics, business-cycle, abct, time-preference, natural-rate, loan-market, monetary-theory]
+summary: "Mises on the mechanics of fiduciary-media issuance: banks must lend new credit below the natural rate to place it, expanding loan demand until repayment and reserve limits force the contraction."
 aliases: [credit cycle mechanism, fiduciary media dynamics, Austrian credit cycle, the credit expansion mechanism]
 short: "End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to place new fiduciary media, the gross market rate falsifies entrepreneurial calculation, the production structure lengthens toward higher-order goods, the boom must end. Plus the dynamics question: when a loan is repaid the corresponding fiduciary media are extinguished, so does the expansion net to zero in the long run? Answered with Mises's own treatment of fresh-loan-rolling and the flow-vs-stock distinction."
 ---

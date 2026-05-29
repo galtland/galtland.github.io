@@ -62,7 +62,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Rothbard's [[power-and-market|Power and Market]] triangular-intervention analysis
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Rothbard's [[americas-great-depression|America's Great Depression]] cluster-of-errors mechanism
+- [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Rothbard's [[americas-great-depression|America's Great Depression]] cluster-of-errors mechanism
 
 ## Sources
 

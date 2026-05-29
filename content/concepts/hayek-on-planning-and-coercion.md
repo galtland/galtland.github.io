@@ -5,6 +5,7 @@ category: concept
 created: 2026-05-19
 updated: 2026-05-19
 tags: [hayek, central-planning, coercion, dictatorship, rule-of-law, road-to-serfdom]
+summary: "Hayek's claim that central planning leads to dictatorship because dictatorship is the most effective instrument of coercion, and that democratic procedure alone does not keep power from becoming arbitrary."
 aliases: [Hayek planning leads to dictatorship, Hayek coercion thesis, Road to Serfdom dictatorship passage]
 short: "Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion, because the planners must impose a single ranking of social ends on a population whose members disagree."
 ---

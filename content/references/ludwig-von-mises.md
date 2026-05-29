@@ -68,7 +68,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - related concept
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Mises's [[liberalism|Liberalism]] rent-ceiling and Vienna passages
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Mises's [[human-action|Human Action]] Ch. XX on the gross-market-rate distortion
+- [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Mises's [[human-action|Human Action]] Ch. XX on the gross-market-rate distortion
 
 
 - [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink

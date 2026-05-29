@@ -65,12 +65,18 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's concise adoption of the distinction
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis classifying a rent ceiling as use of the political means substituted for the economic means.
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis classifying a central-bank rate decision as use of the political means substituted for the economic means.
+- [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis classifying a central-bank rate decision as use of the political means substituted for the economic means.
 - [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - thesis classifying a treaty-bound alliance-wide defense-spending floor as use of the political means at supra-state scale.
 - [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis classifying the May 2026 EU mandatory wealth-tax directive as use of the political means at supra-state scale, substituted for the economic means of voluntary production and exchange.
 
 
 - [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
+- [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkabl...
+- [[mises-on-capital-consumption|Mises on Capital Consumption]] - Mises's *Liberalism* Part I §5 claim that 'antiliberal policy is a policy of capital co...
+- [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its ultimate,...
+- [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - Tilly's 1985 claim that war making and state making are quintessential protection racke...
+- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
+
 ## Sources
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - original political/economic means distinction and state definition

@@ -2,15 +2,15 @@
 
 > Where Austrian economics meets cypherpunk code. Political philosophy, monetary theory, cryptography, history, and the arguments that bind them. Published at https://index.galtland.org/.
 
-Last updated: 2026-05-28
+Last updated: 2026-05-29
 
 ## Statistics
 
-- Sources: 111 raw documents
-- Articles: 151 compiled wiki articles
+- Sources: 110 raw documents (+ 14 news-lens items)
+- Articles: 161 compiled wiki articles (67 concepts, 81 references, 8 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-28
-- Last lint: 2026-05-18 (post-NATO news-lens)
+- Last lint: 2026-05-29
 
 ## Quick Navigation
 
@@ -28,6 +28,8 @@ Last updated: 2026-05-28
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-29: lint — repaired 23 dead links to re-dated thesis files (the `2026-05-16-fed-*` / `2026-05-16-nato-*` references were never updated when those theses were re-dated to 05-17/05-18, plus one renamed IMF-thesis slug), so every internal link now resolves. Filled 16 concept stubs that had only `short:` with proper `summary:` frontmatter and refreshed their index rows; added the missing `category:` to the parasite thesis. Added 123 reciprocal See Also backlinks via check-backlinks.py (author/person pages exempted per the AGENTS.md caveat), taking reciprocity misses from 142 to 19 intentional concept→author one-directionals. Corrected master statistics (Articles 151 → 161, Sources 111 → 110).
 
 - 2026-05-28: compile — added `concepts/hard-money` as a dedicated bridge article. Hardness was discussed across ~15 existing articles (Bitcoin Standard ref, Fiat Standard ref, Salerno's TMS, Mystery of Banking, 100%-reserve banking, fiat-as-engineered-system, etc.) but had no landing page where a reader following the cypherpunk thread could click 'hard money' and get a definition + criteria + historical examples + Mises-Saifedean relationship. Closes that navigation gap. 16 reciprocal backlinks added via check-backlinks.py --fix. Article count 150 → 151.
 

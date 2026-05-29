@@ -5,6 +5,7 @@ category: concept
 created: 2026-05-17
 updated: 2026-05-17
 tags: [credit-expansion, mises, abct, interest-rates, fiduciary-media]
+summary: "Mises on how credit expansion falsifies entrepreneurial calculation: an artificially lowered interest rate makes capital-deficient projects look profitable, seeding the malinvestment the boom must later liquidate."
 aliases: [Mises credit expansion, circulation credit, gross market rate distortion]
 short: "Mises's claim that credit expansion drops the gross market rate of interest below its time-preference level and falsifies entrepreneurial calculation, making projects look profitable that a correct calculation would have shown unrealizable."
 ---
@@ -27,6 +28,10 @@ The damage is calculational, not monetary in the headline sense. Entrepreneurs r
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference
 - [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] — sister focused article applying the same mechanism to the Federal Reserve
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] — Mises's 1912 origin of the cycle theory's monetary side
+- [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is determined by the...
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to pla...
+- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be 100%...
+- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components conta...
 
 ## Sources
 

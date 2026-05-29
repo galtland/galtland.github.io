@@ -5,6 +5,7 @@ category: concept
 created: 2026-05-17
 updated: 2026-05-17
 tags: [hayek, rule-of-law, central-planning, classical-liberalism, arbitrary-government, discretion]
+summary: "Hayek's account of the rule of law as government bound by fixed, pre-announced rules, and his argument that comprehensive planning requires the opposite — discretionary administration — making the two mutually exclusive."
 aliases: [Hayek on rule of law, Road to Serfdom rule of law, planning vs rule of law]
 short: "Hayek's Road to Serfdom claim that the rule of law means government action is bound by rules fixed and announced beforehand, and that economic planning necessarily replaces that constraint with administrative discretion."
 ---
@@ -38,6 +39,8 @@ Hayek's foreseeability condition sits at the level of [[state-power-and-interven
 
 
 - [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
+- [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement t...
+
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - "Planning vs. the Rule of Law" chapter — the foreseeability definition, the contrast with discretionary planning, and the legalization-of-arbitrariness corollary

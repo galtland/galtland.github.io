@@ -50,6 +50,7 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] - focused Misesian sister article on antiliberal policy as capital consumption; Hoppe's caretaker / time-preference mechanism is one institutional route to capital-consumption policy
 - [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis citing the caretaker mechanism in critique of the May 2026 EU directive
+- [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] - Hoppe's claim in *Democracy: The God That Failed* that a democratic government caretake...
 
 ## Sources
 

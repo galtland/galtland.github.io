@@ -53,7 +53,7 @@ This concept is narrower than [[market-anarchism-and-private-law|Market Anarchis
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
 - [[the-market-for-liberty|The Market for Liberty]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - Molinari's 1849 essay; founding text of the private-security argument
-- [[2026-05-16-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - thesis citing the competitive-security alternative the alliance-wide spending-floor architecture forecloses.
+- [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - thesis citing the competitive-security alternative the alliance-wide spending-floor architecture forecloses.
 
 ## Sources
 

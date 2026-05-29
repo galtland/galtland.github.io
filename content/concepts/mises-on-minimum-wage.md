@@ -29,7 +29,7 @@ The result is "institutional unemployment": unemployment produced by the interve
 - [[knowledge-problem|Knowledge Problem]] - price and wage signals as dispersed information
 - [[economic-calculation-problem|Economic Calculation Problem]] - adjacent calculation frame
 - [[rothbard-on-price-controls|Rothbard on Price Controls]] - related maximum-price-control case
-- [[2026-05-19-imf-carbon-budget-wage-floor-conditionality|IMF Carbon-Budget and Wage-Floor Conditionality]] - thesis applying the wage-floor claim to IMF conditionality
+- [[2026-05-19-imf-conditionality-supranational-political-means|IMF Carbon-Budget and Wage-Floor Conditionality]] - thesis applying the wage-floor claim to IMF conditionality
 
 ## Sources
 

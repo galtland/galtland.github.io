@@ -44,9 +44,13 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[socialism|Socialism]] - related work in this corpus
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Ch. XX "Interest, Credit Expansion, and the Trade Cycle" on the gross-market-rate distortion
+- [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Ch. XX "Interest, Credit Expansion, and the Trade Cycle" on the gross-market-rate distortion
 
 - [[principles-of-economics-ammous|Principles of Economics]] - later Austrian textbook drawing on Misesian action theory
+- [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is determined by the...
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to pla...
+- [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its t...
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create ins...
 
 ## Sources
 

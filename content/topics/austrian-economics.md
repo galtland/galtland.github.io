@@ -73,7 +73,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis applying Austrian price-control analysis to the Argentine rental-housing case
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying Austrian Business Cycle Theory to a contemporary Fed rate cut
+- [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying Austrian Business Cycle Theory to a contemporary Fed rate cut
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 - [[unforgeable-costliness|Unforgeable Costliness]] - Menger-Mises-to-Szabo bridge for hard money and costly scarcity
@@ -82,6 +82,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[principles-of-economics-ammous|Principles of Economics]] - Ammous's Austrian economics textbook
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin
 - [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
+- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
 
 ## Sources
 

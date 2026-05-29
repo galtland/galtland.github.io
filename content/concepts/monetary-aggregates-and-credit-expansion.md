@@ -5,6 +5,7 @@ category: concept
 created: 2026-05-27
 updated: 2026-05-27
 tags: [mises, rothbard, tms, m2, money-supply, credit-expansion, monetary-aggregates, abct, measurement]
+summary: "Why M2 mismeasures the Austrian cycle signal: Rothbard's broad money-supply criterion and Salerno's True Money Supply (TMS) isolate inflationary credit from non-inflationary commodity credit."
 aliases: [True Money Supply, TMS, M2 vs TMS, measuring credit expansion, money supply definition]
 short: "Austrian-monetary-theory measurement: M2's time-deposit and money-fund components contaminate the cycle-theory signal with non-inflationary commodity-credit; Rothbard's broad money-supply criterion (AGD Ch. 4), refined by Salerno's 1987 True Money Supply (TMS), is the cleaner Austrian aggregate; central-bank policy rates are an input not a measure; sectoral asymmetry is the structural diagnostic."
 ---
@@ -89,6 +90,7 @@ When all three signal expansion together — TMS growth, policy rate below long 
 - [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] — Salerno's 1987 component-by-component TMS specification
 - [[money-sound-and-unsound|Money, Sound and Unsound]] — Salerno collection reprinting the TMS paper and broader monetary essays
 - [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to pla...
 
 ## Sources
 

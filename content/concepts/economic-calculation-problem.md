@@ -33,7 +33,7 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 ## See Also
 
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis instantiating the Misesian price-control prediction in the Argentine rental-housing case
-- [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying the Misesian price-as-information frame to a central-bank rate cut
+- [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying the Misesian price-as-information frame to a central-bank rate cut
 - [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - focused Mises-on-topic article on the residential-rent-ceiling shortage mechanism
 - [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused Rothbard-on-topic article on triangular-intervention maximum-price control
 - [[knowledge-problem|Knowledge Problem]] - Hayek's complementary epistemic argument
@@ -54,6 +54,9 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source connecting fiat incentives to price, science, fuel, and policy distortions
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source for the capitalism and calculation chapter
 - [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner pa...
+- [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkabl...
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create ins...
+- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
 
 ## Sources
 
