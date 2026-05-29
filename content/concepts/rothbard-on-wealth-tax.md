@@ -31,6 +31,7 @@ The mechanism reaches its full institutional form when paired with [[hoppe-on-ca
 - [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] — institutional companion: the democratic property structure that systematically rewards the policy class
 - [[state-power-and-intervention|State Power and Intervention]] — broader intervention-as-cumulative-process frame
 - [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] — thesis applying the Ch. 4 §C analysis to the May 2026 EU directive
+- [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market: autis...
 
 ## Sources
 

@@ -59,6 +59,7 @@ Graf's tentative answer is that bitcoins appear ownable because they are control
 - [[nick-szabo|Nick Szabo]] - smart-contracts and Bit Gold author cited in the paper's legal-technical context
 - [[austrian-economics|Austrian Economics]] - Misesian action-theory background for Graf's jurisprudence
 - [[cypherpunk|Cypherpunk]] - technical-political setting for Bitcoin and crypto-anarchic property questions
+- [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard): pro...
 
 ## Sources
 

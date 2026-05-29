@@ -7,7 +7,7 @@ Last updated: 2026-05-29
 ## Statistics
 
 - Sources: 110 raw documents (+ 14 news-lens items)
-- Articles: 162 compiled wiki articles (67 concepts, 82 references, 8 theses, 5 topics)
+- Articles: 166 compiled wiki articles (71 concepts, 82 references, 8 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-29
 - Last lint: 2026-05-29
@@ -28,6 +28,8 @@ Last updated: 2026-05-29
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-29: compile — extracted 4 concept articles from the broad *Praxeology of Privacy* book to close coverage gaps a citation review surfaced: `intervention-taxonomy` (Rothbard's autistic/binary/triangular typology, previously only name-dropped), `intellectual-property` (the Kinsella/Rothbard scarcity-based anti-IP argument), `parallel-economy` (Hillebrand's Ch. 21 strategic synthesis — breaking the OODA observation loop), and `surveillance-capitalism` (Ch. 11, read through Austrian intervention/market-process theory). 35 reciprocal See Also backlinks added; author bios left one-directional per the AGENTS.md caveat. Article count 162 → 166.
 
 - 2026-05-29: compile — added `references/cypherpunks-mailing-list` from the curated Cypherpunks mailing-list subset ingested 2026-05-28. The new reference synthesizes the list's arc (1992 founding and the two manifestos → anonymous remailers and Chaumian digital cash → the Clipper/key-escrow Crypto Wars → Hashcash and b-money → the 2008 bridge to the cryptography list where Bitcoin was announced) and ties the cypherpunk concept/reference articles to their primary-source substrate. 11 reciprocal See Also backlinks added (author bios left one-directional per the AGENTS.md caveat). Closes the last substantive compile gap; article count 161 → 162.
 

@@ -93,6 +93,8 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[zerocash|Zerocash]] - zk-SNARK private-payment design
 - [[signal-x3dh|Signal X3DH]] - asynchronous key agreement for encrypted messaging
 - [[signal-double-ratchet|Signal Double Ratchet]] - per-message ratcheting for forward-secure messaging
+- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools (Bitc...
+- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material...
 
 ## Sources
 

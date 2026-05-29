@@ -62,6 +62,7 @@ The common pattern is deletion. A system can only benefit from forward secrecy i
 - [[praxeology-of-privacy|Praxeology of Privacy]] - privacy-as-selective-disclosure frame for encrypted communication
 - [[cypherpunk|Cypherpunk]] - movement context for user-controlled encryption
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for privacy-preserving cryptographic systems
+- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material...
 
 ## Sources
 

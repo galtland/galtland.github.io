@@ -42,6 +42,7 @@ This book is in dialogue with several other sources. The natural-law foundation 
 - [[liberalism|Liberalism]] - Mises's consequentialist contrast
 - [[libertarianism|Libertarianism]] - broader topic context
 - [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
+- [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard): pro...
 
 ## Sources
 

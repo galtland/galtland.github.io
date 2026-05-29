@@ -77,6 +77,9 @@ Lowery's [[softwar|Softwar]] thesis adds a complementary but distinct Bitcoin fr
 - [[zk-snarks|zk-SNARKs]] - zero-knowledge proof primitive for shielded payment disclosure
 - [[forward-secrecy|Forward Secrecy]] - encrypted-communication property that limits retrospective surveillance
 - [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] - Crypto Wars example of compelled access defeating user-controlled disclosure
+- [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard): pro...
+- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools (Bitc...
+- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material...
 
 ## Sources
 
