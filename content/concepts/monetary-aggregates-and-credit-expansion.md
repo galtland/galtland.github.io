@@ -89,8 +89,8 @@ When all three signal expansion together — TMS growth, policy rate below long 
 - [[joseph-t-salerno|Joseph T. Salerno]] — Austrian monetary economist who formalized Rothbard's criterion into the modern TMS
 - [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] — Salerno's 1987 component-by-component TMS specification
 - [[money-sound-and-unsound|Money, Sound and Unsound]] — Salerno collection reprinting the TMS paper and broader monetary essays
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
-- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to pla...
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
 
 ## Sources
 

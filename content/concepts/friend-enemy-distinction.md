@@ -3,7 +3,8 @@ title: "Friend/Enemy Distinction"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [carl-schmitt, friend-enemy-distinction, political-theory, sovereignty, war, non-libertarian]
 aliases: [friend-enemy distinction, friend and enemy, concept of the political]
 confidence: medium
@@ -18,7 +19,7 @@ summary: "Schmitt's criterion of the political: the public distinction between f
 
 In [[the-concept-of-the-political|The Concept of the Political]], [[carl-schmitt|Schmitt]] argues that the political has its own criterion just as morality distinguishes good/evil and aesthetics distinguishes beautiful/ugly. The political distinction is friend/enemy.
 
-The enemy here is public, not personal. Schmitt is analyzing collectivities capable of conflict, sacrifice, and war. That is why the concept belongs near [[war-and-state-formation|War and State Formation]] but should not be collapsed into Tilly's historical sociology.
+The enemy here is public, not personal. Schmitt draws the distinction in the Latin: the political enemy is *hostis*, not *inimicus* — the public adversary of a collectivity, not someone one privately dislikes. On his account the enemy "need not be morally evil or aesthetically ugly," need not be an economic competitor, and "need not be hated personally"; he is simply the other, the stranger, with whom existential conflict remains possible. That is what keeps the criterion autonomous: it does not reduce to the moral good/evil or the economic profitable/unprofitable axis. Because Schmitt is analyzing collectivities capable of conflict, sacrifice, and war, the concept belongs near [[war-and-state-formation|War and State Formation]] but should not be collapsed into Tilly's historical sociology.
 
 ## Use in This Wiki
 

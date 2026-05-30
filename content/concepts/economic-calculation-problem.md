@@ -3,7 +3,8 @@ title: "Economic Calculation Problem"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [calculation-problem, socialism, austrian-economics, central-planning]
 aliases: [Calculation Problem, Mises's Calculation Argument, Socialist Calculation Debate]
 confidence: medium
@@ -12,7 +13,7 @@ summary: "The Misesian argument that a socialist commonwealth without private ow
 
 # Economic Calculation Problem
 
-> The economic-calculation problem is the argument, originating with [[ludwig-von-mises|Mises]] in 1920 and elaborated in [[socialism|Socialism]] (1922), that a centrally-planned economy without genuine market prices for the means of production cannot rationally allocate resources. The point is not that planners have insufficient data, but that the relevant economic information only exists as the outcome of competitive exchanges that socialism prohibits.
+> The economic-calculation problem is the argument, originating with [[ludwig-von-mises|Mises]] in 1920 and elaborated in [[socialism|Socialism]] (1922), that a centrally-planned economy without genuine market prices for the means of production cannot rationally allocate resources. The point is not that planners have insufficient data, but that without private ownership and exchange of the means of production there are no money prices for capital goods and factors of production — and without those prices, the planner has no common unit in which to compare the countless technically-possible production plans, so rational economic calculation is impossible in principle. (This is distinct from, though complementary to, Hayek's later [[knowledge-problem|knowledge problem]], which stresses dispersed information rather than the absence of the price-calculation unit itself.)
 
 ## The Core Argument
 
@@ -53,10 +54,10 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - application of calculation concerns to politicized fiat credit allocation
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source connecting fiat incentives to price, science, fuel, and policy distortions
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source for the capitalism and calculation chapter
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner pa...
-- [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkabl...
-- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create ins...
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner
+- [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
+- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
 
 
 - [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink

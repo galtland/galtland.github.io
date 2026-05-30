@@ -62,7 +62,7 @@ That places Szabo near [[market-anarchism-and-private-law|Market Anarchism and P
 - [[unforgeable-costliness|Unforgeable Costliness]] - concept article joining Szabo's Shelling Out and Bit Gold to Bitcoin hardness
 - [[hal-finney|Hal Finney]] - RPOW creator who cited Szabo's Bit Gold as a proof-of-work money precursor
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper that places Szabo's smart-contracts and Bit Gold work in Bitcoin legal context
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verificat...
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public
 
 ## Sources
 

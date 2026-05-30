@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-29
 updated: 2026-05-29
-verified: 2026-05-29
+verified: 2026-05-30
 confidence: medium
 tags: [surveillance-capitalism, privacy, data-extraction, zuboff, austrian-economics, market-failure, intellectual-property, corporate-state, knowledge-problem, max-hillebrand]
 aliases: [surveillance capitalism, data extraction, behavioral surplus, corporate surveillance, users as product]
@@ -55,7 +55,7 @@ Consistent with the [[knowledge-problem|market-process]] view, Hillebrand reads 
 - [[forward-secrecy|Forward Secrecy]] - encrypted-messaging market response Hillebrand cites
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the implementation-map topic
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - ch. 11 is the source for this concept
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where identit...
+- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
 
 ## Sources
 

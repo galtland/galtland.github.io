@@ -31,12 +31,12 @@ Second, the shortage worsens with the elasticity of supply: "The more 'elastic' 
 - [[murray-n-rothbard|Murray N. Rothbard]] — author reference page
 - [[economic-calculation-problem|Economic Calculation Problem]] — adjacent Austrian frame: the suppressed price is the calculation signal the intervener obliterates
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]] — thesis applying the maximum-price claim to the Argentine case
-- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create ins...
-- [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action, exchange,...
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
+- [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action
 
 
 - [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
-- [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market: autis...
+- [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 
 ## Sources
 

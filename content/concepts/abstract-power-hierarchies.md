@@ -4,6 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-05-12
+verified: 2026-05-30
 tags: [abstract-power, state, hierarchy, bitcoin, software, power-projection, national-security, political-means, totalitarianism]
 aliases: [abstract power hierarchy, APB hierarchy, abstract-power-based hierarchy, rule-based authority]
 confidence: low

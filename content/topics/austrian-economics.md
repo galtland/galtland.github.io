@@ -81,8 +81,8 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Austrian-Bitcoin synthesis source
 - [[principles-of-economics-ammous|Principles of Economics]] - Ammous's Austrian economics textbook
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
 
 ## Sources
 

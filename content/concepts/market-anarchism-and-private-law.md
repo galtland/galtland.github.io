@@ -50,7 +50,7 @@ Not every libertarian tradition embraces full market anarchism, but this topic w
 
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook chapters on violence, defense, and law-order themes
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - private-law and legal-theory treatment of Bitcoin property questions
-- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools (Bitc...
+- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 
 ## Sources
 

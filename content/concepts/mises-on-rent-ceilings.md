@@ -28,8 +28,8 @@ The Vienna instance is the worked example: rent-controlled units stay nominally 
 - [[liberalism|Liberalism]] — full-text source
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference page
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]] — thesis applying the Mises rent-ceiling claim to the Argentine case
-- [[economic-calculation-problem|Economic Calculation Problem]] - The Misesian argument that a socialist commonwealth without private ownership of capita...
-- [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market: autis...
+- [[economic-calculation-problem|Economic Calculation Problem]] - The Misesian argument that a socialist commonwealth without private ownership of
+- [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 
 ## Sources
 

@@ -63,7 +63,7 @@ The book's structure is clear, but its adoption is uncertain. It is best treated
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - credit definition underlying the monetary-economics section
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - property and violence framework relevant to the civilization section
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - defense and law-order themes adjacent to Chapters 16-17
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
 
 ## Sources
 

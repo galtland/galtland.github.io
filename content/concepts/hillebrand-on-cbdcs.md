@@ -30,14 +30,14 @@ The verdict follows: "Money that can be surveilled and controlled is not sound m
 - [[power-and-market|Power and Market]] — Rothbard's autistic/binary/triangular intervention typology Hillebrand applies
 - [[state-power-and-intervention|State Power and Intervention]] — broader intervention frame
 - [[privacy-and-cryptography|Privacy and Cryptography]] — topic map for resistance to financial surveillance
-- [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - Hayek's Road to Serfdom claim that the rule of law means government action is bound by...
-- [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action, exchange,...
+- [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - Hayek's Road to Serfdom claim that the rule of law means government action is bound
+- [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action
 
 
 - [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Holding Cap and Expiring Balances: Analysis]] - newsroom thesis backlink
-- [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market: autis...
-- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools (Bitc...
-- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material...
+- [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
+- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
+- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
 
 ## Sources
 

@@ -4,6 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-05-10
+verified: 2026-05-30
 tags: [power-projection, bitcoin, proof-of-work, physical-cost, national-security, cyberspace]
 aliases: [Power Projection Theory, physical power projection, abstract power projection, proof-of-power]
 confidence: low

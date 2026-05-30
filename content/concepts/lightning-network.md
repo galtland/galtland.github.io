@@ -65,10 +65,10 @@ The tradeoff is therefore not "blockchain or no blockchain." It is whether the b
 - [[hal-finney|Hal Finney]] - RPOW and early Bitcoin participant whose work sits upstream of payment-channel scaling
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Saifedean's monetary reading of Bitcoin, including second-layer scaling concerns
 - [[the-fiat-standard|The Fiat Standard]] - later Ammous source with a dedicated Bitcoin scaling chapter
-- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed throu...
-- [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into on...
-- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link to...
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where identit...
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
+- [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
+- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
+- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
 
 ## Sources
 

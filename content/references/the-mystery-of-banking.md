@@ -42,9 +42,9 @@ The 100%-reserve-banking position the wiki adopts in [[hundred-percent-reserve-b
 - [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] — Salerno paper that cites this book's broad money-supply criterion
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] — the position the book most accessibly defends
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — the measurement framework whose Rothbardian basis is this book
-- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian so...
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
-- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to pla...
+- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
 
 ## Sources
 

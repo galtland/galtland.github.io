@@ -60,7 +60,7 @@ This article treats those later examples as echoes, not as identical copies. Cli
 - [[praxeology-of-privacy|Praxeology of Privacy]] - privacy-as-selective-disclosure frame threatened by built-in access systems
 - [[cypherpunk|Cypherpunk]] - movement context for resisting key escrow
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong encryption and privacy tools
-- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum...
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
 
 ## Sources
 

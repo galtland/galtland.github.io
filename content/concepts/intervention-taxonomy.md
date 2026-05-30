@@ -4,7 +4,7 @@ volatility: cold
 category: concept
 created: 2026-05-29
 updated: 2026-05-29
-verified: 2026-05-29
+verified: 2026-05-30
 confidence: high
 tags: [rothbard, intervention, austrian-economics, power-and-market, autistic-intervention, binary-intervention, triangular-intervention, taxation, price-controls, surveillance, cbdc]
 aliases: [autistic binary triangular intervention, triangular intervention, binary intervention, autistic intervention, intervention typology, Rothbard intervention typology]
@@ -47,8 +47,8 @@ Rothbard also stressed that intervention is **self-propagating**: each intervent
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's prior distinction the taxonomy refines
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - applies the taxonomy as a financial-surveillance threat model
 - [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis instantiating the typology in the ECB's digital-euro architecture
-- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools (Bitc...
-- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material...
+- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
+- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
 
 ## Sources
 

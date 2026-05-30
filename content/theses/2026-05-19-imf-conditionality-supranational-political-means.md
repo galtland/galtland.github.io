@@ -75,7 +75,7 @@ This analysis does not decide climate science, IMF Articles of Agreement doctrin
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - planning as discretionary coercive power
 - [[state-power-and-intervention|State Power and Intervention]] - intervention as a cumulative process
 - [[political-means-and-economic-means|Political Means and Economic Means]] - coercive rulemaking versus production and exchange
-- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create ins...
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
 
 ## Sources
 

@@ -69,7 +69,7 @@ This endorsement is descriptive. It does not decide whether a particular externa
 - [[private-security-and-insurance|Private Security and Insurance]] - competitive-security contrast
 - [[anatomy-of-the-state|Anatomy of the State]] - source for the defense/emergency passage
 - [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] - source for the protection-racket model
-- [[liberalism|Liberalism]] - Reference guide to Mises's short 1927 statement of classical-liberal political economy:...
+- [[liberalism|Liberalism]] - Reference guide to Mises's short 1927 statement of classical-liberal political
 
 
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink

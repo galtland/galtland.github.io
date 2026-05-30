@@ -36,7 +36,7 @@ The political-economy companion is the Oppenheimer/Nock distinction. The politic
 
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's fiat-life frame extending capital-consumption concerns into monetary engineering
 - [[the-fiat-standard|The Fiat Standard]] - source for fiat capital destruction and related social effects
-- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Reference guide to Hoppe's 2001 regime-comparison book on monarchy, democracy, time pre...
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Reference guide to Hoppe's 2001 regime-comparison book on monarchy, democracy, time
 
 ## Sources
 

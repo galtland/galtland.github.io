@@ -74,10 +74,10 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's collected essays on Austrian monetary theory
 - [[austrian-economics|Austrian Economics]] - broader school whose monetary tradition this concept rests on
 - [[cypherpunk|Cypherpunk]] - the movement whose Bitcoin-era thinkers reframed hardness as a cryptographic primitive
-- [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard): pro...
-- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools (Bitc...
-- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn from...
-- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link to...
+- [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
+- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
+- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
+- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
 
 ## Sources
 

@@ -53,7 +53,7 @@ The axiom's value is narrower and more useful: it marks the possibility of syste
 - [[max-hillebrand|Max Hillebrand]] - author of the source text
 - [[praxeology|Praxeology]] - contrast case: the self-evident action axiom
 - [[austrian-economics|Austrian Economics]] - broader framework whose modern privacy extension uses the axiom
-- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools (Bitc...
+- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 
 ## Sources
 

@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-29
 updated: 2026-05-29
-verified: 2026-05-29
+verified: 2026-05-30
 confidence: medium
 tags: [parallel-economy, cypherpunk, bitcoin, privacy, agorism, counter-economics, resistance, ooda-loop, austrian-economics, max-hillebrand, crypto-anarchy]
 aliases: [parallel economy, parallel economic implementation, breaking the observation loop, counter-economics, agorism]
@@ -51,10 +51,10 @@ The parallel economy is the cypherpunk-implementation cousin of **agorism / coun
 - [[cypherpunk|Cypherpunk]] - the movement whose tools compose the stack
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the implementation-map topic
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - the book whose ch. 21 synthesizes this concept
-- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material...
-- [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into on...
-- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn from...
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where identit...
+- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
+- [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
+- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
+- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
 
 ## Sources
 

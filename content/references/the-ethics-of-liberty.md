@@ -41,8 +41,8 @@ This book is in dialogue with several other sources. The natural-law foundation 
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - Hoppe's parallel property-rights treatment
 - [[liberalism|Liberalism]] - Mises's consequentialist contrast
 - [[libertarianism|Libertarianism]] - broader topic context
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
-- [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard): pro...
+- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
+- [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 
 ## Sources
 

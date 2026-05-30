@@ -74,11 +74,11 @@ This analysis does not decide EU competence over direct taxation, member-state c
 - [[state-power-and-intervention|State Power and Intervention]] - intervention as a cumulative process with secondary margins
 - [[sales-tax-incidence|Sales Tax Incidence]] - adjacent Rothbardian no-forward-shifting analysis
 - [[power-and-market|Power and Market]] - Rothbard's source text for wealth-tax incidence
-- [[anatomy-of-the-state|Anatomy of the State]] - Reference guide to Rothbard's concise anti-state essay on political monopoly, ideologic...
-- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Reference guide to Hoppe's 2001 regime-comparison book on monarchy, democracy, time pre...
-- [[liberalism|Liberalism]] - Reference guide to Mises's short 1927 statement of classical-liberal political economy:...
-- [[oppenheimer-the-state|The State]] - Reference guide to Franz Oppenheimer's sociological treatise on the state's conquest or...
-- [[our-enemy-the-state|Our Enemy, the State]] - Reference guide to Albert Jay Nock's 1935 anti-state book applying Oppenheimer's politi...
+- [[anatomy-of-the-state|Anatomy of the State]] - Reference guide to Rothbard's concise anti-state essay on political monopoly
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Reference guide to Hoppe's 2001 regime-comparison book on monarchy, democracy, time
+- [[liberalism|Liberalism]] - Reference guide to Mises's short 1927 statement of classical-liberal political
+- [[oppenheimer-the-state|The State]] - Reference guide to Franz Oppenheimer's sociological treatise on the state's conquest
+- [[our-enemy-the-state|Our Enemy, the State]] - Reference guide to Albert Jay Nock's 1935 anti-state book applying Oppenheimer's
 
 
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink

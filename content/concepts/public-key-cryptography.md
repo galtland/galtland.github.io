@@ -72,14 +72,14 @@ The confidence level is high for the core claim. Diffie and Hellman's paper expl
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator who packaged public-key cryptography for ordinary users
 - [[hal-finney|Hal Finney]] - PGP contributor and later Bitcoin participant
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper built around signing keys, control, and UTXOs
-- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's bloc...
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's
 - [[ring-signatures|Ring Signatures]] - public-key signature variant that hides which key in a set signed
 - [[forward-secrecy|Forward Secrecy]] - session property built from ephemeral public-key exchange
 - [[signal-x3dh|Signal X3DH]] - asynchronous authenticated key agreement using identity keys, prekeys, and DH composition
 - [[signal-double-ratchet|Signal Double Ratchet]] - messaging ratchet that repeatedly mixes Diffie-Hellman outputs into new keys
-- [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), former Intel physicist and founding cypherpunk; author of the Cryp...
-- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum...
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where identit...
+- [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), former Intel physicist and founding cypherpunk; author of the
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
+- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
 
 ## Sources
 

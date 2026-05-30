@@ -4,7 +4,7 @@ volatility: cold
 category: concept
 created: 2026-05-29
 updated: 2026-05-29
-verified: 2026-05-29
+verified: 2026-05-30
 confidence: medium
 tags: [intellectual-property, scarcity, property-rights, rivalry, kinsella, rothbard, austrian-economics, copyright, patents, information, libertarian]
 aliases: [IP, intellectual property as aggression, against intellectual property, anti-IP, information and property]

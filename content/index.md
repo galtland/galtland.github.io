@@ -2,7 +2,7 @@
 
 > Where Austrian economics meets cypherpunk code. Political philosophy, monetary theory, cryptography, history, and the arguments that bind them. Published at https://index.galtland.org/.
 
-Last updated: 2026-05-29
+Last updated: 2026-05-30
 
 ## Statistics
 
@@ -11,6 +11,7 @@ Last updated: 2026-05-29
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-30
 - Last lint: 2026-05-29
+- Last librarian scan: 2026-05-30 (0 stale, 0 low-quality; 18 articles human-verified)
 
 ## Quick Navigation
 
@@ -28,6 +29,8 @@ Last updated: 2026-05-29
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-30: librarian — full quality/staleness scan (170 articles): 0 stale, 0 stubs, 0 missing See-Also; the only systemic gap was verification (nothing human-confirmed). Acted on a gpt-5.5 content review of the older Austrian core — fixed 2 doctrinal errors (Rothbard's natural-rights ethics vs Hoppe's argumentation ethics; the Misesian calculation point was Hayekized) plus 6 wording/precision fixes across `praxeology`, `nonaggression-and-property-rights`, `economic-calculation-problem`, `knowledge-problem`, `austrian-business-cycle-theory`. Enriched 3 terse state-theory concepts (`council-system`, `friend-enemy-distinction`, `state-of-exception`) with verified canonical content. Confirmed the 2 `confidence: low` outliers are correctly calibrated. Fixed a systemic readability defect: trimmed 264 mid-word-truncated See-Also notes across 78 files and patched `check-backlinks.py` to stop truncating at word boundaries. Stamped `verified: 2026-05-30` on the 18 genuinely-reviewed articles.
 
 - 2026-05-30: compile — extracted the remaining 4 implementation/history concepts from *The Praxeology of Privacy*: `coinjoin` (CoinJoin/PayJoin Bitcoin base-layer privacy), `ecash` (Chaumian ecash mints — Cashu/Fedimint and the privacy-vs-custody tradeoff), `nostr` (keys-as-identity decentralized social protocol), and `digital-cash-history` (the Ch. 18 case studies — DigiCash, e-gold, Liberty Dollar, Liberty Reserve, Silk Road, Tornado Cash — and why Bitcoin's design escaped their central-point-of-failure trap). 34 reciprocal See Also backlinks added; author bios left one-directional per the AGENTS.md caveat. Article count 166 → 170.
 

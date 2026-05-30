@@ -3,16 +3,17 @@ title: "Knowledge Problem"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-05-10
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [hayek, knowledge-problem, central-planning, spontaneous-order, austrian-economics]
 aliases: [Use of Knowledge in Society, Hayekian Knowledge Problem, Dispersed Knowledge]
 confidence: medium
-summary: "Hayek's argument that economic knowledge exists only as dispersed, tacit, time-and-place-specific knowledge, now cross-linked to Arendt's separate critique of total ideology and reality-denying political deduction."
+summary: "Hayek's argument that the knowledge needed to coordinate an economy is dispersed, often tacit, and time-and-place-specific, so the price system — not a central planner — is what puts it to use."
 ---
 
 # Knowledge Problem
 
-> The knowledge problem is [[friedrich-a-hayek|Hayek]]'s claim that the central question of social organization is not how to allocate given resources to given ends — that is the textbook economic problem — but how to make use of knowledge that "is not given to anyone in its totality." Most economically relevant knowledge exists only as the dispersed, tacit, time-and-place-specific knowledge of millions of actors. The price system is the social mechanism that uses it without anyone possessing all of it.
+> The knowledge problem is [[friedrich-a-hayek|Hayek]]'s claim that the central question of social organization is not how to allocate given resources to given ends — that is the textbook economic problem — but how to make use of knowledge that "is not given to anyone in its totality." Much of the knowledge needed to coordinate an economy is not general scientific knowledge but the particular, often tacit, time-and-place-specific knowledge of millions of actors. The price system is the social mechanism that puts it to use without anyone possessing all of it.
 
 ## The Core Argument
 
@@ -46,13 +47,13 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 
 
 - [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner pa...
-- [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkabl...
-- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create ins...
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner
+- [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
 
 
 - [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
-- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material...
+- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
 
 ## Sources
 

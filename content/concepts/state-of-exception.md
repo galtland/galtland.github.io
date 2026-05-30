@@ -3,7 +3,8 @@ title: "State of Exception"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [carl-schmitt, state-of-exception, sovereignty, emergency-power, decisionism, non-libertarian]
 aliases: [exception, sovereign exception, emergency powers]
 confidence: medium
@@ -16,9 +17,9 @@ summary: "Schmitt's concept that sovereignty is revealed in the decision on the 
 
 ## Concept
 
-In [[political-theology|Political Theology]], [[carl-schmitt|Schmitt]] argues that sovereignty cannot be understood only by studying normal rules. The decisive question is who determines that an emergency exists and what measures follow.
+In [[political-theology|Political Theology]], [[carl-schmitt|Schmitt]] opens with the formulation the book is known for: "Sovereign is he who decides on the exception." Sovereignty, on this view, cannot be understood only by studying normal rules; it is located precisely at the boundary, in the authority to determine that an emergency exists and what measures follow.
 
-The exception is not simply lawlessness. It is the point where legal order depends on a decision that cannot itself be fully contained by ordinary rules.
+The exception is not simply lawlessness. It is the point where legal order depends on a decision that cannot itself be fully contained by ordinary rules. Schmitt presses the analogy that gives the book its title: "the exception in jurisprudence is analogous to the miracle in theology" — just as the miracle is the moment the sovereign God suspends the natural order, the exception is the moment the sovereign suspends the legal one, which is why he reads modern legal concepts as secularized theological ones.
 
 ## Use in This Wiki
 

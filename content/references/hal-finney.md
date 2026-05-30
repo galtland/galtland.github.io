@@ -57,8 +57,8 @@ The post's tone matters for confidence. It is not a detached biography; it is Fi
 - [[unforgeable-costliness|Unforgeable Costliness]] - bridge concept for RPOW, Bit Gold, and Bitcoin
 - [[cypherpunk|Cypherpunk]] - movement context for Finney's remailer, RPOW, and Bitcoin work
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong cryptography and privacy-preserving tools
-- [[lightning-network|Lightning Network]] - Bitcoin second-layer payment channels: off-chain routed payments enforced by HTLCs, wit...
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verificat...
+- [[lightning-network|Lightning Network]] - Bitcoin second-layer payment channels: off-chain routed payments enforced by HTLCs
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public
 
 ## Sources
 

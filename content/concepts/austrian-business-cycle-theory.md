@@ -3,7 +3,8 @@ title: "Austrian Business Cycle Theory"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-05-09
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [business-cycle, austrian-economics, monetary-theory, capital-theory, great-depression]
 aliases: [ABCT, Austrian Theory of the Business Cycle, Hayek-Mises Business Cycle Theory]
 confidence: medium
@@ -32,11 +33,11 @@ The most concrete demonstration of the theory in the wiki is Rothbard's account 
 
 ## What the Theory Implies
 
-ABCT supplies a positive prediction (credit expansion produces an unsustainable boom followed by a corrective bust), a negative prediction (Keynesian aggregate-demand stimulation in the bust prolongs it by preventing the necessary liquidation), and a policy prescription (monetary policy that does not push interest rates away from the natural rate). It also gives the wiki's libertarian critique of central banking its concrete economic content: central banks are not merely vehicles of fiscal abuse but the institutional source of the boom-and-bust pattern itself.
+ABCT supplies a positive prediction (credit expansion produces an unsustainable boom followed by a corrective bust), a negative prediction (renewed credit expansion, or interventions that block the liquidation of malinvestment and the readjustment of prices, wages, and resources, prolong the bust), and a policy prescription (monetary policy that does not push interest rates away from the natural rate). It also gives the wiki's libertarian critique of central banking its concrete economic content: central banks are not merely vehicles of fiscal abuse but the institutional source of the boom-and-bust pattern itself.
 
 ## Why It Matters in This Wiki
 
-This is the macroeconomic spine that the rest of the wiki's monetary discussion relies on. [[the-economics-and-ethics-of-private-property|Hoppe's tax-incidence and money chapters]] and [[man-economy-and-state|Rothbard's Power and Market]] treat the conclusions as standing background. Without the Hayek volume, the wiki had only the conclusions. With it, the theory's principal source texts are present.
+This is the macroeconomic spine that the rest of the wiki's monetary discussion relies on. [[the-economics-and-ethics-of-private-property|Hoppe's tax-incidence and money chapters]] and [[man-economy-and-state|Rothbard's Man, Economy, and State]] treat the conclusions as standing background. Without the Hayek volume, the wiki had only the conclusions. With it, the theory's principal source texts are present.
 
 ## See Also
 
@@ -57,10 +58,10 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's debt-as-money frame for fiat credit expansion
 - [[the-fiat-standard|The Fiat Standard]] - companion book applying fiat mining and credit expansion to the post-1971 monetary system
 - [[principles-of-economics-ammous|Principles of Economics]] - Ammous textbook section on monetary expansion and business cycles
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money,...
-- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to pla...
-- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be 100%...
-- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components conta...
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
+- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
+- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components
 
 ## Sources
 

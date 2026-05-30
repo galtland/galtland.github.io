@@ -3,11 +3,12 @@ title: "Nonaggression and Property Rights"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-05-10
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [nonaggression, property-rights, ethics, liberty, classical-liberalism, political-means]
 aliases: [NAP, nonaggression principle, private property rights]
 confidence: medium
-summary: "Normative core of the current corpus: self-ownership, property, contract, and the rule against initiated force — defended on natural-rights grounds by Rothbard and Hoppe and on consequentialist grounds by Mises."
+summary: "Normative core of the current corpus: self-ownership, property, contract, and the rule against initiated force — defended on natural-rights grounds by Rothbard, on argumentation-ethics/property-theory grounds by Hoppe, and on consequentialist/utilitarian grounds by Mises."
 ---
 
 # Nonaggression and Property Rights
@@ -36,9 +37,9 @@ That distinction matters. Compelling a person to disclose, entering a home or de
 
 The Tannehills' [[the-market-for-liberty|The Market for Liberty]] pushes the same point into institutional form. If persons and property are primary, then courts, arbitration, defense, and insurance should be organized around restitution and defense rather than around political privilege. Bastiat's [[the-law|The Law]] sharpens the contrast: when law takes from one to give to another, legality does not cleanse the act. In the present wiki graph, that connection runs directly into [[state-power-and-intervention|State Power and Intervention]] and [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
 
-## Two Defenses: Natural Rights vs. Consequentialism
+## Three Defenses: Natural Rights, Argumentation, and Consequences
 
-The wiki holds two distinct defenses of this normative core. [[the-ethics-of-liberty|Rothbard's The Ethics of Liberty]] is the natural-rights defense — self-ownership and property in unowned things appropriated through use are derived from a natural-law foundation. [[liberalism|Mises's Liberalism]] is the consequentialist defense — Mises explicitly declines natural-rights argument and grounds the case for liberty in the prosperity that property and exchange make possible. The two foundations reach overlapping conclusions but answer different question: *why* should we honor the nonaggression rule, on grounds of justice or on grounds of results?
+The wiki holds three distinct defenses of this normative core. [[the-ethics-of-liberty|Rothbard's The Ethics of Liberty]] is the **natural-rights** defense — self-ownership and property in unowned things appropriated through use are derived from a natural-law foundation. [[liberalism|Mises's Liberalism]] is the **consequentialist/utilitarian** defense — Mises explicitly declines natural-rights argument and grounds the case for liberty in the prosperity that property and exchange make possible. [[hans-hermann-hoppe|Hoppe]] adds a third, distinct from both: an **argumentation-ethics** defense that treats self-ownership and property as presuppositions any disputant must concede simply by arguing, so that denying them is a performative contradiction. The three reach overlapping conclusions but answer the *why* differently — on grounds of justice, of results, or of the preconditions of rational discourse.
 
 ## See Also
 
@@ -67,9 +68,9 @@ The wiki holds two distinct defenses of this normative core. [[the-ethics-of-lib
 
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source with property, violence, and civilization chapters
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin ownership
-- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be 100%...
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man...
-- [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard): pro...
+- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
+- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
+- [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 
 ## Sources
 

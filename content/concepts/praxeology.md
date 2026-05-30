@@ -3,7 +3,8 @@ title: "Praxeology"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-05-10
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [praxeology, methodology, austrian-economics, action-axiom, mises]
 aliases: [The Action Axiom, Mises's Method, Austrian Methodology]
 confidence: medium
@@ -12,11 +13,11 @@ summary: "The Misesian general theory of human action: a deductive science whose
 
 # Praxeology
 
-> Praxeology is the deductive science of human action defended by [[ludwig-von-mises|Mises]] and adopted by [[murray-n-rothbard|Rothbard]] as the methodological foundation of the Austrian school. Its first principle is the action axiom: humans act, in the sense of choosing means to attain ends. Economics, in this view, is not an empirical science of regularities but a deductive working-out of what is implied by the fact that humans act.
+> Praxeology is the deductive science of human action defended by [[ludwig-von-mises|Mises]] and adopted by [[murray-n-rothbard|Rothbard]] as the methodological foundation of the Misesian-Rothbardian Austrian tradition (other Austrians — Hayek, Kirzner, Lachmann — are less committed to strict apriorism). Its first principle is the action axiom: humans act, in the sense of choosing means to attain ends. Economics, in this view, is not an empirical science of regularities but a deductive working-out of what is implied by the fact that humans act.
 
 ## The Action Axiom
 
-The axiom is that purposeful behavior — choosing means to ends — is a feature of human existence rather than something to be tested empirically. Anyone who tries to deny it must perform a purposeful action (formulating and asserting the denial) and so confirms the very thing they are denying. From this single starting point Mises argues that one can derive the existence of value scales, scarcity, time preference, the law of marginal utility, the structure of exchange, the function of prices, the necessity of monetary calculation, and the destabilizing effects of intervention — all without statistical regression, behavioral assumption, or psychological hypothesis.
+The axiom is that purposeful behavior — choosing means to ends — is a feature of human existence rather than something to be tested empirically. Anyone who tries to deny it must perform a purposeful action (formulating and asserting the denial) and so confirms the very thing they are denying. From the action axiom, together with the relevant action categories and institutional conditions it introduces step by step (scarcity, exchange, private property, money), Mises argues that one can derive the existence of value scales, time preference, the law of marginal utility, the structure of exchange, the function of prices, the necessity of monetary calculation, and the destabilizing effects of intervention — all without statistical regression, behavioral assumption, or psychological hypothesis.
 
 ## What Praxeology Is Not
 
@@ -24,7 +25,7 @@ Praxeology is not introspection, not psychology, and not history. It does not ex
 
 ## Sources in This Wiki
 
-[[human-action|Human Action]] is the central text — its very title and Part One are the canonical statement of the praxeological method. [[theory-and-history|Theory and History]] is the explicit epistemological defense. [[man-economy-and-state|Man, Economy, and State]] opens with a praxeological derivation of economic categories and is the most systematic Rothbardian elaboration. [[the-ethics-of-liberty|The Ethics of Liberty]] extends the argumentation-style approach to ethics — a move Rothbard inherits and Hoppe develops further.
+[[human-action|Human Action]] is the central text — its very title and Part One are the canonical statement of the praxeological method. [[theory-and-history|Theory and History]] is the explicit epistemological defense. [[man-economy-and-state|Man, Economy, and State]] opens with a praxeological derivation of economic categories and is the most systematic Rothbardian elaboration. [[the-ethics-of-liberty|The Ethics of Liberty]] sets out Rothbard's natural-law/natural-rights libertarian ethics — a separate project from praxeological economics (Mises held that praxeology is value-free and cannot by itself establish ethical conclusions). Hoppe later developed the distinct argumentation-ethics defense of the same libertarian conclusions.
 
 ## Why It Matters in This Wiki
 

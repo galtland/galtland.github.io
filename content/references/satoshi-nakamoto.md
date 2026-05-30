@@ -58,7 +58,7 @@ That limitation is important for [[privacy-and-cryptography|Privacy and Cryptogr
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 - [[hal-finney|Hal Finney]] - first Bitcoin receiver and early correspondent with Satoshi
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verificat...
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public
 
 ## Sources
 

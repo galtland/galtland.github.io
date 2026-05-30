@@ -58,8 +58,8 @@ The Austrian-libertarian frame cannot reason about CPI movements, QE episodes, b
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] — companion concept on the supply-side normative position that pairs with the demand-side analysis
 - [[shelling-out|Shelling Out]] - Szabo's prehistoric-collectibles account of proto-money and monetary properties
-- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to pla...
-- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components conta...
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
+- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components
 
 ## Sources
 
