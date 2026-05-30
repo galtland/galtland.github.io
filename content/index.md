@@ -7,9 +7,9 @@ Last updated: 2026-05-29
 ## Statistics
 
 - Sources: 110 raw documents (+ 14 news-lens items)
-- Articles: 166 compiled wiki articles (71 concepts, 82 references, 8 theses, 5 topics)
+- Articles: 170 compiled wiki articles (75 concepts, 82 references, 8 theses, 5 topics)
 - Outputs: 1 generated artifacts
-- Last compiled: 2026-05-29
+- Last compiled: 2026-05-30
 - Last lint: 2026-05-29
 
 ## Quick Navigation
@@ -28,6 +28,8 @@ Last updated: 2026-05-29
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-05-30: compile — extracted the remaining 4 implementation/history concepts from *The Praxeology of Privacy*: `coinjoin` (CoinJoin/PayJoin Bitcoin base-layer privacy), `ecash` (Chaumian ecash mints — Cashu/Fedimint and the privacy-vs-custody tradeoff), `nostr` (keys-as-identity decentralized social protocol), and `digital-cash-history` (the Ch. 18 case studies — DigiCash, e-gold, Liberty Dollar, Liberty Reserve, Silk Road, Tornado Cash — and why Bitcoin's design escaped their central-point-of-failure trap). 34 reciprocal See Also backlinks added; author bios left one-directional per the AGENTS.md caveat. Article count 166 → 170.
 
 - 2026-05-29: compile — extracted 4 concept articles from the broad *Praxeology of Privacy* book to close coverage gaps a citation review surfaced: `intervention-taxonomy` (Rothbard's autistic/binary/triangular typology, previously only name-dropped), `intellectual-property` (the Kinsella/Rothbard scarcity-based anti-IP argument), `parallel-economy` (Hillebrand's Ch. 21 strategic synthesis — breaking the OODA observation loop), and `surveillance-capitalism` (Ch. 11, read through Austrian intervention/market-process theory). 35 reciprocal See Also backlinks added; author bios left one-directional per the AGENTS.md caveat. Article count 162 → 166.
 

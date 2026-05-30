@@ -63,6 +63,7 @@ The common pattern is deletion. A system can only benefit from forward secrecy i
 - [[cypherpunk|Cypherpunk]] - movement context for user-controlled encryption
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for privacy-preserving cryptographic systems
 - [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material...
+- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where identit...
 
 ## Sources
 

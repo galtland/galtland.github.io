@@ -68,6 +68,7 @@ The mailing list is the connective primary-source substrate beneath the wiki's c
 - [[hal-finney|Hal Finney]] - the list's most prolific digital-cash contributor
 - [[nick-szabo|Nick Szabo]] - list participant whose later work bridges to Austrian monetary theory
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - announced Bitcoin on the list's successor forum
+- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn from...
 
 ## Sources
 
