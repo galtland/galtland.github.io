@@ -4,6 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-27
 updated: 2026-05-27
+verified: 2026-05-30
 tags: [bitcoin, satoshi-nakamoto, proof-of-work, digital-cash, cypherpunk, peer-to-peer]
 aliases: [Bitcoin: A Peer-to-Peer Electronic Cash System, Bitcoin paper, Satoshi whitepaper]
 confidence: high

@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-04-25
 updated: 2026-05-10
+verified: 2026-05-30
 tags: [hoppe, austrian-economics, libertarianism, property-rights, democracy, regime-theory]
 aliases: [Hoppe, Hans Hoppe]
 confidence: medium

@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-05
 updated: 2026-05-05
+verified: 2026-05-30
 tags: [mises, methodology, epistemology, philosophy-of-history]
 aliases: [Mises Theory and History, Methodological Dualism]
 confidence: medium

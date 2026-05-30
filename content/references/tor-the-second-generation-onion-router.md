@@ -3,7 +3,8 @@ title: "Tor: The Second-Generation Onion Router"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [tor, onion-routing, anonymity, privacy, cryptography, cypherpunk, hidden-services, forward-secrecy]
 aliases: [Tor paper, Second-Generation Onion Router, Tor design paper, Dingledine Mathewson Syverson 2004]
 confidence: high
@@ -35,7 +36,7 @@ Exit policies are a deployment feature as much as a technical one. Volunteer rel
 
 ## Hidden Services
 
-Tor's rendezvous-point design supports location-hidden services. A server can offer a TCP service without revealing its IP address. Clients connect through introduction and rendezvous mechanisms so neither side needs to expose its network location directly to the other or to a single relay.
+Tor's rendezvous-point design supports location-hidden services. A server can offer a TCP service without revealing its IP address. Clients connect through introduction and rendezvous mechanisms so that client and server never learn each other's IP address, and no introduction or rendezvous relay learns both endpoints' identities and their traffic. (Each side still reveals its IP to its own first Tor hop, as in any onion circuit — the design hides the two ends from each other and from any single relay, not from the entry guard.)
 
 This is the paper's bridge from anonymous client browsing to broader resistant infrastructure. In [[privacy-and-cryptography|Privacy and Cryptography]], Tor is an implementation domain for selective disclosure and resistant communication, not merely a web proxy.
 

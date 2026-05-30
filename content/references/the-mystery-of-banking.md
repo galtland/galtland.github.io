@@ -3,7 +3,8 @@ title: "The Mystery of Banking"
 volatility: warm
 category: reference
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [rothbard, banking, fiduciary-media, fractional-reserves, sound-money, money-supply, 100-percent-reserves]
 aliases: [Mystery of Banking, MOB, Rothbard on banking]
 confidence: medium
@@ -16,7 +17,7 @@ summary: "Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, 
 
 ## What the book argues
 
-The book builds up the case against fractional-reserve banking in stages: (1) the origins of money and the regression theorem, (2) the warehouse-receipt theory of banking and the property-rights case for [[hundred-percent-reserve-banking|100% reserves]], (3) how fractional reserves create money in the broader Misesian sense and drive the credit-expansion mechanism that powers [[austrian-business-cycle-theory|Austrian Business Cycle Theory]], (4) the political economy of central banking and the Federal Reserve as an institutional amplifier of bank credit expansion, and (5) a history of US monetary regimes from the colonial era through the Federal Reserve's founding.
+The book builds up the case against fractional-reserve banking in stages: (1) the origins of money and the regression theorem, (2) the warehouse-receipt theory of banking and the property-rights case for [[hundred-percent-reserve-banking|100% reserves]], (3) how fractional reserves create money in the broader Misesian sense and drive the credit-expansion mechanism that powers [[austrian-business-cycle-theory|Austrian Business Cycle Theory]], (4) the political economy of central banking and the Federal Reserve as an institutional amplifier of bank credit expansion, and (5) a history of US monetary regimes from the colonial era through the Federal Reserve era to the present money supply, closing with Rothbard's case for a return to sound money.
 
 The book is also the source most often cited for Rothbard's broad money-supply criterion — every claim genuinely redeemable, in fact, on demand at par in cash is part of the money supply — which [[joseph-t-salerno|Joseph T. Salerno]] later formalized as the [[monetary-aggregates-and-credit-expansion|True Money Supply]]. Salerno's [[the-true-money-supply-salerno-1987|1987 TMS paper]] cites *Mystery of Banking* (pp. 254–62) as a primary source for the criterion.
 

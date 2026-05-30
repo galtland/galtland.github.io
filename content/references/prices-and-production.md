@@ -3,7 +3,8 @@ title: "Prices and Production and Other Works"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [hayek, austrian-business-cycle-theory, capital-theory, monetary-theory]
 aliases: [Prices and Production, Hayek's Monetary Works]
 confidence: medium
@@ -16,12 +17,14 @@ summary: "Reference guide to the Mises Institute's collected edition of Hayek's 
 
 ## What the Volume Contains
 
-The collection brings together four works originally published 1929–1939:
+The Mises Institute's *Prices and Production and Other Works* is a collected volume of Hayek's interwar monetary and capital-theory writings (1929–1939). The major works it gathers, and the ones this wiki draws on, are:
 
 - ***Monetary Theory and the Trade Cycle*** (1929 / English 1933) — Hayek's earliest statement, situating the cycle in monetary disturbances rather than non-monetary "real" causes.
 - **[[prices-and-production|Prices and Production]]** (1931, expanded 1935) — the central theoretical statement, presenting the structure of production via the famous Hayekian triangles and showing how credit-expansion-induced lower-than-natural interest rates lengthen and distort the production structure.
 - ***Monetary Nationalism and International Stability*** (1937) — Hayek's defense of an international gold-standard-like discipline against the rise of national fiat-money management.
 - ***Profits, Interest, and Investment*** (1939) — later refinements responding to interwar critiques and to Keynes's *General Theory*.
+
+The volume also reprints shorter pieces — "The Paradox of Saving," "Reflections on the Pure Theory of Money of Mr. J. M. Keynes," "The Mythology of Capital," and "Investment That Raises the Demand for Capital" — which extend the same monetary-and-capital line.
 
 ## Why It Matters in This Wiki
 

@@ -3,11 +3,12 @@ title: "Blind Signatures for Untraceable Payments"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [david-chaum, blind-signatures, digital-cash, privacy, cryptography, cypherpunk, payments]
 aliases: [Chaum 1982, Blind Signatures, Untraceable Payments, Chaumian e-cash]
 confidence: high
-summary: "David Chaum's CRYPTO '82 paper introduces blind signatures as a way for a bank to sign payment tokens without learning which signed token is later spent and deposited, preserving payer privacy while retaining verification and audit controls."
+summary: "David Chaum's CRYPTO '82 paper (published in the 1983 proceedings) introduces blind signatures as a way for a bank to sign payment tokens without learning which signed token is later spent and deposited, preserving payer privacy while retaining verification and audit controls."
 short: "Chaum's 1982 blind-signature paper: a bank signs a blinded token, the payer unblinds it, and later deposit cannot be linked to withdrawal."
 ---
 

@@ -3,7 +3,8 @@ title: "Security Without Identification"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [david-chaum, pseudonymity, privacy, digital-cash, cryptography, surveillance, cypherpunk]
 aliases: [Security Without Identification: Transaction Systems to Make Big Brother Obsolete, Transaction Systems to Make Big Brother Obsolete, Chaum 1985]
 confidence: high
@@ -25,7 +26,7 @@ The paper argues that this creates a chilling effect and a structural loss of in
 
 Chaum's alternative is to use different digital pseudonyms with different organizations. A person can have a bank pseudonym, a shop pseudonym, a credential pseudonym, and one-time-use pseudonyms without making them linkable by default. Abuse controls are built into the protocols rather than into universal identity.
 
-The personal card computer is the user's side of that architecture. It is not a tamper-resistant institutional token that keeps secrets from the user. It is a user-controlled device that stores keys, authorizes transactions, displays terms, and lets the user decide what to disclose.
+The personal card computer is the user's side of that architecture. The contrast Chaum draws is one of *control*, not of tamper-resistance per se: the conventional chip card is an institution-owned token that keeps secrets from the user, whereas the card computer is a user-controlled device that need keep no secrets from its owner (though it may still include a reasonably tamper-resistant part). It stores keys, authorizes transactions, displays terms, and lets the user decide what to disclose.
 
 ## Three Transaction Domains
 

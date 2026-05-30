@@ -3,7 +3,8 @@ title: "The Road to Serfdom"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-10
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [hayek, central-planning, totalitarianism, rule-of-law, classical-liberalism]
 aliases: [Road to Serfdom, RTS]
 confidence: medium
@@ -20,7 +21,7 @@ Hayek's central claim is that the conflict between socialism and liberalism is n
 
 ## Why It Matters in This Wiki
 
-This is the wiki's first Hayek text and the most famous classical-liberal book of the twentieth century. It supplies a political-philosophical complement to the economic-calculation argument from [[socialism|Socialism]] and [[economic-calculation-problem|Economic Calculation Problem]] — Mises showed that planning cannot work; Hayek showed why trying to make it work corrodes liberty. The book is also the proximate intellectual ancestor of [[for-a-new-liberty|For a New Liberty]] and [[busting-myths-about-the-state-and-the-libertarian-alternative|Busting Myths about the State and the Libertarian Alternative]] as movement-facing classical-liberal texts.
+This is the wiki's first Hayek text and the most famous classical-liberal book of the twentieth century. It supplies a political-philosophical complement to the economic-calculation argument from [[socialism|Socialism]] and [[economic-calculation-problem|Economic Calculation Problem]] — Mises showed that planning cannot work; Hayek showed why trying to make it work corrodes liberty. The book is also a famous predecessor in the movement-facing anti-planning literature that [[for-a-new-liberty|For a New Liberty]] and [[busting-myths-about-the-state-and-the-libertarian-alternative|Busting Myths about the State and the Libertarian Alternative]] later extended, though those are Rothbardian/anarchist rather than Hayekian classical-liberal in their conclusions.
 
 ## Scope of the Full-Text Ingest
 
@@ -28,7 +29,7 @@ The Mises Institute's free PDF is the 1999 Institute of Economic Affairs (IEA) e
 
 ## Relation to Hayek's Other Texts
 
-This book is the popular front of Hayek's critique of central planning. Its theoretical underpinnings are in [[individualism-and-economic-order|Individualism and Economic Order]] — particularly "The Use of Knowledge in Society" and the "Socialist Calculation" essays. Its monetary-theoretic counterpart is [[prices-and-production|Prices and Production and Other Works]], where Hayek explains the business-cycle effects of credit expansion that he saw as a quieter parallel form of the same planning impulse.
+This book is the popular front of Hayek's critique of central planning. Its theoretical underpinnings are in [[individualism-and-economic-order|Individualism and Economic Order]] — particularly "The Use of Knowledge in Society" and the "Socialist Calculation" essays. Its monetary-theoretic counterpart is [[prices-and-production|Prices and Production and Other Works]] — a separate line of Hayek's work on the business-cycle effects of credit expansion (money and capital theory), distinct from the political-planning argument of *Road* rather than a restatement of it.
 
 ## See Also
 

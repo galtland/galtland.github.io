@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-04-21
 updated: 2026-04-22
+verified: 2026-05-30
 tags: [rothbard, austrian-economics, economics, power-and-market]
 aliases: [MES, Man Economy and State]
 confidence: medium

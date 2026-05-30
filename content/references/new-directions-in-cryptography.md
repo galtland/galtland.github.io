@@ -4,6 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [diffie-hellman, public-key-cryptography, digital-signatures, cryptography, cypherpunk, key-exchange, privacy]
 aliases: [Diffie-Hellman 1976, New Directions, public-key cryptography paper]
 confidence: high

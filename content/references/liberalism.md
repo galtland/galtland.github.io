@@ -3,7 +3,8 @@ title: "Liberalism"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [mises, liberalism, classical-liberalism, free-trade]
 aliases: [Liberalismus, Mises Liberalism, Classical Liberalism]
 confidence: medium
@@ -24,7 +25,7 @@ Mises identifies the foundation of social cooperation as private ownership of th
 
 ## Scope of the Full-Text Ingest
 
-The current raw source is the Mises Institute's PDF of the 3rd English edition (1985), 225 pages, extracted with `pdftotext -layout`. It contains all four parts of the book — The Foundations of Liberal Policy, Liberal Economic Policy, Liberalism and the Political Parties, and The Future of Liberalism — along with Bettina Bien Greaves's editorial preface and Thomas Woods's foreword.
+The current raw source is the Mises Institute's PDF of the 3rd English edition (1985), 225 pages, extracted with `pdftotext -layout`. It contains all five chapters of the book — The Foundations of Liberal Policy, Liberal Economic Policy, Liberal Foreign Policy, Liberalism and the Political Parties, and The Future of Liberalism — along with Bettina Bien Greaves's editorial preface and Louis M. Spadaro's foreword.
 
 ## Relation to Mises's Other Texts
 

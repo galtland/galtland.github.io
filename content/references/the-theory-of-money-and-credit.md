@@ -3,7 +3,8 @@ title: "The Theory of Money and Credit"
 volatility: warm
 category: reference
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [mises, austrian-economics, monetary-theory, money-and-banking, credit, regression-theorem, business-cycle, ludwig-von-mises]
 aliases: [Theory of Money and Credit, TMC, Theorie des Geldes und der Umlaufsmittel]
 confidence: medium
@@ -59,7 +60,7 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 - [[austrian-economics|Austrian Economics]] - school whose monetary tradition this book founds
 - [[human-action|Human Action]] - Mises's later (1949) treatise containing the integrated re-statement of TMC's monetary theory
 - [[man-economy-and-state|Man, Economy, and State]] - Rothbard's continuation in Ch. 11 (Money and Its Purchasing Power)
-- [[prices-and-production|Prices and Production and Other Works]] - Hayek's contemporaneous extension of the cycle theory
+- [[prices-and-production|Prices and Production and Other Works]] - Hayek's later (1931) extension of the cycle theory
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - Hoppe's later restatement; quotes TMC p. 268 directly
 - [[murray-n-rothbard|Murray N. Rothbard]] - Misesian successor on monetary theory
 - [[friedrich-a-hayek|F. A. Hayek]] - sibling Austrian author on monetary theory

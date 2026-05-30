@@ -3,7 +3,8 @@ title: "Power and Market"
 volatility: warm
 category: reference
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [rothbard, austrian-economics, intervention, taxation, power-and-market, political-means]
 aliases: [P&M, Power and Market Government and the Economy]
 confidence: medium
@@ -16,7 +17,7 @@ summary: "Reference guide to Rothbard's Power and Market (1970) — the standalo
 
 ## What the Book Covers
 
-The book proceeds in seven chapters. Chapter 1 ("Defenses on the Free Market") closes the loop in the Rothbardian system by arguing that even the defense function — police, courts, adjudication — is producible on the market and that a "limited" State is structurally unstable. Chapter 2 introduces the tripartite intervention typology — *autistic* (the actor coerces themselves), *binary* (two parties: taxer and taxed), and *triangular* (three parties: the intervener compels or forbids an exchange between two others). Chapter 3 develops triangular intervention into price control and product control (prohibitions, licenses, tariffs, conscription, antitrust, patents, eminent domain). Chapter 4 develops binary intervention as taxation — incidence on income, accumulated capital, the progressive tax, the single tax on ground rent, and the canons of justice in taxation. Chapter 5 develops binary intervention on the expenditure side — transfer payments and resource-using activities (government ownership versus private ownership). Chapter 6 is a praxeological critique of antimarket ethical arguments — equality, security, charity, materialism, luck, the "traffic-manager" analogy, over- and underdevelopment, the state and the nature of man, human rights versus property rights. Chapter 7 closes with the relation between economics and public policy and the contrast between market and hegemonic principles of social order.
+The book proceeds in seven chapters. Chapter 1 ("Defenses on the Free Market") closes the loop in the Rothbardian system by arguing that even the defense function — police, courts, adjudication — is producible on the market and that a "limited" State is structurally unstable. Chapter 2 introduces the tripartite intervention typology — *autistic* (the State commands a person's use of their own self or property, with no exchange taking place), *binary* (a coerced exchange or gift between the intervener and the subject, e.g. taxation or conscription), and *triangular* (the intervener compels or forbids an exchange between two other parties). Chapter 3 develops triangular intervention into price control and product control (prohibitions, licenses, tariffs, antitrust, patents, grants of monopoly privilege). Chapter 4 develops binary intervention as taxation — incidence on income, accumulated capital, the progressive tax, the single tax on ground rent, and the canons of justice in taxation. Chapter 5 develops binary intervention on the expenditure side — transfer payments and resource-using activities (government ownership versus private ownership). Chapter 6 is a praxeological critique of antimarket ethical arguments — equality, security, charity, materialism, luck, the "traffic-manager" analogy, over- and underdevelopment, the state and the nature of man, human rights versus property rights. Chapter 7 closes with the relation between economics and public policy and the contrast between market and hegemonic principles of social order.
 
 ## Why It Matters in This Wiki
 

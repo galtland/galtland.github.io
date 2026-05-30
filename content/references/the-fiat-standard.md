@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [saifedean-ammous, fiat-money, bitcoin, central-banking, debt, austrian-economics, capital-consumption, cypherpunk]
 aliases: [Fiat Standard, The Fiat Standard: The Debt Slavery Alternative to Human Civilization]
 confidence: medium

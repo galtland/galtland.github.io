@@ -3,7 +3,8 @@ title: "Ludwig von Mises"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-10
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [mises, austrian-economics, praxeology, classical-liberalism]
 aliases: [Ludwig Mises, Mises]
 confidence: medium
@@ -17,7 +18,7 @@ summary: "Reference guide to Ludwig von Mises's place in this wiki as the founde
 ## Main Works Present Here
 
 - [[human-action|Human Action]] is the central treatise — the complete praxeological system from which the rest of the wiki's Austrian material descends.
-- [[socialism|Socialism]] (1922) is the original statement of the [[economic-calculation-problem|economic-calculation problem]] and the comparative-systems analysis Hoppe later restated in property-rights terms.
+- [[socialism|Socialism]] (1922) is the book-length statement of the [[economic-calculation-problem|economic-calculation problem]] — first argued in Mises's 1920 essay "Economic Calculation in the Socialist Commonwealth" — together with the comparative-systems analysis Hoppe later restated in property-rights terms.
 - [[liberalism|Liberalism]] (1927) is Mises's short statement of classical-liberal political economy — a consequentialist defense of a free society on the grounds of its prosperity.
 - [[theory-and-history|Theory and History]] (1957) is the methodological treatise grounding all of the above in a sharp distinction between deductive theory and unique-event history.
 
@@ -26,7 +27,7 @@ summary: "Reference guide to Ludwig von Mises's place in this wiki as the founde
 Until this compile pass, the wiki's Mises was a reconstruction — visible only through Rothbard's repeated citations and Hoppe's elaborations. With these texts present, Mises functions as the originating node for several lines that previously dead-ended at Rothbard:
 
 - The deductive method that [[man-economy-and-state|Man, Economy, and State]] presupposes is now visible in [[human-action|Human Action]] and [[theory-and-history|Theory and History]].
-- The critique of central planning in [[state-power-and-intervention|State Power and Intervention]] now traces to Mises's 1922 calculation argument rather than first appearing in Rothbard.
+- The critique of central planning in [[state-power-and-intervention|State Power and Intervention]] now traces to Mises's calculation argument (1920, expanded in *Socialism* 1922) rather than first appearing in Rothbard.
 - The classical-liberal tradition is now represented in its consequentialist Misesian form in addition to its Rothbardian natural-rights form.
 
 ## Mises and Rothbard
@@ -53,7 +54,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 paper distinguishing the Mises and Hayek paradigms
 - [[murray-n-rothbard|Murray N. Rothbard]] - principal student carrying the system forward
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - later Misesian who restates the comparative-systems analysis in property-rights terms
-- [[economic-calculation-problem|Economic Calculation Problem]] - the argument originating with Mises in 1922
+- [[economic-calculation-problem|Economic Calculation Problem]] - the argument originating with Mises in 1920
 - [[praxeology|Praxeology]] - the methodological core
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - related concept
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 founding text of Austrian monetary theory

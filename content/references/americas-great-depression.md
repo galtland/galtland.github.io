@@ -3,7 +3,8 @@ title: "America's Great Depression"
 volatility: warm
 category: reference
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [rothbard, great-depression, austrian-economics, business-cycle, economic-history, hoover, monetary-history]
 aliases: [AGD, America's Great Depression, Rothbard on the Depression]
 confidence: medium
@@ -12,13 +13,13 @@ summary: "Reference guide to Rothbard's 1963 application of Austrian Business Cy
 
 # America's Great Depression
 
-> [[americas-great-depression|America's Great Depression]] is Rothbard's most famous historical work and the canonical Austrian-school reading of 1929–1933. Part I sets out the theoretical apparatus — Mises and Hayek's business-cycle theory and a defense of it against rivals — and Part II applies that apparatus to the United States in the 1920s and to the Hoover administration's response after the crash. Its most consequential thesis is revisionist: Hoover, far from practicing the laissez-faire commonly attributed to him, pioneered most of the interventionist program later expanded by the New Deal, and that program prolonged what would otherwise have been an ordinary recession into the Great Depression.
+> [[americas-great-depression|America's Great Depression]] is Rothbard's most famous historical work and the canonical Austrian-school reading of 1929–1933. Part I sets out the theoretical apparatus — Mises and Hayek's business-cycle theory and a defense of it against rivals — Part II applies it to the inflationary boom of 1921–1929, and Part III to the depression of 1929–1933 and the Hoover administration's response after the crash. Its most consequential thesis is revisionist: Hoover, far from practicing the laissez-faire commonly attributed to him, pioneered most of the interventionist program later expanded by the New Deal, and that program prolonged what would otherwise have been an ordinary recession into the Great Depression.
 
 ## What the Book Argues
 
 The theoretical Part I is a compact restatement of the Mises-Hayek business-cycle framework: credit expansion by the banking system pushes the interest rate below the rate at which voluntary saving and time-preference would equilibrate, entrepreneurs are induced into capital-intensive investments that the underlying real savings cannot sustain, and the bust is the corrective phase in which the malinvestments are liquidated. Rothbard then defends this account against alternative explanations of the cycle (Keynesian, monetarist, "secular stagnation," over-indebtedness, under-consumption) before turning to the historical chapters.
 
-Part II argues that the 1920s were a period of substantial credit inflation engineered by the Federal Reserve under Benjamin Strong, that the inflation produced the predictable structural distortions, and that the 1929 crash was the inevitable correction. Rothbard's most distinctive historical claim is then about Hoover. He documents that Hoover (a) pressured business to maintain wage rates after the crash, blocking the wage adjustment that would normally clear labor markets in a depression, (b) launched a substantial public-works program, (c) supported farm price-support schemes, (d) restricted immigration, and (e) attempted credit expansion to "reflate" the economy. In Rothbard's reading, this was the launch of the modern interventionist policy regime, and the 1929–1932 record demonstrates the consequences.
+Parts II–III argue that the 1920s were a period of substantial credit inflation engineered by the Federal Reserve under Benjamin Strong, that the inflation produced the predictable structural distortions, and that the 1929 crash was the inevitable correction. Rothbard's most distinctive historical claim is then about Hoover. He documents that Hoover (a) pressured business to maintain wage rates after the crash, blocking the wage adjustment that would normally clear labor markets in a depression, (b) launched a substantial public-works program, (c) supported farm price-support schemes, (d) restricted immigration, and (e) attempted credit expansion to "reflate" the economy. In Rothbard's reading, this was the launch of the modern interventionist policy regime, and the 1929–1932 record illustrates the consequences.
 
 ## Why It Matters in This Wiki
 
@@ -26,7 +27,7 @@ This is the wiki's primary historical-empirical application of [[austrian-busine
 
 ## Scope of the Full-Text Ingest
 
-The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 pages. The volume contains Paul Johnson's foreword and Rothbard's introductions to the original (1963), 3rd (1975), 4th (1983), and 5th (2000) editions, plus the original two-part text and bibliography. Each successive introduction adds Rothbard's commentary on the inflationary recessions of the 1970s and early 1980s, treating them as further confirmations of the framework.
+The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 pages. The volume contains Paul Johnson's foreword and Rothbard's introductions to the original (1963), 2nd (1969), 3rd (1975), 4th (1983), and 5th (2000) editions, plus the three-part text and bibliography. Each successive introduction adds Rothbard's commentary on the inflationary recessions of the 1970s and early 1980s, treating them as further confirmations of the framework.
 
 ## Relation to Other Texts in This Wiki
 

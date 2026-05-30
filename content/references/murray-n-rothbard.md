@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-04-21
 updated: 2026-05-06
+verified: 2026-05-30
 tags: [rothbard, libertarianism, austrian-economics, anti-statism, economic-history]
 aliases: [Murray Rothbard, Rothbard]
 confidence: medium

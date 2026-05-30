@@ -3,11 +3,12 @@ title: "Socialism"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [mises, socialism, economic-calculation, austrian-economics]
 aliases: [Mises Socialism, Die Gemeinwirtschaft]
 confidence: medium
-summary: "Reference guide to Mises's 1922 critique of socialism, the original statement of the economic-calculation argument, and the proximate ancestor of the entire socialist-calculation debate."
+summary: "Reference guide to Mises's 1922 critique of socialism — the book-length statement of the economic-calculation argument first made in his 1920 essay, and the work that touched off the entire socialist-calculation debate."
 ---
 
 # Socialism
@@ -28,7 +29,7 @@ The current raw source is the Mises Institute's PDF edition (600 pages), extract
 
 ## Relation to Mises's Other Texts and the Calculation Debate
 
-[[socialism|Socialism]] opens a debate. Hayek's contributions in [[individualism-and-economic-order|Individualism and Economic Order]] — especially the three "Socialist Calculation" essays and "The Use of Knowledge in Society" — extend Mises's argument from "in principle impossible" to "in practice unsolvable because the requisite knowledge does not exist anywhere as a pre-given dataset." [[human-action|Human Action]] integrates the calculation argument into the larger praxeological system. Together these three texts are the nucleus of the Austrian critique of central planning.
+[[socialism|Socialism]] opens a debate. Hayek's contributions in [[individualism-and-economic-order|Individualism and Economic Order]] — especially the three "Socialist Calculation" essays and "The Use of Knowledge in Society" — develop a related knowledge-based critique. On the standard dehomogenizing reading (see [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]]), Mises's point is that calculation is impossible *in principle* without market prices for the means of production, while Hayek stresses that the dispersed, time-and-place knowledge real prices summarize is not available to any planner; how cleanly the two divide is itself contested. [[human-action|Human Action]] integrates the calculation argument into the larger praxeological system. Together these three texts are the nucleus of the Austrian critique of central planning.
 
 ## See Also
 

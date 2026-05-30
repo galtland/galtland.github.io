@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [saifedean-ammous, bitcoin, sound-money, austrian-economics, monetary-history, central-banking, stock-to-flow, cypherpunk]
 aliases: [Bitcoin Standard, The Bitcoin Standard: The Decentralized Alternative to Central Banking]
 confidence: medium

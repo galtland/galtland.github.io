@@ -3,7 +3,8 @@ title: "F. A. Hayek"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [hayek, austrian-economics, classical-liberalism, knowledge-problem, business-cycle]
 aliases: [Hayek, Friedrich Hayek, F. A. Hayek]
 confidence: medium
@@ -34,7 +35,7 @@ Mises and Hayek share the calculation-debate position against socialism but dive
 
 - **The role of the state in a free society.** Mises is closer to strict laissez-faire; Hayek is more accommodating of a basic social safety net and a regulatory framework, especially in his later *Constitution of Liberty* (not in this wiki).
 - **Methodology.** Mises holds praxeology as strictly a priori. Hayek leans more heavily on tacit knowledge, evolutionary social processes, and an empirical-pattern view of economic theory.
-- **The form of the calculation critique.** Mises argues that socialist planners cannot calculate at all without market prices. Hayek argues that even if formal calculation were possible, planners cannot have access to the dispersed knowledge that real prices reflect.
+- **The form of the calculation critique.** On the standard dehomogenizing reading, Mises argues that socialist planners cannot calculate at all without market prices for the means of production, while Hayek emphasizes that the dispersed, tacit knowledge real prices summarize is not available to any planning mind — though how sharply the two arguments actually divide is itself debated (see [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]]).
 
 These disagreements are visible directly in [[individualism-and-economic-order|Individualism and Economic Order]].
 
