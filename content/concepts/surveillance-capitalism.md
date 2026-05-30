@@ -13,7 +13,7 @@ summary: "Zuboff's term for the business model that treats human experience as f
 
 # Surveillance Capitalism
 
-> Surveillance capitalism, a term coined by Shoshana Zuboff, names the business model in which human experience is claimed as free raw material, converted into behavioral data, and sold as prediction products. [[the-praxeology-of-privacy|Hillebrand]] reads it through Austrian economics: the model inverts ordinary exchange (the user is the product, the advertiser the customer), it is entangled with state surveillance, and — crucially — its present concentration reflects state **intervention** as much as market outcome.
+> Surveillance capitalism, a term popularized and theorized by Shoshana Zuboff, names the business model in which human experience is claimed as free raw material, converted into behavioral data, and sold as prediction products. [[the-praxeology-of-privacy|Hillebrand]] reads it through Austrian economics: the model inverts ordinary exchange (the user is the product, the advertiser the customer), it is entangled with state surveillance, and — crucially — its present concentration reflects state **intervention** as much as market outcome.
 
 ## The Business Model
 
