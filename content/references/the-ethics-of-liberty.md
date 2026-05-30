@@ -3,7 +3,8 @@ title: "The Ethics of Liberty"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [rothbard, natural-rights, ethics, liberty, property-rights]
 aliases: [EoL, Rothbard's Ethics]
 confidence: medium
@@ -12,7 +13,7 @@ summary: "Reference guide to Rothbard's natural-rights treatise (1982/1998) on t
 
 # The Ethics of Liberty
 
-> [[the-ethics-of-liberty|The Ethics of Liberty]] is Rothbard's natural-rights statement of the libertarian moral case, the moral counterpart to the consequentialist economic argument [[liberalism|Mises makes in Liberalism]]. Written in 1982 and reissued in 1998 with an introduction by Hans-Hermann Hoppe, it grounds libertarianism in self-ownership, property in unowned things appropriated through use, and the rule against initiated force.
+> [[the-ethics-of-liberty|The Ethics of Liberty]] is Rothbard's natural-rights statement of the libertarian moral case, the moral counterpart to the consequentialist economic argument [[liberalism|Mises makes in Liberalism]]. First published in 1982 and reissued in 1998 with an introduction by Hans-Hermann Hoppe, it grounds libertarianism in self-ownership, property in unowned things appropriated through use, and the rule against initiated force.
 
 ## What the Book Argues
 
@@ -41,7 +42,7 @@ This book is in dialogue with several other sources. The natural-law foundation 
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - Hoppe's parallel property-rights treatment
 - [[liberalism|Liberalism]] - Mises's consequentialist contrast
 - [[libertarianism|Libertarianism]] - broader topic context
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
+- [[power-and-market|Power and Market]] - Rothbard's companion volume on government intervention
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 
 ## Sources

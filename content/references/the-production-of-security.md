@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-06
 updated: 2026-05-10
+verified: 2026-05-30
 tags: [molinari, market-anarchism, private-security, classical-liberalism, private-law, evolution-of-the-state]
 aliases: [De la production de la sécurité, Molinari's Production of Security]
 confidence: medium

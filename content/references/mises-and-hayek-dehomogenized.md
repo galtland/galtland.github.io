@@ -4,6 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [salerno, mises, hayek, austrian-economics, socialist-calculation, market-process, monetary-calculation, knowledge-problem]
 aliases: [Mises Hayek Dehomogenized, Dehomogenized, Salerno 1993]
 confidence: high

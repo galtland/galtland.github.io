@@ -133,6 +133,7 @@ The version of the user's two sentences that survives the corpus reads:
 - [[violence-vs-power|Violence vs Power]] - reciprocal link.
 - [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - news-lens thesis instantiating the parasite/protection-racket framing in NATO's May 2026 spending-floor decision.
 - [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - news-lens thesis instantiating the political-means framing in the May 2026 EU wealth-tax directive, via Rothbard's uncapitalizable/unshiftable derivation and Mises's antiliberalism-as-capital-consumption naming.
+- [[the-politics-of-obedience|The Politics of Obedience]] - Reference guide to La Boetie's classic essay on consent, habit, and the fragility of political
 
 ## Sources
 

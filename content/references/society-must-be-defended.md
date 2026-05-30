@@ -3,7 +3,8 @@ title: "Society Must Be Defended"
 volatility: warm
 category: reference
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [michel-foucault, society-must-be-defended, biopower, sovereignty, population, state-racism, non-libertarian, commercially-published]
 aliases: [Society Must Be Defended lectures, Il faut defendre la societe]
 confidence: medium
@@ -23,6 +24,8 @@ The raw source is an Internet Archive OCR ingest of the Picador English edition 
 The lectures begin from a methodological break with juridical sovereignty. Foucault asks how power operates through domination, discipline, and historical struggle rather than only through law and contract.
 
 The March 1976 lectures develop [[biopower|Biopower]]: a modern form of power addressed to populations, life, health, birth, death, and risk. It does not simply replace sovereign killing power; it overlays and reorganizes it.
+
+The course's central puzzle is how a power dedicated to *making live* can still kill, and Foucault's answer is **state racism**. Once power functions in the biopower mode, racism becomes the mechanism that fragments the population into those whose life is fostered and those whose death is justified as protecting or purifying the species. The earlier lectures trace this through the history of "race war" discourse — a counter-history of permanent social struggle that the modern state absorbs and inverts into a state-centered, biological racism. This is what links biopolitics to the murderous capacities of the twentieth-century state.
 
 ## Place in This Wiki
 

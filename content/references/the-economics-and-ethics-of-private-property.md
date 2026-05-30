@@ -3,7 +3,8 @@ title: "The Economics and Ethics of Private Property"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [hoppe, property-rights, austrian-economics, taxation]
 aliases: [Economics and Ethics of Private Property]
 confidence: medium
@@ -35,7 +36,7 @@ In the current graph, [[a-theory-of-socialism-and-capitalism|A Theory of Sociali
 For the specific sales-tax question, this book's taxation chapter states that "no amount of any tax can be shifted onto consumers." The surrounding argument is that forward shifting would require taxation to leave production untouched, and Hoppe treats that as logically impossible.
 
 The underlying raw passage is here:
-**The Economics and Sociology of Taxation**
+[The Economics and Sociology of Taxation](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub)
 
 ## See Also
 

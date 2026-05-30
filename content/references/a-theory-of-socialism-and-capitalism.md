@@ -3,7 +3,8 @@ title: "A Theory of Socialism and Capitalism"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [hoppe, austrian-economics, socialism, property-rights]
 aliases: [Theory of Socialism and Capitalism]
 confidence: medium
@@ -12,7 +13,7 @@ summary: "Reference guide to Hoppe's comparative-systems book on capitalism, soc
 
 # A Theory of Socialism and Capitalism
 
-> *A Theory of Socialism and Capitalism* is the clearest single-book statement in this wiki's current Hoppe corpus of the claim that capitalism and socialism are rival property orders rather than loose political labels. It matters here because it gives the property-theoretic frame that later Hoppe essays and several compiled libertarian articles presuppose.
+> [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] is the clearest single-book statement in this wiki's current Hoppe corpus of the claim that capitalism and socialism are rival property orders rather than loose political labels. It matters here because it gives the property-theoretic frame that later Hoppe essays and several compiled libertarian articles presuppose.
 
 ## What the Book Does
 

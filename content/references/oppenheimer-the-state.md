@@ -3,8 +3,9 @@ title: "The State"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-12
-tags: [franz-oppenheimer, state, conquest-theory, political-means, economic-means, sociology]
+updated: 2026-05-30
+verified: 2026-05-30
+tags: [franz-oppenheimer, state, conquest-theory, political-means, economic-means, sociology, non-libertarian]
 aliases: [Der Staat, The State by Franz Oppenheimer, The State: Its History and Development Viewed Sociologically]
 confidence: medium
 summary: "Reference guide to Franz Oppenheimer's sociological treatise on the state's conquest origin, developmental stages, and political-means/economic-means distinction."

@@ -3,7 +3,8 @@ title: "The Praxeology of Privacy"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [max-hillebrand, privacy, praxeology, austrian-economics, bitcoin, cypherpunk, cryptography, property-rights, power-projection]
 aliases: [Economic Logic in Cypherpunk Implementation, PoP]
 confidence: medium
@@ -59,11 +60,11 @@ The book also rejects a simple "information is property" view. Its property-righ
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
-- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
-- [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
-- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
-- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
+- [[surveillance-capitalism|Surveillance Capitalism]] - the corporate-data-extraction adversary analyzed in ch. 11
+- [[coinjoin|CoinJoin and PayJoin]] - the on-chain Bitcoin privacy techniques from ch. 15's implementation map
+- [[digital-cash-history|Lessons from Digital-Cash History]] - ch. 18's historical case studies of failed pre-Bitcoin monies
+- [[ecash|Ecash and Chaumian Mints]] - the custodial-privacy layer (Cashu/Fedimint) from ch. 15
+- [[nostr|Nostr]] - the decentralized-identity/social layer from ch. 17
 
 ## Sources
 

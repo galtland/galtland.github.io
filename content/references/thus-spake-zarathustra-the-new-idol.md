@@ -3,8 +3,9 @@ title: "Thus Spake Zarathustra: The New Idol"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-12
-tags: [nietzsche, state, critique-of-the-state, anti-statism, primary-source]
+updated: 2026-05-30
+verified: 2026-05-30
+tags: [nietzsche, state, critique-of-the-state, anti-statism, primary-source, non-libertarian]
 aliases: [The New Idol, Thus Spake Zarathustra The New Idol, state as cold monster]
 confidence: medium
 summary: "Reference guide to Nietzsche's 1883 Zarathustra chapter that calls the state the coldest monster: useful as a non-libertarian primary source for the state-as-monster trope, but not a source for libertarian political theory."

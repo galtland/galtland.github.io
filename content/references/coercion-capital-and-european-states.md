@@ -3,8 +3,9 @@ title: "Coercion, Capital, and European States"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-12
-tags: [charles-tilly, state, historical-sociology, war-and-state-formation, coercion, capital, protection-racket, european-history, citizenship, nationalism, military-power, full-text]
+updated: 2026-05-30
+verified: 2026-05-30
+tags: [charles-tilly, state, historical-sociology, war-and-state-formation, coercion, capital, protection-racket, european-history, citizenship, nationalism, military-power, full-text, non-libertarian]
 aliases: [Coercion Capital and European States, Coercion Capital and European States AD 990-1992]
 confidence: medium
 summary: "Reference guide to Charles Tilly's historical-sociological account of European state formation, war-making, extraction, citizenship, nationalism, soldiers, and the capital/coercion typology. The raw aggregate now includes chapters 1-7."

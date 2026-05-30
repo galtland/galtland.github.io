@@ -3,7 +3,8 @@ title: "Democracy: The God That Failed"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-12
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [hoppe, democracy, monarchy, time-preference, decivilization, natural-order, regime-theory, praxeology]
 aliases: [Democracy, The God That Failed, Democracy by Hoppe]
 confidence: medium
@@ -50,7 +51,7 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] - focused Misesian sister article on antiliberal policy as capital consumption; Hoppe's caretaker / time-preference mechanism is one institutional route to capital-consumption policy
 - [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis citing the caretaker mechanism in critique of the May 2026 EU directive
-- [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] - Hoppe's claim in *Democracy: The God That Failed* that a democratic government
+- [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] - the book's central caretaker argument: a temporary democratic ruler maximizes current income at the expense of the state's capital value
 
 ## Sources
 

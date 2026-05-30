@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-04-25
 updated: 2026-05-10
+verified: 2026-05-30
 tags: [de-la-boetie, consent, state, strategy, evolution-of-the-state]
 aliases: [The Discourse of Voluntary Servitude, Politics of Obedience]
 confidence: medium

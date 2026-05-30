@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-10
 updated: 2026-05-12
+verified: 2026-05-30
 tags: [albert-jay-nock, state, social-power, state-power, political-means, american-history, old-right]
 aliases: [Our Enemy the State, Nock's Our Enemy the State]
 confidence: medium

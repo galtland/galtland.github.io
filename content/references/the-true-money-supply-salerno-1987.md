@@ -3,7 +3,8 @@ title: "The 'True' Money Supply"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [salerno, tms, money-supply, austrian-economics, monetary-theory, rothbard, m1, m2, fiduciary-media]
 aliases: [The True Money Supply, True Money Supply paper, Salerno TMS 1987, TMS paper]
 confidence: high
@@ -33,7 +34,7 @@ The common rule is not the legal label on the instrument. The rule is whether th
 
 Salerno excludes money market mutual funds. Even when MMMFs are checkable, he treats shares as equity claims on a portfolio of short-term assets, not as money proper or par-value claims to money. An unwanted MMMF share can be redeemed out of existence; unwanted fiat money is spent onward until prices and cash-balance demands adjust.
 
-He excludes term repurchase agreements, term Eurodollars, large CDs, short-term Treasury securities, and small-denomination time deposits or CDs. The theoretical issue is maturity and loan character. Term instruments are loans to banks or other issuers, not immediately spendable final media of exchange. That makes them different from overnight instruments and insured demand-like balances.
+He excludes term repurchase agreements, term Eurodollars, large CDs, short-term Treasury securities, small-denomination time deposits or CDs, and travelers' checks issued by nonbank financial institutions. The theoretical issue is maturity and loan character. Term instruments are loans to banks or other issuers, not immediately spendable final media of exchange. That makes them different from overnight instruments and insured demand-like balances.
 
 ## M1, M2, and Cycle Diagnosis
 

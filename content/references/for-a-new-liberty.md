@@ -3,7 +3,8 @@ title: "For a New Liberty"
 volatility: warm
 category: reference
 created: 2026-04-21
-updated: 2026-05-05
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [rothbard, libertarianism, anti-statism, strategy]
 aliases: [For a New Liberty: The Libertarian Manifesto]
 confidence: medium
@@ -39,7 +40,7 @@ This book works as the bridge between Rothbard the economist and Rothbard the po
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
+- [[power-and-market|Power and Market]] - Rothbard's companion volume on government intervention
 
 ## Sources
 

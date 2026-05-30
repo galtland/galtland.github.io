@@ -3,11 +3,12 @@ title: "Money, Sound and Unsound"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [salerno, sound-money, austrian-economics, monetary-theory, gold-standard, tms, inflation, deflation, business-cycle]
 aliases: [Money Sound and Unsound, MSU, Salerno collected essays]
 confidence: high
-summary: "Joseph T. Salerno's 2010 Mises Institute collection gathers 26 essays across monetary theory, inflation, deflation, depression, the gold standard, historical applications, and contemporary commentary, including the TMS and dehomogenization arguments."
+summary: "Joseph T. Salerno's 2010 Mises Institute collection gathers 26 essays across monetary theory, inflation, deflation, depression, the gold standard, historical applications, and contemporary commentary, including the 1987 True Money Supply paper and related Mises-Hayek dehomogenization themes."
 short: "Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian sound-money, TMS, gold-standard, and cycle-theory work."
 ---
 
@@ -51,8 +52,8 @@ The article's confidence is high because the raw source preserves the table of c
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises monetary source behind the collection
 - [[the-mystery-of-banking|The Mystery of Banking]] - Rothbard banking source behind Salerno's TMS and sound-money line
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] - institutional implication of the sound-money and fiduciary-media critique
-- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis applying Austrian monetary logic to Bitcoin adoption
+- [[hard-money|Hard Money]] - the bridge concept linking Austrian sound-money theory to Bitcoin's monetary hardness
 
 ## Sources
 

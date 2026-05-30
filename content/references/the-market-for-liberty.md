@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-04-25
 updated: 2026-04-25
+verified: 2026-05-30
 tags: [tannehill, market-anarchism, private-law, defense-agencies]
 aliases: [Market for Liberty]
 confidence: medium
