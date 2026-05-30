@@ -3,12 +3,12 @@ title: "The Cypherpunks Mailing List"
 volatility: cold
 category: reference
 created: 2026-05-29
-updated: 2026-05-29
-verified: 2026-05-29
+updated: 2026-05-30
+verified: 2026-05-30
 confidence: high
 tags: [cypherpunk, cypherpunks-mailing-list, tim-may, eric-hughes, hal-finney, adam-back, wei-dai, crypto-wars, digital-cash, remailers, proof-of-work, b-money, hashcash, history, primary-source]
 aliases: [Cypherpunks Mailing List, cypherpunks@toad.com, the cypherpunks list, toad.com list]
-summary: "Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum where the cypherpunk program — anonymous remailers, Chaumian digital cash, the two founding manifestos, the Crypto Wars, Hashcash, and b-money — was argued out in public, and from which the lineage runs to the 2008 Bitcoin announcement on its successor cryptography list."
+summary: "Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum where the cypherpunk program — anonymous remailers, Chaumian digital cash, the two founding manifestos, the Crypto Wars, Hashcash, and b-money — was argued out in public, and from which the lineage runs to the 2008 Bitcoin announcement on the separate Metzdowd cryptography list."
 ---
 
 # The Cypherpunks Mailing List
@@ -45,7 +45,7 @@ The subset's center of gravity, for this wiki, is the chain of monetary protocol
 
 - **Hashcash.** Adam Back announced his "hash cash postage" implementation to the list on 28 March 1997: partial hash collisions that are arbitrarily expensive to compute yet instantly verifiable, proposed as anti-spam postage and a remailer good-behavior bond, complete with a double-spend database. Finney noted on the same threads that the collisions "represent a certain threshold of effort … but they can't replace cash" — proof of work as a cost function, not yet money. This is the source artifact behind the wiki's [[proof-of-work|Proof of Work]] and [[hashcash|Hashcash]] articles.
 - **b-money.** Wei Dai announced b-money on the list in November 1998: money created by broadcasting solutions to unused computational problems (valued at the cost of the computing effort), a distributed ledger of pseudonym balances, and contract enforcement by bonded servers. In the follow-up thread, Back's critique reads as a list of the problems Bitcoin would later have to solve — inflation as Moore's law cheapens computation (Back's fix: define a unit to require more computation *over time*, anticipating difficulty adjustment), transaction linkability, and the difficulty of getting value in and out without de-anonymizing the user. Dai's reply added a deflation factor, predicted b-money would "at most be a niche currency," and — strikingly for the venue — conceded that he had come to think "the government monopoly of force is a net benefit."
-- **The bridge to the cryptography list.** By 2008 the cypherpunks list itself was effectively defunct, and the subset's final section follows the thread onto its successor, the `metzdowd.com` cryptography mailing list. There, on 31 October 2008, [[satoshi-nakamoto|Satoshi Nakamoto]] announced the Bitcoin paper — "New coins are made from Hashcash style proof-of-work" — and on 8 January 2009 the v0.1 release, with the 21,000,000-coin cap and the four-year halving schedule. Bitcoin is the point where the list's two-decade program — remailers, untraceable cash, proof of work, pseudonymous ledgers — converged into running infrastructure.
+- **The bridge to the cryptography list.** By 2008 the cypherpunks list itself was effectively defunct, and the subset's final section follows the thread onto the separate `metzdowd.com` cryptography mailing list (a later, distinct forum, not an institutional successor). There, on 31 October 2008, [[satoshi-nakamoto|Satoshi Nakamoto]] announced the Bitcoin paper — "New coins are made from Hashcash style proof-of-work" — and on 8 January 2009 the v0.1 release, with the 21,000,000-coin cap and the four-year halving schedule. Bitcoin is the point where the list's two-decade program — remailers, untraceable cash, proof of work, pseudonymous ledgers — converged into running infrastructure.
 
 ## Place in This Wiki
 
@@ -57,7 +57,7 @@ The mailing list is the connective primary-source substrate beneath the wiki's c
 - [[crypto-anarchy|Crypto Anarchy]] - the political thesis the list put into practice
 - [[proof-of-work|Proof of Work]] - the cost-function lineage from Hashcash to Bitcoin announced on the list
 - [[hashcash|Hashcash]] - Adam Back's 1997 on-list announcement
-- [[bitcoin-whitepaper|Bitcoin Whitepaper]] - the 2008 announcement on the successor cryptography list
+- [[bitcoin-whitepaper|Bitcoin Whitepaper]] - the 2008 announcement on the later Metzdowd cryptography list
 - [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaumian primitive behind the list's digital-cash threads
 - [[public-key-cryptography|Public-Key Cryptography]] - foundational primitive assumed throughout
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - the protocol-design rule the remailer/reputation work prefigured
@@ -67,8 +67,8 @@ The mailing list is the connective primary-source substrate beneath the wiki's c
 - [[timothy-c-may|Timothy C. May]] - founding figure and Crypto Anarchist Manifesto author
 - [[hal-finney|Hal Finney]] - the list's most prolific digital-cash contributor
 - [[nick-szabo|Nick Szabo]] - list participant whose later work bridges to Austrian monetary theory
-- [[satoshi-nakamoto|Satoshi Nakamoto]] - announced Bitcoin on the list's successor forum
-- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
+- [[satoshi-nakamoto|Satoshi Nakamoto]] - announced Bitcoin on the later Metzdowd cryptography list
+- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped
 
 ## Sources
 

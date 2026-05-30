@@ -3,17 +3,18 @@ title: "Timothy C. May"
 volatility: cold
 category: reference
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [tim-may, cypherpunk, crypto-anarchy, cryptography, privacy, libertarianism]
 aliases: [Tim May, Timothy May, T. C. May]
 confidence: medium
-summary: "Timothy C. May (1951-2018) was a former Intel physicist, founding cypherpunk, and author of the 1988 Crypto Anarchist Manifesto and the 1994 Cyphernomicon. In this corpus, he is the main anchor for the crypto-anarchy branch of cypherpunk libertarianism."
-short: "Tim May (1951-2018), former Intel physicist and founding cypherpunk; author of the Crypto Anarchist Manifesto (1988) and Cyphernomicon (1994)."
+summary: "Timothy C. May (1951-2018) was a former Intel senior scientist, founding cypherpunk, and author of the 1988 Crypto Anarchist Manifesto and the 1994 Cyphernomicon. In this corpus, he is the main anchor for the crypto-anarchy branch of cypherpunk libertarianism."
+short: "Tim May (1951-2018), former Intel senior scientist and founding cypherpunk; author of the Crypto Anarchist Manifesto (1988) and Cyphernomicon (1994)."
 ---
 
 # Timothy C. May
 
-> [[timothy-c-may|Timothy C. May]] was a former Intel physicist, founding cypherpunk, and author of *The Crypto Anarchist Manifesto* and *The Cyphernomicon*. He is one of the two anchor figures for the cypherpunk thread here, with [[nick-szabo|Nick Szabo]] as the other.
+> [[timothy-c-may|Timothy C. May]] was a former Intel senior scientist, founding cypherpunk, and author of *The Crypto Anarchist Manifesto* and *The Cyphernomicon*. He is one of the two anchor figures for the cypherpunk thread here, with [[nick-szabo|Nick Szabo]] as the other.
 
 ## Position in the Cypherpunk Thread
 
@@ -32,6 +33,10 @@ The manifesto is also morally ambivalent in a way later summaries can miss. May 
 *The Cyphernomicon* is May's 1994 long-form FAQ and archive of cypherpunk arguments. The raw source index describes 20 major sections covering goals and ideology, cryptology, strong crypto, PGP, anonymity, remailers, Clipper and key escrow, legal issues, surveillance, digital cash, reputations, credentials, crypto anarchy, and the future.
 
 Section 16 is the most important for May's own doctrine because it republishes and contextualizes the 1988 manifesto. It records the early history of the idea, the link to anonymous markets and reputation systems, and the expectation that strong cryptography would create practical zones beyond ordinary legal supervision. The work also situates crypto anarchy inside a wider toolkit: remailers, PGP, digital cash, policy resistance, data havens, and reputational mechanisms.
+
+## BlackNet
+
+May's best-known concrete illustration is *BlackNet*, an experimental scheme he devised and circulated in 1993. *The Cyphernomicon* records it as "Tim May's experiment": a staged anonymous information market in which secrets and proprietary data could be bought and sold using untraceable digital cash, public-key cryptography, and remailer chains, with no party able to identify its counterparties. It was written to dramatize how far the crypto-anarchy logic could be pushed rather than as an operational service, and it became one of the most cited demonstrations of the manifesto's predictions about anonymous markets beyond ordinary legal supervision.
 
 ## Relation to Libertarianism
 

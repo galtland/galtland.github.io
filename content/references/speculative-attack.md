@@ -4,6 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [pierre-rochard, bitcoin, hyperbitcoinization, monetary-economics, austrian-economics, fiat, cypherpunk]
 aliases: [Rochard Speculative Attack, Speculative Attack Bitcoin, hyperbitcoinization speculative attack]
 confidence: medium

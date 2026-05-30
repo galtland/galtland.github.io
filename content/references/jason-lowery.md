@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-10
 updated: 2026-05-10
+verified: 2026-05-30
 tags: [jason-lowery, softwar, bitcoin, national-security, ussf, mit-sdm]
 aliases: [Major Jason P. Lowery, Jason P. Lowery, Lowery]
 confidence: medium

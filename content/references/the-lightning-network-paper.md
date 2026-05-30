@@ -4,6 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [bitcoin, lightning-network, payment-channels, htlc, scalability, proof-of-work, cypherpunk]
 aliases: [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments, Lightning Network paper, Poon Dryja Lightning paper]
 confidence: high

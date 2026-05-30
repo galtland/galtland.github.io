@@ -4,6 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [libertarian, cypherpunk, zerocash, zcash, zk-snarks, zero-knowledge-proofs, privacy-coins, bitcoin, digital-cash]
 aliases: [Zerocash paper, Decentralized Anonymous Payments from Bitcoin, Zerocash extended paper, Zcash foundation paper]
 confidence: medium-high

@@ -3,12 +3,13 @@ title: "Phil Zimmermann"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [phil-zimmermann, pgp, public-key-cryptography, crypto-wars, privacy, cypherpunk, export-controls]
 aliases: [Philip R. Zimmermann, Phil Zimmerman, PGP creator]
 confidence: medium
 summary: "Phil Zimmermann is the creator of PGP and a central figure in the 1990s Crypto Wars over strong encryption, export controls, key escrow, and ordinary users' right to private digital communication."
-short: "Creator of PGP and a central Crypto Wars figure. This pass relies mainly on Zimmermann's own PGP essay, so biographical detail remains medium confidence."
+short: "Creator of PGP and a central Crypto Wars figure. This pass draws on Zimmermann's own PGP essay plus the 1990s Crypto Wars dossier, but is not a full biography, so detail remains medium confidence."
 ---
 
 # Phil Zimmermann
@@ -31,11 +32,11 @@ Zimmermann's essay links the PGP release to the 1991 Senate Bill 266 trapdoor la
 
 The essay places Zimmermann in the central line of [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]]. It discusses Clipper, CALEA, proposed wiretap infrastructure, FBI pressure, and the 1999 relaxation of US crypto export controls.
 
-The compile brief also identifies the three-year DOJ investigation over alleged export of cryptography without a license as central to PGP's public meaning. The raw essay in this pass does not independently narrate that investigation in detail, so the biographical confidence remains medium. The broad prosecution story is historically attached to Zimmermann and PGP, but a later pass should ingest primary sources before expanding the claim.
+The 1990s Crypto Wars dossier records the three-year DOJ criminal investigation over alleged unlicensed export of cryptography — PGP was published free on the internet in 1991, and the government held that its worldwide spread violated US export controls. That investigation, which ended in early 1996, became central to PGP's public meaning. Zimmermann's own essay frames the export-control fight but does not narrate the investigation blow by blow, so the finer procedural detail still rests on the dossier rather than primary court records.
 
 ## Later Work and Confidence Boundary
 
-Zimmermann is also associated with later secure-communications work such as Zfone and Silent Circle. Those details are included only as context here because the single raw source is the PGP essay, not a full biography. They should not carry the same confidence as PGP's existence, the 1991 release, or Zimmermann's own Crypto Wars framing.
+Zimmermann is also associated with later secure-communications work: from 2004 his focus shifted to secure internet telephony, developing the ZRTP protocol and products built on it including Silent Phone, Zfone, and Silent Circle. The dossier records this later turn, but because neither source is a full biography these details should still be read as a sketch rather than a complete account of his post-PGP career.
 
 The author reference is therefore intentionally narrow: Zimmermann matters here because he made strong encryption available, defended routine private communication, and became a focal point in the politics of cryptography.
 
@@ -53,3 +54,4 @@ The author reference is therefore intentionally narrow: Zimmermann matters here 
 ## Sources
 
 - [[2026-05-28-why-i-wrote-pgp|Why I Wrote PGP]] - Zimmermann's essay on PGP, privacy, trapdoor proposals, CALEA, Clipper, export controls, and the case for routine strong encryption
+- [1990s Crypto Wars Dossier](https://web.archive.org/web/20011127065037id_/http://www.eff.org/Privacy/Clipper/) - EFF/Gilmore case material; source for the three-year DOJ export investigation, its early-1996 end, and Zimmermann's later ZRTP/Silent Circle work

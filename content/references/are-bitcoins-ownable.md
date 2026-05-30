@@ -3,17 +3,18 @@ title: "Are Bitcoins Ownable?"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [konrad-graf, bitcoin, property-rights, legal-theory, intellectual-property, austrian-economics, cypherpunk, rival-goods]
 aliases: [Are Bitcoins Ownable, Are Bitcoins Ownable? Property Rights IP Wrongs and Legal-Theory Implications, bitcoin ownability]
 confidence: medium
-summary: "Konrad Graf's 2013 paper applies action-based property theory to Bitcoin, arguing that bitcoin can be analyzed as rival and potentially ownable without collapsing into intellectual-property claims over copyable patterns."
+summary: "Konrad Graf's action-based property-theory work on Bitcoin (originally a 2013 essay, cited here in the expanded 5 November 2015 book edition), arguing that bitcoin can be analyzed as rival and potentially ownable without collapsing into intellectual-property claims over copyable patterns."
 short: "Graf's action-based property-theory analysis of Bitcoin ownership, keys, UTXOs, trespass by hacking, double spending, fungibility, and IP limits."
 ---
 
 # Are Bitcoins Ownable?
 
-> [[are-bitcoins-ownable|Are Bitcoins Ownable?]] is Konrad Graf's action-based property-theory paper on Bitcoin, rival goods, intellectual-property errors, hacking, double spending, fungibility, and legal remedies. It treats bitcoin as a novel property-theory test case rather than a simple ledger-entry metaphor.
+> [[are-bitcoins-ownable|Are Bitcoins Ownable?]] is Konrad Graf's action-based property-theory work on Bitcoin, rival goods, intellectual-property errors, hacking, double spending, fungibility, and legal remedies. First written as a 2013 essay and cited here in the expanded 5 November 2015 book-length edition, it treats bitcoin as a novel property-theory test case rather than a simple ledger-entry metaphor.
 
 ## Question and Scope
 

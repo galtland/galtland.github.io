@@ -3,7 +3,8 @@ title: "Nick Szabo"
 volatility: cold
 category: reference
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [nick-szabo, cypherpunk, smart-contracts, bit-gold, austrian-economics, proof-of-work]
 aliases: [Szabo]
 confidence: high
@@ -62,7 +63,7 @@ That places Szabo near [[market-anarchism-and-private-law|Market Anarchism and P
 - [[unforgeable-costliness|Unforgeable Costliness]] - concept article joining Szabo's Shelling Out and Bit Gold to Bitcoin hardness
 - [[hal-finney|Hal Finney]] - RPOW creator who cited Szabo's Bit Gold as a proof-of-work money precursor
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper that places Szabo's smart-contracts and Bit Gold work in Bitcoin legal context
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function: non-interactive, publicly verifiable tokens that impose a real computational cost, a precursor to Bit Gold's costly proofs
 
 ## Sources
 

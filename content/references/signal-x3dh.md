@@ -4,6 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [libertarian, cypherpunk, signal, x3dh, key-agreement, forward-secrecy, end-to-end-encryption, messaging, diffie-hellman]
 aliases: [The X3DH Key Agreement Protocol, Extended Triple Diffie-Hellman, X3DH, Signal prekey protocol]
 confidence: high

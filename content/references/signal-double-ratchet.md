@@ -4,6 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [libertarian, cypherpunk, signal, double-ratchet, forward-secrecy, post-compromise-recovery, end-to-end-encryption, messaging, diffie-hellman]
 aliases: [The Double Ratchet Algorithm, Double Ratchet, Signal ratchet, Axolotl ratchet]
 confidence: high

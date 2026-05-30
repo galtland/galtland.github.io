@@ -3,7 +3,8 @@ title: "Hal Finney"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [hal-finney, bitcoin, rpow, proof-of-work, pgp, cypherpunk, digital-cash, satoshi-nakamoto]
 aliases: [Harold Thomas Finney II, Hal, RPOW creator, first Bitcoin receiver]
 confidence: medium
@@ -58,7 +59,7 @@ The post's tone matters for confidence. It is not a detached biography; it is Fi
 - [[cypherpunk|Cypherpunk]] - movement context for Finney's remailer, RPOW, and Bitcoin work
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong cryptography and privacy-preserving tools
 - [[lightning-network|Lightning Network]] - Bitcoin second-layer payment channels: off-chain routed payments enforced by HTLCs
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function: non-interactive, publicly verifiable tokens that impose a real computational cost; the basis Finney built on for RPOW
 
 ## Sources
 

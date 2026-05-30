@@ -4,6 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [libertarian, cypherpunk, cryptonote, monero, ring-signatures, stealth-addresses, proof-of-work, privacy-coins, digital-cash]
 aliases: [CryptoNote v 2.0, CryptoNote whitepaper, Nicolas van Saberhagen CryptoNote, Monero foundation paper]
 confidence: high

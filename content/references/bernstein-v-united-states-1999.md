@@ -3,17 +3,18 @@ title: "Bernstein v. United States (1999)"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [libertarian, cypherpunk, bernstein-v-united-states, code-as-speech, first-amendment, export-controls, crypto-wars, court-ruling]
 aliases: [Bernstein v. USDOJ, Bernstein v. Department of State, Bernstein v. Department of Justice, Bernstein 1999, Snuffle case]
-confidence: high
-summary: "The 1999 Ninth Circuit Bernstein opinion affirmed that encryption source code, as used by cryptographers, can be expressive First Amendment material and that the challenged export-control licensing regime operated as unconstitutional prior restraint. The source also records the district-court path through Judge Marilyn Hall Patel's 1996 and 1997 rulings."
-short: "The 1999 Ninth Circuit code-as-speech opinion striking encryption export licensing as unconstitutional prior restraint."
+confidence: medium
+summary: "The 1999 Ninth Circuit panel opinion in Bernstein held that encryption source code, as used by cryptographers, can be expressive First Amendment material and that the challenged export-control licensing regime operated as unconstitutional prior restraint. The opinion was withdrawn when the court granted rehearing en banc, and the dispute was mooted by changed export rules before any en banc ruling, so it set no binding precedent. The source also records the district-court path through Judge Marilyn Hall Patel's 1996 and 1997 rulings."
+short: "The influential — but later withdrawn and non-precedential — 1999 Ninth Circuit panel opinion treating encryption source code as speech and striking export licensing as unconstitutional prior restraint."
 ---
 
 # Bernstein v. United States (1999)
 
-> [[bernstein-v-united-states-1999|Bernstein v. United States (1999)]] is the Ninth Circuit Crypto Wars opinion that treated encryption source code as protected expression and held that the challenged export-control licensing regime imposed unconstitutional prior restraint.
+> [[bernstein-v-united-states-1999|Bernstein v. United States (1999)]] is the Ninth Circuit Crypto Wars panel opinion that treated encryption source code as protected expression and held that the challenged export-control licensing regime imposed unconstitutional prior restraint. The panel opinion was later withdrawn when the Ninth Circuit granted rehearing en banc, and the dispute was mooted by changed export rules before any en banc decision — so it remains historically influential and widely cited, but never became binding precedent.
 
 ## Work and Procedural History
 
@@ -43,11 +44,11 @@ It failed. The court held that the regime operated as a prepublication licensing
 
 The holding was that the challenged regulations constituted a prior restraint on speech in violation of the First Amendment. The court affirmed the district court's injunction against enforcement of the invalidated provisions.
 
-The dossier's later Gilmore account records the practical aftermath: the government sought en banc review, changed the encryption export regulations so that most free software and academic research could be published from the United States more easily, and the old-regulation review became moot. That resolution relaxed the publication fight without eliminating export controls altogether.
+The dossier's later Gilmore account records the practical aftermath. The government sought rehearing before an 11-judge en banc panel, which was granted — and under Ninth Circuit practice, granting rehearing en banc withdrew the May 1999 panel opinion as binding authority. The government then "voluntarily" changed the encryption export regulations so that most free software and academic research could be published from the United States more easily, the en banc review of the old regulations became moot, and the case was handed back to Judge Patel, who ended it. The 1999 panel opinion therefore never matured into settled circuit precedent, even though it remains one of the most cited statements of the code-as-speech position. That resolution relaxed the publication fight without eliminating export controls altogether.
 
 [[code-as-speech|Code as Speech]] is the concept article for the legal thesis. The work reference belongs beside [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] because both episodes turn encryption from a specialist engineering practice into a civil-liberties conflict over publication, distribution, and ordinary private communication.
 
-Bernstein did not make all regulation of software unconstitutional. It did establish, on this record, that controlling publication of encryption source code burdens expression and that export licensing can be a speech licensing scheme, not merely trade administration.
+Bernstein did not make all regulation of software unconstitutional, and because the panel opinion was withdrawn and never reinstated en banc, it is persuasive history rather than controlling law. On its own record it argued forcefully that controlling publication of encryption source code burdens expression and that export licensing can be a speech licensing scheme, not merely trade administration — the reasoning that gave the code-as-speech thesis its most-cited articulation.
 
 ## See Also
 
