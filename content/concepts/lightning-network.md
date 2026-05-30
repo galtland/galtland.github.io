@@ -3,7 +3,8 @@ title: "Lightning Network"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [bitcoin, lightning-network, payment-channels, htlc, proof-of-work, cypherpunk, scalability]
 aliases: [Lightning Network, Bitcoin Lightning Network, payment channels, HTLCs, hashed timelock contracts]
 confidence: high
@@ -66,9 +67,9 @@ The tradeoff is therefore not "blockchain or no blockchain." It is whether the b
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Saifedean's monetary reading of Bitcoin, including second-layer scaling concerns
 - [[the-fiat-standard|The Fiat Standard]] - later Ammous source with a dedicated Bitcoin scaling chapter
 - [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
-- [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
+- [[coinjoin|CoinJoin and PayJoin]] - two Bitcoin base-layer privacy techniques: CoinJoin merges many users' inputs into one transaction to break address linkage; PayJoin disguises which input is the sender's
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
+- [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 
 ## Sources
 

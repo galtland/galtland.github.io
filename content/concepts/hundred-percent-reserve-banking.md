@@ -3,7 +3,8 @@ title: "100% Reserve Banking"
 volatility: warm
 category: concept
 created: 2026-05-25
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [rothbard, banking, fiduciary-media, sound-money, fractional-reserves, property-rights, money]
 summary: "The Rothbardian case for 100%-reserve banking: issuing money substitutes beyond the stock of specie is inflation and pseudo-warehouse-receipt fraud; full reserves remove the first stage of the credit-expansion cycle."
 aliases: [100-percent reserves, full-reserve banking, Rothbardian banking, sound-banking, hundred percent reserve]
@@ -28,7 +29,7 @@ This is structurally identical to grain-warehouse fraud or coat-check fraud: the
 
 The companion case is monetary-economic. New bank-issued claims beyond reserves are *fiduciary media* in the [[the-theory-of-money-and-credit|Mises]] sense; they are also the single operational lever that powers [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. Forbid fiduciary media — which is what 100% reserves does — and there is no Austrian business cycle entering through the banking channel. The end-to-end mechanism the regime eliminates is the subject of [[credit-expansion-dynamics|Credit Expansion Dynamics]]: banks must drop the loan rate to place new fiduciary media; the suppressed rate falsifies entrepreneurial calculation; the production structure lengthens toward higher-order projects; the boom must end either as a flight from the currency or as a natural-rate-reassertion bust. Removing the first stage removes the rest. Under 100% reserves, lending is restricted to genuinely saved time-deposit funds — what Mises calls *commodity-credit* and distinguishes from circulation-credit in [[credit-and-deferred-payment|Credit and Deferred Payment]]. The loan rate clears the market between actual savers and actual borrowers, with no fiduciary-media wedge between the loan rate and the underlying time-preference structure.
 
-This is the operational sense in which 100% reserves is the Austrian-sound-money position on banking. It is not "tight money" in the Keynesian sense — it permits any amount of intermediation backed by genuine savings, at whatever interest rate the time-preference market clears. It is a structural prohibition on the single monetary lever the Austrian cycle theory identifies as load-bearing.
+This is the operational sense in which 100% reserves is the Rothbardian — or Rothbard-Salerno — sound-money position on banking. It is a contested intra-Austrian question rather than the settled Austrian view: free-banking Austrians such as Selgin, White, and Horwitz argue that competitive fractional-reserve banks could issue fiduciary media in step with money demand without triggering the cycle, a dispute this article does not try to settle. It is not "tight money" in the Keynesian sense — it permits any amount of intermediation backed by genuine savings, at whatever interest rate the time-preference market clears. It is a structural prohibition on the single monetary lever the Austrian cycle theory identifies as load-bearing.
 
 ## Two definitions of inflation under this regime
 
@@ -63,9 +64,9 @@ It is also not the same as narrow banking, sovereign-money proposals, or central
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - fiat debt-issuance frame adjacent to the reserve-banking debate
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source criticizing fractional-reserve and debt-based fiat money
 - [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate
-- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
-- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
+- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian sound-money work
+- [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
+- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link back to depositors
 
 ## Sources
 

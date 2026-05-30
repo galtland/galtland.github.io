@@ -4,6 +4,7 @@ volatility: cold
 category: concept
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [libertarian, cypherpunk, ring-signatures, cryptonote, monero, privacy-coins, digital-cash, cryptography]
 aliases: [one-time ring signatures, linkable ring signatures, Monero ring signatures, CryptoNote ring signatures]
 confidence: medium-high

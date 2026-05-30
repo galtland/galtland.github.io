@@ -3,7 +3,8 @@ title: "Key Escrow and Clipper Chip"
 volatility: cold
 category: concept
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [libertarian, cypherpunk, key-escrow, clipper-chip, crypto-wars, surveillance, encryption, backdoors]
 aliases: [Clipper Chip, key escrow, escrowed encryption, Escrowed Encryption Standard, lawful access backdoors]
 confidence: medium
@@ -13,7 +14,7 @@ short: "The 1990s Clipper/key-escrow fight: strong encryption with government re
 
 # Key Escrow and Clipper Chip
 
-> [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] is the 1990s Crypto Wars fight over government-access encryption. The proposal was to make strong encryption available only with escrowed recovery keys that law enforcement could obtain under authorized conditions.
+> [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] is the 1990s Crypto Wars fight over government-access encryption. The proposal offered a government-approved encryption standard whose recovery keys were held in escrow so law enforcement could obtain plaintext under authorized conditions. Officials promoted it as voluntary, but cypherpunk and EFF critics feared a "voluntary" escrow standard could become mandatory, or crowd out non-escrow cryptography, once the infrastructure was in place.
 
 ## The Proposal
 
@@ -55,12 +56,12 @@ This article treats those later examples as echoes, not as identical copies. Cli
 
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - adjacent fight over routine strong encryption and export controls
 - [[code-as-speech|Code as Speech]] - legal challenge to licensing publication of encryption source code
-- [[bernstein-v-united-states-1999|Bernstein v. United States (1999)]] - case reference for the export-control prior-restraint ruling
+- [[bernstein-v-united-states-1999|Bernstein v. United States (1999)]] - the withdrawn Ninth Circuit panel opinion on export-control prior restraint (persuasive history, not binding precedent)
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - protocol-design lens for escrow as concentrated risk
 - [[praxeology-of-privacy|Praxeology of Privacy]] - privacy-as-selective-disclosure frame threatened by built-in access systems
 - [[cypherpunk|Cypherpunk]] - movement context for resisting key escrow
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong encryption and privacy tools
-- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 forum where the Clipper and key-escrow fights were argued out in public
 
 ## Sources
 

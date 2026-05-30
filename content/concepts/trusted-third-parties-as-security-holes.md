@@ -3,7 +3,8 @@ title: "Trusted Third Parties as Security Holes"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [cypherpunk, security, cryptography, trusted-third-parties, protocols, intermediaries]
 aliases: [Trusted Third Parties Are Security Holes, TTP security holes, TTP minimization]
 confidence: medium
@@ -66,18 +67,18 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper on Bitcoin, legal remedies, and protocol limits without trusted reversal authorities
 - [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token, the payer unblinds
 - [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers
-- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper on HTLC-routed, off-chain payment channels settled on Bitcoin
 - [[zk-snarks|zk-SNARKs]] - privacy primitive whose early deployments raise a trusted-setup trade-off
 - [[forward-secrecy|Forward Secrecy]] - key-management property that limits damage from later key compromise
 - [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] - explicit government-access design built around trusted key holders
 - [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin design avoiding trusted mixers through protocol-level anonymity
 - [[zerocash|Zerocash]] - anonymous-payment design that removes a bank but introduces setup assumptions
 - [[signal-x3dh|Signal X3DH]] - prekey protocol that uses a server while limiting server trust
-- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
-- [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
-- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
+- [[coinjoin|CoinJoin and PayJoin]] - two Bitcoin base-layer privacy techniques: CoinJoin merges many users' inputs into one transaction to break address linkage; PayJoin disguises which input is the sender's
+- [[digital-cash-history|Lessons from Digital-Cash History]] - why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
+- [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 
 ## Sources
 

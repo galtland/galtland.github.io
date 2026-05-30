@@ -3,7 +3,8 @@ title: "Hard Money"
 volatility: cold
 category: concept
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [hard-money, sound-money, monetary-theory, austrian-economics, bitcoin, gold-standard, stock-to-flow, salability, hardness, libertarian, cypherpunk]
 aliases: [Sound Money, Hard Currency, Hard Money Standard, Monetary Hardness]
 confidence: high
@@ -76,8 +77,8 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[cypherpunk|Cypherpunk]] - the movement whose Bitcoin-era thinkers reframed hardness as a cryptographic primitive
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
-- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
-- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
+- [[digital-cash-history|Lessons from Digital-Cash History]] - why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped
+- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link back to depositors
 
 ## Sources
 

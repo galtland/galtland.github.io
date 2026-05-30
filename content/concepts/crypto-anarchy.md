@@ -3,7 +3,8 @@ title: "Crypto Anarchy"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [cypherpunk, crypto-anarchy, cryptography, privacy, state-power, libertarianism]
 aliases: [Crypto-Anarchy, crypto anarchism, crypto anarchist thesis]
 confidence: medium
@@ -66,12 +67,12 @@ The confidence level is medium because the article describes May's thesis accura
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator whose work made crypto-anarchic privacy tools practical for ordinary users
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - legal-theory paper testing crypto-anarchic transaction security against property law
 - [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits
-- [[bitcoin-whitepaper|Bitcoin Whitepaper]] - Satoshi's 2008 paper: peer-to-peer electronic cash combining digital signatures
-- [[satoshi-nakamoto|Satoshi Nakamoto]] - Pseudonymous author of the 2008 Bitcoin whitepaper. The work is well-documented
-- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
+- [[bitcoin-whitepaper|Bitcoin Whitepaper]] - Satoshi's 2008 paper: peer-to-peer electronic cash combining digital signatures and proof of work
+- [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous author of the 2008 Bitcoin whitepaper and first Bitcoin software release
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
-- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
+- [[digital-cash-history|Lessons from Digital-Cash History]] - why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped
+- [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 
 ## Sources
 

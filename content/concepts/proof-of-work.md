@@ -3,7 +3,8 @@ title: "Proof of Work"
 volatility: cold
 category: concept
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [bitcoin, proof-of-work, hashcash, bit-gold, satoshi-nakamoto, cypherpunk]
 aliases: [PoW, proof-of-work, hash-based proof of work, cost function]
 confidence: high
@@ -68,15 +69,15 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[unforgeable-costliness|Unforgeable Costliness]] - monetary bridge from costly collectibles to computational proof of work
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's account of Bitcoin hardness and stock-to-flow
 - [[hal-finney|Hal Finney]] - RPOW creator and early Bitcoin participant in the proof-of-work money lineage
-- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper on HTLC-routed, off-chain payment channels settled on Bitcoin
 - [[ring-signatures|Ring Signatures]] - CryptoNote privacy primitive paired with its egalitarian proof-of-work design
 - [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin paper proposing a memory-bound proof-of-work function
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
-- [[crypto-anarchy|Crypto Anarchy]] - Tim May's thesis that strong cryptography enables zones of voluntary exchange outside
-- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as
-- [[smart-contracts|Smart Contracts]] - Szabo's broad 1994 idea that contract terms can be embedded in protocols, reducing
-- [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), former Intel physicist and founding cypherpunk; author of the
-- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
+- [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
+- [[crypto-anarchy|Crypto Anarchy]] - Tim May's thesis that strong cryptography enables zones of voluntary exchange outside state control
+- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money
+- [[smart-contracts|Smart Contracts]] - Szabo's broad 1994 idea that contract terms can be embedded in protocols, reducing enforcement cost
+- [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), founding cypherpunk and author of the Crypto Anarchist Manifesto
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 
 ## Sources
 

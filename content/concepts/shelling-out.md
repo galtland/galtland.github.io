@@ -3,7 +3,8 @@ title: "Shelling Out"
 volatility: cold
 category: concept
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [nick-szabo, money, austrian-economics, regression-theorem, menger, collectibles]
 aliases: [Shelling Out, prehistoric collectibles, proto-money, origins of money]
 confidence: medium
@@ -63,7 +64,7 @@ The confidence level is medium. Szabo's account is influential and fits Austrian
 
 - [[unforgeable-costliness|Unforgeable Costliness]] - bridge concept extending Szabo's collectible attributes into Bit Gold and Bitcoin hardness
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's hard-money reading of primitive moneys, metals, and Bitcoin
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 
 ## Sources
 

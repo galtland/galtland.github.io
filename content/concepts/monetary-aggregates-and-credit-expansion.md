@@ -3,11 +3,12 @@ title: "Monetary Aggregates and Credit Expansion"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [mises, rothbard, tms, m2, money-supply, credit-expansion, monetary-aggregates, abct, measurement]
-summary: "Why M2 mismeasures the Austrian cycle signal: Rothbard's broad money-supply criterion and Salerno's True Money Supply (TMS) isolate inflationary credit from non-inflationary commodity credit."
+summary: "Why M2 mismeasures the Austrian cycle signal: Salerno's True Money Supply (TMS), building on Rothbard's broad money-supply criterion, is a cleaner money-stock aggregate — the total medium of exchange held by the public — that excludes the time-deposit and money-fund components contaminating M2 with non-money commodity credit. TMS is the preferred cycle-theory proxy, though it is a money-stock measure, not a fiduciary-media-only measure."
 aliases: [True Money Supply, TMS, M2 vs TMS, measuring credit expansion, money supply definition]
-short: "Austrian-monetary-theory measurement: M2's time-deposit and money-fund components contaminate the cycle-theory signal with non-inflationary commodity-credit; Rothbard's broad money-supply criterion (AGD Ch. 4), refined by Salerno's 1987 True Money Supply (TMS), is the cleaner Austrian aggregate; central-bank policy rates are an input not a measure; sectoral asymmetry is the structural diagnostic."
+short: "Austrian-monetary-theory measurement: M2's time-deposit and money-fund components contaminate the cycle-theory signal with non-money commodity-credit; Rothbard's broad money-supply criterion (AGD Ch. 4), refined by Salerno's 1987 True Money Supply (TMS), is the cleaner Austrian money-stock aggregate — the total medium of exchange, not a fiduciary-media-only measure; central-bank policy rates are an input not a measure; sectoral asymmetry is the structural diagnostic."
 ---
 
 # Monetary Aggregates and Credit Expansion
@@ -28,7 +29,7 @@ M2 (per the Fed's H.6 statistical release) is M1 plus small-denomination time de
 
 The problem for Austrian use is that M2 lumps two categorically different things:
 
-- **Fiduciary media** (demand deposits, other checkable deposits) — uncovered bank-issued claims, exactly what [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] targets.
+- **Fiduciary media** (demand deposits and other checkable deposits, *to the extent they are uncovered* by reserves) — the uncovered portion of bank-issued claims, exactly what [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] targets. In Mises's typology a fully covered claim is a money-certificate, not fiduciary media; real demand-deposit balances are a mix, classified aliquot.
 - **Commodity-credit instruments** (small-denomination time deposits / small CDs, retail MMMFs) — these represent savings transferred to a borrower via the bank or fund, which by Mises's [[credit-and-deferred-payment|Credit and Deferred Payment]] distinction is *not* inflationary in the same sense. The saver gives up present-good claims; the lender does not create money out of nothing.
 
 Households moving cash from currency holdings into small CDs re-shuffles M2's composition (currency falls, small time deposits rise, M2 level roughly flat) without any fiduciary-media expansion. Conversely, banks issuing new demand deposits expands the fiduciary-media subset of M2 *and* lifts the level — but the M2 number alone can't tell the operator which is happening, because small-time-deposit and retail-MMMF flows contaminate the signal. M2 is usable as a coarse trend indicator, theoretically noisy as a level reading of cycle pressure.
@@ -89,8 +90,8 @@ When all three signal expansion together — TMS growth, policy rate below long 
 - [[joseph-t-salerno|Joseph T. Salerno]] — Austrian monetary economist who formalized Rothbard's criterion into the modern TMS
 - [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] — Salerno's 1987 component-by-component TMS specification
 - [[money-sound-and-unsound|Money, Sound and Unsound]] — Salerno collection reprinting the TMS paper and broader monetary essays
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
-- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
+- [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - the end-to-end mechanism of Austrian credit expansion: banks drop the loan rate to place new fiduciary media, distorting entrepreneurial calculation
 
 ## Sources
 

@@ -3,7 +3,8 @@ title: "Unforgeable Costliness"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [money, bitcoin, nick-szabo, saifedean-ammous, proof-of-work, stock-to-flow, regression-theorem, austrian-economics]
 aliases: [unforgeable costliness, costly scarcity, costly-to-create money]
 confidence: medium-high
@@ -51,7 +52,7 @@ Bitcoin's distinctive claim is that computational costliness, capped issuance, p
 
 ## Limits
 
-Confidence is medium-high. The vocabulary is directly present in Szabo and Ammous, and the Misesian regression link is explicit enough to support the bridge. The limits are interpretive: "unforgeable costliness" is a useful editorial primitive, not a complete theory of money by itself. A medium can be costly and still fail if it is not liquid, divisible, recognizable, secure, or socially adopted.
+Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; Ammous supplies the parallel hardness and stock-to-flow vocabulary rather than the phrase itself, and the Misesian regression link is explicit enough to support the bridge. The limits are interpretive: "unforgeable costliness" is a useful editorial primitive, not a complete theory of money by itself. A medium can be costly and still fail if it is not liquid, divisible, recognizable, secure, or socially adopted.
 
 ## See Also
 
@@ -67,8 +68,8 @@ Confidence is medium-high. The vocabulary is directly present in Szabo and Ammou
 - [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public
 - [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
 - [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
-- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
+- [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 
 ## Sources

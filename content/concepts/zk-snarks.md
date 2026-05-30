@@ -4,6 +4,7 @@ volatility: cold
 category: concept
 created: 2026-05-28
 updated: 2026-05-28
+verified: 2026-05-30
 tags: [libertarian, cypherpunk, zk-snarks, zero-knowledge-proofs, zerocash, zcash, privacy-coins, cryptography]
 aliases: [zero-knowledge succinct non-interactive arguments of knowledge, SNARKs, ZK SNARKs, succinct zero-knowledge proofs]
 confidence: medium-high

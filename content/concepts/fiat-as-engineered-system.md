@@ -3,7 +3,8 @@ title: "Fiat as Engineered System"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [fiat-money, central-banking, debt, bitcoin, saifedean-ammous, capital-consumption, austrian-economics, cypherpunk]
 aliases: [fiat standard as engineering system, fiat technology, debt as money, fiat protocol, fiat mining]
 confidence: medium
@@ -66,9 +67,9 @@ Confidence is medium. The article can describe Ammous's framing with high confid
 - [[hundred-percent-reserve-banking|Hundred Percent Reserve Banking]] - free-banking and fiduciary-media debate adjacent to fiat debt issuance
 - [[austrian-economics|Austrian Economics]] - broader monetary and capital-theory context
 - [[cypherpunk|Cypherpunk]] - Bitcoin-centered exit framework that motivates the fiat-vs-Bitcoin comparison
-- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
-- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay framing Bitcoin as a civilizational exit from fiat finance
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through a speculative attack on weak currencies
+- [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 
 ## Sources
 

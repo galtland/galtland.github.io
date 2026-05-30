@@ -3,7 +3,8 @@ title: "Public-Key Cryptography"
 volatility: cold
 category: concept
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [cryptography, public-key-cryptography, digital-signatures, privacy, cypherpunk, diffie-hellman]
 aliases: [asymmetric cryptography, public key cryptography, Diffie-Hellman, digital signatures]
 confidence: high
@@ -23,7 +24,7 @@ The paper treats this as a structural obstacle to teleprocessing and digital com
 
 ## The Asymmetric-Key Insight
 
-The public-key idea separates encryption and decryption into different keys. The public key can be disclosed; the private key remains secret. A sender uses the recipient's public key to encrypt or verify, while the recipient uses the private key to decrypt or sign. Diffie and Hellman describe this as a system where calculating the private operation from the public one is computationally infeasible.
+The public-key idea separates the two operations into different keys. The public key can be disclosed; the private key remains secret. The two uses are mirror images. For confidentiality, a sender encrypts with the *recipient's* public key, and only the recipient can decrypt with the matching private key. For authentication, the roles invert: a signer produces a signature with their *own* private key, and anyone can verify it with the signer's public key. Diffie and Hellman describe this as a system where calculating the private operation from the public one is computationally infeasible.
 
 The original paper also distinguishes public-key cryptosystems from public-key distribution systems. The former are more powerful because they support encryption and authentication. The latter, closer to the Diffie-Hellman key exchange idea, let two parties establish a shared secret over an insecure channel. Both reduce the need for prearranged secure channels; both become central to later Internet security.
 
@@ -72,14 +73,14 @@ The confidence level is high for the core claim. Diffie and Hellman's paper expl
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator who packaged public-key cryptography for ordinary users
 - [[hal-finney|Hal Finney]] - PGP contributor and later Bitcoin participant
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper built around signing keys, control, and UTXOs
-- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper on HTLC-routed, off-chain payment channels settled on Bitcoin
 - [[ring-signatures|Ring Signatures]] - public-key signature variant that hides which key in a set signed
 - [[forward-secrecy|Forward Secrecy]] - session property built from ephemeral public-key exchange
 - [[signal-x3dh|Signal X3DH]] - asynchronous authenticated key agreement using identity keys, prekeys, and DH composition
 - [[signal-double-ratchet|Signal Double Ratchet]] - messaging ratchet that repeatedly mixes Diffie-Hellman outputs into new keys
-- [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), former Intel physicist and founding cypherpunk; author of the
-- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
+- [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), founding cypherpunk and author of the Crypto Anarchist Manifesto
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
+- [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 
 ## Sources
 

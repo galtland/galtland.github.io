@@ -4,6 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-05-10
+verified: 2026-05-30
 tags: [resistance, privacy, cryptography, bitcoin, cypherpunk, praxeology]
 aliases: [Axiom of Resistance, Voskuil's resistance axiom, resistance assumption]
 confidence: medium

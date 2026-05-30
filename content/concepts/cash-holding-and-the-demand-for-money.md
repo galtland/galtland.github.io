@@ -3,7 +3,8 @@ title: "Cash Holding and the Demand for Money"
 volatility: warm
 category: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [mises, money-demand, cash-holding, purchasing-power, austrian-economics, monetary-theory]
 summary: "Mises on the demand for money as cash holding: purchasing power cannot be explained without individuals' demand to hold money, whose sum (money proper plus fiduciary media) is the community's money demand."
 aliases: [demand for money, cash balance, money relation, need for money]
@@ -47,7 +48,7 @@ The demand for money is the aggregate demand for the *broader* category — peop
 
 ## Why the demand side is doctrinally load-bearing
 
-The Austrian-libertarian frame cannot reason about CPI movements, QE episodes, balance-sheet policy, capital controls, or currency crises without naming the demand side. The common claim that "the central bank added X to the monetary base, so prices must rise by Y" is a one-sided argument the Austrian framework rejects on its face. The right framing is always: *what happened to the money relation* — both sides — and what does that tell us about the objective exchange-value of money. A monetary base expansion absorbed by a simultaneous demand increase (panic hoarding, deflationary expectations) does not register as inflation in Mises's strict sense. A demand collapse with a flat base — the classic late-stage hyperinflation footprint — registers as inflation even with no further supply action.
+The Austrian-libertarian frame cannot reason about CPI movements, QE episodes, balance-sheet policy, capital controls, or currency crises without naming the demand side. The common claim that "the central bank added X to the monetary base, so prices must rise by Y" is a one-sided argument the Austrian framework rejects on its face. The right framing is always: *what happened to the money relation* — both sides — and what does that tell us about the objective exchange-value of money. A monetary base expansion absorbed by a simultaneous demand increase (panic hoarding, deflationary expectations) does not register as inflation in Mises's strict sense. A demand collapse with a flat base — the classic late-stage hyperinflation footprint — drives the objective exchange-value of money down from the demand side with no further supply action. In Mises's strict sense this fall in purchasing power is not itself "inflation" (he reserves that term for an increase in the quantity of money not offset by a rise in the demand for money); it is a money-relation change on the demand side that produces the same rising-price symptom.
 
 ## See Also
 
@@ -58,8 +59,8 @@ The Austrian-libertarian frame cannot reason about CPI movements, QE episodes, b
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] — companion concept on the supply-side normative position that pairs with the demand-side analysis
 - [[shelling-out|Shelling Out]] - Szabo's prehistoric-collectibles account of proto-money and monetary properties
-- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
-- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - the end-to-end mechanism of Austrian credit expansion: banks drop the loan rate to place new fiduciary media, distorting entrepreneurial calculation
+- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: how M2's time-deposit and money-fund components contaminate the cycle signal, and why TMS is the cleaner aggregate
 
 ## Sources
 

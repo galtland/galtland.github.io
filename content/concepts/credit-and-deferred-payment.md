@@ -3,7 +3,8 @@ title: "Credit and Deferred Payment"
 volatility: warm
 category: concept
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [credit, time-preference, debtor-creditor, book-credit, austrian-economics, money-and-banking]
 aliases: [credit transaction, trade credit, book credit, commercial credit, deferred payment]
 confidence: high
@@ -112,7 +113,7 @@ The article so far reads as if the Austrian definition were the obvious one. Hon
 
 **1. Non-Austrian economics.** The wiki currently has no non-Austrian sources on this question. Mainstream microeconomics typically treats "credit" within the framework of intertemporal choice plus financial intermediation, and would not naturally describe end-of-month utility billing as credit unless interest were charged. Whether the practical implications of the two framings differ — beyond labelling — is not something this wiki's current corpus settles. The Austrian definition presented here is the *Austrian* definition, not the only one in good standing in economics.
 
-**2. Accounting and regulation.** Whether a particular post-paid arrangement counts as "credit" for accounting (e.g. recognised as a receivable / payable and aged accordingly), tax, or consumer-protection-law purposes is a separate question with its own answer. Those answers tend to track formal features (contractual terms, interest charges, disclosure regimes) rather than the structural Austrian criterion. A utility billing cycle is universally recorded as a receivable on the utility's books — which lines up with the Austrian view — but only some jurisdictions treat utility late-payment penalties as regulated credit charges. The wiki has no legal/accounting sources, and the article should not be read as making claims in those domains.
+**2. Accounting and regulation.** Whether a particular post-paid arrangement counts as "credit" for accounting (e.g. recognised as a receivable / payable and aged accordingly), tax, or consumer-protection-law purposes is a separate question with its own answer. Those answers tend to track formal features (contractual terms, interest charges, disclosure regimes) rather than the structural Austrian criterion. A utility billing cycle is typically recorded as a receivable on the utility's books — which lines up with the Austrian view — but only some jurisdictions treat utility late-payment penalties as regulated credit charges. The wiki has no legal/accounting sources, and the article should not be read as making claims in those domains.
 
 **3. Credit vs. gift.** A pure gift with delivery now and no expected return is *not* credit on the Austrian definition either, because there is no obligation to deliver a future good. The boundary case — informal arrangements between family or community members where future repayment is morally expected but not legally enforceable — is outside the corpus's explicit treatment.
 
@@ -157,12 +158,12 @@ Mises's distinction between **commodity credit** (credit granted out of real sav
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - debt-as-money application of the present-good/future-good distinction
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source for fiat credit creation and negative balances
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook treatment of credit and banking
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
-- [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is determined by
-- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
-- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
-- [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its
-- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components
+- [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
+- [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is set by both the supply of and the demand to hold it
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - the end-to-end mechanism of Austrian credit expansion: banks drop the loan rate to place new fiduciary media, distorting entrepreneurial calculation
+- [[hundred-percent-reserve-banking|100% Reserve Banking]] - the Rothbardian normative position that demand deposits and bank-issued notes must be fully backed by reserves
+- [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below the level voluntary saving would set
+- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: how M2's time-deposit and money-fund components contaminate the cycle signal, and why TMS is the cleaner aggregate
 - [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] - Rothbard's claim that the boom-bust cycle is generated by bank credit expansion
 
 

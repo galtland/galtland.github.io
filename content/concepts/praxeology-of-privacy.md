@@ -3,7 +3,8 @@ title: "Praxeology of Privacy"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [privacy, praxeology, action-axiom, austrian-economics, property-rights, surveillance, bitcoin, power-projection]
 aliases: [privacy praxeology, privacy as selective disclosure, privacy as structural feature of action]
 confidence: medium
@@ -79,8 +80,8 @@ Lowery's [[softwar|Softwar]] thesis adds a complementary but distinct Bitcoin fr
 - [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] - Crypto Wars example of compelled access defeating user-controlled disclosure
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
-- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
-- [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
+- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material
+- [[coinjoin|CoinJoin and PayJoin]] - two Bitcoin base-layer privacy techniques: CoinJoin merges many users' inputs into one transaction to break address linkage; PayJoin disguises which input is the sender's
 
 ## Sources
 

@@ -3,7 +3,8 @@ title: "Mises on Credit Expansion"
 volatility: warm
 category: concept
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [credit-expansion, mises, abct, interest-rates, fiduciary-media]
 summary: "Mises on how credit expansion falsifies entrepreneurial calculation: an artificially lowered interest rate makes capital-deficient projects look profitable, seeding the malinvestment the boom must later liquidate."
 aliases: [Mises credit expansion, circulation credit, gross market rate distortion]
@@ -16,7 +17,7 @@ short: "Mises's claim that credit expansion drops the gross market rate of inter
 >
 > — Mises, [[human-action|Human Action]], Ch. XX "Interest, Credit Expansion, and the Trade Cycle," Scholar's Edition pp. 550–551.
 
-Mises's mechanism is precise. Credit expansion is not a generic monetary stimulus; it is the issuance of additional fiduciary media offered on the loan market, which pushes the gross market rate of interest below the level at which voluntary saving and time preference would equilibrate it. "Credit expansion is present only if credit is granted by the issue of an additional amount of fiduciary media," he writes in [[human-action|Human Action]] Ch. XVII §11 (Scholar's Edition p. 431) — distinguishing it from the harmless reuse of repaid commodity-credit balances.
+Mises's mechanism is precise. Credit expansion is not a generic monetary stimulus; it is the issuance of additional fiduciary media offered on the loan market, which pushes the gross market rate of interest below the level at which voluntary saving and time preference would equilibrate it. "Credit expansion is present only if credit is granted by the issue of an additional amount of fiduciary media," he writes in [[human-action|Human Action]] Ch. XVII §11 (Scholar's Edition p. 431) — distinguishing it from the harmless re-lending of previously issued fiduciary media that old debtors have paid back.
 
 The damage is calculational, not monetary in the headline sense. Entrepreneurs read the suppressed rate as a signal that the public has saved more and is willing to wait longer for consumption. They lengthen the production structure — bidding for higher-order capital goods, longer-duration projects, interest-rate-sensitive sectors — on the false premise that the resources to complete those projects exist. They do not. The boom is the period in which this error is being committed; the bust is the period in which it is exposed and liquidated. The "gross market rate" framework is what makes Mises's account a theory of *malinvestment*, not merely a theory of inflation. See [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] for the full structural account and [[credit-and-deferred-payment|Credit and Deferred Payment]] for the commodity-credit / circulation-credit distinction that the mechanism rests on.
 
@@ -28,10 +29,10 @@ The damage is calculational, not monetary in the headline sense. Entrepreneurs r
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference
 - [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] — sister focused article applying the same mechanism to the Federal Reserve
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] — Mises's 1912 origin of the cycle theory's monetary side
-- [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is determined by
-- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
-- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
-- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components
+- [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is set by both the supply of and the demand to hold it
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - the end-to-end mechanism of Austrian credit expansion: banks drop the loan rate to place new fiduciary media, distorting entrepreneurial calculation
+- [[hundred-percent-reserve-banking|100% Reserve Banking]] - the Rothbardian normative position that demand deposits and bank-issued notes must be fully backed by reserves
+- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: how M2's time-deposit and money-fund components contaminate the cycle signal, and why TMS is the cleaner aggregate
 
 
 - [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - newsroom thesis backlink

@@ -3,7 +3,8 @@ title: "Smart Contracts"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
+verified: 2026-05-30
 tags: [cypherpunk, smart-contracts, contracts, cryptography, protocols, digital-cash]
 aliases: [smart contract, smart property, computerized transaction protocols]
 confidence: medium
@@ -65,10 +66,10 @@ The confidence level is medium because the article synthesizes one short 1994 es
 
 - [[lightning-network|Lightning Network]] - practical Bitcoin-script channel design using HTLCs as enforceable contract logic
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - legal-theory paper that places Szabo's smart-contract work in the crypto-anarchic law context
-- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's
-- [[crypto-anarchy|Crypto Anarchy]] - Tim May's thesis that strong cryptography enables zones of voluntary exchange outside
-- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as
-- [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), former Intel physicist and founding cypherpunk; author of the
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper on HTLC-routed, off-chain payment channels settled on Bitcoin
+- [[crypto-anarchy|Crypto Anarchy]] - Tim May's thesis that strong cryptography enables zones of voluntary exchange outside state control
+- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money
+- [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), founding cypherpunk and author of the Crypto Anarchist Manifesto
 
 ## Sources
 
