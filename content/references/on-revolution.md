@@ -3,8 +3,9 @@ title: "On Revolution"
 volatility: warm
 category: reference
 created: 2026-05-12
-updated: 2026-05-12
-tags: [hannah-arendt, on-revolution, revolution, american-revolution, french-revolution, public-happiness, council-system, founding, commercially-published]
+updated: 2026-05-30
+verified: 2026-05-30
+tags: [hannah-arendt, on-revolution, revolution, american-revolution, french-revolution, public-happiness, council-system, founding, commercially-published, non-libertarian]
 aliases: [Arendt On Revolution]
 confidence: medium
 summary: "Reference guide to Hannah Arendt's 1963 comparison of the American and French revolutions, public freedom, the social question, founding, public happiness, and the lost council tradition."

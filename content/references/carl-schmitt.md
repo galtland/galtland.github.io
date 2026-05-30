@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-12
 updated: 2026-05-12
+verified: 2026-05-30
 tags: [carl-schmitt, sovereignty, state-of-exception, friend-enemy-distinction, political-theology, decisionism, non-libertarian]
 aliases: [Schmitt, Carl Schmitt political theory]
 confidence: medium

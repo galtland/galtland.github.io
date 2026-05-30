@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-12
 updated: 2026-05-12
+verified: 2026-05-30
 tags: [carl-schmitt, concept-of-the-political, friend-enemy-distinction, sovereignty, political-theory, non-libertarian, commercially-published]
 aliases: [Der Begriff des Politischen, Schmitt's Concept of the Political]
 confidence: medium

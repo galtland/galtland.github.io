@@ -3,8 +3,9 @@ title: "Hannah Arendt"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-12
-tags: [hannah-arendt, political-philosophy, totalitarianism, banality-of-evil, on-violence, the-human-condition, on-revolution, violence, power, republicanism, civic-humanism, continental-philosophy]
+updated: 2026-05-30
+verified: 2026-05-30
+tags: [hannah-arendt, political-philosophy, totalitarianism, banality-of-evil, on-violence, the-human-condition, on-revolution, violence, power, republicanism, civic-humanism, continental-philosophy, non-libertarian]
 aliases: [Arendt, Hannah Arendt political philosophy]
 confidence: medium
 summary: "Author reference for Hannah Arendt, whose works now present in the wiki include Origins, Eichmann in Jerusalem, On Violence, The Human Condition, and On Revolution."
@@ -68,3 +69,6 @@ Her value for this wiki is comparative. Arendt converges with libertarian source
 
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt source currently present in the wiki; biographical context is included only to orient the author node
 - [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - Arendt source for banality of evil, thoughtlessness, and ordinary bureaucratic participation
+- [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - Arendt source distinguishing power, strength, force, authority, and violence
+- [The Human Condition](https://archive.org/download/the-human-condition-hannah-arendt/The%20Human%20Condition%20-%20Arendt%20Hannah_djvu.txt) - Arendt source for the vita activa (labor, work, action) framework
+- [On Revolution](https://monoskop.org/images/b/bf/Arendt_Hannah_On_Revolution_1990.pdf) - Arendt source for public freedom and the council tradition

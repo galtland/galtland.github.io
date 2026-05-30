@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-10
 updated: 2026-05-12
+verified: 2026-05-30
 tags: [aleksandr-solzhenitsyn, gulag, soviet-union, stalinism, dissident-literature, totalitarianism]
 aliases: [Solzhenitsyn, Aleksandr I. Solzhenitsyn, Alexander Solzhenitsyn]
 confidence: medium

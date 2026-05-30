@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-12
 updated: 2026-05-12
+verified: 2026-05-30
 tags: [michel-foucault, disciplinary-power, biopower, genealogy, sovereignty, population, non-libertarian]
 aliases: [Foucault, Michel Foucault power]
 confidence: medium

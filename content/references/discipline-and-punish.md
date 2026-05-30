@@ -4,6 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-12
 updated: 2026-05-12
+verified: 2026-05-30
 tags: [michel-foucault, discipline-and-punish, disciplinary-power, panopticism, prison, surveillance, normalization, non-libertarian, commercially-published]
 aliases: [Discipline and Punish: The Birth of the Prison, Surveiller et punir]
 confidence: medium

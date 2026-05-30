@@ -3,8 +3,9 @@ title: "Eichmann in Jerusalem"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-12
-tags: [hannah-arendt, eichmann, banality-of-evil, holocaust, totalitarianism, bureaucracy, moral-judgment, thoughtlessness]
+updated: 2026-05-30
+verified: 2026-05-30
+tags: [hannah-arendt, eichmann, banality-of-evil, holocaust, totalitarianism, bureaucracy, moral-judgment, thoughtlessness, non-libertarian]
 aliases: [Eichmann in Jerusalem, A Report on the Banality of Evil]
 confidence: medium
 summary: "Reference guide to Hannah Arendt's 1963 report on Adolf Eichmann's Jerusalem trial and the banality-of-evil thesis. Companion to *The Origins of Totalitarianism*: the earlier book analyzes the regime, while *Eichmann* analyzes the ordinary participant."

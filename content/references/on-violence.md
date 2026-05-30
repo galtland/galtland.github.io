@@ -3,8 +3,9 @@ title: "On Violence"
 volatility: warm
 category: reference
 created: 2026-05-12
-updated: 2026-05-12
-tags: [hannah-arendt, on-violence, violence, power, authority, force, political-philosophy, totalitarianism, commercially-published]
+updated: 2026-05-30
+verified: 2026-05-30
+tags: [hannah-arendt, on-violence, violence, power, authority, force, political-philosophy, totalitarianism, commercially-published, non-libertarian]
 aliases: [Arendt On Violence, Power and Violence]
 confidence: medium
 summary: "Reference guide to Hannah Arendt's 1970 essay distinguishing power, strength, force, authority, and violence, and arguing that violence is instrumental rather than identical with political power."
@@ -20,7 +21,7 @@ The raw source is an OCR extraction of the [[on-violence|On Violence]] essay fro
 
 ## Argument Map
 
-Arendt's central move is definitional. Power is not a thing an individual owns; it exists when people act together and lasts only while that acting-together remains alive. Violence, by contrast, depends on instruments. It can destroy power, but it cannot create the consent-grounded power it replaces.
+Arendt's central move is definitional. Power is not a thing an individual owns; it exists when people act together and lasts only while that acting-together remains alive. Violence, by contrast, depends on instruments. It can destroy power, but it cannot create the action-in-concert that power consists of.
 
 The essay separates power, strength, force, authority, and violence because political language often collapses them. That collapse makes both state violence and revolutionary violence look deeper than they are. Arendt treats violence as means-end action whose results are unreliable because political action cannot be predicted like fabrication.
 
@@ -28,7 +29,7 @@ The essay separates power, strength, force, authority, and violence because poli
 
 The state-as-parasite thesis needed a better vocabulary for the point at which ordinary extraction becomes something else. [[violence-vs-power|Violence vs Power]] supplies it: a regime may command instruments of violence while losing power in Arendt's sense. Totalitarian terror is therefore not just a less persuasive version of ordinary legitimacy; it is rule that fears and destroys independent power.
 
-This should not be turned into libertarian doctrine. Arendt does not infer market anarchism or the nonaggression principle. Her value here is categorical clarity: power is consent-grounded action in concert; violence is instrumental coercion.
+This should not be turned into libertarian doctrine. Arendt does not infer market anarchism or the nonaggression principle. Her value here is categorical clarity: power is action in concert that lasts only while the group's support holds; violence is instrumental coercion.
 
 ## See Also
 

@@ -3,8 +3,9 @@ title: "Charles Tilly"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-12
-tags: [charles-tilly, historical-sociology, state, war-and-state-formation, comparative-historical-sociology]
+updated: 2026-05-30
+verified: 2026-05-30
+tags: [charles-tilly, historical-sociology, state, war-and-state-formation, comparative-historical-sociology, non-libertarian]
 aliases: [Tilly, Charles Tilly historical sociology]
 confidence: medium
 summary: "Short author reference for Charles Tilly, the American historical sociologist whose 1985 organized-crime essay and later *Coercion, Capital, and European States* supply this wiki's non-libertarian Tilly tradition node."
