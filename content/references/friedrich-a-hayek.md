@@ -3,8 +3,8 @@ title: "F. A. Hayek"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [hayek, austrian-economics, classical-liberalism, knowledge-problem, business-cycle]
 aliases: [Hayek, Friedrich Hayek, F. A. Hayek]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Reference guide to Friedrich Hayek's place in this wiki as the second 
 
 # F. A. Hayek
 
-> Friedrich August von Hayek (1899–1992) is the second of the two anchors of mature Austrian economics in this wiki, alongside [[ludwig-von-mises|Mises]]. The three texts now ingested supply the wiki with Hayek's epistemic critique of central planning, his political application of that critique, and his monetary and business-cycle theory.
+> Friedrich August von Hayek (1899–1992) — joint winner, with Gunnar Myrdal, of the 1974 Nobel Memorial Prize in Economic Sciences — is the second of the two anchors of mature Austrian economics in this wiki, alongside [[ludwig-von-mises|Mises]]. The 1974 prize citation recognized his work on the theory of money and economic fluctuations and his analysis of the interdependence of economic, social, and institutional phenomena; his Nobel lecture, *The Pretence of Knowledge*, restated his [[knowledge-problem|knowledge-problem]] critique against the "scientism" of mathematical economics. The three texts now ingested supply the wiki with Hayek's epistemic critique of central planning, his political application of that critique, and his monetary and business-cycle theory.
 
 ## Main Works Present Here
 
@@ -69,6 +69,9 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 
 
 - [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - political application of the critique of planning

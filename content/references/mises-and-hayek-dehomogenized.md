@@ -50,6 +50,7 @@ The article's confidence is high as a report of Salerno's own argument. Its broa
 - [[knowledge-problem|Knowledge Problem]] - Hayekian dispersed-knowledge argument
 - [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek collection containing the knowledge-problem essays
 - [[socialism|Socialism]] - Mises's original socialist-calculation argument
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
 
 ## Sources
 

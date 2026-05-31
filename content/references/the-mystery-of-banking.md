@@ -46,6 +46,7 @@ The 100%-reserve-banking position the wiki adopts in [[hundred-percent-reserve-b
 - [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian
 - [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
 
 ## Sources
 
