@@ -4,28 +4,34 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [thesis, european-union, wealth-tax, taxation, capital-consumption, capital-flight, political-means, intervention, austrian-economics]
-aliases: [EU wealth tax directive 2026, Sánchez wealth tax directive, May 2026 EU wealth tax, European wealth tax directive]
-stance: critique
-verdict: critique
-confidence: high
-summary: "Critiques the May 2026 EU wealth-tax directive framing. The directive's 'fair share' language recodes a recurring claim on accumulated capital as moral repair, while Rothbard's wealth-tax incidence analysis, Mises's capital-consumption frame, Hoppe's caretaker incentive, and the political-means distinction identify the mechanism as capital taxation hardened into a supranational floor."
+aliases: [EU wealth tax directive scenario, hypothetical EU wealth tax, European wealth tax directive analysis]
+stance: scenario
+verdict: illustrative-scenario
+confidence: low
+summary: "Illustrative scenario (synthetic prompt, not a confirmed event): critiques a hypothetical EU wealth-tax-directive 'fair share' framing. The framing recodes a recurring claim on accumulated capital as moral repair, while Rothbard's wealth-tax incidence analysis, Mises's capital-consumption frame, Hoppe's caretaker incentive, and the political-means distinction identify the mechanism as capital taxation hardened into a supranational floor. (No such directive exists; the EU has only studied net-wealth taxation, and direct-tax directives require Council unanimity.)"
 ---
 
 # The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis
 
-> The European Parliament approved on May 15, 2026 a directive requiring all member states to enact progressive wealth taxes of 1–3% on net assets above €1 million by 2028, with rates rising to 5% on holdings above €50 million. Rapporteur Marta Sánchez said the directive 'finally makes wealth pay its fair share' and described it as 'a historic correction of decades of inequality and the moral foundation of a just Europe.' Critics in the European People's Party warned of capital flight and constitutional challenges; the rapporteur dismissed those concerns as 'right-wing fearmongering driven by oligarch interests, not real economics.'
+>[!warning] Illustrative scenario — not a sourced event
 >
-> — News post, 2026-05-19
+> The triggering item quoted below is a **synthetic prompt** used to exercise the wiki's analytical framework, not a confirmed news event. Its specific figures, dates, institutions, and any attributed quotations are hypothetical and in several places do **not** match the real-world record. What this page demonstrates is the *framework application* — do not cite the event details as fact.
+
+
+> *In this scenario,* the European Parliament advances a directive requiring member states to enact progressive taxes on net wealth above a high threshold, with the measure's backers framing it as finally making wealth "pay its fair share" and as "the moral foundation of a just Europe," and dismissing capital-flight warnings as "fearmongering ... not real economics." (Hypothetical: no such directive has been adopted; the EU has only commissioned studies of net-wealth taxation, and direct-tax directives require unanimous Council approval. The specific rates, thresholds, dates, and any named officials are invented for the scenario.)
+>
+> — Illustrative synthetic prompt (not a sourced news event)
 
 A 1–5% annual levy on net wealth turns accumulated capital into a standing fiscal claim: [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] identifies the instrument as uncapitalizable and unshiftable, [[mises-on-capital-consumption|Mises on Capital Consumption]] names the policy class as present provision at future productive expense, [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] explains why public caretakers prefer current extraction over capital-value preservation, and [[political-means-and-economic-means|Political Means and Economic Means]] classifies the transfer as coercive appropriation rather than exchange. The broader consequence is not moral repair. It is a supranational floor under capital taxation, with liquidation, reduced accumulation, avoidance, and exit as ordinary margins of adjustment. Calling those mechanisms "not real economics" discards tax incidence, capital-consumption analysis, and public-government time-preference theory at once.
 
 ## The Framing at Issue
 
-The disputed language is exact: the directive "finally makes wealth pay its fair share," supplies "the moral foundation of a just Europe," and treats capital-flight warnings as "right-wing fearmongering driven by oligarch interests, not real economics."
+The disputed language in the scenario runs: the directive "finally makes wealth pay its fair share," supplies "the moral foundation of a just Europe," and treats capital-flight warnings as "fearmongering ... not real economics."
 
-The first two phrases make accumulated capital sound like a delinquent moral account. The third converts incidence and exit into factional motive. That is a framing disagreement, not a factual disagreement over whether the vote occurred. The objection is that a recurring tax on net assets has economic effects before it has moral symbolism. Owners adjust portfolios, liquidity, residence, and future accumulation around the continuing charge.
+The first two phrases make accumulated capital sound like a delinquent moral account. The third converts incidence and exit into factional motive. That is a framing disagreement, not a factual disagreement — and the analysis below holds for any wealth-tax proposal defended in those terms, independent of this scenario's invented specifics. The objection is that a recurring tax on net assets has economic effects before it has moral symbolism. Owners adjust portfolios, liquidity, residence, and future accumulation around the continuing charge.
 
 ## The Instrument
 
@@ -35,7 +41,7 @@ The first two phrases make accumulated capital sound like a delinquent moral acc
 
 The mechanism is specific. A tax on a particular parcel or asset can be capitalized into that asset's price. A tax on individual net wealth follows the owner across assets, so there is no single property value into which the market can discount the future tax stream. The recurring burden falls on the assessed holder.
 
-It also is not shifted forward by price announcement. The charge is on net worth. It is paid from income where income suffices, and from asset sales where liquidity does not. Holders near the €1 million threshold and holders whose wealth is tied up in family firms, real estate, or closely held equity face the sharp version of the problem: the tax liability is liquid even when the wealth is not.
+It also is not shifted forward by price announcement. The charge is on net worth. It is paid from income where income suffices, and from asset sales where liquidity does not. Holders near the assessment threshold and holders whose wealth is tied up in family firms, real estate, or closely held equity face the sharp version of the problem: the tax liability is liquid even when the wealth is not.
 
 ## Capital Consumption
 
@@ -74,11 +80,11 @@ This analysis does not decide EU competence over direct taxation, member-state c
 - [[state-power-and-intervention|State Power and Intervention]] - intervention as a cumulative process with secondary margins
 - [[sales-tax-incidence|Sales Tax Incidence]] - adjacent Rothbardian no-forward-shifting analysis
 - [[power-and-market|Power and Market]] - Rothbard's source text for wealth-tax incidence
-- [[anatomy-of-the-state|Anatomy of the State]] - Reference guide to Rothbard's concise anti-state essay on political monopoly
-- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Reference guide to Hoppe's 2001 regime-comparison book on monarchy, democracy, time
-- [[liberalism|Liberalism]] - Reference guide to Mises's short 1927 statement of classical-liberal political
-- [[oppenheimer-the-state|The State]] - Reference guide to Franz Oppenheimer's sociological treatise on the state's conquest
-- [[our-enemy-the-state|Our Enemy, the State]] - Reference guide to Albert Jay Nock's 1935 anti-state book applying Oppenheimer's
+- [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's concise anti-state essay on the state as a coercive territorial monopoly
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's 2001 regime-comparison book on monarchy, democracy, time preference, and decivilization
+- [[liberalism|Liberalism]] - Mises's short 1927 statement of classical-liberal political principles
+- [[oppenheimer-the-state|The State]] - Franz Oppenheimer's sociological treatise on the state's conquest origins
+- [[our-enemy-the-state|Our Enemy, the State]] - Albert Jay Nock's 1935 anti-state book applying Oppenheimer's state/society distinction to America
 
 
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink

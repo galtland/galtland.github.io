@@ -4,6 +4,7 @@ volatility: warm
 category: topic
 created: 2026-05-12
 updated: 2026-05-12
+verified: 2026-05-31
 tags: [sovereignty, power, carl-schmitt, michel-foucault, state-of-exception, disciplinary-power, biopower, non-libertarian]
 aliases: [non-libertarian critiques of power, sovereignty and power critiques]
 confidence: medium

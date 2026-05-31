@@ -3,7 +3,8 @@ title: "Austrian Economics"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-05-10
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [austrian-economics, economics, praxeology, intervention, calculation-problem, knowledge-problem, business-cycle]
 aliases: [Austrian School, Austrian School of Economics]
 confidence: medium
@@ -16,11 +17,11 @@ summary: "Topic map of Austrian economics in this wiki: praxeology, calculation,
 
 ## Method and Starting Point
 
-The school's method is set out by [[ludwig-von-mises|Mises]] in [[human-action|Human Action]] and defended epistemologically in [[theory-and-history|Theory and History]]. Economic theory is a deductive working-out of what is implied by the fact that humans act — not an empirical search for regularities. [[murray-n-rothbard|Rothbard]]'s [[man-economy-and-state|Man, Economy, and State]] is the textbook elaboration of this method, walking from human action through exchange, prices, production, money, and monopoly without shifting the unit of analysis away from acting persons. The full case for the method as method is in [[praxeology|Praxeology]].
+The school's method is set out by [[ludwig-von-mises|Mises]] in [[human-action|Human Action]] and defended epistemologically in [[theory-and-history|Theory and History]]. Economic theory is a deductive working-out of what is implied by the fact that humans act — not an empirical search for regularities. [[murray-n-rothbard|Rothbard]]'s [[man-economy-and-state|Man, Economy, and State]] is the textbook elaboration of this method, walking from human action through exchange, prices, production, money, and monopoly without shifting the unit of analysis away from acting persons. The full case for the method as method is in [[praxeology|Praxeology]]. This strict apriorism is most associated with the Mises-Rothbard-Hoppe strand; [[friedrich-a-hayek|Hayek]]'s branch of the school shares the subjectivist, anti-scientistic starting point but leans more on tacit knowledge, evolved institutions, and pattern explanation than on pure deduction from the action axiom.
 
 ## Calculation, Knowledge, and Central Planning
 
-Two of the school's most distinctive theses concern central planning. [[economic-calculation-problem|The economic-calculation problem]] — opened by [[socialism|Mises in 1922]] — argues that planners without market prices for capital goods cannot perform the calculations needed to allocate resources rationally. [[knowledge-problem|Hayek's knowledge problem]] — set out in [[individualism-and-economic-order|Individualism and Economic Order]] — extends the case: even granting formal feasibility, the dispersed knowledge that real prices summarize is not available to planners as a unified body of facts. Together they form the mature Austrian critique of socialism that [[hans-hermann-hoppe|Hoppe]] restates in property-theoretic form in [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]].
+Two of the school's most distinctive theses concern central planning. [[economic-calculation-problem|The economic-calculation problem]] — originating in Mises's 1920 essay and elaborated in [[socialism|Socialism]] (1922) — argues that planners without market prices for capital goods cannot perform the calculations needed to allocate resources rationally. [[knowledge-problem|Hayek's knowledge problem]] — set out in [[individualism-and-economic-order|Individualism and Economic Order]] — extends the case: even granting formal feasibility, the dispersed knowledge that real prices summarize is not available to planners as a unified body of facts. Together they form the mature Austrian critique of socialism that [[hans-hermann-hoppe|Hoppe]] restates in property-theoretic form in [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]].
 
 ## Capital, Interest, and the Business Cycle
 
@@ -81,8 +82,8 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Austrian-Bitcoin synthesis source
 - [[principles-of-economics-ammous|Principles of Economics]] - Ammous's Austrian economics textbook
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
+- [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
+- [[power-and-market|Power and Market]] - Rothbard's Power and Market (1970), the standalone companion to Man, Economy, and State
 
 ## Sources
 

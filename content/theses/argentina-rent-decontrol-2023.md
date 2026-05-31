@@ -4,13 +4,14 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [thesis, argentina, rent-control, price-control, housing-policy, decontrol, buenos-aires, austrian-economics, mises, rothbard]
 aliases: [Argentina rent decontrol 2023, Milei rent decontrol, Buenos Aires rental listings doubled, Argentina rent-control repeal]
 stance: endorse
 verdict: endorse
-confidence: high
-summary: "Endorses Argentina's late-2023 rent decontrol as an instance of the Mises-Rothbard price-control prediction: an effective rent ceiling creates a housing shortage by suppressing the legal return to supply; repeal reopens the offer margin, and the post reports listings returning and real rents falling."
+confidence: medium
+summary: "Reads Argentina's late-2023 rent decontrol as consistent with the Mises-Rothbard price-control prediction: an effective rent ceiling creates a housing shortage by suppressing the legal return to supply; repeal reopens the offer margin, and early data report listings returning and real rents falling. Confidence is medium because the post-repeal evidence is recent and Argentina's macro volatility complicates clean attribution."
 ---
 
 # Argentina's 2023 Rent Decontrol: Price-Control Analysis
@@ -19,7 +20,7 @@ summary: "Endorses Argentina's late-2023 rent decontrol as an instance of the Mi
 >
 > — News post, 2026-05-19
 
-Abolishing rent control changed a legal constraint, not a housing preference. An effective ceiling is a [[rothbard-on-price-controls|maximum-price control]]: at the legal price, more tenants want units than owners will offer. In housing, [[mises-on-rent-ceilings|Mises's rent-ceiling analysis]] gives the specific margin: the ceiling transfers urban rent, discourages supply, and moves allocation into queues, favoritism, side payments, vacancy, conversion, and postponed construction. Classified as [[state-power-and-intervention|state intervention in exchange]], the control suppresses the rent as a coordinating price rather than abolishing scarcity. Repeal therefore predicts a supply event first: units return to the listed market, the queue loses force, and real rents face a larger legal supply. Buenos Aires listings more than doubling in six months while real rents fell is the Mises-Rothbard mechanism running backward.
+Abolishing rent control changed a legal constraint, not a housing preference. An effective ceiling is a [[rothbard-on-price-controls|maximum-price control]]: at the legal price, more tenants want units than owners will offer. In housing, [[mises-on-rent-ceilings|Mises's rent-ceiling analysis]] gives the specific margin: the ceiling transfers urban rent, discourages supply, and moves allocation into queues, favoritism, side payments, vacancy, conversion, and postponed construction. Classified as [[state-power-and-intervention|state intervention in exchange]], the control suppresses the rent as a coordinating price rather than abolishing scarcity. Repeal therefore predicts a supply event first: units return to the listed market, the queue loses force, and real rents face a larger legal supply. Buenos Aires listings more than doubling in six months while real rents fell is consistent with the Mises-Rothbard mechanism running backward, though the post-repeal window is short and Argentina's broader disinflation and macro turmoil are confounding factors that a clean causal claim would have to separate out.
 
 ## Ceiling And Shortage
 
@@ -58,17 +59,17 @@ This is an endorsement of fit, not a full empirical decomposition of Argentina's
 - [[austrian-economics|Austrian Economics]] - price, coordination, and intervention frame
 - [[liberalism|Liberalism]] - source for Mises's rent-ceiling passage
 - [[power-and-market|Power and Market]] - source for Rothbard's maximum-price analysis
-- [[economic-calculation-problem|Economic Calculation Problem]] - The Misesian argument that a socialist commonwealth without private ownership of
-- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - Normative core of the current corpus: self-ownership, property, contract, and the
-- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's distinction between the economic means of
-- [[friedrich-a-hayek|F. A. Hayek]] - Reference guide to Friedrich Hayek's place in this wiki as the second pillar of
-- [[individualism-and-economic-order|Individualism and Economic Order]] - Reference guide to Hayek's 1948 essay collection containing 'The Use of Knowledge in
-- [[ludwig-von-mises|Ludwig von Mises]] - Reference guide to Ludwig von Mises's place in this wiki as the founder of modern
-- [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action
-- [[murray-n-rothbard|Murray N. Rothbard]] - Reference guide to Rothbard's place in this wiki as system-builder, economist
-- [[road-to-serfdom|The Road to Serfdom]] - Reference guide to Hayek's 1944 warning that central economic planning leads to
-- [[socialism|Socialism]] - Reference guide to Mises's 1922 critique of socialism, the original statement of the
-- [[the-law|The Law]] - Reference guide to Bastiat's anti-plunder essay on law, liberty, property, and the
+- [[economic-calculation-problem|Economic Calculation Problem]] - the Misesian argument that a socialist commonwealth without private ownership of the means of production cannot calculate
+- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the normative core of the corpus: self-ownership, property, contract, and the non-aggression principle
+- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's distinction between the economic means (production and exchange) and the political means (coercive appropriation)
+- [[friedrich-a-hayek|F. A. Hayek]] - Hayek's place in this wiki as the second pillar of the Austrian tradition
+- [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek's 1948 essay collection containing 'The Use of Knowledge in Society'
+- [[ludwig-von-mises|Ludwig von Mises]] - Mises's place in this wiki as the founder of the modern Austrian School
+- [[man-economy-and-state|Man, Economy, and State]] - Rothbard's Man, Economy, and State treatise, from action-axiom foundations through to intervention theory
+- [[murray-n-rothbard|Murray N. Rothbard]] - Rothbard's place in this wiki as system-builder, economist, and anarcho-capitalist theorist
+- [[road-to-serfdom|The Road to Serfdom]] - Hayek's 1944 warning that central economic planning leads to the erosion of liberty
+- [[socialism|Socialism]] - Mises's 1922 critique of socialism, the original statement of the calculation problem
+- [[the-law|The Law]] - Bastiat's anti-plunder essay on law, liberty, property, and legalized plunder
 
 ## Sources
 

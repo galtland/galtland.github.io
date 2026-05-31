@@ -4,22 +4,28 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [thesis, federal-reserve, monetary-policy, interest-rates, mortgage-rates, housing, credit-expansion, business-cycle, austrian-business-cycle]
 aliases: [May 2026 Fed rate cut, Fed May 2026 mortgage rates, Federal Reserve housing ABCT]
-stance: endorse
-verdict: endorse
-confidence: high
-summary: "Endorses the May 2026 Fed rate cut's immediate mortgage-rate and home-sales response as an early ABCT rate-channel instance: a central-bank cut suppresses the gross market rate, cheapens mortgage credit, pulls demand toward long-lived assets, and can begin the malinvestment sequence when the lower rate is not backed by voluntary saving."
+stance: scenario
+verdict: illustrative-scenario
+confidence: low
+summary: "Illustrative scenario (synthetic prompt, not a confirmed event): applies the ABCT rate channel to a hypothetical Fed rate cut and housing response. A central-bank cut suppresses the gross market rate, cheapens mortgage credit, pulls demand toward long-lived assets, and can begin the malinvestment sequence when the lower rate is not backed by voluntary saving."
 ---
 
 # The May 2026 Fed Rate Cut: ABCT Analysis
 
-> The Federal Reserve cut interest rates by 25 basis points in May 2026, the third cut this year, citing 'cooling labor markets.' Mortgage rates fell to 6.1% the following week and home sales rose 4% in the same period.
+>[!warning] Illustrative scenario — not a sourced event
 >
-> — News post, 2026-05-20
+> The triggering item quoted below is a **synthetic prompt** used to exercise the wiki's analytical framework, not a confirmed news event. Its specific figures, dates, institutions, and any attributed quotations are hypothetical and in several places do **not** match the real-world record. What this page demonstrates is the *framework application* — do not cite the event details as fact.
 
-A Fed cut changes the price of credit before it changes any real stock of saved resources: [[mises-on-credit-expansion|Mises on Credit Expansion]] identifies the act as pressure on the gross market rate, [[credit-and-deferred-payment|Credit and Deferred Payment]] explains why a mortgage is a present-good claim repaid through future payments, and [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] gives the consequence when the lower rate is not backed by voluntary saving. Housing moves early because long-lived assets are rate-sensitive. Mortgage rates falling to 6.1% and home sales rising 4% are therefore not incidental good news. They are the first visible margin of the same distortion [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] calls a cluster of errors: many plans begin to look profitable because the same falsified price has moved.
+
+> *In this scenario,* the Federal Reserve cuts interest rates by 25 basis points — its third cut of the year — citing "cooling labor markets," and mortgage rates ease and home sales rise in the following weeks. (Hypothetical: the real FOMC held its target range in spring 2026.)
+>
+> — Illustrative synthetic prompt (not a sourced news event)
+
+A Fed cut changes the price of credit before it changes any real stock of saved resources: [[mises-on-credit-expansion|Mises on Credit Expansion]] identifies the act as pressure on the gross market rate, [[credit-and-deferred-payment|Credit and Deferred Payment]] explains why a mortgage is a present-good claim repaid through future payments, and [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] gives the consequence when the lower rate is not backed by voluntary saving. Housing moves early because long-lived assets are rate-sensitive. Mortgage rates easing and home sales rising are therefore not incidental good news. They are the first visible margin of the same distortion [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] calls a cluster of errors: many plans begin to look profitable because the same falsified price has moved.
 
 ## The Rate Channel
 
@@ -58,19 +64,19 @@ The narrower claim is categorical: conditional on the post's facts, the directio
 - [[prices-and-production|Prices and Production]] — capital-structure source
 - [[human-action|Human Action]] — Mises's mature cycle statement
 - [[state-power-and-intervention|State Power and Intervention]] — intervention frame for central-bank rate setting
-- [[economic-calculation-problem|Economic Calculation Problem]] - The Misesian argument that a socialist commonwealth without private ownership of
-- [[knowledge-problem|Knowledge Problem]] - Hayek's argument that economic knowledge exists only as dispersed, tacit
-- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - Normative core of the current corpus: self-ownership, property, contract, and the
-- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's distinction between the economic means of
-- [[americas-great-depression|America's Great Depression]] - Reference guide to Rothbard's 1963 application of Austrian Business Cycle Theory to
-- [[friedrich-a-hayek|F. A. Hayek]] - Reference guide to Friedrich Hayek's place in this wiki as the second pillar of
-- [[individualism-and-economic-order|Individualism and Economic Order]] - Reference guide to Hayek's 1948 essay collection containing 'The Use of Knowledge in
-- [[liberalism|Liberalism]] - Reference guide to Mises's short 1927 statement of classical-liberal political
-- [[ludwig-von-mises|Ludwig von Mises]] - Reference guide to Ludwig von Mises's place in this wiki as the founder of modern
-- [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action
-- [[murray-n-rothbard|Murray N. Rothbard]] - Reference guide to Rothbard's place in this wiki as system-builder, economist
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
-- [[road-to-serfdom|The Road to Serfdom]] - Reference guide to Hayek's 1944 warning that central economic planning leads to
+- [[economic-calculation-problem|Economic Calculation Problem]] - the Misesian argument that a socialist commonwealth without private ownership of the means of production cannot calculate
+- [[knowledge-problem|Knowledge Problem]] - Hayek's argument that economic knowledge exists only as dispersed, tacit, context-specific knowledge no planner can centralize
+- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the normative core of the corpus: self-ownership, property, contract, and the non-aggression principle
+- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's distinction between the economic means (production and exchange) and the political means (coercive appropriation)
+- [[americas-great-depression|America's Great Depression]] - Rothbard's 1963 application of Austrian Business Cycle Theory to the 1929 crash and the 1930s
+- [[friedrich-a-hayek|F. A. Hayek]] - Hayek's place in this wiki as the second pillar of the Austrian tradition
+- [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek's 1948 essay collection containing 'The Use of Knowledge in Society'
+- [[liberalism|Liberalism]] - Mises's short 1927 statement of classical-liberal political principles
+- [[ludwig-von-mises|Ludwig von Mises]] - Mises's place in this wiki as the founder of the modern Austrian School
+- [[man-economy-and-state|Man, Economy, and State]] - Rothbard's Man, Economy, and State treatise, from action-axiom foundations through to intervention theory
+- [[murray-n-rothbard|Murray N. Rothbard]] - Rothbard's place in this wiki as system-builder, economist, and anarcho-capitalist theorist
+- [[power-and-market|Power and Market]] - Rothbard's Power and Market (1970), the standalone companion to Man, Economy, and State
+- [[road-to-serfdom|The Road to Serfdom]] - Hayek's 1944 warning that central economic planning leads to the erosion of liberty
 
 ## Sources
 

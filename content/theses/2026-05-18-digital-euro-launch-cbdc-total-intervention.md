@@ -4,26 +4,32 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [thesis, digital-euro, cbdc, ecb, programmable-money, holding-cap, expiring-balances, financial-surveillance, rule-of-law]
 aliases: [digital euro CBDC total intervention, ECB digital euro holding cap, digital euro expiry, 3000 euro holding cap]
-stance: endorse
-verdict: endorse
-confidence: medium
-summary: "Endorses the reported digital-euro holding cap and 12-month inactivity expiry as the CBDC architecture Hillebrand classifies as programmable money: a central-bank liability whose balance limits, expiry clocks, surveillance capacity, and payment rules are enforced by the monetary medium itself."
+stance: scenario
+verdict: illustrative-scenario
+confidence: low
+summary: "Illustrative scenario (synthetic prompt, not a confirmed event): applies Hillebrand's CBDC-as-programmable-money critique to a hypothetical digital-euro design with a per-resident holding cap and an inactivity-expiry clock — a central-bank liability whose balance limits, expiry, surveillance capacity, and payment rules are enforced by the medium itself. (The real ECB project is at the pilot stage, has not fixed these parameters, and states the digital euro would not be programmable money.)"
 ---
 
 # The Digital Euro Holding Cap and Expiring Balances: Analysis
 
-> The European Central Bank confirmed in May 2026 that the digital euro will launch in Q1 2027 with a 3000 euro per-resident holding cap and automatic expiry on unspent balances after 12 months of inactivity.
+>[!warning] Illustrative scenario — not a sourced event
 >
-> — News post, 2026-05-19
+> The triggering item quoted below is a **synthetic prompt** used to exercise the wiki's analytical framework, not a confirmed news event. Its specific figures, dates, institutions, and any attributed quotations are hypothetical and in several places do **not** match the real-world record. What this page demonstrates is the *framework application* — do not cite the event details as fact.
 
-A digital euro that caps each resident at 3000 euros and deletes inactive balances after 12 months turns currency from a passive payment instrument into an administered balance sheet: the cap limits how much state money residents may hold, the expiry penalizes saving, and the ledger makes both commands automatic. [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] names that architecture programmable money; [[state-power-and-intervention|State Power and Intervention]] supplies the autistic, binary, and triangular intervention categories it compresses; [[credit-and-deferred-payment|Credit and Deferred Payment]] explains why expiring balances damage intertemporal exchange; [[hayek-on-rule-of-law|Hayek on the Rule of Law]] gives the institutional consequence: private planning moves from stable monetary rules to administrative discretion in the payment layer.
+
+> *In this scenario,* a digital euro is issued with a per-resident holding cap and automatic expiry on unspent balances after a period of inactivity. (Hypothetical parameters; the actual ECB project is at the pilot stage, has not fixed a launch date or these limits, and states the digital euro would not be programmable money.)
+>
+> — Illustrative synthetic prompt (not a sourced news event)
+
+A digital euro that caps each resident's holdings and deletes inactive balances after a fixed period turns currency from a passive payment instrument into an administered balance sheet: the cap limits how much state money residents may hold, the expiry penalizes saving, and the ledger makes both commands automatic. [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] names that architecture programmable money; [[state-power-and-intervention|State Power and Intervention]] supplies the autistic, binary, and triangular intervention categories it compresses; [[credit-and-deferred-payment|Credit and Deferred Payment]] explains why expiring balances damage intertemporal exchange; [[hayek-on-rule-of-law|Hayek on the Rule of Law]] gives the institutional consequence: private planning moves from stable monetary rules to administrative discretion in the payment layer.
 
 ## Source Bound
 
-The news post supplies the Q1 2027 launch date, the 3000-euro per-resident cap, and the 12-month inactivity-expiry rule. The existing official-source record, [EU Digital Euro Regulation Proposal](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0369), documents adjacent machinery: delegated holding limits, account linking, formal rejection of restrictive "programmable money," permission for conditional payments, and a different issuance timeline in that record. That distinction narrows the claim. The proposal supplies the legal architecture; the news item supplies the reported confirmation that the architecture now carries an expiry parameter.
+The scenario supplies the hypothetical parameters: a launch date, a per-resident holding cap, and an inactivity-expiry rule. The real official-source record, [EU Digital Euro Regulation Proposal](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0369), documents adjacent machinery: delegated holding limits, account linking, a formal rejection of restrictive "programmable money," permission for conditional payments, and a different (later) issuance timeline. That contrast is the point: the proposal supplies the real legal architecture; the scenario merely adds an expiry parameter to stress-test where that architecture could go — it is not a record that the ECB has done so.
 
 ## Caps And Expiry
 
@@ -33,7 +39,7 @@ A holding cap is not a minor prudential setting. It is a balance command. Reside
 
 > CBDCs represent the logical endpoint: programmable money combining all three intervention types.
 
-The 12-month inactivity expiry is the sharper parameter. Cash can be hoarded, lost, spent, or saved. An expiring CBDC adds a time command to the unit itself. The same focused article names the mechanism directly:
+The inactivity expiry is the sharper parameter. Cash can be hoarded, lost, spent, or saved. An expiring CBDC adds a time command to the unit itself. The same focused article names the mechanism directly:
 
 > Money can be programmed to expire, forcing spending and preventing saving; this implements negative interest rates without the zero lower bound.
 
@@ -65,7 +71,7 @@ Announcing today's cap and today's expiry clock does not solve the rule-of-law p
 
 > government in all its actions is bound by rules fixed and announced beforehand
 
-Programmable money inverts the constraint. The resident does not merely obey general law while choosing when to hold or spend. The resident holds a balance whose future usability depends on issuer-controlled design. The 3000-euro cap and 12-month expiry rule matter because they are current parameters of a medium built for later parameters.
+Programmable money inverts the constraint. The resident does not merely obey general law while choosing when to hold or spend. The resident holds a balance whose future usability depends on issuer-controlled design. A holding cap and an inactivity-expiry rule matter because they are parameters of a medium built to carry later parameters.
 
 ## Scope
 
@@ -80,9 +86,9 @@ This analysis does not decide whether the ECB's mandate permits the design, whet
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - administrative discretion and foreseeability
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for surveillance-resistant monetary design
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - source book for the CBDC analysis
-- [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action
-- [[max-hillebrand|Max Hillebrand]] - Short author reference for Max Hillebrand as represented in this wiki by *The
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
+- [[man-economy-and-state|Man, Economy, and State]] - Rothbard's Man, Economy, and State treatise, from action-axiom foundations through to intervention theory
+- [[max-hillebrand|Max Hillebrand]] - author reference for Max Hillebrand, represented in this wiki by *The Praxeology of Privacy*
+- [[power-and-market|Power and Market]] - Rothbard's Power and Market (1970), the standalone companion to Man, Economy, and State
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 
 ## Sources

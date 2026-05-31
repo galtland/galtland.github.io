@@ -3,12 +3,13 @@ title: "Cypherpunk"
 volatility: warm
 category: topic
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [cypherpunk, crypto-anarchy, cryptography, bitcoin, privacy, proof-of-work, austrian-economics, libertarianism]
 aliases: [cypherpunks, crypto-anarchism, cypherpunk movement]
 confidence: medium
-summary: "Topic map for the cypherpunk thread: a 1990s technical-political movement holding that strong cryptography, anonymous protocols, and verifiable scarcity move power from centralized institutions to individuals. This wiki frames cypherpunk as the implementation arm of an Austrian-libertarian political economy: sound money meets strong cryptography."
-short: "Cypherpunk as the implementation arm of Austrian libertarianism: strong cryptography, anonymous protocols, and verifiable scarcity replacing trusted intermediaries with verifiable rules."
+summary: "Topic map for the cypherpunk thread: a 1990s technical-political movement holding that strong cryptography, anonymous protocols, and verifiable scarcity move power from centralized institutions to individuals. This wiki reads cypherpunk through an Austrian-libertarian lens — one implementation thread where sound money meets strong cryptography — while noting that not every cypherpunk shares those politics."
+short: "The wiki's Austrian-libertarian reading of cypherpunk: strong cryptography, anonymous protocols, and verifiable scarcity replacing trusted intermediaries with verifiable rules — one implementation thread, not the whole movement's politics."
 ---
 
 # Cypherpunk
@@ -31,7 +32,7 @@ The technical chain starts before the mailing list existed. [[public-key-cryptog
 
 The wiki treats [[nick-szabo|Nick Szabo]] as the most directly Austrian cypherpunk and the cleanest bridge between the two traditions. [[shelling-out|Shelling Out]] carries Carl Menger's origin-of-money account back into prehistoric collectibles and forward into digital scarcity. The argument matches [[the-theory-of-money-and-credit|Mises's regression theorem]] without being framed in Austrian vocabulary: money's purchasing power must trace back to an object that had value for non-monetary reasons before it became money. [[trusted-third-parties-as-security-holes|Trusted Third Parties Are Security Holes]] extends [[market-anarchism-and-private-law|market-anarchist]] skepticism about centralized authority into protocol-design terms: intermediaries concentrate risk because they become targets, bottlenecks, and points of coercion. [[smart-contracts|Smart Contracts]] (Szabo, 1994) applies the same instinct to contractual performance.
 
-The wiki position is that this is not a coincidence. Szabo writes from inside the cypherpunk movement but reaches conclusions about money, contracts, and property that align with Mises, Rothbard, and Hoppe arrived at decades earlier from praxeology. The bridge is the wiki's most important editorial claim about the cypherpunk thread.
+The wiki position is that this is not a coincidence. Szabo writes from inside the cypherpunk movement but independently reaches Mengerian and Misesian conclusions about the origin and nature of money, together with market-anarchist worries about concentrated control over contracts and property — themes Austrian economists had developed decades earlier. The bridge is offered as the wiki's most important editorial *interpretation* of the cypherpunk thread, not as a claim that Szabo derived his views from praxeology.
 
 ## The Modern Synthesis Writers
 
@@ -94,10 +95,10 @@ Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-200
 - [[zerocash|Zerocash]] - Zcash foundation paper for zk-SNARK private payments
 - [[signal-x3dh|Signal X3DH]] - asynchronous Signal key-agreement specification
 - [[signal-double-ratchet|Signal Double Ratchet]] - Signal messaging ratchet for forward-secure conversations
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
-- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
+- [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
+- [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 
 ## Sources
 

@@ -3,7 +3,8 @@ title: "Privacy and Cryptography"
 volatility: warm
 category: topic
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [privacy, cryptography, cypherpunk, bitcoin, surveillance, austrian-economics, power-projection, national-security]
 aliases: [cypherpunk privacy, privacy technology, cryptographic privacy]
 confidence: medium
@@ -94,11 +95,11 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[signal-x3dh|Signal X3DH]] - asynchronous key agreement for encrypted messaging
 - [[signal-double-ratchet|Signal Double Ratchet]] - per-message ratcheting for forward-secure messaging
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
-- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
-- [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
-- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
-- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
-- [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
+- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material
+- [[coinjoin|CoinJoin and PayJoin]] - two Bitcoin base-layer privacy techniques: CoinJoin merges many users' inputs into one transaction to break address linkage; PayJoin disguises which input is the sender's
+- [[digital-cash-history|Lessons from Digital-Cash History]] - why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped
+- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link back to depositors
+- [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 
 ## Sources
 

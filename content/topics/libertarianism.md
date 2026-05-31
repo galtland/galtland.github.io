@@ -3,7 +3,8 @@ title: "Libertarianism"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-05-12
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [libertarian thought, liberty tradition]
 confidence: medium
@@ -91,7 +92,7 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - news-lens thesis applying the wiki's Austrian and intervention frames to a contemporary case
 - [[2026-05-17-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - news-lens thesis applying ABCT to a contemporary Fed rate cut
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
+- [[power-and-market|Power and Market]] - Rothbard's Power and Market (1970), the standalone companion to Man, Economy, and State
 
 
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
