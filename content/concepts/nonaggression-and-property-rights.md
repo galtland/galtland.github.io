@@ -71,6 +71,10 @@ The wiki holds three distinct defenses of this normative core. [[the-ethics-of-l
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
 - [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
+- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism
+- [[atlas-shrugged|Atlas Shrugged]] - Rand's 1957 novel staging a strike of the world's productive minds as a defense of reason and
+- [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's 1966 collection defending laissez-faire capitalism as the only moral system.
+- [[the-virtue-of-selfishness|The Virtue of Selfishness]] - Rand's 1964 essay collection stating the Objectivist ethics of rational self-interest and its
 
 ## Sources
 

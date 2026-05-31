@@ -2,7 +2,7 @@
 
 > Curated concepts articles.
 
-Last updated: 2026-05-30
+Last updated: 2026-05-31
 
 ## Contents
 
@@ -50,6 +50,7 @@ Last updated: 2026-05-30
 | [Nationalism and State Formation](nationalism-and-state-formation.md) | Tilly's treatment of nationalism as both ruler-driven identification with state ends and minority claims to separate statehood, intertwined with direct rule and national-state formation. | charles-tilly, nationalism, state-formation, citizenship, national-state, war-and-state-formation | 2026-05-12 |
 | [Nonaggression and Property Rights](nonaggression-and-property-rights.md) | Normative core of the current corpus: self-ownership, property, contract, and the rule against initiated force — defended on natural-rights grounds by Rothbard and Hoppe and on consequentialist grounds by Mises. | nonaggression, property-rights, ethics, liberty, classical-liberalism, political-means | 2026-05-10 |
 | [Nostr](nostr.md) | Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where identity is a cryptographic keypair and content is signed events distributed through user-chosen relays — solving the identity-capture problem of centralized platforms. It optimizes for censorship resistance and self-sovereign identity, not anonymity. | nostr, decentralized-social, cypherpunk, public-key-cryptography, identity, relays, censorship-resistance, lightning, privacy, fiatjaf | 2026-05-30 |
+| [Objectivism](objectivism.md) | Objectivism is Ayn Rand's philosophical system: an objective reality knowable by reason, an ethics of rational self-interest, and a politics of individual rights and laissez-faire capitalism. It reaches pro-capitalist conclusions close to the liberty tradition by a distinct, ethics-first route, and is in tension with both Austrian method and anarcho-capitalism. | objectivism, ayn-rand, ethics, rational-self-interest, capitalism, individual-rights, epistemology, reason | 2026-05-31 |
 | [PGP and the Crypto Wars](pgp-and-the-crypto-wars.md) | Zimmermann's PGP argument treats routine strong encryption as a civil-liberties defense against cheap mass surveillance, export controls, key escrow, and domestic pressure to criminalize uncontrolled cryptography. | pgp, crypto-wars, privacy, public-key-cryptography, cypherpunk, export-controls, key-escrow, surveillance | 2026-05-28 |
 | [Political Means and Economic Means](political-means-and-economic-means.md) | Oppenheimer's distinction between the economic means of production-and-voluntary-exchange and the political means of coercive appropriation, later adopted by Nock, Rothbard, and Hoppe and empirically illuminated by Tilly's capital/coercion account of European state formation. | political-means, economic-means, state, exploitation, production, exchange, nonaggression, war-and-state-formation | 2026-05-12 |
 | [Power Projection](power-projection.md) | Lowery's analytic frame for comparing physical-cost power projection with abstract, rule-based power projection, then applying that distinction to proof-of-work and Bitcoin in cyberspace. | power-projection, bitcoin, proof-of-work, physical-cost, national-security, cyberspace | 2026-05-10 |

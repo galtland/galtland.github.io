@@ -48,6 +48,7 @@ This does not make Solzhenitsyn a libertarian. His later political and religious
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power article now including the totalitarian pole
 - [[libertarianism|Libertarianism]] - topic map that uses this source only as non-libertarian testimony on totalitarian rule
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[we-the-living|We the Living]] - Rand's 1936 first novel — the individual crushed by the Soviet collective state. Knowledge-based article
 
 ## Sources
 

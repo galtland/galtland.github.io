@@ -96,6 +96,13 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 
 
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
+- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism
+- [[anthem|Anthem]] - Rand's 1938 anti-collectivist novella about a future that erased the word "I"
+- [[atlas-shrugged|Atlas Shrugged]] - Rand's 1957 novel staging a strike of the world's productive minds as a defense of reason and
+- [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged.
+- [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's 1966 collection defending laissez-faire capitalism as the only moral system.
+- [[we-the-living|We the Living]] - Rand's 1936 first novel — the individual crushed by the Soviet collective state. Knowledge-based article
+
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - Rothbard's full-book overview of doctrine, applications, and strategy
