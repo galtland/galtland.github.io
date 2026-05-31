@@ -52,6 +52,7 @@ Not every libertarian tradition embraces full market anarchism, but this topic w
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook chapters on violence, defense, and law-order themes
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - private-law and legal-theory treatment of Bitcoin property questions
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
+- [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 ## Sources
 

@@ -54,6 +54,7 @@ The confidence here is medium: the lecture text and its argument are reproduced 
 - [[road-to-serfdom|The Road to Serfdom]] - the political application of the same anti-constructivist argument
 - [[denationalisation-of-money|Denationalisation of Money]] - the other major work of Hayek's late period
 - [[austrian-economics|Austrian Economics]] - the spontaneous-order tradition the lecture defends
+- [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 ## Sources
 

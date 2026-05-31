@@ -47,6 +47,8 @@ Hayek's foreseeability condition sits at the level of [[state-power-and-interven
 - [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Holding Cap and Expiring Balances: Analysis]] - newsroom thesis backlink
 
 - [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
+- [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
+
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - "Planning vs. the Rule of Law" chapter — the foreseeability definition, the contrast with discretionary planning, and the legalization-of-arbitrariness corollary

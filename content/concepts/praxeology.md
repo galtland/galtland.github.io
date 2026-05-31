@@ -54,6 +54,7 @@ This is a modern extension rather than a claim Mises himself made. The wiki shou
 - [[praxeology-of-privacy|Praxeology of Privacy]] - Hillebrand's extension of the method to privacy and surveillance
 - [[resistance-axiom|Resistance Axiom]] - contrast case: an implementation assumption rather than a self-evident action axiom
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - source for the privacy extension
+- [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 ## Sources
 
