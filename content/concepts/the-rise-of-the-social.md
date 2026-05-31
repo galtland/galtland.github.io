@@ -3,8 +3,9 @@ title: "The Rise of the Social"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-12
-tags: [hannah-arendt, social-question, public-private, administration, modernity, political-philosophy]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [hannah-arendt, social-question, public-private, administration, modernity, political-philosophy, non-libertarian]
 aliases: [rise of the social, social realm, the social question]
 confidence: medium
 summary: "Arendt's diagnosis that the modern social realm blurs public and private by treating shared life as collective household administration, often displacing public action."

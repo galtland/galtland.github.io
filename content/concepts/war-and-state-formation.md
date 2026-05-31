@@ -3,8 +3,9 @@ title: "War and State Formation"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-12
-tags: [war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, organized-crime, evolution-of-the-state, political-means, historical-sociology, totalitarianism]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, organized-crime, evolution-of-the-state, political-means, historical-sociology, totalitarianism, non-libertarian]
 aliases: [war made the state and the state made war, states as protection rackets, Tilly state formation, capital coercion typology]
 confidence: medium
 summary: "Tilly's historical-sociological thesis that European war-making, extraction, coercive consolidation, capital, and interstate competition jointly produced the national state. The article now rests on the expanded 1990/1992 book ingest plus Tilly's 1985 organized-crime essay for the protection-racket formulation."
@@ -85,7 +86,7 @@ The 2026-05-12 gap-closure pass appended chapters 2, 4, 5, and 7 to the earlier 
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - focused author-on-topic article on the 1985 racketeer formulation.
 - [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - thesis instantiating the four-part war-making/state-making/protection/extraction model in the NATO 2026 spending-floor announcement.
-- [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its
+- [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its ultimate, leaving a permanent legacy of increased state burdens
 
 ## Sources
 

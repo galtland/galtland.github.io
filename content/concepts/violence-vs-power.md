@@ -3,8 +3,9 @@ title: "Violence vs Power"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-12
-tags: [hannah-arendt, violence, power, authority, force, action, totalitarianism]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [hannah-arendt, violence, power, authority, force, action, totalitarianism, non-libertarian]
 aliases: [power versus violence, violence and power, Arendt power]
 confidence: medium
 summary: "Arendt's distinction between power as action-in-concert and violence as instrumental means; violence can destroy power but cannot create the consent-grounded power it replaces."

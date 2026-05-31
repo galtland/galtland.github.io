@@ -3,8 +3,9 @@ title: "Public Happiness"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-12
-tags: [hannah-arendt, public-happiness, revolution, public-freedom, american-revolution, action]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [hannah-arendt, public-happiness, revolution, public-freedom, american-revolution, action, non-libertarian]
 aliases: [public freedom, happiness in public, revolutionary public happiness]
 confidence: medium
 summary: "Arendt's term for the joy and dignity of participating in public freedom, especially in her account of the American revolutionary experience."

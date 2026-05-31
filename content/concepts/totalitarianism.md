@@ -3,8 +3,9 @@ title: "Totalitarianism"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-12
-tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, stalinism, gulag, total-domination, banality-of-evil, state, central-planning, evolution-of-the-state]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, stalinism, gulag, total-domination, banality-of-evil, state, central-planning, evolution-of-the-state, non-libertarian]
 aliases: [totalitarian rule, ideology and terror]
 confidence: medium
 summary: "Arendt's account of totalitarianism as a novel form of government distinct from tyranny, despotism, dictatorship, and authoritarianism: rule through ideology and terror, pursuit of total domination, ordinary bureaucratic participation, and the camp system documented by Solzhenitsyn."

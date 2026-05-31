@@ -3,7 +3,8 @@ title: "Sales Tax Incidence"
 volatility: warm
 category: concept
 created: 2026-04-22
-updated: 2026-04-25
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [sales-tax, taxation, incidence, rothbard]
 aliases: [general sales tax incidence, Rothbard on sales tax, tax incidence]
 confidence: medium
@@ -46,7 +47,7 @@ This concept sits at the intersection of [[austrian-economics|Austrian Economics
 - [[murray-n-rothbard|Murray N. Rothbard]] - author reference for the current corpus
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
 - [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis applying the general no-forward-shifting claim to the May 2026 EU wealth-tax directive
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
+- [[power-and-market|Power and Market]] - Rothbard's Power and Market (1970), the standalone companion to Man, Economy, and State
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 
 ## Sources

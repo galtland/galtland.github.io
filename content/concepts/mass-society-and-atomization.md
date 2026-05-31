@@ -3,8 +3,9 @@ title: "Mass Society and Atomization"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-10
-tags: [mass-society, atomization, hannah-arendt, totalitarianism, loneliness, thoughtlessness, gulag, social-power, state, civic-association]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [mass-society, atomization, hannah-arendt, totalitarianism, loneliness, thoughtlessness, gulag, social-power, state, civic-association, non-libertarian]
 aliases: [mass society, atomization, political loneliness, isolated masses]
 confidence: medium
 summary: "Arendt's account of the social preconditions of totalitarianism: class and community breakdown produce isolated, interchangeable masses available for total mobilization. Eichmann adds the thoughtlessness layer; Solzhenitsyn documents the Gulag as both product and enforcer of atomization."

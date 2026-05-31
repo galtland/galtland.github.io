@@ -3,8 +3,9 @@ title: "Banality of Evil"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-12
-tags: [banality-of-evil, hannah-arendt, eichmann, bureaucracy, thoughtlessness, moral-judgment, totalitarianism, state]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [banality-of-evil, hannah-arendt, eichmann, bureaucracy, thoughtlessness, moral-judgment, totalitarianism, state, non-libertarian]
 aliases: [the banality of evil, thoughtlessness, ordinary evil, bureaucratic evil]
 confidence: medium
 summary: "Arendt's thesis from *Eichmann in Jerusalem*: Eichmann's evil was not demonic depth but a terrifying normality rooted in bureaucratic compliance, cliche, law-abiding self-presentation, and an inability to think morally from another standpoint."

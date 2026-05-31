@@ -4,6 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-18
 updated: 2026-05-18
+verified: 2026-05-31
 tags: [rothbard, wealth-tax, taxation, capital-consumption, accumulated-capital, power-and-market]
 summary: "Rothbard's wealth-tax incidence analysis: a tax on accumulated wealth cannot be capitalized or shifted, so it penalizes saving and investment and directly consumes the capital stock."
 aliases: [Rothbard wealth tax, tax on individual wealth, Power and Market 4C, accumulated-capital tax]

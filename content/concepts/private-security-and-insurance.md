@@ -4,6 +4,7 @@ volatility: warm
 category: concept
 created: 2026-04-22
 updated: 2026-05-06
+verified: 2026-05-31
 tags: [private-security, insurance, defense-agencies, protection, classical-liberalism]
 aliases: [production of security, private defense agencies, competitive security]
 confidence: medium

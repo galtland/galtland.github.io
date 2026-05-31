@@ -5,6 +5,7 @@ category: concept
 type: concept
 created: 2026-05-19
 updated: 2026-05-19
+verified: 2026-05-31
 tags: [mises, minimum-wage, wage-rates, price-control, unemployment, human-action]
 aliases: [Mises minimum wage, Mises on minimum wage rates, minimum wage rates]
 short: "Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages."

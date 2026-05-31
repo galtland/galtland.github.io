@@ -3,7 +3,8 @@ title: "Mises on Capital Consumption"
 volatility: warm
 category: concept
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [mises, capital-consumption, antiliberal-policy, liberalism, taxation, redistribution]
 summary: "Mises's claim that antiliberal policy is a policy of capital consumption — providing for the present at the expense of the future by drawing down the productive stock that funds future output."
 aliases: [Mises capital consumption, antiliberal policy, Liberalism Part I §5]
@@ -36,7 +37,7 @@ The political-economy companion is the Oppenheimer/Nock distinction. The politic
 
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's fiat-life frame extending capital-consumption concerns into monetary engineering
 - [[the-fiat-standard|The Fiat Standard]] - source for fiat capital destruction and related social effects
-- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Reference guide to Hoppe's 2001 regime-comparison book on monarchy, democracy, time
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's 2001 regime-comparison book on monarchy, democracy, time preference, and decivilization
 
 ## Sources
 

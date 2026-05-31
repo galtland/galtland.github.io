@@ -5,6 +5,7 @@ category: concept
 type: concept
 created: 2026-05-24
 updated: 2026-05-24
+verified: 2026-05-31
 tags: [hoppe, sdr, imf, monetary-policy, world-currency, central-banking]
 aliases: [Hoppe SDRs, Hoppe on SDRs, Special Drawing Rights, SDRs]
 short: "Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking."

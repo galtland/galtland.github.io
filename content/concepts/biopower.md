@@ -4,6 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-12
 updated: 2026-05-12
+verified: 2026-05-31
 tags: [michel-foucault, biopower, population, sovereignty, state-racism, public-health, non-libertarian]
 aliases: [bio-power, biopolitics, make live and let die]
 confidence: medium

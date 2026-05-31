@@ -4,6 +4,7 @@ volatility: warm
 category: concept
 created: 2026-04-21
 updated: 2026-05-10
+verified: 2026-05-31
 tags: [market-anarchism, private-law, arbitration, defense-agencies, classical-liberalism]
 aliases: [anarcho-capitalism, private law society, market provision of law]
 confidence: medium

@@ -3,8 +3,9 @@ title: "Citizenship and State Bargaining"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-12
-tags: [charles-tilly, citizenship, state-formation, bargaining, taxation, rights, war-and-state-formation]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [charles-tilly, citizenship, state-formation, bargaining, taxation, rights, war-and-state-formation, non-libertarian]
 aliases: [states and citizens, citizen bargaining, state-citizen bargaining]
 confidence: medium
 summary: "Tilly's account of citizenship as a byproduct of rulers' bargaining with subjects for taxes, manpower, credit, and compliance in the course of war-making and direct rule."

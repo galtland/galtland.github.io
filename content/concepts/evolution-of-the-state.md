@@ -4,6 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-05-12
+verified: 2026-05-31
 tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-theory, consent, legitimacy, war-and-state-formation, totalitarianism, mass-society]
 aliases: [state evolution, historical state formation, state formation, conquest theory of the state]
 confidence: medium

@@ -3,7 +3,8 @@ title: "Political Means and Economic Means"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-12
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [political-means, economic-means, state, exploitation, production, exchange, nonaggression, war-and-state-formation]
 aliases: [economic means, political means, Oppenheimer distinction, production versus predation]
 confidence: medium
@@ -71,11 +72,11 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 
 
 - [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
-- [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
-- [[mises-on-capital-consumption|Mises on Capital Consumption]] - Mises's *Liberalism* Part I §5 claim that 'antiliberal policy is a policy of capital
-- [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its
-- [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - Tilly's 1985 claim that war making and state making are quintessential protection
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
+- [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion
+- [[mises-on-capital-consumption|Mises on Capital Consumption]] - Mises's *Liberalism* Part I §5 claim that antiliberal policy is a policy of capital consumption
+- [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its ultimate, leaving a permanent legacy of increased state burdens
+- [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - Tilly's 1985 claim that war making and state making are quintessential protection rackets with the advantage of legitimacy
+- [[power-and-market|Power and Market]] - Rothbard's Power and Market (1970), the standalone companion to Man, Economy, and State
 
 
 - [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink

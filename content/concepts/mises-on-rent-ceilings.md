@@ -3,7 +3,8 @@ title: "Mises on Rent Ceilings"
 volatility: warm
 category: concept
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [mises, rent-control, price-control, housing, vienna, austrian-economics]
 summary: "Mises on rent control: a ceiling below the market rent produces an immediate housing shortage, illustrated by interwar Vienna where suppressed rents left no affordable dwellings despite a shrinking population."
 aliases: [Mises on rent control, rent ceiling shortage, Vienna rent abolition]
@@ -13,7 +14,7 @@ short: "Mises's claim in *Liberalism* that a residential-rent ceiling produces a
 
 # Mises on Rent Ceilings
 
-> "When the government fixes a ceiling on residential rents, a housing shortage immediately ensues. In Austria, the Social Democratic Party has virtually abolished residential rent. The consequence is that in the city of Vienna, for example, in spite of the fact that the population has declined considerably since the beginning of the World War and that hundreds of new houses were constructed by the municipality, no one can find an inexpensive dwelling. The demand for low-priced apartments exceeds by far the supply available."
+> "When the government fixes a ceiling on residential rents, a housing shortage immediately ensues. In Austria, the Social Democratic Party has virtually abolished residential rent. The consequence is that in the city of Vienna, for example, in spite of the fact that the population has declined considerably since the beginning of the World War and that several thousand new houses have been constructed by the municipality in the meantime, many thousands of persons are unable to find accommodations."
 >
 > — [[ludwig-von-mises|Mises]], [[liberalism|Liberalism]]
 
@@ -28,7 +29,7 @@ The Vienna instance is the worked example: rent-controlled units stay nominally 
 - [[liberalism|Liberalism]] — full-text source
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference page
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]] — thesis applying the Mises rent-ceiling claim to the Argentine case
-- [[economic-calculation-problem|Economic Calculation Problem]] - The Misesian argument that a socialist commonwealth without private ownership of
+- [[economic-calculation-problem|Economic Calculation Problem]] - the Misesian argument that a socialist commonwealth without private ownership of the means of production cannot calculate
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 
 ## Sources

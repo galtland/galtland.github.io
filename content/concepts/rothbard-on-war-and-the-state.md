@@ -4,6 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-16
 updated: 2026-05-18
+verified: 2026-05-31
 tags: [rothbard, war, state, defense, conscription, militarism, anatomy-of-the-state]
 summary: "Rothbard's claim in Anatomy of the State that war pushes state power to its ultimate, and that every modern war leaves a permanent legacy of increased state burdens on society."
 aliases: [war is the health of the state, war and state power, permanent legacy of war]

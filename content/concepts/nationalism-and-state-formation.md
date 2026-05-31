@@ -3,8 +3,9 @@ title: "Nationalism and State Formation"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-12
-tags: [charles-tilly, nationalism, state-formation, citizenship, national-state, war-and-state-formation]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [charles-tilly, nationalism, state-formation, citizenship, national-state, war-and-state-formation, non-libertarian]
 aliases: [nationalism and the state, national-state nationalism, minority nationalism]
 confidence: medium
 summary: "Tilly's treatment of nationalism as both ruler-driven identification with state ends and minority claims to separate statehood, intertwined with direct rule and national-state formation."

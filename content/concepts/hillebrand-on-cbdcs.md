@@ -3,11 +3,13 @@ title: "Hillebrand on Central Bank Digital Currencies"
 volatility: warm
 category: concept
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-31
+verified: 2026-05-31
 tags: [cbdc, central-bank-digital-currency, hillebrand, programmable-money, financial-surveillance, total-intervention]
 summary: "Max Hillebrand's argument that central bank digital currencies fuse surveillance, monetary, and behavioral control into one programmable mechanism — 'total intervention,' not a mere digital banknote."
 aliases: [Hillebrand CBDC, CBDC as total intervention, programmable central bank money]
 short: "Hillebrand's Ch. 10 §10.5 claim that CBDCs are not digital cash but programmable money that combines Rothbard's autistic, binary, and triangular intervention types into a single architecture for observation and control."
+confidence: medium
 ---
 
 # Hillebrand on Central Bank Digital Currencies
@@ -31,13 +33,13 @@ The verdict follows: "Money that can be surveilled and controlled is not sound m
 - [[state-power-and-intervention|State Power and Intervention]] — broader intervention frame
 - [[privacy-and-cryptography|Privacy and Cryptography]] — topic map for resistance to financial surveillance
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - Hayek's Road to Serfdom claim that the rule of law means government action is bound
-- [[man-economy-and-state|Man, Economy, and State]] - Reference guide to Rothbard's full Man, Economy, and State aggregate: action
+- [[man-economy-and-state|Man, Economy, and State]] - Rothbard's Man, Economy, and State treatise, from action-axiom foundations through to intervention theory
 
 
 - [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Holding Cap and Expiring Balances: Analysis]] - newsroom thesis backlink
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
-- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
+- [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material
 
 ## Sources
 

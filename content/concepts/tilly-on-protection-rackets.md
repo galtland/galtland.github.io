@@ -3,8 +3,9 @@ title: "Tilly on Protection Rackets"
 volatility: warm
 category: concept
 created: 2026-05-16
-updated: 2026-05-18
-tags: [charles-tilly, protection-racket, war-and-state-formation, organized-crime, extraction, historical-sociology]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [charles-tilly, protection-racket, war-and-state-formation, organized-crime, extraction, historical-sociology, non-libertarian]
 summary: "Charles Tilly's formulation that war-making and state-making are 'quintessential protection rackets with the advantage of legitimacy' — a sociological convergence with the Austrian state-as-predator thesis."
 aliases: [Tilly protection racket, war-making state-making protection extraction, Tilly 1985 on rackets]
 confidence: high

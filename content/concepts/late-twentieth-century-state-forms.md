@@ -3,8 +3,9 @@ title: "Late-Twentieth-Century State Forms"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-12
-tags: [charles-tilly, state-formation, military-rule, postcolonial-states, national-state, late-twentieth-century]
+updated: 2026-05-31
+verified: 2026-05-31
+tags: [charles-tilly, state-formation, military-rule, postcolonial-states, national-state, late-twentieth-century, non-libertarian]
 aliases: [soldiers and states in 1992, contemporary state forms, military misdevelopment]
 confidence: medium
 summary: "Tilly's Chapter 7 extension from European state formation to late-twentieth-century military rule, postcolonial states, soldiers in power, and the limits of exporting Europe's path."
