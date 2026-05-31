@@ -18,7 +18,7 @@ short: "Rand's set-piece moral defense of money: a tool of exchange grounded in 
 
 ## The Setting
 
-The speech is prompted at a lavish wedding-anniversary party for Hank Rearden, when James Taggart repeats the cliché "Money is the root of all evil." Francisco — the copper heir who is secretly one of the strikers — turns the remark into a sustained reply. The dramatic irony is heavy: the partygoers are the "men of pull" who live by political favor, and Francisco's defense of *earned* money is an indictment of the people listening. The passage is one of the novel's set-piece statements of [[objectivism|Objectivism]], comparable in function to Galt's later radio address.
+The speech comes at James Taggart's wedding to Cherryl Brooks (Part Two, ch. 2, "The Aristocracy of Pull"). The cliché that "money is the root of all evil" is in the air — James Taggart had used it earlier in the scene — and the immediate prompt is an aside by the journalist Bertram Scudder. Francisco d'Anconia — the copper heir who is secretly one of the strikers — turns it into a sustained reply. The dramatic irony is heavy: the guests are the political profiteers of the "aristocracy of pull" the chapter is named for, so Francisco's defense of *earned* money is an indictment of the people listening. The passage is one of the novel's set-piece statements of [[objectivism|Objectivism]], comparable in function to Galt's later radio address.
 
 ## Money Presupposes Production
 
@@ -26,7 +26,7 @@ Francisco's first move is to ask "what is the root of money?" His answer is that
 
 > "Money is a tool of exchange, which can't exist unless there are goods produced and men able to produce them. Money is the material shape of the principle that men who wish to deal with one another must deal by trade and give value for value."
 
-Money, on this account, is "made possible only by the men who produce," not by "the moochers, who claim your product by tears, or … the looters, who take it from you by force." Behind production stands the mind: "man's mind is the root of all the goods produced and of all the wealth that has ever existed on earth." Wealth is "the product of man's capacity to think," so money earned in trade is a token of that productive effort — "your claim upon the energy of the men who produce" — rather than something extracted at others' expense.
+Money, on this account, is "made possible only by the men who produce" — not the tool "of the moochers, who claim your product by tears, or of the looters, who take it from you by force." Behind production stands the mind: "man's mind is the root of all the goods produced and of all the wealth that has ever existed on earth." Wealth, he says, "is the product of man's capacity to think", so money earned in trade is a token of that productive effort — "your claim upon the energy of the men who produce" — rather than something extracted at others' expense.
 
 ## Money as the Code of the Trader
 
@@ -34,7 +34,7 @@ The center of the speech is the **trader principle**: money formalizes voluntary
 
 > "To trade by means of money is the code of the men of good will. Money rests on the axiom that every man is the owner of his mind and his effort."
 
-Money "permits no deals except those to mutual benefit by the unforced judgment of the traders," and under it "the degree of a man's productiveness is the degree of his reward." This ties the speech directly to the Objectivist ethics of rational self-interest and to the wiki's [[nonaggression-and-property-rights|non-aggression / property-rights]] theme: the alternative to trade is force — "their only substitute, if they abandon money, is the muzzle of a gun." Francisco also insists money is "only a tool," an *effect* and not a *cause*: it cannot supply values, purpose, or virtue to someone who lacks them — "Money is a living power that dies without its root."
+Money "permits no deals except those to mutual benefit by the unforced judgment of the traders", and under it "the degree of a man's productiveness is the degree of his reward". This ties the speech directly to the Objectivist ethics of rational self-interest and to the wiki's [[nonaggression-and-property-rights|non-aggression / property-rights]] theme: the alternative to trade is force — their "only substitute, if they abandon money, is the muzzle of a gun". Francisco also insists money is "only a tool" — an *effect* and not a *cause* — that cannot supply values, purpose, or virtue to someone who lacks them: "Money is a living power that dies without its root."
 
 ## Gold, Fiat, and the "Account Overdrawn"
 
@@ -42,7 +42,7 @@ The speech closes on a monetary-political warning that maps closely onto the wik
 
 > "Money is the barometer of a society's virtue."
 
-When trade is "done, not by consent, but by compulsion," and "money is flowing to those who deal, not in goods, but in favors," the society is "doomed." The mechanism is monetary debasement: "Whenever destroyers appear among men, they start by destroying money." He draws the gold-versus-paper contrast explicitly — "Gold was an objective value, an equivalent of wealth produced. Paper is a mortgage on wealth that does not exist, backed by a gun aimed at those who are expected to produce it" — and ends on the image of fiat as "a check drawn by legal looters upon an account which is not theirs," to be watched for "the day when it bounces, marked: 'Account overdrawn.'"
+When trade is "done, not by consent, but by compulsion", and "money is flowing to those who deal, not in goods, but in favors", the society is "doomed". The mechanism is monetary debasement — "Whenever destroyers appear among men, they start by destroying money". He draws the gold-versus-paper contrast explicitly — "Gold was an objective value, an equivalent of wealth produced. Paper is a mortgage on wealth that does not exist, backed by a gun aimed at those who are expected to produce it" — and ends on the image of fiat as "a check drawn by legal looters upon an account which is not theirs", to be watched for "the day when it bounces, marked: 'Account overdrawn.'"
 
 ## Relation to the Wiki's Money Concepts
 
