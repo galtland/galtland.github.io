@@ -30,7 +30,7 @@ In the forest the couple finds a house surviving from the Unmentionable Times, f
 
 ## How it prefigures Rand's individualism
 
-*Anthem* is the most distilled statement of the ethics Rand would later elaborate as [[objectivism|Objectivism]]: the moral primacy of the individual, the self as an end in itself, and the rejection of altruism and collectivism as the negation of the human spirit. Written in 1938, it is an early, almost fable-like sketch of themes she developed at full length in [[the-fountainhead|The Fountainhead]] (1943) and [[atlas-shrugged|Atlas Shrugged]] (1957). Alongside [[we-the-living|We the Living]] (1936), it belongs to Rand's early anti-collectivist period, dramatizing in fiction the endpoint that the wiki analyzes more soberly under [[totalitarianism|Totalitarianism]].
+*Anthem* is the most distilled statement of the ethics Rand would later elaborate as [[objectivism|Objectivism]]: the moral primacy of the individual, the self as an end in itself, and the rejection of altruism and collectivism as the negation of the human spirit. Written in 1938, it is an early, almost fable-like sketch of themes she developed at full length in [[the-fountainhead|The Fountainhead]] (1943) and [[atlas-shrugged|Atlas Shrugged]] (1957). Alongside *We the Living* (1936), it belongs to Rand's early anti-collectivist period, dramatizing in fiction the endpoint that the wiki analyzes more soberly under [[totalitarianism|Totalitarianism]].
 
 ## Publication, revision, and public-domain status
 
@@ -41,10 +41,8 @@ In the forest the couple finds a house surviving from the Unmentionable Times, f
 - [[objectivism|Objectivism]] - the individualist philosophy the novella prefigures
 - [[the-fountainhead|The Fountainhead]] - Rand's first major individualist novel
 - [[atlas-shrugged|Atlas Shrugged]] - the mature statement
-- [[we-the-living|We the Living]] - the other early anti-collectivist novel
 - [[totalitarianism|Totalitarianism]] - the wiki's non-libertarian analysis of the collectivist endpoint Anthem dramatizes
 - [[libertarianism|Libertarianism]] - broader individualist tradition
-- [[for-the-new-intellectual|For the New Intellectual]] - Rand's 1961 manifesto for reason-based intellectuals plus an anthology of the philosophical set-pieces from her novels.
 
 ## Sources
 - [Anthem (Full Text)](https://www.gutenberg.org/cache/epub/1250/pg1250.txt) - the 1938 novella, US public domain (Project Gutenberg)

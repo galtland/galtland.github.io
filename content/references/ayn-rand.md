@@ -20,13 +20,13 @@ short: "Novelist-philosopher (1905-1982), founder of Objectivism; author of The 
 
 Born Alisa Zinovyevna Rosenbaum in St. Petersburg in 1905, Rand witnessed the Bolshevik confiscation of her father's pharmacy and the imposition of Soviet collectivism as a young woman. She emigrated to the United States in 1926, took the pen name Ayn Rand, and worked in Hollywood before establishing herself as a novelist. Her firsthand experience of revolutionary Russia supplies the emotional core of her anti-collectivism: she treated the subordination of the individual to the collective not as an abstract error but as something she had watched destroy lives.
 
-Her first novel, [[we-the-living|We the Living]] (1936), is set in Soviet Russia and is the most autobiographical. The dystopian novella [[anthem|Anthem]] (1938) followed. Fame came with *The Fountainhead* (1943) and then *Atlas Shrugged* (1957), after which she turned mainly to non-fiction and to building the Objectivist movement until her death in 1982.
+Her first novel, *We the Living* (1936), is set in Soviet Russia and is the most autobiographical. The dystopian novella [[anthem|Anthem]] (1938) followed. Fame came with *The Fountainhead* (1943) and then *Atlas Shrugged* (1957), after which she turned mainly to non-fiction and to building the Objectivist movement until her death in 1982.
 
 ## The Work and Its Argument
 
 Rand's distinctive method is to argue moral philosophy through dramatized fiction and then to state it explicitly in essays. The novels present the producer — the architect, the industrialist, the inventor — as the engine of civilization, and they treat the demand that the producer live for others as the root evil. The non-fiction generalizes this into a system: reason as the only means of knowledge, rational self-interest as the proper standard of ethics, and laissez-faire capitalism as the only social system consistent with individual rights.
 
-[[the-virtue-of-selfishness|The Virtue of Selfishness]] (1964) states the ethics; [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] (1966) states the politics; [[for-the-new-intellectual|For the New Intellectual]] (1961) collects the philosophical set-pieces from the novels and issues a call for a culture grounded in reason.
+[[the-virtue-of-selfishness|The Virtue of Selfishness]] (1964) states the ethics; [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] (1966) states the politics; *For the New Intellectual* (1961) collects the philosophical set-pieces from the novels and issues a call for a culture grounded in reason.
 
 ## Relation to the Austro-Libertarian Tradition
 
@@ -40,10 +40,8 @@ But she was not an Austrian economist and did not present economic theory in Mis
 - [[atlas-shrugged|Atlas Shrugged]] - her 1957 magnum opus
 - [[the-fountainhead|The Fountainhead]] - her 1943 novel of the independent creator
 - [[anthem|Anthem]] - her 1938 anti-collectivist novella
-- [[we-the-living|We the Living]] - her 1936 first novel, set in Soviet Russia
 - [[the-virtue-of-selfishness|The Virtue of Selfishness]] - the Objectivist ethics
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - the Objectivist politics
-- [[for-the-new-intellectual|For the New Intellectual]] - philosophical passages from the novels plus the title manifesto
 - [[libertarianism|Libertarianism]] - the broader tradition she influenced but declined to join
 - [[austrian-economics|Austrian Economics]] - the economics she admired without adopting its method
 

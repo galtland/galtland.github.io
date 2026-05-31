@@ -52,9 +52,7 @@ The Fountainhead became one of the best-known American novels of individualism a
 - [[objectivism|Objectivism]] - the philosophy behind the novel's individualism
 - [[atlas-shrugged|Atlas Shrugged]] - Rand's later, fuller statement
 - [[anthem|Anthem]] - the anti-collectivist novella
-- [[we-the-living|We the Living]] - Rand's first novel
 - [[the-virtue-of-selfishness|The Virtue of Selfishness]] - the ethics of egoism stated directly
-- [[for-the-new-intellectual|For the New Intellectual]] - Rand's 1961 manifesto for reason-based intellectuals plus an anthology of the philosophical set-pieces from her novels.
 
 ## Sources
 - [The Fountainhead (Full Text Aggregate)](https://archive.org/details/rand-ayn-the-fountainhead) - the 1943 novel with Rand's introduction (non-official OCR scan; quote-check against an authorized edition)

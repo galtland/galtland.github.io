@@ -53,7 +53,6 @@ This is **minarchism**, and it should not be confused with [[market-anarchism-an
 - [[objectivism|Objectivism]] - the system whose ethics branch this book states
 - [[atlas-shrugged|Atlas Shrugged]] - the same ethics dramatized in fiction
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - the companion politics volume
-- [[for-the-new-intellectual|For the New Intellectual]] - the philosophical manifesto
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the wiki's parallel rights framework, reached by a different route
 - [[the-fountainhead|The Fountainhead]] - Rand's 1943 individualist novel of the uncompromising architect Howard Roark.
 

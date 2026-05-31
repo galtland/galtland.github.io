@@ -101,7 +101,6 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[atlas-shrugged|Atlas Shrugged]] - Rand's 1957 novel staging a strike of the world's productive minds as a defense of reason and
 - [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged.
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's 1966 collection defending laissez-faire capitalism as the only moral system.
-- [[we-the-living|We the Living]] - Rand's 1936 first novel — the individual crushed by the Soviet collective state. Knowledge-based article
 
 ## Sources
 

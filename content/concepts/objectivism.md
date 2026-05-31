@@ -48,9 +48,7 @@ The tensions are equally real and worth stating. Objectivism is a closed philoso
 - [[libertarianism|Libertarianism]] - the broader tradition Objectivism overlaps and disputes
 - [[austrian-economics|Austrian Economics]] - the economic school Rand admired without adopting its method
 - [[anthem|Anthem]] - Rand's 1938 anti-collectivist novella about a future that erased the word "I"
-- [[for-the-new-intellectual|For the New Intellectual]] - Rand's 1961 manifesto for reason-based intellectuals plus an anthology of the philosophical set-pieces from her novels.
 - [[the-fountainhead|The Fountainhead]] - Rand's 1943 individualist novel of the uncompromising architect Howard Roark.
-- [[we-the-living|We the Living]] - Rand's 1936 first novel — the individual crushed by the Soviet collective state
 
 ## Sources
 

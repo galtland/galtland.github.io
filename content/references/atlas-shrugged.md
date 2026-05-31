@@ -52,8 +52,6 @@ The plot is a vehicle for the philosophy laid out in [[objectivism|Objectivism]]
 - [[anthem|Anthem]] - the earlier anti-collectivist novella
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the wiki's parallel rights framework
 - [[libertarianism|Libertarianism]] - the broader tradition the novel influenced
-- [[for-the-new-intellectual|For the New Intellectual]] - Rand's 1961 manifesto for reason-based intellectuals plus an anthology of the philosophical set-pieces from her novels.
-- [[we-the-living|We the Living]] - Rand's 1936 first novel — the individual crushed by the Soviet collective state
 
 ## Sources
 - [Atlas Shrugged (Full Text Aggregate)](https://archive.org/details/atlas-shrugged-35th-anniversary-edition-ayn-rand) - the 1957 novel (non-official OCR scan; quote-check against an authorized edition)

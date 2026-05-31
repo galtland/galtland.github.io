@@ -92,7 +92,6 @@ The useful synthesis is limited: libertarian sources explain why state monopoly 
 - [[state-of-exception|State of Exception]] - reciprocal link.
 - [[the-human-condition|The Human Condition]] - reciprocal link.
 - [[anthem|Anthem]] - Rand's 1938 anti-collectivist novella about a future that erased the word "I"
-- [[we-the-living|We the Living]] - Rand's 1936 first novel — the individual crushed by the Soviet collective state. Knowledge-based article
 
 ## Sources
 

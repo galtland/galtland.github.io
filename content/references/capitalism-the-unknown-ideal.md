@@ -44,7 +44,6 @@ The raw source for this article is a partial, non-official OCR scan (Internet Ar
 - [[austrian-economics|Austrian Economics]] - the economic school Rand admired without adopting its method
 - [[libertarianism|Libertarianism]] - the broader pro-capitalist tradition
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the rights framework underlying the moral case
-- [[for-the-new-intellectual|For the New Intellectual]] - Rand's 1961 manifesto for reason-based intellectuals plus an anthology of the philosophical set-pieces from her novels.
 
 ## Sources
 - [Capitalism: The Unknown Ideal (Full Text Aggregate)](https://archive.org/details/CapitalismTheUnknownIdeal) - the 1966 collection; PARTIAL non-official OCR scan (front matter + opening essay only); quote-check against an authorized edition
