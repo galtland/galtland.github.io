@@ -79,6 +79,7 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[digital-cash-history|Lessons from Digital-Cash History]] - why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link back to depositors
+- [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 
 ## Sources
 

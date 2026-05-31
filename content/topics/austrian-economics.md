@@ -87,6 +87,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism
 - [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged.
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's 1966 collection defending laissez-faire capitalism as the only moral system.
+- [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 
 ## Sources
 

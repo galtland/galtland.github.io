@@ -49,6 +49,7 @@ The tensions are equally real and worth stating. Objectivism is a closed philoso
 - [[austrian-economics|Austrian Economics]] - the economic school Rand admired without adopting its method
 - [[anthem|Anthem]] - Rand's 1938 anti-collectivist novella about a future that erased the word "I"
 - [[the-fountainhead|The Fountainhead]] - Rand's 1943 individualist novel of the uncompromising architect Howard Roark.
+- [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 
 ## Sources
 

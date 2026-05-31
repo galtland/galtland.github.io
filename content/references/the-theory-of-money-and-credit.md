@@ -78,6 +78,7 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components
 - [[the-mystery-of-banking|The Mystery of Banking]] - Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, banking, and
+- [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 
 ## Sources
 

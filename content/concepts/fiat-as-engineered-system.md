@@ -70,6 +70,7 @@ Confidence is medium. The article can describe Ammous's framing with high confid
 - [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay framing Bitcoin as a civilizational exit from fiat finance
 - [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through a speculative attack on weak currencies
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
+- [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 
 ## Sources
 

@@ -52,6 +52,7 @@ The plot is a vehicle for the philosophy laid out in [[objectivism|Objectivism]]
 - [[anthem|Anthem]] - the earlier anti-collectivist novella
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the wiki's parallel rights framework
 - [[libertarianism|Libertarianism]] - the broader tradition the novel influenced
+- [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 
 ## Sources
 - [Atlas Shrugged (Full Text Aggregate)](https://archive.org/details/atlas-shrugged-35th-anniversary-edition-ayn-rand) - the 1957 novel (non-official OCR scan; quote-check against an authorized edition)
