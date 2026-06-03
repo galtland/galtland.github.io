@@ -62,6 +62,8 @@ The Austrian-libertarian frame cannot reason about CPI movements, QE episodes, b
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] - the end-to-end mechanism of Austrian credit expansion: banks drop the loan rate to place new fiduciary media, distorting entrepreneurial calculation
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: how M2's time-deposit and money-fund components contaminate the cycle signal, and why TMS is the cleaner aggregate
 
+
+- [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Mises's typology of money-substitutes (Ch. III); the Excursus on inflation and deflation (Ch. VII §7) that makes demand constitutive of the definition

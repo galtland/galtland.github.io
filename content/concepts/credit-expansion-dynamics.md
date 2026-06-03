@@ -80,6 +80,8 @@ How to detect that this mechanism is in progress is a separate question handled 
 - [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] — Salerno's aggregate for diagnosing the money-supply side of the mechanism
 - [[money-sound-and-unsound|Money, Sound and Unsound]] — Salerno collection tying the measurement and cycle-theory pieces together
 
+
+- [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Part III Ch. XX: the rate-suppression and fresh-loan-rolling passages quoted in stages 1 and the long-run section

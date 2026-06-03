@@ -80,6 +80,8 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 - [[the-mystery-of-banking|The Mystery of Banking]] - Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, banking, and
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 
+
+- [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) - full 1953 Yale edition PDF (500 pp.) as a wiki-ingestable aggregate, including all four parts plus appendices

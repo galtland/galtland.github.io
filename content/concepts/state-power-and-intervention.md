@@ -157,6 +157,8 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 
+
+- [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 ## Sources
 
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - concise anti-state statement
