@@ -33,7 +33,6 @@ The political-economy companion is the Oppenheimer/Nock distinction. The politic
 - [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] — institutional companion: the democratic property structure that systematically rewards the policy class
 - [[political-means-and-economic-means|Political Means and Economic Means]] — Oppenheimer/Nock sociological companion
 - [[state-power-and-intervention|State Power and Intervention]] — broader intervention-as-cumulative-process frame
-- [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] — thesis applying the policy-class frame to the May 2026 EU directive
 
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's fiat-life frame extending capital-consumption concerns into monetary engineering
 - [[the-fiat-standard|The Fiat Standard]] - source for fiat capital destruction and related social effects

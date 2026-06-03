@@ -33,7 +33,7 @@ Rothbard also stressed that intervention is **self-propagating**: each intervent
 
 ## Application: Financial Surveillance and CBDCs
 
-[[the-praxeology-of-privacy|Hillebrand]] uses the taxonomy as the threat model for financial privacy. Today's surveillance is mostly triangular because citizens hold money substitutes (claims on commercial banks), forcing the state to work through intermediaries. A [[hillebrand-on-cbdcs|central bank digital currency]] collapses the distinction: by giving citizens digital base money as direct central-bank balances, a CBDC lets the state prohibit transactions in the medium itself (autistic), read and extract from its own ledger without subpoenas (binary), and impose acceptance and compliance rules on private exchanges (triangular) — all three at once. Hillebrand calls this **total intervention**, and it is why the [[2026-05-18-digital-euro-launch-cbdc-total-intervention|digital-euro analysis]] reads the ECB's design through this lens.
+[[the-praxeology-of-privacy|Hillebrand]] uses the taxonomy as the threat model for financial privacy. Today's surveillance is mostly triangular because citizens hold money substitutes (claims on commercial banks), forcing the state to work through intermediaries. A [[hillebrand-on-cbdcs|central bank digital currency]] collapses the distinction: by giving citizens digital base money as direct central-bank balances, a CBDC lets the state prohibit transactions in the medium itself (autistic), read and extract from its own ledger without subpoenas (binary), and impose acceptance and compliance rules on private exchanges (triangular) — all three at once. Hillebrand calls this **total intervention**.
 
 ## See Also
 
@@ -46,7 +46,6 @@ Rothbard also stressed that intervention is **self-propagating**: each intervent
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - CBDCs as the convergence of all three intervention types
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's prior distinction the taxonomy refines
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - applies the taxonomy as a financial-surveillance threat model
-- [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis instantiating the typology in the ECB's digital-euro architecture
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
 

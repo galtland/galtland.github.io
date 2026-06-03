@@ -36,7 +36,6 @@ The verdict follows: "Money that can be surveilled and controlled is not sound m
 - [[man-economy-and-state|Man, Economy, and State]] - Rothbard's Man, Economy, and State treatise, from action-axiom foundations through to intervention theory
 
 
-- [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Holding Cap and Expiring Balances: Analysis]] - newsroom thesis backlink
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material

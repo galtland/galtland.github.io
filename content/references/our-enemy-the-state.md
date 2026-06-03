@@ -47,7 +47,6 @@ The supplied raw extraction contains six chapters, not five. This reference foll
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's later use of Nock's categories
 - [[libertarianism|Libertarianism]] - broader topic context for Nock's Old Right anti-statism
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
-- [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis applying Nock's state-power-absorbing-social-power vocabulary to the May 2026 EU wealth-tax directive
 
 ## Sources
 

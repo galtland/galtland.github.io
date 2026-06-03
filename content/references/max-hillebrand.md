@@ -34,7 +34,6 @@ The distinctive contribution is not a new Austrian economics textbook. It is the
 - [[resistance-axiom|Resistance Axiom]] - methodological assumption Hillebrand uses for resistant systems
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map where Hillebrand's implementation material belongs
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article drawn from Ch. 10 of [[the-praxeology-of-privacy|The Praxeology of Privacy]]
-- [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis applying Hillebrand's CBDC frame to the ECB's confirmed digital-euro design
 
 ## Sources
 

@@ -58,7 +58,6 @@ The article is especially important for [[war-and-state-formation|War and State 
 - [[libertarianism|Libertarianism]] - topic map that situates Tilly outside the libertarian program
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - focused author-on-topic article on the 1985 racketeer formulation drawn from this essay.
-- [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - thesis applying Tilly's four-part model to NATO's May 2026 spending-floor decision.
 
 ## Sources
 

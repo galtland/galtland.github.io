@@ -49,9 +49,7 @@ In the current reference set, this book is the compressed companion to [[for-a-n
 - [[franz-oppenheimer|Franz Oppenheimer]] - author of the state definition Rothbard adopts
 - [[albert-jay-nock|Albert Jay Nock]] - author of the social-power/state-power vocabulary Rothbard invokes
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
-- [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - thesis applying Rothbard's defense-and-emergency-slogans passage and the Bourne "war is the health of the State" endorsement to NATO's May 2026 spending-floor decision
 - [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - focused author-on-topic article on the defense-and-emergency-slogans passage from this book
-- [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis citing Rothbard's adoption of Oppenheimer's political-means definition in critique of the May 2026 EU directive
 
 ## Sources
 

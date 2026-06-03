@@ -32,7 +32,6 @@ The mechanism scales beyond a single jurisdiction. When multiple democratic gove
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] — companion praxeological frame; Mises identifies the policy class, Hoppe identifies the institutional structure that produces it
 - [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] — focused article on the specific tax instrument that operates most directly on the capital stock the caretaker has the strongest incentive to consume
 - [[state-power-and-intervention|State Power and Intervention]] — broader intervention-as-cumulative-process frame
-- [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] — thesis applying the caretaker frame to a treaty-bound supranational wealth tax
 
 ## Sources
 

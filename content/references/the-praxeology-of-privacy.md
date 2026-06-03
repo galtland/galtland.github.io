@@ -47,7 +47,6 @@ The book also rejects a simple "information is property" view. Its property-righ
 
 - [[max-hillebrand|Max Hillebrand]] - author reference for this book in the current wiki
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article drawn from Ch. 10 of this volume
-- [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis applying Ch. 10 §10.5 to the ECB's confirmed digital-euro architecture
 - [[praxeology-of-privacy|Praxeology of Privacy]] - concept article for the book's theoretical core
 - [[resistance-axiom|Resistance Axiom]] - Voskuil/Hillebrand assumption about technically resistant systems
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for the implementation side

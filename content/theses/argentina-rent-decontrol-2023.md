@@ -73,7 +73,6 @@ This is an endorsement of fit, not a full empirical decomposition of Argentina's
 
 ## Sources
 
-- [Argentina rent-decontrol news post](/news/2026-05-18-argentina-abolished-rent-price-controls-in-late-2023-rental-listings-in-buenos-aires-more-than-doubled-in-the-first-six) - news item being analyzed
 - [Liberalism: In the Classical Tradition](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises on residential rent ceilings and housing shortage
 - [Human Action: A Treatise on Economics](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - Mises on urban rent transfer and rent restrictions
 - [Power and Market: Government and the Economy](https://mises.org/online-book/power-and-market-government-and-economy) - Rothbard on maximum-price controls and artificial shortage

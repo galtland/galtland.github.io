@@ -39,9 +39,7 @@ The argument scales upward. Hayek's analysis of *national* planning carries over
 - [[individualism-and-economic-order|Individualism and Economic Order]] — Hayek's theoretical companion volume
 
 
-- [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 
-- [[2026-05-19-imf-conditionality-supranational-political-means|The IMF Carbon-Budget and Wage-Floor Conditionality: Analysis]] - newsroom thesis backlink
 - [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
 
 ## Sources
