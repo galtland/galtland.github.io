@@ -51,6 +51,8 @@ In the current reference set, this book is the compressed companion to [[for-a-n
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - focused author-on-topic article on the defense-and-emergency-slogans passage from this book
 
+
+- [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - full aggregated source from the Mises online-book edition

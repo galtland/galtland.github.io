@@ -38,6 +38,8 @@ The claim sits inside the broader [[state-power-and-intervention|State Power and
 - [[state-power-and-intervention|State Power and Intervention]] — wiki synthesis page
 
 
+
+- [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Anatomy of the State (Full Text)](https://mises.org/online-book/anatomy-state) — Rothbard's "How States Preserve Themselves" chapter; verbatim source for the war/defense/emergency slogan analysis and the permanent-burden formulation

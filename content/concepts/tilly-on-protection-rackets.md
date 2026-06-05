@@ -39,6 +39,8 @@ The broader [[war-and-state-formation|War and State Formation]] article situates
 - [[state-power-and-intervention|State Power and Intervention]] — wiki synthesis page
 
 
+
+- [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) — Tilly's 1985 essay; the verbatim "quintessential protection rackets" formulation and the racketeer-creates-the-threat definition

@@ -2,7 +2,7 @@
 
 > Where Austrian economics meets cypherpunk code. Political philosophy, monetary theory, cryptography, history, and the arguments that bind them. Published at https://index.galtland.org/.
 
-Last updated: 2026-06-03
+Last updated: 2026-06-05
 
 ## Statistics
 
@@ -29,6 +29,8 @@ Last updated: 2026-06-03
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-06-05: thesis -- added `2026-06-04-trump-ceasefire-moderate-shooting`; regenerated newsroom indexes and backlinks.
 
 - 2026-06-03: thesis -- added `2026-06-03-fomc-april-2026-rate-hold`; regenerated newsroom indexes and backlinks.
 
