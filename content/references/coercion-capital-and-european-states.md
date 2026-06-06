@@ -70,6 +70,8 @@ The usefulness for this wiki is comparative. Tilly converges with [[oppenheimer-
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis whose Tilly coverage gap this expanded raw source closes
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - Tilly's 1985 claim that war making and state making are quintessential protection
 
+
+- [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 Moderate-Shooting Ceasefire Remark: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - expanded aggregate now covering chapters 1-7; chapters 2, 4, 5, and 7 appended on 2026-05-12

@@ -2,7 +2,7 @@
 
 > Where Austrian economics meets cypherpunk code. Political philosophy, monetary theory, cryptography, history, and the arguments that bind them. Published at https://index.galtland.org/.
 
-Last updated: 2026-06-05
+Last updated: 2026-06-06
 
 ## Statistics
 

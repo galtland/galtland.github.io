@@ -47,6 +47,8 @@ The book should therefore be used as an upstream sociological source. It should 
 - [[libertarianism|Libertarianism]] - broader topic that appropriates Oppenheimer's state theory without adopting his whole politics
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
+
+- [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 Moderate-Shooting Ceasefire Remark: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - full-text Project Gutenberg aggregate with chapters and notes

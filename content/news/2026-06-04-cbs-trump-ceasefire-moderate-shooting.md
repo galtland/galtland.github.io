@@ -15,7 +15,7 @@ Verbatim excerpt from CBS News (Tucker Reals, Sarah Lynch Baldwin, Khaled Wassef
 
 Asked how he defines a ceasefire, President Trump said: "Pretty much the way it is. That's a different part of the world. You know, I'd say in that part of the world, a ceasefire is when you're shooting in a more moderate manner."
 
-CBS's reporting on the surrounding events: "Kuwait said Wednesday that an Iranian missile and drone attack hit its international airport, killing one person and wounding dozens more, as the ceasefire between Iran and the U.S. looked increasingly fragile after yet another exchange of fire." Iran "claims it launched a retaliatory attack on U.S. military bases in Kuwait after another set of airstrikes by American forces, which Central Command called 'self-defense strikes' on Iranian military positions."
+CBS's reporting on the surrounding events: "Kuwait said Wednesday that an Iranian missile and drone attack hit its international airport, killing one person and wounding dozens more, as the ceasefire between Iran and the U.S. looked increasingly fragile after yet another exchange of fire." Iran "claims it launched a retaliatory attack on U.S. military bases in Kuwait after another set of airstrikes by American forces, which Central Command called 'self-defense strikes' on Iranian military positions." Separately, "Israel and Lebanon agreed Wednesday to renew their fragile ceasefire."
 
 The remark was also reported by The Washington Times and circulated as a video clip on X (x.com/i/status/2062268282040635616).
 
