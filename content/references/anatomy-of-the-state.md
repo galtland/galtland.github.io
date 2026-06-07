@@ -53,6 +53,8 @@ In the current reference set, this book is the compressed companion to [[for-a-n
 
 
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
+
+- [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - full aggregated source from the Mises online-book edition
