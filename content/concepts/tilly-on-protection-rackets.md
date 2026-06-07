@@ -43,6 +43,8 @@ The broader [[war-and-state-formation|War and State Formation]] article situates
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
+- [[stateless-somalia|Stateless Somalia]] - the predatory-state case study
+- [[non-interventionism|Non-Interventionism]] - blowback as the threat-creation pattern abroad
 ## Sources
 
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) — Tilly's 1985 essay; the verbatim "quintessential protection rackets" formulation and the racketeer-creates-the-threat definition

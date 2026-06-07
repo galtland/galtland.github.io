@@ -16,7 +16,7 @@ short: "Rothbard's claim in *Anatomy of the State* that war pushes state power t
 
 > "In war, State power is pushed to its ultimate, and, under the slogans of 'defense' and 'emergency,' it can impose a tyranny upon the public such as might be openly resisted in time of peace. War thus provides many benefits to a State, and indeed every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society."
 >
-> — Murray N. Rothbard, [[anatomy-of-the-state|Anatomy of the State]] (1974), "How States Preserve Themselves."
+> — Murray N. Rothbard, [[anatomy-of-the-state|Anatomy of the State]] (1974), "What the State Fears."
 
 ## The Permanent-Burden Claim
 
@@ -42,6 +42,7 @@ The claim sits inside the broader [[state-power-and-intervention|State Power and
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
+- [[non-interventionism|Non-Interventionism]] - the normative non-intervention stance that pairs with this war-power ratchet
 ## Sources
 
-- [Anatomy of the State (Full Text)](https://mises.org/online-book/anatomy-state) — Rothbard's "How States Preserve Themselves" chapter; verbatim source for the war/defense/emergency slogan analysis and the permanent-burden formulation
+- [Anatomy of the State (Full Text)](https://mises.org/online-book/anatomy-state) — Rothbard's "What the State Fears" chapter; verbatim source for the war/defense/emergency slogan analysis and the permanent-burden formulation

@@ -75,6 +75,7 @@ The wiki holds three distinct defenses of this normative core. [[the-ethics-of-l
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's 1966 collection defending laissez-faire capitalism as the only moral system.
 - [[the-virtue-of-selfishness|The Virtue of Selfishness]] - Rand's 1964 essay collection stating the Objectivist ethics of rational self-interest and its
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
+- [[non-interventionism|Non-Interventionism]] - the foreign-policy application of the nonaggression axiom
 
 ## Sources
 

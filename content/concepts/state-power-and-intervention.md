@@ -61,7 +61,7 @@ That distinction sharpens rather than weakens the anti-state analysis. The moder
 
 ## The Calculation and Knowledge Arguments
 
-The wiki's case against central planning rests on two complementary Austrian theses. [[economic-calculation-problem|The economic-calculation problem]] — opened by [[ludwig-von-mises|Mises in 1922]] — argues that planners without genuine market prices for capital goods cannot perform the calculations needed to allocate resources. [[knowledge-problem|Hayek's knowledge problem]] — set out in [[individualism-and-economic-order|Individualism and Economic Order]] — adds that even granting formal feasibility, the dispersed knowledge that real prices summarize is not available to planners as a unified body of facts. [[friedrich-a-hayek|Hayek]]'s [[road-to-serfdom|The Road to Serfdom]] is the political application: the planners' attempt to substitute administrative discretion for the market signals they suppress drives the rule of law toward arbitrary power.
+The wiki's case against central planning rests on two complementary Austrian theses. [[economic-calculation-problem|The economic-calculation problem]] — opened by [[ludwig-von-mises|Mises in 1920]] and extended in his 1922 *Socialism* — argues that planners without genuine market prices for capital goods cannot perform the calculations needed to allocate resources. [[knowledge-problem|Hayek's knowledge problem]] — set out in [[individualism-and-economic-order|Individualism and Economic Order]] — adds that even granting formal feasibility, the dispersed knowledge that real prices summarize is not available to planners as a unified body of facts. [[friedrich-a-hayek|Hayek]]'s [[road-to-serfdom|The Road to Serfdom]] is the political application: the planners' attempt to substitute administrative discretion for the market signals they suppress drives the rule of law toward arbitrary power.
 
 ## Obedience, Myth, and Legitimacy
 
@@ -161,6 +161,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
+- [[stateless-somalia|Stateless Somalia]] - empirical evidence for the predatory-state frame
 ## Sources
 
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - concise anti-state statement
@@ -179,7 +180,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [Thus Spake Zarathustra: The New Idol (Part I, Ch. XI)](https://www.gutenberg.org/ebooks/1998) - early non-libertarian articulation of the state-as-monster framing
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - non-libertarian national-security account of abstract power hierarchies and physical-cost checks
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - Tilly's explicit organized-crime/protection-racket essay
-- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - non-libertarian historical sociology of war-making, extraction, protection, and state capacity; partial text with chapters 1, 3, and 6 only
+- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - non-libertarian historical sociology of war-making, extraction, protection, and state capacity; full text, chapters 1-7
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - conquest-origin thesis and political/economic means distinction
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - social power, state power, and American historical application
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR source for Hoppe's monarchy-to-democracy regime comparison

@@ -6,11 +6,11 @@ Last updated: 2026-06-07
 
 ## Statistics
 
-- Sources: 110 raw documents (+ 14 news-lens items)
-- Articles: 164 compiled wiki articles (75 concepts, 82 references, 2 theses, 5 topics)
+- Sources: 119 raw documents (+ 14 news-lens items)
+- Articles: 181 compiled wiki articles (81 concepts, 90 references, 5 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-30
-- Last lint: 2026-05-29
+- Last lint: 2026-06-07
 - Last librarian scan: 2026-05-30 (0 stale, 0 low-quality; 18 articles human-verified)
 
 ## Quick Navigation
@@ -33,6 +33,8 @@ Last updated: 2026-06-07
 - 2026-06-07: thesis -- added `2026-06-07-somalia-2006-intervention-blowback`; regenerated newsroom indexes and backlinks.
 
 - 2026-06-05: thesis -- added `2026-06-04-trump-ceasefire-moderate-shooting`; regenerated newsroom indexes and backlinks.
+
+- 2026-06-07: compile — corpus enrichment: added concepts `stateless-somalia` (Leeson, *Better Off Stateless*) and `non-interventionism` (Rothbard, *War, Peace, and the State*) with 2 raw sources and 8 reciprocal See-Also backlinks — closing the war/intervention coverage gap surfaced when the ceasefire and Somalia theses cited near-identical concepts.
 
 - 2026-06-03: thesis -- added `2026-06-03-fomc-april-2026-rate-hold`; regenerated newsroom indexes and backlinks.
 

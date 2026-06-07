@@ -81,6 +81,8 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
+- [[non-interventionism|Non-Interventionism]] - war as the political means operating across borders
+- [[stateless-somalia|Stateless Somalia]] - the predatory-state case the means distinction predicts
 ## Sources
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - original political/economic means distinction and state definition
