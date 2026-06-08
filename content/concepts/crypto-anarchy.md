@@ -73,6 +73,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[digital-cash-history|Lessons from Digital-Cash History]] - why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
+- [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the agorist counter-economy strategy this operationalizes
 
 ## Sources
 
