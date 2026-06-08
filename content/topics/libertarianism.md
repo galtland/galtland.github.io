@@ -104,6 +104,8 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged.
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's 1966 collection defending laissez-faire capitalism as the only moral system.
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - Rothbard's full-book overview of doctrine, applications, and strategy

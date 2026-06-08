@@ -30,6 +30,8 @@ Last updated: 2026-06-08
 
 ## Recent Changes
 
+- 2026-06-08: thesis -- added `2026-06-08-libertarianism-and-the-adoption-problem`; regenerated newsroom indexes and backlinks.
+
 - 2026-06-07: thesis -- added `2026-06-07-somalia-2006-intervention-blowback`; regenerated newsroom indexes and backlinks.
 
 - 2026-06-05: thesis -- added `2026-06-04-trump-ceasefire-moderate-shooting`; regenerated newsroom indexes and backlinks.

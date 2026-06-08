@@ -52,6 +52,8 @@ Sumner is a non-libertarian descriptive sociologist; like Tilly and Arendt elsew
 - [[state-power-and-intervention|State Power and Intervention]] - the "we" camouflage that fuses people with the state
 - [[libertarianism|Libertarianism]] - the doctrine whose adoption this sentiment works against
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [Folkways: We-Group, Out-Group, and Ethnocentrism (extract)](https://www.gutenberg.org/ebooks/24253) - Sumner's secs 13-15 on the we-group/out-group distinction and ethnocentrism

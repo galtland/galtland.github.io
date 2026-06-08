@@ -42,6 +42,8 @@ This book works as the bridge between Rothbard the economist and Rothbard the po
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 - [[power-and-market|Power and Market]] - Rothbard's companion volume on government intervention
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - full aggregated source used for this reference article

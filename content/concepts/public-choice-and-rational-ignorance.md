@@ -53,6 +53,8 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[evolution-of-the-state|Evolution of the State]] - the regime-and-incentives layer of the state critique
 - [[libertarianism|Libertarianism]] - the doctrine whose adoption problem this diagnoses
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) - Shughart's entry on rational ignorance, the logic of collective action, and government failure

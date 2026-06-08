@@ -57,6 +57,8 @@ The parallel economy is the cypherpunk-implementation cousin of **agorism / coun
 - [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - Konkin's counter-economy that this cypherpunk stack implements
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 21 "Building the Parallel Economy" (with chs. 2 and 10 on convergence and the observation loop)

@@ -56,6 +56,8 @@ The popular framing of "two Mises disciples with different economic ideas" is ha
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - Hayek's limited-government alternative
 - [[austrian-economics|Austrian Economics]] - the shared tradition within which they diverge
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [Mises and Hayek Dehomogenized (Salerno 1993)](https://mises.org/library/mises-and-hayek-dehomogenized) - the two-paradigm argument (Mises/Böhm-Bawerk vs Hayek/Wieser-Kirzner)

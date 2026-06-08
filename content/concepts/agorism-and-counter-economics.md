@@ -44,6 +44,8 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 - [[the-politics-of-obedience|The Politics of Obedience]] - the withdrawal-of-consent diagnosis agorism operationalizes
 - [[libertarianism|Libertarianism]] - the doctrine whose strategy question agorism answers
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto) - Konkin's 1980 founding statement of agorism and counter-economics

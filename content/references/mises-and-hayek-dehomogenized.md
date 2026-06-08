@@ -53,6 +53,8 @@ The article's confidence is high as a report of Salerno's own argument. Its broa
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [Mises and Hayek Dehomogenized](https://mises.org/library/mises-and-hayek-dehomogenized) - primary 1993 paper from Review of Austrian Economics 6, no. 2
