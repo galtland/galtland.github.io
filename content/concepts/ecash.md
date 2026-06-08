@@ -3,8 +3,8 @@ title: "Ecash and Chaumian Mints"
 volatility: warm
 category: concept
 created: 2026-05-30
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-08
+verified: 2026-06-08
 confidence: high
 tags: [ecash, chaumian-mint, cashu, fedimint, blind-signatures, bitcoin, privacy, custody, digital-cash, cypherpunk]
 aliases: [ecash, chaumian ecash, chaumian mint, Cashu, Fedimint, federated mint]
@@ -28,13 +28,21 @@ This is the same Chaumian machinery that powered [[digital-cash-history|DigiCash
 
 ## The Custody Tradeoff
 
-Ecash improves transaction privacy but reintroduces **custody risk**, which is exactly what [[trusted-third-parties-as-security-holes|Szabo's "trusted third parties are security holes"]] warns about. The hierarchy of trust across Bitcoin's privacy options is explicit in Hillebrand's account:
+Ecash improves transaction privacy but reintroduces **custody risk**, which is exactly what [[trusted-third-parties-as-security-holes|Szabo's argument that trusted third parties are security holes]] warns about. The hierarchy of trust across Bitcoin's privacy options is explicit in Hillebrand's account:
 
 - **Base-layer Bitcoin** is non-custodial but transparent (see [[coinjoin|CoinJoin and PayJoin]] for on-chain privacy).
 - **[[lightning-network|Lightning]]** ([Lightning Network](lightning-network.md)) preserves *unilateral exit*: a user can always reclaim funds on-chain without counterparty cooperation.
 - **Ecash** offers no such guarantee. If the mint goes offline, the deposited bitcoin cannot be redeemed. Ecash is therefore a **money substitute** — a claim on someone else's bitcoin — not a layer of Bitcoin itself, echoing the money-proper-versus-money-substitute distinction central to [[hard-money|hard money]] and [[hundred-percent-reserve-banking|100% reserve banking]].
 
 Federation softens but does not remove the risk: users trade trusting one operator for trusting that a threshold of guardians will not collude — weaker than a single operator, stronger than the trustlessness of self-custody. Ecash is thus best understood as a deliberate, scoped privacy-for-custody trade, useful for small balances and everyday spending rather than savings.
+
+## Cypherpunk prehistory: Finney, 1994
+
+The custody question is not new to ecash; it was visible to the cypherpunks who first imagined it. In Hal Finney's 1994 note to the cypherpunks list, [The Beauty of eCash](https://www.cypherpunkbooks.com/book/the-beauty-of-ecash) — written about the Chaumian "Magic Money" implementation — he drew the exact historical parallel that the custody tradeoff above formalizes: bank-issued private money is only as good as the issuing bank.
+
+> Unfortunately, capitalism is a dynamic system and in those days bank failures were no more unusual than corporate failures are today. When this happened, the bank's notes became worthless.
+
+Finney was describing pre-1861 American private banknotes, then speculating "that digital cash might lead to an electronic system with some similarities to those old days." That is the ecash custody risk seen thirty years early: a blind-signed token is a claim on an issuer, and issuers fail. The bulk of his note is a playful proposal to make a banknote's *validity* visible as beauty (seeding cellular automata and fractals from the cash, so only correctly-signed notes render a pretty pattern) — an early gesture at the cypherpunk instinct to bind cryptographic truth to something a human can see.
 
 ## See Also
 
@@ -51,3 +59,4 @@ Federation softens but does not remove the risk: users trade trusting one operat
 ## Sources
 
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 15 §15.10 on Chaumian ecash applied to Bitcoin, Cashu single-operator mints, Fedimint federated custody, and the privacy-versus-custody tradeoff
+- [The Beauty of eCash](https://www.cypherpunkbooks.com/book/the-beauty-of-ecash) - Hal Finney's 1994 cypherpunks-list note: the Magic Money implementation, the pre-1861 private-banknote parallel, and the issuer-failure (custody) risk

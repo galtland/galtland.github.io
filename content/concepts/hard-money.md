@@ -36,7 +36,7 @@ Hardness is a continuum, not a binary. The historical sequence runs roughly:
 
 - **Shell beads, wampum, rai stones, cattle**: hard in pre-industrial settings, soft once external technology cheapens production. Saifedean's canonical example in *The Bitcoin Standard* is West African aggry-bead currency, which European industrially-produced glass beads gradually debased over decades.
 - **Silver**: hard during ancient and medieval periods, gradually softer as mining technology improved and silver-to-gold ratios shifted.
-- **Gold**: the longest-running hard money. Hardness derives from chemical inertness, rarity in Earth's crust, and the energy cost of extracting marginal ounces. Industrial-mining technology has compressed gold's stock-to-flow ratio from historical highs but it remains the hardest pre-Bitcoin money.
+- **Gold**: the longest-running hard money. Hardness derives from chemical inertness, rarity in Earth's crust, and the energy cost of extracting marginal ounces. On Saifedean's account annual mining adds only a small fraction to the accumulated above-ground stock, so gold's stock-to-flow ratio stays high — which is why it remained the hardest pre-Bitcoin money.
 - **Bank-issued claims redeemable in gold**: hardness depends on the redemption being honored at face value. Fractional-reserve banking partially debauches the underlying hardness because the supply of claims can exceed the supply of underlying metal.
 - **Pure fiat (post-1971)**: zero physical production cost; issuance is a keyboard operation. See [[fiat-as-engineered-system|Fiat as Engineered System]] for Saifedean's account of fiat as a debt-money engineering specification with its own incentive logic and second-order effects.
 - **Bitcoin**: hardest money ever produced by Saifedean's measure. The protocol fixes a 21-million-unit cap and a halving schedule, so the stock-to-flow ratio rises monotonically until issuance approaches zero. Hardness comes from the [[proof-of-work|Proof of Work]] cost function plus the protocol's consensus rules.
@@ -81,6 +81,7 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link back to depositors
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[ideal-money|Ideal Money]] - Nash's non-Austrian convergence on stable-value money (managed-index route)
 
 ## Sources
 

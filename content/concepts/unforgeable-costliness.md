@@ -72,6 +72,7 @@ Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; 
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
+- [[ideal-money|Ideal Money]] - Nash's managed-index alternative that the market-chosen route answers
 
 ## Sources
 

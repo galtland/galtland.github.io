@@ -72,6 +72,7 @@ Confidence is medium. The article can describe Ammous's framing with high confid
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[ideal-money|Ideal Money]] - Nash's game-theoretic version of the managed-inflation critique
 
 ## Sources
 
