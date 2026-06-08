@@ -54,7 +54,13 @@ But the same articles mark the limit of the disagreement: the schools share a pr
 
 The corpus's distinctive move is to stop trying to beat nationalism at mass belonging and route around it. Three strategies recur.
 
-First, **withdrawal**. If domination rests on habitual cooperation, it dissolves when cooperation is withdrawn — *"Resolve to serve no more, and you are at once freed."* Liberation becomes partly a withdrawal problem, not only an argument to be won.
+First, **withdrawal**. If domination rests on habitual cooperation, it dissolves when that cooperation is withdrawn. La Boétie's [[the-politics-of-obedience|The Politics of Obedience]] compresses the whole strategy into a single line:
+
+> Resolve to serve no more, and you are at once freed.
+>
+> — Étienne de la Boétie, *The Discourse of Voluntary Servitude*
+
+Liberation becomes partly a withdrawal problem, not only an argument to be won.
 
 Second, **the long battle over opinion**. Because rule rests on manufactured opinion, [[for-a-new-liberty|For a New Liberty]] treats education and the contest of ideas as the decisive front — meeting the state on the ideological ground where its real strength lies, and holding radical principle while being realistic about steps.
 
