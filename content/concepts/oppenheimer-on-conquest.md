@@ -3,9 +3,11 @@ title: "Oppenheimer On Conquest"
 volatility: warm
 category: concept
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-08
+verified: 2026-06-08
 tags: [franz-oppenheimer, conquest-theory, state, political-means, exploitation]
 aliases: [Oppenheimer conquest thesis, conquest origin of the state, state by conquest]
+confidence: high
 short: "Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association."
 ---
 
@@ -23,8 +25,12 @@ The qualification matters. Oppenheimer was not a Rothbardian, and his reform pol
 
 ## See Also
 
-- [[oppenheimer-the-state|The State]]
-- [[political-means-and-economic-means|Political Means and Economic Means]]
-- [[evolution-of-the-state|Evolution of the State]]
-- [[franz-oppenheimer|Franz Oppenheimer]]
+- [[oppenheimer-the-state|The State]] - Oppenheimer's primary text; source of the conquest definition
+- [[political-means-and-economic-means|Political Means and Economic Means]] - the production-versus-appropriation distinction conquest installs
+- [[evolution-of-the-state|Evolution of the State]] - how the conquest origin is refined across historical stages
+- [[franz-oppenheimer|Franz Oppenheimer]] - author reference
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
+
+## Sources
+
+- [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - Oppenheimer's conquest definition of the state and the political-means account of class domination

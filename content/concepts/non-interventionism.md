@@ -46,6 +46,8 @@ This is the *normative* libertarian argument (who may justly use force), distinc
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - the threat-creation pattern behind blowback
 - [[stateless-somalia|Stateless Somalia]] - the post-intervention case study
 
+
+- [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [War, Peace, and the State](https://mises.org/library/war-peace-and-state) - Rothbard's 1963 essay; the non-aggression axiom applied to war, the taxpayer-aggression argument, and the non-intervention objective

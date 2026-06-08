@@ -40,6 +40,8 @@ This is descriptive development economics, not anarcho-capitalist political theo
 - [[non-interventionism|Non-Interventionism]] - the foreign-policy frame for what happened to Somalia after 2006
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - the protector-as-predator test the Somali state failed
 
+
+- [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Better Off Stateless: Somalia Before and After Government Collapse](https://www.peterleeson.com/Better_Off_Stateless.pdf) - Leeson's 2007 paper; the 18-indicator comparison and the "did more harm than good" verdict

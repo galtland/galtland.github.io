@@ -75,6 +75,7 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [[totalitarianism|Totalitarianism]] - Arendt's account of the twentieth-century pathological-development pole
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social preconditions in Arendt's account
 - [[state-power-and-intervention|State Power and Intervention]] - main anti-state concept article now extended by the historical layer
+- [[oppenheimer-on-conquest|Oppenheimer on Conquest]] - focused concept on Oppenheimer's conquest theory of state origins
 - [[oppenheimer-the-state|The State]] - primary source for conquest origin and state-stage theory
 - [[coercion-capital-and-european-states|Coercion, Capital, and European States]] - Tilly book reference for war-making and capital/coercion paths
 - [[charles-tilly|Charles Tilly]] - author reference for the historical-sociology source
