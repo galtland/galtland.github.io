@@ -57,6 +57,9 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
 - [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
 - [[crypto-anarchy|Crypto Anarchy]] - cypherpunk strategy for moving voluntary exchange beyond ordinary state surveillance and control
+- [[agorism-and-counter-economics|Agorism and Counter-Economics]] - Konkin's strategy-by-exit: grow the counter-economy until it displaces the state
+- [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - why liberty is systematically under-supplied through the ballot box
+- [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - the we-group/ethnocentrism sentiment nationalism mobilizes and individualism works against
 - [[timothy-c-may|Timothy C. May]] - author of the Crypto Anarchist Manifesto and the Cyphernomicon
 - [[austrian-economics|Austrian Economics]] - economic framework attached to the political philosophy here
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - major non-Rothbard author node for property theory and non-state institutions
@@ -97,7 +100,7 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 - [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism
 - [[anthem|Anthem]] - Rand's 1938 anti-collectivist novella about a future that erased the word "I"
-- [[atlas-shrugged|Atlas Shrugged]] - Rand's 1957 novel staging a strike of the world's productive minds as a defense of reason and
+- [[atlas-shrugged|Atlas Shrugged]] - Rand's 1957 novel staging a strike of the world's productive minds as a defense of reason and laissez-faire capitalism
 - [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged.
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's 1966 collection defending laissez-faire capitalism as the only moral system.
 
@@ -118,7 +121,7 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - American application of the state-evolution argument
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR regime-comparison source
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - Tilly's explicit protection-racket essay
-- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial non-libertarian historical-sociology source for war-making, coercion, capital, and state formation
+- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - full-text (chapters 1-7) non-libertarian historical-sociology source for war-making, coercion, capital, and state formation
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - non-libertarian source distinguishing totalitarianism from tyranny, dictatorship, authoritarianism, and ordinary state coercion
 - [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - non-libertarian source for ordinary bureaucratic participation and banality of evil
 - [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - non-libertarian Soviet camp-system witness for total domination

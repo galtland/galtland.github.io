@@ -70,6 +70,7 @@ This concept is separated from totalitarianism because it is a precondition rath
 - [[abstract-power-hierarchies|Abstract Power Hierarchies]] - adjacent account of abstract authority and centralized control
 - [[our-enemy-the-state|Our Enemy, the State]] - Nock's social-power/state-power comparator
 - [[libertarianism|Libertarianism]] - topic map that situates this non-libertarian source as a diagnostic supplement
+- [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - the we-group shape the lonely mass craves
 
 ## Sources
 

@@ -17,13 +17,13 @@ summary: "Hillebrand's strategic synthesis: an integrated stack of privacy-prese
 
 ## The Convergence of Foundations
 
-Hillebrand builds the parallel economy on three axioms that operate at different levels but point the same way. The **action axiom** establishes that privacy *is* — information asymmetry between actor and observer is constitutive of purposeful action ([[praxeology-of-privacy|Praxeology of Privacy]]). [[nonaggression-and-property-rights|Argumentation ethics]] establishes that privacy *ought to be* — the surveillance advocate exercises, in arguing, the self-ownership they would deny. The [[resistance-axiom|axiom of resistance]] establishes that privacy *can be* — mathematical structures exist that physical force cannot defeat. Privacy IS, OUGHT TO BE, and CAN BE; the parallel economy is what emerges when systems implement what theory establishes and ethics requires.
+Hillebrand builds the parallel economy on three axioms that operate at different levels but point the same way. Privacy *is*: information asymmetry between actor and observer is constitutive of purposeful action, which is why the [[praxeology-of-privacy|Praxeology of Privacy]] treats it as built into the structure of action rather than as a preference. From there it *ought to be*, because a surveillance advocate exercises, in the very act of arguing, the self-ownership they would deny — the move [[nonaggression-and-property-rights|argumentation ethics]] turns against them. And it *can be*: the [[resistance-axiom|axiom of resistance]] holds that mathematical structures exist which physical force cannot defeat. Privacy IS, OUGHT TO BE, and CAN BE; the parallel economy is what emerges when systems implement what theory establishes and ethics requires.
 
 This convergence is itself the book's prior claim (its chapter 2): Austrian deduction and [[cypherpunk|cypherpunk]] practice, developed independently, reached the same conclusions about privacy, spontaneous order, and sound money — and convergence from independent starting points is evidence both traditions found something real.
 
 ## The Integrated Stack
 
-The distinctive claim is emergent: each tool closes one vulnerability, and combined they close the circuit. A merchant can receive [[hard-money|hard money]] in Bitcoin routed through [[tor-the-second-generation-onion-router|Tor]], communicate over encrypted channels, prove credentials without revealing identity, and carry reputation through a decentralized social protocol — without any layer touching the surveilled financial system. Hillebrand stresses this is operational now, not hypothetical: Bitcoin has run for fifteen years, Tor for two decades, end-to-end encryption is default for billions of messages. Earlier cypherpunks had vision without infrastructure; earlier Austrians had theory without implementation; the present moment offers both.
+The distinctive claim is emergent: each tool closes one vulnerability, and combined they close the circuit. A merchant can receive [[hard-money|hard money]] in Bitcoin routed through [[tor-the-second-generation-onion-router|Tor]], communicate over encrypted channels, prove credentials without revealing identity, and carry reputation through a decentralized social protocol — without any layer touching the surveilled financial system. Hillebrand stresses this is operational now, not hypothetical: Bitcoin has run for over fifteen years, Tor for two decades, end-to-end encryption is default for billions of messages. Earlier cypherpunks had vision without infrastructure; earlier Austrians had theory without implementation; the present moment offers both.
 
 ## Breaking the Observation Loop
 
@@ -55,6 +55,7 @@ The parallel economy is the cypherpunk-implementation cousin of **agorism / coun
 - [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
 - [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
 - [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
+- [[agorism-and-counter-economics|Agorism and Counter-Economics]] - Konkin's counter-economy that this cypherpunk stack implements
 
 ## Sources
 

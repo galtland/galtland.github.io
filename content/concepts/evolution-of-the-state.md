@@ -95,6 +95,7 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 
 - [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - Tilly concept from Chapter 7
 - [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - reciprocal link.
+- [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - the rational-ignorance/collective-action incentive layer
 
 ## Sources
 
