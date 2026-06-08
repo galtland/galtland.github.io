@@ -17,7 +17,7 @@ summary: "Historical-evolution layer for the libertarian state critique: Oppenhe
 
 ## Three Different Questions
 
-The historical state critique answers three questions that should not be collapsed into one. [[oppenheimer-the-state|The State]] answers an origin question: how did class states first arise? [[the-politics-of-obedience|The Politics of Obedience]] answers a persistence question: why do many people keep cooperating with domination? [[democracy-the-god-that-failed|Democracy: The God That Failed]] answers a regime-comparison question: how do monarchy and democracy differ once a coercive monopoly already exists?
+The historical state critique runs together three questions that should be kept apart: how class states first arise, why people keep cooperating with domination once they exist, and how regimes differ after a coercive monopoly is already in place. Oppenheimer's [[oppenheimer-the-state|The State]] is an origin account; La Boétie's [[the-politics-of-obedience|The Politics of Obedience]] is about persistence and withdrawn consent; and Hoppe's [[democracy-the-god-that-failed|Democracy: The God That Failed]] compares regimes only after the monopoly exists.
 
 Keeping these apart matters. The conquest thesis does not require a theory of explicit consent. The consent-via-habit thesis does not say states began voluntarily. Hoppe's regime thesis does not explain the first state; it explains why a democratic state may have different time horizons and expansion incentives from a monarchic one.
 
@@ -43,7 +43,7 @@ Lowery's [[abstract-power-hierarchies|Abstract Power Hierarchies]] is a much lat
 
 ## Regime Change After the State Exists
 
-Hoppe's [[democracy-the-god-that-failed|Democracy]] belongs later in the sequence. The state already exists; the question is what happens when its control form changes. Chapters 1 and 2 derive the contrast from time preference and ownership: monarchy is treated as private ownership of government, while democracy is treated as temporary public management. From that premise Hoppe predicts higher time preference under democracy: more redistribution, debt, short-term coalition buying, weakened property security, and faster growth of the democratic "mega-state."
+Hoppe's [[democracy-the-god-that-failed|Democracy]] belongs later in the sequence. The state already exists; the question is what happens when its control form changes. Chapters 1 and 2 derive the contrast from time preference and ownership: monarchy is treated as private ownership of government, while democracy is treated as temporary public management. From that premise Hoppe predicts higher time preference under democracy: more redistribution, debt, short-term coalition buying, weakened property security, and faster growth of the centralized democratic state.
 
 The full-text ingest also makes the secession layer clearer. Chapter 5 distinguishes political integration from economic integration and treats decentralization as a check on exploitation because smaller jurisdictions face stronger exit pressure. The regime-comparison thesis is therefore not an origin theory like Oppenheimer's. It is a modern libertarian account of how state power changes after monopoly rule already exists.
 
@@ -53,7 +53,7 @@ This historical narrative now has an explicit non-libertarian sociology counterp
 
 The divergence is evaluative and institutional. Oppenheimer, Nock, Rothbard, and Hoppe use the history to sharpen a critique of monopoly political authority as predatory or exploitative. Tilly treats state capacity as a mixed institutional achievement that can produce order, revenue, infrastructure, rights-bargaining, policing, and war-making power. The libertarian thread judges the same capacity against property, consent, nonaggression, and the possibility of non-state ordering.
 
-The Tilly source is partial. The wiki currently has chapters 1, 3, and 6 only, so claims about chapter 5's lineages or chapter 4's citizen-bargaining detail should remain caveated until a complete authorized text is available.
+The Tilly source is now the full text (chapters 1-7), so chapter 5's lineages and chapter 4's citizen-bargaining detail can be drawn on directly rather than caveated.
 
 ## Totalitarianism as Twentieth-Century Pathology
 
@@ -103,6 +103,6 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - consent, habit, and voluntary servitude
 - [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - private-security counterfactual
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - abstract power hierarchy comparison
-- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial Tilly source for war-making, extraction, capital/coercion paths, and European state-system convergence
+- [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - full-text Tilly source (chapters 1-7) for war-making, extraction, capital/coercion paths, and European state-system convergence
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbard's Oppenheimer-derived analytic state definition
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt's preconditions account for totalitarianism as a novel twentieth-century form of government
