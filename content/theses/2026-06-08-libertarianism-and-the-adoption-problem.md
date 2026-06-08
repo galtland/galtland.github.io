@@ -6,97 +6,130 @@ type: thesis
 created: 2026-06-08
 updated: 2026-06-08
 verified: 2026-06-08
-tags: [thesis, libertarianism, adoption, strategy, obedience, nationalism, tribalism, public-choice, agorism, human-nature]
-aliases: [adoption problem, why libertarianism is hard to adopt, libertarianism and human nature, can libertarianism succeed]
+tags: [thesis, libertarianism, adoption, strategy, obedience, nationalism, tribalism, public-choice, agorism, surveillance, cbdc, cryptography, monetary-collapse, creed, human-nature]
+aliases: [adoption problem, why libertarianism is hard to adopt, libertarianism and human nature, can libertarianism succeed, the surveillance objection]
 stance: contextualize
-verdict: framing-largely-correct-the-answer-is-strategic-not-mass-conversion
+verdict: framing-correct-classic-routes-necessary-but-insufficient-real-path-is-cryptographic-floor-plus-monetary-reckoning-plus-an-unbuilt-creed
 confidence: medium
-summary: "Tests the claim that libertarianism is internally consistent yet hard to adopt, sect-ridden, and out-competed by nationalism. The corpus largely confirms the framing — obedience runs on habit, legitimacy is manufactured, liberty is under-supplied at the ballot box, and tribalism gives nationalism a standing advantage — and answers the how-can-it-succeed question not by winning a mass-belonging contest but through three non-electoral routes: withdrawal of consent, the long battle over opinion, and exit via the counter-economy. The internal sects are real but share a property-and-exchange spine."
+summary: "Tests the claim that libertarianism is correct but unadoptable — out-organized by surveillance, AI, military states, and propaganda, with no way for free individuals to coordinate against the nation-state. The corpus largely concedes the diagnosis (obedience runs on habit; legitimacy is manufactured; the opinion battle is the weakest leg; tribalism gives nationalism a standing edge) and resists only the conclusion. Its honest answer: the three classic routes (withdrawal, opinion, exit) are each necessary but insufficient; the defensible path narrows to one hard floor (the cryptographic cost-asymmetry, the lone lever that does not scale with the adversary's size or AI), one catalyst worth pre-positioning for (a monetary reckoning, not a generic collapse, which the war-ratchet shows entrenches the state), and one thing the movement has not yet built (a unifying meaning that satisfies the belonging nationalism supplies)."
 ---
 
 # Libertarianism and Human Nature: The Adoption Problem
 
-> A reader's puzzle is tested against the wiki's corpus: libertarianism looks internally correct and consistent, yet it is hard for people to adopt, it carries internal tensions and competing orthodoxies, and rival ideas like nationalism unite millions with ease. Given human nature, how can libertarianism succeed? The corpus largely confirms the diagnosis and supplies a strategic — not a hortatory — answer.
+> A hard version of the reader's puzzle is tested against the corpus: libertarianism may be internally correct, but given total payment surveillance, AI analysis, the military and treaty apparatus of nation-states, and a propaganda advantage that dwarfs libertarian education, can any set of free individuals coordinate into something the state does not crush? The reader's own intuition is that liberty could win only through an economic apocalypse no one wants, or through a new unifying idea — perhaps a creed with liberty at its core. The corpus largely concedes the diagnosis and gives a narrower, grimmer answer than triumphalism allows.
 
 ## The Claim Being Tested
 
-> *Libertarianism as an idea is correct and consistent, but it seems hard for people to adopt; it has internal tensions and sects; while other ideas like nationalism are easily adopted and unite millions. How can libertarianism succeed given human nature?*
+The reader's challenge, restated in their own terms (this is the proposition under test, not a quotation from a source):
+
+> *Libertarianism is correct and consistent but hard to adopt and sect-ridden, while nationalism unites millions. Worse: given today's surveillance, AI, and military states, free individuals cannot coordinate beyond the reach of nation-states, and libertarian education is out-gunned by mass schooling and big-media propaganda. So liberty could succeed only through an economic apocalypse, or through a new unifying discourse — e.g. a religion with libertarianism at its core.*
 
 ## Verdict in Brief
 
-The framing holds on every factual point, and the corpus is unusually candid that the obstacle is not the argument but the terrain. Domination runs on habit, not persuasion; legitimacy is actively manufactured; liberty is structurally under-supplied wherever it is put to a vote; and tribal sentiment gives nationalism a standing head start that an individualist order has to fight uphill. The sects are real. What the corpus denies is the despairing conclusion: it offers three concrete routes to success that do not require winning a mass-belonging contest against nationalism on nationalism's own ground.
+On the facts, the corpus agrees almost completely, and is candid that the obstacle is the terrain, not the argument: obedience runs on habit, legitimacy is manufactured, the opinion battle is structurally lopsided, and tribal sentiment gives nationalism a standing head start. The classic libertarian answers — withdrawal, the contest of opinion, and exit — are each **necessary but, on their own, insufficient** against the modern asymmetry the reader describes. What the corpus offers instead of optimism is a narrowing: **one hard floor** (the cryptographic cost-asymmetry, the single lever that does not scale with the adversary's size or AI), **one catalyst worth pre-positioning for** (a *monetary* reckoning, distinct from the generic collapse that history shows entrenches the state), and **one thing the movement has not built** — the unifying meaning the reader rightly says it needs. The reader's two intuitions are not outside the tradition; they are its frontier.
 
 ## Why Adoption Is Hard
 
-The oldest answer in the corpus is that obedience is not compelled so much as habituated. [[the-politics-of-obedience|The Politics of Obedience]] reframes the whole problem: a tiny ruling minority holds a vast population not by force alone but by custom, dependence, and withdrawn resistance, so that subjection becomes second nature. That makes liberty hard in a specific way — it asks people to un-learn a habit, not just to weigh an argument.
+The oldest answer in the corpus is that obedience is habituated, not compelled. [[the-politics-of-obedience|The Politics of Obedience]] holds that a tiny ruling minority dominates a vast population through custom, dependence, and withdrawn resistance, so that subjection becomes second nature. Liberty is hard in a specific way: it asks people to un-learn a habit, not merely weigh an argument.
 
-The habit is reinforced from above. [[state-power-and-intervention|State Power and Intervention]], drawing on Rothbard's *Anatomy of the State*, holds that the state's long-run problem is ideological rather than military, and that the work of manufacturing consent falls to intellectuals:
+The habit is reinforced from above, and this is where the reader's propaganda point lands hardest. [[state-power-and-intervention|State Power and Intervention]], via Rothbard's *Anatomy of the State*, holds that the state's long-run problem is ideological, and that manufacturing consent is the work of intellectuals:
 
 > For the masses of men do not create their own ideas, or indeed think through these ideas independently; they follow passively the ideas adopted and disseminated by the body of intellectuals.
 
-When the schools, the press, and the prestige economy are oriented toward the legitimacy of the "we," a correct-but-radical case starts several lengths behind.
+With schools, mass media, and the prestige economy oriented toward the legitimacy of the "we," the reader is right that libertarian education starts several lengths behind — a point the corpus concedes rather than rebuts.
 
-And even where opinion could be contested, the ballot box is rigged against liberty by structure, not conspiracy. [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] supplies the demand-side reason the careful libertarian case rarely lands — *"Voter ignorance is rational because the cost of gathering information about an upcoming election is high relative to the benefits of voting"* — and the supply-side reason intervention accretes regardless of who wins: small concentrated interests out-organize the large diffuse public. Liberty is, in this sense, a systematically under-supplied good.
+And where opinion could be contested, the ballot box is rigged by structure. [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] gives the demand-side reason — *"Voter ignorance is rational because the cost of gathering information about an upcoming election is high relative to the benefits of voting"* — and the supply-side reason intervention accretes regardless of who wins: small concentrated interests out-organize the diffuse public. Liberty is a systematically under-supplied good.
 
 ## Why Nationalism Is Easy
 
-The asymmetry the reader senses is not an accident of marketing; the corpus explains it three ways that compound. [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] supplies the raw material — Sumner's ethnocentrism, the disposition by which *"Each group nourishes its own pride and vanity, boasts itself superior, exalts its own divinities, and looks with contempt on outsiders."* Nationalism speaks directly to a we-group instinct that predates argument; libertarianism asks people to extend peaceful, contractual treatment to the out-group, which runs against that grain.
-
-[[nationalism-and-state-formation|Nationalism and State Formation]] shows the channel: in Tilly's account nationalism is not mere sentiment but part of the state-making process, manufactured by direct rule and military mobilization. And [[mass-society-and-atomization|Mass Society and Atomization]] supplies the demand: when intermediate ties dissolve, lonely and interchangeable people become available for total mobilization, and a mass movement can offer belonging, an enemy, and certainty at once. Nationalism is easy because the state paves its road and the atomized psyche craves what it sells — neither of which speaks to whether it is *true*.
+The asymmetry is not a marketing accident: nationalism has its raw material, its builder, and its market all working in concert. The raw material is tribal and needs no teaching — Sumner's ethnocentrism, in which *"Each group nourishes its own pride and vanity, boasts itself superior, exalts its own divinities, and looks with contempt on outsiders."* The state refines that sentiment into national identity as part of its own consolidation, manufacturing it through direct rule and military mobilization, so that the loyalty it needs is produced by the very process that builds it. And it lands on fertile ground, because atomized, interchangeable people are starved for exactly what it offers — belonging, an enemy, and certainty in a single package — and so are available to be mobilized *en masse*. Each of these legs is documented in the corpus: the tribal raw material in [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]], the state-making channel in [[nationalism-and-state-formation|Nationalism and State Formation]] via Tilly, and the lonely-mass demand in [[mass-society-and-atomization|Mass Society and Atomization]] via Arendt. Nationalism is easy because the state paves its road and the lonely psyche craves what it sells — neither of which bears on whether it is *true*. This is the standing edge the reader names, and the corpus does not dispute it.
 
 ## The Internal Sects Are Real — But Share a Spine
 
-The reader is right that libertarianism is sect-ridden, and the corpus charts the fault lines rather than hiding them. [[rothbard-vs-hayek|Rothbard vs. Hayek]] lays out the divergences: praxeology versus evolutionary empiricism, the calculation critique versus the knowledge critique, anarcho-capitalism versus limited-government classical liberalism, and natural-rights versus consequentialist moral foundations. [[mises-and-hayek-dehomogenized|Salerno's dehomogenization thesis]] pushes further, arguing these are not two readings of one doctrine but two paradigms with different ancestries.
+The reader is right that libertarianism is sect-ridden. [[rothbard-vs-hayek|Rothbard vs. Hayek]] charts the fault lines — praxeology vs. evolutionary empiricism, calculation vs. knowledge, anarcho-capitalism vs. limited government, natural-rights vs. consequentialist grounds — and [[mises-and-hayek-dehomogenized|Salerno's dehomogenization thesis]] calls them two paradigms, not one. But the same articles mark the limit: the schools share a property-and-exchange spine and divide over method, the role of the state, and moral grounding — not over the core voluntary-vs-coercive test. The orthodoxies raise the cost of entry; they are not evidence of incoherence. (They also bear on the reader's "creed" intuition below: a movement that argues this much internally is poorly shaped to become a unifying faith.)
 
-But the same articles mark the limit of the disagreement: the schools share a property-and-exchange spine and split mainly over method, the role of the state, and moral grounding — not over the core test of whether relations are voluntary or coercive. The orthodoxies are real, and they do raise the cost of entry; they are not evidence that the doctrine is incoherent.
+## The Three Classic Routes — Each Necessary, None Sufficient
 
-## How It Could Still Win
+The corpus's first instinct is to route around the mass-belonging contest rather than win it. Three strategies recur, and the honest reading is that each is necessary but cannot carry the load alone.
 
-The corpus's distinctive move is to stop trying to beat nationalism at mass belonging and route around it. Three strategies recur.
-
-First, **withdrawal**. If domination rests on habitual cooperation, it dissolves when that cooperation is withdrawn. La Boétie's [[the-politics-of-obedience|The Politics of Obedience]] compresses the whole strategy into a single line:
+First, **withdrawal**. If domination rests on habitual cooperation, it dissolves when that cooperation is withdrawn. La Boétie's [[the-politics-of-obedience|The Politics of Obedience]] compresses it:
 
 > Resolve to serve no more, and you are at once freed.
 >
 > — Étienne de la Boétie, *The Discourse of Voluntary Servitude*
 
-Liberation becomes partly a withdrawal problem, not only an argument to be won.
+Necessary, but slow and reversible, and it presumes a critical mass willing to stop cooperating.
 
-Second, **the long battle over opinion**. Because rule rests on manufactured opinion, [[for-a-new-liberty|For a New Liberty]] treats education and the contest of ideas as the decisive front — meeting the state on the ideological ground where its real strength lies, and holding radical principle while being realistic about steps.
+Second, **the contest of opinion**. [[for-a-new-liberty|For a New Liberty]] treats education and ideas as the decisive front. This is the **weakest leg**, and the reader's objection is decisive against it taken alone: against statized schooling and mass media, an education strategy is structurally out-gunned. It can shift the margin; it cannot win the center.
 
-Third, and most distinctive, **exit**. [[agorism-and-counter-economics|Agorism and Counter-Economics]] proposes growing the counter-economy until it displaces the state, explicitly with *"no change in human nature needed"* — which is the precise answer to the reader's worry, since it needs participation rather than mass conversion. [[parallel-economy|The Parallel Economy]] updates that with a cryptographic stack that makes coercion uneconomic rather than merely illegitimate: not winning hearts, but raising the cost of observation and extraction above what the adversary will pay.
+Third, **exit** — the strongest of the three. [[agorism-and-counter-economics|Agorism and Counter-Economics]] proposes growing the counter-economy until it displaces the state, explicitly with *"no change in human nature needed"* — the precise answer to the coordination worry, since it needs participation, not mass conversion. [[parallel-economy|The Parallel Economy]] updates it with a cryptographic stack that aims to make coercion *uneconomic*. But exit collides head-on with the reader's surveillance objection, which the next section takes seriously.
 
-## Limits and Honest Verdict
+## The Surveillance Asymmetry and the Cryptographic Wager
 
-The corpus does not claim victory. The parallel economy is, on its own account, incomplete — it operates at the margins, with unresolved reputation-versus-anonymity and physical-goods gaps and adoption throttled by usability and legal risk. The withdrawal and education strategies are slow and reversible. And the tribal and atomization problems are diagnosed, not solved; nothing here shows that markets dissolve the we-group instinct.
+The reader's sharpest point: total payment tracking, AI analysis, and CBDCs make the state's observation so cheap and complete that exit is futile. The corpus takes this seriously rather than dismissing it. Its sharpest statement is Hillebrand's critique of central-bank digital currency as *total intervention* — [[hillebrand-on-cbdcs|Hillebrand on CBDCs]]:
 
-So the verdict is: the reader's framing is largely correct, and that is exactly why the corpus's answer is *strategic* rather than rhetorical. Libertarianism does not succeed by out-uniting nationalism — it cannot, on that terrain. It succeeds, if it does, by withdrawing the cooperation the state needs, contesting the opinion that legitimates it, and building exit infrastructure that makes coercion uneconomic. Human nature is the constraint the strategy is built around, not a wall the argument is expected to knock down.
+> CBDCs are programmable money enabling comprehensive surveillance and control, not simple digital versions of existing currency.
+
+That is a contested argument, not a settled fact, and Hillebrand concedes the point himself: *"Programmability is a design choice, not an inherent feature of digital currency. A CBDC could be designed to replicate cash's properties: anonymous, bearer-based, and free of spending restrictions."* The issuers of the leading CBDC projects say theirs will be just that — cash-like, and never programmed to restrict spending — and the critique's reply is not that they are lying but that a direct-account currency concentrates transaction *visibility* at the issuer whatever its spending rules, and that a promise not to program is reversible policy, not a technical guarantee. The thesis does not need the strong version of the claim. Even granting every design promise, the uncontested trend is enough: exposed digital payment is increasingly cheap to observe, and AI sharpens the analysis of whatever is exposed. The whole counter then rests on one lever — the [[resistance-axiom|resistance axiom]]: the claim that **cryptography is the one asymmetry that does not scale with the adversary's size or intelligence.** A sound key is as unbreakable for a superpower with the best models as for anyone; AI analyzes data that is *exposed*, it does not break good cryptography. The strategy is therefore not to out-surveil the state — impossible, as the reader says — but to make activity *unobservable in the first place*, breaking the loop at observation:
+
+> When observation becomes expensive enough, the entire attack cycle becomes uneconomical.
+
+The strategic payoff, in [[parallel-economy|the parallel economy]], is blunt: *"The state cannot persist when theft becomes unprofitable."* This is the corpus's one hard floor under the reader's pessimism — and the honesty is that it is a **wager, not a proof**. The [[resistance-axiom|resistance axiom]] is, in its own statement, weaker than a self-evident truth: a working assumption backed by computational hardness and the operational survival of Bitcoin, Tor, and PGP, defeatable by physical coercion, developer prosecution, key mistakes, or centralization. Whether mathematics holds the line against a determined state is the open question on which the whole strategy turns.
+
+## Which Collapse? The War-Ratchet vs. the Monetary Reckoning
+
+The reader's "economic apocalypse" intuition is half-right, and the corpus splits it on a distinction that is the whole game. A *generic* collapse **helps the state**. Rothbard's [[anatomy-of-the-state|Anatomy of the State]] states the ratchet:
+
+> In war, State power is pushed to its ultimate, and, under the slogans of "defense" and "emergency," it can impose a tyranny upon the public such as might be openly resisted in time of peace.
+
+Arendt's [[mass-society-and-atomization|mass-society]] account agrees from the other side: crisis-driven atomization feeds mobilization, not freedom. The Depression produced the New Deal and fed the Nazis' rise to power; war breeds permanent state growth. A generic apocalypse births a worse Leviathan.
+
+But a *monetary* reckoning is the one crisis the corpus reads as potentially pro-liberty, because it strikes at the revenue source the modern state most depends on and can least defend. The fiat-endgame thread — [[fiat-as-engineered-system|Fiat as Engineered System]], Austrian business-cycle theory, and the [[hard-money|hard money]] / [[ideal-money|ideal money]] lineage — holds that discretionary fiat is unsustainable, that inflation is a covert, non-consensual transfer, and that its eventual failure discredits the state's money. Read alongside *Anatomy*'s point that the state is the one organization that funds itself by coercion rather than voluntary payment, the printing press is simply the quietest of those coercions — and a sound-money reckoning is the one event that takes that quiet lever away. The decisive condition is that this opens a door **only if the hard-money lifeboat is already built and adopted** when the reckoning comes. That reframes the reader's apocalypse: the point is not to wish for collapse, but to pre-position the alternative — which is exactly why the exit infrastructure matters before, not after.
+
+## The Unifying-Creed Problem
+
+The reader's deepest intuition — that liberty may need a new unifying discourse, even a creed — is the one the published thesis underweighted, and the corpus quietly supports it. Domination, on La Boétie's account, runs on shared belief and withdrawn consent; Arendt and Sumner show that what mobilizes is *belonging*, not argument. You do not beat a legitimating myth with a syllogism; you beat it by withdrawing consent **and** supplying an alternative shared meaning. Where the corpus gestures at candidates it does so through its own articles, not the sources cited for this thesis — and none is shown to rival nationalism's reach. The wiki's article on [[objectivism|Objectivism]] describes a philosophy deliberately organized as a movement with liberty at its core; its [[cypherpunk|cypherpunk]] topic describes a culture organized around founding manifestos and shared practices; and [[hans-hermann-hoppe|Hoppe]] is associated with covenant communities bound by shared norms. These are pointers to elsewhere in the wiki, not claims this thesis's sources establish. What they share is the attempt to bind liberty to a shared identity; what they lack — on the evidence the wiki actually holds — is any demonstration that such an identity can mobilize at nationalism's scale. The unresolved tension — visible in the sect-ridden character noted above — is whether an *individualist* creed can supply belonging without curdling into the collectivism it opposes. The corpus does not settle it. That a unifying meaning is needed is, on La Boétie's and Arendt's own logic, hard to deny; whether one compatible with liberty can exist is the open frontier.
+
+## Honest Verdict
+
+The reader's critique does not refute the case so much as strip its optimism. The three classic routes are real but individually insufficient against surveillance, propaganda, and the war-ratchet. Stated without flattery, the corpus's defensible position is conditional and narrow:
+
+- **The one hard floor** is the cryptographic cost-asymmetry — the single lever that beats scale and AI — held as a wager, not a guarantee.
+- **The one catalyst worth pre-positioning for** is a monetary reckoning, not a generic collapse (which entrenches the state) — and only if the hard-money lifeboat is built first.
+- **The one missing piece**, which the reader rightly names, is a unifying meaning to rival nationalism's belonging — something the movement has gestured at (Rand, Bitcoin culture, Hoppe's covenants) but not produced, and may not be able to without betraying itself.
+
+Liberty does not win by out-uniting nationalism on its own ground; it cannot. If it wins, it is by making coercion uneconomic through mathematics, surviving the fiat reckoning with a sound-money alternative already in hand, and — the unproven part — finding a shared meaning that lets free individuals cohere without a master. Human nature is the binding constraint the whole strategy is built around, and the honest answer to the reader is that success is possible but not assured, and depends most on the one thing libertarianism has been worst at: giving people something to belong to.
 
 ## See Also
 
 - [[libertarianism|Libertarianism]] - the topic map this thesis synthesizes
-- [[the-politics-of-obedience|The Politics of Obedience]] - the obedience/withdrawal core of the diagnosis and the first strategy
+- [[the-politics-of-obedience|The Politics of Obedience]] - obedience as habit; the withdrawal route
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - why liberty is under-supplied at the ballot box
 - [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - the tribal sentiment nationalism mobilizes
 - [[nationalism-and-state-formation|Nationalism and State Formation]] - nationalism as part of state-making
-- [[mass-society-and-atomization|Mass Society and Atomization]] - the lonely-mass demand a mass movement meets
+- [[mass-society-and-atomization|Mass Society and Atomization]] - the lonely-mass demand for belonging
 - [[rothbard-vs-hayek|Rothbard vs. Hayek]] - the internal sects and their shared spine
-- [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the exit strategy that needs no change in human nature
-- [[parallel-economy|The Parallel Economy]] - making coercion uneconomic rather than illegitimate
-- [[state-power-and-intervention|State Power and Intervention]] - the manufactured-legitimacy critique
+- [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the exit route
+- [[parallel-economy|The Parallel Economy]] - making coercion uneconomic
+- [[resistance-axiom|Resistance Axiom]] - the cryptographic wager that exit rests on
+- [[hillebrand-on-cbdcs|Hillebrand on CBDCs]] - the total-surveillance counter-move the wager answers
+- [[fiat-as-engineered-system|Fiat as Engineered System]] - the fiat endgame behind the monetary reckoning
+- [[hard-money|Hard Money]] - the sound-money lifeboat
+- [[objectivism|Objectivism]] - a candidate liberty-as-creed
+- [[anatomy-of-the-state|Anatomy of the State]] - the war-ratchet and the ideological-legitimacy argument
 
 ## Sources
 
 - [The Politics of Obedience (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - La Boétie on habituated obedience and withdrawal of consent
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - the intellectuals-as-opinion-molders and ideological-legitimacy argument
+- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - intellectuals-as-opinion-molders and the war-ratchet
 - [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) - rational ignorance and the logic of collective action
 - [Folkways: We-Group, Out-Group, and Ethnocentrism (extract)](https://www.gutenberg.org/ebooks/24253) - Sumner on ethnocentrism and the we-group
 - [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto) - Konkin on the counter-economy and "no change in human nature needed"
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly on nationalism within state formation
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt on atomization and mass mobilization
 - [Mises and Hayek Dehomogenized (Salerno 1993)](https://mises.org/library/mises-and-hayek-dehomogenized) - the two-paradigm account of the internal split
-- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's natural-rights foundation and his critique of Hayek's wider concept of coercion (the anarcho-vs-limited-government divergence)
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's natural-rights foundation and critique of Hayek's coercion concept
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek's limited-government classical liberalism
-- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's consequentialist defense of liberty and the shared classical-liberal/property spine
+- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's consequentialist defense and the shared property spine
 - [For a New Liberty (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - the education-and-opinion strategy
-- [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's parallel-economy exit strategy
+- [The Praxeology of Privacy](https://towardsliberty.com/pop) - the resistance axiom, CBDCs as total intervention, and the cost-asymmetry of breaking observation

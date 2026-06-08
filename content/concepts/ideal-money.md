@@ -55,6 +55,8 @@ Nash's text predates and never mentions Bitcoin; the following is the wiki's own
 - [[economic-calculation-problem|Economic Calculation Problem]] - the calculation objection to any administered standard
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the intertemporal-calculation harm of an unstable standard
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [Ideal Money and Asymptotically Ideal Money](https://www.cypherpunkbooks.com/book/ideal-money-and-asymptotically-ideal-money) - John Nash's lecture: money as a quality-bearing standard of value, the "Keynesian" managed-inflation critique, and the asymptotically-ideal managed-index proposal

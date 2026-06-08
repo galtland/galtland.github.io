@@ -83,6 +83,8 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
 - [[ideal-money|Ideal Money]] - Nash's non-Austrian convergence on stable-value money (managed-index route)
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) - Mises 1912/1934, regression theorem and the classical sound-money program

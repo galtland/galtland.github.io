@@ -51,6 +51,8 @@ The tensions are equally real and worth stating. Objectivism is a closed philoso
 - [[the-fountainhead|The Fountainhead]] - Rand's 1943 individualist novel of the uncompromising architect Howard Roark.
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Virtue of Selfishness (Full Text Aggregate)](https://archive.org/details/the-virtue-of-selfishness-ayn-rand) - Rand's statement of the Objectivist ethics

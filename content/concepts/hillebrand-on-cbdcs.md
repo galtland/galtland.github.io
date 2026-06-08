@@ -40,6 +40,8 @@ The verdict follows: "Money that can be surveilled and controlled is not sound m
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) — Ch. 10 §10.5 "Central Bank Digital Currencies as Total Intervention" (autistic/binary/triangular mapping; the programmability catalogue; the "not sound money" verdict)

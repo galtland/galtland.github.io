@@ -56,6 +56,8 @@ The axiom's value is narrower and more useful: it marks the possibility of syste
 - [[austrian-economics|Austrian Economics]] - broader framework whose modern privacy extension uses the axiom
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - chapter 5 for the axiom's status, grounding, relationship to other foundations, and limits

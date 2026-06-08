@@ -74,6 +74,8 @@ Confidence is medium. The article can describe Ammous's framing with high confid
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
 - [[ideal-money|Ideal Money]] - Nash's game-theoretic version of the managed-inflation critique
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [[2026-05-28-the-fiat-standard-full-text|The Fiat Standard: Full Text Aggregate]] - Ammous's 2021 book on fiat technology, debt issuance, fiat life, and Bitcoin as liquidator
