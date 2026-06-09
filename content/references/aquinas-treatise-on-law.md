@@ -8,7 +8,7 @@ verified: 2026-06-09
 tags: [thomas-aquinas, natural-law, classical-canon, scholasticism, summa-theologica, eternal-law, human-law, divine-law, treatise-on-law]
 aliases: [Treatise on Law, Summa Theologica Treatise on Law, Aquinas on law, Prima Secundae 90-108, lex naturalis]
 confidence: medium
-summary: "Aquinas's Treatise on Law (Summa Theologica I-II, QQ. 90–108) — the systematic medieval natural-law text. Defines law as 'an ordinance of reason for the common good, made by him who has care of the community, and promulgated,' and distinguishes eternal, natural, human, and divine law, holding that a human law contrary to natural law 'is no longer a law but a corruption of law.'"
+summary: "Aquinas's Treatise on Law (Summa Theologica I-II, QQ. 90–108) — the systematic medieval natural-law text. Defines law as 'an ordinance of reason for the common good, made by him who has care of the community, and promulgated,' and distinguishes eternal, natural, human, and divine law, holding that a human law contrary to natural law 'is no longer a law but a perversion of law.'"
 short: "Aquinas's systematic natural-law treatise: law as reason for the common good, and the eternal/natural/human/divine fourfold scheme."
 ---
 
@@ -28,7 +28,7 @@ He then distinguishes four kinds of law (QQ. 91–93):
 
 ## Unjust Law Is No Law
 
-The Treatise's most quoted thesis for the rights tradition is that human law has the force of law only so far as it derives from natural law; a positive enactment that conflicts with natural law "is no longer a law but a corruption of law" (*lex iniusta non est lex*). This is the precise claim legal positivism later denies — and the claim that lets natural-law thinkers judge a formally valid statute *unjust* and even non-binding.
+The Treatise's most quoted thesis for the rights tradition is that human law has the force of law only so far as it derives from natural law; a positive enactment that conflicts with natural law "is no longer a law but a perversion of law" (*lex iniusta non est lex*). This is the precise claim legal positivism later denies — and the claim that lets natural-law thinkers judge a formally valid statute *unjust* and even non-binding.
 
 ## Place in This Wiki
 

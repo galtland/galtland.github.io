@@ -14,7 +14,7 @@ short: "Davidson and Rees-Mogg's forecast of an untaxable, borderless online eco
 
 # The Cybereconomy
 
-> The cybereconomy, in Davidson and Rees-Mogg's [[the-sovereign-individual|The Sovereign Individual]], is the borderless realm of online commerce that the authors predicted would grow beyond the effective reach of territorial taxation — "a region where governments will have no more dominion than they have over the open seas" — and that would be settled in a new, denationalized digital money they called cybercash.
+> The cybereconomy, in Davidson and Rees-Mogg's [[the-sovereign-individual|The Sovereign Individual]], is the borderless realm of online commerce that the authors predicted would grow beyond the effective reach of territorial taxation — a realm in which governments would have "no more dominion than they exercise over the bottom of the sea or the outer planets" — and that would be settled in a new, denationalized digital money they called cybercash.
 
 ## Escape From Territorial Taxation
 
