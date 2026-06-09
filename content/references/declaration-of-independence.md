@@ -20,15 +20,15 @@ short: "The 1776 Declaration: Lockean natural rights as a public political creed
 
 The document's force is concentrated in its second paragraph, which states the Lockean syllogism as self-evident:
 
-> "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. — That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, — That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it."
+> "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it…"
 >
 > — The Declaration of Independence (1776)
 
-Every move is Lockean: rights are natural and prior to government (Jefferson's "unalienable" tracks Locke's "life, health, liberty, or possessions"); government is instrumental, instituted *to secure* pre-existing rights; its authority rests on consent; and a government that turns against those rights forfeits its claim, justifying the right of revolution. The long bill of particulars against George III that follows is the factual case that this forfeiture had occurred.
+The core argument is Lockean: rights are natural and prior to government (Jefferson's "unalienable" tracks Locke's "life, health, liberty, or possessions"); government is instrumental, instituted *to secure* pre-existing rights; its authority rests on consent; and a government that turns against those rights forfeits its claim, justifying the right of revolution. (Jefferson drew on other currents too — the Scottish Enlightenment, the radical-Whig tradition — but the rights-and-consent spine is Locke's.) The long bill of particulars against George III that follows is the factual case that this forfeiture had occurred.
 
 ## Place in This Wiki
 
-The Declaration is where the wiki's natural-law lineage becomes practice. It receives [[the-second-treatise-of-government|Locke]] almost verbatim and is defended and radicalized by [[rights-of-man|Paine]]. It also marks a boundary the libertarian tradition keeps testing: the Declaration's natural-rights *premises* underwrite the whole anti-state critique, even as the *state* it founded becomes, for later figures like [[lysander-spooner|Spooner]], an institution that failed to honor them. Jefferson is used here for this single canonical text, not as a full author profile.
+The Declaration is where the wiki's natural-law lineage becomes practice. It draws its core argument directly from [[the-second-treatise-of-government|Locke]] and is defended and radicalized by [[rights-of-man|Paine]]. It also marks a boundary the libertarian tradition keeps testing: the Declaration's natural-rights *premises* underwrite the whole anti-state critique, even as the *state* it founded becomes, for later figures like [[lysander-spooner|Spooner]], an institution that failed to honor them. Jefferson is used here for this single canonical text, not as a full author profile.
 
 ## See Also
 

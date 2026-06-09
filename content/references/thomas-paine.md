@@ -19,7 +19,7 @@ summary: "Short author reference for Thomas Paine (1737–1809), the Anglo-Ameri
 
 Paine was an English-born radical pamphleteer who became a central voice of both the American and French revolutions. His *Common Sense* (1776) made the popular case for American independence; his *Rights of Man* (1791–92) answered Burke and argued that rights are natural, that no generation can bind its successors, and that government is a delegated trust. The wiki uses him as the figure who turned the Lockean natural-rights theory of the [[declaration-of-independence|Declaration of Independence]] into a popular revolutionary creed.
 
-Paine is closer to the libertarian tradition than most of the canon — radically anti-monarchical and famous for "government, even in its best state, is but a necessary evil" — but not a doctrinaire one: *Rights of Man* Part II also sketches early redistributive welfare measures later libertarians reject. He is used here for the natural-rights radicalism, not as a complete political program.
+Paine is closer to the libertarian tradition than most of the canon — radically anti-monarchical and known for casting even the best government as a necessary evil (in *Common Sense*) — but not a doctrinaire one: *Rights of Man* Part II also sketches early redistributive welfare measures later libertarians reject. He is used here for the natural-rights radicalism, not as a complete political program.
 
 ## See Also
 

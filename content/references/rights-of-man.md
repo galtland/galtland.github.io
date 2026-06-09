@@ -26,12 +26,12 @@ Against Burke's defense of inherited authority and the "wisdom of ages," Paine g
 
 From this base Paine builds his two signature claims:
 
-- **No generation can bind its successors.** Burke's appeal to a binding ancestral settlement is illegitimate, because rights inhere in the living: "Every age and generation must be as free to act for itself, in all cases, as the age and generations which preceded it." He calls "the vanity and presumption of governing beyond the grave… the most ridiculous and insolent of all tyrannies."
+- **No generation can bind its successors.** Burke's appeal to a binding ancestral settlement is illegitimate, because rights inhere in the living: "Every age and generation must be as free to act for itself in all cases as the age and generations which preceded it." He calls "the vanity and presumption of governing beyond the grave… the most ridiculous and insolent of all tyrannies."
 - **Government is a delegated trust.** Civil rights are natural rights "exchanged" for the security of society; legitimate government is not a hereditary possession but a constitution made by, and answerable to, the people, who may reform it.
 
 ## Place in This Wiki
 
-*Rights of Man* is the revolutionary downstream of [[the-second-treatise-of-government|Locke]] and the [[declaration-of-independence|Declaration]]: the same natural-rights premises turned into a popular case against monarchy and inherited privilege. Paine is closer to the libertarian tradition than most of the lineage — radically anti-monarchical, suspicious of state power ("government, even in its best state, is but a necessary evil," from *Common Sense*) — though *Rights of Man* Part II also proposes early welfare measures that later libertarians reject. The wiki uses him as the bridge from natural-rights theory to revolutionary practice, adjacent to [[lysander-spooner|Spooner's]] later individualist radicalism.
+*Rights of Man* is the revolutionary downstream of [[the-second-treatise-of-government|Locke]] and the [[declaration-of-independence|Declaration]]: the same natural-rights premises turned into a popular case against monarchy and inherited privilege. Paine is closer to the libertarian tradition than most of the lineage — radically anti-monarchical, suspicious of state power (his earlier *Common Sense* had cast even the best government as a necessary evil) — though *Rights of Man* Part II also proposes early welfare measures that later libertarians reject. The wiki uses him as the bridge from natural-rights theory to revolutionary practice, adjacent to [[lysander-spooner|Spooner's]] later individualist radicalism.
 
 ## See Also
 

@@ -8,7 +8,7 @@ verified: 2026-06-09
 tags: [samuel-pufendorf, natural-law, natural-rights, classical-canon, sociality, law-of-nature, law-of-nations, de-officio-hominis, duty, social-contract]
 aliases: [The Whole Duty of Man According to the Law of Nature, De Officio Hominis et Civis, On the Duty of Man and Citizen, The Whole Duty of Man, Pufendorf's Duty of Man]
 confidence: medium
-summary: "Pufendorf's De Officio Hominis et Civis (1673), in Andrew Tooke's English translation — the natural-law systematizer between Grotius and Locke. It grounds the whole law of nature in human sociality ('the fundamental law of nature is to cultivate and preserve sociable conduct'), then derives the duties of man toward God, self, and others and the foundations of the state."
+summary: "Pufendorf's De Officio Hominis et Civis (Latin 1673), in Andrew Tooke's English translation — the natural-law systematizer between Grotius and Locke. It grounds the interpersonal law of nature in human sociality (in Tooke's words, 'every man ought, as much as in him lies, to preserve and promote society'), then derives the duties of man toward God, self, and others and the foundations of the state."
 short: "Pufendorf's 1673 compendium of natural law, grounding it in human sociality — the systematizing bridge from Grotius to Locke."
 ---
 
@@ -20,9 +20,11 @@ short: "Pufendorf's 1673 compendium of natural law, grounding it in human social
 
 Pufendorf's distinctive move is the *foundation* he chooses. Where the Scholastics grounded natural law in God's reason and human teleology, Pufendorf grounds it in a feature of the human condition: man is weak, needy, and unable to survive or flourish alone, yet also quarrelsome. From this he derives a single first principle — **sociality**:
 
-> "The fundamental law of nature is to cultivate and preserve sociable conduct."
+> "this is a fundamental Law of Nature, That every man ought, as much as in him lies, to preserve and promote society."
+>
+> — Samuel Pufendorf, *The Whole Duty of Man According to the Law of Nature* (Tooke trans.)
 
-Every other duty of natural law is deduced as a means to that end. Because each person needs the help of others and yet can also harm them, reason dictates that everyone "be a useful member of human society," abstaining from injury, keeping faith, and treating others as natural equals. This sociality principle is Pufendorf's lasting contribution: a natural law derived from man's social nature rather than from a contested metaphysics, which made it portable across the confessional divides that the wars of religion had opened (the same problem [[the-rights-of-war-and-peace|Grotius]] had addressed).
+The duties men owe one another are deduced as means to that end: because each person needs the help of others and yet can also harm them, reason dictates that everyone be a useful and beneficial member of society, abstaining from injury, keeping faith, and treating others as natural equals. (Pufendorf is careful that the duties toward God and toward oneself rest on their own foundations and are not all derived from this one maxim.) This sociality principle is Pufendorf's lasting contribution: a natural law derived from man's social nature rather than from a contested metaphysics, which made it portable across the confessional divides that the wars of religion had opened (the same problem [[the-rights-of-war-and-peace|Grotius]] had addressed).
 
 ## Structure
 
