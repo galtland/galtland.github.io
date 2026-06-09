@@ -34,9 +34,13 @@ The libertarian use of natural law is the endpoint of a long argument. This wiki
 
 **[[hugo-grotius|Grotius]] — secularization.** [[the-rights-of-war-and-peace|The Rights of War and Peace]] (1625) detaches natural law from theology enough to ground a law of nations: natural law flows from the rational and social nature of man and would retain its force, in the famous Prolegomena §11, *etiamsi daremus non esse Deum* — "even if we were to grant" that there is no God or that he takes no care of human affairs. This makes natural law a basis for obligation among states and persons that does not depend on shared religion.
 
+**[[samuel-pufendorf|Pufendorf]] — sociality.** [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]] (1673) is the systematizer between Grotius and Locke. Pufendorf grounds the entire law of nature in one principle of human **sociality** — "the fundamental law of nature is to cultivate and preserve sociable conduct" — derived from man's neediness and his capacity to harm, and deduces every other duty from it. This roots natural law in man's social nature rather than in contested metaphysics, and it is the deductive apparatus Locke read.
+
 **The School of Salamanca — the scholastic bridge.** Between Aquinas and [[john-locke|Locke]] stand the sixteenth-century Spanish scholastics mapped in [[school-of-salamanca|School of Salamanca]]. Vitoria carried Thomist natural law into the law of nations, while Suárez and Mariana developed consent and resistance theory — Suárez held that political power "by natural and divine law devolves solely on the people," and Mariana argued that subjects transferring power "from a state of nature to the king" reserved rights to themselves — anticipating Locke by decades. The same school, in [[murray-n-rothbard|Rothbard]]'s reading, were also proto-Austrian economists, tying natural law to subjective value and sound money.
 
 **Locke — natural rights.** The [[the-second-treatise-of-government|Second Treatise of Government]] (1689) is the hinge between natural law and modern liberty. The state of nature "has a law of nature to govern it... and reason, which is that law, teaches all mankind... that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions." Property arises pre-politically: "every man has a property in his own person," and by mixing his labour with the world he makes things his own. Government exists by consent to protect these rights, and forfeits its authority when it invades them — the right of revolution.
+
+**The political application — the [[declaration-of-independence|Declaration]] and [[rights-of-man|Paine]].** The tradition becomes practice in 1776. The Declaration of Independence states the Lockean syllogism as self-evident: that all men are created equal and endowed with "unalienable Rights" to "Life, Liberty and the pursuit of Happiness," that governments are instituted "to secure these rights, deriving their just powers from the consent of the governed," and that the people may "alter or abolish" a government that betrays those ends. Thomas Paine's *Rights of Man* (1791–92) carries the same premises into mass democratic politics against Burke, insisting that rights inhere in the living and that "every age and generation must be as free to act for itself, in all cases, as the age and generations which preceded it."
 
 **[[lysander-spooner|Spooner]] — the radical conclusion.** [[spooner-natural-law|Natural Law; or The Science of Justice]] (1882) pushes the tradition to its individualist-anarchist edge. Justice is "the science of mine and thine... of all a man's rights of person and property" — an exact, immutable natural science. From this Spooner concludes that "all human legislation" beyond the enforcement of natural justice is "an intrusion, an absurdity, an usurpation, and a crime."
 
@@ -69,6 +73,9 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [[cicero-de-legibus|De Legibus]] - Cicero's systematic natural-law argument (On the Laws)
 - [[school-of-salamanca|School of Salamanca]] - the scholastic bridge from Aquinas to Locke; natural law + proto-Austrian economics
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's history tying natural law to the origins of economics
+- [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]] - Pufendorf's sociality-based systematization between Grotius and Locke
+- [[declaration-of-independence|The Declaration of Independence]] - the natural-rights tradition as founding political creed
+- [[rights-of-man|Rights of Man]] - Paine's revolutionary radicalization of natural rights
 
 ## Sources
 
@@ -81,3 +88,6 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [Locke, Second Treatise of Government (Full Text)](<../../raw/articles/2026-06-09-locke-second-treatise-of-government-full-text.md>) - Chs. II and V, the law of nature and property
 - [Spooner, Natural Law; or The Science of Justice (Full Text)](<../../raw/articles/2026-06-09-spooner-natural-law-or-the-science-of-justice-full-text.md>) - Part First, justice as the science of mine and thine
 - [Rothbard, Economic Thought Before Adam Smith (Full Text)](<../../raw/articles/2026-06-09-rothbard-economic-thought-before-adam-smith-full-text.md>) - Ch. 4, the School of Salamanca (natural law and proto-Austrian economics)
+- [Pufendorf, The Whole Duty of Man (Full Text)](<../../raw/articles/2026-06-09-pufendorf-whole-duty-of-man-full-text.md>) - Book I, the law of nature grounded in sociality
+- [The Declaration of Independence (Full Text)](<../../raw/articles/2026-06-09-declaration-of-independence-full-text.md>) - the 1776 statement of unalienable rights, consent, and revolution
+- [Paine, Rights of Man (Full Text)](<../../raw/articles/2026-06-09-paine-rights-of-man-full-text.md>) - natural rights vs. Burke; no generation binds the next

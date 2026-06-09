@@ -7,7 +7,7 @@ Last updated: 2026-06-09
 ## Statistics
 
 - Sources: 145 raw documents (+ 14 news-lens items)
-- Articles: 209 compiled wiki articles (90 concepts, 108 references, 6 theses, 5 topics)
+- Articles: 214 compiled wiki articles (90 concepts, 113 references, 6 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-09
 - Last lint: 2026-06-09
@@ -29,6 +29,8 @@ Last updated: 2026-06-09
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-06-09: compile — Pufendorf (*Whole Duty of Man*) + author, the *Declaration of Independence*, and Paine's *Rights of Man* + author compiled as 5 references and wired into the natural-law lineage (Grotius→Pufendorf→…→Locke→Declaration/Paine→Spooner); Mariana stub added as a `school-of-salamanca` source. Article count 209 → 214.
 
 - 2026-06-09: ingest — natural-law follow-ups: Pufendorf (*Whole Duty of Man*), the American Declaration of Independence (Jefferson), Paine (*Rights of Man*) as full public-domain texts, plus a Mariana monetary-treatise stub (English translation copyright-restricted). Source count 141 → 145. Not yet compiled.
 

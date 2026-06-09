@@ -57,3 +57,4 @@ The Salamancans are the wiki's clearest single bridge between its [[natural-law-
 ## Sources
 
 - [Rothbard, Economic Thought Before Adam Smith (Full Text)](<../../raw/articles/2026-06-09-rothbard-economic-thought-before-adam-smith-full-text.md>) - Chapter 4, "The late Spanish scholastics," §§4.1–4.7 (Cajetan, the School of Salamanca, Vitoria, Molina, Suárez, and Mariana on natural rights, value, the just price, money, and debasement)
+- [Mariana, A Treatise on the Alteration of Money (Bibliographic Stub)](<../../raw/articles/2026-06-09-mariana-treatise-on-the-alteration-of-money-stub.md>) - primary-source stub for Mariana's anti-debasement argument (full English text copyright-restricted)

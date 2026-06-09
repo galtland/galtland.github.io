@@ -38,6 +38,9 @@ The Second Treatise is the hinge between classical natural law and modern libert
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the libertarian homesteading principle descended from Locke
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's natural-rights radicalization
 - [[spooner-natural-law|Natural Law; or The Science of Justice]] - Spooner's anarchist radicalization of Locke's natural rights
+- [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]] - Pufendorf's natural-law systematization that Locke read
+- [[declaration-of-independence|The Declaration of Independence]] - the political application of Locke's natural-rights theory
+- [[rights-of-man|Rights of Man]] - Paine's revolutionary extension of Lockean natural rights
 
 ## Sources
 

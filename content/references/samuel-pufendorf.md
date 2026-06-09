@@ -1,0 +1,30 @@
+---
+title: "Samuel Pufendorf"
+volatility: cold
+category: reference
+created: 2026-06-09
+updated: 2026-06-09
+verified: 2026-06-09
+tags: [samuel-pufendorf, natural-law, natural-rights, classical-canon, sociality, law-of-nations, german-enlightenment, jurisprudence]
+aliases: [Samuel Pufendorf, Pufendorf, Samuel von Pufendorf, Freiherr von Pufendorf]
+confidence: medium
+summary: "Short author reference for Samuel von Pufendorf (1632–1694), the German jurist and natural-law theorist who systematized the discipline between Grotius and Locke, grounding the law of nature in human sociality."
+---
+
+# Samuel Pufendorf
+
+> Samuel von Pufendorf (1632–1694) enters this wiki through [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]], the English of his 1673 compendium of natural law and the systematizing link in the [[natural-law-and-natural-order|natural-law]] lineage.
+
+## Place in This Wiki
+
+Pufendorf was a German jurist, historian, and political philosopher — professor at Heidelberg and Lund, later historiographer to the Swedish and Brandenburg courts. His great work *De Jure Naturae et Gentium* (1672) and its popular abridgement *De Officio Hominis et Civis* (1673) made natural-law theory a systematic, widely-taught science across Protestant Europe. The wiki uses him for one role: the figure who stands between [[the-rights-of-war-and-peace|Grotius]] and [[the-second-treatise-of-government|Locke]], grounding the law of nature in human **sociality** and handing a deductive natural-law apparatus to the moderns Locke drew on.
+
+He is not a libertarian: he emphasized duty over rights and defended strong sovereign authority. His relevance here is the lineage role and the sociality foundation, not a political program.
+
+## See Also
+
+- [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]] - the work present in this wiki
+
+## Sources
+
+- [Pufendorf, The Whole Duty of Man (Full Text)](<../../raw/articles/2026-06-09-pufendorf-whole-duty-of-man-full-text.md>) - the basis for this profile
