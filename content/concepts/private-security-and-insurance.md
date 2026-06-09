@@ -3,8 +3,8 @@ title: "Private Security and Insurance"
 volatility: warm
 category: concept
 created: 2026-04-22
-updated: 2026-05-06
-verified: 2026-05-31
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [private-security, insurance, defense-agencies, protection, classical-liberalism]
 aliases: [production of security, private defense agencies, competitive security]
 confidence: medium
@@ -54,6 +54,7 @@ This concept is narrower than [[market-anarchism-and-private-law|Market Anarchis
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
 - [[the-market-for-liberty|The Market for Liberty]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - Molinari's 1849 essay; founding text of the private-security argument
+- [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's proliferating jurisdictions and "sovereignty services" as a market for protection
 
 ## Sources
 

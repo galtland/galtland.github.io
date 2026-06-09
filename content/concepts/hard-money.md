@@ -3,8 +3,8 @@ title: "Hard Money"
 volatility: cold
 category: concept
 created: 2026-05-28
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [hard-money, sound-money, monetary-theory, austrian-economics, bitcoin, gold-standard, stock-to-flow, salability, hardness, libertarian, cypherpunk]
 aliases: [Sound Money, Hard Currency, Hard Money Standard, Monetary Hardness]
 confidence: high
@@ -85,6 +85,7 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[the-cybereconomy|The Cybereconomy]] - the Sovereign Individual's gold-linked "cybercash" forecast in the hard-money lineage
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) - Mises 1912/1934, regression theorem and the classical sound-money program

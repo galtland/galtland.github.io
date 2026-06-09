@@ -7,9 +7,9 @@ Last updated: 2026-06-09
 ## Statistics
 
 - Sources: 132 raw documents (+ 14 news-lens items)
-- Articles: 186 compiled wiki articles (85 concepts, 90 references, 6 theses, 5 topics)
+- Articles: 192 compiled wiki articles (88 concepts, 93 references, 6 theses, 5 topics)
 - Outputs: 1 generated artifacts
-- Last compiled: 2026-05-30
+- Last compiled: 2026-06-09
 - Last lint: 2026-06-08
 - Last librarian scan: 2026-05-30 (0 stale, 0 low-quality; 18 articles human-verified)
 
@@ -29,6 +29,8 @@ Last updated: 2026-06-09
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-06-09: compile — compiled *The Sovereign Individual* (Davidson & Rees-Mogg, 1997) into 6 new articles: references `the-sovereign-individual`, `james-dale-davidson`, `william-rees-mogg`; concepts `megapolitics`, `the-cybereconomy`, `jurisdictional-competition`. Integrated the source into `evolution-of-the-state`, `denationalisation-of-money`, and `crypto-anarchy`; added reciprocal See-Also backlinks across 13 existing articles (bidirectional graph verified). Healed the pre-existing `oppenheimer-on-conquest` row in the concepts index. Article count 186 → 192. (Legacy `wiki/_index.md` aggregate is stale and pending a `/wiki:lint` rebuild.)
 
 - 2026-06-09: ingest — added James Dale Davidson and William Rees-Mogg's *The Sovereign Individual* as a full-text OCR raw aggregate from Internet Archive, marked commercially copyrighted/private-research-only; source count 131 → 132.
 

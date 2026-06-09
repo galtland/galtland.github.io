@@ -3,8 +3,8 @@ title: "War and State Formation"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, organized-crime, evolution-of-the-state, political-means, historical-sociology, totalitarianism, non-libertarian]
 aliases: [war made the state and the state made war, states as protection rackets, Tilly state formation, capital coercion typology]
 confidence: medium
@@ -92,6 +92,7 @@ The 2026-05-12 gap-closure pass appended chapters 2, 4, 5, and 7 to the earlier 
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 - [[stateless-somalia|Stateless Somalia]] - a collapse-then-order counter-case to war-builds-states
+- [[megapolitics|Megapolitics]] - Davidson and Rees-Mogg's violence-cost theory generalizing the war-builds-states logic to forecast state decline
 ## Sources
 
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - Tilly's 1985 essay for the explicit organized-crime/protection-racket formulation and the war-making/state-making/protection/extraction model

@@ -3,8 +3,8 @@ title: "Cypherpunk"
 volatility: warm
 category: topic
 created: 2026-05-28
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [cypherpunk, crypto-anarchy, cryptography, bitcoin, privacy, proof-of-work, austrian-economics, libertarianism]
 aliases: [cypherpunks, crypto-anarchism, cypherpunk movement]
 confidence: medium
@@ -103,6 +103,9 @@ Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-200
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[the-sovereign-individual|The Sovereign Individual]] - 1997 forecast prefiguring cryptographic escape and denationalized digital money
+- [[the-cybereconomy|The Cybereconomy]] - the book's untaxable digital economy and cybercash, a macro statement of the cypherpunk program
+
 ## Sources
 
 - [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) - Tim May 1988, founding political text

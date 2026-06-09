@@ -3,8 +3,8 @@ title: "Market Anarchism and Private Law"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-05-10
-verified: 2026-05-31
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [market-anarchism, private-law, arbitration, defense-agencies, classical-liberalism]
 aliases: [anarcho-capitalism, private law society, market provision of law]
 confidence: medium
@@ -54,6 +54,7 @@ Not every libertarian tradition embraces full market anarchism, but this topic w
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the strategy-by-exit route toward this stateless order
+- [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's "sovereignty services" forecast approaching competitive provision of law and protection
 
 ## Sources
 

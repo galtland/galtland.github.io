@@ -3,8 +3,8 @@ title: "Citizenship and State Bargaining"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [charles-tilly, citizenship, state-formation, bargaining, taxation, rights, war-and-state-formation, non-libertarian]
 aliases: [states and citizens, citizen bargaining, state-citizen bargaining]
 confidence: medium
@@ -34,6 +34,7 @@ The concept complicates a simple parasite metaphor. A parasite model highlights 
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian comparison point
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis whose Tilly gap this concept helps close
 - [[nationalism-and-state-formation|Nationalism and State Formation]] - reciprocal link.
+- [[jurisdictional-competition|Jurisdictional Competition]] - the reverse current in which mobile wealth unwinds the tax-for-rights bargain and turns citizens back into customers
 
 ## Sources
 

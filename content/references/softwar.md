@@ -3,8 +3,8 @@ title: "Softwar"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [jason-lowery, softwar, bitcoin, power-projection, national-security, proof-of-work, cyberspace, non-libertarian]
 aliases: [Softwar thesis, A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin, electro-cyber security thesis]
 confidence: medium
@@ -47,6 +47,8 @@ The confidence level is medium because the source is a completed MIT thesis and 
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - primary Bitcoin design source later interpreted by Lowery
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous author of the whitepaper that Softwar later reframes as electro-cyber power projection
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian state-power frame that overlaps with Lowery's critique of concentrated abstract authority
+- [[the-sovereign-individual|The Sovereign Individual]] - Davidson and Rees-Mogg book Softwar cites (ref. 44); its megapolitics frame underlies Lowery's power-projection theory
+- [[megapolitics|Megapolitics]] - the violence-cost theory Lowery quotes and builds the power-projection lens upon
 
 ## Sources
 

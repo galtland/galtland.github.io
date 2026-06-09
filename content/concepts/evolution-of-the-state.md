@@ -3,9 +3,9 @@ title: "Evolution of the State"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-12
-verified: 2026-05-31
-tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-theory, consent, legitimacy, war-and-state-formation, totalitarianism, mass-society]
+updated: 2026-06-09
+verified: 2026-06-09
+tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-theory, consent, legitimacy, war-and-state-formation, totalitarianism, mass-society, megapolitics, nation-state-decline]
 aliases: [state evolution, historical state formation, state formation, conquest theory of the state]
 confidence: medium
 summary: "Historical-evolution layer for the libertarian state critique: Oppenheimer's conquest-origin thesis, Nock's American application, Hoppe's monarchy-to-democracy regime comparison, Tilly's war-and-state-formation sociology, Arendt's totalitarianism preconditions, and adjacent consent, abstraction, and private-security counterfactuals."
@@ -61,6 +61,10 @@ The Tilly source is now the full text (chapters 1-7), so chapter 5's lineages an
 
 This is the wiki's source for the pathological-development pole that the libertarian state sources had left under-specified. [[totalitarianism|Totalitarianism]] is not the same claim as Oppenheimer's conquest theory, Nock's social-power depletion, Hoppe's democratic time-preference thesis, or Tilly's coercion/capital typology. It is a specific account of how modern political breakdown can produce a regime that seeks total domination rather than ordinary extraction, rule, or compliance.
 
+## The Forward End: Decline of the Nation-State
+
+If conquest theory and war-and-state-formation explain how the state arose and grew, Davidson and Rees-Mogg's [[the-sovereign-individual|The Sovereign Individual]] supplies a forecast for the arc's forward end: dissolution. Their theory of [[megapolitics|megapolitics]] extends the same logic that runs through Tilly and Lane — that the form of government tracks the costs and rewards of violence — and applies it to the information age. Where gunpowder and the factory once made the large centralized nation-state the efficient unit for projecting power and extracting taxes, the microprocessor is said to reverse that efficiency, lowering the returns to organized violence and letting wealth flee into a [[the-cybereconomy|cybereconomy]] beyond easy reach. The predicted result is not a new regime type but the erosion of the territorial monopoly itself, with governments pushed toward [[jurisdictional-competition|jurisdictional competition]]. It is the most explicit decline-and-fall complement to this thread's origin theories, and like them it remains contested — its timeline has not been borne out.
+
 ## The Private-Security Counterfactual
 
 [[the-production-of-security|The Production of Security]] gives the counterfactual that the conquest narrative implicitly contests. If security can be produced competitively, then the historical fact that states monopolized protection does not prove that monopoly was necessary. Molinari asks what security would look like if treated like other goods: contract, competition, insurance, and consumer choice rather than territorial command.
@@ -96,6 +100,8 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - Tilly concept from Chapter 7
 - [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - reciprocal link.
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - the rational-ignorance/collective-action incentive layer
+- [[the-sovereign-individual|The Sovereign Individual]] - megapolitical forecast of the nation-state's information-age decline, the forward end of this arc
+- [[megapolitics|Megapolitics]] - violence-cost theory generalizing the war-and-state-formation logic to predict state decline
 
 ## Sources
 
@@ -108,3 +114,4 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - full-text Tilly source (chapters 1-7) for war-making, extraction, capital/coercion paths, and European state-system convergence
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbard's Oppenheimer-derived analytic state definition
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt's preconditions account for totalitarianism as a novel twentieth-century form of government
+- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapters 5-6 for the megapolitical forecast of nation-state decline in the information age

@@ -3,8 +3,8 @@ title: "Denationalisation of Money"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [hayek, denationalisation-of-money, competing-currencies, currency-competition, free-banking, sound-money, monetary-theory, austrian-economics, bitcoin]
 aliases: [Denationalisation of Money, Denationalization of Money, The Argument Refined, competing currencies, currency competition, free trade in money]
 confidence: medium
@@ -28,7 +28,7 @@ A standard objection is Gresham's Law — "bad money drives out good." Hayek ans
 
 ## Lineage and Reception
 
-The monograph followed Hayek's shorter 1976 lecture *Choice in Currency: A Way to Stop Inflation*, which had already proposed breaking the monopoly by letting citizens use competing (e.g. foreign) currencies. Together they mark Hayek's most concrete institutional break with central banking, distinct from his earlier business-cycle and knowledge-problem work. The idea fed directly into the later **free-banking** literature (Selgin, White) and became a touchstone in libertarian and cypherpunk monetary debate — the [[cypherpunk|Cypherpunk]] canon explicitly flags "denationalization of money" as a goal.
+The monograph followed Hayek's shorter 1976 lecture *Choice in Currency: A Way to Stop Inflation*, which had already proposed breaking the monopoly by letting citizens use competing (e.g. foreign) currencies. Together they mark Hayek's most concrete institutional break with central banking, distinct from his earlier business-cycle and knowledge-problem work. The idea fed directly into the later **free-banking** literature (Selgin, White) and became a touchstone in libertarian and cypherpunk monetary debate — the [[cypherpunk|Cypherpunk]] canon explicitly flags "denationalization of money" as a goal. Davidson and Rees-Mogg's 1997 [[the-sovereign-individual|The Sovereign Individual]] is an explicit bridge between this proposal and the cryptographic future: their forecast of denationalized "cybercash" in a borderless [[the-cybereconomy|cybereconomy]] invokes Hayek directly, predicting that "encrypted cybercash will bring Hayek's logic vividly to life."
 
 ## Relation to Bitcoin
 
@@ -62,9 +62,12 @@ These criticisms do not all land the same way against Bitcoin, whose cryptograph
 - [[austrian-economics|Austrian Economics]] - the school within which the proposal is debated
 - [[cypherpunk|Cypherpunk]] - the movement that adopted "denationalization of money" as a goal
 - [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[the-sovereign-individual|The Sovereign Individual]] - 1997 forecast that "encrypted cybercash" would realize Hayek's currency-competition logic
+- [[the-cybereconomy|The Cybereconomy]] - the borderless digital-money domain framed as fulfilling denationalization
 
 ## Sources
 
 - [Denationalisation of Money: The Argument Refined (Full Text)](https://archive.org/details/denationalisation-of-money-the-argument-refined-5) - IEA Hobart Paperback, 2nd ed. 1978; freely distributed by the IEA / Mises Institute (quote-check against an authorized edition)
 - [The Mystery of Banking (Full Text Aggregate)](https://mises.org/library/book/mystery-banking) - Rothbard; source for the reference to his "Hayek's Denationalized Money" critique
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Hoppe's characterization of the proposal as a "misconception" and his regression-theorem objection
+- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 7 "Cybercash" section, where the authors cite Hayek and predict denationalized digital money

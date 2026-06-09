@@ -3,8 +3,8 @@ title: "Crypto Anarchy"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [cypherpunk, crypto-anarchy, cryptography, privacy, state-power, libertarianism]
 aliases: [Crypto-Anarchy, crypto anarchism, crypto anarchist thesis]
 confidence: medium
@@ -74,6 +74,8 @@ The confidence level is medium because the article describes May's thesis accura
 - [[digital-cash-history|Lessons from Digital-Cash History]] - why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the agorist counter-economy strategy this operationalizes
+- [[the-sovereign-individual|The Sovereign Individual]] - reaches the same cryptographic-escape forecast from an investor-and-historian's direction rather than the cryptographer's
+- [[the-cybereconomy|The Cybereconomy]] - Davidson and Rees-Mogg's untaxable digital economy, the macro counterpart to May's crypto-anarchic zones
 
 ## Sources
 
