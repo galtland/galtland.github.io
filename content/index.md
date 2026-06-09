@@ -6,8 +6,8 @@ Last updated: 2026-06-09
 
 ## Statistics
 
-- Sources: 139 raw documents (+ 14 news-lens items)
-- Articles: 206 compiled wiki articles (89 concepts, 106 references, 6 theses, 5 topics)
+- Sources: 141 raw documents (+ 14 news-lens items)
+- Articles: 209 compiled wiki articles (90 concepts, 108 references, 6 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-09
 - Last lint: 2026-06-09
@@ -29,6 +29,8 @@ Last updated: 2026-06-09
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-06-09: ingest+compile — filled the two natural-law follow-up gaps. Ingested Cicero's *De Legibus* and Rothbard's *Economic Thought Before Adam Smith* (2 sources, 139→141), then compiled 3 articles: reference `cicero-de-legibus`, concept `school-of-salamanca` (the late Spanish scholastics as natural-law theorists and proto-Austrian economists — the bridge between the wiki's natural-law and Austrian/money pillars), and reference `economic-thought-before-adam-smith`. Wired into 10 existing articles; bidirectional graph verified. Article count 206 → 209.
 
 - 2026-06-09: compile — compiled the classical **natural-law canon** into 14 new articles: the concept `natural-law-and-natural-order` (mapping the Aristotle→Cicero→Aquinas→Grotius→Locke→Spooner→Rothbard/Hoppe lineage), 7 book references (Second Treatise, De Re Publica, Nicomachean Ethics, Politics, Aquinas's Treatise on Law, Rights of War and Peace, Spooner's Natural Law), and 6 author references (Locke, Cicero, Aristotle, Aquinas, Grotius, Spooner). Wired into 7 existing articles (`nonaggression-and-property-rights`, `the-ethics-of-liberty`, `hans-hermann-hoppe`, `the-law`, `libertarianism`, `lets-abolish-government`, `market-anarchism-and-private-law`); bidirectional graph verified, 0 broken links. Article count 192 → 206.
 

@@ -17,11 +17,12 @@ summary: "Short author reference for Marcus Tullius Cicero (106–43 BC), the Ro
 
 ## Place in This Wiki
 
-Cicero was a Roman senator, consul, orator, and the most important Latin transmitter of Greek philosophy. The wiki uses him as the **bridge from Greek natural justice to Roman law**: his statement that "true law is right reason in accordance with nature," universal and unchangeable, beyond the power of senate or people to repeal, fixed the vocabulary that the Roman jurists, the Scholastics, and ultimately the modern rights tradition would use. He writes as a defender of the Roman republic and its mixed constitution, not as a libertarian; his relevance here is strictly the natural-law inheritance he carried forward. His companion work *De Legibus* (On the Laws) is a documented follow-up not yet ingested.
+Cicero was a Roman senator, consul, orator, and the most important Latin transmitter of Greek philosophy. The wiki uses him as the **bridge from Greek natural justice to Roman law**: his statement that "true law is right reason in accordance with nature," universal and unchangeable, beyond the power of senate or people to repeal, fixed the vocabulary that the Roman jurists, the Scholastics, and ultimately the modern rights tradition would use. He writes as a defender of the Roman republic and its mixed constitution, not as a libertarian; his relevance here is strictly the natural-law inheritance he carried forward. His companion work [[cicero-de-legibus|De Legibus]] (On the Laws) develops the systematic natural-law argument and is also in this wiki.
 
 ## See Also
 
 - [[cicero-de-re-publica|De Re Publica]] - the work present in this wiki
+- [[cicero-de-legibus|De Legibus]] - On the Laws, the systematic natural-law argument
 
 ## Sources
 

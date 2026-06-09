@@ -3,8 +3,8 @@ title: "Austrian Economics"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [austrian-economics, economics, praxeology, intervention, calculation-problem, knowledge-problem, business-cycle]
 aliases: [Austrian School, Austrian School of Economics]
 confidence: medium
@@ -90,6 +90,8 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
 - [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
+- [[school-of-salamanca|School of Salamanca]] - the proto-Austrian scholastic prehistory of the school
+- [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's Austrian history of pre-Smith economics
 
 ## Sources
 

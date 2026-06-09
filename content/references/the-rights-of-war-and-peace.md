@@ -34,6 +34,7 @@ Grotius stands between [[aquinas-treatise-on-law|Aquinas]] and [[the-second-trea
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition this text secularizes
 - [[aquinas-treatise-on-law|Treatise on Law]] - the Scholastic natural law Grotius inherits and secularizes
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's rights theory downstream of Grotius
+- [[school-of-salamanca|School of Salamanca]] - Vitoria's natural-law school, the parallel founder of international law
 
 ## Sources
 

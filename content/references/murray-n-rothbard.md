@@ -3,8 +3,8 @@ title: "Murray N. Rothbard"
 volatility: warm
 category: reference
 created: 2026-04-21
-updated: 2026-05-06
-verified: 2026-05-30
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [rothbard, libertarianism, austrian-economics, anti-statism, economic-history]
 aliases: [Murray Rothbard, Rothbard]
 confidence: medium
@@ -66,6 +66,8 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 
 
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
+- [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's history of economic thought, Vol. 1
+- [[school-of-salamanca|School of Salamanca]] - the scholastics Rothbard frames as proto-Austrians
 
 ## Sources
 

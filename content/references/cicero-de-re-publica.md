@@ -28,7 +28,7 @@ Beyond the natural-law fragment, *De Re Publica* defends the **mixed constitutio
 
 ## Place in This Wiki
 
-*De Re Publica* sits one step downstream of [[nicomachean-ethics|Aristotle's]] natural justice and directly upstream of [[aquinas-treatise-on-law|Aquinas]], who quotes the Roman jurists' natural-law vocabulary that Cicero helped fix. Note: Cicero's companion treatise *De Legibus* (On the Laws), whose Book I is the systematic natural-law argument, is a documented follow-up not yet ingested here.
+*De Re Publica* sits one step downstream of [[nicomachean-ethics|Aristotle's]] natural justice and directly upstream of [[aquinas-treatise-on-law|Aquinas]], who quotes the Roman jurists' natural-law vocabulary that Cicero helped fix. Cicero's companion treatise [[cicero-de-legibus|De Legibus]] (On the Laws), whose Book I is the systematic natural-law argument, is now also in this wiki.
 
 ## See Also
 
@@ -36,6 +36,7 @@ Beyond the natural-law fragment, *De Re Publica* defends the **mixed constitutio
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition Cicero transmits
 - [[nicomachean-ethics|Nicomachean Ethics]] - Aristotle's natural justice, upstream of Cicero
 - [[aquinas-treatise-on-law|Treatise on Law]] - the medieval synthesis Cicero feeds
+- [[cicero-de-legibus|De Legibus]] - the companion dialogue's systematic natural-law argument
 
 ## Sources
 

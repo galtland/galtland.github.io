@@ -86,6 +86,8 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[the-cybereconomy|The Cybereconomy]] - the Sovereign Individual's gold-linked "cybercash" forecast in the hard-money lineage
+- [[school-of-salamanca|School of Salamanca]] - the scholastic quantity-theory and anti-debasement roots of sound money
+- [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's history tracing sound-money thought to the scholastics
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) - Mises 1912/1934, regression theorem and the classical sound-money program

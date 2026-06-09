@@ -102,6 +102,7 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - the rational-ignorance/collective-action incentive layer
 - [[the-sovereign-individual|The Sovereign Individual]] - megapolitical forecast of the nation-state's information-age decline, the forward end of this arc
 - [[megapolitics|Megapolitics]] - violence-cost theory generalizing the war-and-state-formation logic to predict state decline
+- [[school-of-salamanca|School of Salamanca]] - Suárez and Mariana on consent, the state of nature, and resistance to tyranny, anticipating Locke
 
 ## Sources
 

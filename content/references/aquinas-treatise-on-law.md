@@ -42,6 +42,8 @@ Aquinas synthesizes [[nicomachean-ethics|Aristotle]] ("the Philosopher," cited o
 - [[aristotle-politics|Politics]] - Aristotle's natural teleology of the polis, cited throughout the Treatise on Law
 - [[cicero-de-re-publica|De Re Publica]] - the Ciceronian natural-reason vocabulary Aquinas inherits
 - [[the-rights-of-war-and-peace|The Rights of War and Peace]] - Grotius's secularizing successor
+- [[cicero-de-legibus|De Legibus]] - Cicero's "unjust law is no law" argument that Aquinas inherits
+- [[school-of-salamanca|School of Salamanca]] - the sixteenth-century scholastics who revived this Thomist natural law
 
 ## Sources
 
