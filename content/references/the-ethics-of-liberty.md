@@ -3,8 +3,8 @@ title: "The Ethics of Liberty"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [rothbard, natural-rights, ethics, liberty, property-rights]
 aliases: [EoL, Rothbard's Ethics]
 confidence: medium
@@ -29,7 +29,7 @@ The raw source is the Mises Institute's PDF of the NYU Press 1998 edition (336 p
 
 ## Relation to Other Texts in This Wiki
 
-This book is in dialogue with several other sources. The natural-law foundation is sharpened by contrast with Mises's deliberate refusal of natural-rights argument in [[liberalism|Liberalism]]. The property theory pairs naturally with [[a-theory-of-socialism-and-capitalism|Hoppe's A Theory of Socialism and Capitalism]]. The strategy chapter (Part V) makes contact with the consent-and-habit analysis of [[the-politics-of-obedience|The Politics of Obedience]]. Rothbard's critique of Hayek on coercion in Chapter 28 is also one of the few places in the wiki where the Rothbardian and Hayekian wings of the tradition disagree explicitly — see [[road-to-serfdom|The Road to Serfdom]] and [[individualism-and-economic-order|Individualism and Economic Order]].
+This book is in dialogue with several other sources. The natural-law foundation is sharpened by contrast with Mises's deliberate refusal of natural-rights argument in [[liberalism|Liberalism]]. Rothbard's Part I, titled "Natural Law," is the modern terminus of the classical lineage mapped in [[natural-law-and-natural-order|Natural Law and Natural Order]] — Aristotle, Cicero, Aquinas, and Grotius, and most directly [[the-second-treatise-of-government|Locke]] and [[spooner-natural-law|Spooner]], whom Rothbard explicitly revived. The property theory pairs naturally with [[a-theory-of-socialism-and-capitalism|Hoppe's A Theory of Socialism and Capitalism]]. The strategy chapter (Part V) makes contact with the consent-and-habit analysis of [[the-politics-of-obedience|The Politics of Obedience]]. Rothbard's critique of Hayek on coercion in Chapter 28 is also one of the few places in the wiki where the Rothbardian and Hayekian wings of the tradition disagree explicitly — see [[road-to-serfdom|The Road to Serfdom]] and [[individualism-and-economic-order|Individualism and Economic Order]].
 
 ## See Also
 
@@ -44,6 +44,9 @@ This book is in dialogue with several other sources. The natural-law foundation 
 - [[libertarianism|Libertarianism]] - broader topic context
 - [[power-and-market|Power and Market]] - Rothbard's companion volume on government intervention
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
+- [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical lineage Part I ("Natural Law") culminates
+- [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's natural-rights theory upstream of Rothbard's
+- [[spooner-natural-law|Natural Law; or The Science of Justice]] - Spooner's natural-rights anarchism that Rothbard revived
 
 ## Sources
 

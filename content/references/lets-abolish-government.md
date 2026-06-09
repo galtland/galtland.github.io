@@ -3,8 +3,8 @@ title: "Let's Abolish Government"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-04-25
-verified: 2026-05-30
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [spooner, government, constitutionalism, anti-statism]
 aliases: [Lets Abolish Government]
 confidence: medium
@@ -38,6 +38,8 @@ This reference also matters because the title and curation are Rothbardian. In t
 - [[libertarianism|Libertarianism]] - broader doctrine that absorbs Spooner's anti-statism
 - [[the-politics-of-obedience|The Politics of Obedience]] - neighboring classic on obedience, consent, and domination
 - [[murray-n-rothbard|Murray N. Rothbard]] - curator whose canon-building role is visible in this collection
+- [[spooner-natural-law|Natural Law; or The Science of Justice]] - Spooner's concentrated natural-law statement
+- [[lysander-spooner|Lysander Spooner]] - author reference for this collection's source
 
 ## Sources
 

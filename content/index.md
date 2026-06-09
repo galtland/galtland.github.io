@@ -7,7 +7,7 @@ Last updated: 2026-06-09
 ## Statistics
 
 - Sources: 139 raw documents (+ 14 news-lens items)
-- Articles: 192 compiled wiki articles (88 concepts, 93 references, 6 theses, 5 topics)
+- Articles: 206 compiled wiki articles (89 concepts, 106 references, 6 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-09
 - Last lint: 2026-06-09
@@ -29,6 +29,8 @@ Last updated: 2026-06-09
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-06-09: compile — compiled the classical **natural-law canon** into 14 new articles: the concept `natural-law-and-natural-order` (mapping the Aristotle→Cicero→Aquinas→Grotius→Locke→Spooner→Rothbard/Hoppe lineage), 7 book references (Second Treatise, De Re Publica, Nicomachean Ethics, Politics, Aquinas's Treatise on Law, Rights of War and Peace, Spooner's Natural Law), and 6 author references (Locke, Cicero, Aristotle, Aquinas, Grotius, Spooner). Wired into 7 existing articles (`nonaggression-and-property-rights`, `the-ethics-of-liberty`, `hans-hermann-hoppe`, `the-law`, `libertarianism`, `lets-abolish-government`, `market-anarchism-and-private-law`); bidirectional graph verified, 0 broken links. Article count 192 → 206.
 
 - 2026-06-09: ingest — added the classical **natural-law canon** as 7 full-text public-domain raw sources: Locke *Second Treatise of Government*, Cicero *De Re Publica*, Aristotle *Nicomachean Ethics* and *Politics*, Aquinas *Summa Theologica* Treatise on Law (QQ. 90–108), Grotius *The Rights of War and Peace*, and Spooner *Natural Law; or The Science of Justice*. Fills the natural-law/natural-order classics gap behind the modern Rothbard/Hoppe/Bastiat branch. Source count 132 → 139. Not yet compiled.
 

@@ -55,6 +55,7 @@ Not every libertarian tradition embraces full market anarchism, but this topic w
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the strategy-by-exit route toward this stateless order
 - [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's "sovereignty services" forecast approaching competitive provision of law and protection
+- [[spooner-natural-law|Natural Law; or The Science of Justice]] - Spooner's natural-rights case against legislation, ancestor of market-anarchist law
 
 ## Sources
 

@@ -3,8 +3,8 @@ title: "Libertarianism"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [libertarian thought, liberty tradition]
 confidence: medium
@@ -106,6 +106,7 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical natural-rights foundation of the natural-rights branch of the doctrine
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - Rothbard's full-book overview of doctrine, applications, and strategy

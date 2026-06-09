@@ -3,8 +3,8 @@ title: "Nonaggression and Property Rights"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-09
+verified: 2026-06-09
 tags: [nonaggression, property-rights, ethics, liberty, classical-liberalism, political-means]
 aliases: [NAP, nonaggression principle, private property rights]
 confidence: medium
@@ -41,6 +41,8 @@ The Tannehills' [[the-market-for-liberty|The Market for Liberty]] pushes the sam
 
 The wiki holds three distinct defenses of this normative core. [[the-ethics-of-liberty|Rothbard's The Ethics of Liberty]] is the **natural-rights** defense — self-ownership and property in unowned things appropriated through use are derived from a natural-law foundation. [[liberalism|Mises's Liberalism]] is the **consequentialist/utilitarian** defense — Mises explicitly declines natural-rights argument and grounds the case for liberty in the prosperity that property and exchange make possible. [[hans-hermann-hoppe|Hoppe]] adds a third, distinct from both: an **argumentation-ethics** defense that treats self-ownership and property as presuppositions any disputant must concede simply by arguing, so that denying them is a performative contradiction. The three reach overlapping conclusions but answer the *why* differently — on grounds of justice, of results, or of the preconditions of rational discourse.
 
+The natural-rights defense is itself the terminus of a long classical lineage, now mapped in [[natural-law-and-natural-order|Natural Law and Natural Order]]: self-ownership and property-by-use descend from Aristotle's natural justice, Cicero's right reason, Aquinas's natural law, and Grotius's secularization, and most directly from [[the-second-treatise-of-government|Locke's]] account of property — "every man has a property in his own person," extended to the world by mixing his labour — which this article's homesteading principle restates.
+
 ## See Also
 
 - [[libertarianism|Libertarianism]] - broader doctrine built around this normative baseline
@@ -76,6 +78,8 @@ The wiki holds three distinct defenses of this normative core. [[the-ethics-of-l
 - [[the-virtue-of-selfishness|The Virtue of Selfishness]] - Rand's 1964 essay collection stating the Objectivist ethics of rational self-interest and its
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 - [[non-interventionism|Non-Interventionism]] - the foreign-policy application of the nonaggression axiom
+- [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical lineage behind the natural-rights defense
+- [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's labour-mixing property account restated by the homesteading principle
 
 ## Sources
 
