@@ -40,11 +40,23 @@ The habit is reinforced from above, and this is where the reader's propaganda po
 
 With schools, mass media, and the prestige economy oriented toward the legitimacy of the "we," the reader is right that libertarian education starts several lengths behind — a point the corpus concedes rather than rebuts.
 
-And where opinion could be contested, the ballot box is rigged by structure. [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] gives the demand-side reason — *"Voter ignorance is rational because the cost of gathering information about an upcoming election is high relative to the benefits of voting"* — and the supply-side reason intervention accretes regardless of who wins: small concentrated interests out-organize the diffuse public. Liberty is a systematically under-supplied good.
+And where opinion could be contested, the ballot box is rigged by structure. [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] gives the demand-side reason:
+
+> "Voter ignorance is rational because the cost of gathering information about an upcoming election is high relative to the benefits of voting."
+>
+> — William F. Shughart II, "Public Choice" (Concise Encyclopedia of Economics)
+
+The supply-side reason is structural too: intervention accretes regardless of who wins, because small concentrated interests out-organize the diffuse public. Liberty is a systematically under-supplied good.
 
 ## Why Nationalism Is Easy
 
-The asymmetry is not a marketing accident: nationalism has its raw material, its builder, and its market all working in concert. The raw material is tribal and needs no teaching — Sumner's ethnocentrism, in which *"Each group nourishes its own pride and vanity, boasts itself superior, exalts its own divinities, and looks with contempt on outsiders."* The state refines that sentiment into national identity as part of its own consolidation, manufacturing it through direct rule and military mobilization, so that the loyalty it needs is produced by the very process that builds it. And it lands on fertile ground, because atomized, interchangeable people are starved for exactly what it offers — belonging, an enemy, and certainty in a single package — and so are available to be mobilized *en masse*. Each of these legs is documented in the corpus: the tribal raw material in [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]], the state-making channel in [[nationalism-and-state-formation|Nationalism and State Formation]] via [[charles-tilly|Tilly]], and the lonely-mass demand in [[mass-society-and-atomization|Mass Society and Atomization]] via [[hannah-arendt|Arendt]]. Nationalism is easy because the state paves its road and the lonely psyche craves what it sells — neither of which bears on whether it is *true*. This is the standing edge the reader names, and the corpus does not dispute it.
+The asymmetry is not a marketing accident: nationalism has its raw material, its builder, and its market all working in concert. The raw material is tribal and needs no teaching — Sumner's ethnocentrism:
+
+> "Each group nourishes its own pride and vanity, boasts itself superior, exalts its own divinities, and looks with contempt on outsiders."
+>
+> — William Graham Sumner, *Folkways*
+
+The state refines that sentiment into national identity as part of its own consolidation, manufacturing it through direct rule and military mobilization, so that the loyalty it needs is produced by the very process that builds it. And it lands on fertile ground, because atomized, interchangeable people are starved for exactly what it offers — belonging, an enemy, and certainty in a single package — and so are available to be mobilized *en masse*. Each of these legs is documented in the corpus: the tribal raw material in [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]], the state-making channel in [[nationalism-and-state-formation|Nationalism and State Formation]] via [[charles-tilly|Tilly]], and the lonely-mass demand in [[mass-society-and-atomization|Mass Society and Atomization]] via [[hannah-arendt|Arendt]]. Nationalism is easy because the state paves its road and the lonely psyche craves what it sells — neither of which bears on whether it is *true*. This is the standing edge the reader names, and the corpus does not dispute it.
 
 ## The Internal Sects Are Real — But Share a Spine
 
@@ -72,7 +84,13 @@ The reader's sharpest point: total payment tracking, AI analysis, and CBDCs make
 
 > CBDCs are programmable money enabling comprehensive surveillance and control, not simple digital versions of existing currency.
 
-That is a contested argument, not a settled fact, and Hillebrand concedes the point himself: *"Programmability is a design choice, not an inherent feature of digital currency. A CBDC could be designed to replicate cash's properties: anonymous, bearer-based, and free of spending restrictions."* The issuers of the leading CBDC projects say theirs will be just that — cash-like, intermediated through private providers rather than direct central-bank accounts, and never programmed to restrict spending — and the critique's reply is not that they are lying but that each of these is a policy commitment, revocable by the same authority that made it, rather than a technical guarantee. The thesis does not need the strong version of the claim, and the CBDC dispute can be set aside entirely. Even granting every design promise, the uncontested trend is enough: exposed digital payment is increasingly cheap to observe, and AI sharpens the analysis of whatever is exposed. The whole counter then rests on one lever — the [[resistance-axiom|resistance axiom]]: the claim that **cryptography is the one asymmetry that does not scale with the adversary's size or intelligence.** A sound key is as unbreakable for a superpower with the best models as for anyone; AI analyzes data that is *exposed*, it does not break good cryptography. The strategy is therefore not to out-surveil the state — impossible, as the reader says — but to make activity *unobservable in the first place*, breaking the loop at observation:
+That is a contested argument, not a settled fact, and Hillebrand concedes the point himself:
+
+> "Programmability is a design choice, not an inherent feature of digital currency. A CBDC could be designed to replicate cash's properties: anonymous, bearer-based, and free of spending restrictions."
+>
+> — Max Hillebrand, *The Praxeology of Privacy*
+
+The issuers of the leading CBDC projects say theirs will be just that — cash-like, intermediated through private providers rather than direct central-bank accounts, and never programmed to restrict spending — and the critique's reply is not that they are lying but that each of these is a policy commitment, revocable by the same authority that made it, rather than a technical guarantee. The thesis does not need the strong version of the claim, and the CBDC dispute can be set aside entirely. Even granting every design promise, the uncontested trend is enough: exposed digital payment is increasingly cheap to observe, and AI sharpens the analysis of whatever is exposed. The whole counter then rests on one lever — the [[resistance-axiom|resistance axiom]]: the claim that **cryptography is the one asymmetry that does not scale with the adversary's size or intelligence.** A sound key is as unbreakable for a superpower with the best models as for anyone; AI analyzes data that is *exposed*, it does not break good cryptography. The strategy is therefore not to out-surveil the state — impossible, as the reader says — but to make activity *unobservable in the first place*, breaking the loop at observation:
 
 > When observation becomes expensive enough, the entire attack cycle becomes uneconomical.
 
