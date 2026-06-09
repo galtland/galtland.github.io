@@ -57,7 +57,7 @@ That does not settle every empirical question about the UIC, al-Qaeda allegation
 
 An invasion is the political means in its most literal form. It does not persuade a local settlement into a better one; it overrides it by force and assigns the costs to people who did not choose the exchange.
 
-[[tilly-on-protection-rackets|Tilly on Protection Rackets]] gives the causal test for the protection claim. In [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]], [[charles-tilly|Tilly]] defines the racketeer as:
+[[tilly-on-protection-rackets|Tilly on Protection Rackets]] gives the causal test for the protection claim. [[charles-tilly|Tilly]] defines the racketeer as:
 
 > "someone who creates a threat and then charges for its reduction."
 >
@@ -65,7 +65,7 @@ An invasion is the political means in its most literal form. It does not persuad
 
 Applied carefully, that does not mean al-Shabab was invented from nothing. The BBC says it already existed as the courts' youth wing. The stronger claim is causal transformation: the 2006 invasion helped turn the movement and allied resistance into the central insurgent field that later interventions would cite as their reason for staying. A protector need not fabricate every danger to fit Tilly's test. It is enough that its own action helps produce the form, scale, or permanence of the danger it then treats as a reason for more protection.
 
-[[rothbard-on-war-and-the-state|Rothbard on War and the State]] explains why that apparatus does not naturally retire once the initial justification has passed. In [[anatomy-of-the-state|Anatomy of the State]], Rothbard's institutional claim is that:
+[[rothbard-on-war-and-the-state|Rothbard on War and the State]] explains why that apparatus does not naturally retire once the initial justification has passed. Rothbard's institutional claim is that:
 
 > "every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society."
 >

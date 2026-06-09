@@ -32,7 +32,7 @@ On the facts, the corpus agrees almost completely, and is candid that the obstac
 
 The oldest answer in the corpus is that obedience is habituated, not compelled. [[the-politics-of-obedience|The Politics of Obedience]] holds that a tiny ruling minority dominates a vast population through custom, dependence, and withdrawn resistance, so that subjection becomes second nature. Liberty is hard in a specific way: it asks people to un-learn a habit, not merely weigh an argument.
 
-The habit is reinforced from above, and this is where the reader's propaganda point lands hardest. [[state-power-and-intervention|State Power and Intervention]], via [[murray-n-rothbard|Rothbard]]'s *Anatomy of the State*, holds that the state's long-run problem is ideological, and that manufacturing consent is the work of intellectuals:
+The habit is reinforced from above, and this is where the reader's propaganda point lands hardest. [[state-power-and-intervention|State Power and Intervention]], via [[murray-n-rothbard|Rothbard]], holds that the state's long-run problem is ideological, and that manufacturing consent is the work of intellectuals:
 
 > For the masses of men do not create their own ideas, or indeed think through these ideas independently; they follow passively the ideas adopted and disseminated by the body of intellectuals.
 >
@@ -80,7 +80,7 @@ The strategic payoff, in [[parallel-economy|the parallel economy]], is blunt: *"
 
 ## Which Collapse? The War-Ratchet vs. the Monetary Reckoning
 
-The reader's "economic apocalypse" intuition is half-right, and the corpus splits it on a distinction that is the whole game. Not every collapse runs one way — the Soviet dissolution in 1991 destroyed a state outright rather than strengthening it — but the *crisis* kind the reader has in mind, war and emergency, carries a documented ratchet toward state power. Rothbard's [[anatomy-of-the-state|Anatomy of the State]] states it:
+The reader's "economic apocalypse" intuition is half-right, and the corpus splits it on a distinction that is the whole game. Not every collapse runs one way — the Soviet dissolution in 1991 destroyed a state outright rather than strengthening it — but the *crisis* kind the reader has in mind, war and emergency, carries a documented ratchet toward state power. Rothbard states it:
 
 > In war, State power is pushed to its ultimate, and, under the slogans of "defense" and "emergency," it can impose a tyranny upon the public such as might be openly resisted in time of peace.
 >

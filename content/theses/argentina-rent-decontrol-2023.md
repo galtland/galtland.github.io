@@ -24,7 +24,7 @@ Abolishing rent control changed a legal constraint, not a housing preference. An
 
 ## Ceiling And Shortage
 
-[[mises-on-rent-ceilings|Mises on Rent Ceilings]] states the residential case directly in [[liberalism|Liberalism]]:
+[[mises-on-rent-ceilings|Mises on Rent Ceilings]] states the residential case directly:
 
 > When, for instance, the government fixes a ceiling on residential rents, a housing shortage immediately ensues. In Austria, the Social Democratic Party has virtually abolished residential rent. The consequence is that in the city of Vienna, for example, in spite of the fact that the population has declined considerably since the beginning of the World War and that several thousand new houses have been constructed by the municipality in the meantime, many thousands of persons are unable to find accommodations.
 >
@@ -32,7 +32,7 @@ Abolishing rent control changed a legal constraint, not a housing preference. An
 
 The point is marginal, not total. The claim is not that every owner withdraws every unit. It is that the legal ceiling changes the terms on which a unit is worth offering. Some units stay occupied under old terms. Some are withheld. Some are shifted into other uses or contract forms. Some maintenance and new building become less attractive. The shortage is then rationed by nonprice devices.
 
-[[mises-on-rent-ceilings|Mises on Rent Ceilings]] gives the same mechanism in [[human-action|Human Action]]:
+[[mises-on-rent-ceilings|Mises on Rent Ceilings]] gives the same mechanism:
 
 > At any rate, their price ceilings do not abolish the catallactic phenomenon of the urban rent. They merely transfer the rent from the landlord's income into the tenant's income. ... The rent restriction creates a housing shortage. It increases demand without increasing supply.
 >
@@ -42,7 +42,7 @@ That transfer matters during repeal. Tenants protected by the ceiling lose an im
 
 ## Maximum Price Control
 
-[[rothbard-on-price-controls|Rothbard on Price Controls]] gives the general maximum-price mechanism in [[power-and-market|Power and Market]]:
+[[rothbard-on-price-controls|Rothbard on Price Controls]] gives the general maximum-price mechanism:
 
 > For the truth is precisely the reverse: price control creates an artificial shortage of the product, which continues as long as the control is in existence - in fact, becomes ever worse as resources continue to shift to other products.
 >
