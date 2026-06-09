@@ -6,7 +6,7 @@ Last updated: 2026-06-09
 
 ## Statistics
 
-- Sources: 131 raw documents (+ 14 news-lens items)
+- Sources: 132 raw documents (+ 14 news-lens items)
 - Articles: 186 compiled wiki articles (85 concepts, 90 references, 6 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-30
@@ -29,6 +29,8 @@ Last updated: 2026-06-09
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-06-09: ingest — added James Dale Davidson and William Rees-Mogg's *The Sovereign Individual* as a full-text OCR raw aggregate from Internet Archive, marked commercially copyrighted/private-research-only; source count 131 → 132.
 
 - 2026-06-08: thesis -- added `2026-06-08-libertarianism-and-the-adoption-problem`; regenerated newsroom indexes and backlinks.
 
