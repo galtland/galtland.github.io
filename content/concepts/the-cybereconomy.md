@@ -33,7 +33,7 @@ Writing in 1997, the authors explicitly framed this as the fulfillment of [[frie
 
 ## Connection and Caveats
 
-The cybereconomy forecast sits squarely alongside the [[cypherpunk|cypherpunk]] program: it shares with [[crypto-anarchy|crypto anarchy]] the premise that strong cryptography opens zones of exchange that states cannot surveil, tax, or censor. Where Tim May reasons from the cryptographer's primitives outward, Davidson and Rees-Mogg reason from the investor's and historian's view of capital mobility inward, and arrive at the same place.
+The cybereconomy forecast sits squarely alongside the [[cypherpunk|cypherpunk]] program: it shares with [[crypto-anarchy|crypto anarchy]] the premise that strong cryptography opens zones of exchange that states cannot surveil, tax, or censor. Where [[timothy-c-may|Tim May]] reasons from the cryptographer's primitives outward, Davidson and Rees-Mogg reason from the investor's and historian's view of capital mobility inward, and arrive at the same place.
 
 Confidence is medium. The cybercash prediction was substantially vindicated by the later emergence of cryptocurrency, and it is corroborated by independent wiki sources on currency competition and digital cash. But the broader claim — that the cybereconomy would by now have hollowed out the nation-state's tax base and produced "no cybertaxes and no cybergovernment" — remains a forecast whose record is mixed: states have proven far more able to tax, surveil, and regulate online commerce (and even cryptocurrency) than the book expected.
 
