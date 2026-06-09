@@ -6,7 +6,7 @@ Last updated: 2026-06-09
 
 ## Statistics
 
-- Sources: 141 raw documents (+ 14 news-lens items)
+- Sources: 145 raw documents (+ 14 news-lens items)
 - Articles: 209 compiled wiki articles (90 concepts, 108 references, 6 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-09
@@ -29,6 +29,8 @@ Last updated: 2026-06-09
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-06-09: ingest — natural-law follow-ups: Pufendorf (*Whole Duty of Man*), the American Declaration of Independence (Jefferson), Paine (*Rights of Man*) as full public-domain texts, plus a Mariana monetary-treatise stub (English translation copyright-restricted). Source count 141 → 145. Not yet compiled.
 
 - 2026-06-09: style — added bottom "— Author, *Work*" attributions to 30 direct-quote blockquotes across 12 articles (franciscos-money-speech, credit-and-deferred-payment, the 3 theses, etc.), matching the convention already used in ~half the wiki. Abstract and thesis-statement blockquotes left unattributed. No article-count change.
 
