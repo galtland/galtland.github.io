@@ -10,7 +10,7 @@ Last updated: 2026-06-09
 - Articles: 192 compiled wiki articles (88 concepts, 93 references, 6 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-09
-- Last lint: 2026-06-08
+- Last lint: 2026-06-09
 - Last librarian scan: 2026-05-30 (0 stale, 0 low-quality; 18 articles human-verified)
 
 ## Quick Navigation
