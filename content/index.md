@@ -6,7 +6,7 @@ Last updated: 2026-06-09
 
 ## Statistics
 
-- Sources: 132 raw documents (+ 14 news-lens items)
+- Sources: 139 raw documents (+ 14 news-lens items)
 - Articles: 192 compiled wiki articles (88 concepts, 93 references, 6 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-09
@@ -29,6 +29,8 @@ Last updated: 2026-06-09
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-06-09: ingest — added the classical **natural-law canon** as 7 full-text public-domain raw sources: Locke *Second Treatise of Government*, Cicero *De Re Publica*, Aristotle *Nicomachean Ethics* and *Politics*, Aquinas *Summa Theologica* Treatise on Law (QQ. 90–108), Grotius *The Rights of War and Peace*, and Spooner *Natural Law; or The Science of Justice*. Fills the natural-law/natural-order classics gap behind the modern Rothbard/Hoppe/Bastiat branch. Source count 132 → 139. Not yet compiled.
 
 - 2026-06-09: compile — compiled *The Sovereign Individual* (Davidson & Rees-Mogg, 1997) into 6 new articles: references `the-sovereign-individual`, `james-dale-davidson`, `william-rees-mogg`; concepts `megapolitics`, `the-cybereconomy`, `jurisdictional-competition`. Integrated the source into `evolution-of-the-state`, `denationalisation-of-money`, and `crypto-anarchy`; added reciprocal See-Also backlinks across 13 existing articles (bidirectional graph verified). Healed the pre-existing `oppenheimer-on-conquest` row in the concepts index. Article count 186 → 192. (Legacy `wiki/_index.md` aggregate is stale and pending a `/wiki:lint` rebuild.)
 
