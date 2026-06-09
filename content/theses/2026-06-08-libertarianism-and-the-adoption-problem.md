@@ -35,6 +35,8 @@ The oldest answer in the corpus is that obedience is habituated, not compelled. 
 The habit is reinforced from above, and this is where the reader's propaganda point lands hardest. [[state-power-and-intervention|State Power and Intervention]], via [[murray-n-rothbard|Rothbard]]'s *Anatomy of the State*, holds that the state's long-run problem is ideological, and that manufacturing consent is the work of intellectuals:
 
 > For the masses of men do not create their own ideas, or indeed think through these ideas independently; they follow passively the ideas adopted and disseminated by the body of intellectuals.
+>
+> — Murray Rothbard, *Anatomy of the State*
 
 With schools, mass media, and the prestige economy oriented toward the legitimacy of the "we," the reader is right that libertarian education starts several lengths behind — a point the corpus concedes rather than rebuts.
 
@@ -81,6 +83,8 @@ The strategic payoff, in [[parallel-economy|the parallel economy]], is blunt: *"
 The reader's "economic apocalypse" intuition is half-right, and the corpus splits it on a distinction that is the whole game. Not every collapse runs one way — the Soviet dissolution in 1991 destroyed a state outright rather than strengthening it — but the *crisis* kind the reader has in mind, war and emergency, carries a documented ratchet toward state power. Rothbard's [[anatomy-of-the-state|Anatomy of the State]] states it:
 
 > In war, State power is pushed to its ultimate, and, under the slogans of "defense" and "emergency," it can impose a tyranny upon the public such as might be openly resisted in time of peace.
+>
+> — Murray Rothbard, *Anatomy of the State*
 
 Arendt's [[mass-society-and-atomization|mass-society]] account agrees from the other side: crisis-driven atomization feeds mobilization, not freedom. The Depression produced the New Deal and fed the Nazis' rise to power; war breeds permanent state growth. The *emergency* kind of apocalypse tends to birth a worse Leviathan, not a freer order — which is the gamble the reader's intuition quietly runs.
 

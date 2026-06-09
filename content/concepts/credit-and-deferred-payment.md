@@ -3,7 +3,7 @@ title: "Credit and Deferred Payment"
 volatility: warm
 category: concept
 created: 2026-05-09
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [credit, time-preference, debtor-creditor, book-credit, austrian-economics, money-and-banking]
 aliases: [credit transaction, trade credit, book credit, commercial credit, deferred payment]
@@ -22,26 +22,36 @@ The structural definition is stated definitionally in two sources: Mises's [[the
 The canonical Austrian statement is Mises's, in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] (1912; 1953 Yale edition, p. 268), Part Three Ch. I "The Business of Banking," in the section "Deposits as the Origin of Circulation Credit." Discussing whether a redeemable money-deposit qualifies as credit, Mises pauses to give the underlying definition:
 
 > "If credit in the economic sense means the exchange of a present good or a present service against a future good or a future service, then it is hardly possible to include the transactions in question under the conception of credit."
+>
+> — Ludwig von Mises, *The Theory of Money and Credit*
 
 The conditional ("if credit means…") is the form Mises uses to state his own preferred definition: credit, *in the economic sense*, is the exchange of a present good or service for a future good or service. Mises uses this same definition to *include* ordinary purchase-on-credit and lending and to *exclude* deposits-against-redeemable-claims — they look juristically like credit but are not credit economically, since the depositor has surrendered no present good.
 
 Mises restates the definition in slightly different language earlier in the same book — in Part One Ch. I, §3 "The 'Secondary' Functions of Money" — in the course of dismissing the idea that money has a separate "medium of payment" function distinct from its medium-of-exchange function:
 
 > "[I]f the two parties to a sale-and-purchase transaction perform their respective parts of the bargain at different times, that of the seller preceding that of the buyer (purchase on credit), then the settlement of the bargain, or the fulfilment of the seller's part of it (which need not be the same thing), has no obvious connexion with the fulfilment of the buyer's part. The same is true of all other credit transactions, especially of the most important sort of credit transaction — lending."
+>
+> — Ludwig von Mises, *The Theory of Money and Credit*
 
 Notice the scope here. Mises explicitly classifies "purchase on credit" — any sale where seller-delivery and buyer-payment occur at different times — as a credit transaction, alongside lending. The structural definition is not a niche financial category; it is the generic frame for any transaction with delivery–payment separation.
 
 Rothbard restates the definition in [[man-economy-and-state|Man, Economy, and State]], Ch. 2 "Direct Exchange," §11 "Types of Exchangeable Goods":
 
 > "In a credit transaction, a present good is exchanged for a future good, or rather, a claim on a future good."
+>
+> — Murray Rothbard, *Man, Economy, and State*
 
 A few paragraphs later in the same section, Rothbard names the diagnostic feature that distinguishes credit from a present-good exchange:
 
 > "A credit exchange sets up an unfinished payment on the part of the debtor."
+>
+> — Murray Rothbard, *Man, Economy, and State*
 
 The contrast with cash is then drawn out in MES Ch. 6, "Production: The Rate of Interest and Its Determination," §2 "The Determination of the Pure Rate of Interest: The Time Market":
 
 > "When a man buys a suit for cash, he transfers money in exchange for the suit. The transaction is finished. In a credit transaction he receives simply a written I.O.U., or note, entitling him to claim a certain amount of money at a future date. The transaction remains to be completed in the future."
+>
+> — Murray Rothbard, *Man, Economy, and State*
 
 So Rothbard's diagnostic is whether the transaction is **finished at the moment of delivery**. If yes, it is cash. If one side still owes payment, it is credit. The receiver of the present good is the **debtor**; the deliverer holding the unfinished claim is the **creditor**. Rothbard's diagnostic is the operational form of Mises's structural definition — they are the same criterion, stated as definition by Mises in 1912 and re-stated as test by Rothbard in 1962.
 
@@ -65,12 +75,16 @@ That width is a feature, not a quirk. The whole Austrian theory of interest is b
 The wiki's sources name several common forms of this kind of credit beyond the bank loan. Hayek, in [[prices-and-production|Prices and Production]] — specifically [[prices-and-production|Prices and Production]] (the 1931/1935 essay), at p. 290 of the Mises Institute collected edition — discusses **book credit** as one of "a number of other forms of commercial credit":
 
 > "[B]ook credit is simultaneously introduced in a number of successive stages of production in the place of cash payments, and so on. The characteristic peculiarity of these forms of credit is that they spring up without being subject to any central control."
+>
+> — F. A. Hayek, *Prices and Production and Other Works*
 
 For Hayek, book credit is a non-monetary means of payment that nonetheless enlarges effective purchasing power within the production structure: the supplier records the obligation on its books in lieu of demanding cash on delivery, and the obligation discharges the function for which money would otherwise be required.
 
 Rothbard offers an almost canonical small example of the same arrangement at the retail level, in MES Ch. 11 "Money and Its Purchasing Power" (in the discussion of clearing under "Secular Influences on the Demand for Money"):
 
 > "[S]uppose that A and B deal with each other quite frequently during a year or a month. Suppose they agree not to pay each other immediately in cash, but to give each other credit until the end of each month."
+>
+> — Murray Rothbard, *Man, Economy, and State*
 
 This is exactly how a great deal of ordinary commerce works: monthly accounts with suppliers, end-of-month settlement between firms, post-paid utility billing, payroll paid in arrears. By the Austrian definition each of these is a credit relationship while the payment is outstanding, even though none of them is normally described as "lending."
 
@@ -79,6 +93,8 @@ This is exactly how a great deal of ordinary commerce works: monthly accounts wi
 Why does any of this matter analytically? Because if a relationship is credit, the price of the relationship is governed by time preference. Rothbard sets out the underlying logic in MES Ch. 2 §11: a present good is valued more highly than the same good in the future, so the debtor will normally have to repay a *greater* amount in the future than was advanced now. He puts the point in service-and-payment terms:
 
 > "The creditor is rendering the debtor the service of using a good in the present, while the debtor pays for this service by repaying a greater amount of the good in the future."
+>
+> — Murray Rothbard, *Man, Economy, and State*
 
 This matters even where the credit relationship looks "free" — for instance, where a supplier delivers now and the customer pays the same nominal amount at month-end with no explicit interest. From the Austrian point of view, the creditor is *still* rendering a service (the use of the good in the present), and the implicit price of that service is folded into the headline price of the good. The creditor is not giving the credit away; the credit is bundled into the offered price. The debtor pays for it whether or not anyone calls it interest.
 
@@ -102,6 +118,8 @@ The utility-billing case is not worked out *as such* in any source, but the move
 Rothbard is careful to distinguish credit transactions from a closely related class of transactions that also span time but are not credit. The most important is the production process itself, in MES Ch. 6 §2:
 
 > "It is a time market where the future goods sold do not constitute a credit transaction, as in the case of the loan market. The transaction is complete in itself and needs no further payment by either party."
+>
+> — Murray Rothbard, *Man, Economy, and State*
 
 When a capitalist buys factor services (labour, capital goods) now in order to produce a future consumer good, present money is being exchanged for future goods, but the trade is settled at the point of exchange. Neither side carries an unfinished payment to the other. The capitalist's reward comes from successfully transforming the future goods into present goods, not from the presentation of an I.O.U.
 
@@ -128,6 +146,8 @@ The TMC passage that contains the canonical definition (Part Three Ch. I, p. 268
 He then explains why the depositor case fails the test:
 
 > "A depositor of a sum of money who acquires in exchange for it a claim convertible into money at any time which will perform exactly the same service for him as the sum it refers to has exchanged no present good for a future good. The claim that he has acquired by his deposit is also a present good for him. The depositing of the money in no way means that he has renounced immediate disposal over the utility that it commands."
+>
+> — Ludwig von Mises, *The Theory of Money and Credit*
 
 This matters for two reasons. First, it shows the definition is *load-bearing* in Mises's analysis — it is what lets him distinguish economically substantive credit from juristically-styled-credit-that-isn't. Second, it locates the definition in a specific argumentative context: Mises is laying the groundwork for the distinction between **money-certificates** (claims fully backed by money proper, not credit) and **fiduciary media** (claims issued beyond actual money holdings, which *are* credit in the structural sense). That distinction in turn underwrites Mises's monetary theory and the proto-Austrian Business Cycle Theory of Part Three.
 

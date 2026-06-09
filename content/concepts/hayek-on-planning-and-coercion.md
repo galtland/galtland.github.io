@@ -3,7 +3,7 @@ title: "Hayek on Planning and Coercion"
 volatility: warm
 category: concept
 created: 2026-05-19
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [hayek, central-planning, coercion, dictatorship, rule-of-law, road-to-serfdom]
 summary: "Hayek's claim that central planning leads to dictatorship because dictatorship is the most effective instrument of coercion, and that democratic procedure alone does not keep power from becoming arbitrary."
@@ -23,6 +23,8 @@ Hayek's argument is not a slogan about authoritarian tendencies in socialist pol
 The complement to the central-planning critique is the explicit rule-of-law claim:
 
 > "The Rule of Law, the absence of legal privileges of particular people designated by authority, is what safeguards that equality before the law which is the opposite of arbitrary government."
+>
+> — F. A. Hayek, *The Road to Serfdom*
 
 The rule of law, on Hayek's reading, is the substantive content of "limited" government in his earlier passage: government acting through general, predictable rules cannot direct the economy in the comprehensive way the planner needs. When the planner needs discretion, the rule of law has to yield. The Road to Serfdom's full title is the diagnosis: comprehensive planning is not stably reconcilable with the rule of law, and the political form of the unstable equilibrium is administrative discretion replacing law — the substitution of central direction for what would otherwise be spontaneous, unguided activity.
 

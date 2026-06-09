@@ -3,7 +3,7 @@ title: "The Pretence of Knowledge"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [hayek, pretence-of-knowledge, nobel-lecture, scientism, knowledge-problem, spontaneous-order, complexity, methodology, austrian-economics]
 aliases: [The Pretence of Knowledge, The Pretense of Knowledge, Hayek Nobel lecture, Hayek 1974 Nobel lecture]
@@ -31,6 +31,8 @@ This is the methodological capstone of the wiki's Hayekian cluster: it generaliz
 The lecture's central warning is moral as much as epistemic:
 
 > "To act on the belief that we possess the knowledge and the power which enable us to shape the processes of society entirely to our liking, knowledge which in fact we do not possess, is likely to make us do much harm."
+>
+> — F. A. Hayek, “The Pretence of Knowledge” (Nobel lecture, 1974)
 
 The pursuit of false precision, he says, is the road to "charlatanism and worse." In the physical sciences over-confidence may be harmless; in the social field the erroneous belief that some authority can engineer good outcomes leads to "a new power to coerce other men being conferred on some authority", and its exercise is "likely to impede the functioning of those spontaneous ordering forces" — above all the market as a communication system for dispersed information. This connects the lecture directly to [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] and to the [[economic-calculation-problem|Economic Calculation Problem]]: the conceit of control is also the engine of coercion.
 

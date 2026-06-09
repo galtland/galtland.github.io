@@ -41,6 +41,8 @@ Federation softens but does not remove the risk: users trade trusting one operat
 The custody question is not new to ecash; it was visible to the cypherpunks who first imagined it. In Hal [[hal-finney|Finney]]'s 1994 note to the cypherpunks list, [The Beauty of eCash](https://www.cypherpunkbooks.com/book/the-beauty-of-ecash) — written about the Chaumian "Magic Money" implementation — he drew the exact historical parallel that the custody tradeoff above formalizes: bank-issued private money is only as good as the issuing bank.
 
 > Unfortunately, capitalism is a dynamic system and in those days bank failures were no more unusual than corporate failures are today. When this happened, the bank's notes became worthless.
+>
+> — Hal Finney, “The Beauty of eCash” (1994)
 
 Finney was describing pre-1861 American private banknotes, then speculating "that digital cash might lead to an electronic system with some similarities to those old days." That is the ecash custody risk seen thirty years early: a blind-signed token is a claim on an issuer, and issuers fail. The bulk of his note is a playful proposal to make a banknote's *validity* visible as beauty (seeding cellular automata and fractals from the cash, so only correctly-signed notes render a pretty pattern) — an early gesture at the cypherpunk instinct to bind cryptographic truth to something a human can see.
 

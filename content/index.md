@@ -30,6 +30,8 @@ Last updated: 2026-06-09
 
 ## Recent Changes
 
+- 2026-06-09: style — added bottom "— Author, *Work*" attributions to 30 direct-quote blockquotes across 12 articles (franciscos-money-speech, credit-and-deferred-payment, the 3 theses, etc.), matching the convention already used in ~half the wiki. Abstract and thesis-statement blockquotes left unattributed. No article-count change.
+
 - 2026-06-09: quality — author-link hygiene pass. Added **211 first-mention author dual-links across 107 articles** where an author was discussed by name but their author page wasn't linked (the gap surfaced by Hillebrand in `surveillance-capitalism`/`parallel-economy`, and the same for Mises, Rothbard, Hayek, Tilly, Hoppe, Oppenheimer, and the rest of the 28 author pages). Safe first-bare-mention insertion only; 0 broken links, 0 remaining bare unlinked author mentions. No article-count change.
 
 - 2026-06-09: ingest+compile — filled the two natural-law follow-up gaps. Ingested Cicero's *De Legibus* and Rothbard's *Economic Thought Before Adam Smith* (2 sources, 139→141), then compiled 3 articles: reference `cicero-de-legibus`, concept `school-of-salamanca` (the late Spanish scholastics as natural-law theorists and proto-Austrian economists — the bridge between the wiki's natural-law and Austrian/money pillars), and reference `economic-thought-before-adam-smith`. Wired into 10 existing articles; bidirectional graph verified. Article count 206 → 209.

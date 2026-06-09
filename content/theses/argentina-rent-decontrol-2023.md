@@ -4,7 +4,7 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-05-19
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [thesis, argentina, rent-control, price-control, housing-policy, decontrol, buenos-aires, austrian-economics, mises, rothbard]
 aliases: [Argentina rent decontrol 2023, Milei rent decontrol, Buenos Aires rental listings doubled, Argentina rent-control repeal]
@@ -27,12 +27,16 @@ Abolishing rent control changed a legal constraint, not a housing preference. An
 [[mises-on-rent-ceilings|Mises on Rent Ceilings]] states the residential case directly in [[liberalism|Liberalism]]:
 
 > When, for instance, the government fixes a ceiling on residential rents, a housing shortage immediately ensues. In Austria, the Social Democratic Party has virtually abolished residential rent. The consequence is that in the city of Vienna, for example, in spite of the fact that the population has declined considerably since the beginning of the World War and that several thousand new houses have been constructed by the municipality in the meantime, many thousands of persons are unable to find accommodations.
+>
+> — Ludwig von Mises, *Liberalism*
 
 The point is marginal, not total. The claim is not that every owner withdraws every unit. It is that the legal ceiling changes the terms on which a unit is worth offering. Some units stay occupied under old terms. Some are withheld. Some are shifted into other uses or contract forms. Some maintenance and new building become less attractive. The shortage is then rationed by nonprice devices.
 
 [[mises-on-rent-ceilings|Mises on Rent Ceilings]] gives the same mechanism in [[human-action|Human Action]]:
 
 > At any rate, their price ceilings do not abolish the catallactic phenomenon of the urban rent. They merely transfer the rent from the landlord's income into the tenant's income. ... The rent restriction creates a housing shortage. It increases demand without increasing supply.
+>
+> — Ludwig von Mises, *Human Action*
 
 That transfer matters during repeal. Tenants protected by the ceiling lose an implicit legal claim on the suppressed rent. Owners regain the margin to list, maintain, convert back, or build. The reported real-rent fall is therefore not paradoxical. A nominally tenant-protective ceiling can reduce the supply tenants may lawfully bid for; decontrol can raise the legal offer stock enough for real rents to fall.
 
@@ -41,6 +45,8 @@ That transfer matters during repeal. Tenants protected by the ceiling lose an im
 [[rothbard-on-price-controls|Rothbard on Price Controls]] gives the general maximum-price mechanism in [[power-and-market|Power and Market]]:
 
 > For the truth is precisely the reverse: price control creates an artificial shortage of the product, which continues as long as the control is in existence - in fact, becomes ever worse as resources continue to shift to other products.
+>
+> — Murray Rothbard, *Power and Market*
 
 That is the relevant causal arrow. The shortage is often used as the political reason to preserve the ceiling. Rothbard treats the shortage as the product of the ceiling. The more supply can move away from the controlled line, the stronger the effect. Rental housing has several such margins: vacancy, owner occupation, informal premiums, short-term rental, commercial conversion, deferred repairs, and delayed construction.
 

@@ -3,7 +3,7 @@ title: "Ideal Money"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 verified: 2026-06-08
 tags: [john-nash, ideal-money, monetary-theory, inflation, hard-money, gold-standard, central-banking, keynesianism, non-austrian]
 summary: "John Nash's argument that money should be a stable long-run standard of value — an 'ideal money' approached asymptotically by tying issuance to a stable index rather than central-bank discretion. A non-Austrian, game-theoretic convergence on the wiki's anti-inflation, hard-money conclusion, with a real methodological tension: Nash reaches it through a managed index, not market-chosen money."
@@ -25,6 +25,8 @@ Nash's starting move is to treat money the way one treats a public utility — s
 From this, the quality that matters is **stability of value over time**, because an unstable standard corrupts every long-dated calculation that depends on it:
 
 > Who would want to lend money for the term of a year? In this context we can see how the "quality" of a money standard can strongly influence areas of the economy involving financing with longer-term credits.
+>
+> — John Nash, “Ideal Money”
 
 That is the same concern the wiki frames through [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] — a debased standard falsifies intertemporal calculation — reached here through the lens of contract and credit rather than capital structure.
 
@@ -33,6 +35,8 @@ That is the same concern the wiki frames through [[austrian-business-cycle-theor
 Nash is blunt that the modern defense of mild, managed inflation is a sold doctrine, not a discovered truth:
 
 > So I wish to present the argument that various interests and groups, notably including "Keynesian" economists, have sold to the public a "quasi-doctrine" which teaches, in effect, that "less is more" or that (in other words) "bad money is better than good money".
+>
+> — John Nash, “Ideal Money”
 
 This converges directly with [[fiat-as-engineered-system|Fiat as Engineered System]]: inflation is an engineered transfer dressed as macroeconomic prudence. Where the Austrian critique grounds the objection in the [[knowledge-problem|knowledge problem]] — no authority can know the right money supply — Nash grounds it in the corruption of money as a measuring standard.
 
