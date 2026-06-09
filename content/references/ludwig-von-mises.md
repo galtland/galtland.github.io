@@ -3,7 +3,7 @@ title: "Ludwig von Mises"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [mises, austrian-economics, praxeology, classical-liberalism]
 aliases: [Ludwig Mises, Mises]
@@ -40,7 +40,7 @@ Mises and [[friedrich-a-hayek|F. A. Hayek]] are the two anchors of the Austrian 
 
 ## Downstream Privacy Application
 
-[[the-praxeology-of-privacy|The Praxeology of Privacy]] uses Mises's action axiom and praxeological method as the descriptive foundation for privacy theory. Hillebrand's claim is not that Mises wrote a cypherpunk privacy treatise, but that internal deliberation, subjective valuation, and information asymmetry follow from the structure of action and can be extended into privacy analysis.
+[[the-praxeology-of-privacy|The Praxeology of Privacy]] uses Mises's action axiom and praxeological method as the descriptive foundation for privacy theory. [[max-hillebrand|Hillebrand]]'s claim is not that Mises wrote a cypherpunk privacy treatise, but that internal deliberation, subjective valuation, and information asymmetry follow from the structure of action and can be extended into privacy analysis.
 
 ## Suggested Reading Path
 
@@ -73,6 +73,10 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
+
+- [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Hold and Its Dissents: Administered Credit]] - newsroom thesis backlink
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - the central treatise

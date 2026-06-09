@@ -24,7 +24,7 @@ This naturalism is what later natural-law and natural-order theorists draw on: i
 
 ## The Natural-Slavery Problem
 
-The Politics is also the locus of Aristotle's doctrine of **natural slavery** — the claim that some people are slaves "by nature" and benefit from being ruled. The wiki flags this honestly: it is the clearest case of the natural-justice method producing a conclusion the libertarian rights tradition regards as a grave error. Natural-law reasoning is only as good as its premises about human nature, and Aristotle's premise here is false. The tradition's later figures — Locke, Spooner — turn the *same* appeal to nature against slavery.
+The Politics is also the locus of Aristotle's doctrine of **natural slavery** — the claim that some people are slaves "by nature" and benefit from being ruled. The wiki flags this honestly: it is the clearest case of the natural-justice method producing a conclusion the libertarian rights tradition regards as a grave error. Natural-law reasoning is only as good as its premises about human nature, and Aristotle's premise here is false. The tradition's later figures — [[john-locke|Locke]], [[lysander-spooner|Spooner]] — turn the *same* appeal to nature against slavery.
 
 ## Place in This Wiki
 

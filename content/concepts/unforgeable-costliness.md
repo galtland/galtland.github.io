@@ -3,7 +3,7 @@ title: "Unforgeable Costliness"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [money, bitcoin, nick-szabo, saifedean-ammous, proof-of-work, stock-to-flow, regression-theorem, austrian-economics]
 aliases: [unforgeable costliness, costly scarcity, costly-to-create money]
@@ -40,7 +40,7 @@ This gives a common metric for shell beads, precious metals, fiat money, and Bit
 
 ## Regression and Prior Value
 
-The Misesian connection comes through [[the-theory-of-money-and-credit|The Theory of Money and Credit]]. Mises argues that today's purchasing power of money must be traced back through yesterday's purchasing power until reaching a point where the good was valued for non-monetary uses before indirect exchange made it money.
+The Misesian connection comes through [[the-theory-of-money-and-credit|The Theory of Money and Credit]]. [[ludwig-von-mises|Mises]] argues that today's purchasing power of money must be traced back through yesterday's purchasing power until reaching a point where the good was valued for non-monetary uses before indirect exchange made it money.
 
 Szabo's collectibles help explain how costly objects can begin as ornament, signal, heirloom, tool, ritual item, or transferable wealth before becoming money proper. Ammous applies a related sequence to Bitcoin: a technical experiment became a priced market good, then a store of value and medium for some exchanges. The regression-theorem question is not erased by digital money; it is pushed into the history of how market actors first valued the scarce digital good.
 

@@ -3,7 +3,7 @@ title: "Ecash and Chaumian Mints"
 volatility: warm
 category: concept
 created: 2026-05-30
-updated: 2026-06-08
+updated: 2026-06-09
 verified: 2026-06-08
 confidence: high
 tags: [ecash, chaumian-mint, cashu, fedimint, blind-signatures, bitcoin, privacy, custody, digital-cash, cypherpunk]
@@ -28,7 +28,7 @@ This is the same Chaumian machinery that powered [[digital-cash-history|DigiCash
 
 ## The Custody Tradeoff
 
-Ecash improves transaction privacy but reintroduces **custody risk**, which is exactly what [[trusted-third-parties-as-security-holes|Szabo's argument that trusted third parties are security holes]] warns about. The hierarchy of trust across Bitcoin's privacy options is explicit in Hillebrand's account:
+Ecash improves transaction privacy but reintroduces **custody risk**, which is exactly what [[trusted-third-parties-as-security-holes|Szabo's argument that trusted third parties are security holes]] warns about. The hierarchy of trust across Bitcoin's privacy options is explicit in [[max-hillebrand|Hillebrand]]'s account:
 
 - **Base-layer Bitcoin** is non-custodial but transparent (see [[coinjoin|CoinJoin and PayJoin]] for on-chain privacy).
 - **[[lightning-network|Lightning]]** ([Lightning Network](lightning-network.md)) preserves *unilateral exit*: a user can always reclaim funds on-chain without counterparty cooperation.
@@ -38,7 +38,7 @@ Federation softens but does not remove the risk: users trade trusting one operat
 
 ## Cypherpunk prehistory: Finney, 1994
 
-The custody question is not new to ecash; it was visible to the cypherpunks who first imagined it. In Hal Finney's 1994 note to the cypherpunks list, [The Beauty of eCash](https://www.cypherpunkbooks.com/book/the-beauty-of-ecash) — written about the Chaumian "Magic Money" implementation — he drew the exact historical parallel that the custody tradeoff above formalizes: bank-issued private money is only as good as the issuing bank.
+The custody question is not new to ecash; it was visible to the cypherpunks who first imagined it. In Hal [[hal-finney|Finney]]'s 1994 note to the cypherpunks list, [The Beauty of eCash](https://www.cypherpunkbooks.com/book/the-beauty-of-ecash) — written about the Chaumian "Magic Money" implementation — he drew the exact historical parallel that the custody tradeoff above formalizes: bank-issued private money is only as good as the issuing bank.
 
 > Unfortunately, capitalism is a dynamic system and in those days bank failures were no more unusual than corporate failures are today. When this happened, the bank's notes became worthless.
 

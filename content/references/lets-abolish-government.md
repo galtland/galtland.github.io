@@ -17,7 +17,7 @@ summary: "Reference guide to the Rothbard-curated Spooner collection on constitu
 
 ## What the Collection Contains
 
-The Mises description identifies this volume as a Rothbard-selected Spooner collection built around texts such as *Trial by Jury*, *Letter to Grover Cleveland*, and *No Treason*. That makes it a composite source on jury nullification, constitutional non-consent, slavery, reconstruction, and the radical critique of compulsory political authority.
+The [[ludwig-von-mises|Mises]] description identifies this volume as a Rothbard-selected Spooner collection built around texts such as *Trial by Jury*, *Letter to Grover Cleveland*, and *No Treason*. That makes it a composite source on jury nullification, constitutional non-consent, slavery, reconstruction, and the radical critique of compulsory political authority.
 
 ## Why It Matters in This Wiki
 

@@ -41,13 +41,13 @@ The 1985 essay supplies the explicit organized-crime analogy and the four-part m
 
 ## Convergence with Oppenheimer and Nock
 
-The convergence with [[oppenheimer-the-state|The State]] is clear. Oppenheimer's [[political-means-and-economic-means|Political Means and Economic Means]] distinction treats the state as the organized political means: forcible appropriation stabilized into class rule. Tilly's chapters show European rulers repeatedly extracting resources for war, transforming conquest into administration, and building fiscal machinery around coercion.
+The convergence with [[oppenheimer-the-state|The State]] is clear. [[franz-oppenheimer|Oppenheimer]]'s [[political-means-and-economic-means|Political Means and Economic Means]] distinction treats the state as the organized political means: forcible appropriation stabilized into class rule. Tilly's chapters show European rulers repeatedly extracting resources for war, transforming conquest into administration, and building fiscal machinery around coercion.
 
-The convergence with [[our-enemy-the-state|Our Enemy, the State]] is also strong. Nock's social-power/state-power vocabulary names the conversion of society's productive capacity into political command. Tilly gives a non-libertarian historical account of one major route by which that conversion occurred: war needs turned social resources into taxes, debt, conscription, offices, and centralized administration.
+The convergence with [[our-enemy-the-state|Our Enemy, the State]] is also strong. [[albert-jay-nock|Nock]]'s social-power/state-power vocabulary names the conversion of society's productive capacity into political command. Tilly gives a non-libertarian historical account of one major route by which that conversion occurred: war needs turned social resources into taxes, debt, conscription, offices, and centralized administration.
 
 ## Divergence from Libertarian Theory
 
-The divergence is just as important. Tilly is not making Rothbard's or Nock's normative argument. He does not judge state capacity primarily by consent, nonaggression, or property rights. He treats the national state as the contingent survivor of European competition and as a mixed institutional achievement: capable of order, infrastructure, bargaining, rights expansion, extraction, repression, and mass war.
+The divergence is just as important. Tilly is not making [[murray-n-rothbard|Rothbard]]'s or Nock's normative argument. He does not judge state capacity primarily by consent, nonaggression, or property rights. He treats the national state as the contingent survivor of European competition and as a mixed institutional achievement: capable of order, infrastructure, bargaining, rights expansion, extraction, repression, and mass war.
 
 The divergence is especially sharp against anarcho-capitalist inference. Tilly's framework does not imply that non-state protection is viable. It explains why the European state form defeated city-states, empires, federations, and other arrangements under particular military and fiscal conditions. That historical explanation can sharpen libertarian critique, but it cannot by itself supply a market-anarchist alternative.
 
@@ -55,7 +55,7 @@ The divergence is especially sharp against anarcho-capitalist inference. Tilly's
 
 [[the-origins-of-totalitarianism|Arendt's Origins]] is adjacent to Tilly but should not be folded into him. Tilly's coercion-intensive path explains how war-making, extraction, and administrative capacity can build strong states. It does not imply that coercion-intensive state formation automatically produces [[totalitarianism|Totalitarianism]].
 
-Arendt's imperialism chapters overlap with Tilly-adjacent material: race-thinking, bureaucracy, continental expansion, statelessness, and the decline of the nation-state. But her totalitarianism thesis proper depends on a further combination of mass society, total ideology, terror, secret-police rule, and total domination. The shared terrain is coercion and state capacity; the distinctive Arendtian claim is the novel form of government created when ideology and terror become the regime's essence.
+[[hannah-arendt|Arendt]]'s imperialism chapters overlap with Tilly-adjacent material: race-thinking, bureaucracy, continental expansion, statelessness, and the decline of the nation-state. But her totalitarianism thesis proper depends on a further combination of mass society, total ideology, terror, secret-police rule, and total domination. The shared terrain is coercion and state capacity; the distinctive Arendtian claim is the novel form of government created when ideology and terror become the regime's essence.
 
 ## Coverage Upgrade
 

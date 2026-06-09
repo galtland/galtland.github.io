@@ -35,6 +35,8 @@ The distinctive contribution is not a new Austrian economics textbook. It is the
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map where Hillebrand's implementation material belongs
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article drawn from Ch. 10 of [[the-praxeology-of-privacy|The Praxeology of Privacy]]
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - source for the author entry and the only Hillebrand text currently in the wiki

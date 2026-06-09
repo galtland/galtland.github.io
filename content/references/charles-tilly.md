@@ -49,6 +49,14 @@ The strongest connection is to [[war-and-state-formation|War and State Formation
 - [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - Chapter 7 concept from the expanded Tilly ingest
 
 
+
+- [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 Moderate-Shooting Ceasefire Remark: Analysis]] - newsroom thesis backlink
+
+- [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - full-text 1985 essay source

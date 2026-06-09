@@ -3,7 +3,7 @@ title: "Human Action"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [mises, austrian-economics, praxeology, economics]
 aliases: [Human Action, Mises's Treatise, Nationalökonomie]
@@ -25,11 +25,11 @@ This is the missing foundation that the Rothbardian core of the wiki was built o
 
 ## Scope of the Full-Text Ingest
 
-The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 952 pages, extracted with `pdftotext -layout`. It contains the seven parts of the treatise — Human Action, Action Within the Framework of Society, Economic Calculation, Catallactics or Economics of the Market Society, Social Cooperation Without a Market, the Hampered Market Economy, and the Place of Economics in Society — together with Joseph Salerno's introduction.
+The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 952 pages, extracted with `pdftotext -layout`. It contains the seven parts of the treatise — Human Action, Action Within the Framework of Society, Economic Calculation, Catallactics or Economics of the Market Society, Social Cooperation Without a Market, the Hampered Market Economy, and the Place of Economics in Society — together with Joseph [[joseph-t-salerno|Salerno]]'s introduction.
 
 ## Relation to Mises's Other Texts
 
-[[human-action|Human Action]] is the synthesis of Mises's earlier monographic work. The economic-calculation argument first appeared in Mises's 1920 essay "Economic Calculation in the Socialist Commonwealth" and was expanded in [[socialism|Socialism]] (1922); the political application to free society is in [[liberalism|Liberalism]] (1927); the methodological apparatus is examined directly in [[theory-and-history|Theory and History]] (1957). Hayek's contributions to the same tradition, especially [[individualism-and-economic-order|Individualism and Economic Order]] and [[prices-and-production|Prices and Production]], are sibling rather than derivative works.
+[[human-action|Human Action]] is the synthesis of Mises's earlier monographic work. The economic-calculation argument first appeared in Mises's 1920 essay "Economic Calculation in the Socialist Commonwealth" and was expanded in [[socialism|Socialism]] (1922); the political application to free society is in [[liberalism|Liberalism]] (1927); the methodological apparatus is examined directly in [[theory-and-history|Theory and History]] (1957). [[friedrich-a-hayek|Hayek]]'s contributions to the same tradition, especially [[individualism-and-economic-order|Individualism and Economic Order]] and [[prices-and-production|Prices and Production]], are sibling rather than derivative works.
 
 ## See Also
 

@@ -3,7 +3,7 @@ title: "The Gulag Archipelago"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [aleksandr-solzhenitsyn, gulag, soviet-union, stalinism, totalitarianism, mass-terror, labor-camps, ideology, dissident-literature, abridged, unabridged, non-libertarian]
 aliases: [Gulag Archipelago, The Gulag Archipelago 1918-1956, Gulag]
@@ -13,7 +13,7 @@ summary: "Reference guide to Solzhenitsyn's documentary-literary investigation o
 
 # The Gulag Archipelago
 
-> [[the-gulag-archipelago|The Gulag Archipelago]] is Aleksandr Solzhenitsyn's documentary-literary investigation of arrests, interrogations, transit, labor camps, exile, and Soviet mass terror. In this wiki it supplies empirical and testimonial material for the totalitarianism thread, especially Arendt's distinction between ordinary extraction and total domination.
+> [[the-gulag-archipelago|The Gulag Archipelago]] is Aleksandr Solzhenitsyn's documentary-literary investigation of arrests, interrogations, transit, labor camps, exile, and Soviet mass terror. In this wiki it supplies empirical and testimonial material for the totalitarianism thread, especially [[hannah-arendt|Arendt]]'s distinction between ordinary extraction and total domination.
 
 ## Text Status
 

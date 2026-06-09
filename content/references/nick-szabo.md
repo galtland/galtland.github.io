@@ -3,7 +3,7 @@ title: "Nick Szabo"
 volatility: cold
 category: reference
 created: 2026-05-27
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [nick-szabo, cypherpunk, smart-contracts, bit-gold, austrian-economics, proof-of-work]
 aliases: [Szabo]
@@ -30,7 +30,7 @@ The 1997 *God Protocols* essay imagines an ideal trusted intermediary and then a
 
 The 2001 *Trusted Third Parties Are Security Holes* gives the design rule that makes Szabo's work recognizably cypherpunk. Certificate authorities, DNS, trusted mints, exchanges, escrow providers, and similar intermediaries may be useful, but they must be treated as vulnerabilities and costs, not as invisible assumptions.
 
-The 2002 *Shelling Out* essay moves backward into prehistory. It argues that collectibles such as shell beads, necklaces, teeth, flints, and precious objects served as proto-money because they were durable, transferable, scarce, recognizable, and costly to forge. The result links Menger's origin-of-money account and Mises's regression-theorem concerns in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] to cypherpunk money design.
+The 2002 *Shelling Out* essay moves backward into prehistory. It argues that collectibles such as shell beads, necklaces, teeth, flints, and precious objects served as proto-money because they were durable, transferable, scarce, recognizable, and costly to forge. The result links Menger's origin-of-money account and [[ludwig-von-mises|Mises]]'s regression-theorem concerns in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] to cypherpunk money design.
 
 The 2005 *Bit Gold* essay moves forward again. It proposes costly digital strings generated through proof-of-work, timestamped, and tracked through a distributed title registry. It is not Bitcoin, but it plainly anticipates parts of the Bitcoin design problem: unforgeable cost, public verification, digital title, and minimized trust.
 

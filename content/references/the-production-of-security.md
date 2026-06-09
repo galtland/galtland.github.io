@@ -3,7 +3,7 @@ title: "The Production of Security"
 volatility: warm
 category: reference
 created: 2026-05-06
-updated: 2026-05-10
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [molinari, market-anarchism, private-security, classical-liberalism, private-law, evolution-of-the-state]
 aliases: [De la production de la sécurité, Molinari's Production of Security]
@@ -21,7 +21,7 @@ Molinari starts from a principle every classical economist of his time accepted:
 
 ## Why It Matters in This Wiki
 
-Until now Molinari was visible in the wiki only at second hand: cited by Rothbard in [[for-a-new-liberty|For a New Liberty]] (chapter 12, footnote 2 — "the first person in history to contemplate and advocate a free market for police protection") and quoted at length by Hoppe in [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] (chapter 9). With this primary source in hand, the wiki's [[private-security-and-insurance|Private Security and Insurance]] and [[market-anarchism-and-private-law|Market Anarchism and Private Law]] concept articles now have their nineteenth-century origin point, not just their twentieth-century elaborations.
+Until now Molinari was visible in the wiki only at second hand: cited by Rothbard in [[for-a-new-liberty|For a New Liberty]] (chapter 12, footnote 2 — "the first person in history to contemplate and advocate a free market for police protection") and quoted at length by [[hans-hermann-hoppe|Hoppe]] in [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] (chapter 9). With this primary source in hand, the wiki's [[private-security-and-insurance|Private Security and Insurance]] and [[market-anarchism-and-private-law|Market Anarchism and Private Law]] concept articles now have their nineteenth-century origin point, not just their twentieth-century elaborations.
 
 ## Scope of the Full-Text Ingest
 

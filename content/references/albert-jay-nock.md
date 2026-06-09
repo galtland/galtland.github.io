@@ -3,7 +3,7 @@ title: "Albert Jay Nock"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [albert-jay-nock, old-right, state, social-power, political-means, american-history]
 aliases: [Nock, Albert J. Nock]
@@ -29,7 +29,7 @@ For this wiki, the main theoretical contribution is not the remnant idea by itse
 
 ## Influence in This Wiki
 
-Nock is a hinge between [[oppenheimer-the-state|The State]] and [[anatomy-of-the-state|Anatomy of the State]]. Oppenheimer supplies the [[political-means-and-economic-means|Political Means and Economic Means]] distinction. Nock applies it to America. Rothbard then uses both Oppenheimer and Nock in the modern libertarian theory of the state.
+Nock is a hinge between [[oppenheimer-the-state|The State]] and [[anatomy-of-the-state|Anatomy of the State]]. Oppenheimer supplies the [[political-means-and-economic-means|Political Means and Economic Means]] distinction. Nock applies it to America. [[murray-n-rothbard|Rothbard]] then uses both Oppenheimer and Nock in the modern libertarian theory of the state.
 
 ## See Also
 
@@ -40,6 +40,8 @@ Nock is a hinge between [[oppenheimer-the-state|The State]] and [[anatomy-of-the
 - [[evolution-of-the-state|Evolution of the State]] - concept article using Nock's American application
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's later use of Nock
 
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - full-text aggregate and Frank Chodorov preface

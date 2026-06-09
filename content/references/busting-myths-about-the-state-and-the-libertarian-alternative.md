@@ -3,7 +3,7 @@ title: "Busting Myths about the State and the Libertarian Alternative"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [state, libertarianism, strategy, advocacy]
 aliases: [Busting Myths]
@@ -17,7 +17,7 @@ summary: "Reference guide to Zack Rofer's accessible libertarian primer on commo
 
 ## What the Book Covers
 
-The book moves through myths about the nature of the state, myths about the need for the state, myths about the free market, and myths about libertarianism itself. That structure makes it less specialized than a work like Rothbard's economics or Hoppe's property theory, but more useful as an advocacy-facing primer.
+The book moves through myths about the nature of the state, myths about the need for the state, myths about the free market, and myths about libertarianism itself. That structure makes it less specialized than a work like [[murray-n-rothbard|Rothbard]]'s economics or [[hans-hermann-hoppe|Hoppe]]'s property theory, but more useful as an advocacy-facing primer.
 
 ## Why It Matters in This Wiki
 
@@ -25,7 +25,7 @@ The current compiled graph leans heavily on books that are doctrinal, historical
 
 ## Scope of the Full-Text Ingest
 
-The full-text raw source consolidates the Mises EPUB edition into 14 captured spine documents, including a preface, myth-busting chapters, a conclusion, an afterword, and a reading guide. That gives the wiki the actual chapter structure instead of relying only on the landing-page summary.
+The full-text raw source consolidates the [[ludwig-von-mises|Mises]] EPUB edition into 14 captured spine documents, including a preface, myth-busting chapters, a conclusion, an afterword, and a reading guide. That gives the wiki the actual chapter structure instead of relying only on the landing-page summary.
 
 ## Place in the Current Graph
 

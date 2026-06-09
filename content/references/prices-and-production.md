@@ -3,7 +3,7 @@ title: "Prices and Production and Other Works"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [hayek, austrian-business-cycle-theory, capital-theory, monetary-theory]
 aliases: [Prices and Production, Hayek's Monetary Works]
@@ -13,7 +13,7 @@ summary: "Reference guide to the Mises Institute's collected edition of Hayek's 
 
 # Prices and Production and Other Works
 
-> [[prices-and-production|Prices and Production and Other Works]] is the Mises Institute's collected edition of Hayek's principal works on money, capital, and the business cycle, with an editorial introduction by Joseph Salerno. Together the four texts develop the Austrian theory of the business cycle: credit expansion by the banking system distorts the structure of production and produces an inevitable corrective downturn.
+> [[prices-and-production|Prices and Production and Other Works]] is the Mises Institute's collected edition of Hayek's principal works on money, capital, and the business cycle, with an editorial introduction by Joseph [[joseph-t-salerno|Salerno]]. Together the four texts develop the Austrian theory of the business cycle: credit expansion by the banking system distorts the structure of production and produces an inevitable corrective downturn.
 
 ## What the Volume Contains
 
@@ -28,7 +28,7 @@ The volume also reprints shorter pieces — "The Paradox of Saving," "Reflection
 
 ## Why It Matters in This Wiki
 
-This volume is the wiki's primary source for the [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. Until now the wiki's monetary discussion has lived inside [[man-economy-and-state|Man, Economy, and State]] and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]]. Hayek's account is the proximate ancestor of Rothbard's; including it grounds the wiki's claim that the Austrian business-cycle position is a substantive theoretical alternative rather than a single author's hypothesis.
+This volume is the wiki's primary source for the [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. Until now the wiki's monetary discussion has lived inside [[man-economy-and-state|Man, Economy, and State]] and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]]. Hayek's account is the proximate ancestor of [[murray-n-rothbard|Rothbard]]'s; including it grounds the wiki's claim that the Austrian business-cycle position is a substantive theoretical alternative rather than a single author's hypothesis.
 
 ## Scope of the Full-Text Ingest
 

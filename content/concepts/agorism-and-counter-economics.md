@@ -3,7 +3,7 @@ title: "Agorism and Counter-Economics"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 verified: 2026-06-08
 tags: [samuel-edward-konkin, agorism, counter-economics, strategy, anarchism, black-market, grey-market, parallel-economy, libertarianism]
 summary: "Konkin's 1980 agorist strategy: grow the counter-economy — all peaceful exchange the state forbids, taxes, or regulates — until voluntary trade displaces the state. The strategy-by-exit answer to libertarian adoption, requiring no change in human nature; the ancestor of the cypherpunk parallel economy."
@@ -26,7 +26,7 @@ Konkin's wager is that the free society is reached by *doing* it, not by winning
 
 ## Why it fits the human-nature problem
 
-The standing objection to libertarianism — that it is correct but unadoptable because people will not rally to it the way they rally to a nation — agorism sidesteps rather than answers. It does not need mass ideological conversion or a shared identity; it needs people to keep trading, and to move more of their trade outside the state's observation. That reframes "winning" from persuasion to participation, which is also why it is the natural ancestor of the cypherpunk [[parallel-economy|Parallel Economy]]: Hillebrand updates Konkin's counter-economy with a cryptographic stack that makes the trade unobservable and therefore coercion uneconomic. It is the practical, do-it-now cousin of [[crypto-anarchy|Crypto Anarchy]] and shares the institutional endpoint of [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
+The standing objection to libertarianism — that it is correct but unadoptable because people will not rally to it the way they rally to a nation — agorism sidesteps rather than answers. It does not need mass ideological conversion or a shared identity; it needs people to keep trading, and to move more of their trade outside the state's observation. That reframes "winning" from persuasion to participation, which is also why it is the natural ancestor of the cypherpunk [[parallel-economy|Parallel Economy]]: [[max-hillebrand|Hillebrand]] updates Konkin's counter-economy with a cryptographic stack that makes the trade unobservable and therefore coercion uneconomic. It is the practical, do-it-now cousin of [[crypto-anarchy|Crypto Anarchy]] and shares the institutional endpoint of [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
 
 ## Relation to the obedience problem
 

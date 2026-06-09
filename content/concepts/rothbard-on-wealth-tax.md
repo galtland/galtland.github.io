@@ -3,7 +3,7 @@ title: "Rothbard on the Wealth Tax"
 volatility: warm
 category: concept
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [rothbard, wealth-tax, taxation, capital-consumption, accumulated-capital, power-and-market]
 summary: "Rothbard's wealth-tax incidence analysis: a tax on accumulated wealth cannot be capitalized or shifted, so it penalizes saving and investment and directly consumes the capital stock."
@@ -21,7 +21,7 @@ Rothbard isolates the individual wealth tax as a distinct instrument because the
 
 Three structural features follow from Rothbard's analysis and are load-bearing whenever the instrument is applied to a real proposal. First, the tax cannot be capitalized into asset prices the way a recurring property tax on a specific asset can — there is no specific asset for the market to discount, so the entire burden falls on the holder rather than on a prior seller. Second, holders whose current income is insufficient to pay the levy (Rothbard's Robinson case) must liquidate accumulated capital to meet the bill, regardless of any intent to consume that capital. Third, even holders whose current income covers the bill (the Smith case) face a continuing incentive to reduce taxable wealth, since each unit of accumulated capital triggers a recurring charge.
 
-The mechanism reaches its full institutional form when paired with [[hoppe-on-caretaker-capital-consumption|Hoppe's caretaker capital consumption]] frame — democratic governments structurally prefer present extraction to capital-value preservation — and with [[mises-on-capital-consumption|Mises's antiliberal-policy-as-capital-consumption]] formulation — antiliberal policy is the policy class that systematically funds present consumption out of the productive base of the future. Rothbard supplies the categorical economic prediction for the specific instrument; Mises names the policy class; Hoppe explains the institutional incentive that produces it.
+The mechanism reaches its full institutional form when paired with [[hoppe-on-caretaker-capital-consumption|Hoppe's caretaker capital consumption]] frame — democratic governments structurally prefer present extraction to capital-value preservation — and with [[mises-on-capital-consumption|Mises's antiliberal-policy-as-capital-consumption]] formulation — antiliberal policy is the policy class that systematically funds present consumption out of the productive base of the future. Rothbard supplies the categorical economic prediction for the specific instrument; [[ludwig-von-mises|Mises]] names the policy class; [[hans-hermann-hoppe|Hoppe]] explains the institutional incentive that produces it.
 
 ## See Also
 

@@ -3,7 +3,7 @@ title: "Timothy C. May"
 volatility: cold
 category: reference
 created: 2026-05-27
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [tim-may, cypherpunk, crypto-anarchy, cryptography, privacy, libertarianism]
 aliases: [Tim May, Timothy May, T. C. May]
@@ -42,7 +42,7 @@ May's best-known concrete illustration is *BlackNet*, an experimental scheme he 
 
 May's politics are recognizably libertarian and anarcho-capitalist, but his contribution is not a standard treatise in political theory. He supplies an implementation thesis: what happens to [[libertarianism|Libertarianism]] when people can withdraw parts of communication and exchange from observation?
 
-That makes May adjacent to [[praxeology-of-privacy|Praxeology of Privacy]]. Hillebrand's privacy frame treats selective disclosure as a structural feature of action. May's cypherpunk frame asks what tools make selective disclosure effective against capable adversaries. The two are not identical, but they meet in the claim that privacy is not a decorative preference. It is a condition of autonomous action and exchange.
+That makes May adjacent to [[praxeology-of-privacy|Praxeology of Privacy]]. [[max-hillebrand|Hillebrand]]'s privacy frame treats selective disclosure as a structural feature of action. May's cypherpunk frame asks what tools make selective disclosure effective against capable adversaries. The two are not identical, but they meet in the claim that privacy is not a decorative preference. It is a condition of autonomous action and exchange.
 
 ## Limits
 

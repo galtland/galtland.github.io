@@ -3,7 +3,7 @@ title: "State of Exception"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [carl-schmitt, state-of-exception, sovereignty, emergency-power, decisionism, non-libertarian]
 aliases: [exception, sovereign exception, emergency powers]
@@ -23,7 +23,7 @@ The exception is not simply lawlessness. It is the point where legal order depen
 
 ## Use in This Wiki
 
-The state-as-parasite thesis mainly concerns extraction and disguise. State of exception adds a boundary problem: the state that presents itself as lawful also claims emergency authority to suspend ordinary limits. That bears on the ordinary-state versus totalitarian boundary without replacing Arendt's total-domination category.
+The state-as-parasite thesis mainly concerns extraction and disguise. State of exception adds a boundary problem: the state that presents itself as lawful also claims emergency authority to suspend ordinary limits. That bears on the ordinary-state versus totalitarian boundary without replacing [[hannah-arendt|Arendt]]'s total-domination category.
 
 ## See Also
 

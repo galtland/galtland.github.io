@@ -23,7 +23,7 @@ summary: "Reference guide to Rothbard's place in this wiki as system-builder, ec
 - [[the-ethics-of-liberty|The Ethics of Liberty]] anchors the moral and natural-rights side of Rothbard's thought, with the full 1998 NYU Press edition (Hoppe introduction) ingested from the Mises Institute PDF.
 - [[americas-great-depression|America's Great Depression]] is Rothbard the economic historian — the canonical Austrian reading of 1929–1933 and the source for his revisionist case against the "Hoover did nothing" narrative.
 - [[the-politics-of-obedience|The Politics of Obedience]] appears here through Rothbard's framing role and the strategic problem of consent.
-- [[lets-abolish-government|Let's Abolish Government]] shows Rothbard's role as a curator of anti-state predecessors, especially Spooner.
+- [[lets-abolish-government|Let's Abolish Government]] shows Rothbard's role as a curator of anti-state predecessors, especially [[lysander-spooner|Spooner]].
 
 ## Why Rothbard Dominates This Graph
 
@@ -69,6 +69,16 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's history of economic thought, Vol. 1
 - [[school-of-salamanca|School of Salamanca]] - the scholastics Rothbard frames as proto-Austrians
 
+
+- [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Hold and Its Dissents: Administered Credit]] - newsroom thesis backlink
+
+- [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 Moderate-Shooting Ceasefire Remark: Analysis]] - newsroom thesis backlink
+
+- [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's major economic treatise as a full-text aggregate

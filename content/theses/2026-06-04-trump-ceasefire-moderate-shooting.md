@@ -4,7 +4,7 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-06-04
-updated: 2026-06-06
+updated: 2026-06-09
 verified: 2026-06-06
 tags: [thesis, ceasefire, war-and-state, state-power, protection-racket, political-means, us-iran, kuwait, israel-lebanon, trump]
 aliases: [Trump ceasefire moderate shooting, June 2026 ceasefire remark, moderate shooting ceasefire]
@@ -28,7 +28,7 @@ Calling a ceasefire "shooting in a more moderate manner" does not merely loosen 
 
 ## The Boundary Peace Is Supposed To Draw
 
-Rothbard's war argument in [[anatomy-of-the-state|Anatomy of the State]] is not a claim that every conflict leaves the same residue. It is a ratchet claim about what war permits rulers to demand while resistance is lowered.
+[[murray-n-rothbard|Rothbard]]'s war argument in [[anatomy-of-the-state|Anatomy of the State]] is not a claim that every conflict leaves the same residue. It is a ratchet claim about what war permits rulers to demand while resistance is lowered.
 
 > In war, State power is pushed to its ultimate, and, under the slogans of “defense” and “emergency,” it can impose a tyranny upon the public such as might be openly resisted in time of peace. War thus provides many benefits to a State, and indeed every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society.
 >
@@ -40,7 +40,7 @@ That distinction is the center of the issue. Peace terms are supposed to discipl
 
 ## The Racket Test For Self-Defense
 
-CBS's "exchange of fire" phrasing describes reciprocity. Central Command's reported "self-defense strikes" phrasing adds legitimacy. Tilly's test in [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] is sharper than either phrase:
+CBS's "exchange of fire" phrasing describes reciprocity. Central Command's reported "self-defense strikes" phrasing adds legitimacy. [[charles-tilly|Tilly]]'s test in [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] is sharper than either phrase:
 
 > But consider the definition of a racketeer as someone who creates a threat and then charges for its reduction.
 >
@@ -52,7 +52,7 @@ That does not make Tilly a libertarian theorist. [[war-and-state-formation|War a
 
 ## Moderation Does Not Change The Means
 
-[[political-means-and-economic-means|Political Means and Economic Means]] supplies the category that a ceasefire label can obscure. Production and voluntary exchange are economic means. Taxation, tribute, monopoly privilege, and war are political means. Oppenheimer states the institutional point in [[oppenheimer-the-state|The State]]:
+[[political-means-and-economic-means|Political Means and Economic Means]] supplies the category that a ceasefire label can obscure. Production and voluntary exchange are economic means. Taxation, tribute, monopoly privilege, and war are political means. [[franz-oppenheimer|Oppenheimer]] states the institutional point in [[oppenheimer-the-state|The State]]:
 
 > The state is an organization of the political means.
 >

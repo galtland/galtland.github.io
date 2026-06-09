@@ -3,7 +3,7 @@ title: "Praxeology"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [praxeology, methodology, austrian-economics, action-axiom, mises]
 aliases: [The Action Axiom, Mises's Method, Austrian Methodology]
@@ -13,7 +13,7 @@ summary: "The Misesian general theory of human action: a deductive science whose
 
 # Praxeology
 
-> Praxeology is the deductive science of human action defended by [[ludwig-von-mises|Mises]] and adopted by [[murray-n-rothbard|Rothbard]] as the methodological foundation of the Misesian-Rothbardian Austrian tradition (other Austrians — Hayek, Kirzner, Lachmann — are less committed to strict apriorism). Its first principle is the action axiom: humans act, in the sense of choosing means to attain ends. Economics, in this view, is not an empirical science of regularities but a deductive working-out of what is implied by the fact that humans act.
+> Praxeology is the deductive science of human action defended by [[ludwig-von-mises|Mises]] and adopted by [[murray-n-rothbard|Rothbard]] as the methodological foundation of the Misesian-Rothbardian Austrian tradition (other Austrians — [[friedrich-a-hayek|Hayek]], Kirzner, Lachmann — are less committed to strict apriorism). Its first principle is the action axiom: humans act, in the sense of choosing means to attain ends. Economics, in this view, is not an empirical science of regularities but a deductive working-out of what is implied by the fact that humans act.
 
 ## The Action Axiom
 

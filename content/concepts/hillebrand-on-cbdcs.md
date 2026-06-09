@@ -3,7 +3,7 @@ title: "Hillebrand on Central Bank Digital Currencies"
 volatility: warm
 category: concept
 created: 2026-05-18
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [cbdc, central-bank-digital-currency, hillebrand, programmable-money, financial-surveillance, total-intervention]
 summary: "Max Hillebrand's argument that central bank digital currencies fuse surveillance, monetary, and behavioral control into one programmable mechanism — 'total intervention,' not a mere digital banknote."
@@ -18,7 +18,7 @@ confidence: medium
 >
 > — Max Hillebrand, [[the-praxeology-of-privacy|The Praxeology of Privacy]] Ch. 10 §10.5 "Central Bank Digital Currencies as Total Intervention"
 
-Hillebrand's chapter maps the CBDC architecture onto Rothbard's [[power-and-market|Power and Market]] trichotomy. *Autistic intervention* is embedded in the medium itself — "CBDC rules can prohibit transactions directly through what amounts to autistic intervention embedded in the monetary infrastructure. The currency itself refuses to execute disfavored payments." *Binary intervention* becomes free at point of use because the central bank is the counterparty to every balance: "the state extracts transaction data directly, and every economic act is reported instantly to the monetary authority." *Triangular intervention* is preserved as the merchant-facing leg — the medium compels third parties to verify customer compliance before transacting. The three types collapse into one stack.
+Hillebrand's chapter maps the CBDC architecture onto [[murray-n-rothbard|Rothbard]]'s [[power-and-market|Power and Market]] trichotomy. *Autistic intervention* is embedded in the medium itself — "CBDC rules can prohibit transactions directly through what amounts to autistic intervention embedded in the monetary infrastructure. The currency itself refuses to execute disfavored payments." *Binary intervention* becomes free at point of use because the central bank is the counterparty to every balance: "the state extracts transaction data directly, and every economic act is reported instantly to the monetary authority." *Triangular intervention* is preserved as the merchant-facing leg — the medium compels third parties to verify customer compliance before transacting. The three types collapse into one stack.
 
 The programmability layer is the load-bearing distinction from prior digital money. Hillebrand catalogues it directly: "Money can be programmed to expire, forcing spending and preventing saving; this implements negative interest rates without the zero lower bound. Money can be programmed to work only in specified regions… Money can refuse purchase categories… Money can be programmed to activate only when conditions are met: vaccination status, social credit score, tax compliance, political loyalty tests." Holding caps, inactivity expiries, geographic fences, category blocks, and conditional release are not deployment options bolted onto a neutral payment rail — they are the rail.
 

@@ -29,7 +29,7 @@ Chapter 1 introduces the problem: Bitcoin's proof-of-work may have national-secu
 
 This is an external, non-libertarian source. Lowery writes as a US Space Force officer and MIT SDM fellow for a national-security and Department of Defense audience. His policy conclusions are not the same as this wiki's libertarian sources.
 
-The thesis is useful here because its analytic scaffolding overlaps with several libertarian concerns: concentrated authority, state-monopoly institutions, coercive control over infrastructure, and the need for resistant tools. That overlap is clearest next to [[praxeology-of-privacy|Praxeology of Privacy]] and [[the-praxeology-of-privacy|The Praxeology of Privacy]]. Hillebrand frames Bitcoin as resistance and parallel-economy implementation from an Austrian-libertarian direction. Lowery frames Bitcoin as electro-cyber security and physical-cost power projection from a national-security direction.
+The thesis is useful here because its analytic scaffolding overlaps with several libertarian concerns: concentrated authority, state-monopoly institutions, coercive control over infrastructure, and the need for resistant tools. That overlap is clearest next to [[praxeology-of-privacy|Praxeology of Privacy]] and [[the-praxeology-of-privacy|The Praxeology of Privacy]]. [[max-hillebrand|Hillebrand]] frames Bitcoin as resistance and parallel-economy implementation from an Austrian-libertarian direction. Lowery frames Bitcoin as electro-cyber security and physical-cost power projection from a national-security direction.
 
 ## Limits
 

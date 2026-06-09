@@ -3,7 +3,7 @@ title: "Political Means and Economic Means"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [political-means, economic-means, state, exploitation, production, exchange, nonaggression, war-and-state-formation]
 aliases: [economic means, political means, Oppenheimer distinction, production versus predation]
@@ -29,23 +29,23 @@ That lets Nock interpret the American state without treating every intervention 
 
 ## From Nock to Rothbard
 
-[[anatomy-of-the-state|Anatomy of the State]] makes the distinction canonical for the Rothbardian corpus. Rothbard explicitly credits Oppenheimer, defines the state as the organization of the political means, and then connects the distinction to taxation, monopoly jurisdiction, war, propaganda, and the conflict between state power and social power.
+[[anatomy-of-the-state|Anatomy of the State]] makes the distinction canonical for the Rothbardian corpus. [[murray-n-rothbard|Rothbard]] explicitly credits Oppenheimer, defines the state as the organization of the political means, and then connects the distinction to taxation, monopoly jurisdiction, war, propaganda, and the conflict between state power and social power.
 
 The same line appears in Rothbard's economic work: market action is production and exchange, while intervention shifts control by coercion. That is why this concept sits between [[state-power-and-intervention|State Power and Intervention]] and [[nonaggression-and-property-rights|Nonaggression and Property Rights]]. The political/economic means distinction draws the line historically and sociologically; the nonaggression principle draws the same line normatively.
 
 ## Hoppe's Regime-Theory Use
 
-[[democracy-the-god-that-failed|Democracy: The God That Failed]] uses the same vocabulary downstream of Oppenheimer, Nock, and Rothbard. Hoppe's chapter 13 identifies politics with acquiring goods through political means: taxation and legislation. The point is not a new definition so much as a strategic extension. If democratic politics institutionalizes access to goods through political means, then even people who would prefer production and exchange must defend themselves politically unless the monopoly structure is delegitimized or escaped through secession and private-law institutions.
+[[democracy-the-god-that-failed|Democracy: The God That Failed]] uses the same vocabulary downstream of Oppenheimer, Nock, and Rothbard. [[hans-hermann-hoppe|Hoppe]]'s chapter 13 identifies politics with acquiring goods through political means: taxation and legislation. The point is not a new definition so much as a strategic extension. If democratic politics institutionalizes access to goods through political means, then even people who would prefer production and exchange must defend themselves politically unless the monopoly structure is delegitimized or escaped through secession and private-law institutions.
 
 ## Tilly's Capital and Coercion
 
-Tilly's [[war-and-state-formation|War and State Formation]] framework empirically corroborates part of Oppenheimer's distinction across European cases without adopting Oppenheimer's politics. In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], coercion-intensive paths rely heavily on direct extraction, landlords, armed force, tribute, and administrative penetration. Those cases sit closer to Oppenheimer's political means.
+[[charles-tilly|Tilly]]'s [[war-and-state-formation|War and State Formation]] framework empirically corroborates part of Oppenheimer's distinction across European cases without adopting Oppenheimer's politics. In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], coercion-intensive paths rely heavily on direct extraction, landlords, armed force, tribute, and administrative penetration. Those cases sit closer to Oppenheimer's political means.
 
 Capital-intensive paths, by contrast, depend more heavily on cities, credit, trade, contracts, and taxable flows through commercial economies. They do not become libertarian or non-coercive; Tilly still treats them as state-building paths. But they show how economic-means infrastructure can become the fiscal base for political means once rulers borrow, tax, and bargain to make war.
 
 ## Relation to Abstract Power
 
-Lowery's [[abstract-power-hierarchies|Abstract Power Hierarchies]] uses a different intellectual toolkit, but it points toward a similar danger. Abstract offices, rules, and permissions can let administrators extract or redirect value without bearing the physical costs of production and exchange. Oppenheimer names that mechanism as political economy; Lowery names an adjacent security problem in rule-based authority.
+[[jason-lowery|Lowery]]'s [[abstract-power-hierarchies|Abstract Power Hierarchies]] uses a different intellectual toolkit, but it points toward a similar danger. Abstract offices, rules, and permissions can let administrators extract or redirect value without bearing the physical costs of production and exchange. Oppenheimer names that mechanism as political economy; Lowery names an adjacent security problem in rule-based authority.
 
 The overlap should not erase the differences. Oppenheimer writes as a German sociological theorist of class-state formation. Lowery writes from systems engineering and national security. Nock and Rothbard turn Oppenheimer's distinction into explicitly libertarian anti-state theory.
 

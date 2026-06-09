@@ -20,7 +20,7 @@ short: "Cicero's dialogue transmitting Stoic natural law as 'right reason in acc
 
 The work's enduring contribution is the definition of true law in Book III, preserved by Lactantius and rendered in this edition as: "There is indeed a law, right reason, which is in accordance with nature; existing in all, unchangeable, eternal." Cicero's law of nature is **universal** (the same "at Rome and at Athens"), **immutable** ("we cannot be freed from it by senate or people"), and grounded in a divine and rational order rather than in human will. To act against it is to "fly from one's self" and deny one's nature.
 
-This is the tradition's most compact statement of its three signature claims: that genuine law is *discovered by reason*, that it is *binding above positive enactment*, and that it is *the same for all*. Every later figure in the lineage — Aquinas, Grotius, Locke — works variations on Cicero's formula.
+This is the tradition's most compact statement of its three signature claims: that genuine law is *discovered by reason*, that it is *binding above positive enactment*, and that it is *the same for all*. Every later figure in the lineage — [[thomas-aquinas|Aquinas]], [[hugo-grotius|Grotius]], [[john-locke|Locke]] — works variations on Cicero's formula.
 
 ## The Rest of the Work
 

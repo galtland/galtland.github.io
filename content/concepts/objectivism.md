@@ -3,7 +3,7 @@ title: "Objectivism"
 volatility: cold
 category: concept
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [objectivism, ayn-rand, ethics, rational-self-interest, capitalism, individual-rights, epistemology, reason]
 aliases: [Objectivist philosophy, Rand's philosophy, Objectivist ethics]
@@ -34,7 +34,7 @@ Two Randian formulations recur. The **trader principle** holds that the proper r
 
 ## Relation to the Liberty Tradition
 
-Objectivism reaches conclusions close to the wiki's [[libertarianism|libertarian]] and [[nonaggression-and-property-rights|non-aggression / property-rights]] themes — the prohibition on initiating force, the defense of private property, the moral status of voluntary trade — but it arrives by a different road. Where Rothbard derives rights from self-ownership and homesteading, and Mises grounds economics in [[praxeology|praxeology]], Rand grounds the whole structure in a prior ethics and epistemology: capitalism is defended because it is the system of reason and rights, not primarily on consequentialist or praxeological grounds.
+Objectivism reaches conclusions close to the wiki's [[libertarianism|libertarian]] and [[nonaggression-and-property-rights|non-aggression / property-rights]] themes — the prohibition on initiating force, the defense of private property, the moral status of voluntary trade — but it arrives by a different road. Where [[murray-n-rothbard|Rothbard]] derives rights from self-ownership and homesteading, and [[ludwig-von-mises|Mises]] grounds economics in [[praxeology|praxeology]], Rand grounds the whole structure in a prior ethics and epistemology: capitalism is defended because it is the system of reason and rights, not primarily on consequentialist or praxeological grounds.
 
 The tensions are equally real and worth stating. Objectivism is a closed philosophical system with metaphysical and ethical commitments that many [[austrian-economics|Austrians]] and libertarians do not share, and Rand herself was hostile to the libertarian movement and to [[market-anarchism-and-private-law|anarcho-capitalism]], defending instead a minimal constitutional state. The wiki treats Objectivism as a powerful adjacent case for capitalism and individualism, not as a synonym for the Austro-libertarian position.
 

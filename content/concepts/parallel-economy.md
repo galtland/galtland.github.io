@@ -3,7 +3,7 @@ title: "The Parallel Economy"
 volatility: warm
 category: concept
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-09
 verified: 2026-05-30
 confidence: medium
 tags: [parallel-economy, cypherpunk, bitcoin, privacy, agorism, counter-economics, resistance, ooda-loop, austrian-economics, max-hillebrand, crypto-anarchy]
@@ -17,7 +17,7 @@ summary: "Hillebrand's strategic synthesis: an integrated stack of privacy-prese
 
 ## The Convergence of Foundations
 
-Hillebrand builds the parallel economy on three axioms that operate at different levels but point the same way. Privacy *is*: information asymmetry between actor and observer is constitutive of purposeful action, which is why the [[praxeology-of-privacy|Praxeology of Privacy]] treats it as built into the structure of action rather than as a preference. From there it *ought to be*, because a surveillance advocate exercises, in the very act of arguing, the self-ownership they would deny — the move [[nonaggression-and-property-rights|argumentation ethics]] turns against them. And it *can be*: the [[resistance-axiom|axiom of resistance]] holds that mathematical structures exist which physical force cannot defeat. Privacy IS, OUGHT TO BE, and CAN BE; the parallel economy is what emerges when systems implement what theory establishes and ethics requires.
+[[max-hillebrand|Hillebrand]] builds the parallel economy on three axioms that operate at different levels but point the same way. Privacy *is*: information asymmetry between actor and observer is constitutive of purposeful action, which is why the [[praxeology-of-privacy|Praxeology of Privacy]] treats it as built into the structure of action rather than as a preference. From there it *ought to be*, because a surveillance advocate exercises, in the very act of arguing, the self-ownership they would deny — the move [[nonaggression-and-property-rights|argumentation ethics]] turns against them. And it *can be*: the [[resistance-axiom|axiom of resistance]] holds that mathematical structures exist which physical force cannot defeat. Privacy IS, OUGHT TO BE, and CAN BE; the parallel economy is what emerges when systems implement what theory establishes and ethics requires.
 
 This convergence is itself the book's prior claim (its chapter 2): Austrian deduction and [[cypherpunk|cypherpunk]] practice, developed independently, reached the same conclusions about privacy, spontaneous order, and sound money — and convergence from independent starting points is evidence both traditions found something real.
 

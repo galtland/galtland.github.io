@@ -3,7 +3,7 @@ title: "Ayn Rand"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [ayn-rand, objectivism, capitalism, individualism, rational-self-interest, novelist-philosopher, romantic-realism]
 aliases: [Rand, Alisa Rosenbaum, Ayn Rand author]
@@ -32,7 +32,7 @@ Rand's distinctive method is to argue moral philosophy through dramatized fictio
 
 Rand's place in this wiki is real but contested, and the article keeps that boundary explicit. She shares with the [[austrian-economics|Austrian]] and [[libertarianism|libertarian]] traditions a defense of private property, free markets, and the individual against the state, and her novels did more than any treatise to popularize a pro-capitalist moral sensibility. Many who later entered the liberty movement arrived through Rand.
 
-But she was not an Austrian economist and did not present economic theory in Mises-Rothbard terms. She admired Mises's economics while grounding her own case in ethics and epistemology rather than praxeology. She faulted [[friedrich-a-hayek|Hayek]] for conceding too much to the welfare state. And she rejected the libertarian movement itself: she opposed [[market-anarchism-and-private-law|anarcho-capitalism]] and defended a strictly limited constitutional government with a monopoly on the retaliatory use of force, financed voluntarily. Where [[murray-n-rothbard|Rothbard]] followed the property-rights logic to the abolition of the state, Rand stopped at minarchism and treated anarchism as a contradiction. The wiki therefore files her as a fellow traveler of the liberty tradition, not a member of its Austrian core.
+But she was not an Austrian economist and did not present economic theory in Mises-Rothbard terms. She admired [[ludwig-von-mises|Mises]]'s economics while grounding her own case in ethics and epistemology rather than praxeology. She faulted [[friedrich-a-hayek|Hayek]] for conceding too much to the welfare state. And she rejected the libertarian movement itself: she opposed [[market-anarchism-and-private-law|anarcho-capitalism]] and defended a strictly limited constitutional government with a monopoly on the retaliatory use of force, financed voluntarily. Where [[murray-n-rothbard|Rothbard]] followed the property-rights logic to the abolition of the state, Rand stopped at minarchism and treated anarchism as a contradiction. The wiki therefore files her as a fellow traveler of the liberty tradition, not a member of its Austrian core.
 
 ## See Also
 
@@ -45,6 +45,8 @@ But she was not an Austrian economist and did not present economic theory in Mis
 - [[libertarianism|Libertarianism]] - the broader tradition she influenced but declined to join
 - [[austrian-economics|Austrian Economics]] - the economics she admired without adopting its method
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [Atlas Shrugged (Full Text Aggregate)](https://archive.org/details/atlas-shrugged-35th-anniversary-edition-ayn-rand) - 1957 novel, the fullest statement of her philosophy in fiction

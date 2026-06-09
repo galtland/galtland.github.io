@@ -3,7 +3,7 @@ title: "The Economics and Ethics of Private Property"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [hoppe, property-rights, austrian-economics, taxation]
 aliases: [Economics and Ethics of Private Property]
@@ -25,7 +25,7 @@ This reference is one of the main raw foundations behind [[sales-tax-incidence|S
 
 ## Scope of the Full-Text Ingest
 
-The present raw source consolidates the Mises EPUB edition into 27 spine documents. That gives the wiki a genuine multi-essay Hoppe source rather than a short description page and explains why this book keeps surfacing across several compiled concepts.
+The present raw source consolidates the [[ludwig-von-mises|Mises]] EPUB edition into 27 spine documents. That gives the wiki a genuine multi-essay Hoppe source rather than a short description page and explains why this book keeps surfacing across several compiled concepts.
 
 ## Relation to Hoppe's Other Book
 

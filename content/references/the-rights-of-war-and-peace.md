@@ -26,7 +26,7 @@ From this foundation Grotius derives a body of **natural rights** — to self-pr
 
 ## Place in This Wiki
 
-Grotius stands between [[aquinas-treatise-on-law|Aquinas]] and [[the-second-treatise-of-government|Locke]] in the lineage. He inherits the Scholastic natural-law apparatus, strips it of its dependence on revealed theology, and hands a *rights-and-contract* version of it to the later natural-rights theorists Locke draws on. He is a theorist of obligation and a defender of property and promise-keeping, not a libertarian or an anti-statist; the wiki uses him for the secularization that made natural rights a portable, cross-cultural standard.
+Grotius stands between [[aquinas-treatise-on-law|Aquinas]] and [[the-second-treatise-of-government|Locke]] in the lineage. He inherits the Scholastic natural-law apparatus, strips it of its dependence on revealed theology, and hands a *rights-and-contract* version of it to the later natural-rights theorists [[john-locke|Locke]] draws on. He is a theorist of obligation and a defender of property and promise-keeping, not a libertarian or an anti-statist; the wiki uses him for the secularization that made natural rights a portable, cross-cultural standard.
 
 ## See Also
 

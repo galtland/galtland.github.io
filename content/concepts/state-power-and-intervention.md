@@ -3,7 +3,7 @@ title: "State Power and Intervention"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [state intervention, interventionism]
@@ -33,13 +33,13 @@ The convergence should not be overstated. Nietzsche gives no Rothbardian nonaggr
 
 ## Abstract Power Hierarchies
 
-Lowery's [[abstract-power-hierarchies|Abstract Power Hierarchies]] gives this article another non-libertarian convergence point. He does not argue from nonaggression or Austrian economics. He instead treats states, legal offices, software administrators, and similar institutions as rule-based systems that centralize control through abstract authority. In his [[power-projection|Power Projection]] frame, that concentration becomes a security problem because the people who administer the abstraction can exploit it unless users retain some physical-cost check on their authority.
+[[jason-lowery|Lowery]]'s [[abstract-power-hierarchies|Abstract Power Hierarchies]] gives this article another non-libertarian convergence point. He does not argue from nonaggression or Austrian economics. He instead treats states, legal offices, software administrators, and similar institutions as rule-based systems that centralize control through abstract authority. In his [[power-projection|Power Projection]] frame, that concentration becomes a security problem because the people who administer the abstraction can exploit it unless users retain some physical-cost check on their authority.
 
 That descriptive critique overlaps with the libertarian suspicion of state monopoly, but the political conclusions differ. Lowery's policy frame is national-security oriented and includes recommendations for US strategic adoption of Bitcoin. The value here is the shared diagnosis of concentrated abstract authority, not a shared libertarian program.
 
 ## Protection Racket Sociology
 
-Tilly's [[war-and-state-formation|War and State Formation]] framework adds a third non-libertarian convergence point next to Nietzsche and Lowery. In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], rulers build coercive and fiscal capacity by fighting wars, disarming rivals, extracting taxes, managing debt, bargaining with capitalists and landlords, and selling protection against violence they could inflict or allow.
+[[charles-tilly|Tilly]]'s [[war-and-state-formation|War and State Formation]] framework adds a third non-libertarian convergence point next to Nietzsche and Lowery. In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], rulers build coercive and fiscal capacity by fighting wars, disarming rivals, extracting taxes, managing debt, bargaining with capitalists and landlords, and selling protection against violence they could inflict or allow.
 
 [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] now supplies the explicit 1985 formulation. Tilly compares war making and state making to organized crime and distinguishes the four activities of war making, state making, protection, and extraction.
 
@@ -51,13 +51,13 @@ This confirms a descriptive claim the libertarian sources often make polemically
 
 [[eichmann-in-jerusalem|Eichmann in Jerusalem]] adds the bureaucratic participant layer. [[banality-of-evil|Banality of Evil]] is not a libertarian concept, but it sharpens the critique of bureaucracy: ordinary functionaries can participate in catastrophic wrongdoing through thoughtlessness, legality-as-obedience, and administrative career duty.
 
-[[the-gulag-archipelago|The Gulag Archipelago]] supplies the dictatorship/totalitarianism pole the earlier state-power article lacked. Solzhenitsyn documents the Soviet camp system as more than extraction: arrest, interrogation, forced labor, exile, informers, fear, and social poisoning. This supports Arendt's [[total-domination|Total Domination]] distinction, where the parasite frame breaks because the system destroys the host rather than merely feeding from it.
+[[the-gulag-archipelago|The Gulag Archipelago]] supplies the dictatorship/totalitarianism pole the earlier state-power article lacked. [[aleksandr-solzhenitsyn|Solzhenitsyn]] documents the Soviet camp system as more than extraction: arrest, interrogation, forced labor, exile, informers, fear, and social poisoning. This supports Arendt's [[total-domination|Total Domination]] distinction, where the parasite frame breaks because the system destroys the host rather than merely feeding from it.
 
 That distinction sharpens rather than weakens the anti-state analysis. The modern state can be extractive, interventionist, militarized, or bureaucratic without being totalitarian in Arendt's sense. Totalitarianism names a specific twentieth-century pathology of mass society, ideology, police rule, terror, and camps. The convergence is diagnostic; the divergence is political. Arendt does not infer market anarchism or the nonaggression principle from her account, and Solzhenitsyn should not be turned into a libertarian author.
 
 ## Intervention as a Cumulative Process
 
-[[man-economy-and-state|Man, Economy, and State]] matters here because it turns moral complaint into economic analysis. The [[power-and-market|Power and Market]] material treats taxes, price controls, monopoly grants, and other interventions as disturbances that create further distortions and pressures for more intervention. The same logic is set out earlier and more directly by [[ludwig-von-mises|Mises]] under the label "destructionism" in [[socialism|Socialism]] and applied politically in [[liberalism|Liberalism]]. [[hans-hermann-hoppe|Hoppe]] restates it in property-rights form, and the accessible polemic [[busting-myths-about-the-state-and-the-libertarian-alternative|Busting Myths about the State and the Libertarian Alternative]] applies it issue by issue. Intervention is therefore not a one-off technique in this corpus. It is a destabilizing process. The argument Rothbard makes in [[sales-tax-incidence|Sales Tax Incidence]] is one concrete case of that wider approach.
+[[man-economy-and-state|Man, Economy, and State]] matters here because it turns moral complaint into economic analysis. The [[power-and-market|Power and Market]] material treats taxes, price controls, monopoly grants, and other interventions as disturbances that create further distortions and pressures for more intervention. The same logic is set out earlier and more directly by [[ludwig-von-mises|Mises]] under the label "destructionism" in [[socialism|Socialism]] and applied politically in [[liberalism|Liberalism]]. [[hans-hermann-hoppe|Hoppe]] restates it in property-rights form, and the accessible polemic [[busting-myths-about-the-state-and-the-libertarian-alternative|Busting Myths about the State and the Libertarian Alternative]] applies it issue by issue. Intervention is therefore not a one-off technique in this corpus. It is a destabilizing process. The argument [[murray-n-rothbard|Rothbard]] makes in [[sales-tax-incidence|Sales Tax Incidence]] is one concrete case of that wider approach.
 
 ## The Calculation and Knowledge Arguments
 
@@ -65,7 +65,7 @@ The wiki's case against central planning rests on two complementary Austrian the
 
 ## Obedience, Myth, and Legitimacy
 
-The present source set does not explain state power by force alone. [[the-politics-of-obedience|The Politics of Obedience]] emphasizes custom, collaboration, and the withdrawal of consent. Spooner's [[lets-abolish-government|Let's Abolish Government]] attacks the claim that constitutions or voting rituals create actual obligation. Rothbard's anti-state writings add the role of ideology and intellectual legitimation. Together these books depict state power as partly military, partly fiscal, and partly psychological.
+The present source set does not explain state power by force alone. [[the-politics-of-obedience|The Politics of Obedience]] emphasizes custom, collaboration, and the withdrawal of consent. [[lysander-spooner|Spooner]]'s [[lets-abolish-government|Let's Abolish Government]] attacks the claim that constitutions or voting rituals create actual obligation. Rothbard's anti-state writings add the role of ideology and intellectual legitimation. Together these books depict state power as partly military, partly fiscal, and partly psychological.
 
 ## From Critique to Alternative
 

@@ -3,7 +3,7 @@ title: "Anatomy of the State"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-05-12
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [rothbard, state, anti-statism, political-theory, political-means, evolution-of-the-state]
 aliases: [Anatomy]
@@ -29,7 +29,7 @@ This book is a primary feeder into [[state-power-and-intervention|State Power an
 
 ## Scope of the Full-Text Ingest
 
-The current raw source aggregates 7 reading-order pages from the Mises online-book edition. That gives the wiki the whole essay, including the sections on ideological camouflage, interstate conflict, and the race between state power and social power.
+The current raw source aggregates 7 reading-order pages from the [[ludwig-von-mises|Mises]] online-book edition. That gives the wiki the whole essay, including the sections on ideological camouflage, interstate conflict, and the race between state power and social power.
 
 ## Relation to Other Rothbard Texts
 

@@ -3,7 +3,7 @@ title: "The State"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [franz-oppenheimer, state, conquest-theory, political-means, economic-means, sociology, non-libertarian]
 aliases: [Der Staat, The State by Franz Oppenheimer, The State: Its History and Development Viewed Sociologically]
@@ -29,7 +29,7 @@ That definition is why the book feeds directly into [[evolution-of-the-state|Evo
 
 ## Place in This Wiki
 
-Oppenheimer was not a libertarian. He was a German sociologist and social-democratic reformer whose work nevertheless shaped the American libertarian anti-state tradition. [[our-enemy-the-state|Our Enemy, the State]] applies Oppenheimer to American history, and [[anatomy-of-the-state|Anatomy of the State]] makes the Oppenheimer definition central to Rothbard's analytic dissection of political rule.
+Oppenheimer was not a libertarian. He was a German sociologist and social-democratic reformer whose work nevertheless shaped the American libertarian anti-state tradition. [[our-enemy-the-state|Our Enemy, the State]] applies Oppenheimer to American history, and [[anatomy-of-the-state|Anatomy of the State]] makes the Oppenheimer definition central to [[murray-n-rothbard|Rothbard]]'s analytic dissection of political rule.
 
 The book should therefore be used as an upstream sociological source. It should not be made to endorse the whole later libertarian program.
 

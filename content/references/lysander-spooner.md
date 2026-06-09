@@ -19,13 +19,15 @@ summary: "Short author reference for Lysander Spooner (1808–1887), the America
 
 Spooner was an American individualist anarchist, abolitionist, entrepreneur (his American Letter Mail Company challenged the postal monopoly), and constitutional theorist. The wiki already holds his work through [[lets-abolish-government|Let's Abolish Government]]; this profile adds his most concentrated natural-law statement.
 
-His argument is that justice is an exact natural science of person and property, from which it follows that "all legislation whatsoever" beyond enforcing natural justice "is an absurdity, a usurpation, and a crime." Where Locke used natural rights to *limit* the state, Spooner uses them to *delegitimize* the legislative state outright — the individualist-anarchist edge of the tradition, and a direct ancestor of [[the-ethics-of-liberty|Rothbard's]] natural-rights libertarianism.
+His argument is that justice is an exact natural science of person and property, from which it follows that "all legislation whatsoever" beyond enforcing natural justice "is an absurdity, a usurpation, and a crime." Where [[john-locke|Locke]] used natural rights to *limit* the state, Spooner uses them to *delegitimize* the legislative state outright — the individualist-anarchist edge of the tradition, and a direct ancestor of [[the-ethics-of-liberty|Rothbard's]] natural-rights libertarianism.
 
 ## See Also
 
 - [[spooner-natural-law|Natural Law; or The Science of Justice]] - the work present in this wiki
 - [[lets-abolish-government|Let's Abolish Government]] - the existing Spooner collection in this wiki
 
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [Spooner, Natural Law; or The Science of Justice (Full Text)](<../../raw/articles/2026-06-09-spooner-natural-law-or-the-science-of-justice-full-text.md>) - the basis for this profile

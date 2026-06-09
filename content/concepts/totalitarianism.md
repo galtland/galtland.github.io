@@ -3,7 +3,7 @@ title: "Totalitarianism"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, stalinism, gulag, total-domination, banality-of-evil, state, central-planning, evolution-of-the-state, non-libertarian]
 aliases: [totalitarian rule, ideology and terror]
@@ -51,7 +51,7 @@ This does not lessen guilt. Eichmann was judged for what he did. The point is an
 
 ## Ideology and Planning
 
-Arendt's ideology analysis has a non-trivial connection to the Austrian and classical-liberal critique of planning, especially [[road-to-serfdom|The Road to Serfdom]] and [[knowledge-problem|Knowledge Problem]]. Hayek and Arendt were diagnosing overlapping mid-century dangers from different angles.
+Arendt's ideology analysis has a non-trivial connection to the Austrian and classical-liberal critique of planning, especially [[road-to-serfdom|The Road to Serfdom]] and [[knowledge-problem|Knowledge Problem]]. [[friedrich-a-hayek|Hayek]] and Arendt were diagnosing overlapping mid-century dangers from different angles.
 
 The convergence is that both reject the fantasy of a single commanding rationality that can reorganize plural human life from above. Hayek emphasizes the epistemic-economic mechanism: comprehensive planning suppresses prices, dispersed knowledge, and the rule of law. Arendt emphasizes the political-anthropological mechanism: total ideology converts reality into a closed deduction and uses terror to force people into the movement.
 
@@ -61,7 +61,7 @@ The divergence is equally important. Hayek's target is central economic planning
 
 Arendt converges with [[state-power-and-intervention|State Power and Intervention]] on the diagnosis of the totalitarian state as a catastrophic concentration of coercive power. She also overlaps with [[war-and-state-formation|War and State Formation]] because imperialism, bureaucracy, war, and mass mobilization are part of the background out of which twentieth-century totalitarianism emerges.
 
-She diverges sharply from libertarian anti-statism. Rothbard, Oppenheimer, Nock, Hoppe, and Tilly work at the level of conquest, political means, taxation, monopoly, war-making, and regime incentives. Arendt does not infer that the state as such is the natural enemy or that non-state market order is the solution. For her, totalitarianism is a specific twentieth-century deformation of politics, not the inevitable endpoint of all public authority.
+She diverges sharply from libertarian anti-statism. [[murray-n-rothbard|Rothbard]], [[franz-oppenheimer|Oppenheimer]], [[albert-jay-nock|Nock]], [[hans-hermann-hoppe|Hoppe]], and [[charles-tilly|Tilly]] work at the level of conquest, political means, taxation, monopoly, war-making, and regime incentives. Arendt does not infer that the state as such is the natural enemy or that non-state market order is the solution. For her, totalitarianism is a specific twentieth-century deformation of politics, not the inevitable endpoint of all public authority.
 
 The useful synthesis is limited: libertarian sources explain why state monopoly and coercive capacity are dangerous; Arendt explains why one historically specific form of modern domination is worse and stranger than ordinary tyranny.
 

@@ -3,7 +3,7 @@ title: "Money, Sound and Unsound"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [salerno, sound-money, austrian-economics, monetary-theory, gold-standard, tms, inflation, deflation, business-cycle]
 aliases: [Money Sound and Unsound, MSU, Salerno collected essays]
@@ -14,7 +14,7 @@ short: "Salerno's 2010 collected monetary essays: the one-volume entry point to 
 
 # Money, Sound and Unsound
 
-> [[money-sound-and-unsound|Money, Sound and Unsound]] is Joseph T. Salerno's 2010 Mises Institute essay collection on Austrian monetary theory, sound money, inflation, deflation, depression, the gold standard, and monetary history.
+> [[money-sound-and-unsound|Money, Sound and Unsound]] is Joseph T. Salerno's 2010 [[ludwig-von-mises|Mises]] Institute essay collection on Austrian monetary theory, sound money, inflation, deflation, depression, the gold standard, and monetary history.
 
 ## Collection Scope
 
@@ -38,7 +38,7 @@ That matters for [[joseph-t-salerno|Joseph T. Salerno]] as an author node. His m
 
 ## Role in Salerno's Work
 
-The volume is the Salerno monetary corpus in one place. [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] uses the TMS paper for measurement. [[credit-expansion-dynamics|Credit Expansion Dynamics]] uses Mises and Rothbard for the mechanism. This collection shows how Salerno holds those pieces together under the sound-money heading.
+The volume is the Salerno monetary corpus in one place. [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] uses the TMS paper for measurement. [[credit-expansion-dynamics|Credit Expansion Dynamics]] uses Mises and [[murray-n-rothbard|Rothbard]] for the mechanism. This collection shows how Salerno holds those pieces together under the sound-money heading.
 
 The article's confidence is high because the raw source preserves the table of contents, introduction, and full text cleanly. Interpretive weight should still be separated: the book documents Salerno's Austrian program; it does not make every disputed claim in that program uncontested.
 

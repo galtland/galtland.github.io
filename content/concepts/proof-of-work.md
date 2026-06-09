@@ -3,7 +3,7 @@ title: "Proof of Work"
 volatility: cold
 category: concept
 created: 2026-05-27
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [bitcoin, proof-of-work, hashcash, bit-gold, satoshi-nakamoto, cypherpunk]
 aliases: [PoW, proof-of-work, hash-based proof of work, cost function]
@@ -44,7 +44,7 @@ This makes proof of work a direct answer to [[trusted-third-parties-as-security-
 
 ## Power Projection
 
-Lowery's [[softwar|Softwar]] and [[power-projection|Power Projection]] give proof of work a national-security frame. In that reading, Bitcoin projects physical power into cyberspace by making control over ledger history depend on energy expenditure and hardware competition. This article does not need Lowery's full strategic thesis to define proof of work, but the connection is important: proof of work is not merely "math." It is a conversion of physical resources into a public ordering signal.
+[[jason-lowery|Lowery]]'s [[softwar|Softwar]] and [[power-projection|Power Projection]] give proof of work a national-security frame. In that reading, Bitcoin projects physical power into cyberspace by making control over ledger history depend on energy expenditure and hardware competition. This article does not need Lowery's full strategic thesis to define proof of work, but the connection is important: proof of work is not merely "math." It is a conversion of physical resources into a public ordering signal.
 
 The lineage is high confidence. Back's Hashcash is explicitly cited in Section 4 and reference [6] of the Bitcoin whitepaper. Szabo's Bit Gold uses proof of work, timestamping, and a title registry in a form that plainly anticipates parts of Bitcoin's design, even though Bitcoin's whitepaper cites b-money rather than Bit Gold.
 

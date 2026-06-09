@@ -3,7 +3,7 @@ title: "The Road to Serfdom"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [hayek, central-planning, totalitarianism, rule-of-law, classical-liberalism]
 aliases: [Road to Serfdom, RTS]
@@ -21,7 +21,7 @@ Hayek's central claim is that the conflict between socialism and liberalism is n
 
 ## Why It Matters in This Wiki
 
-This is the wiki's first Hayek text and the most famous classical-liberal book of the twentieth century. It supplies a political-philosophical complement to the economic-calculation argument from [[socialism|Socialism]] and [[economic-calculation-problem|Economic Calculation Problem]] — Mises showed that planning cannot work; Hayek showed why trying to make it work corrodes liberty. The book is also a famous predecessor in the movement-facing anti-planning literature that [[for-a-new-liberty|For a New Liberty]] and [[busting-myths-about-the-state-and-the-libertarian-alternative|Busting Myths about the State and the Libertarian Alternative]] later extended, though those are Rothbardian/anarchist rather than Hayekian classical-liberal in their conclusions.
+This is the wiki's first Hayek text and the most famous classical-liberal book of the twentieth century. It supplies a political-philosophical complement to the economic-calculation argument from [[socialism|Socialism]] and [[economic-calculation-problem|Economic Calculation Problem]] — [[ludwig-von-mises|Mises]] showed that planning cannot work; Hayek showed why trying to make it work corrodes liberty. The book is also a famous predecessor in the movement-facing anti-planning literature that [[for-a-new-liberty|For a New Liberty]] and [[busting-myths-about-the-state-and-the-libertarian-alternative|Busting Myths about the State and the Libertarian Alternative]] later extended, though those are Rothbardian/anarchist rather than Hayekian classical-liberal in their conclusions.
 
 ## Scope of the Full-Text Ingest
 

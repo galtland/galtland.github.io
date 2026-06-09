@@ -3,7 +3,7 @@ title: "Hoppe on Caretaker Capital Consumption"
 volatility: warm
 category: concept
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [hoppe, democracy, caretaker, capital-consumption, time-preference, public-ownership, monarchy]
 summary: "Hoppe's caretaker thesis: a democratic ruler owns only the current use of government resources, not their capital value, so he maximizes present income at the expense of the capital stock."
@@ -21,7 +21,7 @@ Hoppe's argument rests on a structural asymmetry between two property regimes fo
 
 > "It must be regarded as unavoidable that public-government ownership results in continual capital consumption. Instead of maintaining or even enhancing the value of the government estate, as a king would do, a president (the government's temporary caretaker or trustee) will use up as much of the government resources as quickly as possible, for what he does not consume now, he may never be able to consume."
 
-The claim is not that monarchies are good. It is that *publicly owned* government (the democratic-republican form) systematically tilts the time-preference of state policy upward — toward present consumption, away from preserving the productive base that finances future extraction. This is why Hoppe pairs the caretaker frame with [[mises-on-capital-consumption|Mises's antiliberal-policy-as-capital-consumption]] formulation: the two arguments converge on the same prediction from different premises. Mises's frame is praxeological — antiliberal policy systematically diverts resources from capital accumulation to present transfer. Hoppe's frame is institutional — the property structure of democratic government systematically rewards exactly that diversion.
+The claim is not that monarchies are good. It is that *publicly owned* government (the democratic-republican form) systematically tilts the time-preference of state policy upward — toward present consumption, away from preserving the productive base that finances future extraction. This is why Hoppe pairs the caretaker frame with [[mises-on-capital-consumption|Mises's antiliberal-policy-as-capital-consumption]] formulation: the two arguments converge on the same prediction from different premises. [[ludwig-von-mises|Mises]]'s frame is praxeological — antiliberal policy systematically diverts resources from capital accumulation to present transfer. Hoppe's frame is institutional — the property structure of democratic government systematically rewards exactly that diversion.
 
 The mechanism scales beyond a single jurisdiction. When multiple democratic governments coordinate on a binding minimum extraction rate — a treaty-bound tax floor, a defense-spending floor, an alliance-wide rate band on accumulated capital — the within-bloc exit option that would normally discipline a single caretaker is removed. The remaining substitute is exit from the bloc itself, a much higher cost. On Hoppe's analysis the coordination is not an accident of multilateral negotiation; it is the predictable institutional move once any single caretaker recognizes that other caretakers face the same incentive to defect downward in pursuit of a tax-base advantage. The supranational floor is the multilateral hardening of the same time-preference asymmetry Hoppe identifies at the single-government level.
 

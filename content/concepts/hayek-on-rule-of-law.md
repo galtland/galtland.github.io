@@ -3,7 +3,7 @@ title: "Hayek on the Rule of Law"
 volatility: warm
 category: concept
 created: 2026-05-17
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [hayek, rule-of-law, central-planning, classical-liberalism, arbitrary-government, discretion]
 summary: "Hayek's account of the rule of law as government bound by fixed, pre-announced rules, and his argument that comprehensive planning requires the opposite — discretionary administration — making the two mutually exclusive."
@@ -28,7 +28,7 @@ The corollary is the one [[road-to-serfdom|The Road to Serfdom]] is named for: o
 
 ## Relation to the Current Wiki
 
-Hayek's foreseeability condition sits at the level of [[state-power-and-intervention|State Power and Intervention]] and supplies the classical-liberal limit on permissible state action that Mises shares in [[liberalism|Liberalism]]. It is the constraint a programmable monetary medium would invert: when the central bank can attach expiry, geographic limits, category refusals, or identity gating to balances at its own discretion, citizens can no longer "plan one's individual affairs on the basis of this knowledge." That makes the rule-of-law concept the natural Hayekian bridge from the [[knowledge-problem|knowledge problem]] to applied analysis of contemporary monetary architecture.
+Hayek's foreseeability condition sits at the level of [[state-power-and-intervention|State Power and Intervention]] and supplies the classical-liberal limit on permissible state action that [[ludwig-von-mises|Mises]] shares in [[liberalism|Liberalism]]. It is the constraint a programmable monetary medium would invert: when the central bank can attach expiry, geographic limits, category refusals, or identity gating to balances at its own discretion, citizens can no longer "plan one's individual affairs on the basis of this knowledge." That makes the rule-of-law concept the natural Hayekian bridge from the [[knowledge-problem|knowledge problem]] to applied analysis of contemporary monetary architecture.
 
 ## See Also
 

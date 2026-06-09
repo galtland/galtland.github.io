@@ -3,7 +3,7 @@ title: "Non-Interventionism"
 volatility: warm
 category: concept
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-09
 verified: 2026-06-07
 tags: [murray-rothbard, non-interventionism, war, foreign-policy, nonaggression, just-war, anti-war, blowback]
 summary: "Rothbard's derivation of the libertarian foreign-policy stance from the non-aggression axiom: inter-State war aggresses against the State's own taxpayers, and modern war almost always kills innocents too, so no State can wage it justly; the objective is to pressure States not to launch wars and, once at war, to sue for peace."
@@ -14,7 +14,7 @@ short: "The libertarian foreign-policy position from Rothbard's 'War, Peace, and
 
 # Non-Interventionism
 
-The libertarian position on foreign policy is not a separate doctrine bolted onto the philosophy; Rothbard derives it from the single axiom the whole system rests on:
+The libertarian position on foreign policy is not a separate doctrine bolted onto the philosophy; [[murray-n-rothbard|Rothbard]] derives it from the single axiom the whole system rests on:
 
 > The fundamental axiom of libertarian theory is that no one may threaten or commit violence ("aggress") against another man's person or property.
 

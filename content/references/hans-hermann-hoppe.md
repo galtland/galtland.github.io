@@ -61,6 +61,8 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical natural-law lineage behind Hoppe's "natural order"
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - main full-text source for Hoppe's property-theoretic contrast between capitalism and socialism

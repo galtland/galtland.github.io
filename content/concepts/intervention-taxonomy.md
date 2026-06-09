@@ -3,7 +3,7 @@ title: "Rothbard's Taxonomy of Intervention"
 volatility: cold
 category: concept
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-09
 verified: 2026-05-30
 confidence: high
 tags: [rothbard, intervention, austrian-economics, power-and-market, autistic-intervention, binary-intervention, triangular-intervention, taxation, price-controls, surveillance, cbdc]
@@ -13,7 +13,7 @@ summary: "Rothbard's three-way classification of coercive intervention in Power 
 
 # Rothbard's Taxonomy of Intervention
 
-> Rothbard's taxonomy of intervention is the classification, set out in [[power-and-market|Power and Market]], of every coercive intrusion into the market into three kinds — **autistic**, **binary**, and **triangular** — by the structure of the coercion rather than its label or stated purpose. All three rest on the use or threat of violence to alter behavior that would otherwise occur in an unhampered market.
+> [[murray-n-rothbard|Rothbard]]'s taxonomy of intervention is the classification, set out in [[power-and-market|Power and Market]], of every coercive intrusion into the market into three kinds — **autistic**, **binary**, and **triangular** — by the structure of the coercion rather than its label or stated purpose. All three rest on the use or threat of violence to alter behavior that would otherwise occur in an unhampered market.
 
 ## The Three Categories
 
@@ -33,7 +33,7 @@ Rothbard also stressed that intervention is **self-propagating**: each intervent
 
 ## Application: Financial Surveillance and CBDCs
 
-[[the-praxeology-of-privacy|Hillebrand]] uses the taxonomy as the threat model for financial privacy. Today's surveillance is mostly triangular because citizens hold money substitutes (claims on commercial banks), forcing the state to work through intermediaries. A [[hillebrand-on-cbdcs|central bank digital currency]] collapses the distinction: by giving citizens digital base money as direct central-bank balances, a CBDC lets the state prohibit transactions in the medium itself (autistic), read and extract from its own ledger without subpoenas (binary), and impose acceptance and compliance rules on private exchanges (triangular) — all three at once. Hillebrand calls this **total intervention**.
+[[the-praxeology-of-privacy|Hillebrand]] uses the taxonomy as the threat model for financial privacy. Today's surveillance is mostly triangular because citizens hold money substitutes (claims on commercial banks), forcing the state to work through intermediaries. A [[hillebrand-on-cbdcs|central bank digital currency]] collapses the distinction: by giving citizens digital base money as direct central-bank balances, a CBDC lets the state prohibit transactions in the medium itself (autistic), read and extract from its own ledger without subpoenas (binary), and impose acceptance and compliance rules on private exchanges (triangular) — all three at once. [[max-hillebrand|Hillebrand]] calls this **total intervention**.
 
 ## See Also
 

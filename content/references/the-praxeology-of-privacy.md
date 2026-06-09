@@ -3,7 +3,7 @@ title: "The Praxeology of Privacy"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [max-hillebrand, privacy, praxeology, austrian-economics, bitcoin, cypherpunk, cryptography, property-rights, power-projection]
 aliases: [Economic Logic in Cypherpunk Implementation, PoP]
@@ -33,9 +33,9 @@ The result is a book with two registers. The theoretical core belongs in [[praxe
 
 This is the first source in the wiki to make privacy a primary Austrian concept. Earlier articles cover [[praxeology|Praxeology]], property rights, intervention, sound money, and market anarchism. Hillebrand connects those themes to surveillance, cryptography, Bitcoin privacy, and parallel economic infrastructure.
 
-The book is also the first source here to treat cypherpunk practice as an implementation layer for Austrian and Rothbardian theory. That is a real extension of the corpus. It should be treated as an extension, not as something already explicit in Mises, Rothbard, or Hoppe.
+The book is also the first source here to treat cypherpunk practice as an implementation layer for Austrian and Rothbardian theory. That is a real extension of the corpus. It should be treated as an extension, not as something already explicit in Mises, [[murray-n-rothbard|Rothbard]], or Hoppe.
 
-Lowery's [[softwar|Softwar]] is a useful adjacent read because it reaches a similar conclusion about Bitcoin's strategic significance from the opposite direction: not Austrian privacy theory, but national-security analysis of proof-of-work as physical-cost power projection.
+[[jason-lowery|Lowery]]'s [[softwar|Softwar]] is a useful adjacent read because it reaches a similar conclusion about Bitcoin's strategic significance from the opposite direction: not Austrian privacy theory, but national-security analysis of proof-of-work as physical-cost power projection.
 
 ## Contested Moves and Limits
 

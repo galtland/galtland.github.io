@@ -3,7 +3,7 @@ title: "Theory and History"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [mises, methodology, epistemology, philosophy-of-history]
 aliases: [Mises Theory and History, Methodological Dualism]
@@ -29,7 +29,7 @@ The current raw source is the Mises Institute's PDF (404 pages), extracted with 
 
 ## Relation to the Wiki's Methodological Spine
 
-This book makes explicit what other Misesian and Rothbardian texts assume: that economics cannot be a purely empirical science, that history cannot generate theoretical laws, and that confusing the two leaves you unable to ask the right questions. It pairs naturally with Hayek's [[individualism-and-economic-order|Individualism and Economic Order]] — though Hayek and Mises disagree about how strongly a priori the praxeological method really is, both reject the import of natural-science methods into the study of social order.
+This book makes explicit what other Misesian and Rothbardian texts assume: that economics cannot be a purely empirical science, that history cannot generate theoretical laws, and that confusing the two leaves you unable to ask the right questions. It pairs naturally with [[friedrich-a-hayek|Hayek]]'s [[individualism-and-economic-order|Individualism and Economic Order]] — though Hayek and Mises disagree about how strongly a priori the praxeological method really is, both reject the import of natural-science methods into the study of social order.
 
 ## See Also
 

@@ -26,7 +26,7 @@ The 1985 essay specifies four interdependent activities that European states his
 
 ## Relation to the Wiki
 
-The broader [[war-and-state-formation|War and State Formation]] article situates this within Tilly's capital/coercion typology from [[coercion-capital-and-european-states|Coercion, Capital, and European States]]. Tilly's protection-racket formulation converges with the Oppenheimer/Nock [[political-means-and-economic-means|political-means]] tradition on the mechanism of extraction; it diverges on normative evaluation. Tilly is a non-libertarian historical sociologist; [[charles-tilly|Tilly]] treats the national state as a contingent survivor of European competition, not as an institution to be abolished.
+The broader [[war-and-state-formation|War and State Formation]] article situates this within Tilly's capital/coercion typology from [[coercion-capital-and-european-states|Coercion, Capital, and European States]]. Tilly's protection-racket formulation converges with the [[franz-oppenheimer|Oppenheimer]]/[[albert-jay-nock|Nock]] [[political-means-and-economic-means|political-means]] tradition on the mechanism of extraction; it diverges on normative evaluation. Tilly is a non-libertarian historical sociologist; [[charles-tilly|Tilly]] treats the national state as a contingent survivor of European competition, not as an institution to be abolished.
 
 ## See Also
 

@@ -29,7 +29,7 @@ The book's most concrete and most prescient forecast concerns money. Davidson an
 - It would be **denationalized** — issued and validated by private markets rather than states, so that holders "will no longer need to tolerate" inflation, since they could "easily shift out of any currency that appears in danger of depreciation."
 - It would likely be "defined in terms of grams or ounces of gold," a digital gold standard the authors expected to return control of money "to the owners of wealth ... rather than to nation-states."
 
-Writing in 1997, the authors explicitly framed this as the fulfillment of Hayek's case for competing currencies in [[denationalisation-of-money|Denationalisation of Money]]: "encrypted cybercash will bring Hayek's logic vividly to life." The description anticipates, more than a decade early, much of the design space later occupied by Bitcoin and the broader debate over [[hard-money|hard money]] — though, importantly, the authors imagined a gold-denominated digital money rather than the algorithmically-scarce, gold-free design Satoshi actually shipped.
+Writing in 1997, the authors explicitly framed this as the fulfillment of [[friedrich-a-hayek|Hayek]]'s case for competing currencies in [[denationalisation-of-money|Denationalisation of Money]]: "encrypted cybercash will bring Hayek's logic vividly to life." The description anticipates, more than a decade early, much of the design space later occupied by Bitcoin and the broader debate over [[hard-money|hard money]] — though, importantly, the authors imagined a gold-denominated digital money rather than the algorithmically-scarce, gold-free design Satoshi actually shipped.
 
 ## Connection and Caveats
 

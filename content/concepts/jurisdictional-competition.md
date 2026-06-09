@@ -14,7 +14,7 @@ short: "Davidson and Rees-Mogg's claim that mobile cyberwealth forces government
 
 # Jurisdictional Competition
 
-> Jurisdictional competition, in Davidson and Rees-Mogg's [[the-sovereign-individual|The Sovereign Individual]], is the prediction that once wealth and talent can move freely between territories, governments must compete for residents the way firms compete for customers. As the authors put it, governments "will have little choice but to treat populations in territories they serve more like customers, and less in the way that organized criminals treat the victims of a shakedown racket."
+> Jurisdictional competition, in [[james-dale-davidson|Davidson]] and [[william-rees-mogg|Rees-Mogg]]'s [[the-sovereign-individual|The Sovereign Individual]], is the prediction that once wealth and talent can move freely between territories, governments must compete for residents the way firms compete for customers. As the authors put it, governments "will have little choice but to treat populations in territories they serve more like customers, and less in the way that organized criminals treat the victims of a shakedown racket."
 
 ## From Subjects to Customers
 
@@ -32,7 +32,7 @@ The book argues the industrial nation-state, with universal-franchise mass democ
 
 ## Relation to the Wiki
 
-This is the mirror image of [[citizenship-and-state-bargaining|citizenship and state bargaining]]: Tilly describes how rulers, needing taxes and manpower for war, *bargained* rights into existence and bound subjects into citizens; Davidson and Rees-Mogg describe the reverse current, in which falling returns to violence and mobile wealth *unwind* that bargain and turn citizens back into customers. It also extends the protection-pricing logic of [[tilly-on-protection-rackets|Tilly's protection rackets]] — both treat the state as a protection seller, but the Sovereign Individual thesis asks what happens to the racket when the victims can finally shop elsewhere.
+This is the mirror image of [[citizenship-and-state-bargaining|citizenship and state bargaining]]: [[charles-tilly|Tilly]] describes how rulers, needing taxes and manpower for war, *bargained* rights into existence and bound subjects into citizens; Davidson and Rees-Mogg describe the reverse current, in which falling returns to violence and mobile wealth *unwind* that bargain and turn citizens back into customers. It also extends the protection-pricing logic of [[tilly-on-protection-rackets|Tilly's protection rackets]] — both treat the state as a protection seller, but the Sovereign Individual thesis asks what happens to the racket when the victims can finally shop elsewhere.
 
 ## Limits
 

@@ -31,7 +31,7 @@ That distinction connects Lowery to this wiki's existing articles without making
 
 The thesis's Bitcoin move follows from the same distinction. Ordinary software constrains computers with logic. Proof-of-work constrains behavior by making certain actions physically costly in watts. Lowery therefore treats Bitcoin as a protocol for converting physical power into bits and using those bits to impose costs in cyberspace.
 
-This overlaps with [[praxeology-of-privacy|Praxeology of Privacy]], but the emphasis differs. Hillebrand treats Bitcoin and cryptography as tools for privacy, resistance, and parallel-economy implementation. Lowery treats proof-of-work as electro-cyber security: a way to project physical cost through a domain otherwise dominated by software-defined authority.
+This overlaps with [[praxeology-of-privacy|Praxeology of Privacy]], but the emphasis differs. [[max-hillebrand|Hillebrand]] treats Bitcoin and cryptography as tools for privacy, resistance, and parallel-economy implementation. Lowery treats proof-of-work as electro-cyber security: a way to project physical cost through a domain otherwise dominated by software-defined authority.
 
 ## Limits
 

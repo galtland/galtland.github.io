@@ -3,7 +3,7 @@ title: "Atlas Shrugged"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [ayn-rand, atlas-shrugged, objectivism, capitalism, individualism, novel, john-galt, strike-of-the-mind]
 aliases: [Atlas Shrugged, Who is John Galt, Galt's speech]
@@ -37,7 +37,7 @@ The book is organized in three parts whose titles name the laws of Aristotelian 
 
 ## The Core Ideas It Dramatizes
 
-The plot is a vehicle for the philosophy laid out in [[objectivism|Objectivism]]. Reason is presented as man's only tool of survival, and **rational self-interest** as the proper moral purpose of a life — captured in the oath the strikers swear: "I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine." Rand's distinctive concept of **the sanction of the victim** holds that the productive enable their own exploitation by accepting the premise that their ability obligates them to others; the strike is simply the withdrawal of that consent. **"A is A"** restates Aristotle's law of identity as a moral demand to face facts without evasion. In Francisco's money speech, Rand inverts the proverb to argue money is "a tool of exchange" and "the barometer of a society's virtue," honestly earned wealth being a mark of merit rather than guilt. These threads are gathered into Galt's roughly sixty-page radio address ("This is John Galt speaking"), the longest single statement of Objectivism in fiction.
+The plot is a vehicle for the philosophy laid out in [[objectivism|Objectivism]]. Reason is presented as man's only tool of survival, and **rational self-interest** as the proper moral purpose of a life — captured in the oath the strikers swear: "I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine." Rand's distinctive concept of **the sanction of the victim** holds that the productive enable their own exploitation by accepting the premise that their ability obligates them to others; the strike is simply the withdrawal of that consent. **"A is A"** restates [[aristotle|Aristotle]]'s law of identity as a moral demand to face facts without evasion. In Francisco's money speech, Rand inverts the proverb to argue money is "a tool of exchange" and "the barometer of a society's virtue," honestly earned wealth being a mark of merit rather than guilt. These threads are gathered into Galt's roughly sixty-page radio address ("This is John Galt speaking"), the longest single statement of Objectivism in fiction.
 
 ## Reception and Significance
 

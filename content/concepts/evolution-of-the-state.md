@@ -13,7 +13,7 @@ summary: "Historical-evolution layer for the libertarian state critique: Oppenhe
 
 # Evolution of the State
 
-> The evolution-of-the-state thread explains how the state is said to arise, persist, and change across regimes. In this wiki, the main pieces are Oppenheimer's conquest-origin thesis, Nock's American application, La Boetie's consent-via-habit thesis, Hoppe's monarchy-to-democracy regime comparison, Tilly's war-and-state-formation sociology, Lowery's abstract-power frame, and Molinari's market-security counterfactual.
+> The evolution-of-the-state thread explains how the state is said to arise, persist, and change across regimes. In this wiki, the main pieces are Oppenheimer's conquest-origin thesis, Nock's American application, La Boetie's consent-via-habit thesis, [[hans-hermann-hoppe|Hoppe]]'s monarchy-to-democracy regime comparison, Tilly's war-and-state-formation sociology, [[jason-lowery|Lowery]]'s abstract-power frame, and Molinari's market-security counterfactual.
 
 ## Three Different Questions
 
@@ -27,7 +27,7 @@ Oppenheimer rejects social-contract origin stories and treats the state as the i
 
 The core vocabulary is [[political-means-and-economic-means|Political Means and Economic Means]]. The economic means are production and voluntary exchange. The political means are uncompensated appropriation by force. Oppenheimer's developmental stages then trace how that political means changes form: primitive predation, primitive feudal rule, maritime predation and trade, developed feudalism, the constitutional state, and the tendency toward a society in which class exploitation is overcome.
 
-This is why [[anatomy-of-the-state|Anatomy of the State]] could use Oppenheimer as an upstream source. Rothbard's analytic definition of the state as organized political means presupposes the historical claim that the state is not a voluntary market institution that accidentally went wrong.
+This is why [[anatomy-of-the-state|Anatomy of the State]] could use Oppenheimer as an upstream source. [[murray-n-rothbard|Rothbard]]'s analytic definition of the state as organized political means presupposes the historical claim that the state is not a voluntary market institution that accidentally went wrong.
 
 ## Nock's American Application
 
@@ -63,7 +63,7 @@ This is the wiki's source for the pathological-development pole that the liberta
 
 ## The Forward End: Decline of the Nation-State
 
-If conquest theory and war-and-state-formation explain how the state arose and grew, Davidson and Rees-Mogg's [[the-sovereign-individual|The Sovereign Individual]] supplies a forecast for the arc's forward end: dissolution. Their theory of [[megapolitics|megapolitics]] extends the same logic that runs through Tilly and Lane — that the form of government tracks the costs and rewards of violence — and applies it to the information age. Where gunpowder and the factory once made the large centralized nation-state the efficient unit for projecting power and extracting taxes, the microprocessor is said to reverse that efficiency, lowering the returns to organized violence and letting wealth flee into a [[the-cybereconomy|cybereconomy]] beyond easy reach. The predicted result is not a new regime type but the erosion of the territorial monopoly itself, with governments pushed toward [[jurisdictional-competition|jurisdictional competition]]. It is the most explicit decline-and-fall complement to this thread's origin theories, and like them it remains contested — its timeline has not been borne out.
+If conquest theory and war-and-state-formation explain how the state arose and grew, [[james-dale-davidson|Davidson]] and [[william-rees-mogg|Rees-Mogg]]'s [[the-sovereign-individual|The Sovereign Individual]] supplies a forecast for the arc's forward end: dissolution. Their theory of [[megapolitics|megapolitics]] extends the same logic that runs through Tilly and Lane — that the form of government tracks the costs and rewards of violence — and applies it to the information age. Where gunpowder and the factory once made the large centralized nation-state the efficient unit for projecting power and extracting taxes, the microprocessor is said to reverse that efficiency, lowering the returns to organized violence and letting wealth flee into a [[the-cybereconomy|cybereconomy]] beyond easy reach. The predicted result is not a new regime type but the erosion of the territorial monopoly itself, with governments pushed toward [[jurisdictional-competition|jurisdictional competition]]. It is the most explicit decline-and-fall complement to this thread's origin theories, and like them it remains contested — its timeline has not been borne out.
 
 ## The Private-Security Counterfactual
 

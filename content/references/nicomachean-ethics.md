@@ -20,7 +20,7 @@ short: "Aristotle's ethics; Book V's distinction between natural and conventiona
 
 In Book V Aristotle divides "political justice" into two kinds: "natural and conventional; the former being that which has everywhere the same force and does not depend upon being received or not; the latter being that which originally may be this way or that indifferently" until fixed by enactment (his examples: the price of a ransom, which animals to sacrifice). 
 
-Aristotle answers the skeptic who says *all* justice is merely conventional — because the just "is seen to change" from place to place — by insisting that "even amongst ourselves there is somewhat existing by nature," distinguishable in principle from what is merely enacted. This is the seed of the entire tradition: the claim that beneath the variety of human laws there is a standard *by nature* against which they can be measured. Cicero, Aquinas, and the Scholastics all build on this distinction.
+Aristotle answers the skeptic who says *all* justice is merely conventional — because the just "is seen to change" from place to place — by insisting that "even amongst ourselves there is somewhat existing by nature," distinguishable in principle from what is merely enacted. This is the seed of the entire tradition: the claim that beneath the variety of human laws there is a standard *by nature* against which they can be measured. [[cicero|Cicero]], [[thomas-aquinas|Aquinas]], and the Scholastics all build on this distinction.
 
 ## The Teleological Frame
 

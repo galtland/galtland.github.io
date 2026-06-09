@@ -3,7 +3,7 @@ title: "The Origins of Totalitarianism"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [hannah-arendt, totalitarianism, antisemitism, imperialism, nazism, stalinism, mass-society, ideology, terror, political-philosophy, commercially-published, non-libertarian]
 aliases: [Origins of Totalitarianism, Arendt Origins]
@@ -37,7 +37,7 @@ The most important contribution for this wiki is Chapter 13, "Ideology and Terro
 
 Arendt is not a libertarian source. She does not argue from property rights, nonaggression, Austrian economics, or market anarchism. Her value here is diagnostic. She supplies the conceptual distinction missing from the libertarian state-critique sources: the modern state can be predatory, interventionist, bureaucratic, war-making, or tyrannical without yet being totalitarian.
 
-That distinction improves [[state-power-and-intervention|State Power and Intervention]], [[evolution-of-the-state|Evolution of the State]], and [[war-and-state-formation|War and State Formation]]. Tilly explains coercion-intensive state formation; Arendt explains a specific twentieth-century pathology that can grow from mass society, imperial crisis, ideology, and terror but should not be treated as the automatic endpoint of every state.
+That distinction improves [[state-power-and-intervention|State Power and Intervention]], [[evolution-of-the-state|Evolution of the State]], and [[war-and-state-formation|War and State Formation]]. [[charles-tilly|Tilly]] explains coercion-intensive state formation; Arendt explains a specific twentieth-century pathology that can grow from mass society, imperial crisis, ideology, and terror but should not be treated as the automatic endpoint of every state.
 
 ## See Also
 

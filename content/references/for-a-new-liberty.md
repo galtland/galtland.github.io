@@ -3,7 +3,7 @@ title: "For a New Liberty"
 volatility: warm
 category: reference
 created: 2026-04-21
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [rothbard, libertarianism, anti-statism, strategy]
 aliases: [For a New Liberty: The Libertarian Manifesto]
@@ -21,7 +21,7 @@ If [[man-economy-and-state|Man, Economy, and State]] is the main economic treati
 
 ## Scope of the Full-Text Ingest
 
-The current raw source aggregates 69 reading-order pages from the Mises online-book edition. That matters because the wiki can now compile from the whole book instead of relying on a short description page. The source covers both doctrinal exposition and many application chapters, which is why it influences nearly every major article in the present graph.
+The current raw source aggregates 69 reading-order pages from the [[ludwig-von-mises|Mises]] online-book edition. That matters because the wiki can now compile from the whole book instead of relying on a short description page. The source covers both doctrinal exposition and many application chapters, which is why it influences nearly every major article in the present graph.
 
 ## Relation to Other Rothbard Sources
 

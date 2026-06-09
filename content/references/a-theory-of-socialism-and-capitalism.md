@@ -3,7 +3,7 @@ title: "A Theory of Socialism and Capitalism"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [hoppe, austrian-economics, socialism, property-rights]
 aliases: [Theory of Socialism and Capitalism]
@@ -25,7 +25,7 @@ This reference is one of the main reasons the compiled wiki connects [[austrian-
 
 ## Scope of the Full-Text Ingest
 
-The current raw source consolidates the Mises EPUB edition into a single aggregate extracted from 16 spine documents. That gives the wiki the actual book text, chapter sequence, and references instead of only a short catalog description.
+The current raw source consolidates the [[ludwig-von-mises|Mises]] EPUB edition into a single aggregate extracted from 16 spine documents. That gives the wiki the actual book text, chapter sequence, and references instead of only a short catalog description.
 
 ## Relation to Hoppe's Other Work
 

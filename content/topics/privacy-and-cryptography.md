@@ -3,7 +3,7 @@ title: "Privacy and Cryptography"
 volatility: warm
 category: topic
 created: 2026-05-10
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [privacy, cryptography, cypherpunk, bitcoin, surveillance, austrian-economics, power-projection, national-security]
 aliases: [cypherpunk privacy, privacy technology, cryptographic privacy]
@@ -43,7 +43,7 @@ This makes Lowery useful as an adjacent, non-libertarian source. Hillebrand's pa
 
 This topic extends [[austrian-economics|Austrian Economics]] into a newer domain. The same school that analyzes calculation, price signals, money, capital, time preference, and intervention can analyze surveillance as a distortion of action and exchange. Hillebrand also treats privacy infrastructure as capital: cryptographic tools, protocols, and networks require present sacrifice for future capability.
 
-The extension should be kept honest. Mises did not write a theory of Bitcoin privacy, zero-knowledge proofs, or cypherpunk infrastructure. Hillebrand is applying the Austrian method to those domains. That makes this topic a modern extension of the graph, not a hidden chapter of the older corpus.
+The extension should be kept honest. [[ludwig-von-mises|Mises]] did not write a theory of Bitcoin privacy, zero-knowledge proofs, or cypherpunk infrastructure. Hillebrand is applying the Austrian method to those domains. That makes this topic a modern extension of the graph, not a hidden chapter of the older corpus.
 
 ## Boundaries
 

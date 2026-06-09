@@ -3,7 +3,7 @@ title: "Knowledge Problem"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [hayek, knowledge-problem, central-planning, spontaneous-order, austrian-economics]
 aliases: [Use of Knowledge in Society, Hayekian Knowledge Problem, Dispersed Knowledge]
@@ -21,7 +21,7 @@ Hayek's 1945 essay "The Use of Knowledge in Society," collected in [[individuali
 
 ## Relation to the Calculation Problem
 
-The knowledge problem is often confused with [[economic-calculation-problem|the economic-calculation problem]] but the two are complementary. Mises's calculation argument denies that planners can perform economic comparisons in principle without market prices for capital goods. Hayek's knowledge argument denies that planners can have access in practice to the dispersed knowledge that real prices summarize, even if the formal calculation problem could be solved. Together they form the mature Austrian critique of central planning: socialism fails on both formal-feasibility and operational-feasibility grounds.
+The knowledge problem is often confused with [[economic-calculation-problem|the economic-calculation problem]] but the two are complementary. [[ludwig-von-mises|Mises]]'s calculation argument denies that planners can perform economic comparisons in principle without market prices for capital goods. Hayek's knowledge argument denies that planners can have access in practice to the dispersed knowledge that real prices summarize, even if the formal calculation problem could be solved. Together they form the mature Austrian critique of central planning: socialism fails on both formal-feasibility and operational-feasibility grounds.
 
 ## Political Application
 

@@ -25,7 +25,7 @@ The resulting legal model is not lawlessness. It is law without sovereign privil
 
 ## Skepticism About Constitutional Rescue
 
-This concept also explains why the source set is skeptical of attempts to save liberty through better constitutional design alone. Spooner's [[lets-abolish-government|Let's Abolish Government]] attacks the claim that a constitution can bind people who never truly consented. The Tannehills argue that even a supposedly limited government must still forbid competitors if it is to remain a government at all. Rothbard's [[for-a-new-liberty|For a New Liberty]] pushes in the same direction when it treats the state as the major aggressor rather than as a neutral umpire in need of reform.
+This concept also explains why the source set is skeptical of attempts to save liberty through better constitutional design alone. [[lysander-spooner|Spooner]]'s [[lets-abolish-government|Let's Abolish Government]] attacks the claim that a constitution can bind people who never truly consented. The Tannehills argue that even a supposedly limited government must still forbid competitors if it is to remain a government at all. Rothbard's [[for-a-new-liberty|For a New Liberty]] pushes in the same direction when it treats the state as the major aggressor rather than as a neutral umpire in need of reform.
 
 ## Place in the Current Wiki
 

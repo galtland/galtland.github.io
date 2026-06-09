@@ -3,7 +3,7 @@ title: "Joseph T. Salerno"
 volatility: warm
 category: reference
 created: 2026-05-27
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [salerno, austrian-economics, monetary-theory, tms, mises-institute, pure-time-preference]
 aliases: [Joseph Salerno, Salerno]
@@ -13,7 +13,7 @@ summary: "Austrian-school monetary economist in the Mises-Rothbard tradition; Ac
 
 # Joseph T. Salerno
 
-> Joseph T. Salerno is an Austrian-school monetary economist in the Mises-Rothbard tradition — Academic Vice President of the Mises Institute and Professor Emeritus of Economics in Pace University's Lubin School of Business (he was Professor of Economics there during the 1987–1993 work cited below). Best known for the 1987 formalization of the True Money Supply (TMS) — see [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — for the 1993 dehomogenization argument distinguishing the Mises and Hayek paradigms within contemporary Austrian economics, and for sustained essay-form work collected in [[money-sound-and-unsound|Money, Sound and Unsound]] (2010).
+> Joseph T. Salerno is an Austrian-school monetary economist in the Mises-Rothbard tradition — Academic Vice President of the Mises Institute and Professor Emeritus of Economics in Pace University's Lubin School of Business (he was Professor of Economics there during the 1987–1993 work cited below). Best known for the 1987 formalization of the True Money Supply (TMS) — see [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — for the 1993 dehomogenization argument distinguishing the Mises and [[friedrich-a-hayek|Hayek]] paradigms within contemporary Austrian economics, and for sustained essay-form work collected in [[money-sound-and-unsound|Money, Sound and Unsound]] (2010).
 
 ## Principal contributions
 

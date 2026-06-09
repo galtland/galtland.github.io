@@ -3,7 +3,7 @@ title: "Mass Society and Atomization"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [mass-society, atomization, hannah-arendt, totalitarianism, loneliness, thoughtlessness, gulag, social-power, state, civic-association, non-libertarian]
 aliases: [mass society, atomization, political loneliness, isolated masses]
@@ -47,7 +47,7 @@ The camp system is therefore both product and enforcer of mass society. It draws
 
 ## Resonance with Nock
 
-The strongest libertarian resonance is [[our-enemy-the-state|Nock]]'s distinction between social power and state power. Nock argues that state power grows by absorbing the energies and functions of society. Arendt's mass-society account names one possible social consequence of that depletion: weakened civil society can leave people more exposed to direct political mobilization.
+The strongest libertarian resonance is [[our-enemy-the-state|Nock]]'s distinction between social power and state power. [[albert-jay-nock|Nock]] argues that state power grows by absorbing the energies and functions of society. Arendt's mass-society account names one possible social consequence of that depletion: weakened civil society can leave people more exposed to direct political mobilization.
 
 The overlap should not be overstated. Nock uses the distinction to sharpen a libertarian or Old Right anti-state critique. Arendt uses mass society to explain the conditions under which [[totalitarianism|Totalitarianism]] becomes possible. She is not arguing that all state action atomizes society, or that market order alone repairs the loss of a common world.
 

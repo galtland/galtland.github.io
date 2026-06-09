@@ -36,6 +36,12 @@ Public Frankfurt materials identify Ludwig Erhard among Oppenheimer's students a
 - [[albert-jay-nock|Albert Jay Nock]] - American transmitter of Oppenheimer's categories
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's concise adoption of Oppenheimer's state definition
 
+
+- [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 Moderate-Shooting Ceasefire Remark: Analysis]] - newsroom thesis backlink
+
+- [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
+
+- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - title-page, front-matter, and full-text basis for Oppenheimer's role in this wiki

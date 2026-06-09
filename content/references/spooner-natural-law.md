@@ -30,7 +30,7 @@ This is the natural-law tradition pushed to its individualist-anarchist limit: w
 
 ## Place in This Wiki
 
-Spooner is the bridge between the classical natural-law canon and modern American libertarianism. His "science of justice" anticipates [[the-ethics-of-liberty|Rothbard's]] natural-rights ethics and [[nonaggression-and-property-rights|the nonaggression principle]], and his rejection of legislation prefigures the anti-statism of [[market-anarchism-and-private-law|market anarchism]]. Rothbard explicitly revived Spooner; the wiki already holds the Spooner material in [[lets-abolish-government|Let's Abolish Government]].
+Spooner is the bridge between the classical natural-law canon and modern American libertarianism. His "science of justice" anticipates [[the-ethics-of-liberty|Rothbard's]] natural-rights ethics and [[nonaggression-and-property-rights|the nonaggression principle]], and his rejection of legislation prefigures the anti-statism of [[market-anarchism-and-private-law|market anarchism]]. [[murray-n-rothbard|Rothbard]] explicitly revived Spooner; the wiki already holds the Spooner material in [[lets-abolish-government|Let's Abolish Government]].
 
 ## See Also
 

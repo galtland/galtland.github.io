@@ -3,7 +3,7 @@ title: "Abstract Power Hierarchies"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-12
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [abstract-power, state, hierarchy, bitcoin, software, power-projection, national-security, political-means, totalitarianism]
 aliases: [abstract power hierarchy, APB hierarchy, abstract-power-based hierarchy, rule-based authority]
@@ -35,7 +35,7 @@ The divergence is important. Lowery frames abstract authority as a honeypot secu
 
 ## Convergence with Oppenheimer
 
-The closest older parallel is Oppenheimer's [[political-means-and-economic-means|Political Means and Economic Means]] distinction. Oppenheimer calls the political means the forcible appropriation of others' labor; Lowery calls abstract authority a rule-based hierarchy that can allocate control without physical-cost competition. These are not the same theory, but both name a mechanism by which institutional authority can extract value without producing it through voluntary exchange.
+The closest older parallel is [[franz-oppenheimer|Oppenheimer]]'s [[political-means-and-economic-means|Political Means and Economic Means]] distinction. Oppenheimer calls the political means the forcible appropriation of others' labor; Lowery calls abstract authority a rule-based hierarchy that can allocate control without physical-cost competition. These are not the same theory, but both name a mechanism by which institutional authority can extract value without producing it through voluntary exchange.
 
 The convergence is striking because the traditions are so different. Lowery writes as a Department of Defense/MIT systems-engineering author. Oppenheimer writes as a German social-democratic sociologist of the state. The overlap belongs in [[evolution-of-the-state|Evolution of the State]] as a cross-tradition resonance, not as evidence that Lowery is making Oppenheimer's political argument.
 
@@ -43,7 +43,7 @@ The convergence is striking because the traditions are so different. Lowery writ
 
 The cyberspace part of the thesis extends the same claim from law to software. Software permissions, administrator roles, platform rules, payment rails, and protocol governance can create abstract control over digital resources. Lowery argues that this becomes strategically important because modern society increasingly stores, transfers, and validates valuable information through computer networks.
 
-That point connects to [[market-anarchism-and-private-law|Market Anarchism and Private Law]] and [[resistance-axiom|Resistance Axiom]]. Market-anarchist sources ask whether law and security require monopoly institutions. Hillebrand's resistance axiom asks whether technical systems can be built to resist external control. Lowery adds a national-security version: proof-of-work may physically constrain software-defined authority in a domain where ordinary legal and logical constraints are fragile.
+That point connects to [[market-anarchism-and-private-law|Market Anarchism and Private Law]] and [[resistance-axiom|Resistance Axiom]]. Market-anarchist sources ask whether law and security require monopoly institutions. [[max-hillebrand|Hillebrand]]'s resistance axiom asks whether technical systems can be built to resist external control. Lowery adds a national-security version: proof-of-work may physically constrain software-defined authority in a domain where ordinary legal and logical constraints are fragile.
 
 ## Relation to Hoppe and Argumentation
 

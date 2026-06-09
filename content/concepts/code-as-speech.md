@@ -3,7 +3,7 @@ title: "Code as Speech"
 volatility: cold
 category: concept
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [libertarian, cypherpunk, code-as-speech, first-amendment, crypto-wars, export-controls, encryption]
 aliases: [code is speech, source code as speech, encryption source code as speech, Bernstein code as speech]
@@ -38,7 +38,7 @@ Under the court's analysis, a licensing scheme that burdens protected expression
 
 ## Relation to PGP and the Crypto Wars
 
-Code as speech belongs beside [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]]. Phil Zimmermann's PGP episode showed the practical side of the same conflict: strong encryption software spread online, the government treated export of cryptography as a national-security issue, and publication became a target of control.
+Code as speech belongs beside [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]]. Phil [[phil-zimmermann|Zimmermann]]'s PGP episode showed the practical side of the same conflict: strong encryption software spread online, the government treated export of cryptography as a national-security issue, and publication became a target of control.
 
 Bernstein supplied the clean legal theory. If encryption source code is expressive, then a government licensing gate over publication is not just technical export administration. It is a speech restriction. That made code publication itself part of the cypherpunk strategy: publishing tools, algorithms, and source became a way to normalize strong cryptography before states could keep it exceptional.
 

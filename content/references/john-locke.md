@@ -19,7 +19,7 @@ summary: "Short author reference for John Locke (1632–1704), the English philo
 
 Locke was an English physician and philosopher, central to the Enlightenment both in epistemology (the empiricism of the *Essay Concerning Human Understanding*) and in politics. The wiki uses him for the political work: his claim that individuals hold rights to "life, health, liberty, or possessions" under a law of nature prior to any government, that property is acquired by mixing one's labour with the world, and that political authority is a revocable trust held only by consent for the protection of those rights.
 
-He is the hinge of the tradition — receiving the [[the-rights-of-war-and-peace|Grotian]] natural-law inheritance and handing a theory of individual *rights* to the American founders and, eventually, to the libertarian natural-rights school. Locke himself is a constitutional, limited-government liberal, not an anarchist; his heirs [[spooner-natural-law|Spooner]] and Rothbard push the same premises further than he did.
+He is the hinge of the tradition — receiving the [[the-rights-of-war-and-peace|Grotian]] natural-law inheritance and handing a theory of individual *rights* to the American founders and, eventually, to the libertarian natural-rights school. Locke himself is a constitutional, limited-government liberal, not an anarchist; his heirs [[spooner-natural-law|Spooner]] and [[murray-n-rothbard|Rothbard]] push the same premises further than he did.
 
 ## See Also
 

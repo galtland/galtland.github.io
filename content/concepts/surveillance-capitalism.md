@@ -3,7 +3,7 @@ title: "Surveillance Capitalism"
 volatility: warm
 category: concept
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-09
 verified: 2026-05-30
 confidence: medium
 tags: [surveillance-capitalism, privacy, data-extraction, zuboff, austrian-economics, market-failure, intellectual-property, corporate-state, knowledge-problem, max-hillebrand]
@@ -19,7 +19,7 @@ summary: "Zuboff's term for the business model that treats human experience as f
 
 In ordinary exchange, businesses compete to *serve* customers; in data extraction, they compete to *capture* users. Services appear free because users pay with data, not money. Zuboff's key construct is **behavioral surplus**: data beyond what a service needs to function (a map needs your location to route you; the accumulated, correlated location history is surplus) is extracted without compensation and refined into predictions sold to advertisers, campaigns, and insurers. An **extraction ratchet** follows — each gain in prediction accuracy makes data more valuable, justifying more intensive surveillance, asymptotically approaching comprehensive behavioral monitoring.
 
-Hillebrand adds a praxeological caveat. Austrian economics reads **demonstrated preference** from what people choose, but that inference assumes *unmanipulated* choice. When choice architecture is engineered to exploit psychological vulnerability (variable-reward feeds, outrage amplification), hours of scrolling may reveal susceptibility rather than preference. An **information asymmetry** compounds it: users cannot comparison-shop on data practices they cannot observe, so competition runs on features and network effects rather than privacy.
+[[max-hillebrand|Hillebrand]] adds a praxeological caveat. Austrian economics reads **demonstrated preference** from what people choose, but that inference assumes *unmanipulated* choice. When choice architecture is engineered to exploit psychological vulnerability (variable-reward feeds, outrage amplification), hours of scrolling may reveal susceptibility rather than preference. An **information asymmetry** compounds it: users cannot comparison-shop on data practices they cannot observe, so competition runs on features and network effects rather than privacy.
 
 ## Corporate–State Entanglement
 

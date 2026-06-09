@@ -3,7 +3,7 @@ title: "The Mystery of Banking"
 volatility: warm
 category: reference
 created: 2026-05-27
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [rothbard, banking, fiduciary-media, fractional-reserves, sound-money, money-supply, 100-percent-reserves]
 aliases: [Mystery of Banking, MOB, Rothbard on banking]
@@ -28,7 +28,7 @@ The 100%-reserve-banking position the wiki adopts in [[hundred-percent-reserve-b
 ## Bibliographic note
 
 - First edition: Richardson & Snyder / Dutton, 1983.
-- Second edition: Ludwig von Mises Institute, 2008 (Douglas E. French sponsorship); this is the version ingested and the one available free as a PDF from the Mises Institute.
+- Second edition: Ludwig von [[ludwig-von-mises|Mises]] Institute, 2008 (Douglas E. French sponsorship); this is the version ingested and the one available free as a PDF from the Mises Institute.
 - ISBN (2nd ed.): 978-1-933550-28-2.
 - Source: https://mises.org/library/book/mystery-banking
 - PDF: https://cdn.mises.org/Mystery%20of%20Banking_2.pdf

@@ -3,7 +3,7 @@ title: "Intellectual Property"
 volatility: cold
 category: concept
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-09
 verified: 2026-05-30
 confidence: medium
 tags: [intellectual-property, scarcity, property-rights, rivalry, kinsella, rothbard, austrian-economics, copyright, patents, information, libertarian]
@@ -25,7 +25,7 @@ Information content is **non-rivalrous**. If you learn a theorem I know, my know
 
 The critique distinguishes **physical scarcity** (inherent in the resource) from **artificial scarcity** (imposed by external force on something not naturally scarce). A patent lets its holder use state violence to stop others from arranging *their own* wood, metal, and wire into a configuration the patent covers — even an independent inventor who copied nothing. A copyright restricts what patterns you may place on *your own* paper or hard drive. In each case the privilege is a claim to control how others use property that is unambiguously theirs.
 
-On this analysis IP is therefore **aggression**, not property: it overrides real property rights in physical media to protect a monopoly in non-scarce patterns. The familiar language of "stealing" ideas imports property concepts where they do not apply — when a file is copied, nothing is taken; the original owner still has it. On the Kinsella–Hillebrand framing, copying may breach a *contract* but is not in itself theft of the pattern. (Rothbard drew the line differently: he treated the violation of a *contractually reserved* copyright as a genuine contract breach and theft, while still rejecting patents — see below.)
+On this analysis IP is therefore **aggression**, not property: it overrides real property rights in physical media to protect a monopoly in non-scarce patterns. The familiar language of "stealing" ideas imports property concepts where they do not apply — when a file is copied, nothing is taken; the original owner still has it. On the Kinsella–[[max-hillebrand|Hillebrand]] framing, copying may breach a *contract* but is not in itself theft of the pattern. (Rothbard drew the line differently: he treated the violation of a *contractually reserved* copyright as a genuine contract breach and theft, while still rejecting patents — see below.)
 
 This is an **influential** Austrian-libertarian position, but the argument is **contested even within the tradition**. Some Austrians defend IP on utilitarian (incentive) grounds, others on labor-mixing or contractual theories; Rothbard himself accepted copyright reconstructed through contract while rejecting patents. The wiki presents the Kinsella–Rothbard scarcity argument because it follows most directly from the scarcity-based property theory used elsewhere here, not because the question is closed.
 

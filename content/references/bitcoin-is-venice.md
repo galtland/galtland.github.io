@@ -3,7 +3,7 @@ title: "Bitcoin Is Venice"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [allen-farrington, bitcoin, austrian-economics, sound-money, fiat, venice, capitalism, cypherpunk]
 aliases: [Bitcoin is Venice, Farrington Bitcoin Is Venice, Rhapsody on a Theme by Nakamoto]
@@ -14,7 +14,7 @@ short: "Farrington's 2021 essay: Bitcoin as civilizational exit from fiat financ
 
 # Bitcoin Is Venice
 
-> [[bitcoin-is-venice|Bitcoin Is Venice]] is Allen Farrington's 2021 essay "Rhapsody on a Theme by Nakamoto," an interpretive argument that Bitcoin is a civilizational exit from fiat finance rather than only a monetary asset.
+> [[bitcoin-is-venice|Bitcoin Is Venice]] is Allen Farrington's 2021 essay "Rhapsody on a Theme by [[satoshi-nakamoto|Nakamoto]]," an interpretive argument that Bitcoin is a civilizational exit from fiat finance rather than only a monetary asset.
 
 ## Exit from Fiat Finance
 

@@ -19,7 +19,7 @@ summary: "Short author reference for Thomas Aquinas (c. 1225–1274), the Domini
 
 Aquinas was a Dominican friar and the central philosopher-theologian of the High Middle Ages, who fused Aristotelian philosophy with Christian theology. The wiki uses one slice of his vast output: the natural-law sections of the *Summa* (I-II, QQ. 90–108), where he defines law as "an ordinance of reason for the common good" and sorts law into eternal, natural, human, and divine — holding that a human law contrary to natural law "is no longer a law but a corruption of law."
 
-He synthesizes [[aristotle-politics|Aristotle]] and the Ciceronian/Roman natural-law vocabulary and passes a rationalized natural law down to Grotius, the Late Scholastics, and Locke. Aquinas is the medieval pillar of the lineage, not a libertarian — his comfort with coercive human law and his "common good" orientation distinguish him from the rights-first moderns.
+He synthesizes [[aristotle-politics|Aristotle]] and the Ciceronian/Roman natural-law vocabulary and passes a rationalized natural law down to [[hugo-grotius|Grotius]], the Late Scholastics, and [[john-locke|Locke]]. Aquinas is the medieval pillar of the lineage, not a libertarian — his comfort with coercive human law and his "common good" orientation distinguish him from the rights-first moderns.
 
 ## See Also
 

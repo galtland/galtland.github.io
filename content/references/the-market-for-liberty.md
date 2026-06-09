@@ -3,7 +3,7 @@ title: "The Market for Liberty"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [tannehill, market-anarchism, private-law, defense-agencies]
 aliases: [Market for Liberty]
@@ -17,7 +17,7 @@ summary: "Reference guide to the Tannehills' full-scale case for private law, ar
 
 ## What the Book Covers
 
-The Mises description and the full-text aggregate both show the same arc: individual rights, exchange, government as the enemy of social order, and then a detailed extension of market logic into security, defense, adjudication, and transition problems. That makes the book unusually concrete compared with a shorter anti-state pamphlet.
+The [[ludwig-von-mises|Mises]] description and the full-text aggregate both show the same arc: individual rights, exchange, government as the enemy of social order, and then a detailed extension of market logic into security, defense, adjudication, and transition problems. That makes the book unusually concrete compared with a shorter anti-state pamphlet.
 
 ## Why It Matters in This Wiki
 
@@ -29,7 +29,7 @@ The current raw source consolidates the Mises EPUB edition into 23 captured spin
 
 ## Place in the Current Graph
 
-In this corpus, the Tannehills do for institutions what Rothbard and Hoppe often do at the level of theory. They extend libertarian premises into a market design for law and protection. That is why this book sits between [[libertarianism|Libertarianism]] and the more specific security and private-law concept pages.
+In this corpus, the Tannehills do for institutions what [[murray-n-rothbard|Rothbard]] and [[hans-hermann-hoppe|Hoppe]] often do at the level of theory. They extend libertarian premises into a market design for law and protection. That is why this book sits between [[libertarianism|Libertarianism]] and the more specific security and private-law concept pages.
 
 ## See Also
 

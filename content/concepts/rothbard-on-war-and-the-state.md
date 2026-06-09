@@ -3,7 +3,7 @@ title: "Rothbard on War and the State"
 volatility: warm
 category: concept
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [rothbard, war, state, defense, conscription, militarism, anatomy-of-the-state]
 summary: "Rothbard's claim in Anatomy of the State that war pushes state power to its ultimate, and that every modern war leaves a permanent legacy of increased state burdens on society."
@@ -26,7 +26,7 @@ The same chapter explains the demand side. Rothbard notes that the state has bee
 
 ## Relation to the Wiki
 
-The claim sits inside the broader [[state-power-and-intervention|State Power and Intervention]] synthesis and pairs directly with [[tilly-on-protection-rackets|Tilly on Protection Rackets]]: Tilly supplies the racketeer-creates-the-threat definition; Rothbard supplies the ratchet that makes each emergency cycle leave the state larger than before. The [[political-means-and-economic-means|political-means]] tradition supplies the categorical reading of the resulting tax-and-conscription apparatus.
+The claim sits inside the broader [[state-power-and-intervention|State Power and Intervention]] synthesis and pairs directly with [[tilly-on-protection-rackets|Tilly on Protection Rackets]]: [[charles-tilly|Tilly]] supplies the racketeer-creates-the-threat definition; Rothbard supplies the ratchet that makes each emergency cycle leave the state larger than before. The [[political-means-and-economic-means|political-means]] tradition supplies the categorical reading of the resulting tax-and-conscription apparatus.
 
 ## See Also
 

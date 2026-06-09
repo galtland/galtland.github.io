@@ -3,7 +3,7 @@ title: "Democracy: The God That Failed"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [hoppe, democracy, monarchy, time-preference, decivilization, natural-order, regime-theory, praxeology]
 aliases: [Democracy, The God That Failed, Democracy by Hoppe]
@@ -33,7 +33,7 @@ The book's constructive alternative is "natural order": private-law society, pri
 
 Within this wiki, [[hans-hermann-hoppe|Hans-Hermann Hoppe]] is already represented by property-rights, socialism, taxation, and private-security arguments. [[democracy-the-god-that-failed|Democracy]] adds the historical and sociological layer. It ties the property framework from [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] to a theory of regime incentives: why democratic states, once accepted as legitimate, tend to grow differently from monarchic states.
 
-For [[evolution-of-the-state|Evolution of the State]], this matters because Hoppe is not offering an origin theory like Oppenheimer. The state already exists. The question is what changes when political control shifts from private dynastic rule to public electoral management.
+For [[evolution-of-the-state|Evolution of the State]], this matters because Hoppe is not offering an origin theory like [[franz-oppenheimer|Oppenheimer]]. The state already exists. The question is what changes when political control shifts from private dynastic rule to public electoral management.
 
 ## Provenance
 

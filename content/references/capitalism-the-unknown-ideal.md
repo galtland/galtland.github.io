@@ -3,7 +3,7 @@ title: "Capitalism: The Unknown Ideal"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [ayn-rand, capitalism-the-unknown-ideal, objectivism, capitalism, laissez-faire, political-economy, alan-greenspan, nathaniel-branden]
 aliases: [Capitalism The Unknown Ideal, What Is Capitalism]
@@ -30,7 +30,7 @@ The title page names Rand as author "with additional articles by Nathaniel Brand
 
 ## Relation to Objectivist ethics and the Austrian tradition
 
-The book is the political-economic expression of [[objectivism|Objectivism]]: laissez-faire capitalism is presented as the social system entailed by the egoist ethics Rand set out in [[the-virtue-of-selfishness|The Virtue of Selfishness]] and dramatized in [[atlas-shrugged|Atlas Shrugged]]. The rights framework — government barred from initiating force, restricted to retaliatory force under objective law — is the same [[nonaggression-and-property-rights|Nonaggression and Property Rights]] basis shared with much of the broader [[libertarianism|Libertarianism]] tradition, though Rand insisted her case was grounded in a complete philosophy rather than in liberty as a free-standing axiom. On economics the book draws heavily on the [[austrian-economics|Austrian Economics]] tradition Rand admired — Ludwig von Mises in particular — yet keeps a distinct method: where the Austrians build from the praxeological logic of human action, Rand argues that the *moral* defense of capitalism (from rational self-interest and individual rights) is the decisive and historically missing one, treating sound economics as necessary but not sufficient.
+The book is the political-economic expression of [[objectivism|Objectivism]]: laissez-faire capitalism is presented as the social system entailed by the egoist ethics Rand set out in [[the-virtue-of-selfishness|The Virtue of Selfishness]] and dramatized in [[atlas-shrugged|Atlas Shrugged]]. The rights framework — government barred from initiating force, restricted to retaliatory force under objective law — is the same [[nonaggression-and-property-rights|Nonaggression and Property Rights]] basis shared with much of the broader [[libertarianism|Libertarianism]] tradition, though Rand insisted her case was grounded in a complete philosophy rather than in liberty as a free-standing axiom. On economics the book draws heavily on the [[austrian-economics|Austrian Economics]] tradition Rand admired — Ludwig von [[ludwig-von-mises|Mises]] in particular — yet keeps a distinct method: where the Austrians build from the praxeological logic of human action, Rand argues that the *moral* defense of capitalism (from rational self-interest and individual rights) is the decisive and historically missing one, treating sound economics as necessary but not sufficient.
 
 ## Source Note
 

@@ -14,7 +14,7 @@ short: "Rothbard's 1995 Austrian history of pre-classical economics — the wiki
 
 # Economic Thought Before Adam Smith
 
-> [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] is Volume 1 of Murray Rothbard's *An Austrian Perspective on the History of Economic Thought* (Edward Elgar, 1995), tracing economics from Aristotle and the canon lawyers to Adam Smith. It is the wiki's grounding source for the [[school-of-salamanca|School of Salamanca]].
+> [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] is Volume 1 of Murray Rothbard's *An Austrian Perspective on the History of Economic Thought* (Edward Elgar, 1995), tracing economics from [[aristotle|Aristotle]] and the canon lawyers to Adam Smith. It is the wiki's grounding source for the [[school-of-salamanca|School of Salamanca]].
 
 ## The Two Theses
 

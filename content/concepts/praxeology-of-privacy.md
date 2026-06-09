@@ -3,7 +3,7 @@ title: "Praxeology of Privacy"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [privacy, praxeology, action-axiom, austrian-economics, property-rights, surveillance, bitcoin, power-projection]
 aliases: [privacy praxeology, privacy as selective disclosure, privacy as structural feature of action]
@@ -33,7 +33,7 @@ This is a descriptive claim, not yet a moral one. People can act under surveilla
 
 The normative layer comes through [[hans-hermann-hoppe|Hoppe]] and [[nonaggression-and-property-rights|Nonaggression and Property Rights]]. On Hillebrand's reading, if self-ownership is presupposed by rational discourse, then the actor's body, mind, communication, and silence are not common resources. Coerced disclosure, nonconsensual monitoring of owned spaces and devices, and compelled exposure of communications are not neutral information gathering. They interfere with the actor's control over person and property.
 
-This is also where Hillebrand's claim becomes controversial. Mises's praxeology is descriptive; Hoppe's argumentation ethics is a contested normative extension. The article therefore treats "praxeology of privacy" as Hillebrand's theory, not as a settled implication already contained in Mises.
+This is also where Hillebrand's claim becomes controversial. [[ludwig-von-mises|Mises]]'s praxeology is descriptive; Hoppe's argumentation ethics is a contested normative extension. The article therefore treats "praxeology of privacy" as Hillebrand's theory, not as a settled implication already contained in Mises.
 
 ## Property Without Owning Information Content
 
@@ -51,7 +51,7 @@ In Hillebrand's framework, surveillance attacks the observation stage of the adv
 
 ## Bitcoin as Resistance and Power Projection
 
-Lowery's [[softwar|Softwar]] thesis adds a complementary but distinct Bitcoin frame. Hillebrand treats Bitcoin as part of a privacy, resistance, and parallel-economy implementation strategy. Lowery treats proof-of-work as [[power-projection|Power Projection]]: an electro-cyber security technology that lets actors impose physical costs in cyberspace. The conclusions overlap around Bitcoin's strategic importance, but the starting points differ sharply. Hillebrand writes from Austrian-libertarian and cypherpunk premises; Lowery writes from a US national-security perspective.
+[[jason-lowery|Lowery]]'s [[softwar|Softwar]] thesis adds a complementary but distinct Bitcoin frame. Hillebrand treats Bitcoin as part of a privacy, resistance, and parallel-economy implementation strategy. Lowery treats proof-of-work as [[power-projection|Power Projection]]: an electro-cyber security technology that lets actors impose physical costs in cyberspace. The conclusions overlap around Bitcoin's strategic importance, but the starting points differ sharply. Hillebrand writes from Austrian-libertarian and cypherpunk premises; Lowery writes from a US national-security perspective.
 
 ## See Also
 

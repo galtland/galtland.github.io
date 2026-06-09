@@ -3,7 +3,7 @@ title: "Monetary Aggregates and Credit Expansion"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [mises, rothbard, tms, m2, money-supply, credit-expansion, monetary-aggregates, abct, measurement]
 summary: "Why M2 mismeasures the Austrian cycle signal: Salerno's True Money Supply (TMS), building on Rothbard's broad money-supply criterion, is a cleaner money-stock aggregate — the total medium of exchange held by the public — that excludes the time-deposit and money-fund components contaminating M2 with non-money commodity credit. TMS is the preferred cycle-theory proxy, though it is a money-stock measure, not a fiduciary-media-only measure."
@@ -15,7 +15,7 @@ short: "Austrian-monetary-theory measurement: M2's time-deposit and money-fund c
 
 ## The theoretical target
 
-[[mises-on-credit-expansion|Mises]] defines inflation as the quantity of money in the broader sense outrunning the demand for money in the broader sense (see [[the-theory-of-money-and-credit|The Theory of Money and Credit]] Excursus to Ch. VII §7). The supply side of that test — "broader-sense quantity of money" — is what an empirical aggregate must capture. Per Mises's typology (see [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]]):
+[[mises-on-credit-expansion|Mises]] defines inflation as the quantity of money in the broader sense outrunning the demand for money in the broader sense (see [[the-theory-of-money-and-credit|The Theory of Money and Credit]] Excursus to Ch. VII §7). The supply side of that test — "broader-sense quantity of money" — is what an empirical aggregate must capture. Per [[ludwig-von-mises|Mises]]'s typology (see [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]]):
 
 - **Money proper** (commodity / fiat / credit money)
 - **Money-certificates** (100%-covered substitutes; warehouse receipts)
@@ -36,7 +36,7 @@ Households moving cash from currency holdings into small CDs re-shuffles M2's co
 
 ## Rothbard's True Money Supply — the cleaner Austrian aggregate
 
-Rothbard argued in [[americas-great-depression|America's Great Depression]] Ch. 4 "The Inflationary Factors" that the test is whether an instrument is treated as convertible into cash on demand, whatever its formal label. By that test he included not just demand deposits but also time deposits, savings-and-loan shares, credit-union shares, and cash surrender values of life insurance — because in practice all are redeemable on demand even where notice is formally required.
+[[murray-n-rothbard|Rothbard]] argued in [[americas-great-depression|America's Great Depression]] Ch. 4 "The Inflationary Factors" that the test is whether an instrument is treated as convertible into cash on demand, whatever its formal label. By that test he included not just demand deposits but also time deposits, savings-and-loan shares, credit-union shares, and cash surrender values of life insurance — because in practice all are redeemable on demand even where notice is formally required.
 
 > But if we concede the inclusion of time deposits in the money supply, even broader vistas are opened to view. For then all claims convertible into cash on demand constitute a part of the money supply, and swell the money supply whenever cash reserves are less than 100 percent.
 >

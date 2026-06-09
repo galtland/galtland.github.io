@@ -3,7 +3,7 @@ title: "Mises on Capital Consumption"
 volatility: warm
 category: concept
 created: 2026-05-18
-updated: 2026-05-31
+updated: 2026-06-09
 verified: 2026-05-31
 tags: [mises, capital-consumption, antiliberal-policy, liberalism, taxation, redistribution]
 summary: "Mises's claim that antiliberal policy is a policy of capital consumption — providing for the present at the expense of the future by drawing down the productive stock that funds future output."
@@ -21,9 +21,9 @@ Mises is identifying a policy class, not a single instrument. The class includes
 
 The praxeological argument is independent of any specific tax design. Capital is the stock of produced means of production accumulated by prior abstention from consumption; any policy that systematically diverts those means toward immediate consumption necessarily reduces the stock from which future production proceeds. The policy class operates regardless of whether the diversion runs through progressive income taxes, transfer payments, expropriation, or a direct tax on the capital stock itself. The specific instrument changes the incidence; the policy class predicts the direction.
 
-The instrument-level claim that the wealth tax fits this policy class with particular precision belongs to Rothbard. See [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] for the specific Ch. 4 §C result that a tax on individual wealth cannot be capitalized, cannot be shifted, and operates directly on the accumulated-capital stock — i.e. is the instrument that maps Mises's policy class onto the productive base most directly. The institutional structure that systematically rewards the policy class belongs to Hoppe; see [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] for the prince-vs-caretaker time-preference argument.
+The instrument-level claim that the wealth tax fits this policy class with particular precision belongs to [[murray-n-rothbard|Rothbard]]. See [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] for the specific Ch. 4 §C result that a tax on individual wealth cannot be capitalized, cannot be shifted, and operates directly on the accumulated-capital stock — i.e. is the instrument that maps Mises's policy class onto the productive base most directly. The institutional structure that systematically rewards the policy class belongs to [[hans-hermann-hoppe|Hoppe]]; see [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] for the prince-vs-caretaker time-preference argument.
 
-The political-economy companion is the Oppenheimer/Nock distinction. The political means is the side of the ledger that does not produce wealth but redirects it; see [[political-means-and-economic-means|Political Means and Economic Means]]. Mises's capital-consumption formulation supplies the praxeological argument that the redirection systematically prefers the present to the future, which is the structural complement to Oppenheimer's sociological claim that the redirection is the state's defining activity.
+The political-economy companion is the [[franz-oppenheimer|Oppenheimer]]/[[albert-jay-nock|Nock]] distinction. The political means is the side of the ledger that does not produce wealth but redirects it; see [[political-means-and-economic-means|Political Means and Economic Means]]. Mises's capital-consumption formulation supplies the praxeological argument that the redirection systematically prefers the present to the future, which is the structural complement to Oppenheimer's sociological claim that the redirection is the state's defining activity.
 
 ## See Also
 

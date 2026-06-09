@@ -3,7 +3,7 @@ title: "Nostr"
 volatility: warm
 category: concept
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 confidence: high
 tags: [nostr, decentralized-social, cypherpunk, public-key-cryptography, identity, relays, censorship-resistance, lightning, privacy, fiatjaf]
@@ -37,7 +37,7 @@ Because events are just signed data, one keypair also serves marketplaces (NIP-9
 
 ## Privacy Limitations
 
-Hillebrand is careful that Nostr optimizes for **censorship resistance and user control, not privacy**. It is pseudonymous, not anonymous: the persistent public key links all of a user's events, and behavioral patterns can deanonymize over time. Relays receive events in cleartext and therefore see metadata — who posts what, when, from which IP, and the social graph — and even encrypted direct messages (the legacy NIP-04, and the newer NIP-17 private messages that use NIP-44 encryption) hide content but not the fact of communication. Emerging work (the **Marmot Protocol**, built on the IETF's MLS / RFC 9420 standard) adds end-to-end encrypted group messaging with forward secrecy and metadata protection, publishing each message under a fresh ephemeral key so relays cannot see sender, membership, or group size. But full privacy still requires routing relay connections through an anonymity layer like [[crypto-anarchy|onion routing]] — the protocol does not provide it. Nostr is thus the **identity and coordination** layer of the cypherpunk stack, complementary to the money and transport layers rather than a private-messaging system in itself.
+[[max-hillebrand|Hillebrand]] is careful that Nostr optimizes for **censorship resistance and user control, not privacy**. It is pseudonymous, not anonymous: the persistent public key links all of a user's events, and behavioral patterns can deanonymize over time. Relays receive events in cleartext and therefore see metadata — who posts what, when, from which IP, and the social graph — and even encrypted direct messages (the legacy NIP-04, and the newer NIP-17 private messages that use NIP-44 encryption) hide content but not the fact of communication. Emerging work (the **Marmot Protocol**, built on the IETF's MLS / RFC 9420 standard) adds end-to-end encrypted group messaging with forward secrecy and metadata protection, publishing each message under a fresh ephemeral key so relays cannot see sender, membership, or group size. But full privacy still requires routing relay connections through an anonymity layer like [[crypto-anarchy|onion routing]] — the protocol does not provide it. Nostr is thus the **identity and coordination** layer of the cypherpunk stack, complementary to the money and transport layers rather than a private-messaging system in itself.
 
 ## See Also
 

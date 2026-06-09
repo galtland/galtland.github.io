@@ -25,11 +25,11 @@ This reference shows up repeatedly because it gives a memorable criterion for se
 
 ## Scope of the Full-Text Ingest
 
-The current raw source aggregates the Mises online-book edition into a single page using the Stirling translation of 1874. Even though it is only one reading-order page, it is a full usable text rather than a summary stub.
+The current raw source aggregates the [[ludwig-von-mises|Mises]] online-book edition into a single page using the Stirling translation of 1874. Even though it is only one reading-order page, it is a full usable text rather than a summary stub.
 
 ## Place in the Current Graph
 
-Because the essay is short, it does not cover as much terrain as Rothbard or the Tannehills. Its importance lies elsewhere: it gives the present wiki a crisp diagnostic test for legal plunder, political exceptionalism, and state overreach. That is why it connects both to [[libertarianism|Libertarianism]] and to the more institutional arguments in [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
+Because the essay is short, it does not cover as much terrain as [[murray-n-rothbard|Rothbard]] or the Tannehills. Its importance lies elsewhere: it gives the present wiki a crisp diagnostic test for legal plunder, political exceptionalism, and state overreach. That is why it connects both to [[libertarianism|Libertarianism]] and to the more institutional arguments in [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
 
 ## See Also
 

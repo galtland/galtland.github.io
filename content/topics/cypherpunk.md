@@ -40,7 +40,7 @@ A later generation reads Bitcoin as a fully Austrian-libertarian project. Saifed
 
 ## Relation to the Privacy-and-Cryptography Topic
 
-This topic overlaps with [[privacy-and-cryptography|Privacy and Cryptography]] but emphasizes a different axis. Privacy-and-cryptography is centered on [[praxeology-of-privacy|Praxeology of Privacy]] and Hillebrand's argument that privacy is a structural feature of human action; it treats cryptography as the implementation layer for that theory. Cypherpunk-as-topic emphasizes the political-movement axis: a chronological canon of manifestos, protocol papers, and synthesis books that asserts cryptography is a vector for political change in itself. The two topics will share many concept and reference articles; reading them as paired maps rather than competing taxonomies is the wiki's intended use.
+This topic overlaps with [[privacy-and-cryptography|Privacy and Cryptography]] but emphasizes a different axis. Privacy-and-cryptography is centered on [[praxeology-of-privacy|Praxeology of Privacy]] and [[max-hillebrand|Hillebrand]]'s argument that privacy is a structural feature of human action; it treats cryptography as the implementation layer for that theory. Cypherpunk-as-topic emphasizes the political-movement axis: a chronological canon of manifestos, protocol papers, and synthesis books that asserts cryptography is a vector for political change in itself. The two topics will share many concept and reference articles; reading them as paired maps rather than competing taxonomies is the wiki's intended use.
 
 ## Boundaries
 

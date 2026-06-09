@@ -4,7 +4,7 @@ volatility: hot
 category: thesis
 type: thesis
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-09
 verified: 2026-06-07
 tags: [thesis, somalia, foreign-intervention, child-soldiers, stateless-somalia, non-interventionism, protection-racket, war-and-the-state, political-means]
 stance: contextualize
@@ -41,17 +41,17 @@ Yusuf Ali's story is not best read as proof that Somalia needed more foreign pro
 
 That finding is conditional, not utopian. Leeson does not claim that post-1991 Somalia was prosperous, pacified, or a designed libertarian order. The claim is narrower: a sufficiently predatory state can reduce welfare below the level reached after its disappearance. That matters because the BBC's chronology does not describe foreign force entering a blank void. It describes foreign-backed state-building and counterterror policy entering a country where central political authority had already been a predatory and destabilizing institution, and where local forms of order had partially reemerged before 2006.
 
-[[non-interventionism|Non-Interventionism]] is the normative edge of that caution. Rothbard's foreign-policy argument is not a general preference for passivity; it follows from the nonaggression rule applied to states that finance and wage war through coercion:
+[[non-interventionism|Non-Interventionism]] is the normative edge of that caution. [[murray-n-rothbard|Rothbard]]'s foreign-policy argument is not a general preference for passivity; it follows from the nonaggression rule applied to states that finance and wage war through coercion:
 
 > "All State wars, therefore, involve increased aggression against the State's own taxpayers"
 
-That does not settle every empirical question about the UIC, al-Qaeda allegations, or Somali factional politics. It does set the burden of proof. An official "security" label cannot by itself justify crossing borders, imposing the costs of war on taxpayers, and making foreign civilians bear the risk of bombardment, displacement, and recruitment into combat. In Oppenheimer's terms, [[political-means-and-economic-means|Political Means and Economic Means]] draws the same line sociologically:
+That does not settle every empirical question about the UIC, al-Qaeda allegations, or Somali factional politics. It does set the burden of proof. An official "security" label cannot by itself justify crossing borders, imposing the costs of war on taxpayers, and making foreign civilians bear the risk of bombardment, displacement, and recruitment into combat. In [[franz-oppenheimer|Oppenheimer]]'s terms, [[political-means-and-economic-means|Political Means and Economic Means]] draws the same line sociologically:
 
 > "The state is an organization of the political means."
 
 An invasion is the political means in its most literal form. It does not persuade a local settlement into a better one; it overrides it by force and assigns the costs to people who did not choose the exchange.
 
-[[tilly-on-protection-rackets|Tilly on Protection Rackets]] gives the causal test for the protection claim. In [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]], Tilly defines the racketeer as:
+[[tilly-on-protection-rackets|Tilly on Protection Rackets]] gives the causal test for the protection claim. In [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]], [[charles-tilly|Tilly]] defines the racketeer as:
 
 > "someone who creates a threat and then charges for its reduction."
 

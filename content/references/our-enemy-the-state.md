@@ -3,7 +3,7 @@ title: "Our Enemy, the State"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-12
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [albert-jay-nock, state, social-power, state-power, political-means, american-history, old-right]
 aliases: [Our Enemy the State, Nock's Our Enemy the State]
@@ -25,7 +25,7 @@ The book applies that distinction to American development. Nock reads colonial l
 
 Nock's contribution to the wiki vocabulary is the contrast between social power and state power. Social power is the productive capacity of society: labor, exchange, invention, charity, local initiative, and voluntary association. State power grows by converting these capacities into political administration, taxation, subsidy, bureaucracy, emergency rule, and monopoly law.
 
-This makes the book central to [[evolution-of-the-state|Evolution of the State]] and [[state-power-and-intervention|State Power and Intervention]]. Nock is especially useful where the wiki needs the historical layer between Oppenheimer's origin theory and Rothbard's later analytic theory.
+This makes the book central to [[evolution-of-the-state|Evolution of the State]] and [[state-power-and-intervention|State Power and Intervention]]. Nock is especially useful where the wiki needs the historical layer between Oppenheimer's origin theory and [[murray-n-rothbard|Rothbard]]'s later analytic theory.
 
 ## Relation to Oppenheimer and Rothbard
 

@@ -3,7 +3,7 @@ title: "America's Great Depression"
 volatility: warm
 category: reference
 created: 2026-05-06
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [rothbard, great-depression, austrian-economics, business-cycle, economic-history, hoover, monetary-history]
 aliases: [AGD, America's Great Depression, Rothbard on the Depression]
@@ -13,7 +13,7 @@ summary: "Reference guide to Rothbard's 1963 application of Austrian Business Cy
 
 # America's Great Depression
 
-> [[americas-great-depression|America's Great Depression]] is Rothbard's most famous historical work and the canonical Austrian-school reading of 1929–1933. Part I sets out the theoretical apparatus — Mises and Hayek's business-cycle theory and a defense of it against rivals — Part II applies it to the inflationary boom of 1921–1929, and Part III to the depression of 1929–1933 and the Hoover administration's response after the crash. Its most consequential thesis is revisionist: Hoover, far from practicing the laissez-faire commonly attributed to him, pioneered most of the interventionist program later expanded by the New Deal, and that program prolonged what would otherwise have been an ordinary recession into the Great Depression.
+> [[americas-great-depression|America's Great Depression]] is Rothbard's most famous historical work and the canonical Austrian-school reading of 1929–1933. Part I sets out the theoretical apparatus — [[ludwig-von-mises|Mises]] and [[friedrich-a-hayek|Hayek]]'s business-cycle theory and a defense of it against rivals — Part II applies it to the inflationary boom of 1921–1929, and Part III to the depression of 1929–1933 and the Hoover administration's response after the crash. Its most consequential thesis is revisionist: Hoover, far from practicing the laissez-faire commonly attributed to him, pioneered most of the interventionist program later expanded by the New Deal, and that program prolonged what would otherwise have been an ordinary recession into the Great Depression.
 
 ## What the Book Argues
 

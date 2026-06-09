@@ -3,7 +3,7 @@ title: "In-Group/Out-Group Tribalism"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 verified: 2026-06-08
 tags: [william-graham-sumner, ethnocentrism, in-group, out-group, we-group, tribalism, nationalism, patriotism, sociology, classical-liberalism, non-libertarian]
 summary: "Sumner's we-group/out-group distinction and his classic formulation of ethnocentrism: each group takes itself as the center of everything, breeding inward cohesion and outward hostility — the default tribal sentiment nationalism mobilizes and an individualist order must work against."
@@ -36,9 +36,9 @@ Its everyday expressions are not marginal but central to political feeling:
 
 ## Why it explains the asymmetry
 
-This is the missing psychological layer under [[nationalism-and-state-formation|Nationalism and State Formation]]. Tilly shows nationalism is manufactured by the state-making process; Sumner shows *why the raw material is always available* — ethnocentrism is a default sentiment that statecraft can channel into patriotism and, in Sumner's own term, chauvinism. Nationalism is "easy" because it speaks to a we-group instinct that predates any argument; libertarianism is "hard" because it asks people to extend peaceful, contractual treatment to the out-group — to strangers rated by conduct rather than membership — which runs against the grain Sumner describes.
+This is the missing psychological layer under [[nationalism-and-state-formation|Nationalism and State Formation]]. [[charles-tilly|Tilly]] shows nationalism is manufactured by the state-making process; Sumner shows *why the raw material is always available* — ethnocentrism is a default sentiment that statecraft can channel into patriotism and, in Sumner's own term, chauvinism. Nationalism is "easy" because it speaks to a we-group instinct that predates any argument; libertarianism is "hard" because it asks people to extend peaceful, contractual treatment to the out-group — to strangers rated by conduct rather than membership — which runs against the grain Sumner describes.
 
-It also complements [[mass-society-and-atomization|Mass Society and Atomization]]: Arendt explains how the breakdown of intermediate ties leaves lonely individuals craving belonging; Sumner explains the shape that craving takes — a we-group with an enemy. Together they describe the demand a mass movement meets. And it sharpens [[the-politics-of-obedience|The Politics of Obedience]]: the "habit" that binds people to rule is reinforced when the ruler is identified with the we-group, so that obedience feels like loyalty.
+It also complements [[mass-society-and-atomization|Mass Society and Atomization]]: [[hannah-arendt|Arendt]] explains how the breakdown of intermediate ties leaves lonely individuals craving belonging; Sumner explains the shape that craving takes — a we-group with an enemy. Together they describe the demand a mass movement meets. And it sharpens [[the-politics-of-obedience|The Politics of Obedience]]: the "habit" that binds people to rule is reinforced when the ruler is identified with the we-group, so that obedience feels like loyalty.
 
 ## Scope
 

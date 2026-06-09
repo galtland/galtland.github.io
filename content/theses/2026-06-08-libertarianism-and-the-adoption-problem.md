@@ -4,7 +4,7 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 verified: 2026-06-08
 tags: [thesis, libertarianism, adoption, strategy, obedience, nationalism, tribalism, public-choice, agorism, surveillance, cbdc, cryptography, monetary-collapse, creed, human-nature]
 aliases: [adoption problem, why libertarianism is hard to adopt, libertarianism and human nature, can libertarianism succeed, the surveillance objection]
@@ -32,7 +32,7 @@ On the facts, the corpus agrees almost completely, and is candid that the obstac
 
 The oldest answer in the corpus is that obedience is habituated, not compelled. [[the-politics-of-obedience|The Politics of Obedience]] holds that a tiny ruling minority dominates a vast population through custom, dependence, and withdrawn resistance, so that subjection becomes second nature. Liberty is hard in a specific way: it asks people to un-learn a habit, not merely weigh an argument.
 
-The habit is reinforced from above, and this is where the reader's propaganda point lands hardest. [[state-power-and-intervention|State Power and Intervention]], via Rothbard's *Anatomy of the State*, holds that the state's long-run problem is ideological, and that manufacturing consent is the work of intellectuals:
+The habit is reinforced from above, and this is where the reader's propaganda point lands hardest. [[state-power-and-intervention|State Power and Intervention]], via [[murray-n-rothbard|Rothbard]]'s *Anatomy of the State*, holds that the state's long-run problem is ideological, and that manufacturing consent is the work of intellectuals:
 
 > For the masses of men do not create their own ideas, or indeed think through these ideas independently; they follow passively the ideas adopted and disseminated by the body of intellectuals.
 
@@ -42,7 +42,7 @@ And where opinion could be contested, the ballot box is rigged by structure. [[p
 
 ## Why Nationalism Is Easy
 
-The asymmetry is not a marketing accident: nationalism has its raw material, its builder, and its market all working in concert. The raw material is tribal and needs no teaching — Sumner's ethnocentrism, in which *"Each group nourishes its own pride and vanity, boasts itself superior, exalts its own divinities, and looks with contempt on outsiders."* The state refines that sentiment into national identity as part of its own consolidation, manufacturing it through direct rule and military mobilization, so that the loyalty it needs is produced by the very process that builds it. And it lands on fertile ground, because atomized, interchangeable people are starved for exactly what it offers — belonging, an enemy, and certainty in a single package — and so are available to be mobilized *en masse*. Each of these legs is documented in the corpus: the tribal raw material in [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]], the state-making channel in [[nationalism-and-state-formation|Nationalism and State Formation]] via Tilly, and the lonely-mass demand in [[mass-society-and-atomization|Mass Society and Atomization]] via Arendt. Nationalism is easy because the state paves its road and the lonely psyche craves what it sells — neither of which bears on whether it is *true*. This is the standing edge the reader names, and the corpus does not dispute it.
+The asymmetry is not a marketing accident: nationalism has its raw material, its builder, and its market all working in concert. The raw material is tribal and needs no teaching — Sumner's ethnocentrism, in which *"Each group nourishes its own pride and vanity, boasts itself superior, exalts its own divinities, and looks with contempt on outsiders."* The state refines that sentiment into national identity as part of its own consolidation, manufacturing it through direct rule and military mobilization, so that the loyalty it needs is produced by the very process that builds it. And it lands on fertile ground, because atomized, interchangeable people are starved for exactly what it offers — belonging, an enemy, and certainty in a single package — and so are available to be mobilized *en masse*. Each of these legs is documented in the corpus: the tribal raw material in [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]], the state-making channel in [[nationalism-and-state-formation|Nationalism and State Formation]] via [[charles-tilly|Tilly]], and the lonely-mass demand in [[mass-society-and-atomization|Mass Society and Atomization]] via [[hannah-arendt|Arendt]]. Nationalism is easy because the state paves its road and the lonely psyche craves what it sells — neither of which bears on whether it is *true*. This is the standing edge the reader names, and the corpus does not dispute it.
 
 ## The Internal Sects Are Real — But Share a Spine
 
@@ -66,7 +66,7 @@ Third, **exit** — the strongest of the three. [[agorism-and-counter-economics|
 
 ## The Surveillance Asymmetry and the Cryptographic Wager
 
-The reader's sharpest point: total payment tracking, AI analysis, and CBDCs make the state's observation so cheap and complete that exit is futile. The corpus takes this seriously rather than dismissing it. Its sharpest statement is Hillebrand's critique of central-bank digital currency as *total intervention* — [[hillebrand-on-cbdcs|Hillebrand on CBDCs]]:
+The reader's sharpest point: total payment tracking, AI analysis, and CBDCs make the state's observation so cheap and complete that exit is futile. The corpus takes this seriously rather than dismissing it. Its sharpest statement is [[max-hillebrand|Hillebrand]]'s critique of central-bank digital currency as *total intervention* — [[hillebrand-on-cbdcs|Hillebrand on CBDCs]]:
 
 > CBDCs are programmable money enabling comprehensive surveillance and control, not simple digital versions of existing currency.
 
@@ -96,7 +96,7 @@ The reader's critique does not refute the case so much as strip its optimism. Th
 
 - **The one hard floor** is the cryptographic cost-asymmetry — the single lever that beats scale and AI — held as a wager, not a guarantee.
 - **The one catalyst worth pre-positioning for** is a monetary reckoning, not the war-or-emergency kind of collapse (which ratchets state power) — and only if the hard-money lifeboat is built first.
-- **The one missing piece**, which the reader rightly names, is a unifying meaning to rival nationalism's belonging — something the movement has gestured at (Rand, Bitcoin culture, Hoppe's covenants) but not produced, and may not be able to without betraying itself.
+- **The one missing piece**, which the reader rightly names, is a unifying meaning to rival nationalism's belonging — something the movement has gestured at ([[ayn-rand|Rand]], Bitcoin culture, Hoppe's covenants) but not produced, and may not be able to without betraying itself.
 
 Liberty does not win by out-uniting nationalism on its own ground; it cannot. If it wins, it is by making coercion uneconomic through mathematics, surviving the fiat reckoning with a sound-money alternative already in hand, and — the unproven part — finding a shared meaning that lets free individuals cohere without a master. Human nature is the binding constraint the whole strategy is built around, and the honest answer to the reader is that success is possible but not assured, and depends most on the one thing libertarianism has been worst at: giving people something to belong to.
 

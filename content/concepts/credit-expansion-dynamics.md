@@ -3,7 +3,7 @@ title: "Credit Expansion Dynamics"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-05-30
+updated: 2026-06-09
 verified: 2026-05-30
 tags: [credit-expansion, fiduciary-media, mises, rothbard, austrian-economics, business-cycle, abct, time-preference, natural-rate, loan-market, monetary-theory]
 summary: "Mises on the mechanics of fiduciary-media issuance: banks must lend new credit below the natural rate to place it, expanding loan demand until repayment and reserve limits force the contraction."
@@ -17,7 +17,7 @@ The Austrian theory of credit expansion is a dynamic process: a sequence of bank
 
 ## The five-stage mechanism
 
-Fiduciary media — bank-issued money-substitutes not covered by money proper (see [[the-theory-of-money-and-credit|The Theory of Money and Credit]] for the Mises typology and [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] for the broader-sense money concept) — are the single operational lever the Austrian cycle theory identifies as load-bearing. The mechanism runs in five stages.
+Fiduciary media — bank-issued money-substitutes not covered by money proper (see [[the-theory-of-money-and-credit|The Theory of Money and Credit]] for the [[ludwig-von-mises|Mises]] typology and [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] for the broader-sense money concept) — are the single operational lever the Austrian cycle theory identifies as load-bearing. The mechanism runs in five stages.
 
 **1. The bank must drop the loan rate to place the new credit.** Fiduciary media are an *additional* supply of credit, not an offering against accumulated savings. The market will not absorb that additional supply at the prevailing natural rate of interest — the rate the underlying time-preference structure establishes — because the demand for credit at that rate is already fully met by genuine savers. The only way the new credit gets borrowed is to price it below the natural rate. Mises is explicit:
 
@@ -29,7 +29,7 @@ The same passage names the banking-channel power: a bank of issue's interest-rat
 
 **2. The gross market rate falsifies entrepreneurial calculation.** Entrepreneurs, including the most conservative, take the observable loan rate as a fact and compute net present values, project lifetimes, and capital-budget decisions against it. When that rate is suppressed below the natural rate by fiduciary expansion, the calculation returns projects that *look* profitable but in fact rest on resources — savings — that do not exist at the implied size. The error is not forecasting; it is the rational output of computing against a falsified input. The full statement of the calculational point is in [[mises-on-credit-expansion|Mises on Credit Expansion]].
 
-**3. The production structure lengthens.** The suppressed rate makes higher-order capital goods — projects far from final consumption — disproportionately more attractive than they would be at the natural rate. The economy reallocates labor and intermediate goods toward longer-duration projects: construction, heavy machinery, raw-materials extraction, R&D, anything interest-rate-sensitive. Consumer goods (lower-order) draw down. The visible footprint is exactly the sectoral asymmetry Rothbard documents in [[americas-great-depression|America's Great Depression]] and [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]].
+**3. The production structure lengthens.** The suppressed rate makes higher-order capital goods — projects far from final consumption — disproportionately more attractive than they would be at the natural rate. The economy reallocates labor and intermediate goods toward longer-duration projects: construction, heavy machinery, raw-materials extraction, R&D, anything interest-rate-sensitive. Consumer goods (lower-order) draw down. The visible footprint is exactly the sectoral asymmetry [[murray-n-rothbard|Rothbard]] documents in [[americas-great-depression|America's Great Depression]] and [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]].
 
 **4. The boom must end.** Time preferences are unchanged. Real savings are unchanged. The capital structure now in motion cannot be completed with the resources actually available. Either the bank keeps issuing fresh fiduciary media to extend the artificial rate (postponing the reckoning at the cost of a larger eventual correction — and, in the limit, a flight from the currency that destroys it), or it stops and the natural rate reasserts itself, at which point the longest-duration projects are revealed as unprofitable. They are liquidated. That liquidation is the bust.
 
