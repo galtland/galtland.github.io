@@ -3,8 +3,8 @@ title: "The Declaration of Independence"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-10
+verified: 2026-06-10
 tags: [declaration-of-independence, thomas-jefferson, natural-law, natural-rights, classical-canon, american-founding, consent, right-of-revolution, unalienable-rights, lockean, classical-liberalism]
 aliases: [The Declaration of Independence, Declaration of Independence, 1776 Declaration, American Declaration of Independence]
 confidence: medium
@@ -24,7 +24,7 @@ The document's force is concentrated in its second paragraph, which states the L
 >
 > — The Declaration of Independence (1776)
 
-The core argument is Lockean: rights are natural and prior to government (Jefferson's "unalienable" tracks Locke's "life, health, liberty, or possessions"); government is instrumental, instituted *to secure* pre-existing rights; its authority rests on consent; and a government that turns against those rights forfeits its claim, justifying the right of revolution. (Jefferson drew on other currents too — the Scottish Enlightenment, the radical-Whig tradition — but the rights-and-consent spine is Locke's.) The long bill of particulars against George III that follows is the factual case that this forfeiture had occurred.
+The core argument is Lockean: rights are natural and prior to government (Jefferson's "unalienable" tracks Locke's "life, health, liberty, or possessions"); government is instrumental, instituted *to secure* pre-existing rights; its authority rests on consent; and a government that turns against those rights forfeits its claim, justifying the right of revolution. (Locke was not Jefferson's only influence, but the rights-and-consent spine is his.) The long bill of particulars against George III that follows is the factual case that this forfeiture had occurred.
 
 ## Place in This Wiki
 
@@ -40,3 +40,4 @@ The Declaration is where the wiki's natural-law lineage becomes practice. It dra
 ## Sources
 
 - [The Declaration of Independence (Full Text)](<../../raw/articles/2026-06-09-declaration-of-independence-full-text.md>) - the 1776 text (Jefferson); Project Gutenberg
+- [Locke, Second Treatise of Government (Full Text)](<../../raw/articles/2026-06-09-locke-second-treatise-of-government-full-text.md>) - source of the compared phrase "life, health, liberty, or possessions" (Ch. II, §6)
