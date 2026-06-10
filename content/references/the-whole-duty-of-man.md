@@ -39,6 +39,7 @@ Pufendorf is the bridge the natural-law lineage needs. He receives the seculariz
 - [[samuel-pufendorf|Samuel Pufendorf]] - author reference
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition this text systematizes
 - [[the-rights-of-war-and-peace|The Rights of War and Peace]] - Grotius's secularized natural law that Pufendorf systematizes
+- [[sociality|Sociality]] - the foundational law of nature this work states
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's rights theory downstream of Pufendorf
 
 ## Sources

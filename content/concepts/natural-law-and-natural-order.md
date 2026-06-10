@@ -74,6 +74,7 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [[school-of-salamanca|School of Salamanca]] - the scholastic bridge from Aquinas to Locke; natural law + proto-Austrian economics
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's history tying natural law to the origins of economics
 - [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]] - Pufendorf's sociality-based systematization between Grotius and Locke
+- [[sociality|Sociality]] - Pufendorf's fundamental law of nature, the wiki's concept page for the principle
 - [[declaration-of-independence|The Declaration of Independence]] - the natural-rights tradition as founding political creed
 - [[rights-of-man|Rights of Man]] - Paine's revolutionary radicalization of natural rights
 

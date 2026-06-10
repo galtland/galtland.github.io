@@ -41,6 +41,7 @@ The Second Treatise is the hinge between classical natural law and modern libert
 - [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]] - Pufendorf's natural-law systematization that Locke read
 - [[declaration-of-independence|The Declaration of Independence]] - the political application of Locke's natural-rights theory
 - [[rights-of-man|Rights of Man]] - Paine's revolutionary extension of Lockean natural rights
+- [[sociality|Sociality]] - the Pufendorfian sociality apparatus Locke read and sharpened
 
 ## Sources
 

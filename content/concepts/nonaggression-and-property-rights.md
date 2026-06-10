@@ -51,6 +51,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - author whose property theory is central to this article's framing
 - [[murray-n-rothbard|Murray N. Rothbard]] - central author connecting the axiom to politics and economics
 - [[for-a-new-liberty|For a New Liberty]] - full-book entry point for the axiom in this wiki
+- [[sociality|Sociality]] - Pufendorf's early natural-law ground for the nonaggression principle
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's natural-rights defense of the normative core
 - [[liberalism|Liberalism]] - Mises's consequentialist alternative defense
 - [[ludwig-von-mises|Ludwig von Mises]] - author of the consequentialist alternative
