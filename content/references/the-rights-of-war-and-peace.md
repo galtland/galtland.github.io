@@ -3,7 +3,7 @@ title: "The Rights of War and Peace (De Jure Belli ac Pacis)"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-12
 verified: 2026-06-09
 tags: [hugo-grotius, natural-law, natural-rights, classical-canon, international-law, law-of-nations, de-jure-belli-ac-pacis, just-war, rationalism]
 aliases: [The Rights of War and Peace, De Jure Belli ac Pacis, On the Law of War and Peace, De Iure Belli ac Pacis]
@@ -18,7 +18,7 @@ short: "Grotius's 1625 founding text of international law: natural law grounded 
 
 ## The Secularizing Move
 
-Grotius locates the source of natural law in the **rational and social nature of man** (*appetitus societatis*, the desire for ordered society) rather than in divine command alone. The famous formulation comes in the Prolegomena (§11): natural law would retain its validity *etiamsi daremus non esse Deum* — "even if we were to grant," what cannot be granted "without the utmost wickedness," that there is no God or that he takes no care of human affairs. Grotius does not deny God; he argues that natural law's *content* is so rooted in human nature that it would bind regardless. This makes natural law a common standard across confessional lines — exactly what post-Reformation Europe, tearing itself apart in religious war, needed.
+Grotius locates the source of natural law in the **rational and social nature of man** (*appetitus societatis*, the desire for ordered society) rather than in divine command alone. The famous formulation comes in the Prolegomena (§11): natural law would retain its validity *etiamsi daremus non esse Deum* — even if we were to grant, what cannot be granted without the utmost wickedness, that there is no God or that he takes no care of human affairs. Grotius does not deny God; he argues that natural law's *content* is so rooted in human nature that it would bind regardless. This makes natural law a common standard across confessional lines — exactly what post-Reformation Europe, tearing itself apart in religious war, needed.
 
 ## Natural Right, Property, and Just War
 

@@ -3,7 +3,7 @@ title: "The Law"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-06-09
+updated: 2026-06-12
 verified: 2026-06-09
 tags: [bastiat, law, property-rights, legal-plunder]
 aliases: [La Loi]
@@ -39,7 +39,7 @@ Because the essay is short, it does not cover as much terrain as [[murray-n-roth
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional article contrasting genuine law with political monopoly
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis applying Bastiat's legalized-plunder reading to rent controls
-- [[natural-law-and-natural-order|Natural Law and Natural Order]] - the natural-rights tradition behind Bastiat's "law defends pre-existing rights"
+- [[natural-law-and-natural-order|Natural Law and Natural Order]] - the natural-rights tradition behind Bastiat's principle that law defends pre-existing rights
 
 ## Sources
 

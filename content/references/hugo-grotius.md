@@ -3,7 +3,7 @@ title: "Hugo Grotius"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-12
 verified: 2026-06-09
 tags: [hugo-grotius, natural-law, natural-rights, classical-canon, international-law, law-of-nations, rationalism, dutch-golden-age]
 aliases: [Hugo Grotius, Grotius, Huig de Groot, Hugo de Groot]
@@ -17,7 +17,7 @@ summary: "Short author reference for Hugo Grotius (1583–1645), the Dutch juris
 
 ## Place in This Wiki
 
-Grotius was a Dutch jurist, theologian, and statesman of the Dutch Golden Age — a child prodigy, later imprisoned and famously escaping in a book chest. The wiki uses him for the pivotal move in his 1625 masterwork: grounding natural law in the rational and social nature of man rather than in revealed theology, so that it would retain its force *etiamsi daremus non esse Deum* — "even if we were to grant that there is no God." This made natural rights a common standard across confessional lines and built the law of nations on it.
+Grotius was a Dutch jurist, theologian, and statesman of the Dutch Golden Age — a child prodigy, later imprisoned and famously escaping in a book chest. The wiki uses him for the pivotal move in his 1625 masterwork: grounding natural law in the rational and social nature of man rather than in revealed theology, so that it would retain its force *etiamsi daremus non esse Deum* — even if we were to grant that there is no God. This made natural rights a common standard across confessional lines and built the law of nations on it.
 
 He stands in the lineage between [[aquinas-treatise-on-law|Aquinas]] and [[the-second-treatise-of-government|Locke]]: he inherits the Scholastic apparatus, strips its theological dependence, and hands a rights-and-contract natural law to the moderns. Grotius is a theorist of obligation, property, and just war, not a libertarian.
 

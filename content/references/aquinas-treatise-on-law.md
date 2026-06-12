@@ -3,7 +3,7 @@ title: "Summa Theologica: Treatise on Law"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-12
 verified: 2026-06-09
 tags: [thomas-aquinas, natural-law, classical-canon, scholasticism, summa-theologica, eternal-law, human-law, divine-law, treatise-on-law]
 aliases: [Treatise on Law, Summa Theologica Treatise on Law, Aquinas on law, Prima Secundae 90-108, lex naturalis]
@@ -22,7 +22,7 @@ Aquinas defines law precisely (Q. 90): "an ordinance of reason for the common go
 
 He then distinguishes four kinds of law (QQ. 91–93):
 - **Eternal law** — God's rational governance of the whole created order.
-- **Natural law** — "the rational creature's participation in the eternal law," accessible to reason. Its first, self-evident precept (Q. 94) is that "good is to be done and pursued, and evil is to be avoided," from which all other natural precepts follow (preservation of life, family, knowledge of truth, life in society).
+- **Natural law** — "the rational creature's participation of the eternal law," accessible to reason. Its first, self-evident precept (Q. 94) is that "good is to be done and pursued, and evil is to be avoided," from which all other natural precepts follow (preservation of life, family, knowledge of truth, life in society).
 - **Human (positive) law** — the particular determinations that human legislators derive from natural law for their communities (QQ. 95–97).
 - **Divine law** — what is revealed (the Old and New Law, QQ. 98–108), exceeding what reason alone discovers.
 

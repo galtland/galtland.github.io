@@ -3,7 +3,7 @@ title: "De Legibus (On the Laws)"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-12
 verified: 2026-06-09
 tags: [cicero, natural-law, natural-rights, classical-canon, stoicism, de-legibus, on-the-laws, right-reason, justice, roman-law]
 aliases: [De Legibus, On the Laws, Cicero On the Laws, Laws]
@@ -18,11 +18,11 @@ short: "Cicero's On the Laws: the developed argument that law and justice are 'a
 
 ## The Argument of Book I
 
-Speaking in the dialogue, Marcus (Cicero) insists that law must be understood not from "the praetor's edict" or "the Twelve Tables" but "from the deepest philosophy." His thesis is that **law and justice are grounded in nature, not convention**:
+Speaking in the dialogue, Marcus (Cicero) insists that law must be understood not from "the praetor's edict" or "the Twelve Tables" but "in the sublimest doctrines of philosophy." His thesis is that **law and justice are grounded in nature, not convention**:
 
 - Reason is "the common property of God and man," and "this right reason is what we call Law." Because reason is shared, gods and men form "one immeasurable Commonwealth," and law is the same for all.
-- Therefore "man is born for justice, and law and equity are not a mere establishment of opinion, but an institution of nature." Cicero explicitly condemns the view "that all things are just which are established by the laws and institutions of nations" — utility cannot be the measure of justice, for "nature herself is the foundation of justice."
-- "Law, which is nothing else than right reason enjoining what is good and forbidding what is evil," precedes any written statute; an unjust enactment is not truly law at all.
+- Therefore "man is born for justice, and that law and equity are not a mere establishment of opinion, but an institution of nature." Cicero explicitly condemns the view "that all things are necessarily just, which are established by the civil laws and the institutions of the people" — utility cannot be the measure of justice, for "nature herself is the foundation of justice."
+- "Law, which is nothing else than right reason enjoining what is good, and forbidding what is evil," precedes any written statute; an unjust enactment is not truly law at all.
 
 Book I grounds justice in nature and human fellowship; Books II and III apply the principle to religious law and to the magistracies of the ideal commonwealth.
 

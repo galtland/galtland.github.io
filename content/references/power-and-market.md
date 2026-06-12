@@ -3,7 +3,7 @@ title: "Power and Market"
 volatility: warm
 category: reference
 created: 2026-05-16
-updated: 2026-05-30
+updated: 2026-06-12
 verified: 2026-05-30
 tags: [rothbard, austrian-economics, intervention, taxation, power-and-market, political-means]
 aliases: [P&M, Power and Market Government and the Economy]
@@ -36,7 +36,7 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[state-power-and-intervention|State Power and Intervention]] - intervention-as-cumulative-process concept article that draws directly on this book
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer distinction that [[power-and-market|Power and Market]] extends praxeologically
 - [[sales-tax-incidence|Sales Tax Incidence]] - focused article on Rothbard's Ch. 4 treatment of general sales tax incidence
-- [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused article on the Ch. 3 "Triangular Intervention: Price Control" treatment
+- [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused article on the Ch. 3 “Triangular Intervention: Price Control” treatment
 - [[economic-calculation-problem|Economic Calculation Problem]] - Misesian core the triangular-intervention analysis sits on
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - normative axiom Ch. 1 operationalizes for defense-on-the-market
 - [[austrian-economics|Austrian Economics]] - school whose intervention analysis this book is the canonical Rothbardian statement of
@@ -44,7 +44,7 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[ludwig-von-mises|Ludwig von Mises]] - Rothbard's methodological source; [[power-and-market|Power and Market]]'s praxeological critiques extend Mises's intervention chapter from [[human-action|Human Action]]
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's later natural-rights treatise; Ch. 6 of [[power-and-market|Power and Market]] prefigures its antimarket-ethics critique
 - [[for-a-new-liberty|For a New Liberty]] - Rothbard's movement-level overview that relies on this book's intervention analysis as its economic base
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the Ch. 3 "Triangular Intervention: Price Control" section
+- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the Ch. 3 “Triangular Intervention: Price Control” section
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article that applies the tripartite intervention typology to CBDCs
 - [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] - focused author-on-topic article on the ch. 4 §C "A Tax on Individual Wealth" treatment as a pure tax on accumulated capital
 

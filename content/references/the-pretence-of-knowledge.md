@@ -3,7 +3,7 @@ title: "The Pretence of Knowledge"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-09
+updated: 2026-06-12
 verified: 2026-05-31
 tags: [hayek, pretence-of-knowledge, nobel-lecture, scientism, knowledge-problem, spontaneous-order, complexity, methodology, austrian-economics]
 aliases: [The Pretence of Knowledge, The Pretense of Knowledge, Hayek Nobel lecture, Hayek 1974 Nobel lecture]
@@ -24,7 +24,7 @@ Hayek frames the lecture around "the chief practical problem which economists ha
 
 The core of the lecture is a distinction Hayek borrows from Warren Weaver: between "phenomena of unorganized complexity" — tractable by statistics and probability — and "phenomena of organized complexity", in which outcomes depend not just on the elements and their frequencies but on how the elements are connected. The economy is the second kind. To derive precise predictions about it we would need full information about every individual element — information no observer can hold (the point his [[knowledge-problem|Knowledge Problem]] establishes). What remains achievable is what Hayek calls "mere pattern predictions" — predictions of the general character of the order that will form, not of its particular details. These are still falsifiable and scientific; they are simply less than the quantitative control the physical sciences promise.
 
-This is the methodological capstone of the wiki's Hayekian cluster: it generalizes the dispersed-knowledge argument of "The Use of Knowledge in Society" (in [[individualism-and-economic-order|Individualism and Economic Order]]) into a claim about what social science can and cannot do.
+This is the methodological capstone of the wiki's Hayekian cluster: it generalizes the dispersed-knowledge argument of “The Use of Knowledge in Society” (in [[individualism-and-economic-order|Individualism and Economic Order]]) into a claim about what social science can and cannot do.
 
 ## The Danger
 
@@ -52,7 +52,7 @@ The confidence here is medium: the lecture text and its argument are reproduced 
 - [[knowledge-problem|Knowledge Problem]] - the dispersed-knowledge argument this lecture generalizes into a philosophy of social science
 - [[economic-calculation-problem|Economic Calculation Problem]] - the calculation side of the same limits-of-knowledge case
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - why the conceit of control becomes coercion
-- [[individualism-and-economic-order|Individualism and Economic Order]] - "The Use of Knowledge in Society," the lecture's direct ancestor
+- [[individualism-and-economic-order|Individualism and Economic Order]] - “The Use of Knowledge in Society,” the lecture's direct ancestor
 - [[road-to-serfdom|The Road to Serfdom]] - the political application of the same anti-constructivist argument
 - [[denationalisation-of-money|Denationalisation of Money]] - the other major work of Hayek's late period
 - [[austrian-economics|Austrian Economics]] - the spontaneous-order tradition the lecture defends

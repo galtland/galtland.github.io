@@ -3,7 +3,7 @@ title: "Lightning Network"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-06-12
 verified: 2026-05-30
 tags: [bitcoin, lightning-network, payment-channels, htlc, proof-of-work, cypherpunk, scalability]
 aliases: [Lightning Network, Bitcoin Lightning Network, payment channels, HTLCs, hashed timelock contracts]
@@ -52,7 +52,7 @@ That makes Lightning adjacent to [[trusted-third-parties-as-security-holes|Trust
 
 The paper's confidence is high for the design it documents, but the design is not costless. Routing requires liquidity, path discovery, fee markets, and online availability for some participants. Timelock selection matters, and forced-expiration spam is treated as a systemic risk because many forced channel closes can create on-chain pressure.
 
-The tradeoff is therefore not "blockchain or no blockchain." It is whether the blockchain should process every payment or provide a scarce, expensive, decentralized enforcement layer for many off-chain agreements. Lightning chooses the second path.
+The tradeoff is therefore not between blockchain and no blockchain. It is whether the blockchain should process every payment or provide a scarce, expensive, decentralized enforcement layer for many off-chain agreements. Lightning chooses the second path.
 
 ## See Also
 
