@@ -4,7 +4,7 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-12
 verified: 2026-06-08
 tags: [thesis, libertarianism, adoption, strategy, obedience, nationalism, tribalism, public-choice, agorism, surveillance, cbdc, cryptography, monetary-collapse, creed, human-nature]
 aliases: [adoption problem, why libertarianism is hard to adopt, libertarianism and human nature, can libertarianism succeed, the surveillance objection]
@@ -80,9 +80,7 @@ Third, **exit** — the strongest of the three. [[agorism-and-counter-economics|
 
 ## The Surveillance Asymmetry and the Cryptographic Wager
 
-The reader's sharpest point: total payment tracking, AI analysis, and CBDCs make the state's observation so cheap and complete that exit is futile. The corpus takes this seriously rather than dismissing it. Its sharpest statement is [[max-hillebrand|Hillebrand]]'s critique of central-bank digital currency as *total intervention* — [[hillebrand-on-cbdcs|Hillebrand on CBDCs]]:
-
-> CBDCs are programmable money enabling comprehensive surveillance and control, not simple digital versions of existing currency.
+The reader's sharpest point: total payment tracking, AI analysis, and CBDCs make the state's observation so cheap and complete that exit is futile. The corpus takes this seriously rather than dismissing it. Its sharpest statement is [[max-hillebrand|Hillebrand]]'s critique of central-bank digital currency as *total intervention* — [[hillebrand-on-cbdcs|Hillebrand on CBDCs]] — that CBDCs are programmable money enabling comprehensive surveillance and control, not simple digital versions of existing currency.
 
 That is a contested argument, not a settled fact, and Hillebrand concedes the point himself:
 
@@ -90,9 +88,7 @@ That is a contested argument, not a settled fact, and Hillebrand concedes the po
 >
 > — Max Hillebrand, *The Praxeology of Privacy*
 
-The issuers of the leading CBDC projects say theirs will be just that — cash-like, intermediated through private providers rather than direct central-bank accounts, and never programmed to restrict spending — and the critique's reply is not that they are lying but that each of these is a policy commitment, revocable by the same authority that made it, rather than a technical guarantee. The thesis does not need the strong version of the claim, and the CBDC dispute can be set aside entirely. Even granting every design promise, the uncontested trend is enough: exposed digital payment is increasingly cheap to observe, and AI sharpens the analysis of whatever is exposed. The whole counter then rests on one lever — the [[resistance-axiom|resistance axiom]]: the claim that **cryptography is the one asymmetry that does not scale with the adversary's size or intelligence.** A sound key is as unbreakable for a superpower with the best models as for anyone; AI analyzes data that is *exposed*, it does not break good cryptography. The strategy is therefore not to out-surveil the state — impossible, as the reader says — but to make activity *unobservable in the first place*, breaking the loop at observation:
-
-> When observation becomes expensive enough, the entire attack cycle becomes uneconomical.
+The issuers of the leading CBDC projects say theirs will be just that — cash-like, intermediated through private providers rather than direct central-bank accounts, and never programmed to restrict spending — and the critique's reply is not that they are lying but that each of these is a policy commitment, revocable by the same authority that made it, rather than a technical guarantee. The thesis does not need the strong version of the claim, and the CBDC dispute can be set aside entirely. Even granting every design promise, the uncontested trend is enough: exposed digital payment is increasingly cheap to observe, and AI sharpens the analysis of whatever is exposed. The whole counter then rests on one lever — the [[resistance-axiom|resistance axiom]]: the claim that **cryptography is the one asymmetry that does not scale with the adversary's size or intelligence.** A sound key is as unbreakable for a superpower with the best models as for anyone; AI analyzes data that is *exposed*, it does not break good cryptography. The strategy is therefore not to out-surveil the state — impossible, as the reader says — but to make activity *unobservable in the first place*, breaking the loop at observation. When observation becomes expensive enough, the entire attack cycle becomes uneconomical.
 
 The strategic payoff, in [[parallel-economy|the parallel economy]], is blunt: *"The state cannot persist when theft becomes unprofitable."* This is the corpus's one hard floor under the reader's pessimism — and the honesty is that it is a **wager, not a proof**. The [[resistance-axiom|resistance axiom]] is, in its own statement, weaker than a self-evident truth: a working assumption backed by computational hardness and the operational survival of Bitcoin, Tor, and PGP, defeatable by physical coercion, developer prosecution, key mistakes, or centralization. Whether mathematics holds the line against a determined state is the open question on which the whole strategy turns.
 

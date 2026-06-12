@@ -3,7 +3,7 @@ title: "Credit and Deferred Payment"
 volatility: warm
 category: concept
 created: 2026-05-09
-updated: 2026-06-09
+updated: 2026-06-12
 verified: 2026-05-30
 tags: [credit, time-preference, debtor-creditor, book-credit, austrian-economics, money-and-banking]
 aliases: [credit transaction, trade credit, book credit, commercial credit, deferred payment]
@@ -142,6 +142,8 @@ The article so far reads as if the Austrian definition were the obvious one. Hon
 The TMC passage that contains the canonical definition (Part Three Ch. I, p. 268) is *not* primarily about credit in general — it is about deposits. Mises is asking: when a depositor places money in a bank against a claim convertible at any time, is that a credit transaction? Juristically yes; economically no. The definition appears as the criterion that settles the question:
 
 > "If credit in the economic sense means the exchange of a present good or a present service against a future good or a future service, then it is hardly possible to include the transactions in question under the conception of credit."
+>
+> — Ludwig von Mises, *The Theory of Money and Credit*
 
 He then explains why the depositor case fails the test:
 

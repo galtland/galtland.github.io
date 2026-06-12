@@ -4,7 +4,7 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-05-10
-updated: 2026-06-09
+updated: 2026-06-12
 verified: 2026-05-31
 tags: [thesis, state, parasite-thesis, evolution-of-the-state, totalitarianism, political-means, protection-racket, banality-of-evil, total-domination, violence-vs-power, state-of-exception, biopower, libertarianism]
 aliases: [parasite thesis of the state, state-as-parasite, the state is a parasite]
@@ -71,7 +71,7 @@ Where Mises and Hayek say *"a properly limited state would be legitimate,"* Nock
 
 The version of the user's two sentences that survives the corpus reads:
 
-> Considered through the wiki's anarcho-libertarian sources together with Tilly's historical sociology, the State as historically realized functions as a parasite that became extremely good at presenting the relationship as symbiotic; states institutionalized on top of the same organized-violence repertoire that bandits and racketeers use, then acquired legitimacy on top of the underlying coercion. States less skilled at this presentation are typically called "dictatorship" or "organized crime" — **except** where the regime has crossed into totalitarianism in Arendt's specific sense, in which case the parasite frame breaks if "parasite" means sustainable extraction from a still-functioning host: totalitarian rule aims at total domination rather than at maximal extraction. One corpus-internal limit remains for the contemporary scope: classical liberals (Mises, Hayek) partition the state into legitimate-protective and parasitic-interventionist rather than treating the whole as a single parasite. Nock's *government*-vs-*State* distinction does not provide a second carve-out for modern political institutions — his "government" category applies historically only to pre-State societies where economic exploitation was impracticable, and every actual modern state-scale regime falls under "the State" in his terminology.
+Considered through the wiki's anarcho-libertarian sources together with Tilly's historical sociology, the State as historically realized functions as a parasite that became extremely good at presenting the relationship as symbiotic; states institutionalized on top of the same organized-violence repertoire that bandits and racketeers use, then acquired legitimacy on top of the underlying coercion. States less skilled at this presentation are typically called "dictatorship" or "organized crime" — **except** where the regime has crossed into totalitarianism in Arendt's specific sense, in which case the parasite frame breaks if "parasite" means sustainable extraction from a still-functioning host: totalitarian rule aims at total domination rather than at maximal extraction. One corpus-internal limit remains for the contemporary scope: classical liberals (Mises, Hayek) partition the state into legitimate-protective and parasitic-interventionist rather than treating the whole as a single parasite. Nock's *government*-vs-*State* distinction does not provide a second carve-out for modern political institutions — his "government" category applies historically only to pre-State societies where economic exploitation was impracticable, and every actual modern state-scale regime falls under "the State" in his terminology.
 
 ## Verdict by Component
 
