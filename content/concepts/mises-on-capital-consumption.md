@@ -38,6 +38,8 @@ The political-economy companion is the [[franz-oppenheimer|Oppenheimer]]/[[alber
 - [[the-fiat-standard|The Fiat Standard]] - source for fiat capital destruction and related social effects
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's 2001 regime-comparison book on monarchy, democracy, time preference, and decivilization
 
+
+- [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Liberalism: A Socio-Economic Exposition (Full Text)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) — Part I §5; the directly quoted formulation is at the section on the antiliberal demagogue and the contrast between present gratification and future production.

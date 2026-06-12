@@ -56,6 +56,8 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[jurisdictional-competition|Jurisdictional Competition]] - Lane's "employee-controlled government" matches the public-choice account of bureaucratic incentives
+
+- [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) - Shughart's entry on rational ignorance, the logic of collective action, and government failure

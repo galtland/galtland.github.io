@@ -52,6 +52,8 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] - focused Misesian sister article on antiliberal policy as capital consumption; Hoppe's caretaker / time-preference mechanism is one institutional route to capital-consumption policy
 - [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] - the book's central caretaker argument: a temporary democratic ruler maximizes current income at the expense of the state's capital value
 
+
+- [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive DjVu OCR aggregate with provenance and rights note

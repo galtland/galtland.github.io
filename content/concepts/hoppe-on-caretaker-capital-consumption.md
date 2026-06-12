@@ -35,6 +35,8 @@ The mechanism scales beyond a single jurisdiction. When multiple democratic gove
 - [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] — focused article on the specific tax instrument that operates most directly on the capital stock the caretaker has the strongest incentive to consume
 - [[state-power-and-intervention|State Power and Intervention]] — broader intervention-as-cumulative-process frame
 
+
+- [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) — Ch. 1 on monarchy vs democracy and the systematic time-preference effects of public government ownership.

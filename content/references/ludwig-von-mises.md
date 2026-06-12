@@ -77,6 +77,8 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Hold and Its Dissents: Administered Credit]] - newsroom thesis backlink
 
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
+
+- [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - the central treatise
