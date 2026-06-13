@@ -62,7 +62,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Rothbard's [[power-and-market|Power and Market]] triangular-intervention analysis
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Rothbard's [[power-and-market|Power and Market]] triangular-intervention analysis
 
 
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)

@@ -4,10 +4,10 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-05-19
-updated: 2026-06-09
+updated: 2026-06-13
 verified: 2026-05-31
 tags: [thesis, argentina, rent-control, price-control, housing-policy, decontrol, buenos-aires, austrian-economics, mises, rothbard]
-aliases: [Argentina rent decontrol 2023, Milei rent decontrol, Buenos Aires rental listings doubled, Argentina rent-control repeal]
+aliases: [argentina-rent-decontrol-2023, Argentina rent decontrol 2023, Milei rent decontrol, Buenos Aires rental listings doubled, Argentina rent-control repeal]
 stance: endorse
 verdict: endorse
 confidence: medium

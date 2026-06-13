@@ -53,7 +53,7 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
 
 
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: Price-Control Analysis]] - newsroom thesis backlink
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: Price-Control Analysis]] - newsroom thesis backlink
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 ## Sources

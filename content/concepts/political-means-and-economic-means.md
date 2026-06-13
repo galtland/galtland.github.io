@@ -65,7 +65,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[albert-jay-nock|Albert Jay Nock]] - author reference for the American transmission
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's concise adoption of the distinction
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis classifying a rent ceiling as use of the political means substituted for the economic means.
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis classifying a rent ceiling as use of the political means substituted for the economic means.
 
 
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion

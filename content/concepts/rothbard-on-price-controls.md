@@ -31,7 +31,7 @@ Second, the shortage worsens with the elasticity of supply: "The more 'elastic' 
 - [[power-and-market|Power and Market]] — full-text source
 - [[murray-n-rothbard|Murray N. Rothbard]] — author reference page
 - [[economic-calculation-problem|Economic Calculation Problem]] — adjacent Austrian frame: the suppressed price is the calculation signal the intervener obliterates
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]] — thesis applying the maximum-price claim to the Argentine case
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]] — thesis applying the maximum-price claim to the Argentine case
 - [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create unemployment among the lowest-productivity workers
 - [[man-economy-and-state|Man, Economy, and State]] - Rothbard's Man, Economy, and State treatise, from action-axiom foundations through to intervention theory
 

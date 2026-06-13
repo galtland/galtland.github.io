@@ -73,7 +73,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis applying Austrian price-control analysis to the Argentine rental-housing case
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis applying Austrian price-control analysis to the Argentine rental-housing case
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 - [[unforgeable-costliness|Unforgeable Costliness]] - Menger-Mises-to-Szabo bridge for hard money and costly scarcity

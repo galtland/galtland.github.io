@@ -44,7 +44,7 @@ The current raw source was assembled on 2026-04-21 from 23 top-level section exp
 - [[prices-and-production|Prices and Production and Other Works]] - related work in this corpus
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the [[power-and-market|Power and Market]] "Triangular Intervention: Price Control" section
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the [[power-and-market|Power and Market]] "Triangular Intervention: Price Control" section
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article that applies the [[power-and-market|Power and Market]] tripartite intervention typology to CBDCs
 
 - [[principles-of-economics-ammous|Principles of Economics]] - later Austrian textbook positioned for readers who need a concise Mises-Rothbard sequence

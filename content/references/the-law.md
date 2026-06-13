@@ -38,7 +38,7 @@ Because the essay is short, it does not cover as much terrain as [[murray-n-roth
 - [[libertarianism|Libertarianism]] - broader doctrine for which this essay is an accessible legal statement
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional article contrasting genuine law with political monopoly
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis applying Bastiat's legalized-plunder reading to rent controls
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis applying Bastiat's legalized-plunder reading to rent controls
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the natural-rights tradition behind Bastiat's principle that law defends pre-existing rights
 
 ## Sources

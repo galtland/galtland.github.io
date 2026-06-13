@@ -68,7 +68,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[state-power-and-intervention|State Power and Intervention]] - related concept
 - [[theory-and-history|Theory and History]] - related work in this corpus
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - related concept
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Mises's [[liberalism|Liberalism]] rent-ceiling and Vienna passages
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Mises's [[liberalism|Liberalism]] rent-ceiling and Vienna passages
 
 
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)

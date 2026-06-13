@@ -66,7 +66,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[crypto-anarchy|Crypto Anarchy]] - cypherpunk implementation thesis for voluntary exchange beyond coercive observation
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - protocol-design frame for reducing concentrated control over persons and property
 - [[smart-contracts|Smart Contracts]] - Szabo's protocol-embedded contract-performance concept
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis distinguishing the natural-rights and consequentialist defenses on a concrete intervention case
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis distinguishing the natural-rights and consequentialist defenses on a concrete intervention case
 
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source with property, violence, and civilization chapters
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin ownership

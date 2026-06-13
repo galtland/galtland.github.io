@@ -40,7 +40,7 @@ This book is the political-philosophy companion to [[socialism|Socialism]] (1922
 - [[socialism|Socialism]] - companion 1922 critique of the rival system
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's 1944 successor warning against the same drift Mises diagnoses
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the rent-ceiling and Vienna passages from this book
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the rent-ceiling and Vienna passages from this book
 - [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - focused author-on-topic article on the residential-rent-ceiling shortage passage from this book
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] - focused author-on-topic article on the Part I §5 "antiliberal policy is a policy of capital consumption" passage
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - Hayek's Road to Serfdom claim that the rule of law means government action is bound

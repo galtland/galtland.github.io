@@ -130,7 +130,7 @@ Last updated: 2026-06-09
 
 - 2026-05-27: Added 4 cypherpunk-canon reference articles: timothy-c-may, nick-szabo, satoshi-nakamoto, bitcoin-whitepaper. Updated See Also backlinks on softwar and the-theory-of-money-and-credit.
 
-- 2026-05-16: Added dedicated `power-and-market` reference, splitting Rothbard's 1970 *Power and Market* out of the combined MES + P&M aggregate; updated dual-link citations in `rothbard-on-price-controls` and the `argentina-rent-decontrol-2023` thesis to point at the new reference.
+- 2026-05-16: Added dedicated `power-and-market` reference, splitting Rothbard's 1970 *Power and Market* out of the combined MES + P&M aggregate; updated dual-link citations in `rothbard-on-price-controls` and the `2026-05-19-argentina-rent-decontrol-2023` thesis to point at the new reference.
 - 2026-05-12: Added Arendt, Schmitt, and Foucault work/author references; upgraded Solzhenitsyn and Tilly references to the new full-text coverage.
 - 2026-05-10: Added `war-making-and-state-making-as-organized-crime`, `eichmann-in-jerusalem`, `the-gulag-archipelago`, and `aleksandr-solzhenitsyn`; updated Arendt, Tilly, Origins, and Coercion/Capital references
 - 2026-05-10: Added `the-origins-of-totalitarianism` and `hannah-arendt`; cross-linked Arendt with Hayek, Nock, and state-critique articles

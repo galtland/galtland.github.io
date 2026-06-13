@@ -28,7 +28,7 @@ The Vienna instance is the worked example: rent-controlled units stay nominally 
 - [[state-power-and-intervention|State Power and Intervention]] — broader frame: intervention is a cumulative process, not a one-off technique
 - [[liberalism|Liberalism]] — full-text source
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference page
-- [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]] — thesis applying the Mises rent-ceiling claim to the Argentine case
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]] — thesis applying the Mises rent-ceiling claim to the Argentine case
 - [[economic-calculation-problem|Economic Calculation Problem]] - the Misesian argument that a socialist commonwealth without private ownership of the means of production cannot calculate
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 
