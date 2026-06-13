@@ -26,7 +26,7 @@ Francisco's first move is to ask "what is the root of money?" His answer is that
 
 > "Money is a tool of exchange, which can't exist unless there are goods produced and men able to produce them. Money is the material shape of the principle that men who wish to deal with one another must deal by trade and give value for value."
 >
-> — Francisco d’Anconia, in Ayn Rand, *Atlas Shrugged*
+> — Francisco d’Anconia, in [[ayn-rand|Ayn Rand]], [[atlas-shrugged|Atlas Shrugged]]
 
 Money, on this account, is "made possible only by the men who produce" — not the tool "of the moochers, who claim your product by tears, or of the looters, who take it from you by force." Behind production stands the mind: "man's mind is the root of all the goods produced and of all the wealth that has ever existed on earth." Wealth, he says, "is the product of man's capacity to think", so money earned in trade is a token of that productive effort — "your claim upon the energy of the men who produce" — rather than something extracted at others' expense.
 
@@ -36,7 +36,7 @@ The center of the speech is the **trader principle**: money formalizes voluntary
 
 > "To trade by means of money is the code of the men of good will. Money rests on the axiom that every man is the owner of his mind and his effort."
 >
-> — Francisco d’Anconia, in Ayn Rand, *Atlas Shrugged*
+> — Francisco d’Anconia, in [[ayn-rand|Ayn Rand]], [[atlas-shrugged|Atlas Shrugged]]
 
 Money "permits no deals except those to mutual benefit by the unforced judgment of the traders", and under it "the degree of a man's productiveness is the degree of his reward". This ties the speech directly to the Objectivist ethics of rational self-interest and to the wiki's [[nonaggression-and-property-rights|non-aggression / property-rights]] theme: the alternative to trade is force — their "only substitute, if they abandon money, is the muzzle of a gun". Francisco also insists money is "only a tool" — an *effect* and not a *cause* — that cannot supply values, purpose, or virtue to someone who lacks them: "Money is a living power that dies without its root."
 
@@ -46,7 +46,7 @@ The speech closes on a monetary-political warning that maps closely onto the wik
 
 > "Money is the barometer of a society's virtue."
 >
-> — Francisco d’Anconia, in Ayn Rand, *Atlas Shrugged*
+> — Francisco d’Anconia, in [[ayn-rand|Ayn Rand]], [[atlas-shrugged|Atlas Shrugged]]
 
 When trade is "done, not by consent, but by compulsion", and "money is flowing to those who deal, not in goods, but in favors", the society is "doomed". The mechanism is monetary debasement — "Whenever destroyers appear among men, they start by destroying money". He draws the gold-versus-paper contrast explicitly — "Gold was an objective value, an equivalent of wealth produced. Paper is a mortgage on wealth that does not exist, backed by a gun aimed at those who are expected to produce it" — and ends on the image of fiat as "a check drawn by legal looters upon an account which is not theirs", to be watched for "the day when it bounces, marked: 'Account overdrawn.'"
 

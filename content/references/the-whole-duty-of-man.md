@@ -22,7 +22,7 @@ Pufendorf's distinctive move is the *foundation* he chooses. Where the Scholasti
 
 > "this is a fundamental Law of Nature, That every man ought, as much as in him lies, to preserve and promote society."
 >
-> — Samuel Pufendorf, *The Whole Duty of Man According to the Law of Nature* (Tooke trans.)
+> — [[samuel-pufendorf|Samuel Pufendorf]], *The Whole Duty of Man According to the Law of Nature* (Tooke trans.)
 
 The duties men owe one another are deduced as means to that end: because each person needs the help of others and yet can also harm them, reason dictates that everyone be a useful and beneficial member of society, abstaining from injury, keeping faith, and treating others as natural equals. (Pufendorf is careful that the duties toward God and toward oneself rest on their own foundations and are not all derived from this one maxim.) This sociality principle is Pufendorf's lasting contribution: a natural law derived from man's social nature rather than from a contested metaphysics, which made it portable across the confessional divides that the wars of religion had opened (the same problem [[the-rights-of-war-and-peace|Grotius]] had addressed).
 

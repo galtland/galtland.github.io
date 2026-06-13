@@ -20,7 +20,7 @@ confidence: medium
 
 > "Nothing distinguishes more clearly a free country from a country under arbitrary government than the observance in the former of the great principles known as the Rule of Law. Stripped of technicalities this means that government in all its actions is bound by rules fixed and announced beforehand — rules that make it possible to foresee with fair certainty how the authority will use its coercive powers in given circumstances and to plan one's individual affairs on the basis of this knowledge. … Socialist economic planning necessarily involves the very opposite of this. The planning authority cannot tie itself down in advance to general rules which prevent arbitrariness."
 >
-> — F. A. Hayek, *The Road to Serfdom*
+> — [[friedrich-a-hayek|F. A. Hayek]], [[road-to-serfdom|The Road to Serfdom]]
 
 ## What the Argument Requires
 

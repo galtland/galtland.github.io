@@ -24,7 +24,7 @@ The complement to the central-planning critique is the explicit rule-of-law clai
 
 > "The Rule of Law, the absence of legal privileges of particular people designated by authority, is what safeguards that equality before the law which is the opposite of arbitrary government."
 >
-> — F. A. Hayek, *The Road to Serfdom*
+> — [[friedrich-a-hayek|F. A. Hayek]], [[road-to-serfdom|The Road to Serfdom]]
 
 The rule of law, on Hayek's reading, is the substantive content of "limited" government in his earlier passage: government acting through general, predictable rules cannot direct the economy in the comprehensive way the planner needs. When the planner needs discretion, the rule of law has to yield. The Road to Serfdom's full title is the diagnosis: comprehensive planning is not stably reconcilable with the rule of law, and the political form of the unstable equilibrium is administrative discretion replacing law — the substitution of central direction for what would otherwise be spontaneous, unguided activity.
 

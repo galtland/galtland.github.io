@@ -22,7 +22,7 @@ The first mechanism is on the demand side. Because a single vote almost never de
 
 > Voter ignorance is rational because the cost of gathering information about an upcoming election is high relative to the benefits of voting.
 >
-> — William F. Shughart II, "Public Choice" (Concise Encyclopedia of Economics).
+> — [[william-f-shughart-ii|William F. Shughart II]], “Public Choice” (Concise Encyclopedia of Economics).
 
 The same logic makes turnout itself a puzzle — Downs noted that, strictly, "the act of voting itself is irrational" — but the load-bearing point here is the ignorance: the careful, dispersed reasoning that a libertarian case requires is exactly the costly attention the voter has no private incentive to pay, which blunts persuasion as a path to liberty even when the case is correct.
 
@@ -32,7 +32,7 @@ The second mechanism is on the supply side, and it is the engine of policy captu
 
 > Small, homogeneous groups with strong communities of interest tend to be more effective suppliers of political pressure and political support (votes, campaign contributions, and the like) than larger groups whose interests are more diffuse.
 >
-> — William F. Shughart II, "Public Choice" (Concise Encyclopedia of Economics).
+> — [[william-f-shughart-ii|William F. Shughart II]], “Public Choice” (Concise Encyclopedia of Economics).
 
 Because the benefit of a subsidy or tariff is concentrated on a few who will fight for it, while its cost is spread thinly across millions who barely notice, legislation reliably caters to the minority at the majority's expense — the entry's own examples are farm subsidies paid for by unorganized food buyers and trade barriers paid for by clothing buyers. This is **concentrated benefits and dispersed costs**, the standing reason that intervention accretes and is hard to repeal.
 

@@ -32,7 +32,7 @@ From this Rothbard draws a concrete aim rather than mere disapproval:
 
 > The libertarian objective, then, should be, regardless of the specific causes of any conflict, to pressure States not to launch wars against other States and, should a war break out, to pressure them to sue for peace and negotiate a cease-fire and peace treaty as quickly as physically possible.
 >
-> — Murray Rothbard, “War, Peace, and the State”
+> — [[murray-n-rothbard|Murray Rothbard]], “War, Peace, and the State”
 
 Non-intervention is the standing default because intervention does not stay contained. [[rothbard-on-war-and-the-state|Rothbard on War and the State]] supplies the domestic consequence — war ratchets state power and leaves permanent burdens. The international counterpart is the **blowback** pattern — an intervention sold as security can harden the very threat it claimed to remove, becoming the danger it then charges to manage. That pattern is not Rothbard's argument here; it is developed separately in [[tilly-on-protection-rackets|Tilly on Protection Rackets]] and illustrated by [[stateless-somalia|Stateless Somalia]], and is linked here because non-intervention is the standing answer to it.
 

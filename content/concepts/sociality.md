@@ -22,7 +22,7 @@ Pufendorf's whole treatment of the duties men owe one another descends from a si
 
 > "every man ought, as much as in him lies, to preserve and promote society."
 >
-> — Samuel Pufendorf, *The Whole Duty of Man According to the Law of Nature* (Tooke trans.)
+> — [[samuel-pufendorf|Samuel Pufendorf]], [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]] (Tooke trans.)
 
 Two things make this load-bearing. First, Pufendorf labels it *fundamental*: every other interpersonal duty in Book I is derived from it as a consequence — the duties of natural equality, of not injuring, of keeping faith, of beneficence, of contract — so that an action necessary to the preservation of society is on that ground commanded, and one that would disturb or dissolve it is on that ground forbidden. Second, he glosses "society" immediately as the welfare of mankind, not as any particular state, tribe, or institution. The object of the duty is a distributed condition — peace and mutual benefit among individual persons — not a corporate body that could demand sacrifice in its own name.
 

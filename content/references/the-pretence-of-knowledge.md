@@ -32,7 +32,7 @@ The lecture's central warning is moral as much as epistemic:
 
 > "To act on the belief that we possess the knowledge and the power which enable us to shape the processes of society entirely to our liking, knowledge which in fact we do not possess, is likely to make us do much harm."
 >
-> — F. A. Hayek, “The Pretence of Knowledge” (Nobel lecture, 1974)
+> — [[friedrich-a-hayek|F. A. Hayek]], “The Pretence of Knowledge” (Nobel lecture, 1974)
 
 The pursuit of false precision, he says, is the road to "charlatanism and worse." In the physical sciences over-confidence may be harmless; in the social field the erroneous belief that some authority can engineer good outcomes leads to "a new power to coerce other men being conferred on some authority", and its exercise is "likely to impede the functioning of those spontaneous ordering forces" — above all the market as a communication system for dispersed information. This connects the lecture directly to [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] and to the [[economic-calculation-problem|Economic Calculation Problem]]: the conceit of control is also the engine of coercion.
 

@@ -22,7 +22,7 @@ Against Burke's defense of inherited authority and the "wisdom of ages," Paine g
 
 > "Natural rights are those which appertain to man in right of his existence. Of this kind are all the intellectual rights, or rights of the mind, and also all those rights of acting as an individual for his own comfort and happiness, which are not injurious to the natural rights of others."
 >
-> — Thomas Paine, *Rights of Man*
+> — [[thomas-paine|Thomas Paine]], *Rights of Man*
 
 From this base Paine builds his two signature claims:
 
