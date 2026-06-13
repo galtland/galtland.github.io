@@ -47,13 +47,13 @@ If caretaker incentives explain why officials want mega-events, public choice ex
 
 > Small, homogeneous groups with strong communities of interest tend to be more effective suppliers of political pressure and political support (votes, campaign contributions, and the like) than larger groups whose interests are more diffuse.
 >
-> — William F. Shughart II, "Public Choice"
+> — [[william-f-shughart-ii|William F. Shughart II]], “Public Choice”
 
 The bid committee, the contractors, the hospitality interests, the bond underwriters, and the officials seeking a national moment are exactly such a group. The taxpayers funding the gap are not — and they have no private incentive to become one:
 
 > Voter ignorance is rational because the cost of gathering information about an upcoming election is high relative to the benefits of voting.
 >
-> — William F. Shughart II, "Public Choice"
+> — [[william-f-shughart-ii|William F. Shughart II]], “Public Choice”
 
 This is the boondoggle's life support. The concentrated winners organize, lobby, and log-roll; the dispersed losers will not study a stadium-finance bond before it passes, and the costs are frequently exported to taxpayers in other districts who do not vote on the project at all. Reuters's "Instead of building the stadium, they could have built a hospital" is the dispersed majority's complaint stated *after* the fact — which is exactly the costly attention rational ignorance predicts they will not pay *before* it.
 

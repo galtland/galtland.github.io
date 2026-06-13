@@ -52,6 +52,7 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the exit strategy for the same problem
 - [[evolution-of-the-state|Evolution of the State]] - the regime-and-incentives layer of the state critique
 - [[libertarianism|Libertarianism]] - the doctrine whose adoption problem this diagnoses
+- [[william-f-shughart-ii|William F. Shughart II]] - the author of the encyclopedia entry this concept draws its rational-ignorance and collective-action results from
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink

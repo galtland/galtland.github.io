@@ -44,7 +44,7 @@ And where opinion could be contested, the ballot box is rigged by structure. [[p
 
 > "Voter ignorance is rational because the cost of gathering information about an upcoming election is high relative to the benefits of voting."
 >
-> — William F. Shughart II, "Public Choice" (Concise Encyclopedia of Economics)
+> — [[william-f-shughart-ii|William F. Shughart II]], “Public Choice” (Concise Encyclopedia of Economics)
 
 The supply-side reason is structural too: intervention accretes regardless of who wins, because small concentrated interests out-organize the diffuse public. Liberty is a systematically under-supplied good.
 
