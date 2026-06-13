@@ -36,7 +36,7 @@ The habit is reinforced from above, and this is where the reader's propaganda po
 
 > For the masses of men do not create their own ideas, or indeed think through these ideas independently; they follow passively the ideas adopted and disseminated by the body of intellectuals.
 >
-> — Murray Rothbard, *Anatomy of the State*
+> — Murray Rothbard, [[anatomy-of-the-state|Anatomy of the State]]
 
 With schools, mass media, and the prestige economy oriented toward the legitimacy of the "we," the reader is right that libertarian education starts several lengths behind — a point the corpus concedes rather than rebuts.
 
@@ -70,7 +70,7 @@ First, **withdrawal**. If domination rests on habitual cooperation, it dissolves
 
 > Resolve to serve no more, and you are at once freed.
 >
-> — Étienne de la Boétie, *The Discourse of Voluntary Servitude*
+> — Étienne de la Boétie, [[the-politics-of-obedience|The Discourse of Voluntary Servitude]]
 
 Necessary, but slow and reversible, and it presumes a critical mass willing to stop cooperating.
 
@@ -86,7 +86,7 @@ That is a contested argument, not a settled fact, and Hillebrand concedes the po
 
 > "Programmability is a design choice, not an inherent feature of digital currency. A CBDC could be designed to replicate cash's properties: anonymous, bearer-based, and free of spending restrictions."
 >
-> — Max Hillebrand, *The Praxeology of Privacy*
+> — Max Hillebrand, [[the-praxeology-of-privacy|The Praxeology of Privacy]]
 
 The issuers of the leading CBDC projects say theirs will be just that — cash-like, intermediated through private providers rather than direct central-bank accounts, and never programmed to restrict spending — and the critique's reply is not that they are lying but that each of these is a policy commitment, revocable by the same authority that made it, rather than a technical guarantee. The thesis does not need the strong version of the claim, and the CBDC dispute can be set aside entirely. Even granting every design promise, the uncontested trend is enough: exposed digital payment is increasingly cheap to observe, and AI sharpens the analysis of whatever is exposed. The whole counter then rests on one lever — the [[resistance-axiom|resistance axiom]]: the claim that **cryptography is the one asymmetry that does not scale with the adversary's size or intelligence.** A sound key is as unbreakable for a superpower with the best models as for anyone; AI analyzes data that is *exposed*, it does not break good cryptography. The strategy is therefore not to out-surveil the state — impossible, as the reader says — but to make activity *unobservable in the first place*, breaking the loop at observation. When observation becomes expensive enough, the entire attack cycle becomes uneconomical.
 
@@ -98,7 +98,7 @@ The reader's "economic apocalypse" intuition is half-right, and the corpus split
 
 > In war, State power is pushed to its ultimate, and, under the slogans of "defense" and "emergency," it can impose a tyranny upon the public such as might be openly resisted in time of peace.
 >
-> — Murray Rothbard, *Anatomy of the State*
+> — Murray Rothbard, [[anatomy-of-the-state|Anatomy of the State]]
 
 Arendt's [[mass-society-and-atomization|mass-society]] account agrees from the other side: crisis-driven atomization feeds mobilization, not freedom. The Depression produced the New Deal and fed the Nazis' rise to power; war breeds permanent state growth. The *emergency* kind of apocalypse tends to birth a worse Leviathan, not a freer order — which is the gamble the reader's intuition quietly runs.
 

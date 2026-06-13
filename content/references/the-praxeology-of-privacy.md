@@ -65,6 +65,8 @@ The book also rejects a simple "information is property" view. Its property-righ
 - [[ecash|Ecash and Chaumian Mints]] - the custodial-privacy layer (Cashu/Fedimint) from ch. 15
 - [[nostr|Nostr]] - the decentralized-identity/social layer from ch. 17
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - official Towards Liberty v0.2.0 public-domain text extracted from the EPUB
