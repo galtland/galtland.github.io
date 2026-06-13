@@ -1,19 +1,19 @@
 ---
-title: "Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis"
-volatility: hot
+title: "Somalia's 2006 Invasion, Child Soldiers, and the Twenty-Year Foreign Presence: Analysis"
+volatility: warm
 category: thesis
 type: thesis
 created: 2026-06-07
-updated: 2026-06-09
-verified: 2026-06-07
-tags: [thesis, somalia, foreign-intervention, child-soldiers, stateless-somalia, non-interventionism, protection-racket, war-and-the-state, political-means]
+updated: 2026-06-13
+verified: 2026-06-13
+tags: [thesis, somalia, foreign-intervention, child-soldiers, blowback, protection-racket, war-and-the-state, political-means]
 stance: contextualize
 verdict: contextualize
 confidence: high
-summary: "A BBC profile of Yusuf Ali shows how foreign-backed state-building in 2006 turned a fragile local order into a durable security emergency borne by civilians."
+summary: "A BBC profile of a former child soldier supplies a war-and-state case study — Tilly's racketeer test, Rothbard's war power and permanent ratchet, and Oppenheimer's conquest of an already-producing order — where the costs land on an unwilling schoolboy."
 ---
 
-# Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis
+# Somalia's 2006 Invasion, Child Soldiers, and the Twenty-Year Foreign Presence: Analysis
 
 > BBC News (published 2026-06-06) profiles Yusuf Ali, 34, a Mogadishu shopkeeper who was a child soldier in Somalia's war and still lives with the psychological scars.
 >
@@ -31,66 +31,81 @@ summary: "A BBC profile of Yusuf Ali shows how foreign-backed state-building in 
 > - On the lasting toll of child soldiering: "The long-term effects include chronic mental health conditions, social exclusion and stigma or increased risk of re-recruitment or involvement in violence."
 > - "The fighting is still ongoing, people are suffering and two decades later, more countries than ever before have troops deployed in Somalia."
 >
+> Source: https://www.bbc.com/news/articles/c98r7zxdxe7o
+>
 > — News post, 2026-06-07
 
-Yusuf Ali's story is not best read as proof that Somalia needed more foreign protection. It is evidence of how protection policy can become part of the danger it claims to manage. The BBC's sequence is stark: a local authority had brought a measure of stability after warlord rule; Washington recoded it as a security problem; Ethiopian troops, operating under American drone cover, toppled it; resistance coalesced; dense civilian neighborhoods were shelled; a secondary-school student heard surveillance overhead and then fought from windows and doorways; two decades later, the war remains and more countries than ever have troops in Somalia. The point is not that the Union of Islamic Courts was liberal, or that Somalia before 2006 was peaceful. The point is that an imperfect local order was destroyed in the name of security, and the result became a wider, longer, internationalized security apparatus.
+Read the report from its final line backward. Twenty years after a war launched to topple the Union of Islamic Courts, the fighting has not ended — "more countries than ever before have troops deployed in Somalia." A campaign sold as the removal of a danger has left, two decades on, troops from more countries in it than when it began, a country-wide insurgency grown from what the article can only call the courts' "military youth wing," and a shopkeeper who fired on troops "street by street" before he had finished secondary school. The pull is to read this as a morality play about one faction's purity and another's malice; the sharper reading is structural, and Charles Tilly named the structure first.
 
-[[stateless-somalia|Stateless Somalia]] supplies the Somalia-specific caution against the easy premise that any state-backed reconstruction beats local non-state order. Peter Leeson's 2007 comparison of Somalia before and after the Barre government's collapse found that:
+## The racketeer test
 
-> "on nearly all of 18 key indicators that allow pre- and post-stateless welfare comparisons, Somalis are better off under anarchy than they were under government."
+Charles Tilly's [[tilly-on-protection-rackets|Tilly on Protection Rackets]] turns on one dry definition, set down in [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]:
+
+> "consider the definition of a racketeer as someone who creates a threat and then charges for its reduction."
 >
-> — Peter Leeson, “Better Off Stateless” (2007)
+> — [[charles-tilly|Charles Tilly]], [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]
 
-That finding is conditional, not utopian. Leeson does not claim that post-1991 Somalia was prosperous, pacified, or a designed libertarian order. The claim is narrower: a sufficiently predatory state can reduce welfare below the level reached after its disappearance. That matters because the BBC's chronology does not describe foreign force entering a blank void. It describes foreign-backed state-building and counterterror policy entering a country where central political authority had already been a predatory and destabilizing institution, and where local forms of order had partially reemerged before 2006.
+The test that follows is the load-bearing part, and it is exacting: not whether an armed protector exists, nor whether the danger is real, but who authored it.
 
-[[non-interventionism|Non-Interventionism]] is the normative edge of that caution. [[murray-n-rothbard|Rothbard]]'s foreign-policy argument is not a general preference for passivity; it follows from the nonaggression rule applied to states that finance and wage war through coercion:
-
-> "All State wars, therefore, involve increased aggression against the State's own taxpayers"
+> "To the extent that the threats against which a given government protects its citizens are imaginary or are consequences of its own activities, the government has organized a protection racket."
 >
-> — Murray Rothbard, “War, Peace, and the State”
+> — Tilly, [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]
 
-That does not settle every empirical question about the UIC, al-Qaeda allegations, or Somali factional politics. It does set the burden of proof. An official "security" label cannot by itself justify crossing borders, imposing the costs of war on taxpayers, and making foreign civilians bear the risk of bombardment, displacement, and recruitment into combat. In [[franz-oppenheimer|Oppenheimer]]'s terms, [[political-means-and-economic-means|Political Means and Economic Means]] draws the same line sociologically:
+That Tilly is a historical sociologist and no libertarian — a point [[war-and-state-formation|War and State Formation]] is careful to keep in view — only sharpens the convergence: the racketeer clause is offered as plain description, and it describes the sequence the BBC lays out almost line for line. The Union of Islamic Courts had "brought a measure of stability after years of warlord rule." Its youth wing, al-Shabab, existed — but as a wing, not the country-wide insurgency the world would later name. Then, "to topple the courts just six months after they had taken over," thousands of Ethiopian troops invaded under American drones, and in the war that followed "al-Shabab and allied groups (the Muqawama, 'Resistance') united to fight it." The entrenched armed movement that now justifies a standing foreign deployment is, on the report's own chronology, in large part a consequence of the intervention meant to remove it. Tilly's clause does not require the threat to be fictional, only that it be the protector's own product — and by that measure the permanent presence has the structure of the racket: it charges for reducing a danger its first act helped call into being.
 
-> "The state is an organization of the political means."
+## War power and its permanent legacy
+
+If the racketeer test explains the shape of the thing, [[rothbard-on-war-and-the-state|Rothbard on War and the State]] explains its force and its persistence. In [[anatomy-of-the-state|Anatomy of the State]], Murray Rothbard sets the first marker plainly:
+
+> "In war, State power is pushed to its ultimate"
 >
-> — Franz Oppenheimer, *The State*
+> — [[murray-n-rothbard|Murray Rothbard]], [[anatomy-of-the-state|Anatomy of the State]]
 
-An invasion is the political means in its most literal form. It does not persuade a local settlement into a better one; it overrides it by force and assigns the costs to people who did not choose the exchange.
+War is the condition under which the slogans of defense and emergency override the resistance that extraordinary coercion would otherwise meet. A drone overhead, an allied invasion, shelling in dense neighbourhoods, and a schoolboy firing from a doorway are not footnotes to a policy debate; they are the form the emergency takes when it reaches ordinary people. When Yusuf Ali recalls the "buzzing sound" he was too young to place — "these were planes surveilling our neighbourhood" — and then the street fighting he entered as a schoolboy — "Street by street, from windows and doorways, we were firing on Ethiopian soldiers and the Somali soldiers with them" — he is describing war power at its ultimate as it is actually lived, from underneath.
 
-[[tilly-on-protection-rackets|Tilly on Protection Rackets]] gives the causal test for the protection claim. [[charles-tilly|Tilly]] defines the racketeer as:
+And that power does not recede to its prewar level once the emergency is declared over. Rothbard's historical claim is flat:
 
-> "someone who creates a threat and then charges for its reduction."
+> "indeed every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society."
 >
-> — Charles Tilly, “War Making and State Making as Organized Crime”
+> — Rothbard, [[anatomy-of-the-state|Anatomy of the State]]
 
-Applied carefully, that does not mean al-Shabab was invented from nothing. The BBC says it already existed as the courts' youth wing. The stronger claim is causal transformation: the 2006 invasion helped turn the movement and allied resistance into the central insurgent field that later interventions would cite as their reason for staying. A protector need not fabricate every danger to fit Tilly's test. It is enough that its own action helps produce the form, scale, or permanence of the danger it then treats as a reason for more protection.
+The mechanism is a ratchet: the bases, deployments, command structures, and the procurement and patronage chains that feed them outlive the emergency that raised them, and the new floor becomes the next baseline. "Two decades later, more countries than ever before have troops deployed in Somalia" is the ratchet stated as the breadth of foreign deployment. The war did not end so much as harden into a standing apparatus that each year's danger renews. This is what modern war reliably leaves behind, on Rothbard's account, regardless of any general's intent — which is why the honest thing to offer is the frame and not a forecast: the pattern is what the war-and-state reading predicts of modern war, and the report supplies the conditions in which it appears.
 
-[[rothbard-on-war-and-the-state|Rothbard on War and the State]] explains why that apparatus does not naturally retire once the initial justification has passed. Rothbard's institutional claim is that:
+## Whose order, and who pays
 
-> "every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society."
+There is a prior question the racket and the ratchet both skip: a danger to whom, and laid over what? Franz Oppenheimer's [[oppenheimer-on-conquest|Oppenheimer on Conquest and the Political Means]] supplies the missing layer. Conquest, on his account, never founds an order; it is parasitic on one already there to be seized. In [[oppenheimer-the-state|The State]] he puts it as a precondition:
+
+> "No state ... can come into being until the economic means has created a definite number of objects for the satisfaction of needs, which objects may be taken away or appropriated by warlike robbery."
 >
-> — Murray Rothbard, *Anatomy of the State*
+> — [[franz-oppenheimer|Franz Oppenheimer]], [[oppenheimer-the-state|The State]]
 
-In Somalia, the legacy appears not only as domestic burden inside any one state, but as an expanding international troop roster, intelligence relationships, proxy forces, logistics, aid channels, commands, and security mandates. The emergency becomes administration. The administration then treats the continuing emergency as evidence of its own necessity.
+The phrase "a measure of stability after years of warlord rule" is the economic means doing its quiet work — trade, repair, the resumption of ordinary exchange in a city that had been torn apart. The invasion is the [[political-means-and-economic-means|political means]] poured over that re-forming order: forcible appropriation in place of production, with the predictable result that "heavy shelling hit densely populated civilian neighbourhoods" and "teenagers like Ali were drawn into the fighting."
 
-The BBC profile prevents that argument from floating above the people who pay its price. Ali's remembered buzzing overhead is not decorative human-interest detail; it is surveillance entering the life of a schoolboy before policy becomes street fighting. His later combat is the point at which a geopolitical classification becomes a civilian battlefield. The reported long-term toll of child soldiering then names the deferred cost: chronic mental health injury, stigma, social exclusion, and risk of renewed recruitment or violence.
+What conquest seizes, it must then keep drawing. In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], Tilly describes the standing apparatus as one that lives by
 
-The limits should remain visible. [[war-and-state-formation|War and State Formation]] treats Tilly's account as historical sociology, not a one-to-one formula for every intervention. [[stateless-somalia|Stateless Somalia]] is likewise a conditional empirical case, not a claim that every stateless setting is preferable to every state. Nothing here sanitizes the UIC or denies that real security threats can exist. The narrower claim is enough: when foreign states destroy a local order under a security rationale, harden the resistance that follows, and then cite the continuing war as the premise for an expanding troop presence, the protection claim must be judged by its causal record. On the facts reported, the 2006 intervention did not end Somalia's emergency. It helped create the form in which the emergency could reproduce.
+> "drawing from its subject population the means of statemaking, warmaking, and protection."
+>
+> — Tilly, [[coercion-capital-and-european-states|Coercion, Capital, and European States]]
+
+Somalia is not a European state-formation case, and the chronology should not be forced into that history; the transfer here is the mechanism, not the period. The means of warmaking are drawn from whatever population happens to be present to be drawn upon — and in this war that population included its children. Ali, pulled into the fighting as a schoolboy, is what that extraction looks like at the scale of a single life; the "chronic mental health conditions, social exclusion and stigma" the report lists as the long-term toll of child soldiering are its residue. His trauma is not an externality to be regretted once the real business of security is settled. It is evidence about the means themselves.
+
+## Where the frame stops
+
+The reading should be held to its limits. Nothing in it requires treating the Union of Islamic Courts as liberal, denying that genuine security threats can exist, or pretending the prior warlord order was peaceful — the report itself opens with Somalia's collapse "into clan warfare" after 1991. The blowback claim is bounded by the same facts that ground it: al-Shabab pre-existed the invasion as a youth wing, so the honest statement is that the war united and entrenched an armed resistance, not that it conjured one from nothing. And the stance here is contextualize precisely because the BBC profile advances none of this — it is reportage; the racket, the ratchet, and the conquest are the frame brought to read it. The argument is only that an intervention must be judged by the coercive sequence it sets in motion rather than the intention assigned to it at the outset. On the facts reported, that sequence did not end an emergency. It widened and prolonged the field in which emergency powers, foreign troops, armed resistance, and child recruitment reproduce one another — and left a man who listened to aircraft at night as a schoolboy, fought street by street, and still carries it, long after the stated purpose had become another layer of an unended war.
 
 ## See Also
 
-- [[stateless-somalia|Stateless Somalia]] — the Somalia-specific empirical counter to the assumption that any state beats no state
-- [[non-interventionism|Non-Interventionism]] — Rothbard's foreign-policy stance against inter-state war
-- [[tilly-on-protection-rackets|Tilly on Protection Rackets]] — the threat-creation test for protection claims
-- [[rothbard-on-war-and-the-state|Rothbard on War and the State]] — the war ratchet and permanent state burdens
-- [[political-means-and-economic-means|Political Means and Economic Means]] — Oppenheimer's distinction between production and coercive appropriation
-- [[war-and-state-formation|War and State Formation]] — the scope and limits of the Tilly frame
+- [[tilly-on-protection-rackets|Tilly on Protection Rackets]] — the racketeer-creates-the-threat definition and its "consequences of its own activities" clause
+- [[rothbard-on-war-and-the-state|Rothbard on War and the State]] — war power pushed to its ultimate and the permanent-burden ratchet
+- [[oppenheimer-on-conquest|Oppenheimer on Conquest and the Political Means]] — conquest as the seizure of an already-producing order
+- [[political-means-and-economic-means|Political Means and Economic Means]] — production versus coercive appropriation beneath the conquest reading
+- [[war-and-state-formation|War and State Formation]] — Tilly's broader frame and the scope qualification on lifting it
+- [[state-power-and-intervention|State Power and Intervention]] — the synthesis page these threads feed
 
 ## Sources
 
-- [BBC Profiles Yusuf Ali, a Mogadishu Shopkeeper Who Was a Child Soldier in Somalia's War](/news/2026-06-07-bbc-news-published-2026-06-06-profiles-yusuf-ali-34-a-mogadishu-shopkeeper-who-was-a-child-soldier-in-somalia-s-war) — news post analyzed here
-- [Better Off Stateless: Somalia Before and After Government Collapse](https://www.peterleeson.com/Better_Off_Stateless.pdf) — source for Leeson's Somalia welfare comparison
-- [War, Peace, and the State](https://mises.org/library/war-peace-and-state) — source for Rothbard's non-interventionist foreign-policy argument
-- [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) — source for Tilly's protection-racket definition
-- [Anatomy of the State (Full Text)](https://mises.org/online-book/anatomy-state) — source for Rothbard on war and durable state burdens
-- [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) — source for Oppenheimer's political-means definition
+- [BBC Profiles Yusuf Ali, a Mogadishu Shopkeeper Who Was a Child Soldier in Somalia's War](/news/2026-06-07-bbc-news-published-2026-06-06-profiles-yusuf-ali-34-a-mogadishu-shopkeeper-who-was-a-child-soldier-in-somalia-s-war) — the verbatim news post under analysis
+- [Anatomy of the State (Full Text)](https://mises.org/online-book/anatomy-state) — Rothbard on war power, emergency, and the permanent legacy of state burdens
+- [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) — Tilly's racketeer definition and organized-crime analogy
+- [Coercion, Capital, and European States, AD 990–1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) — Tilly's account of extraction from the subject population
+- [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) — Oppenheimer on conquest, the political means, and the order it appropriates

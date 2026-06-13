@@ -165,6 +165,8 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - the incentives account of why intervention accretes
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+
+- [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Invasion, Child Soldiers, and the Twenty-Year Foreign Presence: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - concise anti-state statement
