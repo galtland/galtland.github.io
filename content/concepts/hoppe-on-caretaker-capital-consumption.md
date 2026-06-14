@@ -15,7 +15,7 @@ short: "Hoppe's claim in *Democracy: The God That Failed* that a democratic gove
 
 > "A democratic ruler can use the government apparatus to his personal advantage, but he does not own it. He cannot sell government resources and privately pocket the receipts from such sales, nor can he pass government possessions on to his personal heir. He owns the current use of government resources, but not their capital value. In distinct contrast to a king, a president will want to maximize not total government wealth (capital values and current income) but current income (regardless and at the expense of capital values)."
 >
-> — Hans-Hermann Hoppe, [[democracy-the-god-that-failed|Democracy: The God That Failed]], Ch. 1.
+> — [[hans-hermann-hoppe|Hans-Hermann Hoppe]], [[democracy-the-god-that-failed|Democracy: The God That Failed]], Ch. 1.
 
 Hoppe's argument rests on a structural asymmetry between two property regimes for the state apparatus, not on the personal virtue of any officeholder. A king (private owner) bears both upside and downside of his rule in the capitalized value of the estate he can sell or bequeath. A president (temporary caretaker) bears only the upside of present extraction — anything he leaves on the table when his term ends accrues to a successor, not to him or his heirs. The first-order prediction follows directly: caretakers prefer current revenue to capital preservation; owners prefer the reverse. Hoppe states the corollary categorically:
 

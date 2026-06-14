@@ -15,7 +15,7 @@ short: "Mises's *Liberalism* Part I §5 claim that 'antiliberal policy is a poli
 
 > "Antiliberal policy is a policy of capital consumption. It recommends that the present be more abundantly provided for at the expense of the future."
 >
-> — Ludwig von Mises, [[liberalism|Liberalism]], Part I §5.
+> — [[ludwig-von-mises|Ludwig von Mises]], [[liberalism|Liberalism]], Part I §5.
 
 Mises is identifying a policy class, not a single instrument. The class includes the spending side as well as the tax side; what unifies it is the structural direction of the resource flow — from accumulated capital and future production toward present consumption and current transfer. In Mises's terms, the antiliberal demagogue offers "a relatively abundant momentary gratification" against "a relatively grievous disadvantage in the future," and represents the latter as hard-heartedness when it is in fact arithmetic.
 

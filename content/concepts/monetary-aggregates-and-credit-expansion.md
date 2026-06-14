@@ -40,7 +40,7 @@ Households moving cash from currency holdings into small CDs re-shuffles M2's co
 
 > But if we concede the inclusion of time deposits in the money supply, even broader vistas are opened to view. For then all claims convertible into cash on demand constitute a part of the money supply, and swell the money supply whenever cash reserves are less than 100 percent.
 >
-> — Rothbard, [[americas-great-depression|America's Great Depression]], Ch. 4
+> — [[murray-n-rothbard|Rothbard]], [[americas-great-depression|America's Great Depression]], Ch. 4
 
 [[joseph-t-salerno|Joseph T. Salerno]] later refined this in [[the-true-money-supply-salerno-1987|"The 'True' Money Supply"]] as the **True Money Supply (TMS)**. Per Salerno's own component-by-component specification, TMS comprises:
 

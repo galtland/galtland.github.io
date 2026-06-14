@@ -15,7 +15,7 @@ short: "Mises's claim that credit expansion drops the gross market rate of inter
 
 > "But now the drop in interest rates falsifies the businessman's calculation. Although the amount of capital goods available did not increase, the calculation employs figures which would be utilizable only if such an increase had taken place. The result of such calculations is therefore misleading. They make some projects appear profitable and realizable which a correct calculation, based on an interest rate not manipulated by credit expansion, would have shown as unrealizable."
 >
-> — Mises, [[human-action|Human Action]], Ch. XX "Interest, Credit Expansion, and the Trade Cycle," Scholar's Edition pp. 550–551.
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]], Ch. XX "Interest, Credit Expansion, and the Trade Cycle," Scholar's Edition pp. 550–551.
 
 Mises's mechanism is precise. Credit expansion is not a generic monetary stimulus; it is the issuance of additional fiduciary media offered on the loan market, which pushes the gross market rate of interest below the level at which voluntary saving and time preference would equilibrate it. "Credit expansion is present only if credit is granted by the issue of an additional amount of fiduciary media," he writes in [[human-action|Human Action]] Ch. XVII §11 (Scholar's Edition p. 431) — distinguishing it from the harmless re-lending of previously issued fiduciary media that old debtors have paid back.
 

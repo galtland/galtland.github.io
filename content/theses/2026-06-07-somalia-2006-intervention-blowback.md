@@ -49,7 +49,7 @@ The test that follows is the load-bearing part, and it is exacting: not whether 
 
 > "To the extent that the threats against which a given government protects its citizens are imaginary or are consequences of its own activities, the government has organized a protection racket."
 >
-> — Tilly, [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]
+> — [[charles-tilly|Tilly]], [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]
 
 That Tilly is a historical sociologist and no libertarian — a point [[war-and-state-formation|War and State Formation]] is careful to keep in view — only sharpens the convergence: the racketeer clause is offered as plain description, and it describes the sequence the BBC lays out almost line for line. The Union of Islamic Courts had "brought a measure of stability after years of warlord rule." Its youth wing, al-Shabab, existed — but as a wing, not the country-wide insurgency the world would later name. Then, "to topple the courts just six months after they had taken over," thousands of Ethiopian troops invaded under American drones, and in the war that followed "al-Shabab and allied groups (the Muqawama, 'Resistance') united to fight it." The entrenched armed movement that now justifies a standing foreign deployment is, on the report's own chronology, in large part a consequence of the intervention meant to remove it. Tilly's clause does not require the threat to be fictional, only that it be the protector's own product — and by that measure the permanent presence has the structure of the racket: it charges for reducing a danger its first act helped call into being.
 
@@ -67,7 +67,7 @@ And that power does not recede to its prewar level once the emergency is declare
 
 > "indeed every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society."
 >
-> — Rothbard, [[anatomy-of-the-state|Anatomy of the State]]
+> — [[murray-n-rothbard|Rothbard]], [[anatomy-of-the-state|Anatomy of the State]]
 
 The mechanism is a ratchet: the bases, deployments, command structures, and the procurement and patronage chains that feed them outlive the emergency that raised them, and the new floor becomes the next baseline. "Two decades later, more countries than ever before have troops deployed in Somalia" is the ratchet stated as the breadth of foreign deployment. The war did not end so much as harden into a standing apparatus that each year's danger renews. This is what modern war reliably leaves behind, on Rothbard's account, regardless of any general's intent — which is why the honest thing to offer is the frame and not a forecast: the pattern is what the war-and-state reading predicts of modern war, and the report supplies the conditions in which it appears.
 
@@ -85,7 +85,7 @@ What conquest seizes, it must then keep drawing. In [[coercion-capital-and-europ
 
 > "drawing from its subject population the means of statemaking, warmaking, and protection."
 >
-> — Tilly, [[coercion-capital-and-european-states|Coercion, Capital, and European States]]
+> — [[charles-tilly|Tilly]], [[coercion-capital-and-european-states|Coercion, Capital, and European States]]
 
 Somalia is not a European state-formation case, and the chronology should not be forced into that history; the transfer here is the mechanism, not the period. The means of warmaking are drawn from whatever population happens to be present to be drawn upon — and in this war that population included its children. Ali, pulled into the fighting as a schoolboy, is what that extraction looks like at the scale of a single life; the "chronic mental health conditions, social exclusion and stigma" the report lists as the long-term toll of child soldiering are its residue. His trauma is not an externality to be regretted once the real business of security is settled. It is evidence about the means themselves.
 

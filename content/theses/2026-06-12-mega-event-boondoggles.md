@@ -29,7 +29,7 @@ Why would an official reach for an instrument that rarely pays? Because the gain
 
 > In distinct contrast, the caretaker of a publicly owned government will try to maximize not total government wealth (capital values and current income) but current income (regardless, and at the expense, of capital values).
 >
-> — Hans-Hermann Hoppe, [[democracy-the-god-that-failed|Democracy: The God That Failed]]
+> — [[hans-hermann-hoppe|Hans-Hermann Hoppe]], [[democracy-the-god-that-failed|Democracy: The God That Failed]]
 
 A mega-event is the caretaker's ideal instrument. The opening ceremony, the global broadcast, the construction surge, and the ribbon-cutting all land inside a political term; the maintenance bill, the bond service, and the depreciating concrete arrive after it. The official harvests the current income — prestige, patronage, the photograph — and books none of the capital value he draws down, because he never owned it and could not sell it if he tried. Hoppe states the corollary categorically: "it must be regarded as unavoidable that public government ownership will result in continual capital consumption." The white elephant, on this reading, is not a planning accident outside the model; it is what the project looks like once the coalition has collected the dated, photographed gains and left the amortized, revisable costs to a successor.
 
@@ -37,7 +37,7 @@ A mega-event is the caretaker's ideal instrument. The opening ceremony, the glob
 
 > Antiliberal policy is a policy of capital consumption. It recommends that the present be more abundantly provided for at the expense of the future.
 >
-> — Ludwig von Mises, [[liberalism|Liberalism]], Introduction §4 ("The Aim of Liberalism")
+> — [[ludwig-von-mises|Ludwig von Mises]], [[liberalism|Liberalism]], Introduction §4 ("The Aim of Liberalism")
 
 What Reuters reports as a stadium that "rarely pays off," Mises would file under a direction of resource flow — from accumulated capital toward present gratification. The "rarely" is structural: it is the output of a policy class whose whole tilt is present-over-future, married to a property structure that rewards precisely that tilt.
 

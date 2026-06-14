@@ -36,7 +36,7 @@ The point is marginal, not total. The claim is not that every owner withdraws ev
 
 > At any rate, their price ceilings do not abolish the catallactic phenomenon of the urban rent. They merely transfer the rent from the landlord's income into the tenant's income. ... The rent restriction creates a housing shortage. It increases demand without increasing supply.
 >
-> — Mises, [[human-action|Human Action]]
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]]
 
 That transfer matters during repeal. Tenants protected by the ceiling lose an implicit legal claim on the suppressed rent. Owners regain the margin to list, maintain, convert back, or build. The reported real-rent fall is therefore not paradoxical. A nominally tenant-protective ceiling can reduce the supply tenants may lawfully bid for; decontrol can raise the legal offer stock enough for real rents to fall.
 

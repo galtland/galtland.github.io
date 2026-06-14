@@ -46,7 +46,7 @@ ABCT is not a claim about the direction of any single decision; it is a claim ab
 
 > But now the drop in interest rates falsifies the businessman's calculation. … They make some projects appear profitable and realizable which a correct calculation, based on an interest rate not manipulated by credit expansion, would have shown as unrealizable.
 >
-> — Mises, [[human-action|Human Action]], Ch. XX
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]], Ch. XX
 
 Rothbard draws the institutional edge in [[americas-great-depression|America's Great Depression]]:
 

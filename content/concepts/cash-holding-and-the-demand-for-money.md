@@ -19,7 +19,7 @@ Mises is explicit that the demand side cannot be reasoned away:
 
 > it is a delusion to assume that an analysis of these motives could provide us with a theory of the determination of purchasing power which could do without the notions of cash holding and demand for and supply of money.
 >
-> — Mises, [[human-action|Human Action]], Ch. XVII
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]], Ch. XVII
 
 ## The two sides of the money relation
 
@@ -42,7 +42,7 @@ A subtle accounting point: aggregate demand for money in the broader sense is *n
 
 > A community's demand for money in the broader sense is the sum of the demands of the individual economic agents for money proper and fiduciary media (including the demand for cover).
 >
-> — Mises, [[the-theory-of-money-and-credit|The Theory of Money and Credit]], Ch. XII
+> — [[ludwig-von-mises|Mises]], [[the-theory-of-money-and-credit|The Theory of Money and Credit]], Ch. XII
 
 The demand for money is the aggregate demand for the *broader* category — people are willing to hold bank notes or deposits in place of coin if they accept them as money. This is what makes a fractional-reserve banking system's expansion of fiduciary media inflation-relevant: each new uncovered claim adds to broader-sense supply, and the objective exchange-value of money falls (purchasing power down, prices up) *unless* broader-sense demand rises to absorb the increase.
 

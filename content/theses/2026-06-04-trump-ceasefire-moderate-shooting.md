@@ -32,7 +32,7 @@ Calling a ceasefire "shooting in a more moderate manner" does not merely loosen 
 
 > In war, State power is pushed to its ultimate, and, under the slogans of “defense” and “emergency,” it can impose a tyranny upon the public such as might be openly resisted in time of peace. War thus provides many benefits to a State, and indeed every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society.
 >
-> — Murray N. Rothbard, [[anatomy-of-the-state|Anatomy of the State]].
+> — [[murray-n-rothbard|Murray N. Rothbard]], [[anatomy-of-the-state|Anatomy of the State]].
 
 The rest of the mechanism matters: "defense" and "emergency" make burdens tolerable that would meet sharper resistance in peacetime, and those burdens do not automatically retire when the immediate crisis cools. A public told that a ceasefire means no firing has grounds to ask why wartime permissions continue. A public told that a ceasefire means more moderate firing is being trained to treat the emergency as a lower tempo, not a closed category.
 
@@ -44,7 +44,7 @@ CBS's "exchange of fire" phrasing describes reciprocity. Central Command's repor
 
 > But consider the definition of a racketeer as someone who creates a threat and then charges for its reduction.
 >
-> — Charles Tilly, [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]].
+> — [[charles-tilly|Charles Tilly]], [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]].
 
 The news does not require adjudicating every battlefield claim to make the mechanism visible. It reports U.S. strikes described as "self-defense" and an Iranian attack described by Iran as "retaliatory." The danger being moderated is therefore not presented as an external accident wholly outside state action. It is at least partly produced by the same interstate coercive sequence that then presents reduced violence as protection.
 
@@ -56,7 +56,7 @@ That does not make Tilly a libertarian theorist. [[war-and-state-formation|War a
 
 > The state is an organization of the political means.
 >
-> — Franz Oppenheimer, [[oppenheimer-the-state|The State]].
+> — [[franz-oppenheimer|Franz Oppenheimer]], [[oppenheimer-the-state|The State]].
 
 Moderated firing remains organized force. The bases, weapons, logistics, debt, taxes, command structures, and diplomatic commitments behind it are not voluntary exchanges among the people exposed to the consequences. They are components of a coercive apparatus operating under claims of public protection.
 

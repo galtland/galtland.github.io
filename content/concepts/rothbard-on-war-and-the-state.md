@@ -16,7 +16,7 @@ short: "Rothbard's claim in *Anatomy of the State* that war pushes state power t
 
 > "In war, State power is pushed to its ultimate, and, under the slogans of 'defense' and 'emergency,' it can impose a tyranny upon the public such as might be openly resisted in time of peace. War thus provides many benefits to a State, and indeed every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society."
 >
-> — Murray N. Rothbard, [[anatomy-of-the-state|Anatomy of the State]] (1974), "What the State Fears."
+> — [[murray-n-rothbard|Murray N. Rothbard]], [[anatomy-of-the-state|Anatomy of the State]] (1974), "What the State Fears."
 
 ## The Permanent-Burden Claim
 

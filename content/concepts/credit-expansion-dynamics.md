@@ -23,7 +23,7 @@ Fiduciary media — bank-issued money-substitutes not covered by money proper (s
 
 > If they demand less than the natural rate of interest - and they must do this if they wish to do any business at all with the new issue of fiduciary media; it must not be forgotten that they are offering an additional supply of credit to the market - then these requests will increase.
 >
-> — Mises, [[the-theory-of-money-and-credit|The Theory of Money and Credit]], Part III, Ch. XX
+> — [[ludwig-von-mises|Mises]], [[the-theory-of-money-and-credit|The Theory of Money and Credit]], Part III, Ch. XX
 
 The same passage names the banking-channel power: a bank of issue's interest-rate setting *is* the credit policy, and the demand for its credit fluctuates only with that policy. The lever is real, internal, and asymmetric — though Mises is also clear that a single bank acting alone is constrained by competing banks and depositor confidence; the strong system-wide rate-suppression claim depends on parallel issue across the banking system.
 
@@ -43,13 +43,13 @@ Mises addresses the per-loan side of this directly in [[the-theory-of-money-and-
 
 > When the loans granted by the bank through the issue of fiduciary media fall due for repayment, then it is true that a corresponding sum of fiduciary media returns to the bank, and the quantity in circulation is diminished. But fresh loans are issued by the bank at the same time and new fiduciary media flow into circulation.
 >
-> — Mises, [[the-theory-of-money-and-credit|The Theory of Money and Credit]], Part III, Ch. XX
+> — [[ludwig-von-mises|Mises]], [[the-theory-of-money-and-credit|The Theory of Money and Credit]], Part III, Ch. XX
 
 Then in [[human-action|Human Action]] Ch. XVII §11 he sharpens the definition of what counts as credit expansion:
 
 > Credit expansion is present only if credit is granted by the issue of an additional amount of fiduciary media, not if banks lend anew fiduciary media paid back to them by the old debtors.
 >
-> — Mises, [[human-action|Human Action]], Ch. XVII §11
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]], Ch. XVII §11
 
 That distinction — *additional* fiduciary media vs. *re-lending of paid-back* fiduciary media — is what governs the answer. The layered points:
 

@@ -17,7 +17,7 @@ short: "Rothbardian normative position that demand deposits and bank-issued note
 
 > The process of issuing pseudo warehouse receipts or, more exactly, the process of issuing money beyond any increase in the stock of specie, may be called inflation.
 >
-> — Rothbard, [[man-economy-and-state|Man, Economy, and State]], Ch. 12 §A
+> — [[murray-n-rothbard|Rothbard]], [[man-economy-and-state|Man, Economy, and State]], Ch. 12 §A
 
 ## The property-rights argument
 
@@ -37,7 +37,7 @@ Rothbard reinforces the link as a definitional matter:
 
 > "Inflation" is here defined as an increase in the money supply not consisting of an increase in the money metal.
 >
-> — Rothbard, [[americas-great-depression|America's Great Depression]], Ch. 1 (footnote in the cycle-theory chapter)
+> — [[murray-n-rothbard|Rothbard]], [[americas-great-depression|America's Great Depression]], Ch. 1 (footnote in the cycle-theory chapter)
 
 A 100%-reserve regime makes *this kind* of inflation impossible by construction: every additional money-substitute corresponds to additional specie. Compare with the Mises framing in [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]]: Mises's strict definition tests whether the broader money supply outran demand, while Rothbard's tests whether new claims have specie cover. In a 100%-reserve world the two definitions agree on every *banking-issued* event (no fiduciary media → no event for either test to flag). They can still diverge on non-banking events: a fresh gold strike that swells specie holdings is not inflation by Rothbard's definition (the money-metal grew) but is inflation by Mises's *unless* demand for money happened to rise in step. In a fractional-reserve world Rothbard's definition flags more events than Mises's does, because Rothbard's offset is specie cover while Mises's offset is money demand.
 

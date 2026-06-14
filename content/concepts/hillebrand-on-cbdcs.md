@@ -16,7 +16,7 @@ confidence: medium
 
 > "Central Bank Digital Currencies combine all three intervention types into a unified control mechanism. CBDCs are programmable money enabling comprehensive surveillance and control, not simple digital versions of existing currency."
 >
-> — Max Hillebrand, [[the-praxeology-of-privacy|The Praxeology of Privacy]] Ch. 10 §10.5 "Central Bank Digital Currencies as Total Intervention"
+> — [[max-hillebrand|Max Hillebrand]], [[the-praxeology-of-privacy|The Praxeology of Privacy]] Ch. 10 §10.5 "Central Bank Digital Currencies as Total Intervention"
 
 Hillebrand's chapter maps the CBDC architecture onto [[murray-n-rothbard|Rothbard]]'s [[power-and-market|Power and Market]] trichotomy. *Autistic intervention* is embedded in the medium itself — "CBDC rules can prohibit transactions directly through what amounts to autistic intervention embedded in the monetary infrastructure. The currency itself refuses to execute disfavored payments." *Binary intervention* becomes free at point of use because the central bank is the counterparty to every balance: "the state extracts transaction data directly, and every economic act is reported instantly to the monetary authority." *Triangular intervention* is preserved as the merchant-facing leg — the medium compels third parties to verify customer compliance before transacting. The three types collapse into one stack.
 

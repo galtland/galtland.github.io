@@ -16,7 +16,7 @@ short: "Tilly's 1985 claim that war making and state making are quintessential p
 
 > "If protection rackets represent organised crime at its smoothest, then war making and state making — quintessential protection rackets with the advantage of legitimacy — qualify as our largest examples of organised crime."
 >
-> — Charles Tilly, [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] (1985), pp. 169–170.
+> — [[charles-tilly|Charles Tilly]], [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] (1985), pp. 169–170.
 
 ## The Racketeer Definition
 

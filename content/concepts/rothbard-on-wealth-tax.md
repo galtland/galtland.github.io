@@ -15,7 +15,7 @@ short: "Rothbard's *Power and Market* Ch. 4 §C treatment of a tax on individual
 
 > "A tax on individual wealth could not be capitalized, since the tax would not be attached to a property, where it could be discounted by the market. Like an individual income tax, it could not be *shifted*, although it would have important *effects*. Since the tax would be paid out of regular income, it would have the effect of an income tax in reducing private funds and penalizing savings-investment; but it would also have the *further* effect of taxing accumulated capital. … It is clear that the wealth tax levies a heavy penalty on accumulated wealth and that therefore the effect of the tax will be to slash accumulated capital. No quicker route could be found to promote capital consumption and general impoverishment than to penalize the accumulation of capital."
 >
-> — Murray N. Rothbard, [[power-and-market|Power and Market]], Ch. 4 §C "A Tax on Individual Wealth".
+> — [[murray-n-rothbard|Murray N. Rothbard]], [[power-and-market|Power and Market]], Ch. 4 §C "A Tax on Individual Wealth".
 
 Rothbard isolates the individual wealth tax as a distinct instrument because the standard tax-incidence machinery does not fully describe it. The general result developed elsewhere in the same chapter — and consolidated in [[sales-tax-incidence|Sales Tax Incidence]] — is that no tax is shifted forward onto consumers through prices; its long-run incidence falls back on original-factor incomes. The wealth tax fits the no-forward-shifting half of that result, but the backward-shifting story is *not* the whole story: the wealth tax operates additionally and directly on the capital stock the taxpayer has already accumulated, not only on current income flows.
 

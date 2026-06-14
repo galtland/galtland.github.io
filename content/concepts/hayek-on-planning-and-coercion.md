@@ -16,7 +16,7 @@ confidence: medium
 
 > "Planning leads to dictatorship because dictatorship is the most effective instrument of coercion and, as such, essential if central planning on a large scale is to be possible. There is no justification for the widespread belief that, so long as power is conferred by democratic procedure, it cannot be arbitrary; it is not the source of power which prevents it from being arbitrary; to be free from dictatorial qualities, the power must also be limited."
 >
-> — F. A. Hayek, [[road-to-serfdom|The Road to Serfdom]], "Why the Worst Get on Top."
+> — [[friedrich-a-hayek|F. A. Hayek]], [[road-to-serfdom|The Road to Serfdom]], "Why the Worst Get on Top."
 
 Hayek's argument is not a slogan about authoritarian tendencies in socialist politicians. It is a structural claim: comprehensive economic planning requires that the planners agree on a single, ranked ordering of social goods, but a free society contains millions of disagreeing rankings. The planners cannot proceed by aggregation — there is no neutral way to add up incompatible orderings — so they must impose one. Imposition at scale requires coercive discretion, which destroys the [[hayek-on-rule-of-law|rule-of-law]]-compatible institutions that operate by general, predictable rules. Hayek explicitly extends the argument past regime form: democratic procedure does not domesticate planning's logic, because the source of the power is not what makes it arbitrary. The constraint that prevents arbitrariness is *limitation*, not legitimation.
 
