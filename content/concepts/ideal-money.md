@@ -26,7 +26,7 @@ From this, the quality that matters is **stability of value over time**, because
 
 > Who would want to lend money for the term of a year? In this context we can see how the "quality" of a money standard can strongly influence areas of the economy involving financing with longer-term credits.
 >
-> — John Nash, “Ideal Money”
+> — [[john-nash|John Nash]], [[ideal-money-and-asymptotically-ideal-money|Ideal Money]]
 
 That is the same concern the wiki frames through [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] — a debased standard falsifies intertemporal calculation — reached here through the lens of contract and credit rather than capital structure.
 
@@ -36,7 +36,7 @@ Nash is blunt that the modern defense of mild, managed inflation is a sold doctr
 
 > So I wish to present the argument that various interests and groups, notably including "Keynesian" economists, have sold to the public a "quasi-doctrine" which teaches, in effect, that "less is more" or that (in other words) "bad money is better than good money".
 >
-> — John Nash, “Ideal Money”
+> — [[john-nash|John Nash]], [[ideal-money-and-asymptotically-ideal-money|Ideal Money]]
 
 This converges directly with [[fiat-as-engineered-system|Fiat as Engineered System]]: inflation is an engineered transfer dressed as macroeconomic prudence. Where the Austrian critique grounds the objection in the [[knowledge-problem|knowledge problem]] — no authority can know the right money supply — Nash grounds it in the corruption of money as a measuring standard.
 
@@ -58,6 +58,7 @@ Nash's text predates and never mentions Bitcoin; the following is the wiki's own
 - [[knowledge-problem|Knowledge Problem]] - why a managed index is itself a planning conceit
 - [[economic-calculation-problem|Economic Calculation Problem]] - the calculation objection to any administered standard
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the intertemporal-calculation harm of an unstable standard
+- [[ideal-money-and-asymptotically-ideal-money|Ideal Money and Asymptotically Ideal Money]] - Nash's lecture, the non-Austrian source for this concept
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink

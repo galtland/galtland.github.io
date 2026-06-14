@@ -26,13 +26,13 @@ The disposition has a name and a structure:
 
 > Ethnocentrism is the technical name for this view of things in which one's own group is the center of everything, and all others are scaled and rated with reference to it.
 >
-> — William Graham Sumner, Folkways.
+> — [[william-graham-sumner|William Graham Sumner]], [[folkways|Folkways]]
 
 Its everyday expressions are not marginal but central to political feeling:
 
 > Each group nourishes its own pride and vanity, boasts itself superior, exalts its own divinities, and looks with contempt on outsiders.
 >
-> — William Graham Sumner, Folkways.
+> — [[william-graham-sumner|William Graham Sumner]], [[folkways|Folkways]]
 
 ## Why it explains the asymmetry
 
@@ -51,6 +51,7 @@ Sumner is a non-libertarian descriptive sociologist; like Tilly and Arendt elsew
 - [[the-politics-of-obedience|The Politics of Obedience]] - obedience reinforced when the ruler is identified with the we-group
 - [[state-power-and-intervention|State Power and Intervention]] - the "we" camouflage that fuses people with the state
 - [[libertarianism|Libertarianism]] - the doctrine whose adoption this sentiment works against
+- [[folkways|Folkways]] - Sumner's 1906 work, the source of the we-group/out-group and ethnocentrism passages
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink

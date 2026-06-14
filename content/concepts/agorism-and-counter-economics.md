@@ -22,7 +22,7 @@ Konkin's wager is that the free society is reached by *doing* it, not by winning
 
 > Slowly but steadily we will move to the free society, turning more counter-economists on to libertarianism and more libertarians on to counter-economics, finally integrating theory and practice.
 >
-> — Samuel Edward Konkin III, New Libertarian Manifesto.
+> — [[samuel-edward-konkin-iii|Samuel Edward Konkin III]], [[new-libertarian-manifesto|New Libertarian Manifesto]]
 
 ## Why it fits the human-nature problem
 
@@ -43,6 +43,7 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the stateless institutional endpoint
 - [[the-politics-of-obedience|The Politics of Obedience]] - the withdrawal-of-consent diagnosis agorism operationalizes
 - [[libertarianism|Libertarianism]] - the doctrine whose strategy question agorism answers
+- [[new-libertarian-manifesto|New Libertarian Manifesto]] - Konkin's 1980 founding statement of agorism
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink

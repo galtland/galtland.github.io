@@ -54,7 +54,7 @@ The asymmetry is not a marketing accident: nationalism has its raw material, its
 
 > "Each group nourishes its own pride and vanity, boasts itself superior, exalts its own divinities, and looks with contempt on outsiders."
 >
-> — William Graham Sumner, *Folkways*
+> — [[william-graham-sumner|William Graham Sumner]], [[folkways|Folkways]]
 
 The state refines that sentiment into national identity as part of its own consolidation, manufacturing it through direct rule and military mobilization, so that the loyalty it needs is produced by the very process that builds it. And it lands on fertile ground, because atomized, interchangeable people are starved for exactly what it offers — belonging, an enemy, and certainty in a single package — and so are available to be mobilized *en masse*. Each of these legs is documented in the corpus: the tribal raw material in [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]], the state-making channel in [[nationalism-and-state-formation|Nationalism and State Formation]] via [[charles-tilly|Tilly]], and the lonely-mass demand in [[mass-society-and-atomization|Mass Society and Atomization]] via [[hannah-arendt|Arendt]]. Nationalism is easy because the state paves its road and the lonely psyche craves what it sells — neither of which bears on whether it is *true*. This is the standing edge the reader names, and the corpus does not dispute it.
 
