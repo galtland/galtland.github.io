@@ -70,7 +70,7 @@ First, **withdrawal**. If domination rests on habitual cooperation, it dissolves
 
 > Resolve to serve no more, and you are at once freed.
 >
-> — Étienne de la Boétie, [[the-politics-of-obedience|The Discourse of Voluntary Servitude]]
+> — [[etienne-de-la-boetie|Étienne de la Boétie]], [[the-politics-of-obedience|The Discourse of Voluntary Servitude]]
 
 Necessary, but slow and reversible, and it presumes a critical mass willing to stop cooperating.
 

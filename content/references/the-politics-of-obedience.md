@@ -41,6 +41,7 @@ It also complements [[evolution-of-the-state|Evolution of the State]]. [[franz-o
 - [[evolution-of-the-state|Evolution of the State]] - historical state-formation article that uses La Boetie's consent-via-habit thread
 - [[lets-abolish-government|Let's Abolish Government]] - Spooner collection attacking constitutional legitimacy
 - [[murray-n-rothbard|Murray N. Rothbard]] - modern curator and introducer in the current source set
+- [[etienne-de-la-boetie|Étienne de la Boétie]] - the author
 
 
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
