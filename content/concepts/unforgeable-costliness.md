@@ -34,7 +34,7 @@ That places [[proof-of-work|Proof of Work]] in the same lineage as shell beads a
 
 ## Hardness and Stock-to-Flow
 
-Saifedean Ammous's [[the-bitcoin-standard|The Bitcoin Standard]] recasts the primitive as hardness and stock-to-flow. A hard money is difficult to increase in supply. Stock-to-flow compares the existing stock with the new flow that can be produced in a period. A high ratio means new production is small relative to accumulated stock, so a demand increase is less likely to trigger dilution.
+[[saifedean-ammous|Saifedean Ammous]]'s [[the-bitcoin-standard|The Bitcoin Standard]] recasts the primitive as hardness and stock-to-flow. A hard money is difficult to increase in supply. Stock-to-flow compares the existing stock with the new flow that can be produced in a period. A high ratio means new production is small relative to accumulated stock, so a demand increase is less likely to trigger dilution.
 
 This gives a common metric for shell beads, precious metals, fiat money, and Bitcoin. Shell beads lost monetary value when European production made supply easy. Precious metals did better because physical scarcity and mining costs constrained flow. Fiat scores poorly on the primitive because political and banking institutions can expand supply through credit. Bitcoin scores strongly because its issuance schedule and difficulty adjustment make supply growth difficult to alter without leaving the Bitcoin consensus.
 

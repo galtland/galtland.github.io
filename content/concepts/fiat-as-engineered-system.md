@@ -18,7 +18,7 @@ short: "Ammous's Fiat Standard frame: fiat as debt-based monetary engineering, w
 
 ## Money as a Standard
 
-In [[the-fiat-standard|The Fiat Standard]], Ammous extends the method of [[the-bitcoin-standard|The Bitcoin Standard]]: understand a monetary system by asking what problem it solves, what rules it enforces, who can issue units, and what happens when it fails.
+In [[the-fiat-standard|The Fiat Standard]], [[saifedean-ammous|Ammous]] extends the method of [[the-bitcoin-standard|The Bitcoin Standard]]: understand a monetary system by asking what problem it solves, what rules it enforces, who can issue units, and what happens when it fails.
 
 The analogy is engineering-like. A railroad gauge, electrical standard, internet protocol, or monetary standard coordinates many independent actors by defining compatibility constraints. Fiat's specification is not a cleanly designed protocol like Bitcoin. Ammous stresses that it evolved from defaults, banking compromises, and political expedience. But once installed, it still behaves like a system with rules.
 

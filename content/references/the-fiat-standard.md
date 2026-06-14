@@ -66,4 +66,5 @@ The book is best handled as Ammous's synthesis. It is valuable for its internal 
 
 ## Sources
 
+- [[saifedean-ammous|Saifedean Ammous]] - the author
 - [[2026-05-28-the-fiat-standard-full-text|The Fiat Standard: Full Text Aggregate]] - full-text raw ingest for the table of contents, engineering frame, debt-as-money chapters, fiat-life chapters, and Bitcoin conclusion

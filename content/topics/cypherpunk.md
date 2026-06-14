@@ -36,7 +36,7 @@ The wiki position is that this is not a coincidence. Szabo writes from inside th
 
 ## The Modern Synthesis Writers
 
-A later generation reads Bitcoin as a fully Austrian-libertarian project. Saifedean Ammous's [[the-bitcoin-standard|The Bitcoin Standard]] (Wiley, 2018), [[the-fiat-standard|The Fiat Standard]] (2021), and [[principles-of-economics-ammous|Principles of Economics]] (2023) frame Bitcoin and the post-1971 fiat regime in explicit Misesian terms. Pierre Rochard's [[speculative-attack|Speculative Attack]] (2014) describes hyperbitcoinization as a monetary process in which good money drives out bad. Allen Farrington's [[bitcoin-is-venice|Bitcoin Is Venice]] (essays, 2021) reads Bitcoin as a civilizational exit from fiat finance. These writers depend on the earlier cypherpunk and Austrian work and assume readers already have both backgrounds.
+A later generation reads Bitcoin as a fully Austrian-libertarian project. [[saifedean-ammous|Saifedean Ammous]]'s [[the-bitcoin-standard|The Bitcoin Standard]] (Wiley, 2018), [[the-fiat-standard|The Fiat Standard]] (2021), and [[principles-of-economics-ammous|Principles of Economics]] (2023) frame Bitcoin and the post-1971 fiat regime in explicit Misesian terms. Pierre Rochard's [[speculative-attack|Speculative Attack]] (2014) describes hyperbitcoinization as a monetary process in which good money drives out bad. Allen Farrington's [[bitcoin-is-venice|Bitcoin Is Venice]] (essays, 2021) reads Bitcoin as a civilizational exit from fiat finance. These writers depend on the earlier cypherpunk and Austrian work and assume readers already have both backgrounds.
 
 ## Relation to the Privacy-and-Cryptography Topic
 
