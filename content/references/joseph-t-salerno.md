@@ -30,7 +30,7 @@ summary: "Austrian-school monetary economist in the Mises-Rothbard tradition; Ac
 
 Salerno's [[mises-and-hayek-dehomogenized|"Mises and Hayek Dehomogenized"]] (1993) is the canonical statement of his positioning argument: contemporary Austrian economics encompasses *two distinct paradigms*, not one, and the post-1970s revival conflated them. The paradigms diverge on multiple axes:
 
-- **Source lineage.** The Mises paradigm develops Böhm-Bawerk. The Hayek paradigm develops Wieser.
+- **Source lineage.** The Mises paradigm develops [[eugen-von-bohm-bawerk|Böhm-Bawerk]]. The Hayek paradigm develops Wieser.
 - **Equilibrium and the market process.** The Mises paradigm treats equilibrium as an analytical construct used to isolate the entrepreneurial-profit residual; the Hayek paradigm treats the market as a coordinating process whose informational properties are the central object of study.
 - **The socialist-calculation debate.** The Mises paradigm rests on the impossibility of *monetary calculation* in the absence of genuine factor prices, which themselves require markets — i.e., exchanges — in the higher-order means of production. The Hayek paradigm rests on the impossibility of *centralized aggregation of dispersed knowledge*. Salerno argues these are distinct (not equivalent) impossibility arguments.
 - **Modern carriers of the Hayekian paradigm.** Salerno names Israel M. Kirzner as the principal carrier of the Hayekian paradigm in modern Austrian economics, with the modern free-banking school via Lawrence H. White as a macroeconomic outgrowth on the same trunk. He does not pair this with a symmetrically-named "Mises-Rothbard carrier"; the paper's structure is about *what gets misattributed to Mises*, not a head-to-head carrier roster.

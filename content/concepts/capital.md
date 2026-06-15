@@ -16,7 +16,7 @@ short: "Capital as produced means of production — 'stored-up' labor, land, and
 
 > Capital is the structure of produced means of production — tools, machines, half-finished goods, improved soil — standing between the original factors (land and labor) and final consumption. The argument set out by [[murray-n-rothbard|Murray Rothbard]] in [[man-economy-and-state|Man, Economy, and State]] makes three uncompromising claims: capital is not an independent factor of production but is fully reducible to land, labor, and time; it can be brought into being only by saving — restricting present consumption; and it decays unless it is continuously maintained by further saving. Each claim removes a comforting shortcut: there is no way to capital except through abstinence.
 
-In the Austrian tradition that [[murray-n-rothbard|Murray Rothbard]] inherits from Eugen von Böhm-Bawerk, "capital" is neither wealth in general nor money. It is the stock of *capital goods* — the produced, intermediate factors that stand between the original factors (labor and nature-given land) and the consumers' goods that are the end of all production. Rothbard builds the concept up in [[man-economy-and-state|Man, Economy, and State]] from a man alone with his labor and the elements, and the result is a deliberately deflationary account: capital is indispensable, but it is not a creative power of its own.
+In the Austrian tradition that [[murray-n-rothbard|Murray Rothbard]] inherits from [[eugen-von-bohm-bawerk|Eugen von Böhm-Bawerk]], "capital" is neither wealth in general nor money. It is the stock of *capital goods* — the produced, intermediate factors that stand between the original factors (labor and nature-given land) and the consumers' goods that are the end of all production. Rothbard builds the concept up in [[man-economy-and-state|Man, Economy, and State]] from a man alone with his labor and the elements, and the result is a deliberately deflationary account: capital is indispensable, but it is not a creative power of its own.
 
 ## Not a Third Factor of Production
 
@@ -56,6 +56,7 @@ Capital theory is the analytical hinge between Austrian microeconomics and the w
 
 ## See Also
 
+- [[eugen-von-bohm-bawerk|Eugen von Böhm-Bawerk]] — the capital-and-interest lineage Rothbard's account descends from
 - [[man-economy-and-state|Man, Economy, and State]] — primary source: Ch. 5 ("Production: The Structure"), esp. §9 "The Formation of Capital"
 - [[murray-n-rothbard|Murray Rothbard]] — author of the treatment summarized here
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] — the macro corollary: societies, like Crusoe, can consume their capital structure to fund present abundance
