@@ -39,6 +39,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 
 ## See Also
 
+- [[capital|Capital]] - the produced-means-of-production concept built from this
 - [[libertarianism|Libertarianism]] - doctrine Rothbard helps integrate
 - [[austrian-economics|Austrian Economics]] - economic framework Rothbard develops
 - [[anatomy-of-the-state|Anatomy of the State]] - concise anti-state statement by Rothbard

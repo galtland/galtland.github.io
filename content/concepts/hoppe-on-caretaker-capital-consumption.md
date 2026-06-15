@@ -29,6 +29,7 @@ The mechanism scales beyond a single jurisdiction. When multiple democratic gove
 
 ## See Also
 
+- [[capital|Capital]] - the produced-means-of-production concept built from this
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] — primary source: the prince-vs-caretaker passages and the capital-consumption corollary
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] — author reference
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] — companion praxeological frame; Mises identifies the policy class, Hoppe identifies the institutional structure that produces it

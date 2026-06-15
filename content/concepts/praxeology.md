@@ -43,6 +43,7 @@ This is a modern extension rather than a claim Mises himself made. The wiki shou
 
 ## See Also
 
+- [[capital|Capital]] - the produced-means-of-production concept built from this
 - [[ludwig-von-mises|Ludwig von Mises]] - originator of the term and method
 - [[murray-n-rothbard|Murray N. Rothbard]] - principal heir
 - [[austrian-economics|Austrian Economics]] - school identified with this method

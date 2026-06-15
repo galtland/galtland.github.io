@@ -33,6 +33,7 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 
 ## See Also
 
+- [[capital|Capital]] - the produced-means-of-production concept built from this
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis instantiating the Misesian price-control prediction in the Argentine rental-housing case
 - [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - focused Mises-on-topic article on the residential-rent-ceiling shortage mechanism
 - [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused Rothbard-on-topic article on triangular-intervention maximum-price control

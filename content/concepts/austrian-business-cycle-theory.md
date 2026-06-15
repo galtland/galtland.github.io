@@ -41,6 +41,7 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 
 ## See Also
 
+- [[capital|Capital]] - the produced-means-of-production concept built from this
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] - focused Mises-on-topic article on the gross-market-rate distortion
 - [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] - focused Rothbard-on-topic article on the cluster-of-errors mechanism applied to the Fed
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - underlying definition of credit (present good for future good) that ABCT presupposes; explains the commodity-credit vs. circulation-credit distinction in structural terms

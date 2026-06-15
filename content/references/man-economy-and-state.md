@@ -29,6 +29,7 @@ The current raw source was assembled on 2026-04-21 from 23 top-level section exp
 
 ## See Also
 
+- [[capital|Capital]] - the produced-means-of-production concept built from this
 - [[austrian-economics|Austrian Economics]] - broader economic topic built around this treatise
 - [[state-power-and-intervention|State Power and Intervention]] - draws on the book's intervention analysis
 - [[sales-tax-incidence|Sales Tax Incidence]] - focused article on Rothbard's treatment of general sales tax incidence

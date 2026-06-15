@@ -27,6 +27,7 @@ The political-economy companion is the [[franz-oppenheimer|Oppenheimer]]/[[alber
 
 ## See Also
 
+- [[capital|Capital]] - the produced-means-of-production concept built from this
 - [[liberalism|Liberalism]] — primary source: Part I §5
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference
 - [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] — focused instrument-level result: the wealth tax as the tax instrument that maps the antiliberal policy class onto accumulated capital most directly
