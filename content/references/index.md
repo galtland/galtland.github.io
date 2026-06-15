@@ -2,7 +2,7 @@
 
 > Curated references articles.
 
-Last updated: 2026-06-09
+Last updated: 2026-06-15
 
 ## Contents
 
@@ -121,6 +121,10 @@ Last updated: 2026-06-09
 | [War Making and State Making as Organized Crime](war-making-and-state-making-as-organized-crime.md) | Reference guide to Charles Tilly's 1985 essay that explicitly compares war making, state making, protection, and extraction to organized crime. This is the canonical source for the 'quintessential protection rackets with the advantage of legitimacy' formulation. | charles-tilly, state, war-and-state-formation, protection-racket, organized-crime, historical-sociology, coercion, extraction, non-libertarian | 2026-05-30 |
 | [William Rees-Mogg](william-rees-mogg.md) | Short author reference for Lord William Rees-Mogg as represented by *The Sovereign Individual*: a British journalist and public figure, formerly editor of *The Times* of London and vice-chairman of the BBC, who co-authored the book and two earlier forecasting works with James Dale Davidson. | william-rees-mogg, sovereign-individual, megapolitics, the-times, bbc, non-libertarian | 2026-06-09 |
 | [Zerocash](zerocash.md) | Ben-Sasson, Chiesa, Garman, Green, Miers, Tromer, and Virza's 2014 Zerocash paper proposes a decentralized anonymous payment protocol using zk-SNARKs to hide transaction origin, destination, and amount while preserving ledger validity. It is the technical foundation for Zcash. | libertarian, cypherpunk, zerocash, zcash, zk-snarks, zero-knowledge-proofs, privacy-coins, bitcoin, digital-cash | 2026-05-28 |
+| [Eugen von Böhm-Bawerk](eugen-von-bohm-bawerk.md) | Second-generation Austrian economist; capital-and-interest theory, roundaboutness, time preference; Menger's student and Mises's teacher. | eugen-von-bohm-bawerk, austrian-economics, capital-theory, time-preference, interest, roundaboutness, classical-canon | 2026-06-15 |
+| [The Positive Theory of Capital](the-positive-theory-of-capital.md) | Böhm-Bawerk's constructive theory: capital as produced means of production, roundabout production, and the agio/time-preference theory of interest. | eugen-von-bohm-bawerk, austrian-economics, capital-theory, time-preference, interest, roundaboutness, structure-of-production, agio-theory | 2026-06-15 |
+| [Capital and Interest: A Critical History of Economical Theory](capital-and-interest.md) | Böhm-Bawerk's critical history of interest theories (Vol. I of Kapital und Kapitalzins): refuting the productivity, use, abstinence, and exploitation theories. | eugen-von-bohm-bawerk, austrian-economics, capital-theory, interest, history-of-economic-thought, exploitation-theory | 2026-06-15 |
+| [Karl Marx and the Close of His System](karl-marx-and-the-close-of-his-system.md) | Böhm-Bawerk's critique of Marx's labor theory of value and the Capital Vol. I / Vol. III contradiction (value vs. prices of production). | eugen-von-bohm-bawerk, austrian-economics, karl-marx, marxism, labor-theory-of-value, value-theory, critique | 2026-06-15 |
 
 ## Recent Changes
 

@@ -43,6 +43,7 @@ This is a modern extension rather than a claim Mises himself made. The wiki shou
 
 ## See Also
 
+- [[time-preference-and-interest|Time Preference and the Theory of Interest]] — interest as a category of action deduced praxeologically
 - [[capital|Capital]] - the produced-means-of-production concept built from this
 - [[ludwig-von-mises|Ludwig von Mises]] - originator of the term and method
 - [[murray-n-rothbard|Murray N. Rothbard]] - principal heir

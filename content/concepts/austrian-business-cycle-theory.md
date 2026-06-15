@@ -41,6 +41,8 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 
 ## See Also
 
+- [[the-positive-theory-of-capital|The Positive Theory of Capital]] — Böhm-Bawerk's roundabout, time-structured theory of production
+- [[time-preference-and-interest|Time Preference and the Theory of Interest]] — the interest rate whose distortion drives the cycle
 - [[capital|Capital]] - the produced-means-of-production concept built from this
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] - focused Mises-on-topic article on the gross-market-rate distortion
 - [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] - focused Rothbard-on-topic article on the cluster-of-errors mechanism applied to the Fed

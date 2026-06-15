@@ -23,12 +23,22 @@ His enduring contributions are the **roundabout** structure of production (more 
 
 ## Works Present Here
 
-No primary Böhm-Bawerk text is ingested in this wiki yet. His theory enters through the writers who carry it: [[murray-n-rothbard|Rothbard]] in [[man-economy-and-state|Man, Economy, and State]] explicitly credits Böhm-Bawerk for the reducibility of capital to land, labor, and time and borrows his stone-throwing analogy for capital's dependent role; and Mises's praxeological account of time preference and interest develops the same line.
+All three of his major works are ingested as full-text sources (uncorrected Internet Archive OCR — confirm wording against the scan before quoting):
+
+- [[the-positive-theory-of-capital|The Positive Theory of Capital]] (Smart trans.) — capital, the roundabout structure of production, and the agio/time-preference theory of interest.
+- [[capital-and-interest|Capital and Interest]] (Smart, 1890) — the critical history of interest theories, Vol. I of *Kapital und Kapitalzins*.
+- [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]] (1898) — the critique of Marx's labor theory of value.
+
+His theory is also carried second-hand by [[murray-n-rothbard|Rothbard]] in [[man-economy-and-state|Man, Economy, and State]], which credits Böhm-Bawerk for the reducibility of capital to land, labor, and time and borrows his stone-throwing analogy for capital's dependent role.
 
 ## Place in This Wiki
 
-Böhm-Bawerk is a lineage node: he is the origin of the capital-and-interest theory that [[capital|Capital]], the [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] (which turns on the time-structure of production), and the Misesian paradigm in [[rothbard-vs-hayek|Rothbard vs. Hayek]] all build on. A primary-text ingest (*The Positive Theory of Capital*) would let the wiki cite him directly rather than through his heirs.
+Böhm-Bawerk is a lineage node: he is the origin of the capital-and-interest theory that [[capital|Capital]], the [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] (which turns on the time-structure of production), and the Misesian paradigm in [[rothbard-vs-hayek|Rothbard vs. Hayek]] all build on. His agio account anchors [[time-preference-and-interest|Time Preference and the Theory of Interest]]; with the primary texts now ingested, the wiki can cite him directly rather than only through his heirs.
 
 ## See Also
 
+- [[the-positive-theory-of-capital|The Positive Theory of Capital]] - his core capital-and-interest treatise (Smart trans.)
+- [[capital-and-interest|Capital and Interest]] - the critical history of interest theories (Vol. I of *Kapital und Kapitalzins*)
+- [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]] - his critique of Marxian value theory
+- [[time-preference-and-interest|Time Preference and the Theory of Interest]] - the agio theory of interest, drawn from his work
 - [[capital|Capital]] - the concept built on his capital-and-interest lineage, via Rothbard

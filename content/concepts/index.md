@@ -2,7 +2,7 @@
 
 > Curated concepts articles.
 
-Last updated: 2026-06-09
+Last updated: 2026-06-15
 
 ## Contents
 
@@ -98,6 +98,7 @@ Last updated: 2026-06-09
 | [Vita Activa](vita-activa.md) | Arendt's framework for active life: labor sustains biological life, work fabricates a durable world, and action appears among plural persons through speech and deed. | hannah-arendt, vita-activa, labor, work, action, public-realm, political-philosophy, non-libertarian | 2026-05-31 |
 | [War and State Formation](war-and-state-formation.md) | Tilly's historical-sociological thesis that European war-making, extraction, coercive consolidation, capital, and interstate competition jointly produced the national state. The article now rests on the expanded 1990/1992 book ingest plus Tilly's 1985 organized-crime essay for the protection-racket formulation. | war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, organized-crime, evolution-of-the-state, political-means, historical-sociology, totalitarianism, non-libertarian | 2026-06-09 |
 | [zk-SNARKs](zk-snarks.md) | zk-SNARKs are short, publicly verifiable zero-knowledge proofs of knowledge. Zerocash uses them to prove that a private ledger transition is valid without revealing the coins, amounts, or addresses involved. | libertarian, cypherpunk, zk-snarks, zero-knowledge-proofs, zerocash, zcash, privacy-coins, cryptography | 2026-05-28 |
+| [Time Preference and the Theory of Interest](time-preference-and-interest.md) | Interest as the agio on present over future goods, rooted in time preference — Böhm-Bawerk's three grounds, rebuilt by Mises on pure time preference. | austrian-economics, interest, time-preference, agio-theory, capital-theory, eugen-von-bohm-bawerk, roundaboutness | 2026-06-15 |
 
 ## Recent Changes
 

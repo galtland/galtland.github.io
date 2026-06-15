@@ -56,6 +56,8 @@ Capital theory is the analytical hinge between Austrian microeconomics and the w
 
 ## See Also
 
+- [[the-positive-theory-of-capital|The Positive Theory of Capital]] — Böhm-Bawerk's primary capital treatise
+- [[time-preference-and-interest|Time Preference and the Theory of Interest]] — the interest side of the same Austrian capital-and-interest theory
 - [[eugen-von-bohm-bawerk|Eugen von Böhm-Bawerk]] — the capital-and-interest lineage Rothbard's account descends from
 - [[man-economy-and-state|Man, Economy, and State]] — primary source: Ch. 5 ("Production: The Structure"), esp. §9 "The Formation of Capital"
 - [[murray-n-rothbard|Murray Rothbard]] — author of the treatment summarized here
