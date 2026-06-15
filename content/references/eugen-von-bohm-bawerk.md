@@ -23,7 +23,7 @@ His enduring contributions are the **roundabout** structure of production (more 
 
 ## Works Present Here
 
-All three of his major works are ingested as full-text sources (uncorrected Internet Archive OCR — confirm wording against the scan before quoting):
+All three of his major works are ingested as full-text sources — *The Positive Theory of Capital* as a clean, verbatim-quotable Econlib edition, the other two as uncorrected scans (confirm wording before quoting):
 
 - [[the-positive-theory-of-capital|The Positive Theory of Capital]] (Smart trans.) — capital, the roundabout structure of production, and the agio/time-preference theory of interest.
 - [[capital-and-interest|Capital and Interest]] (Smart, 1890) — the critical history of interest theories, Vol. I of *Kapital und Kapitalzins*.

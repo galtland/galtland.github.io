@@ -23,7 +23,7 @@ Böhm-Bawerk builds the theory in three moves. First, **roundaboutness**: more p
 
 This is the primary source behind the wiki's [[capital|Capital]] concept and the new [[time-preference-and-interest|Time Preference and the Theory of Interest]] concept. The roundabout, time-structured view of production is also the foundation later carried into [[austrian-business-cycle-theory|Austrian Business Cycle Theory]], where credit-distorted interest misdirects the time structure of capital. Mises and Rothbard restate and revise this line — Mises rebuilds interest on pure time preference, dropping the third (technical) ground.
 
-*Provenance: the ingested raw is uncorrected Internet Archive OCR; confirm any quotation against the scan (and ideally a clean edition) before using quote marks.*
+*Provenance: the ingested raw is the clean, proofread Econlib edition (William Smart translation); quotations can be verified directly against it.*
 
 ## See Also
 

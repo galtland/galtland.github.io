@@ -19,6 +19,10 @@ short: "Interest as the agio on present over future goods, rooted in time prefer
 
 Why is there interest at all — why does a sum lent return more than was lent, and why do capital goods throw off a net return year after year? [[eugen-von-bohm-bawerk|Böhm-Bawerk]] cleared away the standard answers in [[capital-and-interest|Capital and Interest]] — the productivity, use, abstinence, and exploitation theories — before giving his own in [[the-positive-theory-of-capital|The Positive Theory of Capital]]. His answer: present goods are, as a rule, worth more than future goods of the same kind and quantity, so they trade at a premium. That persisting premium *is* interest (originary interest), prior to and independent of any business profit or loan contract.
 
+> "It is an empirical fact of undoubted universality that present goods are valued more highly than future goods of like kind and amount."
+>
+> — [[eugen-von-bohm-bawerk|Eugen von Böhm-Bawerk]], [[the-positive-theory-of-capital|The Positive Theory of Capital]]
+
 ## Böhm-Bawerk's Three Grounds
 
 Böhm-Bawerk traced the premium on present goods to three causes:
