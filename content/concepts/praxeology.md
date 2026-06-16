@@ -58,6 +58,7 @@ This is a modern extension rather than a claim Mises himself made. The wiki shou
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - source for the privacy extension
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
+- [[inflation-and-unemployment|Inflation and Unemployment]] - Friedman's 1976 Nobel lecture: no lasting trade-off between inflation and unemployment, the natural rate, and the vertical long-run Phillips curve — the monetarist core the Austrians answer on method.
 
 ## Sources
 

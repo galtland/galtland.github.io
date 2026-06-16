@@ -71,6 +71,7 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[john-maynard-keynes|John Maynard Keynes]] - John Maynard Keynes (1883-1946), founder of modern macroeconomics; author of The General Theory (1936) — the Keynesian counterpoint to the wiki's Austrian sources.
 - [[the-general-theory|The General Theory of Employment, Interest and Money]] - Keynes's 1936 General Theory: effective demand, the multiplier, liquidity preference, and the case for managing aggregate demand — the foundational Keynesian text and the Austrian critique's target.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
+- [[the-role-of-monetary-policy|The Role of Monetary Policy]] - Friedman's 1968 monetarist address: the limits of monetary policy, the natural rate, and the steady money-growth rule — the Chicago account of the cycle the Austrians dispute.
 
 ## Sources
 

@@ -18,13 +18,13 @@ short: "Two free-market schools, one fault line: Friedman's rule-bound managed m
 
 ## A quarrel among allies
 
-The contrast has to be drawn carefully, because the two camps are so easily lumped together — and because they earn the lumping. Milton Friedman opens *Capitalism and Freedom* (1962) arguing that competitive capitalism is not merely efficient but a precondition of liberty: "economic freedom is also an indispensable means toward the achievement of political freedom," because capitalism "separates economic power from political power and in this way enables the one to offset the other." [[ludwig-von-mises|Ludwig von Mises]] and [[murray-n-rothbard|Murray Rothbard]] would broadly endorse the premise — economic and political freedom standing or falling together — even as they push it further than Friedman does.
+The contrast has to be drawn carefully, because the two camps are so easily lumped together — and because they earn the lumping. [[milton-friedman|Milton Friedman]] opens [[capitalism-and-freedom|Capitalism and Freedom]] (1962) arguing that competitive capitalism is not merely efficient but a precondition of liberty: "economic freedom is also an indispensable means toward the achievement of political freedom," because capitalism "separates economic power from political power and in this way enables the one to offset the other." [[ludwig-von-mises|Ludwig von Mises]] and [[murray-n-rothbard|Murray Rothbard]] would broadly endorse the premise — economic and political freedom standing or falling together — even as they push it further than Friedman does.
 
 Nor is the agreement only philosophical. Both schools reject the [[austrian-economics-vs-keynesianism|Keynesian]] claim that a market economy is inherently unstable, and both treat Keynesian demand management as a snare. Friedman blames the slump squarely on the State:
 
 > "The fact is that the Great Depression, like most other periods of severe unemployment, was produced by government mismanagement rather than by any inherent instability of the private economy."
 >
-> — Milton Friedman, *Capitalism and Freedom*
+> — [[milton-friedman|Milton Friedman]], [[capitalism-and-freedom|Capitalism and Freedom]]
 
 That sentence could have been written by Rothbard or Mises. So the dispute that follows is intramural: not free markets against planning, but two free-market traditions that disagree about what economics *is*, and about what — if anything — a state may do with money.
 
@@ -44,17 +44,17 @@ Friedman reasons the other way. His case is empirical to the core — the readin
 
 Nowhere does the divide bite harder than on the Great Depression — and the surprise is how much each side concedes before they part. Both reject the Keynesian verdict that 1929 exposed the inherent instability of capitalism; both locate the cause in the monetary system, and specifically in the central bank. Then they assign the blame in exactly opposite directions.
 
-Friedman's Fed failed by doing too little. In his 1968 presidential address, “The Role of Monetary Policy,” he overturned the received account that the Fed had tried and failed:
+Friedman's Fed failed by doing too little. In his 1968 presidential address, [[the-role-of-monetary-policy|The Role of Monetary Policy]], he overturned the received account that the Fed had tried and failed:
 
 > "Recent studies have demonstrated that the facts are precisely the reverse: the U.S. monetary authorities followed highly deflationary policies. The quantity of money in the United States fell by one-third in the course of the contraction."
 >
-> — Milton Friedman, “The Role of Monetary Policy”
+> — [[milton-friedman|Milton Friedman]], [[the-role-of-monetary-policy|The Role of Monetary Policy]]
 
 The slump was not the market collapsing under its own weight but the Federal Reserve permitting the money stock to implode when it should have supplied liquidity. The lesson reverses the era's conventional wisdom:
 
 > "The Great Contraction is tragic testimony to the power of monetary policy—not, as Keynes and so many of his contemporaries believed, evidence of its impotence."
 >
-> — Milton Friedman, “The Role of Monetary Policy”
+> — [[milton-friedman|Milton Friedman]], [[the-role-of-monetary-policy|The Role of Monetary Policy]]
 
 Rothbard agrees that the Fed made the Depression and that the private economy was not to blame — then turns the diagnosis inside out. The disease was contracted in the boom, not the bust. The [[credit-expansion-dynamics|inflation of money and credit]] in the 1920s built a structure of malinvestment that a recession was needed to liquidate; the post-1929 collapse was the overdue correction, aggravated rather than relieved by the Fed's later attempts to reflate. He sets the two readings side by side and refuses any reconciliation:
 
@@ -62,7 +62,7 @@ Rothbard agrees that the Fed made the Depression and that the private economy wa
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[americas-great-depression|America's Great Depression]]
 
-The dispute then narrows to a single, checkable fact: the wholesale price level of the 1920s was stable. Friedman reads that stability as the mark of a sound decade — in his 1963 *A Monetary History* he praised Benjamin Strong for "keeping the wholesale price level stable during the 1920s." Rothbard reads the same flat index as the trap. Because monetary expansion was offset by the era's surging productivity, prices held steady while credit inflated underneath — so the stability "was only statistical; it did not eliminate the boom–bust cycle, it only obscured it." A flat price index, on the Austrian account, is not proof that nothing is wrong; it can be the cover under which the distortion accumulates.
+The dispute then narrows to a single, checkable fact: the wholesale price level of the 1920s was stable. Friedman reads that stability as the mark of a sound decade — in his 1963 *A Monetary History*, as Rothbard describes it, he is "lauding Benjamin Strong for keeping the wholesale price level stable during the 1920s." Rothbard reads the same flat index as the trap. Because monetary expansion was offset by the era's surging productivity, prices held steady while credit inflated underneath — so the stability "was only statistical; it did not eliminate the boom–bust cycle, it only obscured it." A flat price index, on the Austrian account, is not proof that nothing is wrong; it can be the cover under which the distortion accumulates.
 
 That blind spot, Rothbard argues, is built into the monetarist method. The Chicago economists "rigidly separate the 'price level' from the movement of individual prices," and so "have no causal theory of the business cycle; each stage of the cycle becomes an event unrelated to the following stage." The relative-price distortion that *is* the disease falls between their categories.
 
@@ -72,13 +72,13 @@ Diagnoses this different cannot share a remedy. Friedman's problem is a central 
 
 > "If we can achieve our objectives neither by relying on the working of a thoroughly automatic gold standard nor by giving wide discretion to independent authorities, how else can we establish a monetary system that is stable and at the same time free from irresponsible governmental tinkering, a system that will provide the necessary monetary framework for a free enterprise economy yet be incapable of being used as a source of power to threaten economic and political freedom?"
 >
-> — Milton Friedman, *Capitalism and Freedom*
+> — [[milton-friedman|Milton Friedman]], [[capitalism-and-freedom|Capitalism and Freedom]]
 
 His answer is the rule — a fiat money expanded at a steady, legislated rate:
 
 > "My choice at the moment would be a legislated rule instructing the monetary authority to achieve a specified rate of growth in the stock of money."
 >
-> — Milton Friedman, *Capitalism and Freedom*
+> — [[milton-friedman|Milton Friedman]], [[capitalism-and-freedom|Capitalism and Freedom]]
 
 The figure he proposes is three to five per cent a year, offered as "the only feasible device currently available for converting monetary policy into a pillar of a free society rather than a threat to its foundations." Money is still to be managed — but transparently, by law, and within tight limits.
 
@@ -123,6 +123,10 @@ The Chicago School is the most serious free-market alternative to the Austrian p
 - [[ludwig-von-mises|Ludwig von Mises]] — source author (method and monetary doctrine)
 - [[murray-n-rothbard|Murray N. Rothbard]] — source author (the explicit Chicago-vs-Austrian contrast)
 - [[friedrich-a-hayek|F. A. Hayek]] — the relative-price and capital-structure case the Austrian side extends
+- [[milton-friedman|Milton Friedman]] — source author (the Chicago-school monetarist counterpoint)
+- [[capitalism-and-freedom|Capitalism and Freedom]] — Friedman source volume (liberty, limited government, the legislated money-growth rule)
+- [[the-role-of-monetary-policy|The Role of Monetary Policy]] — Friedman source (the Great Contraction as deflationary failure; the k-percent rule)
+- [[inflation-and-unemployment|Inflation and Unemployment]] — Friedman's 1976 Nobel lecture on the natural rate; develops the monetarist method this article contrasts with praxeology
 - [[human-action|Human Action]] — Mises source volume
 - [[americas-great-depression|America's Great Depression]] — Rothbard source volume and the direct critique of Friedman on the 1920s
 

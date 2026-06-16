@@ -55,6 +55,7 @@ The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 page
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
 - [[the-general-theory|The General Theory of Employment, Interest and Money]] - Keynes's 1936 General Theory: effective demand, the multiplier, liquidity preference, and the case for managing aggregate demand — the foundational Keynesian text and the Austrian critique's target.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
+- [[the-role-of-monetary-policy|The Role of Monetary Policy]] - Friedman's 1968 monetarist address: the limits of monetary policy, the natural rate, and the steady money-growth rule — the Chicago account of the cycle the Austrians dispute.
 
 ## Sources
 
