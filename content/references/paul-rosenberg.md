@@ -8,8 +8,8 @@ verified: 2026-06-16
 tags: [paul-rosenberg, crypto-anarchy, agorism, cypherpunk, anarcho-capitalism, voluntaryism, privacy, sound-money]
 aliases: [Paul Rosenberg, Paul A. Rosenberg]
 confidence: medium
-summary: "Author reference for Paul Rosenberg: engineer, privacy entrepreneur, and writer; author of the crypto-anarchist novel A Lodging of Wayfaring Men (2003), the history Production Versus Plunder, and the Free-Man's Perspective newsletter; co-founder of the Cryptohippie anonymous-VPN service. In this wiki he is the anchor for crypto-anarchist fiction and the production-versus-plunder reading of history."
-short: "Engineer, privacy entrepreneur, and writer; author of A Lodging of Wayfaring Men (2003) and Production Versus Plunder; co-founder of Cryptohippie."
+summary: "Author reference for Paul Rosenberg: engineer, privacy entrepreneur, and writer; author of the crypto-anarchist novel A Lodging of Wayfaring Men (2007), the history Production Versus Plunder, and the Free-Man's Perspective newsletter; co-founder of the Cryptohippie anonymous-VPN service. In this wiki he is the anchor for crypto-anarchist fiction and the production-versus-plunder reading of history."
+short: "Engineer, privacy entrepreneur, and writer; author of A Lodging of Wayfaring Men (2007) and Production Versus Plunder; co-founder of Cryptohippie."
 ---
 
 # Paul Rosenberg
@@ -22,7 +22,7 @@ Rosenberg came to libertarian writing from a technical career: he is a working e
 
 ## Works
 
-- [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] (2003) — his novel of the **Free Souls**, a society built beyond state oversight. Often called the Crypto Anarchist's Bible.
+- [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] (2007) — his novel of the **Free Souls**, a society built beyond state oversight. Often called the Crypto Anarchist's Bible.
 - *Production Versus Plunder* — a sweep of human history read through the conflict between the economic means (production and exchange) and the political means (appropriation by force); the discursive counterpart to the novel's moral frame. **Partially ingested**: The Daily Bell's free, author-authorized [serialization](https://thedailybell.com/all-articles/editorials/paul-rosenberg-introducing-paul-rosenberg-production-versus-plunder/) (introduction + Parts 2–27, roughly chapters 1–7); the later chapters, through the concluding *The Two Futures*, are not yet in the corpus.
 - *The Breaking Dawn* and *The Words of the Founders* — further nonfiction works; **not yet ingested**.
 
@@ -32,7 +32,7 @@ Rosenberg is a lineage node for the wiki's **crypto-anarchy / agorism** cluster,
 
 ## Limits
 
-Confidence is medium. The authorship of *A Lodging of Wayfaring Men* and the titles in his bibliography are grounded in the ingested raws (the novel and its back matter, plus the partial Daily Bell serialization of *Production Versus Plunder*); the biographical detail — Cryptohippie, the Free-Man's Perspective newsletter, the engineering career, Iowa State and the Fiber Optic Association — relies on widely reported secondary accounts rather than the raw corpus, and is summarized narrowly. (Note that several public figures share the name Paul Rosenberg; this page is the libertarian author and Cryptohippie co-founder, not the music manager or the art dealer.)
+Confidence is medium. The authorship of *A Lodging of Wayfaring Men* and *Production Versus Plunder* is grounded in the ingested raws (the novel and its back matter, plus the partial Daily Bell serialization); *The Breaking Dawn* and *The Words of the Founders* are corroborated by public sources but not locally ingested. The biographical detail — Cryptohippie, the Free-Man's Perspective newsletter, the engineering career, Iowa State and the Fiber Optic Association — relies on widely reported secondary accounts rather than the raw corpus, and is summarized narrowly. (Note that several public figures share the name Paul Rosenberg; this page is the libertarian author and Cryptohippie co-founder, not the music manager or the art dealer.)
 
 ## See Also
 
@@ -45,5 +45,5 @@ Confidence is medium. The authorship of *A Lodging of Wayfaring Men* and the tit
 
 ## Sources
 
-- [A Lodging of Wayfaring Men (Full Text Aggregate)](https://archive.org/details/a-lodging-of-wayfaring-men-paul-a.-rosenberg) - Rosenberg's 2003 novel and its back matter (bibliography); uncorrected Internet Archive OCR
-- [Production Versus Plunder (Daily Bell Serialization, Partial)](https://thedailybell.com/all-articles/editorials/paul-rosenberg-introducing-paul-rosenberg-production-versus-plunder/) - the free, author-authorized Daily Bell serial (intro + Parts 2-27, ~chapters 1-7); clean digital text
+- [A Lodging of Wayfaring Men (Full Text Aggregate)](https://archive.org/details/a-lodging-of-wayfaring-men-paul-a.-rosenberg) - Rosenberg's novel (2007 CC edition) and its back matter (bibliography); uncorrected Internet Archive OCR
+- [Production Versus Plunder (Daily Bell Serialization, Partial)](https://thedailybell.com/all-articles/editorials/paul-rosenberg-introducing-paul-rosenberg-production-versus-plunder/) - the free, author-authorized Daily Bell serial (intro + Parts 2-27, ~chapters 1-6); clean digital text
