@@ -89,6 +89,7 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[school-of-salamanca|School of Salamanca]] - the scholastic quantity-theory and anti-debasement roots of sound money
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's history tracing sound-money thought to the scholastics
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
+- [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 
 ## Sources
 

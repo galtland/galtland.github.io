@@ -133,6 +133,7 @@ The contrast supplies the macro-political content of the wiki's monetary argumen
 - [[murray-n-rothbard|Murray N. Rothbard]] — source author
 - [[prices-and-production|Prices and Production and Other Works]] — Hayek source volume (incl. *Monetary Theory and the Trade Cycle*)
 - [[americas-great-depression|America's Great Depression]] — Rothbard's application and policy verdict
+- [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 
 ## Sources
 

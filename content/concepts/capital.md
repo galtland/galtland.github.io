@@ -67,6 +67,7 @@ Capital theory is the analytical hinge between Austrian microeconomics and the w
 - [[economic-calculation-problem|Economic Calculation Problem]] — why a capital structure cannot be valued or steered without market prices
 - [[praxeology|Praxeology]] — the deductive method from which the capital argument is built
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
+- [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 
 ## Sources
 

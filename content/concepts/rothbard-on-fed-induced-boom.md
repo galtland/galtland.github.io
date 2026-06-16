@@ -37,6 +37,8 @@ Second, the sectoral signature. Rothbard insists that the boom is concentrated, 
 
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
+- [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
+
 ## Sources
 
 - [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — Ch. 1 "The Positive Theory of the Cycle" (pp. 9–24): the cluster-of-error formulation, the capital-goods sectoral signature, the institutional indictment of the Federal Reserve, and the 1921–1929 historical application
