@@ -37,6 +37,8 @@ The damage is calculational, not monetary in the headline sense. Entrepreneurs r
 
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
+- [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
+
 ## Sources
 
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) — Ch. XVII §11 ("the only vehicle of credit expansion is circulation credit"; p. 431) and Ch. XX (the gross-market-rate falsification passage; pp. 549–551)

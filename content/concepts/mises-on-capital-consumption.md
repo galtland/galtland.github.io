@@ -41,6 +41,8 @@ The political-economy companion is the [[franz-oppenheimer|Oppenheimer]]/[[alber
 
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
+- [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
+
 ## Sources
 
 - [Liberalism: A Socio-Economic Exposition (Full Text)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) — Part I §5; the directly quoted formulation is at the section on the antiliberal demagogue and the contrast between present gratification and future production.

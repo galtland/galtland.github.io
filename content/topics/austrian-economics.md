@@ -92,6 +92,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[school-of-salamanca|School of Salamanca]] - the proto-Austrian scholastic prehistory of the school
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's Austrian history of pre-Smith economics
+- [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
 
 ## Sources
 
