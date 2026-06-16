@@ -50,3 +50,4 @@ Time preference is the hinge between capital theory and the business cycle. If t
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - what goes wrong when the money rate is forced below the time-preference rate
 - [[praxeology|Praxeology]] - the deductive method that grounds interest in the logic of action
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
+- [[the-general-theory|The General Theory of Employment, Interest and Money]] - Keynes's 1936 General Theory: effective demand, the multiplier, liquidity preference, and the case for managing aggregate demand — the foundational Keynesian text and the Austrian critique's target.

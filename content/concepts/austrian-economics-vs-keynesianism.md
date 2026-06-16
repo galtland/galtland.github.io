@@ -18,11 +18,11 @@ short: "Why Hayek and Rothbard hold that the Keynesian cure is the Austrian dise
 
 ## Two diagnoses of the same slump
 
-John Maynard Keynes built *The General Theory of Employment, Interest and Money* (1936) on the claim that a market economy can settle into an equilibrium with mass unemployment and stay there. Full employment, in his account, is not the system's natural resting point but one special case among many:
+[[john-maynard-keynes|John Maynard Keynes]] built [[the-general-theory|The General Theory of Employment, Interest and Money]] (1936) on the claim that a market economy can settle into an equilibrium with mass unemployment and stay there. Full employment, in his account, is not the system's natural resting point but one special case among many:
 
 > "The effective demand associated with full employment is a special case, only realised when the propensity to consume and the inducement to invest stand in a particular relationship to one another."
 >
-> — John Maynard Keynes, *The General Theory of Employment, Interest and Money*
+> — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
 The cause of the shortfall is deficient effective demand. Because of what he called "the fundamental psychological law" that men "increase their consumption as their income increases, but not by as much as the increase in their income," income that is saved drains out of the circular flow unless investment takes it up — and investment, governed by volatile expectations of profit, may not. Output and employment can therefore be chronically demand-constrained, and the State must close the gap.
 
@@ -34,7 +34,7 @@ The quarrel is not with a caricature; the steelman has to grant Keynes his stron
 
 > "If the Treasury were to fill old bottles with banknotes, bury them at suitable depths in disused coalmines which are then filled up to the surface with town rubbish, and leave it to private enterprise on well-tried principles of laissez-faire to dig the notes up again (the right to do so being obtained, of course, by tendering for leases of the note-bearing territory), there need be no more unemployment and, with the help of the repercussions, the real income of the community, and its capital wealth also, would probably become a good deal greater than it actually is. It would, indeed, be more sensible to build houses and the like; but if there are political and practical difficulties in the way of this, the above would be better than nothing."
 >
-> — John Maynard Keynes, *The General Theory of Employment, Interest and Money*
+> — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
 Keynes did not literally recommend burying banknotes — he noted at once that it would be "more sensible to build houses." The logic is that in a deep slump even useless activity beats idleness, because it sets the multiplier in motion. The disease being treated is insufficient spending *as such*. That premise is exactly what the Austrians deny.
 
@@ -42,7 +42,7 @@ But the remedies went well beyond emergency spending. Keynes wanted the rate of 
 
 > "I conceive, therefore, that a somewhat comprehensive socialisation of investment will prove the only means of securing an approximation to full employment; though this need not exclude all manner of compromises and of devices by which public authority will co-operate with private initiative."
 >
-> — John Maynard Keynes, *The General Theory of Employment, Interest and Money*
+> — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
 Hold that in mind: the cure is more spending, lower interest, and socialised investment. Each of those, for the Austrians, is not a treatment but the pathogen.
 
@@ -116,6 +116,8 @@ The contrast supplies the macro-political content of the wiki's monetary argumen
 ## See Also
 
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] — the boom-bust mechanism this debate turns on
+- [[john-maynard-keynes|John Maynard Keynes]] — the Keynesian side of the comparison
+- [[the-general-theory|The General Theory of Employment, Interest and Money]] — Keynes's foundational text, the source for the Keynesian positions here
 - [[austrian-economics|Austrian Economics]] — the school whose macroeconomics this is
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] — how the loan rate gets pushed below the natural rate
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] — the gross-market-rate distortion at the root of the boom

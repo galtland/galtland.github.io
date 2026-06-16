@@ -68,6 +68,8 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
+- [[john-maynard-keynes|John Maynard Keynes]] - John Maynard Keynes (1883-1946), founder of modern macroeconomics; author of The General Theory (1936) — the Keynesian counterpoint to the wiki's Austrian sources.
+- [[the-general-theory|The General Theory of Employment, Interest and Money]] - Keynes's 1936 General Theory: effective demand, the multiplier, liquidity preference, and the case for managing aggregate demand — the foundational Keynesian text and the Austrian critique's target.
 
 ## Sources
 

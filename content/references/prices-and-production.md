@@ -50,6 +50,7 @@ This is the technical-economic side of Hayek's project. Its concerns barely surf
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise that laid the proto-cycle groundwork Hayek's [[prices-and-production|Prices and Production]] lectures (1931) develop into the mature ABCT
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
+- [[the-general-theory|The General Theory of Employment, Interest and Money]] - Keynes's 1936 General Theory: effective demand, the multiplier, liquidity preference, and the case for managing aggregate demand — the foundational Keynesian text and the Austrian critique's target.
 
 ## Sources
 
