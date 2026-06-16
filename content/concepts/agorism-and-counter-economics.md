@@ -44,6 +44,8 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 - [[the-politics-of-obedience|The Politics of Obedience]] - the withdrawal-of-consent diagnosis agorism operationalizes
 - [[libertarianism|Libertarianism]] - the doctrine whose strategy question agorism answers
 - [[new-libertarian-manifesto|New Libertarian Manifesto]] - Konkin's 1980 founding statement of agorism
+- [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Rosenberg's novel of the Free Souls building the counter-economy in fiction
+- [[paul-rosenberg|Paul Rosenberg]] - author of that crypto-anarchist / agorist novel
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink

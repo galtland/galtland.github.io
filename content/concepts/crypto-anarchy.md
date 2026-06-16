@@ -76,6 +76,8 @@ The confidence level is medium because the article describes May's thesis accura
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the agorist counter-economy strategy this operationalizes
 - [[the-sovereign-individual|The Sovereign Individual]] - reaches the same cryptographic-escape forecast from an investor-and-historian's direction rather than the cryptographer's
 - [[the-cybereconomy|The Cybereconomy]] - Davidson and Rees-Mogg's untaxable digital economy, the macro counterpart to May's crypto-anarchic zones
+- [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Rosenberg's novel dramatizing crypto anarchy as a lived scenario; the Crypto Anarchist's Bible
+- [[paul-rosenberg|Paul Rosenberg]] - author of that crypto-anarchist novel
 
 ## Sources
 

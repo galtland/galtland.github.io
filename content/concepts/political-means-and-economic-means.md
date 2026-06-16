@@ -73,6 +73,8 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its ultimate, leaving a permanent legacy of increased state burdens
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - Tilly's 1985 claim that war making and state making are quintessential protection rackets with the advantage of legitimacy
 - [[power-and-market|Power and Market]] - Rothbard's Power and Market (1970), the standalone companion to Man, Economy, and State
+- [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Rosenberg's novel of producers building beyond the political means; the fiction counterpart to his *Production Versus Plunder*
+- [[paul-rosenberg|Paul Rosenberg]] - author whose production-versus-plunder reading of history applies the distinction
 
 
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
