@@ -14,7 +14,7 @@ short: "Mises's claim in *Liberalism* that a residential-rent ceiling produces a
 
 # Mises on Rent Ceilings
 
-> "When the government fixes a ceiling on residential rents, a housing shortage immediately ensues. In Austria, the Social Democratic Party has virtually abolished residential rent. The consequence is that in the city of Vienna, for example, in spite of the fact that the population has declined considerably since the beginning of the World War and that several thousand new houses have been constructed by the municipality in the meantime, many thousands of persons are unable to find accommodations."
+> "When, for instance, the government fixes a ceiling on residential rents, a housing shortage immediately ensues. In Austria, the Social Democratic Party has virtually abolished residential rent. The consequence is that in the city of Vienna, for example, in spite of the fact that the population has declined considerably since the beginning of the World War and that several thousand new houses have been constructed by the municipality in the meantime, many thousands of persons are unable to find accommodations."
 >
 > — [[ludwig-von-mises|Mises]], [[liberalism|Liberalism]]
 

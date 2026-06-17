@@ -99,7 +99,13 @@ For the Austrians the labour market is a market like any other. Let the wage mov
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[americas-great-depression|America's Great Depression]]
 
-[[ludwig-von-mises|Mises]] had drawn the distinction the argument turns on in [[human-action|Human Action]]. *Catallactic* — market-generated — unemployment is the unemployment of a changing economy: a discharged worker who holds out for a more propitious offer rather than taking the first job going. Mises is careful to call this *speculative* rather than frictional — a deliberate choice to wait, not a mere lag in adjustment — and so voluntary and self-liquidating. *Institutional* unemployment is different in kind — wage rates forced, by union or government compulsion, above what the unhampered market would set — and it lasts exactly as long as that compulsion does. Only the second is a mass phenomenon, and it is a policy artefact rather than a property of the market.
+[[ludwig-von-mises|Mises]] had drawn the distinction the argument turns on in [[human-action|Human Action]]. *Catallactic* — market-generated — unemployment is the unemployment of a changing economy: a discharged worker who holds out for a more propitious offer rather than taking the first job going. Mises insists this waiting is a deliberate choice, not a mere lag in adjustment — "It is speculative, not frictional" — and so voluntary and self-liquidating. *Institutional* unemployment is different in kind:
+
+> "Institutional unemployment is not the outcome of the decisions of the individual job-seekers. It is the effect of interference with the market phenomena intent upon enforcing by coercion and compulsion wage rates higher than those the unhampered market would have determined."
+>
+> — [[ludwig-von-mises|Ludwig von Mises]], [[human-action|Human Action]]
+
+It lasts exactly as long as that compulsion does, and only it is a mass phenomenon — a policy artefact rather than a property of the market.
 
 This is why Keynes's underemployment equilibrium looks, from the Austrian side, like a conclusion smuggled in as a premise. Rothbard notes that even sophisticated Keynesians concede the doctrine "does not really apply (as was first believed) to the free and unhampered market: that it assumes, in fact, that wage rates are rigid downward." Drop the assumption of downward-rigid wages and the standing pool of involuntary unemployment drains away; keep it, and the result was built into the model from the start. What Keynes reads off as a feature of the market is, on this account, a feature of the *rigidity*.
 
