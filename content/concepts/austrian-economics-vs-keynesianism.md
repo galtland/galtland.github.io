@@ -3,10 +3,10 @@ title: "Austrian Economics vs Keynesianism"
 volatility: cold
 category: concept
 created: 2026-06-16
-updated: 2026-06-16
-verified: 2026-06-16
+updated: 2026-06-17
+verified: 2026-06-17
 confidence: high
-tags: [austrian-economics, keynesianism, business-cycle, monetary-theory, credit-expansion, malinvestment, capital-theory, interest-rates, effective-demand, great-depression, macroeconomics, methodology]
+tags: [austrian-economics, keynesianism, business-cycle, monetary-theory, credit-expansion, malinvestment, capital-theory, interest-rates, effective-demand, unemployment, wage-rates, full-employment, great-depression, macroeconomics, methodology]
 aliases: [Austrian vs Keynesian, Hayek vs Keynes, Mises vs Keynes, Keynes vs the Austrians, Austrians vs Keynesians, Austrian Critique of Keynesianism]
 summary: "The strong form of the Austrian case against Keynes: the two schools are not rival cures for one disease but opposites, because the credit expansion, suppressed interest rates, and stimulated consumption Keynes prescribed are, for Hayek and Rothbard after Mises, the precise mechanism that manufactures the boom and the depression that follows. The divide is finally methodological — Keynesian aggregates cannot even see the relative-price and capital-structure distortion the Austrians diagnose."
 short: "Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it."
@@ -89,6 +89,22 @@ Each is a standard instrument of demand management; each, on Rothbard's account,
 
 The radical conclusion is that against the cycle "the government should do nothing at all, that is, should retire quickly from the monetary and economic scene and allow freedom and free markets to work" — precisely where Keynes located the State's indispensable new role.
 
+## Mass unemployment and full employment
+
+The cycle theory accounts for the *burst* of unemployment that opens a depression — labour stranded in the wrong stages as the malinvestments are liquidated, waiting to be reabsorbed. By itself it does not answer Keynes's deeper claim: that a market can settle into a lasting equilibrium of involuntary mass unemployment, with full employment only a special case. The Austrian reply to *that* is a separate argument, and it is about the price of labour.
+
+For the Austrians the labour market is a market like any other. Let the wage move freely and it tends toward the rate that clears it — the rate at which the supply of labour and the demand for it meet — and at that rate anyone willing to work for the going wage can find work. Persistent mass unemployment is therefore not an equilibrium a free market rests in but a disequilibrium with a definite cause: a wage held *above* the clearing level. Rothbard puts labour on exactly the same footing as any other good:
+
+> "In a free market, wage rates will tend to adjust themselves so that there is no involuntary unemployment, i.e., so that all those desiring to work can find jobs."
+>
+> — [[murray-n-rothbard|Murray Rothbard]], [[americas-great-depression|America's Great Depression]]
+
+[[ludwig-von-mises|Mises]] had drawn the distinction the argument turns on in [[human-action|Human Action]]. *Catallactic* — market-generated — unemployment is the unemployment of a changing economy: a discharged worker who holds out for a more propitious offer rather than taking the first job going. Mises is careful to call this *speculative* rather than frictional — a deliberate choice to wait, not a mere lag in adjustment — and so voluntary and self-liquidating. *Institutional* unemployment is different in kind — wage rates forced, by union or government compulsion, above what the unhampered market would set — and it lasts exactly as long as that compulsion does. Only the second is a mass phenomenon, and it is a policy artefact rather than a property of the market.
+
+This is why Keynes's underemployment equilibrium looks, from the Austrian side, like a conclusion smuggled in as a premise. Rothbard notes that even sophisticated Keynesians concede the doctrine "does not really apply (as was first believed) to the free and unhampered market: that it assumes, in fact, that wage rates are rigid downward." Drop the assumption of downward-rigid wages and the standing pool of involuntary unemployment drains away; keep it, and the result was built into the model from the start. What Keynes reads off as a feature of the market is, on this account, a feature of the *rigidity*.
+
+The depression is where the two threads meet. The bust throws workers out of the malinvested stages; whether that unemployment stays brief or hardens into the mass unemployment of the 1930s turns on whether wages are allowed to fall to the new clearing level. Rothbard makes the consequence explicit: "If wage rates are kept above the free-market level that clears the demand for and supply of labor, laborers will remain permanently unemployed." That sharpens the "Keep wage rates up" entry already on the interventionist list above into a historical charge — Hoover's pressure on business to hold money wages up after 1929 is, on this reading, what turned a sharp correction into a decade of idleness. So full employment is not the elusive special case Keynes made of it. It is the standing tendency of a free labour market, and its absence as a *mass* and lasting fact is the fingerprint of the coercion that keeps wages from clearing.
+
 ## Why the quarrel is methodological
 
 Underneath the policy fight is a disagreement about what counts as an explanation. Keynes reasons in aggregates: effective demand is a single magnitude, the multiplier acts on it, and the general price level and the volume of output are the objects of theory. Hayek's objection cuts beneath any particular policy to the method itself:
@@ -132,6 +148,7 @@ The contrast supplies the macro-political content of the wiki's monetary argumen
 - [[friedrich-a-hayek|F. A. Hayek]] — source author
 - [[murray-n-rothbard|Murray N. Rothbard]] — source author
 - [[prices-and-production|Prices and Production and Other Works]] — Hayek source volume (incl. *Monetary Theory and the Trade Cycle*)
+- [[human-action|Human Action]] — Mises source volume; the catallactic-vs-institutional unemployment distinction behind the wage-rate argument
 - [[americas-great-depression|America's Great Depression]] — Rothbard's application and policy verdict
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 
@@ -139,4 +156,5 @@ The contrast supplies the macro-political content of the wiki's monetary argumen
 
 - [Keynes — The General Theory of Employment, Interest and Money (Full Text)](https://gutenberg.net.au/ebooks03/0300071h/0-index.html) — Keynes's effective-demand "special case," the buried-banknotes illustration, "animal spirits," the "euthanasia of the rentier," and the call for a "socialisation of investment"
 - [Prices and Production and Other Works (Full Text Aggregate)](https://cdn.mises.org/prices_and_production_and_other_works.pdf) — Hayek on the structure of production, artificial vs. real changes in saving, forced saving as a cause of crises, the rejection of aggregate/average reasoning, and *Monetary Theory and the Trade Cycle*
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — Rothbard on the depression as the "recovery" process and laissez-faire as the only valid depression policy
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — Rothbard on the depression as the "recovery" process, laissez-faire as the only valid depression policy, and the wage-rate theory of mass unemployment (the free labour market clears; unemployment becomes severe and lasting only when wages are held above the clearing level)
+- [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) — Mises's distinction between catallactic (speculative, voluntary) and institutional unemployment, the latter the product of wage rates forced above the rate the unhampered market would set
