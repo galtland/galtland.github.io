@@ -61,5 +61,5 @@ This concept is narrower than [[market-anarchism-and-private-law|Market Anarchis
 - [The Market for Liberty (Full Text Aggregate)](https://cdn.mises.org/the_market_for_liberty_2.epub) - most detailed account of defense agencies, policing functions, and the role of insurance
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - theoretical case for competitive security production and insurance-based discipline
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - property-theoretic route from ownership to private police and courts
-- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - Rothbard's broader political framing for non-state protection
+- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - Rothbard's broader political framing for non-state protection
 - [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - Molinari's 1849 founding statement of the private-security thesis

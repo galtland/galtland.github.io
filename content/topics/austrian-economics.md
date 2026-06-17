@@ -94,16 +94,17 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's Austrian history of pre-Smith economics
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
+- [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
 
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - the central treatise of the modern Austrian school
-- [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_3.pdf) - 1922 critique containing the original calculation argument
-- [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.pdf) - epistemological defense of the deductive method
+- [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - 1922 critique containing the original calculation argument
+- [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.epub) - epistemological defense of the deductive method
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Hayek's knowledge-problem essays and the socialist-calculation papers
 - [Prices and Production and Other Works (Full Text Aggregate)](https://cdn.mises.org/prices_and_production_and_other_works.pdf) - Hayek's monetary and capital-theoretic core
-- [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's full treatise on action, exchange, prices, money, and intervention
+- [Man, Economy, and State (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's full treatise on action, exchange, prices, money, and intervention
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - property-based contrast between capitalism, socialism, and the state
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - praxeology, money, taxation, public goods, and private property
-- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - political applications built on Austrian economic conclusions
+- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - political applications built on Austrian economic conclusions
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - modern application of praxeology, property theory, money, and capital theory to privacy and cryptographic implementation

@@ -61,5 +61,5 @@ The popular framing of "two Mises disciples with different economic ideas" is ha
 ## Sources
 
 - [Mises and Hayek Dehomogenized (Salerno 1993)](https://mises.org/library/mises-and-hayek-dehomogenized) - the two-paradigm argument (Mises/Böhm-Bawerk vs Hayek/Wieser-Kirzner)
-- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - ch. 28, Rothbard's critique of Hayek's concept of coercion
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - ch. 28, Rothbard's critique of Hayek's concept of coercion
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek's limited-government classical liberalism

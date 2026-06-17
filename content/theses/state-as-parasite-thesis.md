@@ -136,11 +136,11 @@ Considered through the wiki's anarcho-libertarian sources together with Tilly's 
 
 ## Sources
 
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - parasite/predation language, ideological-camouflage thesis, Ruritania bandit-to-King, Nock-via-Rothbard "monopoly of crime"
+- [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - parasite/predation language, ideological-camouflage thesis, Ruritania bandit-to-King, Nock-via-Rothbard "monopoly of crime"
 - [The Law (Full Text Aggregate)](https://mises.org/online-book/law) - Bastiat's "conversion of the law into an instrument of plunder"
 - [The Politics of Obedience (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - La Boetie's consent-via-habit
 - [Let's Abolish Government (Full Text Extract)](https://cdn.mises.org/Lets%20Abolish%20Government_2.pdf) - Spooner's anti-state dissent corpus
-- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's minarchist counterpoint
+- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) - Mises's minarchist counterpoint
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek's minarchist / rule-of-law counterpoint
 - [Thus Spake Zarathustra: The New Idol (Part I, Ch. XI)](https://www.gutenberg.org/ebooks/1998) - "'I, the state, am the people' — that is a lie"
 - [The State: Its History and Development Viewed Sociologically (Oppenheimer)](https://www.gutenberg.org/ebooks/51544) - conquest-origin thesis and political-means definition

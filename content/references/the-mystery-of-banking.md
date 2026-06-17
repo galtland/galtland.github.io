@@ -50,5 +50,5 @@ The 100%-reserve-banking position the wiki adopts in [[hundred-percent-reserve-b
 
 ## Sources
 
-- [The Mystery of Banking — Full Text Aggregate](https://mises.org/library/book/mystery-banking) — 322-page PDF extracted via pdftotext -raw (~10.5k lines). OCR clean; standard book-front-matter / index artifacts at boundaries.
+- [The Mystery of Banking — Full Text Aggregate](https://cdn.mises.org/Mystery%20of%20Banking.epub) — 322-page PDF extracted via pdftotext -raw (~10.5k lines). OCR clean; standard book-front-matter / index artifacts at boundaries.
 - [The "True" Money Supply (Salerno 1987)](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy) — endnote 1 cites *Mystery of Banking* (pp. 254–62) as one of Rothbard's three primary statements of the broad money-supply criterion; this is what backs the "Salerno later formalized" claim above.

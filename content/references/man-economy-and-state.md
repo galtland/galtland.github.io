@@ -55,5 +55,5 @@ The current raw source was assembled on 2026-04-21 from 23 top-level section exp
 
 ## Sources
 
-- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - full aggregated source used for this reference article
+- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - full aggregated source used for this reference article
 - [Man, Economy, and State: A Treatise on Economics](https://mises.org/library/book/man-economy-and-state-treatise-economics) - Mises page metadata and concise descriptive framing

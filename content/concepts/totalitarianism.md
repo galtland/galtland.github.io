@@ -99,5 +99,5 @@ The useful synthesis is limited: libertarian sources explain why state monopoly 
 - [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - ordinary-participant layer, bureaucratic legality, thoughtlessness, and banality of evil
 - [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - abridged Soviet camp-system documentation supporting the total-domination distinction
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek comparison point for central planning, rule of law, and arbitrary power
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbardian state-power comparator
+- [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - Rothbardian state-power comparator
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly comparison point for coercion-intensive state formation that should not be collapsed into totalitarianism

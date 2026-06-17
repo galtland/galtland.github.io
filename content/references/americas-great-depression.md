@@ -59,5 +59,5 @@ The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 page
 
 ## Sources
 
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) - full Mises Institute 5th-edition PDF as a wiki-ingestable aggregate
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) - full Mises Institute 5th-edition PDF as a wiki-ingestable aggregate
 - [America's Great Depression](https://mises.org/library/book/americas-great-depression) - Mises library page metadata and descriptive framing

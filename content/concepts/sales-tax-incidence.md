@@ -51,5 +51,5 @@ This concept sits at the intersection of [[austrian-economics|Austrian Economics
 
 ## Sources
 
-- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's direct treatment of general sales tax incidence, backward shifting, and the claim that no tax can be shifted forward
+- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's direct treatment of general sales tax incidence, backward shifting, and the claim that no tax can be shifted forward
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Hoppe's corroborating critique of the forward-shifting doctrine

@@ -50,5 +50,5 @@ This book is in dialogue with several other sources. The natural-law foundation 
 
 ## Sources
 
-- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - full NYU Press 1998 edition extracted from the Mises PDF
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - full NYU Press 1998 edition extracted from the Mises PDF
 - [The Ethics of Liberty](https://mises.org/library/book/ethics-liberty) - Mises library page metadata and descriptive framing

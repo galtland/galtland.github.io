@@ -95,8 +95,8 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 
 ## Sources
 
-- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) - Mises 1912/1934, regression theorem and the classical sound-money program
-- [The Mystery of Banking](https://mises.org/library/book/mystery-banking) - Rothbard 1983/2008, accessible statement of the 100%-reserve commodity-money case
+- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) - Mises 1912/1934, regression theorem and the classical sound-money program
+- [The Mystery of Banking](https://cdn.mises.org/Mystery%20of%20Banking.epub) - Rothbard 1983/2008, accessible statement of the 100%-reserve commodity-money case
 - [Money, Sound and Unsound](https://mises.org/library/book/money-sound-and-unsound) - Salerno 2010 essays bringing Mises and Rothbard forward into modern monetary debate
 - [Shelling Out](https://nakamotoinstitute.org/library/shelling-out/) - Szabo 2002, prehistoric collectibles as proto-hard-money
 - [Bit Gold](https://nakamotoinstitute.org/library/bit-gold/) - Szabo 2005, the cypherpunk re-implementation

@@ -79,6 +79,6 @@ This is an endorsement of fit, not a full empirical decomposition of Argentina's
 
 ## Sources
 
-- [Liberalism: In the Classical Tradition](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises on residential rent ceilings and housing shortage
+- [Liberalism: In the Classical Tradition](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) - Mises on residential rent ceilings and housing shortage
 - [Human Action: A Treatise on Economics](https://cdn.mises.org/human_action.epub) - Mises on urban rent transfer and rent restrictions
-- [Power and Market: Government and the Economy](https://mises.org/online-book/power-and-market-government-and-economy) - Rothbard on maximum-price controls and artificial shortage
+- [Power and Market: Government and the Economy](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - Rothbard on maximum-price controls and artificial shortage

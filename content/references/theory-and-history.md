@@ -3,8 +3,8 @@ title: "Theory and History"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-17
+verified: 2026-06-17
 tags: [mises, methodology, epistemology, philosophy-of-history]
 aliases: [Mises Theory and History, Methodological Dualism]
 confidence: medium
@@ -25,7 +25,7 @@ Mises makes the case for methodological dualism: the natural sciences seek causa
 
 ## Scope of the Full-Text Ingest
 
-The current raw source is the Mises Institute's PDF (404 pages), extracted with `pdftotext -layout`. It contains the four parts — Value, Determinism and Materialism, Epistemological Problems of History, and The Course of History — together with Rothbard's 1985 preface.
+The current raw source is the Mises Institute's EPUB, re-extracted as clean XHTML on 2026-06-17 (superseding the earlier 404-page `pdftotext -layout` extraction). It contains the four parts — Value, Determinism and Materialism, Epistemological Problems of History, and The Course of History — together with Rothbard's 1985 preface.
 
 ## Relation to the Wiki's Methodological Spine
 
@@ -38,8 +38,9 @@ This book makes explicit what other Misesian and Rothbardian texts assume: that 
 - [[austrian-economics|Austrian Economics]] - school whose method this book grounds
 - [[murray-n-rothbard|Murray N. Rothbard]] - introducer of the 1985 reprint and major heir to the method
 - [[human-action|Human Action]] - the treatise whose method this book examines
+- [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
 
 ## Sources
 
-- [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.pdf) - full PDF as a wiki-ingestable aggregate
+- [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.epub) - full text (clean Mises EPUB extraction) as a wiki-ingestable aggregate
 - [Theory and History](https://mises.org/library/book/theory-and-history-interpretation-social-and-economic-evolution) - Mises library page metadata and descriptive framing

@@ -71,7 +71,7 @@ It is also not the same as narrow banking, sovereign-money proposals, or central
 
 ## Sources
 
-- [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) — Ch. 12 §A "Inflation and Credit Expansion": the pseudo-warehouse-receipts framing and the definition of inflation as supply increase beyond specie
-- [The Mystery of Banking (Full Text Aggregate)](https://mises.org/library/book/mystery-banking) — Rothbard's book-length popular statement of the property-rights case
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — the cycle-theory chapter's tight inflation definition
-- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — the Mises typology of money-substitutes (money-certificates vs fiduciary media) that the Rothbardian 100%-reserve position rules on
+- [Man, Economy, and State (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) — Ch. 12 §A "Inflation and Credit Expansion": the pseudo-warehouse-receipts framing and the definition of inflation as supply increase beyond specie
+- [The Mystery of Banking (Full Text Aggregate)](https://cdn.mises.org/Mystery%20of%20Banking.epub) — Rothbard's book-length popular statement of the property-rights case
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) — the cycle-theory chapter's tight inflation definition
+- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) — the Mises typology of money-substitutes (money-certificates vs fiduciary media) that the Rothbardian 100%-reserve position rules on

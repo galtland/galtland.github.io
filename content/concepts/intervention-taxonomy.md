@@ -55,6 +55,6 @@ Rothbard also stressed that intervention is **self-propagating**: each intervent
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 ## Sources
 
-- [Power and Market: Government and the Economy](https://mises.org/online-book/power-and-market-government-and-economy) - Rothbard's canonical statement of the autistic/binary/triangular typology (chs. 1-3)
-- [Man, Economy, and State](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's treatise; the intervention-cascade analysis (ch. 12)
+- [Power and Market: Government and the Economy](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - Rothbard's canonical statement of the autistic/binary/triangular typology (chs. 1-3)
+- [Man, Economy, and State](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's treatise; the intervention-cascade analysis (ch. 12)
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 10 application of the typology to financial surveillance and CBDCs

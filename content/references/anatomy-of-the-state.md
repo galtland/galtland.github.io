@@ -59,7 +59,7 @@ In the current reference set, this book is the compressed companion to [[for-a-n
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - full aggregated source from the Mises online-book edition
+- [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - full aggregated source from the Mises online-book edition
 - [Anatomy of the State](https://mises.org/library/book/anatomy-state) - Mises page metadata and concise descriptive framing
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - source behind the political/economic means distinction Rothbard cites
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - source behind the social-power/state-power vocabulary Rothbard invokes

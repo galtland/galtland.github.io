@@ -35,4 +35,4 @@ The mechanism reaches its full institutional form when paired with [[hoppe-on-ca
 
 ## Sources
 
-- [Power and Market: Government and the Economy (Full Text Aggregate)](https://mises.org/online-book/power-and-market-government-and-economy) — Ch. 4 §C "A Tax on Individual Wealth"; the directly quoted passages on non-capitalization, non-shifting, and the slashing of accumulated capital are from this section.
+- [Power and Market: Government and the Economy (Full Text Aggregate)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) — Ch. 4 §C "A Tax on Individual Wealth"; the directly quoted passages on non-capitalization, non-shifting, and the slashing of accumulated capital are from this section.

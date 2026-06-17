@@ -71,4 +71,4 @@ Capital theory is the analytical hinge between Austrian microeconomics and the w
 
 ## Sources
 
-- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) — Ch. 5 ("Production: The Structure"), esp. §9 "The Formation of Capital" (Crusoe, saving/investment, perishability, capital consumption, the reducibility of capital goods, the Böhm-Bawerk analogy, and capital as a way station in time); plus the material on capital value and the meaninglessness of aggregate National/World Capital
+- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) — Ch. 5 ("Production: The Structure"), esp. §9 "The Formation of Capital" (Crusoe, saving/investment, perishability, capital consumption, the reducibility of capital goods, the Böhm-Bawerk analogy, and capital as a way station in time); plus the material on capital value and the meaninglessness of aggregate National/World Capital

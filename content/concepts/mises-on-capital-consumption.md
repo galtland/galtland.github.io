@@ -45,4 +45,4 @@ The political-economy companion is the [[franz-oppenheimer|Oppenheimer]]/[[alber
 
 ## Sources
 
-- [Liberalism: A Socio-Economic Exposition (Full Text)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) — Part I §5; the directly quoted formulation is at the section on the antiliberal demagogue and the contrast between present gratification and future production.
+- [Liberalism: A Socio-Economic Exposition (Full Text)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) — Part I §5; the directly quoted formulation is at the section on the antiliberal demagogue and the contrast between present gratification and future production.

@@ -105,7 +105,7 @@ The reading should be held to its limits. Nothing in it requires treating the Un
 ## Sources
 
 - [BBC Profiles Yusuf Ali, a Mogadishu Shopkeeper Who Was a Child Soldier in Somalia's War](/news/2026-06-07-bbc-news-published-2026-06-06-profiles-yusuf-ali-34-a-mogadishu-shopkeeper-who-was-a-child-soldier-in-somalia-s-war) — the verbatim news post under analysis
-- [Anatomy of the State (Full Text)](https://mises.org/online-book/anatomy-state) — Rothbard on war power, emergency, and the permanent legacy of state burdens
+- [Anatomy of the State (Full Text)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) — Rothbard on war power, emergency, and the permanent legacy of state burdens
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) — Tilly's racketeer definition and organized-crime analogy
 - [Coercion, Capital, and European States, AD 990–1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) — Tilly's account of extraction from the subject population
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) — Oppenheimer on conquest, the political means, and the order it appropriates

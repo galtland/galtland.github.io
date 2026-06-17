@@ -139,17 +139,17 @@ Liberty does not win by out-uniting nationalism on its own ground; it cannot. If
 ## Sources
 
 - [The Politics of Obedience (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - La Boétie on habituated obedience and withdrawal of consent
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - intellectuals-as-opinion-molders and the war-ratchet
+- [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - intellectuals-as-opinion-molders and the war-ratchet
 - [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) - rational ignorance and the logic of collective action
 - [Folkways: We-Group, Out-Group, and Ethnocentrism (extract)](https://www.gutenberg.org/ebooks/24253) - Sumner on ethnocentrism and the we-group
 - [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto) - Konkin on the counter-economy and "no change in human nature needed"
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly on nationalism within state formation
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt on atomization and mass mobilization
 - [Mises and Hayek Dehomogenized (Salerno 1993)](https://mises.org/library/mises-and-hayek-dehomogenized) - the two-paradigm account of the internal split
-- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's natural-rights foundation and critique of Hayek's coercion concept
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's natural-rights foundation and critique of Hayek's coercion concept
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek's limited-government classical liberalism
-- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's consequentialist defense and the shared property spine
-- [For a New Liberty (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - the education-and-opinion strategy
+- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) - Mises's consequentialist defense and the shared property spine
+- [For a New Liberty (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - the education-and-opinion strategy
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - the resistance axiom, CBDCs as total intervention, and the cost-asymmetry of breaking observation
 - [The Fiat Standard (Full Text Aggregate)](https://archive.org/details/the-fiat-standard-the-debt-slavery-alternative-to-human-civilization_202409) - discretionary fiat as unsustainable and inflation as a covert, non-consensual transfer
 - [The Bitcoin Standard (Full Text Aggregate)](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - the hard-money lineage and the case against debasement

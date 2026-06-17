@@ -53,4 +53,4 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 
 ## Sources
 
-- [Power and Market: Government and the Economy (Full Text Aggregate)](https://mises.org/online-book/power-and-market-government-and-economy) - full aggregated source used for this reference article (7 chapters + bibliography, captured from the Mises online-book HTML export 2026-05-16)
+- [Power and Market: Government and the Economy (Full Text Aggregate)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - full aggregated source used for this reference article (7 chapters + bibliography, captured from the Mises online-book HTML export 2026-05-16)

@@ -41,4 +41,4 @@ Second, the sectoral signature. Rothbard insists that the boom is concentrated, 
 
 ## Sources
 
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — Ch. 1 "The Positive Theory of the Cycle" (pp. 9–24): the cluster-of-error formulation, the capital-goods sectoral signature, the institutional indictment of the Federal Reserve, and the 1921–1929 historical application
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) — Ch. 1 "The Positive Theory of the Cycle" (pp. 9–24): the cluster-of-error formulation, the capital-goods sectoral signature, the institutional indictment of the Federal Reserve, and the 1921–1929 historical application

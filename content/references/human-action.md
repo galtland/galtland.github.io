@@ -58,6 +58,7 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
+- [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
 
 ## Sources
 

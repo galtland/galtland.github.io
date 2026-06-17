@@ -84,11 +84,12 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[capitalism-and-freedom|Capitalism and Freedom]] - Friedman's 1962 Capitalism and Freedom: capitalism as a precondition of political liberty, limited government, and the rule-bound managed money the Austrians reject
 - [[milton-friedman|Milton Friedman]] - Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism; author of Capitalism and Freedom and the 1968 monetary address
+- [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
 
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - the central treatise
-- [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_3.pdf) - 1922 critique with the calculation argument
-- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - 1927 classical-liberal manifesto
-- [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.pdf) - 1957 methodological treatise
+- [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - 1922 critique with the calculation argument
+- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) - 1927 classical-liberal manifesto
+- [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.epub) - 1957 methodological treatise
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - downstream use of Mises's action axiom and praxeological method in privacy theory

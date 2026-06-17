@@ -69,4 +69,4 @@ That convergence sharpens [[state-power-and-intervention|State Power and Interve
 - [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - primary source for the banality-of-evil thesis, thoughtlessness, legal obedience, and the controversy
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - companion regime-level framework
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek comparison point for planning, law, and arbitrary power
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbardian state-power comparator
+- [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - Rothbardian state-power comparator

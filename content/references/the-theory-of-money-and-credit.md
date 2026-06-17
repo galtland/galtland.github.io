@@ -84,4 +84,4 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 ## Sources
 
-- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) - full 1953 Yale edition PDF (500 pp.) as a wiki-ingestable aggregate, including all four parts plus appendices
+- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) - full 1953 Yale edition PDF (500 pp.) as a wiki-ingestable aggregate, including all four parts plus appendices

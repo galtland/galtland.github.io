@@ -86,10 +86,10 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 
 ## Sources
 
-- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's major economic treatise as a full-text aggregate
-- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - integrated political overview
-- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's natural-rights treatise (1998 NYU Press edition with Hoppe introduction)
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - concise anti-state essay
+- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's major economic treatise as a full-text aggregate
+- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - integrated political overview
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's natural-rights treatise (1998 NYU Press edition with Hoppe introduction)
+- [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - concise anti-state essay
 - [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - Étienne de La Boétie's discourse on withdrawn consent; an anti-state predecessor in the tradition Rothbard worked within (the raw is the discourse text, by La Boétie)
 - [Let's Abolish Government (Full Text Extract)](https://cdn.mises.org/Lets%20Abolish%20Government_2.pdf) - a Lysander Spooner collection (No Treason; A Letter to Grover Cleveland); an anti-state predecessor in Rothbard's lineage (the raw is Spooner's text)
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) - canonical Austrian reading of 1929–1933 and the historical application of his economic framework
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) - canonical Austrian reading of 1929–1933 and the historical application of his economic framework

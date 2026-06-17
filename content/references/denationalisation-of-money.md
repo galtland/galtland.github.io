@@ -69,6 +69,6 @@ These criticisms do not all land the same way against Bitcoin, whose cryptograph
 ## Sources
 
 - [Denationalisation of Money: The Argument Refined (Full Text)](https://archive.org/details/denationalisation-of-money-the-argument-refined-5) - IEA Hobart Paperback, 2nd ed. 1978; freely distributed by the IEA / Mises Institute (quote-check against an authorized edition)
-- [The Mystery of Banking (Full Text Aggregate)](https://mises.org/library/book/mystery-banking) - Rothbard; source for the reference to his "Hayek's Denationalized Money" critique
+- [The Mystery of Banking (Full Text Aggregate)](https://cdn.mises.org/Mystery%20of%20Banking.epub) - Rothbard; source for the reference to his "Hayek's Denationalized Money" critique
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Hoppe's characterization of the proposal as a "misconception" and his regression-theorem objection
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 7 "Cybercash" section, where the authors cite Hayek and predict denationalized digital money

@@ -157,10 +157,11 @@ The contrast supplies the macro-political content of the wiki's monetary argumen
 - [[human-action|Human Action]] — Mises source volume; the catallactic-vs-institutional unemployment distinction behind the wage-rate argument
 - [[americas-great-depression|America's Great Depression]] — Rothbard's application and policy verdict
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
+- [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
 
 ## Sources
 
 - [Keynes — The General Theory of Employment, Interest and Money (Full Text)](https://gutenberg.net.au/ebooks03/0300071h/0-index.html) — Keynes's effective-demand "special case," the buried-banknotes illustration, "animal spirits," the "euthanasia of the rentier," and the call for a "socialisation of investment"
 - [Prices and Production and Other Works (Full Text Aggregate)](https://cdn.mises.org/prices_and_production_and_other_works.pdf) — Hayek on the structure of production, artificial vs. real changes in saving, forced saving as a cause of crises, the rejection of aggregate/average reasoning, and *Monetary Theory and the Trade Cycle*
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — Rothbard on the depression as the "recovery" process, laissez-faire as the only valid depression policy, and the wage-rate theory of mass unemployment (the free labour market clears; unemployment becomes severe and lasting only when wages are held above the clearing level)
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) — Rothbard on the depression as the "recovery" process, laissez-faire as the only valid depression policy, and the wage-rate theory of mass unemployment (the free labour market clears; unemployment becomes severe and lasting only when wages are held above the clearing level)
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) — Mises's distinction between catallactic (speculative, voluntary) and institutional unemployment, the latter the product of wage rates forced above the rate the unhampered market would set

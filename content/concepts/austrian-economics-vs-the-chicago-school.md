@@ -129,10 +129,11 @@ The Chicago School is the most serious free-market alternative to the Austrian p
 - [[inflation-and-unemployment|Inflation and Unemployment]] — Friedman's 1976 Nobel lecture on the natural rate; develops the monetarist method this article contrasts with praxeology
 - [[human-action|Human Action]] — Mises source volume
 - [[americas-great-depression|America's Great Depression]] — Rothbard source volume and the direct critique of Friedman on the 1920s
+- [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
 
 ## Sources
 
 - **Friedman — Capitalism and Freedom (Full Text)** — economic freedom as a precondition of political freedom; the Great Depression as government mismanagement; the rejection of both the automatic gold standard and discretionary authorities; the legislated money-growth rule as "a pillar of a free society"
 - [Friedman — The Role of Monetary Policy (1968)](https://www.jstor.org/stable/1831652) — the reinterpretation of the Great Contraction as deflationary failure; the money stock falling by one-third; the "tragic testimony to the power of monetary policy"; the steady-money-growth prescription (cited as OCR — wording confirmed against the scan)
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) — economics as an a priori, non-experimental science; the incoherence of "neutral money" and a money of "stable purchasing power"; the gold standard as a social institution
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — the "diametrically opposed" causal verdicts; the monetarists' lack of a causal cycle theory; the stable 1920s price level as concealed inflation; Friedman praising Strong; the Chicago constant-price-level goal as the cycle's engine
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) — the "diametrically opposed" causal verdicts; the monetarists' lack of a causal cycle theory; the stable 1920s price level as concealed inflation; Friedman praising Strong; the Chicago constant-price-level goal as the cycle's engine

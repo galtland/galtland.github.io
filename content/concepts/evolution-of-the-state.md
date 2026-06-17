@@ -113,6 +113,6 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - private-security counterfactual
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - abstract power hierarchy comparison
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - full-text Tilly source (chapters 1-7) for war-making, extraction, capital/coercion paths, and European state-system convergence
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbard's Oppenheimer-derived analytic state definition
+- [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - Rothbard's Oppenheimer-derived analytic state definition
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt's preconditions account for totalitarianism as a novel twentieth-century form of government
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapters 5-6 for the megapolitical forecast of nation-state decline in the information age

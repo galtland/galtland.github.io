@@ -87,8 +87,8 @@ How to detect that this mechanism is in progress is a separate question handled 
 
 ## Sources
 
-- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Part III Ch. XX: the rate-suppression and fresh-loan-rolling passages quoted in stages 1 and the long-run section
+- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) — Part III Ch. XX: the rate-suppression and fresh-loan-rolling passages quoted in stages 1 and the long-run section
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) — Ch. XVII §11 and Ch. XX: the calculation-falsification statement for stage 2
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — the sectoral-asymmetry diagnostic for stage 3
-- [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) — Ch. 12 §A "Inflation and Credit Expansion": Rothbard's parallel statement of the mechanism
-- [The Mystery of Banking (Full Text Aggregate)](https://mises.org/library/book/mystery-banking) — Rothbard's accessible book-length treatment of fractional reserves and the credit-expansion mechanism
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) — the sectoral-asymmetry diagnostic for stage 3
+- [Man, Economy, and State (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) — Ch. 12 §A "Inflation and Credit Expansion": Rothbard's parallel statement of the mechanism
+- [The Mystery of Banking (Full Text Aggregate)](https://cdn.mises.org/Mystery%20of%20Banking.epub) — Rothbard's accessible book-length treatment of fractional reserves and the credit-expansion mechanism

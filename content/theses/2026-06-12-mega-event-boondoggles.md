@@ -82,8 +82,8 @@ So the hospital built the same way inherits the same defect. It may be more defe
 ## Sources
 
 - [Reuters: Why World Cups and Olympics Rarely Pay Off for Host Cities](/news/2026-06-12-https-x-com-reuters-status-2064894418474209603-reuters-11-june-2026-instead-of-building-the-stadium-they-could-h) — the news post under analysis
-- [Liberalism: A Socio-Economic Exposition (Full Text)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) — Introduction §4 ("The Aim of Liberalism"), antiliberal policy as capital consumption
+- [Liberalism: A Socio-Economic Exposition (Full Text)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) — Introduction §4 ("The Aim of Liberalism"), antiliberal policy as capital consumption
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) — Ch. 1, the prince-versus-caretaker passages and the capital-consumption corollary
 - [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) — Shughart on concentrated interests, pork-barrel financing, and rational voter ignorance
-- [Power and Market: Government and the Economy](https://mises.org/online-book/power-and-market-government-and-economy) — Rothbard's binary and triangular intervention applied to tax financing and privilege grants
+- [Power and Market: Government and the Economy](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) — Rothbard's binary and triangular intervention applied to tax financing and privilege grants
 - [Individualism and Economic Order](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) — Hayek's dispersed-knowledge argument behind the opportunity-cost critique

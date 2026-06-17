@@ -60,7 +60,7 @@ Not every libertarian tradition embraces full market anarchism, but this topic w
 ## Sources
 
 - [The Market for Liberty (Full Text Aggregate)](https://cdn.mises.org/the_market_for_liberty_2.epub) - most detailed institutional sketch of private courts, defense, insurance, and title
-- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - Rothbard's movement-level political argument for non-state order
+- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - Rothbard's movement-level political argument for non-state order
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - theoretical case for private law, including police and courts
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - property-based treatment of public goods, taxation, and security
 - [The Law (Full Text Aggregate)](https://mises.org/online-book/law) - negative standard for identifying law that has turned into legalized plunder

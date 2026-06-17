@@ -46,5 +46,5 @@ The current raw source is the Mises Institute's PDF edition (600 pages), extract
 
 ## Sources
 
-- [Socialism: An Economic and Sociological Analysis (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_3.pdf) - full PDF as a wiki-ingestable aggregate
+- [Socialism: An Economic and Sociological Analysis (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - full PDF as a wiki-ingestable aggregate
 - [Socialism: An Economic and Sociological Analysis](https://mises.org/library/book/socialism-economic-and-sociological-analysis) - Mises library page metadata and descriptive framing

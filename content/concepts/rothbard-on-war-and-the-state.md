@@ -45,4 +45,4 @@ The claim sits inside the broader [[state-power-and-intervention|State Power and
 - [[non-interventionism|Non-Interventionism]] - the normative non-intervention stance that pairs with this war-power ratchet
 ## Sources
 
-- [Anatomy of the State (Full Text)](https://mises.org/online-book/anatomy-state) — Rothbard's "What the State Fears" chapter; verbatim source for the war/defense/emergency slogan analysis and the permanent-burden formulation
+- [Anatomy of the State (Full Text)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) — Rothbard's "What the State Fears" chapter; verbatim source for the war/defense/emergency slogan analysis and the permanent-burden formulation

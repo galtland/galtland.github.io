@@ -84,12 +84,12 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 
 ## Sources
 
-- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - states and applies the anti-aggression axiom across many domains
+- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - states and applies the anti-aggression axiom across many domains
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - extends property and contract into political economy and public goods
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - defines capitalism, socialism, and aggression in property terms
 - [The Market for Liberty (Full Text Aggregate)](https://cdn.mises.org/the_market_for_liberty_2.epub) - applies self-ownership and property rights to law, defense, and restitution
 - [The Law (Full Text Aggregate)](https://mises.org/online-book/law) - law, liberty, property, and the problem of legalized plunder
-- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's natural-rights treatment of self-ownership, property, contract, and aggression
-- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's consequentialist case for property, exchange, and a free society
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's natural-rights treatment of self-ownership, property, contract, and aggression
+- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) - Mises's consequentialist case for property, exchange, and a free society
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - application of self-ownership, scarce media, and contract to privacy and surveillance
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - political/economic means distinction as historical-sociological counterpart to aggression versus production

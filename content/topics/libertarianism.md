@@ -109,17 +109,17 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical natural-rights foundation of the natural-rights branch of the doctrine
 ## Sources
 
-- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - Rothbard's full-book overview of doctrine, applications, and strategy
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - concise statement of the anti-state thesis
+- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - Rothbard's full-book overview of doctrine, applications, and strategy
+- [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - concise statement of the anti-state thesis
 - [The Law (Full Text Aggregate)](https://mises.org/online-book/law) - law, liberty, property, and legal plunder
 - [The Market for Liberty (Full Text Aggregate)](https://cdn.mises.org/the_market_for_liberty_2.epub) - market institutions for protection, arbitration, and title
 - [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - consent, custom, and the durability of domination
 - [Let's Abolish Government (Full Text Extract)](https://cdn.mises.org/Lets%20Abolish%20Government_2.pdf) - Spooner's critique of constitutional authority and compulsory protection
-- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Austrian analysis of exchange, intervention, and the market order
+- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Austrian analysis of exchange, intervention, and the market order
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - property-based contrast between capitalism and socialism
-- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's classical-liberal manifesto
+- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) - Mises's classical-liberal manifesto
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek's critique of central planning and the rule of law
-- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's natural-rights treatise on the moral foundations of liberty
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's natural-rights treatise on the moral foundations of liberty
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - historical origin and political/economic means layer for the state critique
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - American application of the state-evolution argument
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive OCR regime-comparison source

@@ -92,6 +92,6 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - original political/economic means distinction and state definition
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - Nock's social-power/state-power adaptation
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Hoppe's use of political means in democratic regime critique
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - Rothbard's explicit Oppenheimer citation and state definition
-- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's economic restatement of the distinction in intervention theory
+- [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - Rothbard's explicit Oppenheimer citation and state definition
+- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's economic restatement of the distinction in intervention theory
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial Tilly source for capital/coercion paths, war finance, taxation, and state formation

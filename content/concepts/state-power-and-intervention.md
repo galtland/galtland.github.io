@@ -169,17 +169,17 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Invasion, Child Soldiers, and the Twenty-Year Foreign Presence: Analysis]] - newsroom thesis backlink
 ## Sources
 
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - concise anti-state statement
+- [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - concise anti-state statement
 - [The Law (Full Text Aggregate)](https://mises.org/online-book/law) - law as justice or legalized plunder
-- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - broad application of the anti-state argument
-- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - economic treatment of intervention and cumulative distortion
+- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - broad application of the anti-state argument
+- [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - economic treatment of intervention and cumulative distortion
 - [Busting Myths about the State and the Libertarian Alternative (Full Text Aggregate)](https://cdn.mises.org/Busting_Myths_about_the_State.epub) - accessible rebuttal to common pro-state arguments
 - [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - consent, habit, and voluntary servitude
 - [Let's Abolish Government (Full Text Extract)](https://cdn.mises.org/Lets%20Abolish%20Government_2.pdf) - Spooner's critique of constitutional authority and compulsory protection
 - [The Market for Liberty (Full Text Aggregate)](https://cdn.mises.org/the_market_for_liberty_2.epub) - market alternatives to police, courts, and monopoly protection
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - state and socialism analyzed as deviations from private law
-- [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_3.pdf) - 1922 calculation argument and the original "destructionism" diagnosis
-- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's classical-liberal political program contrasting a free society with the interventionist state
+- [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - 1922 calculation argument and the original "destructionism" diagnosis
+- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) - Mises's classical-liberal political program contrasting a free society with the interventionist state
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek's account of how comprehensive planning erodes the rule of law
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Hayek's knowledge-problem critique of central economic planning
 - [Thus Spake Zarathustra: The New Idol (Part I, Ch. XI)](https://www.gutenberg.org/ebooks/1998) - early non-libertarian articulation of the state-as-monster framing

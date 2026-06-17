@@ -59,11 +59,12 @@ This is a modern extension rather than a claim Mises himself made. The wiki shou
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[inflation-and-unemployment|Inflation and Unemployment]] - Friedman's 1976 Nobel lecture: no lasting trade-off between inflation and unemployment, the natural rate, and the vertical long-run Phillips curve — the monetarist core the Austrians answer on method.
+- [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
 
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - canonical source
-- [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.pdf) - epistemological defense
-- [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbardian elaboration
+- [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.epub) - epistemological defense
+- [Man, Economy, and State (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbardian elaboration
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Hoppe's time-preference application to monarchy, democracy, and decivilization
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - Hillebrand's application of action theory to privacy and resistance

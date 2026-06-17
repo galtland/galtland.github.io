@@ -97,10 +97,10 @@ When all three signal expansion together — TMS growth, policy rate below long 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 ## Sources
 
-- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Mises on money in the broader sense; Ch. III typology of money-substitutes
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — Ch. 4 "The Inflationary Factors" — Rothbard's broad money-supply definition and the empirical 1921-29 measurement
-- [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) — money outside bank reserves as money supply (Ch. 11 §B); inflation as supply increase beyond specie (Ch. 12 §A)
-- [The Mystery of Banking (Full Text Aggregate)](https://mises.org/library/book/mystery-banking) — Rothbard's accessible book-length treatment of banking, fractional reserves, and the money-supply criterion
+- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) — Mises on money in the broader sense; Ch. III typology of money-substitutes
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) — Ch. 4 "The Inflationary Factors" — Rothbard's broad money-supply definition and the empirical 1921-29 measurement
+- [Man, Economy, and State (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) — money outside bank reserves as money supply (Ch. 11 §B); inflation as supply increase beyond specie (Ch. 12 §A)
+- [The Mystery of Banking (Full Text Aggregate)](https://cdn.mises.org/Mystery%20of%20Banking.epub) — Rothbard's accessible book-length treatment of banking, fractional reserves, and the money-supply criterion
 - [The "True" Money Supply (Salerno 1987)](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy) — Salerno's component-by-component TMS specification
 
 External (not yet ingested):

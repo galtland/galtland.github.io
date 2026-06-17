@@ -51,5 +51,5 @@ This book is the political-philosophy companion to [[socialism|Socialism]] (1922
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 ## Sources
 
-- [Liberalism: In the Classical Tradition (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - full PDF as a wiki-ingestable aggregate
+- [Liberalism: In the Classical Tradition (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) - full PDF as a wiki-ingestable aggregate
 - [Liberalism: In the Classical Tradition](https://mises.org/library/book/liberalism-classical-tradition) - Mises library page metadata and descriptive framing

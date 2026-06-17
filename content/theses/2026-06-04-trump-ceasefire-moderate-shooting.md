@@ -80,7 +80,7 @@ This is a contextualizing claim, not a denial that ceasefires can reduce violenc
 ## Sources
 
 - [Trump Defines a Middle East Ceasefire as 'Shooting in a More Moderate Manner'](/news/2026-06-04-cbs-trump-ceasefire-moderate-shooting) - news post analyzed here
-- [Anatomy of the State (Full Text)](https://mises.org/online-book/anatomy-state) - Rothbard on war, emergency slogans, and permanent state burdens
+- [Anatomy of the State (Full Text)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - Rothbard on war, emergency slogans, and permanent state burdens
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - Tilly on protection rackets, threat production, legitimacy, and extraction
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - Oppenheimer's political/economic means distinction and state definition
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly's broader war-making, extraction, and state-formation account

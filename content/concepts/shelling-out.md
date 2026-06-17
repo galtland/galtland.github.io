@@ -69,4 +69,4 @@ The confidence level is medium. Szabo's account is influential and fits Austrian
 ## Sources
 
 - [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/library/shelling-out/) - Szabo's account of prehistoric collectibles, their attributes, and their role in wealth transfer
-- [The Theory of Money and Credit: Full Text](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) - Mises's origin-of-money and regression-theorem passages in Part Two
+- [The Theory of Money and Credit: Full Text](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) - Mises's origin-of-money and regression-theorem passages in Part Two

@@ -34,4 +34,4 @@ The Vienna instance is the worked example: rent-controlled units stay nominally 
 
 ## Sources
 
-- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) — passage on the residential-rent ceiling and the Vienna case
+- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) — passage on the residential-rent ceiling and the Vienna case

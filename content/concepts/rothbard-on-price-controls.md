@@ -40,4 +40,4 @@ Second, the shortage worsens with the elasticity of supply: "The more 'elastic' 
 
 ## Sources
 
-- [Power and Market: Government and the Economy (Full Text)](https://mises.org/online-book/power-and-market-government-and-economy) — §3.1 "Price Control" and §3 "Triangular Intervention"
+- [Power and Market: Government and the Economy (Full Text)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) — §3.1 "Price Control" and §3 "Triangular Intervention"

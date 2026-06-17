@@ -55,4 +55,4 @@ The content/media distinction is the hinge of two other articles:
 ## Sources
 
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 6 "Information, Scarcity, and Property," presenting the Kinsella anti-IP argument and the content/media distinction
-- [The Ethics of Liberty](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's scarcity-based property theory and his contract-reconstruction of copyright
+- [The Ethics of Liberty](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's scarcity-based property theory and his contract-reconstruction of copyright

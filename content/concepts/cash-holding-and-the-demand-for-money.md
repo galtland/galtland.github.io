@@ -66,5 +66,5 @@ The Austrian-libertarian frame cannot reason about CPI movements, QE episodes, b
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 ## Sources
 
-- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Mises's typology of money-substitutes (Ch. III); the Excursus on inflation and deflation (Ch. VII §7) that makes demand constitutive of the definition
+- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) — Mises's typology of money-substitutes (Ch. III); the Excursus on inflation and deflation (Ch. VII §7) that makes demand constitutive of the definition
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) — Ch. XVII on the money relation; the "there can be no theoretical determination of purchasing power which could do without the notions of cash holding" passage
