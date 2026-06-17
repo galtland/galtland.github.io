@@ -78,7 +78,7 @@ Two limits hold. First, the natural-rate gap is unobservable, and nothing in the
 ## Sources
 
 - [FOMC Holds Federal Funds Target Range at April 2026 Meeting](/news/2026-06-03-url-https-www-federalreserve-gov-newsevents-pressreleases-monetary20260429a-htm-the-federal-open-market-committee-he) — news post analyzed here
-- [Human Action: A Treatise on Economics](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) — Mises on credit expansion falsifying entrepreneurial calculation
+- [Human Action: A Treatise on Economics](https://cdn.mises.org/human_action.epub) — Mises on credit expansion falsifying entrepreneurial calculation
 - [The Theory of Money and Credit](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Mises on the natural rate and the constraint on credit below it
 - [America's Great Depression](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) — Rothbard on the cluster of errors as the product of monetary intervention
 - [Individualism and Economic Order](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) — Hayek's dispersed-knowledge argument behind the knowledge problem

@@ -72,6 +72,6 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 ## Sources
 
 - [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_3.pdf) - canonical 1922 statement
-- [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - integration into the full praxeological system
+- [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - integration into the full praxeological system
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Hayek's "Socialist Calculation" essays
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - Hoppe's property-theoretic restatement

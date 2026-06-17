@@ -97,7 +97,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 
 ## Sources
 
-- [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - the central treatise of the modern Austrian school
+- [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - the central treatise of the modern Austrian school
 - [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_3.pdf) - 1922 critique containing the original calculation argument
 - [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.pdf) - epistemological defense of the deductive method
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Hayek's knowledge-problem essays and the socialist-calculation papers

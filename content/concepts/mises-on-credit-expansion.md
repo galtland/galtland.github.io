@@ -42,4 +42,4 @@ The damage is calculational, not monetary in the headline sense. Entrepreneurs r
 
 ## Sources
 
-- [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) — Ch. XVII §11 ("the only vehicle of credit expansion is circulation credit"; p. 431) and Ch. XX (the gross-market-rate falsification passage; pp. 549–551)
+- [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) — Ch. XVII §11 ("the only vehicle of credit expansion is circulation credit"; p. 431) and Ch. XX (the gross-market-rate falsification passage; pp. 549–551)

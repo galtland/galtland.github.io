@@ -76,6 +76,6 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 ## Sources
 
 - [Prices and Production and Other Works (Full Text Aggregate)](https://cdn.mises.org/prices_and_production_and_other_works.pdf) - principal Hayekian source
-- [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - Mises's continuing treatment of the theory
+- [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - Mises's continuing treatment of the theory
 - [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbard's continuation of the theory
 - [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) - Rothbard's historical application to 1929–1933

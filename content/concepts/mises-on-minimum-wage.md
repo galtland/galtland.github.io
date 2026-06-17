@@ -33,4 +33,4 @@ The result is "institutional unemployment": unemployment produced by the interve
 
 ## Sources
 
-- [Human Action: A Treatise on Economics (Full Text)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - "Minimum Wage Rates" discussion of market wage rates, compulsion, and institutional unemployment
+- [Human Action: A Treatise on Economics (Full Text)](https://cdn.mises.org/human_action.epub) - "Minimum Wage Rates" discussion of market wage rates, compulsion, and institutional unemployment

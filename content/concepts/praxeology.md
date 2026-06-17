@@ -62,7 +62,7 @@ This is a modern extension rather than a claim Mises himself made. The wiki shou
 
 ## Sources
 
-- [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - canonical source
+- [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - canonical source
 - [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.pdf) - epistemological defense
 - [Man, Economy, and State (Full Text Aggregate)](https://mises.org/online-book/man-economy-and-state-power-and-market/man-economy-and-state-treatise-economics) - Rothbardian elaboration
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Hoppe's time-preference application to monarchy, democracy, and decivilization

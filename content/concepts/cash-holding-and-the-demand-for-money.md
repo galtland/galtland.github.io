@@ -67,4 +67,4 @@ The Austrian-libertarian frame cannot reason about CPI movements, QE episodes, b
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Mises's typology of money-substitutes (Ch. III); the Excursus on inflation and deflation (Ch. VII §7) that makes demand constitutive of the definition
-- [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) — Ch. XVII on the money relation; the "there can be no theoretical determination of purchasing power which could do without the notions of cash holding" passage
+- [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) — Ch. XVII on the money relation; the "there can be no theoretical determination of purchasing power which could do without the notions of cash holding" passage

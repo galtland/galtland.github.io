@@ -87,7 +87,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 
 ## Sources
 
-- [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - the central treatise
+- [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - the central treatise
 - [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_3.pdf) - 1922 critique with the calculation argument
 - [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - 1927 classical-liberal manifesto
 - [Theory and History (Full Text Aggregate)](https://cdn.mises.org/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.pdf) - 1957 methodological treatise
