@@ -3,8 +3,8 @@ title: "Murray N. Rothbard"
 volatility: warm
 category: reference
 created: 2026-04-21
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-17
+verified: 2026-06-17
 tags: [rothbard, libertarianism, austrian-economics, anti-statism, economic-history]
 aliases: [Murray Rothbard, Rothbard]
 confidence: medium
@@ -21,13 +21,13 @@ summary: "Reference guide to Rothbard's place in this wiki as system-builder, ec
 - [[for-a-new-liberty|For a New Liberty]] is the broadest single overview of the political philosophy, covering axiom, history, policy, and strategy.
 - [[anatomy-of-the-state|Anatomy of the State]] is the shortest direct route to Rothbard's account of political monopoly and ideological camouflage.
 - [[the-ethics-of-liberty|The Ethics of Liberty]] anchors the moral and natural-rights side of Rothbard's thought, with the full 1998 NYU Press edition (Hoppe introduction) ingested from the Mises Institute PDF.
-- [[americas-great-depression|America's Great Depression]] is Rothbard the economic historian — the canonical Austrian reading of 1929–1933 and the source for his revisionist case against the "Hoover did nothing" narrative.
-- [[the-politics-of-obedience|The Politics of Obedience]] appears here through Rothbard's framing role and the strategic problem of consent.
-- [[lets-abolish-government|Let's Abolish Government]] shows Rothbard's role as a curator of anti-state predecessors, especially [[lysander-spooner|Spooner]].
+- [[americas-great-depression|America's Great Depression]] is Rothbard the economic historian — the canonical Austrian reading of 1929–1933 and the source for his revisionist case against the myth that Hoover did nothing in the slump.
+- [[the-politics-of-obedience|The Politics of Obedience]] — Étienne de La Boétie's *Discourse of Voluntary Servitude* — is the anti-state classic on withdrawn consent, a predecessor in the anti-state tradition Rothbard worked within rather than a work of his.
+- [[lets-abolish-government|Let's Abolish Government]] gathers [[lysander-spooner|Spooner]]'s anti-state writings — a key predecessor in the natural-rights, anti-state tradition Rothbard worked within, rather than a work of Rothbard's own.
 
 ## Why Rothbard Dominates This Graph
 
-The present article graph reflects how often other sources route through Rothbard. He appears not only in his own books but also as an editor, introducer, or benchmark for adjacent texts. The de la Boetie volume in this corpus comes with Rothbard's framing of consent and statism. The Spooner collection reflects his role in recovering anti-state predecessors. Even where he is not the author, he helps determine the canon this topic wiki is currently built from.
+The present article graph reflects how often other sources route through Rothbard. He appears not only in his own books but also as a benchmark and intellectual reference point for adjacent texts. The de la Boétie and Spooner volumes are anti-state predecessors in the same natural-rights tradition — their themes of withdrawn consent and resistance to illegitimate authority run straight into Rothbard's own anti-state theory — even though those texts are by La Boétie and Spooner rather than by Rothbard. Together they help determine the canon this topic wiki is currently built from.
 
 ## Economics, Ethics, and Strategy
 
@@ -45,8 +45,8 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[anatomy-of-the-state|Anatomy of the State]] - concise anti-state statement by Rothbard
 - [[man-economy-and-state|Man, Economy, and State]] - primary treatise for Rothbard's economics
 - [[for-a-new-liberty|For a New Liberty]] - broadest political overview in the current corpus
-- [[the-politics-of-obedience|The Politics of Obedience]] - strategic anti-state classic framed here through Rothbard's introduction
-- [[lets-abolish-government|Let's Abolish Government]] - Spooner collection showing Rothbard's role in canon formation
+- [[the-politics-of-obedience|The Politics of Obedience]] - La Boétie's anti-state classic on withdrawn consent, in the tradition Rothbard built on
+- [[lets-abolish-government|Let's Abolish Government]] - Lysander Spooner's anti-state writings, a predecessor in Rothbard's lineage
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral principle associated most strongly with Rothbard here
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's natural-rights treatise (1982/1998), now ingested in full text
 - [[ludwig-von-mises|Ludwig von Mises]] - Rothbard's teacher and the source of his economic system
@@ -90,6 +90,6 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://mises.org/online-book/new-liberty-libertarian-manifesto) - integrated political overview
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty%2020191108.pdf) - Rothbard's natural-rights treatise (1998 NYU Press edition with Hoppe introduction)
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - concise anti-state essay
-- [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - Rothbard's role as introducer and strategist
-- [Let's Abolish Government (Full Text Extract)](https://cdn.mises.org/Lets%20Abolish%20Government_2.pdf) - evidence of Rothbard as curator of Spooner for this tradition
+- [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - Étienne de La Boétie's discourse on withdrawn consent; an anti-state predecessor in the tradition Rothbard worked within (the raw is the discourse text, by La Boétie)
+- [Let's Abolish Government (Full Text Extract)](https://cdn.mises.org/Lets%20Abolish%20Government_2.pdf) - a Lysander Spooner collection (No Treason; A Letter to Grover Cleveland); an anti-state predecessor in Rothbard's lineage (the raw is Spooner's text)
 - [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.pdf) - canonical Austrian reading of 1929–1933 and the historical application of his economic framework
