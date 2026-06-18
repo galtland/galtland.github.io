@@ -30,6 +30,8 @@ Last updated: 2026-06-18
 
 ## Recent Changes
 
+- 2026-06-18: maintenance — rebuilt the concepts/references/topics category indexes (which had drifted on direct PRs) and added `scripts/rebuild-indexes.py` plus a weekly index-freshness audit that flags category-index / home-stats drift. No article-count change.
+
 - 2026-06-18: links/quality — built a blocking inline-link-coverage CI gate and a weekly missing-node audit (`scripts/check-link-coverage.py`, `scripts/check-missing-nodes.py`), swept the inline-link backlog, and drove the missing-node backlog to 0. New concept articles `bitcoin`, `federal-reserve`, `great-depression`; new author/work references `bit-gold`, `adam-back`, `wei-dai`, `david-chaum`, `konrad-graf`, `carl-menger`, `trevor-perrin`, `moxie-marlinspike`. Ingested Menger's *On the Origins of Money* and Rothbard's *The Case Against the Fed* (clean Mises EPUBs). Article count 214 → 253.
 
 - 2026-06-17: ingest/compile — re-extracted *Human Action*, *The Theory of Money and Credit*, *Liberalism*, *Socialism*, *Theory and History*, and 8 Rothbard works from clean Mises EPUBs (replacing OCR-style `pdftotext`); added concept `methodological-dualism` (built on Mises's *Theory and History*); captured the session's ingest/CI learnings in `AGENTS.md`.
