@@ -3,8 +3,8 @@ title: "Proof of Work"
 volatility: cold
 category: concept
 created: 2026-05-27
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [bitcoin, proof-of-work, hashcash, bit-gold, satoshi-nakamoto, cypherpunk]
 aliases: [PoW, proof-of-work, hash-based proof of work, cost function]
 confidence: high
@@ -32,7 +32,7 @@ The proposed steps are a direct bridge from Hashcash to Bitcoin. A challenge str
 
 ## Bitcoin: Timestamp Consensus
 
-Satoshi Nakamoto's whitepaper adapts proof of work again. Section 4 says a distributed timestamp server needs a proof-of-work system similar to Hashcash. A node scans for a nonce so the block hash begins with enough zero bits. Once found, the block is expensive to change because changing it requires redoing that block's work and all later work.
+[[satoshi-nakamoto|Satoshi Nakamoto]]'s [[bitcoin-whitepaper|whitepaper]] adapts proof of work again. Section 4 says a distributed timestamp server needs a proof-of-work system similar to Hashcash. A node scans for a nonce so the block hash begins with enough zero bits. Once found, the block is expensive to change because changing it requires redoing that block's work and all later work.
 
 The key move is that proof of work becomes not just a minting cost but a coordination rule. Section 5 gives the network procedure: transactions are broadcast, nodes collect them into blocks, nodes search for proof of work, and valid blocks are extended by later work. Section 4 also solves representation in majority decision-making: not one-IP-address-one-vote, which can be Sybil attacked, but one-CPU-one-vote. The longest chain represents the greatest accumulated work.
 
