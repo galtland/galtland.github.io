@@ -41,4 +41,4 @@ This book is where the wiki's [[natural-law-and-natural-order|natural-law]] spin
 
 ## Sources
 
-- [Rothbard, Economic Thought Before Adam Smith (Full Text)](<../../raw/articles/2026-06-09-rothbard-economic-thought-before-adam-smith-full-text.md>) - full-text PDF extract; Chapter 4 for the School of Salamanca, with value, price, and money theory across the volume
+- [Rothbard, Economic Thought Before Adam Smith (Full Text)](https://cdn.mises.org/Austrian%20Perspective%20on%20the%20History%20of%20Economic%20Thought_1.epub) - full-text PDF extract; Chapter 4 for the School of Salamanca, with value, price, and money theory across the volume

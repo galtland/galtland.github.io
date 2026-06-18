@@ -47,4 +47,4 @@ Aquinas synthesizes [[nicomachean-ethics|Aristotle]] ("the Philosopher," cited o
 
 ## Sources
 
-- [Aquinas, Treatise on Law (Full Text)](<../../raw/articles/2026-06-09-aquinas-summa-treatise-on-law-full-text.md>) - QQ. 90 (essence of law), 91 (kinds of law), 93 (eternal law), 94 (natural law), 95–97 (human law); Dominican Province translation, 1920
+- [Aquinas, Treatise on Law (Full Text)](https://www.newadvent.org/summa/2090.htm) - QQ. 90 (essence of law), 91 (kinds of law), 93 (eternal law), 94 (natural law), 95–97 (human law); Dominican Province translation, 1920

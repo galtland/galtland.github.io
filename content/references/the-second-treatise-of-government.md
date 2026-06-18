@@ -45,4 +45,4 @@ The Second Treatise is the hinge between classical natural law and modern libert
 
 ## Sources
 
-- [Locke, Second Treatise of Government (Full Text)](<../../raw/articles/2026-06-09-locke-second-treatise-of-government-full-text.md>) - Ch. II (state of nature, law of nature), Ch. V (property and labour-mixing), Chs. VIII–XIX (consent, trust, and dissolution of government)
+- [Locke, Second Treatise of Government (Full Text)](https://www.gutenberg.org/ebooks/7370) - Ch. II (state of nature, law of nature), Ch. V (property and labour-mixing), Chs. VIII–XIX (consent, trust, and dissolution of government)

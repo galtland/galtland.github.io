@@ -80,15 +80,15 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics (Full Text)](<../../raw/articles/2026-06-09-aristotle-nicomachean-ethics-full-text.md>) - Book V, natural vs. conventional justice
-- [Aristotle, Politics (Full Text)](<../../raw/articles/2026-06-09-aristotle-politics-full-text.md>) - Book I, man as political animal by nature
-- [Cicero, De Re Publica (Full Text)](<../../raw/articles/2026-06-09-cicero-de-re-publica-full-text.md>) - Book III, "right reason, which is in accordance with nature"
-- [Cicero, De Legibus (Full Text)](<../../raw/articles/2026-06-09-cicero-de-legibus-full-text.md>) - Book I, law and justice grounded in nature and right reason
-- [Aquinas, Treatise on Law (Full Text)](<../../raw/articles/2026-06-09-aquinas-summa-treatise-on-law-full-text.md>) - QQ. 90–95, the kinds of law and the first precept of natural law
-- [Grotius, The Rights of War and Peace (Full Text)](<../../raw/articles/2026-06-09-grotius-rights-of-war-and-peace-full-text.md>) - Prolegomena, natural law and the *etiamsi daremus* argument
-- [Locke, Second Treatise of Government (Full Text)](<../../raw/articles/2026-06-09-locke-second-treatise-of-government-full-text.md>) - Chs. II and V, the law of nature and property
-- [Spooner, Natural Law; or The Science of Justice (Full Text)](<../../raw/articles/2026-06-09-spooner-natural-law-or-the-science-of-justice-full-text.md>) - Part First, justice as the science of mine and thine
-- [Rothbard, Economic Thought Before Adam Smith (Full Text)](<../../raw/articles/2026-06-09-rothbard-economic-thought-before-adam-smith-full-text.md>) - Ch. 4, the School of Salamanca (natural law and proto-Austrian economics)
-- [Pufendorf, The Whole Duty of Man (Full Text)](<../../raw/articles/2026-06-09-pufendorf-whole-duty-of-man-full-text.md>) - Book I, the law of nature grounded in sociality
-- [The Declaration of Independence (Full Text)](<../../raw/articles/2026-06-09-declaration-of-independence-full-text.md>) - the 1776 statement of unalienable rights, consent, and revolution
-- [Paine, Rights of Man (Full Text)](<../../raw/articles/2026-06-09-paine-rights-of-man-full-text.md>) - natural rights vs. Burke; no generation binds the next
+- [Aristotle, Nicomachean Ethics (Full Text)](https://www.gutenberg.org/ebooks/8438) - Book V, natural vs. conventional justice
+- [Aristotle, Politics (Full Text)](https://www.gutenberg.org/ebooks/6762) - Book I, man as political animal by nature
+- [Cicero, De Re Publica (Full Text)](https://www.gutenberg.org/ebooks/54161) - Book III, "right reason, which is in accordance with nature"
+- [Cicero, De Legibus (Full Text)](https://topostext.org/work/752) - Book I, law and justice grounded in nature and right reason
+- [Aquinas, Treatise on Law (Full Text)](https://www.newadvent.org/summa/2090.htm) - QQ. 90–95, the kinds of law and the first precept of natural law
+- [Grotius, The Rights of War and Peace (Full Text)](https://www.gutenberg.org/ebooks/46564) - Prolegomena, natural law and the *etiamsi daremus* argument
+- [Locke, Second Treatise of Government (Full Text)](https://www.gutenberg.org/ebooks/7370) - Chs. II and V, the law of nature and property
+- [Spooner, Natural Law; or The Science of Justice (Full Text)](https://en.wikisource.org/wiki/Natural_Law;_or_The_Science_of_Justice) - Part First, justice as the science of mine and thine
+- [Rothbard, Economic Thought Before Adam Smith (Full Text)](https://cdn.mises.org/Austrian%20Perspective%20on%20the%20History%20of%20Economic%20Thought_1.epub) - Ch. 4, the School of Salamanca (natural law and proto-Austrian economics)
+- [Pufendorf, The Whole Duty of Man (Full Text)](https://archive.org/details/wholedutyofmanac00puferich) - Book I, the law of nature grounded in sociality
+- [The Declaration of Independence (Full Text)](https://www.gutenberg.org/ebooks/1) - the 1776 statement of unalienable rights, consent, and revolution
+- [Paine, Rights of Man (Full Text)](https://www.gutenberg.org/ebooks/3742) - natural rights vs. Burke; no generation binds the next

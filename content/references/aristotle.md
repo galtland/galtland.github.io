@@ -28,5 +28,5 @@ The wiki flags the limits honestly: Aristotle reaches *statist* conclusions (the
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics (Full Text)](<../../raw/articles/2026-06-09-aristotle-nicomachean-ethics-full-text.md>) - Book V on justice
-- [Aristotle, Politics (Full Text)](<../../raw/articles/2026-06-09-aristotle-politics-full-text.md>) - Book I on the natural polis
+- [Aristotle, Nicomachean Ethics (Full Text)](https://www.gutenberg.org/ebooks/8438) - Book V on justice
+- [Aristotle, Politics (Full Text)](https://www.gutenberg.org/ebooks/6762) - Book I on the natural polis

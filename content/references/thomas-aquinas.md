@@ -27,4 +27,4 @@ He synthesizes [[aristotle-politics|Aristotle]] and the Ciceronian/Roman natural
 
 ## Sources
 
-- [Aquinas, Treatise on Law (Full Text)](<../../raw/articles/2026-06-09-aquinas-summa-treatise-on-law-full-text.md>) - the basis for this profile
+- [Aquinas, Treatise on Law (Full Text)](https://www.newadvent.org/summa/2090.htm) - the basis for this profile

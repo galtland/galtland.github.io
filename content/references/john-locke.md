@@ -27,4 +27,4 @@ He is the hinge of the tradition — receiving the [[the-rights-of-war-and-peace
 
 ## Sources
 
-- [Locke, Second Treatise of Government (Full Text)](<../../raw/articles/2026-06-09-locke-second-treatise-of-government-full-text.md>) - the basis for this profile
+- [Locke, Second Treatise of Government (Full Text)](https://www.gutenberg.org/ebooks/7370) - the basis for this profile

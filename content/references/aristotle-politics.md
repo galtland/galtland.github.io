@@ -39,4 +39,4 @@ The Politics belongs beside the [[nicomachean-ethics|Ethics]] as the root of the
 
 ## Sources
 
-- [Aristotle, Politics (Full Text)](<../../raw/articles/2026-06-09-aristotle-politics-full-text.md>) - Book I (man as political animal by nature; the polis, household, property; natural slavery); Ellis 1912 translation
+- [Aristotle, Politics (Full Text)](https://www.gutenberg.org/ebooks/6762) - Book I (man as political animal by nature; the polis, household, property; natural slavery); Ellis 1912 translation

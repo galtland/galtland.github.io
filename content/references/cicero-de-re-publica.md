@@ -40,4 +40,4 @@ Beyond the natural-law fragment, *De Re Publica* defends the **mixed constitutio
 
 ## Sources
 
-- [Cicero, De Re Publica (Full Text)](<../../raw/articles/2026-06-09-cicero-de-re-publica-full-text.md>) - Book III (true law / right reason), the mixed constitution, and the Dream of Scipio; Featherstonhaugh 1829 translation
+- [Cicero, De Re Publica (Full Text)](https://www.gutenberg.org/ebooks/54161) - Book III (true law / right reason), the mixed constitution, and the Dream of Scipio; Featherstonhaugh 1829 translation

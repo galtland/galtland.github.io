@@ -40,4 +40,4 @@ Aristotle is the **root** of the lineage, not a libertarian: his ethics is one o
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics (Full Text)](<../../raw/articles/2026-06-09-aristotle-nicomachean-ethics-full-text.md>) - Book V, natural vs. conventional justice; the teleological framework throughout; Peters 1893 translation
+- [Aristotle, Nicomachean Ethics (Full Text)](https://www.gutenberg.org/ebooks/8438) - Book V, natural vs. conventional justice; the teleological framework throughout; Peters 1893 translation

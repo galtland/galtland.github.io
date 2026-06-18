@@ -84,4 +84,4 @@ Sociality is also the move that helps make natural law *portable* across the con
 
 ## Sources
 
-- [Pufendorf, The Whole Duty of Man (Full Text)](<../../raw/articles/2026-06-09-pufendorf-whole-duty-of-man-full-text.md>) - Book I: the fundamental law of nature and the anthropological diagnosis of human weakness, quarrelsomeness, and the capacity to harm; the duty of not injuring and the rule of reparation; the property/equality material; the positive duties of humanity as the "imperfect" product of sociality; and the right of self-defense — in Andrew Tooke's English translation (Internet Archive OCR)
+- [Pufendorf, The Whole Duty of Man (Full Text)](https://archive.org/details/wholedutyofmanac00puferich) - Book I: the fundamental law of nature and the anthropological diagnosis of human weakness, quarrelsomeness, and the capacity to harm; the duty of not injuring and the rule of reparation; the property/equality material; the positive duties of humanity as the "imperfect" product of sociality; and the right of self-defense — in Andrew Tooke's English translation (Internet Archive OCR)

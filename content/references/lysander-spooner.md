@@ -32,4 +32,4 @@ His argument is that justice is an exact natural science of person and property,
 - [[rights-of-man|Rights of Man]] - Paine's natural-rights radicalism, adjacent to Spooner's individualist edge
 ## Sources
 
-- [Spooner, Natural Law; or The Science of Justice (Full Text)](<../../raw/articles/2026-06-09-spooner-natural-law-or-the-science-of-justice-full-text.md>) - the basis for this profile
+- [Spooner, Natural Law; or The Science of Justice (Full Text)](https://en.wikisource.org/wiki/Natural_Law;_or_The_Science_of_Justice) - the basis for this profile

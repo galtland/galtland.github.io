@@ -39,5 +39,5 @@ The Declaration is where the wiki's natural-law lineage becomes practice. It dra
 
 ## Sources
 
-- [The Declaration of Independence (Full Text)](<../../raw/articles/2026-06-09-declaration-of-independence-full-text.md>) - the 1776 text (Jefferson); Project Gutenberg
-- [Locke, Second Treatise of Government (Full Text)](<../../raw/articles/2026-06-09-locke-second-treatise-of-government-full-text.md>) - source of the compared phrase "life, health, liberty, or possessions" (Ch. II, §6)
+- [The Declaration of Independence (Full Text)](https://www.gutenberg.org/ebooks/1) - the 1776 text (Jefferson); Project Gutenberg
+- [Locke, Second Treatise of Government (Full Text)](https://www.gutenberg.org/ebooks/7370) - source of the compared phrase "life, health, liberty, or possessions" (Ch. II, §6)

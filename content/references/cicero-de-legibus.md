@@ -39,4 +39,4 @@ Book I grounds justice in nature and human fellowship; Books II and III apply th
 
 ## Sources
 
-- [Cicero, De Legibus (Full Text)](<../../raw/articles/2026-06-09-cicero-de-legibus-full-text.md>) - Book I (law and justice from nature and right reason); Barham translation via ToposText
+- [Cicero, De Legibus (Full Text)](https://topostext.org/work/752) - Book I (law and justice from nature and right reason); Barham translation via ToposText

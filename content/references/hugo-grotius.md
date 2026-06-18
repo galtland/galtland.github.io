@@ -27,4 +27,4 @@ He stands in the lineage between [[aquinas-treatise-on-law|Aquinas]] and [[the-s
 
 ## Sources
 
-- [Grotius, The Rights of War and Peace (Full Text)](<../../raw/articles/2026-06-09-grotius-rights-of-war-and-peace-full-text.md>) - the basis for this profile
+- [Grotius, The Rights of War and Peace (Full Text)](https://www.gutenberg.org/ebooks/46564) - the basis for this profile

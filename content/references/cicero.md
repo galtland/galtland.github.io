@@ -26,4 +26,4 @@ Cicero was a Roman senator, consul, orator, and the most important Latin transmi
 
 ## Sources
 
-- [Cicero, De Re Publica (Full Text)](<../../raw/articles/2026-06-09-cicero-de-re-publica-full-text.md>) - the basis for this profile
+- [Cicero, De Re Publica (Full Text)](https://www.gutenberg.org/ebooks/54161) - the basis for this profile

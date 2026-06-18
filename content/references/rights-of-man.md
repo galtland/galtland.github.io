@@ -43,4 +43,4 @@ From this base Paine builds his two signature claims:
 
 ## Sources
 
-- [Paine, Rights of Man (Full Text)](<../../raw/articles/2026-06-09-paine-rights-of-man-full-text.md>) - Part I (natural rights vs. Burke; no generation binds the next) and Part II (republican government as delegated trust); Project Gutenberg
+- [Paine, Rights of Man (Full Text)](https://www.gutenberg.org/ebooks/3742) - Part I (natural rights vs. Burke; no generation binds the next) and Part II (republican government as delegated trust); Project Gutenberg

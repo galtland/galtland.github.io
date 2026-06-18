@@ -39,4 +39,4 @@ Grotius stands between [[aquinas-treatise-on-law|Aquinas]] and [[the-second-trea
 
 ## Sources
 
-- [Grotius, The Rights of War and Peace (Full Text)](<../../raw/articles/2026-06-09-grotius-rights-of-war-and-peace-full-text.md>) - Prolegomena (the *etiamsi daremus* argument; natural law from human sociality) and Book I (natural right, just cause, the law of nations); Campbell translation, Hill introduction
+- [Grotius, The Rights of War and Peace (Full Text)](https://www.gutenberg.org/ebooks/46564) - Prolegomena (the *etiamsi daremus* argument; natural law from human sociality) and Book I (natural right, just cause, the law of nations); Campbell translation, Hill introduction

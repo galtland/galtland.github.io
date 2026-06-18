@@ -27,4 +27,4 @@ Paine is closer to the libertarian tradition than most of the canon — radicall
 
 ## Sources
 
-- [Paine, Rights of Man (Full Text)](<../../raw/articles/2026-06-09-paine-rights-of-man-full-text.md>) - the basis for this profile
+- [Paine, Rights of Man (Full Text)](https://www.gutenberg.org/ebooks/3742) - the basis for this profile

@@ -42,4 +42,4 @@ Spooner is the bridge between the classical natural-law canon and modern America
 
 ## Sources
 
-- [Spooner, Natural Law; or The Science of Justice (Full Text)](<../../raw/articles/2026-06-09-spooner-natural-law-or-the-science-of-justice-full-text.md>) - Part First (the science of justice; the two conditions; legislation as usurpation), 1882
+- [Spooner, Natural Law; or The Science of Justice (Full Text)](https://en.wikisource.org/wiki/Natural_Law;_or_The_Science_of_Justice) - Part First (the science of justice; the two conditions; legislation as usurpation), 1882

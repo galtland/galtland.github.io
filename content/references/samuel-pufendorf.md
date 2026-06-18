@@ -27,4 +27,4 @@ He is not a libertarian: he emphasized duty over rights and defended strong sove
 
 ## Sources
 
-- [Pufendorf, The Whole Duty of Man (Full Text)](<../../raw/articles/2026-06-09-pufendorf-whole-duty-of-man-full-text.md>) - the basis for this profile
+- [Pufendorf, The Whole Duty of Man (Full Text)](https://archive.org/details/wholedutyofmanac00puferich) - the basis for this profile
