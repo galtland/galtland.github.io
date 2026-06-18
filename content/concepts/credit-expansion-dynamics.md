@@ -3,8 +3,8 @@ title: "Credit Expansion Dynamics"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [credit-expansion, fiduciary-media, mises, rothbard, austrian-economics, business-cycle, abct, time-preference, natural-rate, loan-market, monetary-theory]
 summary: "Mises on the mechanics of fiduciary-media issuance: banks must lend new credit below the natural rate to place it, expanding loan demand until repayment and reserve limits force the contraction."
 aliases: [credit cycle mechanism, fiduciary media dynamics, Austrian credit cycle, the credit expansion mechanism]
@@ -84,6 +84,7 @@ How to detect that this mechanism is in progress is a separate question handled 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
+- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 
 ## Sources
 

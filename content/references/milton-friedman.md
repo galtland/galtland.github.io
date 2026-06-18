@@ -3,8 +3,8 @@ title: "Milton Friedman"
 volatility: cold
 category: reference
 created: 2026-06-16
-updated: 2026-06-16
-verified: 2026-06-16
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [milton-friedman, chicago-school, monetarism, monetary-policy, natural-rate-of-unemployment, permanent-income-hypothesis, quantity-theory, k-percent-rule, money-supply, classical-liberalism, classical-liberal]
 aliases: [Friedman, Milton Friedman, Prof. Friedman]
 confidence: medium
@@ -20,7 +20,7 @@ short: "Milton Friedman (1912-2006), leader of the Chicago school and founder of
 
 Milton Friedman (1912-2006) was an American economist, for three decades a professor at the University of Chicago and later a senior fellow at the Hoover Institution. He was the central figure of the postwar Chicago school and the leading public advocate of free-market economics in the second half of the twentieth century. He received the Nobel Memorial Prize in Economic Sciences in 1976 — cited for his work on consumption analysis, monetary history and theory, and the complexity of stabilization policy — and was awarded the Presidential Medal of Freedom and the National Medal of Science in 1988.
 
-His technical contributions run through consumption, money, and the cycle: the **permanent income hypothesis** (that consumption tracks expected lifetime income, not current receipts); the restatement of the **quantity theory of money** as monetarism; the empirical reinterpretation of the Great Depression in *A Monetary History of the United States, 1867-1960* (1963, with Anna J. Schwartz), which traced the slump to a one-third collapse of the money stock the Federal Reserve failed to arrest; and the **natural rate of unemployment** with its expectations-augmented (vertical long-run) Phillips curve, which predicted the stagflation of the 1970s. From these followed his policy program — a steady money-growth rule (the **k-percent rule**), floating exchange rates, school vouchers, the negative income tax, and the volunteer army — set out for general readers in *Capitalism and Freedom* (1962) and *Free to Choose* (1980), both written with his wife and collaborator Rose D. Friedman.
+His technical contributions run through consumption, money, and the cycle: the **permanent income hypothesis** (that consumption tracks expected lifetime income, not current receipts); the restatement of the **quantity theory of money** as monetarism; the empirical reinterpretation of [[great-depression|the Great Depression]] in *A Monetary History of the United States, 1867-1960* (1963, with Anna J. Schwartz), which traced the slump to a one-third collapse of the money stock the [[federal-reserve|Federal Reserve]] failed to arrest; and the **natural rate of unemployment** with its expectations-augmented (vertical long-run) Phillips curve, which predicted the stagflation of the 1970s. From these followed his policy program — a steady money-growth rule (the **k-percent rule**), floating exchange rates, school vouchers, the negative income tax, and the volunteer army — set out for general readers in *Capitalism and Freedom* (1962) and *Free to Choose* (1980), both written with his wife and collaborator Rose D. Friedman.
 
 ## Works Present Here
 
@@ -49,6 +49,8 @@ Confidence is medium. The substance of Friedman's monetary and classical-liberal
 - [[ludwig-von-mises|Ludwig von Mises]] - the Austrian whose method and monetary doctrine frame the critique
 - [[murray-n-rothbard|Murray Rothbard]] - the Austrian who drew the explicit Chicago-vs-Austrian contrast
 - [[hard-money|Hard Money]] - the gold-as-constraint position against his managed-fiat rule
+- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
+- [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 
 ## Sources
 

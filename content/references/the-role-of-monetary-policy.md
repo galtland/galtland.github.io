@@ -3,8 +3,8 @@ title: "The Role of Monetary Policy"
 volatility: cold
 category: reference
 created: 2026-06-16
-updated: 2026-06-16
-verified: 2026-06-16
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [milton-friedman, chicago-school, monetarism, monetary-policy, natural-rate-of-unemployment, quantity-theory, k-percent-rule, money-supply, central-banking, great-depression, classical-liberal, ocr]
 aliases: [The Role of Monetary Policy, Friedman 1968 address, Friedman presidential address]
 confidence: medium
@@ -20,7 +20,7 @@ short: "Friedman's 1968 monetarist address: the limits of monetary policy, the n
 
 Friedman organizes the lecture around limits. Monetary policy cannot peg interest rates for more than a brief interval, and it cannot hold the rate of unemployment below its **natural rate** — the level set by the real structure of the labor market — except temporarily and at the cost of accelerating inflation. What policy can do is provide a stable monetary background: avoid being a source of disturbance, and keep the money stock growing at a steady, predictable pace.
 
-The address also overturns the received reading of the Great Depression. Far from proving monetary policy impotent, the contraction of the early 1930s is, on Friedman's account, evidence of its power misused: the monetary authorities allowed the quantity of money to fall by a third when they should have supplied liquidity. The policy conclusion is the **k-percent rule** — a steady, publicly stated rate of growth in the money stock (Friedman suggests something on the order of 3 to 5 per cent a year) in place of discretionary fine-tuning. The legislated form of that rule belongs to his earlier [[capitalism-and-freedom|Capitalism and Freedom]]; here the emphasis falls on a stated, known, and publicly adopted rate. The natural-rate argument here is the same one he would develop in his 1976 [[inflation-and-unemployment|Nobel lecture]], and it correctly anticipated the stagflation that broke the simple Phillips-curve trade-off in the 1970s.
+The address also overturns the received reading of [[great-depression|the Great Depression]]. Far from proving monetary policy impotent, the contraction of the early 1930s is, on Friedman's account, evidence of its power misused: the monetary authorities allowed the quantity of money to fall by a third when they should have supplied liquidity. The policy conclusion is the **k-percent rule** — a steady, publicly stated rate of growth in the money stock (Friedman suggests something on the order of 3 to 5 per cent a year) in place of discretionary fine-tuning. The legislated form of that rule belongs to his earlier [[capitalism-and-freedom|Capitalism and Freedom]]; here the emphasis falls on a stated, known, and publicly adopted rate. The natural-rate argument here is the same one he would develop in his 1976 [[inflation-and-unemployment|Nobel lecture]], and it correctly anticipated the stagflation that broke the simple Phillips-curve trade-off in the 1970s.
 
 ## Why It Matters in This Wiki
 

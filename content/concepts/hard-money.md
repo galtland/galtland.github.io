@@ -94,6 +94,7 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[milton-friedman|Milton Friedman]] - Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism; author of Capitalism and Freedom and the 1968 monetary address
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 - [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
+- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 
 ## Sources
 

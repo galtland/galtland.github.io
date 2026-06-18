@@ -83,6 +83,8 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[milton-friedman|Milton Friedman]] - Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism; author of Capitalism and Freedom and the 1968 monetary address
+- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
+- [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 
 ## Sources
 

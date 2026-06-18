@@ -3,8 +3,8 @@ title: "Austrian Business Cycle Theory"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [business-cycle, austrian-economics, monetary-theory, capital-theory, great-depression]
 aliases: [ABCT, Austrian Theory of the Business Cycle, Hayek-Mises Business Cycle Theory]
 confidence: medium
@@ -72,6 +72,8 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[the-general-theory|The General Theory of Employment, Interest and Money]] - Keynes's 1936 General Theory: effective demand, the multiplier, liquidity preference, and the case for managing aggregate demand — the foundational Keynesian text and the Austrian critique's target.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[the-role-of-monetary-policy|The Role of Monetary Policy]] - Friedman's 1968 monetarist address: the limits of monetary policy, the natural rate, and the steady money-growth rule — the Chicago account of the cycle the Austrians dispute.
+- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
+- [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 
 ## Sources
 

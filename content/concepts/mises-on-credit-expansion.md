@@ -3,8 +3,8 @@ title: "Mises on Credit Expansion"
 volatility: warm
 category: concept
 created: 2026-05-17
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [credit-expansion, mises, abct, interest-rates, fiduciary-media]
 summary: "Mises on how credit expansion falsifies entrepreneurial calculation: an artificially lowered interest rate makes capital-deficient projects look profitable, seeding the malinvestment the boom must later liquidate."
 aliases: [Mises credit expansion, circulation credit, gross market rate distortion]
@@ -39,6 +39,7 @@ The damage is calculational, not monetary in the headline sense. Entrepreneurs r
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
+- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 
 ## Sources
 

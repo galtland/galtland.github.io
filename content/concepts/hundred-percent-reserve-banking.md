@@ -3,8 +3,8 @@ title: "100% Reserve Banking"
 volatility: warm
 category: concept
 created: 2026-05-25
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [rothbard, banking, fiduciary-media, sound-money, fractional-reserves, property-rights, money]
 summary: "The Rothbardian case for 100%-reserve banking: issuing money substitutes beyond the stock of specie is inflation and pseudo-warehouse-receipt fraud; full reserves remove the first stage of the credit-expansion cycle."
 aliases: [100-percent reserves, full-reserve banking, Rothbardian banking, sound-banking, hundred percent reserve]
@@ -68,6 +68,7 @@ It is also not the same as narrow banking, sovereign-money proposals, or central
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link back to depositors
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 
 ## Sources
 

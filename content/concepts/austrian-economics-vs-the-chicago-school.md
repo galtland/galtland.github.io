@@ -3,8 +3,8 @@ title: "Austrian Economics vs the Chicago School"
 volatility: cold
 category: concept
 created: 2026-06-16
-updated: 2026-06-16
-verified: 2026-06-16
+updated: 2026-06-18
+verified: 2026-06-18
 confidence: high
 tags: [austrian-economics, chicago-school, monetarism, milton-friedman, ludwig-von-mises, murray-rothbard, business-cycle, monetary-policy, great-depression, gold-standard, money-supply, k-percent-rule, praxeology, methodology, price-stability, credit-expansion]
 aliases: [Austrians vs Chicago, Mises vs Friedman, Rothbard vs Friedman, Austrian vs Monetarist, Austrian School vs Chicago School, Chicago School vs the Austrians, Austrian Critique of Monetarism, Austrian Economics vs Monetarism, Austrians vs the Monetarists]
@@ -14,7 +14,7 @@ short: "Two free-market schools, one fault line: Friedman's rule-bound managed m
 
 # Austrian Economics vs the Chicago School
 
-> The Austrian and Chicago schools are usually shelved together as the two wings of free-market economics — the opposition that held the line against Keynes. The family quarrel is sharp precisely because the agreement runs so deep. They split on two joints. The first is method: for the Austrians economics is an a priori science of human action whose laws are not read off the data, while the Chicago school tests theory against the monetary record. The second is money, and it is the load-bearing one. Both read the Great Depression as a monetary disaster made by the Federal Reserve, yet in opposite directions: Friedman's Fed sinned by letting the money stock collapse; the Austrians' Fed sinned by inflating the boom that made the collapse necessary. The cures invert accordingly — Friedman wants a central bank bound to a legislated money-growth rule; Mises and Rothbard want no monetary manager at all. The same stable price level both sides found in the 1920s carried opposite meanings, and that is the whole disagreement in miniature.
+> The Austrian and Chicago schools are usually shelved together as the two wings of free-market economics — the opposition that held the line against Keynes. The family quarrel is sharp precisely because the agreement runs so deep. They split on two joints. The first is method: for the Austrians economics is an a priori science of human action whose laws are not read off the data, while the Chicago school tests theory against the monetary record. The second is money, and it is the load-bearing one. Both read [[great-depression|the Great Depression]] as a monetary disaster made by the [[federal-reserve|Federal Reserve]], yet in opposite directions: Friedman's Fed sinned by letting the money stock collapse; the Austrians' Fed sinned by inflating the boom that made the collapse necessary. The cures invert accordingly — Friedman wants a central bank bound to a legislated money-growth rule; Mises and Rothbard want no monetary manager at all. The same stable price level both sides found in the 1920s carried opposite meanings, and that is the whole disagreement in miniature.
 
 ## A quarrel among allies
 
@@ -130,6 +130,8 @@ The Chicago School is the most serious free-market alternative to the Austrian p
 - [[human-action|Human Action]] — Mises source volume
 - [[americas-great-depression|America's Great Depression]] — Rothbard source volume and the direct critique of Friedman on the 1920s
 - [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
+- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
+- [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 
 ## Sources
 

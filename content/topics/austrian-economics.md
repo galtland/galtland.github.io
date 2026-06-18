@@ -96,6 +96,8 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
 - [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
+- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
+- [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 
 ## Sources
 

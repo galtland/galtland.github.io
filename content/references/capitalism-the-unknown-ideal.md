@@ -3,8 +3,8 @@ title: "Capitalism: The Unknown Ideal"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-09
-verified: 2026-05-31
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [ayn-rand, capitalism-the-unknown-ideal, objectivism, capitalism, laissez-faire, political-economy, alan-greenspan, nathaniel-branden]
 aliases: [Capitalism The Unknown Ideal, What Is Capitalism]
 confidence: medium
@@ -26,7 +26,7 @@ The opening essay (originally published in *The Objectivist Newsletter*, Novembe
 
 ## A multi-author collection
 
-The title page names Rand as author "with additional articles by Nathaniel Branden, Alan Greenspan, and Robert Hessen," published as "A Signet Book." The volume is organized as a collection of essays (the opening one sits under a "Theory and History" heading in the scan). Beyond the material present in the raw source, the book is generally cataloged as gathering pieces such as Rand's "What Is Capitalism?", "The Roots of War", "America's Persecuted Minority: Big Business", and "Notes on the History of American Free Enterprise"; Branden's psychological and economic essays; Robert Hessen's historical treatment of subjects like child labor and the "robber baron" charge; and Alan Greenspan's contributions, most notably "Gold and Economic Freedom" (a defense of the gold standard, written years before Greenspan chaired the U.S. Federal Reserve) and an essay attacking "Antitrust." The multi-author format lets the book pair Rand's philosophical case with applied arguments about specific institutions and historical episodes.
+The title page names Rand as author "with additional articles by Nathaniel Branden, Alan Greenspan, and Robert Hessen," published as "A Signet Book." The volume is organized as a collection of essays (the opening one sits under a "Theory and History" heading in the scan). Beyond the material present in the raw source, the book is generally cataloged as gathering pieces such as Rand's "What Is Capitalism?", "The Roots of War", "America's Persecuted Minority: Big Business", and "Notes on the History of American Free Enterprise"; Branden's psychological and economic essays; Robert Hessen's historical treatment of subjects like child labor and the "robber baron" charge; and Alan Greenspan's contributions, most notably "Gold and Economic Freedom" (a defense of the gold standard, written years before Greenspan chaired the U.S. [[federal-reserve|Federal Reserve]]) and an essay attacking "Antitrust." The multi-author format lets the book pair Rand's philosophical case with applied arguments about specific institutions and historical episodes.
 
 ## Relation to Objectivist ethics and the Austrian tradition
 

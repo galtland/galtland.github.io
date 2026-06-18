@@ -3,8 +3,8 @@ title: "Capitalism and Freedom"
 volatility: cold
 category: reference
 created: 2026-06-16
-updated: 2026-06-16
-verified: 2026-06-16
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [milton-friedman, chicago-school, capitalism-and-freedom, classical-liberalism, competitive-capitalism, role-of-government, monetary-policy, k-percent-rule, school-vouchers, negative-income-tax, classical-liberal]
 aliases: [Capitalism and Freedom, Friedman Capitalism and Freedom]
 confidence: high
@@ -24,7 +24,7 @@ Friedman's central thesis is that economic and political freedom are bound toget
 >
 > — [[milton-friedman|Milton Friedman]], [[capitalism-and-freedom|Capitalism and Freedom]]
 
-From that premise follows a program of limited government applied case by case: the State as rule-maker and umpire rather than allocator; flexible exchange rates and free trade; the rejection of detailed economic controls; and a series of concrete proposals — school vouchers, the abolition of occupational licensure, a negative income tax to replace the welfare apparatus. On money, the book makes the case that the Great Depression was produced by government mismanagement rather than by any inherent instability of the private economy, and that the remedy is neither the automatic gold standard nor wide discretion for independent authorities, but a legislated rule instructing the monetary authority to expand the stock of money at a steady, specified rate — the **k-percent rule**.
+From that premise follows a program of limited government applied case by case: the State as rule-maker and umpire rather than allocator; flexible exchange rates and free trade; the rejection of detailed economic controls; and a series of concrete proposals — school vouchers, the abolition of occupational licensure, a negative income tax to replace the welfare apparatus. On money, the book makes the case that [[great-depression|the Great Depression]] was produced by government mismanagement rather than by any inherent instability of the private economy, and that the remedy is neither the automatic gold standard nor wide discretion for independent authorities, but a legislated rule instructing the monetary authority to expand the stock of money at a steady, specified rate — the **k-percent rule**.
 
 ## Why It Matters in This Wiki
 
@@ -40,6 +40,7 @@ This is the headline text of the Chicago counterpoint in [[austrian-economics-vs
 - [[hard-money|Hard Money]] - gold as constraint versus the managed-fiat rule the book proposes
 - [[ludwig-von-mises|Ludwig von Mises]] - the Austrian who rejects the premise that money should be managed at all
 - [[inflation-and-unemployment|Inflation and Unemployment]] - Friedman's 1976 Nobel lecture: no lasting trade-off between inflation and unemployment, the natural rate, and the vertical long-run Phillips curve — the monetarist core the Austrians answer on method.
+- [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 
 ## Sources
 

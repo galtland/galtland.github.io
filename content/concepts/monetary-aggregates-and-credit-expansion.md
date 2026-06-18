@@ -3,8 +3,8 @@ title: "Monetary Aggregates and Credit Expansion"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [mises, rothbard, tms, m2, money-supply, credit-expansion, monetary-aggregates, abct, measurement]
 summary: "Why M2 mismeasures the Austrian cycle signal: Salerno's True Money Supply (TMS), building on Rothbard's broad money-supply criterion, is a cleaner money-stock aggregate — the total medium of exchange held by the public — that excludes the time-deposit and money-fund components contaminating M2 with non-money commodity credit. TMS is the preferred cycle-theory proxy, though it is a money-stock measure, not a fiduciary-media-only measure."
 aliases: [True Money Supply, TMS, M2 vs TMS, measuring credit expansion, money supply definition]
@@ -54,7 +54,7 @@ Households moving cash from currency holdings into small CDs re-shuffles M2's co
 
 Salerno *excludes* money market mutual funds (MMMFs), term RPs, small-denomination time deposits and CDs (treated as loans to banks rather than money-substitutes), large CDs, and short-term Treasury securities. This is a deliberate narrowing of Rothbard's AGD-era criterion, which had included time deposits on the de-facto-redeemable argument; Salerno's 1987 paper distinguishes overnight commitments (genuinely money-substitute) from term commitments (genuinely loans).
 
-TMS captures the total medium of exchange — money proper plus money-substitutes held by the public — rather than the fiduciary-media subset specifically. The *use case* for which Austrian economists deploy TMS is the cycle-theory diagnostic, where fiduciary-media expansion is what matters; TMS is preferred over M2 there because it excludes the small-time-deposit, money-fund, and term-repo components that contaminate M2 with commodity-credit savings. The Mises Institute publishes a TMS series; the Federal Reserve does not. The popular book-length treatment of the underlying money-supply criterion appears in [[the-mystery-of-banking|The Mystery of Banking]].
+TMS captures the total medium of exchange — money proper plus money-substitutes held by the public — rather than the fiduciary-media subset specifically. The *use case* for which Austrian economists deploy TMS is the cycle-theory diagnostic, where fiduciary-media expansion is what matters; TMS is preferred over M2 there because it excludes the small-time-deposit, money-fund, and term-repo components that contaminate M2 with commodity-credit savings. The Mises Institute publishes a TMS series; the [[federal-reserve|Federal Reserve]] does not. The popular book-length treatment of the underlying money-supply criterion appears in [[the-mystery-of-banking|The Mystery of Banking]].
 
 ## Why central-bank policy rates are an input, not a measure
 
@@ -64,7 +64,7 @@ Worse, the natural rate of interest is unobservable. So the theoretical test "is
 
 ## The sectoral diagnostic
 
-[[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] supplies the structural test that doesn't depend on aggregate measurement at all: are interest-rate-sensitive sectors expanding disproportionately? Construction, heavy machinery, raw-materials extraction, R&D, long-duration capital projects — these respond first and largest to suppressed rates. Consumer goods (lower-order) draw down relatively. When the sectoral skew widens, the production structure is lengthening, regardless of what the headline aggregate says. This is the Rothbardian diagnostic from his 1921-1929 analysis in *America's Great Depression*.
+[[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] supplies the structural test that doesn't depend on aggregate measurement at all: are interest-rate-sensitive sectors expanding disproportionately? Construction, heavy machinery, raw-materials extraction, R&D, long-duration capital projects — these respond first and largest to suppressed rates. Consumer goods (lower-order) draw down relatively. When the sectoral skew widens, the production structure is lengthening, regardless of what the headline aggregate says. This is the Rothbardian diagnostic from his 1921-1929 analysis in *America's [[great-depression|Great Depression]]*.
 
 ## Practical triangulation
 
@@ -95,6 +95,8 @@ When all three signal expansion together — TMS growth, policy rate below long 
 
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
+- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
+
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) — Mises on money in the broader sense; Ch. III typology of money-substitutes

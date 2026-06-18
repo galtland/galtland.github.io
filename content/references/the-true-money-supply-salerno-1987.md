@@ -20,7 +20,7 @@ short: "Salerno's 1987 TMS paper: a component-by-component Austrian money-supply
 
 Salerno's paper answers a measurement problem in [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. If the cycle mechanism is driven by money and money-substitute expansion, then an Austrian diagnosis needs an aggregate that tracks the medium of exchange rather than a conventionally reported statistical basket.
 
-The immediate source is Rothbard's broad money-supply criterion in [[americas-great-depression|America's Great Depression]] Ch. 4 and [[the-mystery-of-banking|The Mystery of Banking]]: claims genuinely redeemable on demand at par in cash belong in the money supply. Salerno's contribution is to operationalize that criterion against the Federal Reserve's M1, M2, M3, L, and memorandum-item categories.
+The immediate source is Rothbard's broad money-supply criterion in [[americas-great-depression|America's Great Depression]] Ch. 4 and [[the-mystery-of-banking|The Mystery of Banking]]: claims genuinely redeemable on demand at par in cash belong in the money supply. Salerno's contribution is to operationalize that criterion against the [[federal-reserve|Federal Reserve]]'s M1, M2, M3, L, and memorandum-item categories.
 
 ## TMS Components
 
