@@ -55,6 +55,7 @@ That places Szabo near [[market-anarchism-and-private-law|Market Anarchism and P
 - [[shelling-out|Shelling Out]] - Szabo's prehistoric-collectibles theory of proto-money
 - [[proof-of-work|Proof of Work]] - Hashcash, Bit Gold, and Bitcoin cost-function lineage
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - later design adjacent to Szabo's Bit Gold concerns
+- [[bit-gold|Bit Gold]] - Szabo's own 2005 proof-of-work digital-money proposal
 - [[austrian-economics|Austrian Economics]] - monetary-theory tradition Szabo most directly bridges to cypherpunk design
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises source for the regression-theorem side of Szabo's monetary bridge
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader technical and political setting for Szabo's work

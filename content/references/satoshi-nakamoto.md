@@ -60,6 +60,7 @@ That limitation is important for [[privacy-and-cryptography|Privacy and Cryptogr
 
 - [[hal-finney|Hal Finney]] - first Bitcoin receiver and early correspondent with Satoshi
 - [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function: non-interactive, publicly verifiable tokens that impose a real computational cost, cited in the whitepaper
+- [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 
 ## Sources
 

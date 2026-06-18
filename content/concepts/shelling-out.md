@@ -65,6 +65,7 @@ The confidence level is medium. Szabo's account is influential and fits Austrian
 - [[unforgeable-costliness|Unforgeable Costliness]] - bridge concept extending Szabo's collectible attributes into Bit Gold and Bitcoin hardness
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's hard-money reading of primitive moneys, metals, and Bitcoin
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
+- [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 
 ## Sources
 

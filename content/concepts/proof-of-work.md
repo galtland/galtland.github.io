@@ -26,7 +26,7 @@ Hashcash was not designed as money in its first use. It was a metering device. B
 
 ## Bit Gold: Costly Bits as Monetary Objects
 
-Nick Szabo's Bit Gold essay applies the proof-of-work idea to digital money. The problem Szabo states is familiar in cypherpunk monetary design: precious metals have historically served as money partly because they are costly to produce and hard to forge, but using them online requires trusted storage, transport, assay, or banknotes. Bit Gold tries to make costly digital strings that can be timestamped and assigned by title.
+[[nick-szabo|Nick Szabo]]'s [[bit-gold|Bit Gold]] essay applies the proof-of-work idea to digital money. The problem Szabo states is familiar in cypherpunk monetary design: precious metals have historically served as money partly because they are costly to produce and hard to forge, but using them online requires trusted storage, transport, assay, or banknotes. Bit Gold tries to make costly digital strings that can be timestamped and assigned by title.
 
 The proposed steps are a direct bridge from Hashcash to Bitcoin. A challenge string is generated; a participant computes a proof-of-work string from it; the proof is securely timestamped; the challenge, proof, and timestamp are added to a distributed property-title registry; and later owners verify the chain of title through digital signatures. Szabo's design still has imperfections, especially valuation across strings produced at different times and difficulties, but it makes proof of work into a candidate basis for digital scarcity.
 
@@ -58,6 +58,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[hashcash|Hashcash]] - Adam Back's cost-function paper that Bitcoin cites
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous author who adapted Hashcash into Bitcoin consensus
 - [[nick-szabo|Nick Szabo]] - Bit Gold author who applied proof of work to digital money
+- [[bit-gold|Bit Gold]] - Szabo's 2005 proof-of-work digital-money proposal, Bitcoin's nearest uncited precursor
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - design thesis that proof of work partly answers
 - [[public-key-cryptography|Public-Key Cryptography]] - signature primitive paired with proof of work in Bitcoin
 - [[softwar|Softwar]] - Lowery's proof-of-work-as-power-projection thesis

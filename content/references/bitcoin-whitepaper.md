@@ -60,6 +60,7 @@ The whitepaper is high-confidence as a primary text. Its 12 sections, references
 - [[public-key-cryptography|Public-Key Cryptography]] - signature primitive used for ownership transfer
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - design problem addressed by removing the trusted mint
 - [[nick-szabo|Nick Szabo]] - Bit Gold author whose work parallels several whitepaper design elements
+- [[bit-gold|Bit Gold]] - Szabo's uncited but closely related proof-of-work digital-money design
 - [[smart-contracts|Smart Contracts]] - adjacent protocol-contract idea in the cypherpunk canon
 - [[crypto-anarchy|Crypto Anarchy]] - political context for peer-to-peer digital cash
 - [[softwar|Softwar]] - later thesis interpreting Bitcoin proof of work as strategic power projection
