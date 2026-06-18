@@ -2,15 +2,15 @@
 
 > Where Austrian economics meets cypherpunk code. Political philosophy, monetary theory, cryptography, history, and the arguments that bind them. Published at https://index.galtland.org/.
 
-Last updated: 2026-06-14
+Last updated: 2026-06-18
 
 ## Statistics
 
-- Sources: 145 raw documents (+ 14 news-lens items)
-- Articles: 214 compiled wiki articles (90 concepts, 113 references, 6 theses, 5 topics)
+- Sources: 156 raw documents (+ 4 news-lens items)
+- Articles: 253 compiled wiki articles (99 concepts, 142 references, 7 theses, 5 topics)
 - Outputs: 1 generated artifacts
-- Last compiled: 2026-06-09
-- Last lint: 2026-06-09
+- Last compiled: 2026-06-18
+- Last lint: 2026-06-18
 - Last librarian scan: 2026-05-30 (0 stale, 0 low-quality; 18 articles human-verified)
 
 ## Quick Navigation
@@ -29,6 +29,14 @@ Last updated: 2026-06-14
 - [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-06-18: links/quality — built a blocking inline-link-coverage CI gate and a weekly missing-node audit (`scripts/check-link-coverage.py`, `scripts/check-missing-nodes.py`), swept the inline-link backlog, and drove the missing-node backlog to 0. New concept articles `bitcoin`, `federal-reserve`, `great-depression`; new author/work references `bit-gold`, `adam-back`, `wei-dai`, `david-chaum`, `konrad-graf`, `carl-menger`, `trevor-perrin`, `moxie-marlinspike`. Ingested Menger's *On the Origins of Money* and Rothbard's *The Case Against the Fed* (clean Mises EPUBs). Article count 214 → 253.
+
+- 2026-06-17: ingest/compile — re-extracted *Human Action*, *The Theory of Money and Credit*, *Liberalism*, *Socialism*, *Theory and History*, and 8 Rothbard works from clean Mises EPUBs (replacing OCR-style `pdftotext`); added concept `methodological-dualism` (built on Mises's *Theory and History*); captured the session's ingest/CI learnings in `AGENTS.md`.
+
+- 2026-06-16: compile/ingest — added concepts `austrian-economics-vs-keynesianism` and `austrian-economics-vs-the-chicago-school`; Keynes + *General Theory* and Milton Friedman + 3 work references; ingested Keynes's *General Theory* and Friedman's *Capitalism and Freedom*, *The Role of Monetary Policy*, and Nobel lecture; Rosenberg's *A Lodging of Wayfaring Men* and partial *Production Versus Plunder*; shipped the citation-level grounding gate.
+
+- 2026-06-15: ingest/compile — re-grounded Eugen von Böhm-Bawerk (3 work references + an interest concept) and replaced the *Positive Theory of Capital* OCR scan with a clean Econlib edition.
 
 - 2026-06-12: thesis -- added `2026-06-12-mega-event-boondoggles`; regenerated newsroom indexes and backlinks.
 
