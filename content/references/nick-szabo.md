@@ -65,6 +65,7 @@ That places Szabo near [[market-anarchism-and-private-law|Market Anarchism and P
 - [[hal-finney|Hal Finney]] - RPOW creator who cited Szabo's Bit Gold as a proof-of-work money precursor
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper that places Szabo's smart-contracts and Bit Gold work in Bitcoin legal context
 - [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function: non-interactive, publicly verifiable tokens that impose a real computational cost, a precursor to Bit Gold's costly proofs
+- [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
 
 ## Sources
 

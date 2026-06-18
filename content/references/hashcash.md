@@ -14,7 +14,7 @@ short: "Adam Back's proof-of-work cost-function paper: non-interactive tokens, p
 
 # Hashcash
 
-> [[hashcash|Hashcash]] is Adam Back's 2002 paper "Hashcash: A Denial of Service Counter-Measure," formalizing the proof-of-work cost function first proposed in 1997 for throttling spam, remailer abuse, and denial-of-service attacks.
+> [[hashcash|Hashcash]] is [[adam-back|Adam Back]]'s 2002 paper "Hashcash: A Denial of Service Counter-Measure," formalizing the proof-of-work cost function first proposed in 1997 for throttling spam, remailer abuse, and denial-of-service attacks.
 
 ## Cost Function Design
 
@@ -52,6 +52,7 @@ That is why [[bitcoin-whitepaper|Bitcoin Whitepaper]] cites Hashcash in its proo
 - [[the-bitcoin-standard|The Bitcoin Standard]] - later monetary interpretation of Bitcoin's proof-of-work scarcity
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
+- [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
 
 ## Sources
 

@@ -30,7 +30,7 @@ Section 6 defines incentives through newly created coins and transaction fees. S
 
 ## Proof of Work and Double Spending
 
-Section 4 is the technical hinge. Satoshi uses a proof-of-work system similar to Adam Back's [[hashcash|Hashcash]]. Nodes search for a nonce that makes a block hash begin with enough zero bits. Verification requires one hash; changing history requires redoing the work for the changed block and every block after it.
+Section 4 is the technical hinge. Satoshi uses a proof-of-work system similar to [[adam-back|Adam Back]]'s [[hashcash|Hashcash]]. Nodes search for a nonce that makes a block hash begin with enough zero bits. Verification requires one hash; changing history requires redoing the work for the changed block and every block after it.
 
 That mechanism also solves representation. One-IP-address-one-vote can be subverted by anyone who can allocate many IP addresses. Proof of work makes the relevant vote "one-CPU-one-vote." The longest chain represents the greatest accumulated work, so honest nodes accept it as the public history. Section 11 then models an attacker trying to catch up and shows the probability falling exponentially as confirmations accumulate, assuming honest nodes control more CPU power.
 
@@ -85,6 +85,7 @@ The whitepaper is high-confidence as a primary text. Its 12 sections, references
 - [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
 - [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
 
 ## Sources
 

@@ -127,6 +127,7 @@ The case is not that Bitcoin is finished, safe, or already money. It is that Bit
 - [[coinjoin|CoinJoin]] - on-chain privacy composition over Bitcoin's pseudonymous base
 - [[crypto-anarchy|Crypto Anarchy]] - the cypherpunk political program that Bitcoin extends to value
 - [[ideal-money|Ideal Money]] - Nash's adjacent proposal for a non-political monetary standard
+- [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
 
 ## Sources
 

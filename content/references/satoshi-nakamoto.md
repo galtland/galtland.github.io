@@ -32,7 +32,7 @@ That problem places Satoshi directly in the line of [[trusted-third-parties-as-s
 
 Section 2 defines an electronic coin as a chain of digital signatures. This is the ownership-transfer layer and depends on [[public-key-cryptography|Public-Key Cryptography]]. Each owner signs a hash of the previous transaction and the next owner's public key, so the payee can verify the chain of ownership.
 
-The problem is double spending. Section 3 introduces a timestamp server, and Section 4 distributes that timestamp server through [[proof-of-work|Proof of Work]] similar to Adam Back's Hashcash. Section 5 gives the peer-to-peer network steps. Section 6 adds incentives through newly created coins and transaction fees. Sections 7-9 handle storage, simplified verification, and combining or splitting value through multiple transaction inputs and outputs. That transaction model is what later Bitcoin discourse calls UTXO: coins are spent by consuming previous outputs and creating new outputs.
+The problem is double spending. Section 3 introduces a timestamp server, and Section 4 distributes that timestamp server through [[proof-of-work|Proof of Work]] similar to [[adam-back|Adam Back]]'s Hashcash. Section 5 gives the peer-to-peer network steps. Section 6 adds incentives through newly created coins and transaction fees. Sections 7-9 handle storage, simplified verification, and combining or splitting value through multiple transaction inputs and outputs. That transaction model is what later Bitcoin discourse calls UTXO: coins are spent by consuming previous outputs and creating new outputs.
 
 ## Synthesis of Prior Cypherpunk Work
 
@@ -61,6 +61,7 @@ That limitation is important for [[privacy-and-cryptography|Privacy and Cryptogr
 - [[hal-finney|Hal Finney]] - first Bitcoin receiver and early correspondent with Satoshi
 - [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function: non-interactive, publicly verifiable tokens that impose a real computational cost, cited in the whitepaper
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
+- [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
 
 ## Sources
 
