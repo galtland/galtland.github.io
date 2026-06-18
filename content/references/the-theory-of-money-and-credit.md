@@ -3,8 +3,8 @@ title: "The Theory of Money and Credit"
 volatility: warm
 category: reference
 created: 2026-05-09
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [mises, austrian-economics, monetary-theory, money-and-banking, credit, regression-theorem, business-cycle, ludwig-von-mises]
 aliases: [Theory of Money and Credit, TMC, Theorie des Geldes und der Umlaufsmittel]
 confidence: medium
@@ -82,6 +82,8 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
+- [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
+
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) - full 1953 Yale edition PDF (500 pp.) as a wiki-ingestable aggregate, including all four parts plus appendices

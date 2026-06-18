@@ -42,7 +42,7 @@ The book's Bitcoin claim is that Bitcoin's supply schedule, difficulty adjustmen
 
 ## Place in the Corpus
 
-This reference sits at the bridge between [[austrian-economics|Austrian Economics]] and [[cypherpunk|Cypherpunk]]. The Austrian side supplies Menger, [[ludwig-von-mises|Mises]], time preference, capital accumulation, and the critique of central banking. The cypherpunk side supplies peer-to-peer digital cash, [[proof-of-work|Proof of Work]], and non-custodial settlement.
+This reference sits at the bridge between [[austrian-economics|Austrian Economics]] and [[cypherpunk|Cypherpunk]]. The Austrian side supplies [[carl-menger|Menger]], [[ludwig-von-mises|Mises]], time preference, capital accumulation, and the critique of central banking. The cypherpunk side supplies peer-to-peer digital cash, [[proof-of-work|Proof of Work]], and non-custodial settlement.
 
 The book is also the precondition for Ammous's later [[the-fiat-standard|The Fiat Standard]], which reverses the comparison: after explaining Bitcoin through money, it explains fiat through Bitcoin.
 

@@ -18,7 +18,7 @@ short: "Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and H
 
 ## The Dehomogenization Claim
 
-Salerno adapts William Jaffe's "dehomogenization" move in the history of marginalism. Just as Menger, Jevons, and Walras founded different marginalist traditions, Salerno argues that modern Austrian economics inherited two different paradigms from Menger's students and successors.
+Salerno adapts William Jaffe's "dehomogenization" move in the history of marginalism. Just as [[carl-menger|Menger]], Jevons, and Walras founded different marginalist traditions, Salerno argues that modern Austrian economics inherited two different paradigms from Menger's students and successors.
 
 The Mises paradigm develops the Bohm-Bawerk-Mises-Rothbard line. The Hayek paradigm develops the Wieser-Hayek-Kirzner line. Salerno does not deny overlap, shared Austrian ancestry, or the quality of Hayekian work. His objection is to reading Mises through Hayekian categories and then treating the result as the Austrian position.
 

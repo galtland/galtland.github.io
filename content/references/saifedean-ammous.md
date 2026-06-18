@@ -3,8 +3,8 @@ title: "Saifedean Ammous"
 volatility: warm
 category: reference
 created: 2026-06-14
-updated: 2026-06-14
-verified: 2026-06-14
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [saifedean-ammous, bitcoin, hard-money, stock-to-flow, fiat, sound-money, austrian-economics, monetary-theory]
 aliases: [Ammous, Saifedean, Saifedean Ammous]
 confidence: medium
@@ -17,7 +17,7 @@ summary: "Author reference for Saifedean Ammous, the economist whose Bitcoin Sta
 
 ## Biographical Frame
 
-Saifedean Ammous is an economist and author working in the Austrian tradition. He holds a doctorate from Columbia University and has taught economics, and he reached a wide audience with a trilogy of books that read money, banking, and Bitcoin in explicitly Misesian terms. He is an expositor and synthesizer more than an original theorist: his contribution is to take Menger's and Mises's account of sound money and sharpen it into a single supply-side criterion — hardness — applied across the history of monetary goods and forward to Bitcoin.
+Saifedean Ammous is an economist and author working in the Austrian tradition. He holds a doctorate from Columbia University and has taught economics, and he reached a wide audience with a trilogy of books that read money, banking, and Bitcoin in explicitly Misesian terms. He is an expositor and synthesizer more than an original theorist: his contribution is to take [[carl-menger|Menger]]'s and Mises's account of sound money and sharpen it into a single supply-side criterion — hardness — applied across the history of monetary goods and forward to Bitcoin.
 
 ## Works Present Here
 

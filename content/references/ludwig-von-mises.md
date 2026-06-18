@@ -3,8 +3,8 @@ title: "Ludwig von Mises"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [mises, austrian-economics, praxeology, classical-liberalism]
 aliases: [Ludwig Mises, Mises]
 confidence: medium
@@ -85,6 +85,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[capitalism-and-freedom|Capitalism and Freedom]] - Friedman's 1962 Capitalism and Freedom: capitalism as a precondition of political liberty, limited government, and the rule-bound managed money the Austrians reject
 - [[milton-friedman|Milton Friedman]] - Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism; author of Capitalism and Freedom and the 1968 monetary address
 - [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
+- [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
 
 ## Sources
 

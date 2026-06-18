@@ -17,7 +17,7 @@ summary: "Author reference for Eugen von Böhm-Bawerk, the second-generation Aus
 
 ## Biographical Frame
 
-Eugen von Böhm-Bawerk (1851-1914) was an Austrian economist, a student of Carl Menger and — with Friedrich von Wieser — a founder of the second generation of the [[austrian-economics|Austrian School]]. He served three terms as Austria's finance minister and taught the seminar that trained [[ludwig-von-mises|Ludwig von Mises]]. His major works are *Capital and Interest* and *The Positive Theory of Capital*, and he is also known for the critique *Karl Marx and the Close of His System*, which attacked the labor theory of value.
+Eugen von Böhm-Bawerk (1851-1914) was an Austrian economist, a student of [[carl-menger|Carl Menger]] and — with Friedrich von Wieser — a founder of the second generation of the [[austrian-economics|Austrian School]]. He served three terms as Austria's finance minister and taught the seminar that trained [[ludwig-von-mises|Ludwig von Mises]]. His major works are *Capital and Interest* and *The Positive Theory of Capital*, and he is also known for the critique *Karl Marx and the Close of His System*, which attacked the labor theory of value.
 
 His enduring contributions are the **roundabout** structure of production (more productive methods take more time and require capital to bridge the wait), the **time-preference / agio** theory of interest (interest arises because present goods are valued above future goods), and the insistence that capital is a produced, dependent factor — the seeds of the [[capital|capital]] account this wiki draws from Rothbard.
 
@@ -42,3 +42,4 @@ Böhm-Bawerk is a lineage node: he is the origin of the capital-and-interest the
 - [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]] - his critique of Marxian value theory
 - [[time-preference-and-interest|Time Preference and the Theory of Interest]] - the agio theory of interest, drawn from his work
 - [[capital|Capital]] - the concept built on his capital-and-interest lineage, via Rothbard
+- [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods

@@ -30,7 +30,7 @@ The 1997 *God Protocols* essay imagines an ideal trusted intermediary and then a
 
 The 2001 *[[trusted-third-parties-as-security-holes|Trusted Third Parties Are Security Holes]]* gives the design rule that makes Szabo's work recognizably cypherpunk. Certificate authorities, DNS, trusted mints, exchanges, escrow providers, and similar intermediaries may be useful, but they must be treated as vulnerabilities and costs, not as invisible assumptions.
 
-The 2002 *Shelling Out* essay moves backward into prehistory. It argues that collectibles such as shell beads, necklaces, teeth, flints, and precious objects served as proto-money because they were durable, transferable, scarce, recognizable, and costly to forge. The result links Menger's origin-of-money account and [[ludwig-von-mises|Mises]]'s regression-theorem concerns in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] to cypherpunk money design.
+The 2002 *Shelling Out* essay moves backward into prehistory. It argues that collectibles such as shell beads, necklaces, teeth, flints, and precious objects served as proto-money because they were durable, transferable, scarce, recognizable, and costly to forge. The result links [[carl-menger|Menger]]'s origin-of-money account and [[ludwig-von-mises|Mises]]'s regression-theorem concerns in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] to cypherpunk money design.
 
 The 2005 *Bit Gold* essay moves forward again. It proposes costly digital strings generated through proof-of-work, timestamped, and tracked through a distributed title registry. It is not Bitcoin, but it plainly anticipates parts of the Bitcoin design problem: unforgeable cost, public verification, digital title, and minimized trust.
 
@@ -67,6 +67,7 @@ That places Szabo near [[market-anarchism-and-private-law|Market Anarchism and P
 - [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function: non-interactive, publicly verifiable tokens that impose a real computational cost, a precursor to Bit Gold's costly proofs
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
 - [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
+- [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
 
 ## Sources
 

@@ -20,7 +20,7 @@ short: "Szabo's account of shell beads, necklaces, and other prehistoric collect
 
 Szabo's 2002 essay is not a cryptographic protocol design, but it belongs in the cypherpunk thread because it explains what digital money is trying to reproduce. The problem is older than banks or states: people need media that can store value across time, move across space, and settle obligations among parties who do not share perfect trust.
 
-That puts *Shelling Out* beside [[austrian-economics|Austrian Economics]]. Carl Menger's origin-of-money account explains how more marketable goods become media of exchange through decentralized choice. [[ludwig-von-mises|Mises]]'s regression theorem, treated in [[the-theory-of-money-and-credit|The Theory of Money and Credit]], adds that money's purchasing power must be traced back to a prior non-monetary exchange value. Szabo pushes the story further back into anthropology and evolutionary cooperation.
+That puts *Shelling Out* beside [[austrian-economics|Austrian Economics]]. [[carl-menger|Carl Menger]]'s origin-of-money account explains how more marketable goods become media of exchange through decentralized choice. [[ludwig-von-mises|Mises]]'s regression theorem, treated in [[the-theory-of-money-and-credit|The Theory of Money and Credit]], adds that money's purchasing power must be traced back to a prior non-monetary exchange value. Szabo pushes the story further back into anthropology and evolutionary cooperation.
 
 ## Collectibles Before Coinage
 
@@ -66,6 +66,7 @@ The confidence level is medium. Szabo's account is influential and fits Austrian
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's hard-money reading of primitive moneys, metals, and Bitcoin
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
+- [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
 
 ## Sources
 

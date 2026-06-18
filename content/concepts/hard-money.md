@@ -26,7 +26,7 @@ The two terms therefore overlap heavily but are not identical: hardness is neces
 
 ## The Monetary Qualities
 
-Carl Menger's origin-of-money account, restated by Mises and extended by Saifedean's [[principles-of-economics-ammous|Principles of Economics]], identifies a cluster of properties that make a good monetizable: it should be durable, portable, divisible, recognizable, and scarce. Saifedean adds **salability across time** — the property that the good retains purchasing power over years and decades, which is precisely what hardness produces. A good is salable across time when its new supply cannot grow faster than its existing stock; otherwise, holding it is a losing bet.
+[[carl-menger|Carl Menger]]'s origin-of-money account, restated by Mises and extended by Saifedean's [[principles-of-economics-ammous|Principles of Economics]], identifies a cluster of properties that make a good monetizable: it should be durable, portable, divisible, recognizable, and scarce. Saifedean adds **salability across time** — the property that the good retains purchasing power over years and decades, which is precisely what hardness produces. A good is salable across time when its new supply cannot grow faster than its existing stock; otherwise, holding it is a losing bet.
 
 The cypherpunk re-statement of the same idea is Szabo's **unforgeable costliness** in [[shelling-out|Shelling Out]] and his proposed *Bit Gold* protocol. A monetary token is unforgeable-costly when its production required real resources — labor, scarce raw material, or computational work — and its authenticity can be cheaply verified by anyone receiving it. Prehistoric collectibles, precious metals, and proof-of-work tokens all satisfy this primitive in different ways. See [[unforgeable-costliness|Unforgeable Costliness]] for the full Szabo-Saifedean bridge.
 
@@ -93,6 +93,7 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[capitalism-and-freedom|Capitalism and Freedom]] - Friedman's 1962 Capitalism and Freedom: capitalism as a precondition of political liberty, limited government, and the rule-bound managed money the Austrians reject
 - [[milton-friedman|Milton Friedman]] - Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism; author of Capitalism and Freedom and the 1968 monetary address
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
+- [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
 
 ## Sources
 
