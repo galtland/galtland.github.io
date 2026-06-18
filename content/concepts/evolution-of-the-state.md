@@ -3,8 +3,8 @@ title: "Evolution of the State"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-theory, consent, legitimacy, war-and-state-formation, totalitarianism, mass-society, megapolitics, nation-state-decline]
 aliases: [state evolution, historical state formation, state formation, conquest theory of the state]
 confidence: medium
@@ -17,7 +17,7 @@ summary: "Historical-evolution layer for the libertarian state critique: Oppenhe
 
 ## Three Different Questions
 
-The historical state critique runs together three questions that should be kept apart: how class states first arise, why people keep cooperating with domination once they exist, and how regimes differ after a coercive monopoly is already in place. Oppenheimer's [[oppenheimer-the-state|The State]] is an origin account; La Boétie's [[the-politics-of-obedience|The Politics of Obedience]] is about persistence and withdrawn consent; and Hoppe's [[democracy-the-god-that-failed|Democracy: The God That Failed]] compares regimes only after the monopoly exists.
+The historical state critique runs together three questions that should be kept apart: how class states first arise, why people keep cooperating with domination once they exist, and how regimes differ after a coercive monopoly is already in place. Oppenheimer's [[oppenheimer-the-state|The State]] is an origin account; [[etienne-de-la-boetie|La Boétie]]'s [[the-politics-of-obedience|The Politics of Obedience]] is about persistence and withdrawn consent; and Hoppe's [[democracy-the-god-that-failed|Democracy: The God That Failed]] compares regimes only after the monopoly exists.
 
 Keeping these apart matters. The conquest thesis does not require a theory of explicit consent. The consent-via-habit thesis does not say states began voluntarily. Hoppe's regime thesis does not explain the first state; it explains why a democratic state may have different time horizons and expansion incentives from a monarchic one.
 

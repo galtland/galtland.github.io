@@ -3,8 +3,8 @@ title: "Joseph T. Salerno"
 volatility: warm
 category: reference
 created: 2026-05-27
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [salerno, austrian-economics, monetary-theory, tms, mises-institute, pure-time-preference]
 aliases: [Joseph Salerno, Salerno]
 confidence: medium
@@ -41,9 +41,9 @@ The 1993 paper is explicit about what the dehomogenization argument does *not* c
 
 ## Selected works
 
-- [[the-true-money-supply-salerno-1987|"The 'True' Money Supply"]] (1987), *Austrian Economics Newsletter* Vol. 6 No. 4 — also reprinted as Ch. 3 of *Money, Sound and Unsound*. Full text in [raw/papers/2026-05-27-the-true-money-supply-salerno-1987.md](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy). The TMS specification cited in [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]].
+- [[the-true-money-supply-salerno-1987|"The 'True' Money Supply"]] (1987), *[[austrian-economics|Austrian Economics]] Newsletter* Vol. 6 No. 4 — also reprinted as Ch. 3 of *Money, Sound and Unsound*. Full text in [raw/papers/2026-05-27-the-true-money-supply-salerno-1987.md](https://mises.org/library/true-money-supply-measure-supply-medium-exchange-us-economy). The TMS specification cited in [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]].
 - [[mises-and-hayek-dehomogenized|"Mises and Hayek Dehomogenized"]] (1993), *Review of Austrian Economics* Vol. 6 No. 2 (originally in *A Man of Principle: Essays in Honor of Hans F. Sennholz*, Grove City College Press, 1992). Full text in [raw/papers/2026-05-27-mises-and-hayek-dehomogenized-salerno-1993.md](https://mises.org/library/mises-and-hayek-dehomogenized). The canonical statement of the Mises-paradigm-vs-Hayek-paradigm argument summarized in "Position in the Austrian tradition" above.
-- [[money-sound-and-unsound|Money, Sound and Unsound]] (Ludwig von Mises Institute, 2010) — 646-page collected essays (26 chapters across 5 parts). Full text in [raw/articles/2026-05-27-money-sound-and-unsound-salerno-full-text.md](https://mises.org/library/book/money-sound-and-unsound). The broad monetary corpus that grounds the principal-contributions section.
+- [[money-sound-and-unsound|Money, Sound and Unsound]] ([[ludwig-von-mises|Ludwig von Mises]] Institute, 2010) — 646-page collected essays (26 chapters across 5 parts). Full text in [raw/articles/2026-05-27-money-sound-and-unsound-salerno-full-text.md](https://mises.org/library/book/money-sound-and-unsound). The broad monetary corpus that grounds the principal-contributions section.
 
 ## See Also
 

@@ -3,8 +3,8 @@ title: "Hal Finney"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [hal-finney, bitcoin, rpow, proof-of-work, pgp, cypherpunk, digital-cash, satoshi-nakamoto]
 aliases: [Harold Thomas Finney II, Hal, RPOW creator, first Bitcoin receiver]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Cypherpunk, PGP contributor, RPOW creator, early Bitcoin runner, and rec
 
 # Hal Finney
 
-> [[hal-finney|Hal Finney]] is the cypherpunk cryptographer whose selected posts connect PGP, anonymous remailers, reusable proof of work, Bit Gold, and early Bitcoin. In this corpus he is both an implementer of pre-Bitcoin proof-of-work money and one of Bitcoin's first serious readers and users.
+> [[hal-finney|Hal Finney]] is the cypherpunk cryptographer whose selected posts connect PGP, anonymous remailers, reusable proof of work, [[bit-gold|Bit Gold]], and early Bitcoin. In this corpus he is both an implementer of pre-Bitcoin proof-of-work money and one of Bitcoin's first serious readers and users.
 
 ## What the Corpus Covers
 
@@ -32,7 +32,7 @@ That makes Finney a bridge between [[pgp-and-the-crypto-wars|PGP and the Crypto 
 
 Finney's RPOW page presents reusable proof-of-work as a way to make proof-of-work tokens transferable rather than one-shot anti-spam stamps. The system used Hashcash-style work and a transparent-server design so users could verify the code running on a secure processor.
 
-The RPOW page explicitly invokes Nick Szabo's Bit Gold and describes proof-of-work objects as potentially useful payment foundations. That places Finney inside the [[unforgeable-costliness|Unforgeable Costliness]] lineage: costly tokens, verifiable creation, and transfer without ordinary mint trust.
+The RPOW page explicitly invokes [[nick-szabo|Nick Szabo]]'s Bit Gold and describes proof-of-work objects as potentially useful payment foundations. That places Finney inside the [[unforgeable-costliness|Unforgeable Costliness]] lineage: costly tokens, verifiable creation, and transfer without ordinary mint trust.
 
 ## Early Bitcoin Reader and Receiver
 

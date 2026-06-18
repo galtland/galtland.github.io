@@ -3,8 +3,8 @@ title: "Softwar"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [jason-lowery, softwar, bitcoin, power-projection, national-security, proof-of-work, cyberspace, non-libertarian]
 aliases: [Softwar thesis, A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin, electro-cyber security thesis]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Reference guide to Jason Lowery's 2023 MIT SDM master's thesis arguing
 
 # Softwar
 
-> [[softwar|Softwar]] is Jason Lowery's 2023 MIT System Design and Management master's thesis on Bitcoin, proof-of-work, and national strategic security. Its distinctive claim is that Bitcoin can be analyzed as electro-cyber power projection: a way to impose real physical costs in, from, and through cyberspace.
+> [[softwar|Softwar]] is [[jason-lowery|Jason Lowery]]'s 2023 MIT System Design and Management master's thesis on Bitcoin, proof-of-work, and national strategic security. Its distinctive claim is that Bitcoin can be analyzed as electro-cyber power projection: a way to impose real physical costs in, from, and through cyberspace.
 
 ## What the Thesis Argues
 

@@ -3,8 +3,8 @@ title: "The Fiat Standard"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [saifedean-ammous, fiat-money, bitcoin, central-banking, debt, austrian-economics, capital-consumption, cypherpunk]
 aliases: [Fiat Standard, The Fiat Standard: The Debt Slavery Alternative to Human Civilization]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Ammous's 2021 companion book: fiat as debt-based monetary technology, an
 
 # The Fiat Standard
 
-> [[the-fiat-standard|The Fiat Standard]] is Saifedean Ammous's 2021 companion to [[the-bitcoin-standard|The Bitcoin Standard]]. It explains fiat money as a debt-based monetary engineering system and then contrasts that system with Bitcoin.
+> [[the-fiat-standard|The Fiat Standard]] is [[saifedean-ammous|Saifedean Ammous]]'s 2021 companion to [[the-bitcoin-standard|The Bitcoin Standard]]. It explains fiat money as a debt-based monetary engineering system and then contrasts that system with Bitcoin.
 
 ## Bibliographic Status
 

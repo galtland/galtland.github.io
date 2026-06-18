@@ -3,8 +3,8 @@ title: "Denationalisation of Money"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [hayek, denationalisation-of-money, competing-currencies, currency-competition, free-banking, sound-money, monetary-theory, austrian-economics, bitcoin]
 aliases: [Denationalisation of Money, Denationalization of Money, The Argument Refined, competing currencies, currency competition, free trade in money]
 confidence: medium
@@ -44,7 +44,7 @@ The work is contested, and the sharpest critics are inside the Austrian school.
 
 **[[hans-hermann-hoppe|Hoppe]]'s "misconception."** In [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]], Hans-Hermann Hoppe calls Hayek's proposal a prominent "misconception," citing Rothbard's critique. The objection turns on money as a network good: the market naturally converges on a *single* most-saleable money (the logic of Menger and Mises), so a regime of many persistently competing irredeemable currencies misreads how money emerges and is sustained.
 
-**Free-banking and mainstream lines.** Free-banking Austrians (Selgin, White) are more sympathetic to currency competition but generally argue for competitive banks issuing claims redeemable in a *base* money (historically gold), not Hayek's independent unredeemable brand currencies — a different model. From the mainstream side, critics raise transaction-cost and calculation objections: a profusion of fluctuating currencies imposes conversion and accounting burdens that push users back toward a single unit, and Milton Friedman among others doubted competing private monies would displace national currency.
+**Free-banking and mainstream lines.** Free-banking Austrians (Selgin, White) are more sympathetic to currency competition but generally argue for competitive banks issuing claims redeemable in a *base* money (historically gold), not Hayek's independent unredeemable brand currencies — a different model. From the mainstream side, critics raise transaction-cost and calculation objections: a profusion of fluctuating currencies imposes conversion and accounting burdens that push users back toward a single unit, and [[milton-friedman|Milton Friedman]] among others doubted competing private monies would displace national currency.
 
 These criticisms do not all land the same way against Bitcoin, whose cryptographic scarcity and credible fixed supply give it a value-anchoring story the "ducat" lacked — which is partly why the Hayek-versus-Rothbard dispute is replayed today as an argument over whether Bitcoin vindicates Hayek's denationalization or Rothbard's hard-money alternative.
 

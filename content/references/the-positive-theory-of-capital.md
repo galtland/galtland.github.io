@@ -3,8 +3,8 @@ title: "The Positive Theory of Capital"
 volatility: cold
 category: reference
 created: 2026-06-15
-updated: 2026-06-15
-verified: 2026-06-15
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [eugen-von-bohm-bawerk, austrian-economics, capital-theory, time-preference, interest, roundaboutness, structure-of-production, agio-theory]
 aliases: [Positive Theory of Capital, Positive Theorie des Kapitales]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Reference guide to Böhm-Bawerk's Positive Theory of Capital (Smart tr
 
 # The Positive Theory of Capital
 
-> [[the-positive-theory-of-capital|The Positive Theory of Capital]] is [[eugen-von-bohm-bawerk|Böhm-Bawerk]]'s constructive statement of Austrian capital-and-interest theory, the companion to his critical history *Capital and Interest*. It argues that production is roundabout, that capital is the stock of produced intermediate goods that makes longer methods possible, and that interest is the agio on present over future goods.
+> [[the-positive-theory-of-capital|The Positive Theory of Capital]] is [[eugen-von-bohm-bawerk|Böhm-Bawerk]]'s constructive statement of Austrian capital-and-interest theory, the companion to his critical history *[[capital-and-interest|Capital and Interest]]*. It argues that production is roundabout, that capital is the stock of produced intermediate goods that makes longer methods possible, and that interest is the agio on present over future goods.
 
 ## What the Book Argues
 

@@ -3,8 +3,8 @@ title: "The 'True' Money Supply"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [salerno, tms, money-supply, austrian-economics, monetary-theory, rothbard, m1, m2, fiduciary-media]
 aliases: [The True Money Supply, True Money Supply paper, Salerno TMS 1987, TMS paper]
 confidence: high
@@ -14,7 +14,7 @@ short: "Salerno's 1987 TMS paper: a component-by-component Austrian money-supply
 
 # The 'True' Money Supply
 
-> [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] is Joseph T. Salerno's 1987 paper "The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy." It turns [[murray-n-rothbard|Rothbard]]'s broad money-supply criterion into a concrete monetary aggregate for Austrian analysis.
+> [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] is [[joseph-t-salerno|Joseph T. Salerno]]'s 1987 paper "The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy." It turns [[murray-n-rothbard|Rothbard]]'s broad money-supply criterion into a concrete monetary aggregate for Austrian analysis.
 
 ## Purpose
 

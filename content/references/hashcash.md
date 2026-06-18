@@ -3,8 +3,8 @@ title: "Hashcash"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [hashcash, adam-back, proof-of-work, cypherpunk, bitcoin, spam, denial-of-service, cryptography]
 aliases: [Hashcash paper, Hashcash: A Denial of Service Counter-Measure, Adam Back Hashcash]
 confidence: high
@@ -38,7 +38,7 @@ Back contrasts this with known-solution client puzzles and time-lock-puzzle cons
 
 Hashcash was not written as a monetary treatise. Its first target was abuse pricing for unmetered network resources. But the token's structure has monetary implications: it is costly to produce and cheap to verify, and serves as publicly verifiable evidence that work was done — which is why later systems reused it as a minting component (the paper itself binds each stamp to a service name and a spent-token database rather than treating stamps as freely transferable money).
 
-That is why [[bitcoin-whitepaper|Bitcoin Whitepaper]] cites Hashcash in its proof-of-work section. Satoshi adapts the cost function from anti-spam metering into public timestamp consensus. In [[proof-of-work|Proof of Work]], Hashcash is therefore the link between denial-of-service throttling, b-money's computational money, Bit Gold's costly strings, and Bitcoin's longest-chain rule.
+That is why [[bitcoin-whitepaper|Bitcoin Whitepaper]] cites Hashcash in its proof-of-work section. Satoshi adapts the cost function from anti-spam metering into public timestamp consensus. In [[proof-of-work|Proof of Work]], Hashcash is therefore the link between denial-of-service throttling, b-money's computational money, [[bit-gold|Bit Gold]]'s costly strings, and Bitcoin's longest-chain rule.
 
 ## See Also
 

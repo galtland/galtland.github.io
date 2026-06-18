@@ -3,8 +3,8 @@ title: "Nick Szabo"
 volatility: cold
 category: reference
 created: 2026-05-27
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [nick-szabo, cypherpunk, smart-contracts, bit-gold, austrian-economics, proof-of-work]
 aliases: [Szabo]
 confidence: high
@@ -14,7 +14,7 @@ short: "Computer scientist and legal theorist whose work bridges Austrian moneta
 
 # Nick Szabo
 
-> [[nick-szabo|Nick Szabo]] is a computer scientist, legal theorist, and cypherpunk whose work bridges Austrian monetary theory and protocol design. Across smart contracts, trusted-third-party minimization, Shelling Out, Bit Gold, and social scalability, he asks how institutions can be moved into verifiable rules, cryptography, and market-selected media.
+> [[nick-szabo|Nick Szabo]] is a computer scientist, legal theorist, and cypherpunk whose work bridges Austrian monetary theory and protocol design. Across smart contracts, trusted-third-party minimization, [[shelling-out|Shelling Out]], [[bit-gold|Bit Gold]], and social scalability, he asks how institutions can be moved into verifiable rules, cryptography, and market-selected media.
 
 ## Position in the Corpus
 
@@ -24,11 +24,11 @@ That makes him especially important for [[austrian-economics|Austrian Economics]
 
 ## Six Essays
 
-The 1994 *Smart Contracts* essay defines a smart contract as a computerized transaction protocol that executes contract terms. It treats digital cash as a canonical example and extends the idea toward smart property and smart liens. The essay is broader than later blockchain usage; it is about embedding performance and enforcement logic into protocols.
+The 1994 *[[smart-contracts|Smart Contracts]]* essay defines a smart contract as a computerized transaction protocol that executes contract terms. It treats digital cash as a canonical example and extends the idea toward smart property and smart liens. The essay is broader than later blockchain usage; it is about embedding performance and enforcement logic into protocols.
 
 The 1997 *God Protocols* essay imagines an ideal trusted intermediary and then asks how secure multiparty computation can approximate that role without revealing private inputs. It is a direct bridge from cryptography to mechanism design: auctions, exchanges, voting, negotiation, auditing, and contract terms can sometimes be specified as algorithms.
 
-The 2001 *Trusted Third Parties Are Security Holes* gives the design rule that makes Szabo's work recognizably cypherpunk. Certificate authorities, DNS, trusted mints, exchanges, escrow providers, and similar intermediaries may be useful, but they must be treated as vulnerabilities and costs, not as invisible assumptions.
+The 2001 *[[trusted-third-parties-as-security-holes|Trusted Third Parties Are Security Holes]]* gives the design rule that makes Szabo's work recognizably cypherpunk. Certificate authorities, DNS, trusted mints, exchanges, escrow providers, and similar intermediaries may be useful, but they must be treated as vulnerabilities and costs, not as invisible assumptions.
 
 The 2002 *Shelling Out* essay moves backward into prehistory. It argues that collectibles such as shell beads, necklaces, teeth, flints, and precious objects served as proto-money because they were durable, transferable, scarce, recognizable, and costly to forge. The result links Menger's origin-of-money account and [[ludwig-von-mises|Mises]]'s regression-theorem concerns in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] to cypherpunk money design.
 

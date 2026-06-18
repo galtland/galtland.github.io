@@ -3,8 +3,8 @@ title: "The State"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [franz-oppenheimer, state, conquest-theory, political-means, economic-means, sociology, non-libertarian]
 aliases: [Der Staat, The State by Franz Oppenheimer, The State: Its History and Development Viewed Sociologically]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Reference guide to Franz Oppenheimer's sociological treatise on the st
 
 # The State
 
-> [[oppenheimer-the-state|The State]] is Franz Oppenheimer's sociological account of the origin and development of the class state. Its importance for this wiki is concentrated in two ideas: states arise through conquest rather than contract, and political means differ categorically from economic means.
+> [[oppenheimer-the-state|The State]] is [[franz-oppenheimer|Franz Oppenheimer]]'s sociological account of the origin and development of the class state. Its importance for this wiki is concentrated in two ideas: states arise through conquest rather than contract, and political means differ categorically from economic means.
 
 ## What the Book Argues
 

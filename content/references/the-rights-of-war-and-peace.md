@@ -3,8 +3,8 @@ title: "The Rights of War and Peace (De Jure Belli ac Pacis)"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-12
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [hugo-grotius, natural-law, natural-rights, classical-canon, international-law, law-of-nations, de-jure-belli-ac-pacis, just-war, rationalism]
 aliases: [The Rights of War and Peace, De Jure Belli ac Pacis, On the Law of War and Peace, De Iure Belli ac Pacis]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Grotius's 1625 founding text of international law: natural law grounded 
 
 # The Rights of War and Peace (De Jure Belli ac Pacis)
 
-> [[the-rights-of-war-and-peace|The Rights of War and Peace]] is Hugo Grotius's *De Jure Belli ac Pacis* (1625), conventionally regarded as the founding work of modern international law and a pivotal moment in the [[natural-law-and-natural-order|natural-law]] tradition: the point at which natural law is detached from theology and re-grounded in reason and human nature.
+> [[the-rights-of-war-and-peace|The Rights of War and Peace]] is [[hugo-grotius|Hugo Grotius]]'s *De Jure Belli ac Pacis* (1625), conventionally regarded as the founding work of modern international law and a pivotal moment in the [[natural-law-and-natural-order|natural-law]] tradition: the point at which natural law is detached from theology and re-grounded in reason and human nature.
 
 ## The Secularizing Move
 

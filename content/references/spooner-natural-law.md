@@ -3,8 +3,8 @@ title: "Natural Law; or The Science of Justice"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [lysander-spooner, natural-law, natural-rights, natural-justice, classical-canon, individualist-anarchism, justice, legislation, abolitionism]
 aliases: [Natural Law or The Science of Justice, Spooner Natural Law, The Science of Justice]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Spooner's 1882 essay: justice as a natural science of mine and thine, an
 
 # Natural Law; or The Science of Justice
 
-> [[spooner-natural-law|Natural Law; or The Science of Justice]] is Lysander Spooner's 1882 essay — the most radical use of the [[natural-law-and-natural-order|natural-law]] tradition in this corpus, turning natural justice directly against the legitimacy of legislation itself.
+> [[spooner-natural-law|Natural Law; or The Science of Justice]] is [[lysander-spooner|Lysander Spooner]]'s 1882 essay — the most radical use of the [[natural-law-and-natural-order|natural-law]] tradition in this corpus, turning natural justice directly against the legitimacy of legislation itself.
 
 ## Justice as a Science
 

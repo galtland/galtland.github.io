@@ -3,8 +3,8 @@ title: "Murray N. Rothbard"
 volatility: warm
 category: reference
 created: 2026-04-21
-updated: 2026-06-17
-verified: 2026-06-17
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [rothbard, libertarianism, austrian-economics, anti-statism, economic-history]
 aliases: [Murray Rothbard, Rothbard]
 confidence: medium
@@ -22,7 +22,7 @@ summary: "Reference guide to Rothbard's place in this wiki as system-builder, ec
 - [[anatomy-of-the-state|Anatomy of the State]] is the shortest direct route to Rothbard's account of political monopoly and ideological camouflage.
 - [[the-ethics-of-liberty|The Ethics of Liberty]] anchors the moral and natural-rights side of Rothbard's thought, with the full 1998 NYU Press edition (Hoppe introduction) ingested from the Mises Institute PDF.
 - [[americas-great-depression|America's Great Depression]] is Rothbard the economic historian — the canonical Austrian reading of 1929–1933 and the source for his revisionist case against the myth that Hoover did nothing in the slump.
-- [[the-politics-of-obedience|The Politics of Obedience]] — Étienne de La Boétie's *Discourse of Voluntary Servitude* — is the anti-state classic on withdrawn consent, a predecessor in the anti-state tradition Rothbard worked within rather than a work of his.
+- [[the-politics-of-obedience|The Politics of Obedience]] — Étienne de [[etienne-de-la-boetie|La Boétie]]'s *Discourse of Voluntary Servitude* — is the anti-state classic on withdrawn consent, a predecessor in the anti-state tradition Rothbard worked within rather than a work of his.
 - [[lets-abolish-government|Let's Abolish Government]] gathers [[lysander-spooner|Spooner]]'s anti-state writings — a key predecessor in the natural-rights, anti-state tradition Rothbard worked within, rather than a work of Rothbard's own.
 
 ## Why Rothbard Dominates This Graph

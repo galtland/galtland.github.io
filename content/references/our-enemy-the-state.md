@@ -3,8 +3,8 @@ title: "Our Enemy, the State"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [albert-jay-nock, state, social-power, state-power, political-means, american-history, old-right]
 aliases: [Our Enemy the State, Nock's Our Enemy the State]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Reference guide to Albert Jay Nock's 1935 anti-state book applying Opp
 
 # Our Enemy, the State
 
-> [[our-enemy-the-state|Our Enemy, the State]] is Albert Jay Nock's historical and polemical account of the state as an institution that absorbs social power into political power. It is the main bridge from Oppenheimer's sociology to the American Old Right libertarian critique.
+> [[our-enemy-the-state|Our Enemy, the State]] is [[albert-jay-nock|Albert Jay Nock]]'s historical and polemical account of the state as an institution that absorbs social power into political power. It is the main bridge from Oppenheimer's sociology to the American Old Right libertarian critique.
 
 ## What the Book Argues
 

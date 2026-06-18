@@ -3,8 +3,8 @@ title: "Shelling Out"
 volatility: cold
 category: concept
 created: 2026-05-27
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [nick-szabo, money, austrian-economics, regression-theorem, menger, collectibles]
 aliases: [Shelling Out, prehistoric collectibles, proto-money, origins of money]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Szabo's account of shell beads, necklaces, and other prehistoric collect
 
 # Shelling Out
 
-> [[shelling-out|Shelling Out]] is Nick Szabo's argument that prehistoric collectibles functioned as proto-money before coinage. Shell beads, necklaces, teeth, flints, and precious objects helped store and transfer wealth because they were durable, portable, scarce, recognizable, and difficult to forge.
+> [[shelling-out|Shelling Out]] is [[nick-szabo|Nick Szabo]]'s argument that prehistoric collectibles functioned as proto-money before coinage. Shell beads, necklaces, teeth, flints, and precious objects helped store and transfer wealth because they were durable, portable, scarce, recognizable, and difficult to forge.
 
 ## The Cypherpunk Bridge to Austrian Money
 
@@ -42,7 +42,7 @@ Szabo's collectibles provide a plausible historical layer for that endpoint. A s
 
 ## Digital Money Implication
 
-The cypherpunk implication becomes clearer when read beside [[proof-of-work|Proof of Work]] and [[bitcoin-whitepaper|Bitcoin Whitepaper]]. Szabo repeatedly cared about unforgeable costliness. Prehistoric collectibles used labor, rarity, skill, and physical properties. Bit Gold later tries to make costly bits through computation and timestamping. Bitcoin uses proof of work to make ledger history expensive to rewrite.
+The cypherpunk implication becomes clearer when read beside [[proof-of-work|Proof of Work]] and [[bitcoin-whitepaper|Bitcoin Whitepaper]]. Szabo repeatedly cared about unforgeable costliness. Prehistoric collectibles used labor, rarity, skill, and physical properties. [[bit-gold|Bit Gold]] later tries to make costly bits through computation and timestamping. Bitcoin uses proof of work to make ledger history expensive to rewrite.
 
 The same problem recurs across media: how can strangers verify scarcity and title without trusting a central issuer? *Shelling Out* supplies the anthropological answer for early humans. Cypherpunk money designs supply protocol answers for networked strangers.
 

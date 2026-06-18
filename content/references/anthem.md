@@ -3,8 +3,8 @@ title: "Anthem"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [ayn-rand, anthem, objectivism, individualism, collectivism, dystopia, novella, ego, public-domain]
 aliases: [Anthem, Equality 7-2521, the Unspeakable Word]
 confidence: high
@@ -14,7 +14,7 @@ short: "Rand's 1938 novella about a future that erased the word \"I\" — and th
 
 # Anthem
 
-> [[anthem|Anthem]] is Ayn Rand's 1938 dystopian novella, set in a future collectivist society that has so thoroughly stamped out the individual that the very word "I" has been erased from the language. Its narrator, the street sweeper Equality 7-2521, secretly rediscovers science, love, and finally the forbidden singular pronoun — the "Unspeakable Word" — and emerges as the prototype for the individualist heroes of Rand's later, more famous novels.
+> [[anthem|Anthem]] is [[ayn-rand|Ayn Rand]]'s 1938 dystopian novella, set in a future collectivist society that has so thoroughly stamped out the individual that the very word "I" has been erased from the language. Its narrator, the street sweeper Equality 7-2521, secretly rediscovers science, love, and finally the forbidden singular pronoun — the "Unspeakable Word" — and emerges as the prototype for the individualist heroes of Rand's later, more famous novels.
 
 ## A world that abolished the word "I"
 

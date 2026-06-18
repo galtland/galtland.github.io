@@ -3,8 +3,8 @@ title: "Atlas Shrugged"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-09
-verified: 2026-05-31
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [ayn-rand, atlas-shrugged, objectivism, capitalism, individualism, novel, john-galt, strike-of-the-mind]
 aliases: [Atlas Shrugged, Who is John Galt, Galt's speech]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Rand's 1957 novel staging a strike of the world's productive minds as a 
 
 # Atlas Shrugged
 
-> [[atlas-shrugged|Atlas Shrugged]] is Ayn Rand's 1957 novel of ideas, the longest and most explicit dramatization of her philosophy of Objectivism. Set in a declining United States strangled by collectivist regulation, it follows railroad executive Dagny Taggart as she tries to keep industry alive while the nation's ablest producers mysteriously withdraw — a "strike of the mind" organized by the engineer John Galt to deny the world the sanction of its victims. Rand uses the resulting collapse to argue that reason, productive achievement, and rational self-interest are the source of all value, and that an ethics of self-sacrifice is a slow form of suicide.
+> [[atlas-shrugged|Atlas Shrugged]] is [[ayn-rand|Ayn Rand]]'s 1957 novel of ideas, the longest and most explicit dramatization of her philosophy of Objectivism. Set in a declining United States strangled by collectivist regulation, it follows railroad executive Dagny Taggart as she tries to keep industry alive while the nation's ablest producers mysteriously withdraw — a "strike of the mind" organized by the engineer John Galt to deny the world the sanction of its victims. Rand uses the resulting collapse to argue that reason, productive achievement, and rational self-interest are the source of all value, and that an ethics of self-sacrifice is a slow form of suicide.
 
 ## The Premise: The Strike of the Men of the Mind
 

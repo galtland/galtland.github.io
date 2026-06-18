@@ -3,8 +3,8 @@ title: "Hard Money"
 volatility: cold
 category: concept
 created: 2026-05-28
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [hard-money, sound-money, monetary-theory, austrian-economics, bitcoin, gold-standard, stock-to-flow, salability, hardness, libertarian, cypherpunk]
 aliases: [Sound Money, Hard Currency, Hard Money Standard, Monetary Hardness]
 confidence: high
@@ -14,7 +14,7 @@ short: "Money whose supply is hard to expand. The bridge concept between Mises o
 
 # Hard Money
 
-> [[hard-money|Hard Money]] is money whose supply is difficult and costly to expand, so that holders' purchasing power cannot be cheaply inflated away by the entity that issues it. The Austrian-cypherpunk synthesis treats hardness as the primary monetary virtue and reads the gold standard, [[nick-szabo|Szabo]]'s Bit Gold proposal (treated under [[unforgeable-costliness|Unforgeable Costliness]]), and Bitcoin as successive implementations of the same underlying primitive.
+> [[hard-money|Hard Money]] is money whose supply is difficult and costly to expand, so that holders' purchasing power cannot be cheaply inflated away by the entity that issues it. The Austrian-cypherpunk synthesis treats hardness as the primary monetary virtue and reads the gold standard, [[nick-szabo|Szabo]]'s [[bit-gold|Bit Gold]] proposal (treated under [[unforgeable-costliness|Unforgeable Costliness]]), and Bitcoin as successive implementations of the same underlying primitive.
 
 ## Hard Money vs. Sound Money
 

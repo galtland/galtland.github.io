@@ -3,8 +3,8 @@ title: "Trusted Third Parties as Security Holes"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [cypherpunk, security, cryptography, trusted-third-parties, protocols, intermediaries]
 aliases: [Trusted Third Parties Are Security Holes, TTP security holes, TTP minimization]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Szabo's thesis that trusted intermediaries are not neutral conveniences:
 
 # Trusted Third Parties as Security Holes
 
-> [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] is Nick Szabo's protocol-design thesis that an intermediary a protocol must trust is also a vulnerability. The point is not that every institution is worthless, but that dependence on a trusted third party must be treated as a costly security hole rather than assumed away.
+> [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] is [[nick-szabo|Nick Szabo]]'s protocol-design thesis that an intermediary a protocol must trust is also a vulnerability. The point is not that every institution is worthless, but that dependence on a trusted third party must be treated as a costly security hole rather than assumed away.
 
 ## The Thesis
 

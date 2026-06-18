@@ -3,8 +3,8 @@ title: "Hans-Hermann Hoppe"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [hoppe, austrian-economics, libertarianism, property-rights, democracy, regime-theory]
 aliases: [Hoppe, Hans Hoppe]
 confidence: medium
@@ -27,7 +27,7 @@ Hoppe's role in the present graph is to connect several themes that would otherw
 
 ## Relationship to Rothbard
 
-The current raw sources describe Hoppe as a leading student and colleague of Murray Rothbard, and the article graph reflects that affinity. Hoppe often takes arguments that are already present in Rothbard and pushes them into a sharper property-theoretic or institutional form. In this wiki, that is most visible in discussions of socialism, tax incidence, and security production. The result is that Hoppe functions less as a separate school than as a force-multiplier within the Rothbard-heavy corpus already present.
+The current raw sources describe Hoppe as a leading student and colleague of [[murray-n-rothbard|Murray Rothbard]], and the article graph reflects that affinity. Hoppe often takes arguments that are already present in Rothbard and pushes them into a sharper property-theoretic or institutional form. In this wiki, that is most visible in discussions of socialism, tax incidence, and security production. The result is that Hoppe functions less as a separate school than as a force-multiplier within the Rothbard-heavy corpus already present.
 
 ## Downstream Privacy Extension
 

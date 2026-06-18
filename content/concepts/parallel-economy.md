@@ -3,8 +3,8 @@ title: "The Parallel Economy"
 volatility: warm
 category: concept
 created: 2026-05-29
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 confidence: medium
 tags: [parallel-economy, cypherpunk, bitcoin, privacy, agorism, counter-economics, resistance, ooda-loop, austrian-economics, max-hillebrand, crypto-anarchy]
 aliases: [parallel economy, parallel economic implementation, breaking the observation loop, counter-economics, agorism]
@@ -37,7 +37,7 @@ Hillebrand is unusually candid about what remains unsolved, which keeps the conc
 
 ## Relation to Agorism
 
-The parallel economy is the cypherpunk-implementation cousin of **agorism / counter-economics** (Samuel Konkin's strategy of growing voluntary exchange outside the state until the state withers). Konkin already grounded counter-economics in Austrian analysis; Hillebrand updates it with today's cryptographic stack, recasting the project as breaking the observation loop rather than merely trading off-the-books. It also realizes the practical program of [[crypto-anarchy|crypto anarchy]] and connects to the wiki's older thread on non-state institutions in [[market-anarchism-and-private-law|market anarchism and private law]].
+The parallel economy is the cypherpunk-implementation cousin of **agorism / counter-economics** ([[samuel-edward-konkin-iii|Samuel Konkin]]'s strategy of growing voluntary exchange outside the state until the state withers). Konkin already grounded counter-economics in Austrian analysis; Hillebrand updates it with today's cryptographic stack, recasting the project as breaking the observation loop rather than merely trading off-the-books. It also realizes the practical program of [[crypto-anarchy|crypto anarchy]] and connects to the wiki's older thread on non-state institutions in [[market-anarchism-and-private-law|market anarchism and private law]].
 
 ## See Also
 

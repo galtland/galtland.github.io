@@ -3,8 +3,8 @@ title: "Agorism and Counter-Economics"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-06-09
-verified: 2026-06-08
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [samuel-edward-konkin, agorism, counter-economics, strategy, anarchism, black-market, grey-market, parallel-economy, libertarianism]
 summary: "Konkin's 1980 agorist strategy: grow the counter-economy — all peaceful exchange the state forbids, taxes, or regulates — until voluntary trade displaces the state. The strategy-by-exit answer to libertarian adoption, requiring no change in human nature; the ancestor of the cypherpunk parallel economy."
 aliases: [agorism, counter-economics, counter-economy, new libertarianism, Konkin strategy]
@@ -30,7 +30,7 @@ The standing objection to libertarianism — that it is correct but unadoptable 
 
 ## Relation to the obedience problem
 
-Agorism is the active complement to [[the-politics-of-obedience|The Politics of Obedience]]. La Boétie argues that domination persists on habitual cooperation and dissolves when consent is withdrawn; counter-economics is one concrete form of that withdrawal — not a refusal to obey in the abstract, but the steady relocation of economic life beyond the state's reach. Where La Boétie diagnoses, Konkin prescribes.
+Agorism is the active complement to [[the-politics-of-obedience|The Politics of Obedience]]. [[etienne-de-la-boetie|La Boétie]] argues that domination persists on habitual cooperation and dissolves when consent is withdrawn; counter-economics is one concrete form of that withdrawal — not a refusal to obey in the abstract, but the steady relocation of economic life beyond the state's reach. Where La Boétie diagnoses, Konkin prescribes.
 
 ## Scope
 

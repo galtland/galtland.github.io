@@ -3,8 +3,8 @@ title: "The Virtue of Selfishness"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [ayn-rand, the-virtue-of-selfishness, objectivism, ethics, rational-self-interest, altruism, individual-rights, nathaniel-branden]
 aliases: [The Virtue of Selfishness, Objectivist ethics, rational selfishness]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Rand's 1964 essay collection stating the Objectivist ethics of rational 
 
 # The Virtue of Selfishness
 
-> [[the-virtue-of-selfishness|The Virtue of Selfishness]] is Ayn Rand's 1964 collection of nineteen essays — most by Rand, several by Nathaniel Branden — that states in non-fiction form the ethics dramatized in [[atlas-shrugged|Atlas Shrugged]]. Subtitled "A New Concept of Egoism," it argues that rational self-interest is a moral ideal, not a vice: that man's own life is the standard of value, that reason is his means of survival, and that altruism — the demand that man exist for the sake of others — is a "morality of death." Its later essays carry the ethics into politics, defending individual rights and a strictly limited, voluntarily financed government.
+> [[the-virtue-of-selfishness|The Virtue of Selfishness]] is [[ayn-rand|Ayn Rand]]'s 1964 collection of nineteen essays — most by Rand, several by Nathaniel Branden — that states in non-fiction form the ethics dramatized in [[atlas-shrugged|Atlas Shrugged]]. Subtitled "A New Concept of Egoism," it argues that rational self-interest is a moral ideal, not a vice: that man's own life is the standard of value, that reason is his means of survival, and that altruism — the demand that man exist for the sake of others — is a "morality of death." Its later essays carry the ethics into politics, defending individual rights and a strictly limited, voluntarily financed government.
 
 The volume gathers pieces that first appeared in *The Objectivist Newsletter* (the lone exception being the opening lecture, "The Objectivist Ethics"). Rand wrote most of the book; Branden contributed several essays, including "Mental Health versus Mysticism and Self-Sacrifice," "The Psychology of Pleasure," "Isn't Everyone Selfish?," and "Counterfeit Individualism." (A 1970 postscript notes Branden was "no longer associated" with Rand or her philosophy.) The ethics throughout is presented as Rand's argument.
 

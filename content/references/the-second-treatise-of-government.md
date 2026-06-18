@@ -3,8 +3,8 @@ title: "Second Treatise of Government"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-12
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [john-locke, natural-law, natural-rights, classical-canon, social-contract, property, state-of-nature, consent, right-of-revolution, classical-liberalism, second-treatise]
 aliases: [Second Treatise of Government, Second Treatise, Two Treatises of Government, An Essay Concerning the True Original Extent and End of Civil Government]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Locke's 1689 founding text of natural-rights liberalism: law of nature, 
 
 # Second Treatise of Government
 
-> [[the-second-treatise-of-government|The Second Treatise of Government]] is John Locke's 1689 essay (the second of his *Two Treatises*) and the single most influential statement of natural-rights political theory. It is the keystone of the [[natural-law-and-natural-order|natural-law]] lineage as the libertarian tradition receives it.
+> [[the-second-treatise-of-government|The Second Treatise of Government]] is [[john-locke|John Locke]]'s 1689 essay (the second of his *Two Treatises*) and the single most influential statement of natural-rights political theory. It is the keystone of the [[natural-law-and-natural-order|natural-law]] lineage as the libertarian tradition receives it.
 
 ## The Argument
 

@@ -3,8 +3,8 @@ title: "Jason Lowery"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-10
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [jason-lowery, softwar, bitcoin, national-security, ussf, mit-sdm]
 aliases: [Major Jason P. Lowery, Jason P. Lowery, Lowery]
 confidence: medium
@@ -17,7 +17,7 @@ summary: "Short author reference for Jason P. Lowery as represented by *Softwar*
 
 ## Work Present Here
 
-The source set identifies Lowery as the author of [[softwar|Softwar]], formally titled *Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin*. The thesis was submitted to MIT's System Design and Management Program for the Master of Science in Engineering and Management in February 2023.
+The source set identifies Lowery as the author of [[softwar|Softwar]], formally titled *Softwar: A Novel Theory on [[power-projection|Power Projection]] and the National Strategic Significance of Bitcoin*. The thesis was submitted to MIT's System Design and Management Program for the Master of Science in Engineering and Management in February 2023.
 
 The thesis identifies Lowery as a Major, a Department of Defense-sponsored US National Defense Fellow, a Department of the Air Force Fellow, an MIT System Design and Management Fellow, an astronautical engineer, and an active-duty technology and innovation officer in the US Space Force. It also states that he transferred into the US Space Force from the US Air Force and had prior work connected to intelligence analysis, electronic warfare, blast and ballistics effects, and space weapon-system design.
 

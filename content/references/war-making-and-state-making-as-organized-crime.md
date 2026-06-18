@@ -3,8 +3,8 @@ title: "War Making and State Making as Organized Crime"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [charles-tilly, state, war-and-state-formation, protection-racket, organized-crime, historical-sociology, coercion, extraction, non-libertarian]
 aliases: [War Making and State Making, State Making as Organized Crime, Tilly 1985, protection rackets with legitimacy]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Reference guide to Charles Tilly's 1985 essay that explicitly compares
 
 # War Making and State Making as Organized Crime
 
-> Charles Tilly's 1985 essay is the explicit source for the state-as-protection-racket formulation that the wiki previously had only through later Tilly material. It treats war making, state making, protection, and extraction as interdependent activities through which European national states arose.
+> [[charles-tilly|Charles Tilly]]'s 1985 essay is the explicit source for the state-as-protection-racket formulation that the wiki previously had only through later Tilly material. It treats war making, state making, protection, and extraction as interdependent activities through which European national states arose.
 
 ## Text Status
 

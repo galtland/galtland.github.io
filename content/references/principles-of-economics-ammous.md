@@ -3,8 +3,8 @@ title: "Principles of Economics"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [saifedean-ammous, economics, austrian-economics, textbook, human-action, property, money, civilization, bitcoin]
 aliases: [Ammous Principles of Economics, Saifedean Principles of Economics, Principles of Economics Ammous]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Ammous's 2023 Austrian economics textbook in five parts and eighteen cha
 
 # Principles of Economics
 
-> [[principles-of-economics-ammous|Principles of Economics]] is Saifedean Ammous's 2023 Austrian economics textbook. It systematizes the economic method behind [[the-bitcoin-standard|The Bitcoin Standard]] and [[the-fiat-standard|The Fiat Standard]] in textbook form.
+> [[principles-of-economics-ammous|Principles of Economics]] is [[saifedean-ammous|Saifedean Ammous]]'s 2023 Austrian economics textbook. It systematizes the economic method behind [[the-bitcoin-standard|The Bitcoin Standard]] and [[the-fiat-standard|The Fiat Standard]] in textbook form.
 
 ## Bibliographic Status
 

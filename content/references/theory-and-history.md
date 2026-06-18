@@ -3,8 +3,8 @@ title: "Theory and History"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-17
-verified: 2026-06-17
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [mises, methodology, epistemology, philosophy-of-history]
 aliases: [Mises Theory and History, Methodological Dualism]
 confidence: medium
@@ -21,7 +21,7 @@ Mises makes the case for methodological dualism: the natural sciences seek causa
 
 ## Why It Matters in This Wiki
 
-[[theory-and-history|Theory and History]] is the most explicit statement of the methodological position behind everything Mises and Rothbard write. It clarifies why [[human-action|Human Action]] does not appeal to econometric data, why [[man-economy-and-state|Man, Economy, and State]] treats its theorems as deductive, and why both authors reject the positivist reconstruction of economics that became standard after the war. The 1985 Mises Institute reprint carries Murray Rothbard's preface — making it the natural methodological link between the two authors most heavily cited in this wiki.
+[[theory-and-history|Theory and History]] is the most explicit statement of the methodological position behind everything Mises and Rothbard write. It clarifies why [[human-action|Human Action]] does not appeal to econometric data, why [[man-economy-and-state|Man, Economy, and State]] treats its theorems as deductive, and why both authors reject the positivist reconstruction of economics that became standard after the war. The 1985 Mises Institute reprint carries [[murray-n-rothbard|Murray Rothbard]]'s preface — making it the natural methodological link between the two authors most heavily cited in this wiki.
 
 ## Scope of the Full-Text Ingest
 

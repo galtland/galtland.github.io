@@ -3,8 +3,8 @@ title: "Praxeology of Privacy"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [privacy, praxeology, action-axiom, austrian-economics, property-rights, surveillance, bitcoin, power-projection]
 aliases: [privacy praxeology, privacy as selective disclosure, privacy as structural feature of action]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Hillebrand's theoretical claim that privacy is a structural feature of
 
 # Praxeology of Privacy
 
-> Praxeology of privacy is Max Hillebrand's extension of Misesian action theory into privacy analysis. It treats privacy not as a personal taste for concealment but as a structural feature of action: actors deliberate internally, value subjectively, and reveal information selectively.
+> Praxeology of privacy is [[max-hillebrand|Max Hillebrand]]'s extension of Misesian action theory into privacy analysis. It treats privacy not as a personal taste for concealment but as a structural feature of action: actors deliberate internally, value subjectively, and reveal information selectively.
 
 ## Privacy as Selective Disclosure
 

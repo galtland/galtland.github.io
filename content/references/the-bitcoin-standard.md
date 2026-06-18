@@ -3,8 +3,8 @@ title: "The Bitcoin Standard"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [saifedean-ammous, bitcoin, sound-money, austrian-economics, monetary-history, central-banking, stock-to-flow, cypherpunk]
 aliases: [Bitcoin Standard, The Bitcoin Standard: The Decentralized Alternative to Central Banking]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Ammous's 2018 hard-money case for Bitcoin, now represented by a full-tex
 
 # The Bitcoin Standard
 
-> [[the-bitcoin-standard|The Bitcoin Standard]] is Saifedean Ammous's 2018 Wiley book presenting Bitcoin as digital hard money and a decentralized alternative to central banking. It reads Bitcoin through monetary history, Austrian economics, salability, stock-to-flow, and the political economy of sound and unsound money.
+> [[the-bitcoin-standard|The Bitcoin Standard]] is [[saifedean-ammous|Saifedean Ammous]]'s 2018 Wiley book presenting Bitcoin as digital hard money and a decentralized alternative to central banking. It reads Bitcoin through monetary history, Austrian economics, salability, stock-to-flow, and the political economy of sound and unsound money.
 
 ## Bibliographic Status
 

@@ -3,8 +3,8 @@ title: "The Sovereign Individual"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [james-dale-davidson, william-rees-mogg, sovereign-individual, information-age, megapolitics, cybereconomy, digital-money, jurisdictional-competition, nation-state, cypherpunk, commercially-published, non-libertarian]
 aliases: [The Sovereign Individual, Mastering the Transition to the Information Age, Sovereign Individual, the sovereign individual thesis]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Davidson and Rees-Mogg's 1997 forecast that the information age erodes t
 
 # The Sovereign Individual
 
-> [[the-sovereign-individual|The Sovereign Individual]] is James Dale Davidson and Lord William Rees-Mogg's 1997 book (subtitle *Mastering the Transition to the Information Age*). Its thesis is that information technology lowers the returns to organized violence, which dissolves the nation-state's monopoly on taxation and protection, pushes economic activity into a borderless [[the-cybereconomy|cybereconomy]] settled in encrypted digital money, and gives rise to a denationalized "Sovereign Individual" who can choose among governments competing for citizens like firms competing for customers.
+> [[the-sovereign-individual|The Sovereign Individual]] is [[james-dale-davidson|James Dale Davidson]] and [[william-rees-mogg|Lord William Rees-Mogg]]'s 1997 book (subtitle *Mastering the Transition to the Information Age*). Its thesis is that information technology lowers the returns to organized violence, which dissolves the nation-state's monopoly on taxation and protection, pushes economic activity into a borderless [[the-cybereconomy|cybereconomy]] settled in encrypted digital money, and gives rise to a denationalized "Sovereign Individual" who can choose among governments competing for citizens like firms competing for customers.
 
 ## The Core Argument
 

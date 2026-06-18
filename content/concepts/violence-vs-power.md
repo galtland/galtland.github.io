@@ -3,8 +3,8 @@ title: "Violence vs Power"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [hannah-arendt, violence, power, authority, force, action, totalitarianism, non-libertarian]
 aliases: [power versus violence, violence and power, Arendt power]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Arendt's distinction between power as action-in-concert and violence a
 
 # Violence vs Power
 
-> Violence vs power is Hannah Arendt's distinction between power rooted in people acting together and violence rooted in instruments of coercion. The distinction is central to the thesis update because it clarifies why totalitarian terror is not simply a less persuasive version of normal state legitimacy.
+> Violence vs power is [[hannah-arendt|Hannah Arendt]]'s distinction between power rooted in people acting together and violence rooted in instruments of coercion. The distinction is central to the thesis update because it clarifies why totalitarian terror is not simply a less persuasive version of normal state legitimacy.
 
 ## Core Distinction
 

@@ -3,8 +3,8 @@ title: "Bitcoin Whitepaper"
 volatility: cold
 category: reference
 created: 2026-05-27
-updated: 2026-05-27
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [bitcoin, satoshi-nakamoto, proof-of-work, digital-cash, cypherpunk, peer-to-peer]
 aliases: [Bitcoin: A Peer-to-Peer Electronic Cash System, Bitcoin paper, Satoshi whitepaper]
 confidence: high
@@ -14,7 +14,7 @@ short: "Satoshi's 2008 paper: peer-to-peer electronic cash combining digital sig
 
 # Bitcoin Whitepaper
 
-> [[bitcoin-whitepaper|Bitcoin Whitepaper]] is Satoshi Nakamoto's 2008 paper *Bitcoin: A Peer-to-Peer Electronic Cash System*. It proposes electronic cash without a trusted financial intermediary by combining digital signatures, public transaction announcement, decentralized timestamping, incentives, and hash-based proof of work.
+> [[bitcoin-whitepaper|Bitcoin Whitepaper]] is [[satoshi-nakamoto|Satoshi Nakamoto]]'s 2008 paper *Bitcoin: A Peer-to-Peer Electronic Cash System*. It proposes electronic cash without a trusted financial intermediary by combining digital signatures, public transaction announcement, decentralized timestamping, incentives, and hash-based proof of work.
 
 ## The Paper's Problem
 
@@ -38,7 +38,7 @@ That mechanism also solves representation. One-IP-address-one-vote can be subver
 
 The whitepaper explicitly cites Wei Dai's b-money and Adam Back's Hashcash. B-money proposed pseudonymous digital money using signed broadcasts, account databases, computational money creation, and contract enforcement. Hashcash supplied the proof-of-work cost function first aimed at spam and denial-of-service throttling.
 
-The design also resembles Szabo's Bit Gold, though Bit Gold is not cited in the whitepaper. This is an inference from the texts: Bit Gold proposes costly proof-of-work strings, secure timestamping, a distributed title registry, and digital signature chains of title. Bitcoin's design makes those ideas more operational by using proof of work not only to create cost but to order a shared transaction history.
+The design also resembles Szabo's [[bit-gold|Bit Gold]], though Bit Gold is not cited in the whitepaper. This is an inference from the texts: Bit Gold proposes costly proof-of-work strings, secure timestamping, a distributed title registry, and digital signature chains of title. Bitcoin's design makes those ideas more operational by using proof of work not only to create cost but to order a shared transaction history.
 
 This relation is why [[proof-of-work|Proof of Work]] is best treated as a lineage rather than a single invention. Hashcash supplies cost, Bit Gold supplies costly digital monetary objects and title, b-money supplies pseudonymous money and contract cooperation, and Bitcoin combines proof-of-work ordering with incentives in a live peer-to-peer network.
 

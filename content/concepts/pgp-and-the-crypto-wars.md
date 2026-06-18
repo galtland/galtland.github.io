@@ -3,8 +3,8 @@ title: "PGP and the Crypto Wars"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [pgp, crypto-wars, privacy, public-key-cryptography, cypherpunk, export-controls, key-escrow, surveillance]
 aliases: [PGP, Pretty Good Privacy, Crypto Wars, strong encryption]
 confidence: medium
@@ -14,7 +14,7 @@ short: "PGP as routine strong encryption, and the 1990s fight over export contro
 
 # PGP and the Crypto Wars
 
-> [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] is the political-technical lesson of Phil Zimmermann's PGP essay: strong encryption should be routine, ordinary, and widely deployed before states can make private digital speech exceptional.
+> [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] is the political-technical lesson of [[phil-zimmermann|Phil Zimmermann]]'s PGP essay: strong encryption should be routine, ordinary, and widely deployed before states can make private digital speech exceptional.
 
 ## Routine Encryption as Normal Privacy
 

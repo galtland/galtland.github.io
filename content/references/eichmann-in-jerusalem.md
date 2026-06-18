@@ -3,8 +3,8 @@ title: "Eichmann in Jerusalem"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [hannah-arendt, eichmann, banality-of-evil, holocaust, totalitarianism, bureaucracy, moral-judgment, thoughtlessness, non-libertarian]
 aliases: [Eichmann in Jerusalem, A Report on the Banality of Evil]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Reference guide to Hannah Arendt's 1963 report on Adolf Eichmann's Jer
 
 # Eichmann in Jerusalem
 
-> [[eichmann-in-jerusalem|Eichmann in Jerusalem]] is Hannah Arendt's report on Adolf Eichmann's trial and her source for the phrase "the banality of evil." It gives this wiki the ordinary-participant complement to Arendt's regime-level analysis of totalitarianism.
+> [[eichmann-in-jerusalem|Eichmann in Jerusalem]] is [[hannah-arendt|Hannah Arendt]]'s report on Adolf Eichmann's trial and her source for the phrase "the banality of evil." It gives this wiki the ordinary-participant complement to Arendt's regime-level analysis of totalitarianism.
 
 ## Text Status
 

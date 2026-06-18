@@ -3,8 +3,8 @@ title: "Mises and Hayek Dehomogenized"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [salerno, mises, hayek, austrian-economics, socialist-calculation, market-process, monetary-calculation, knowledge-problem]
 aliases: [Mises Hayek Dehomogenized, Dehomogenized, Salerno 1993]
 confidence: high
@@ -14,7 +14,7 @@ short: "Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and H
 
 # Mises and Hayek Dehomogenized
 
-> [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] is Joseph T. Salerno's 1993 Review of Austrian Economics paper arguing that Mises and Hayek should not be treated as interchangeable representatives of a single Austrian paradigm.
+> [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] is Joseph T. Salerno's 1993 Review of [[austrian-economics|Austrian Economics]] paper arguing that Mises and Hayek should not be treated as interchangeable representatives of a single Austrian paradigm.
 
 ## The Dehomogenization Claim
 

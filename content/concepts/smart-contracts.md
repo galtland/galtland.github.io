@@ -3,8 +3,8 @@ title: "Smart Contracts"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [cypherpunk, smart-contracts, contracts, cryptography, protocols, digital-cash]
 aliases: [smart contract, smart property, computerized transaction protocols]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Szabo's broad 1994 idea that contract terms can be embedded in protocols
 
 # Smart Contracts
 
-> [[smart-contracts|Smart Contracts]] are Nick Szabo's 1994 idea that contract terms can be embedded in computerized transaction protocols. The original concept is broader than blockchain programs: it includes digital cash, cryptographic subprotocols, synthetic assets, and smart property.
+> [[smart-contracts|Smart Contracts]] are [[nick-szabo|Nick Szabo]]'s 1994 idea that contract terms can be embedded in computerized transaction protocols. The original concept is broader than blockchain programs: it includes digital cash, cryptographic subprotocols, synthetic assets, and smart property.
 
 ## Szabo's Definition
 

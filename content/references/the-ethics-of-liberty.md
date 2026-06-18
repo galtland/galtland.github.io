@@ -3,8 +3,8 @@ title: "The Ethics of Liberty"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [rothbard, natural-rights, ethics, liberty, property-rights]
 aliases: [EoL, Rothbard's Ethics]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Reference guide to Rothbard's natural-rights treatise (1982/1998) on t
 
 # The Ethics of Liberty
 
-> [[the-ethics-of-liberty|The Ethics of Liberty]] is Rothbard's natural-rights statement of the libertarian moral case, the moral counterpart to the consequentialist economic argument [[liberalism|Mises makes in Liberalism]]. First published in 1982 and reissued in 1998 with an introduction by Hans-Hermann Hoppe, it grounds libertarianism in self-ownership, property in unowned things appropriated through use, and the rule against initiated force.
+> [[the-ethics-of-liberty|The Ethics of Liberty]] is Rothbard's natural-rights statement of the libertarian moral case, the moral counterpart to the consequentialist economic argument [[liberalism|Mises makes in Liberalism]]. First published in 1982 and reissued in 1998 with an introduction by [[hans-hermann-hoppe|Hans-Hermann Hoppe]], it grounds libertarianism in self-ownership, property in unowned things appropriated through use, and the rule against initiated force.
 
 ## What the Book Argues
 

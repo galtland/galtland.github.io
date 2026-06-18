@@ -3,8 +3,8 @@ title: "Unforgeable Costliness"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [money, bitcoin, nick-szabo, saifedean-ammous, proof-of-work, stock-to-flow, regression-theorem, austrian-economics]
 aliases: [unforgeable costliness, costly scarcity, costly-to-create money]
 confidence: medium-high
@@ -14,11 +14,11 @@ short: "The bridge from shell beads and precious metals to proof of work: money 
 
 # Unforgeable Costliness
 
-> [[unforgeable-costliness|Unforgeable Costliness]] is the monetary requirement that a good used to store or transfer value be costly to create and hard to counterfeit. It links Szabo's collectibles, Bit Gold, and Saifedean Ammous's stock-to-flow account of hard money.
+> [[unforgeable-costliness|Unforgeable Costliness]] is the monetary requirement that a good used to store or transfer value be costly to create and hard to counterfeit. It links Szabo's collectibles, [[bit-gold|Bit Gold]], and Saifedean Ammous's stock-to-flow account of hard money.
 
 ## From Collectibles to Monetary Goods
 
-In [[shelling-out|Shelling Out]], Nick Szabo argues that prehistoric collectibles worked because they were not arbitrary decorations. Shell beads, teeth, flints, jewelry, and precious objects could carry wealth because they were durable, portable, recognizable, and hard to fake.
+In [[shelling-out|Shelling Out]], [[nick-szabo|Nick Szabo]] argues that prehistoric collectibles worked because they were not arbitrary decorations. Shell beads, teeth, flints, jewelry, and precious objects could carry wealth because they were durable, portable, recognizable, and hard to fake.
 
 Szabo's key phrase is "unforgeably costly." A collectible that takes skill, time, rarity, or difficult acquisition to produce can become valuable because the cost is amortized over repeated wealth transfers. The object does not need to be useful like a tool every time it changes hands. Its function is to make transfer and settlement possible among parties who cannot rely entirely on memory, kinship, or trust.
 

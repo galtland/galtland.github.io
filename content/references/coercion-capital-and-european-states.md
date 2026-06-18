@@ -3,8 +3,8 @@ title: "Coercion, Capital, and European States"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [charles-tilly, state, historical-sociology, war-and-state-formation, coercion, capital, protection-racket, european-history, citizenship, nationalism, military-power, full-text, non-libertarian]
 aliases: [Coercion Capital and European States, Coercion Capital and European States AD 990-1992]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Reference guide to Charles Tilly's historical-sociological account of 
 
 # Coercion, Capital, and European States
 
-> [[coercion-capital-and-european-states|Coercion, Capital, and European States]] is Charles Tilly's thousand-year account of how European rulers built durable state organizations through war-making, extraction, coercive consolidation, and bargaining with holders of capital. It gives this wiki a non-libertarian historical-sociology counterpart to the [[franz-oppenheimer|Oppenheimer]]/[[albert-jay-nock|Nock]]/[[murray-n-rothbard|Rothbard]] state critique.
+> [[coercion-capital-and-european-states|Coercion, Capital, and European States]] is [[charles-tilly|Charles Tilly]]'s thousand-year account of how European rulers built durable state organizations through war-making, extraction, coercive consolidation, and bargaining with holders of capital. It gives this wiki a non-libertarian historical-sociology counterpart to the [[franz-oppenheimer|Oppenheimer]]/[[albert-jay-nock|Nock]]/[[murray-n-rothbard|Rothbard]] state critique.
 
 ## Text Status
 

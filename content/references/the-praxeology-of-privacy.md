@@ -3,8 +3,8 @@ title: "The Praxeology of Privacy"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [max-hillebrand, privacy, praxeology, austrian-economics, bitcoin, cypherpunk, cryptography, property-rights, power-projection]
 aliases: [Economic Logic in Cypherpunk Implementation, PoP]
 confidence: medium
@@ -13,7 +13,7 @@ summary: "Reference guide to Max Hillebrand's public-domain v0.2.0 book arguing 
 
 # The Praxeology of Privacy
 
-> [[the-praxeology-of-privacy|The Praxeology of Privacy]] is Max Hillebrand's public-domain v0.2.0 book on privacy as economic logic rather than lifestyle preference. It joins Misesian praxeology, Hoppean argumentation ethics, Voskuil's resistance axiom, Austrian monetary theory, Bitcoin, and cypherpunk cryptography into a single theory-to-implementation argument.
+> [[the-praxeology-of-privacy|The Praxeology of Privacy]] is [[max-hillebrand|Max Hillebrand]]'s public-domain v0.2.0 book on privacy as economic logic rather than lifestyle preference. It joins Misesian praxeology, Hoppean argumentation ethics, Voskuil's resistance axiom, Austrian monetary theory, Bitcoin, and cypherpunk cryptography into a single theory-to-implementation argument.
 
 ## What the Book Argues
 
@@ -25,7 +25,7 @@ The book then adds a normative layer through [[hans-hermann-hoppe|Hoppe]]'s argu
 
 The first five chapters establish the theoretical foundation: privacy as selective disclosure, the convergence of Austrian economics and cypherpunk practice, the action axiom, argumentation ethics, and resistance. Chapters 6-9 apply Austrian economics to information, exchange, capital goods, entrepreneurship, money, and sound digital money.
 
-Chapters 10-12 define the adversary environment: financial surveillance, corporate data extraction, and the Crypto Wars. Chapters 13-17 explain implementation domains: cryptographic primitives, anonymous communication networks, Bitcoin, zero-knowledge proofs, and decentralized social infrastructure. Chapters 18-21 move into praxis: historical lessons, operational security, implementation strategy, and the parallel economy.
+Chapters 10-12 define the adversary environment: financial surveillance, corporate data extraction, and the [[pgp-and-the-crypto-wars|Crypto Wars]]. Chapters 13-17 explain implementation domains: cryptographic primitives, anonymous communication networks, Bitcoin, zero-knowledge proofs, and decentralized social infrastructure. Chapters 18-21 move into praxis: historical lessons, operational security, implementation strategy, and the parallel economy.
 
 The result is a book with two registers. The theoretical core belongs in [[praxeology-of-privacy|Praxeology of Privacy]]. The implementation map belongs in [[privacy-and-cryptography|Privacy and Cryptography]].
 

@@ -3,8 +3,8 @@ title: "Summa Theologica: Treatise on Law"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-12
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [thomas-aquinas, natural-law, classical-canon, scholasticism, summa-theologica, eternal-law, human-law, divine-law, treatise-on-law]
 aliases: [Treatise on Law, Summa Theologica Treatise on Law, Aquinas on law, Prima Secundae 90-108, lex naturalis]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Aquinas's systematic natural-law treatise: law as reason for the common 
 
 # Summa Theologica: Treatise on Law
 
-> [[aquinas-treatise-on-law|The Treatise on Law]] is Questions 90–108 of the *Prima Secundae* of Thomas Aquinas's *Summa Theologica* (c. 1270) — the most systematic statement of [[natural-law-and-natural-order|natural law]] in the Western tradition, and the bridge from classical (Aristotelian and Ciceronian) natural justice to the modern rights tradition.
+> [[aquinas-treatise-on-law|The Treatise on Law]] is Questions 90–108 of the *Prima Secundae* of [[thomas-aquinas|Thomas Aquinas]]'s *Summa Theologica* (c. 1270) — the most systematic statement of [[natural-law-and-natural-order|natural law]] in the Western tradition, and the bridge from classical (Aristotelian and Ciceronian) natural justice to the modern rights tradition.
 
 ## The Definition and the Fourfold Scheme
 

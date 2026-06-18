@@ -3,8 +3,8 @@ title: "The Production of Security"
 volatility: warm
 category: reference
 created: 2026-05-06
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [molinari, market-anarchism, private-security, classical-liberalism, private-law, evolution-of-the-state]
 aliases: [De la production de la sécurité, Molinari's Production of Security]
 confidence: medium
@@ -25,7 +25,7 @@ Until now Molinari was visible in the wiki only at second hand: cited by Rothbar
 
 ## Scope of the Full-Text Ingest
 
-The current raw source is the Mises Institute's 2009 PDF reissue (66 pages, CC-BY 3.0 licensed) of J. Huston McCulloch's 1977 English translation, originally published as Occasional Paper #2 by the Center for Libertarian Studies. The volume includes a preface by Murray N. Rothbard placing Molinari in the history of individualist economic thought.
+The current raw source is the Mises Institute's 2009 PDF reissue (66 pages, CC-BY 3.0 licensed) of J. Huston McCulloch's 1977 English translation, originally published as Occasional Paper #2 by the Center for Libertarian Studies. The volume includes a preface by [[murray-n-rothbard|Murray N. Rothbard]] placing Molinari in the history of individualist economic thought.
 
 ## Relation to the Wiki's Market-Anarchist Sources
 

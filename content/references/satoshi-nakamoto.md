@@ -3,8 +3,8 @@ title: "Satoshi Nakamoto"
 volatility: cold
 category: reference
 created: 2026-05-27
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [satoshi-nakamoto, bitcoin, proof-of-work, digital-cash, cypherpunk, cryptography]
 aliases: [Satoshi, Nakamoto]
 confidence: medium
@@ -36,7 +36,7 @@ The problem is double spending. Section 3 introduces a timestamp server, and Sec
 
 ## Synthesis of Prior Cypherpunk Work
 
-The whitepaper is a synthesis rather than an isolated invention. It cites Wei Dai's b-money, several timestamping papers, Adam Back's Hashcash, Merkle trees, and Feller's probability text. The design also sits near Szabo's Bit Gold: costly proofs, timestamping, title-like chains, and minimized trust all appear in the same problem space, even though Bit Gold is not listed in the whitepaper's references.
+The whitepaper is a synthesis rather than an isolated invention. It cites Wei Dai's b-money, several timestamping papers, Adam Back's Hashcash, Merkle trees, and Feller's probability text. The design also sits near Szabo's [[bit-gold|Bit Gold]]: costly proofs, timestamping, title-like chains, and minimized trust all appear in the same problem space, even though Bit Gold is not listed in the whitepaper's references.
 
 Satoshi's distinctive move is to combine the pieces into a live consensus process. Proof of work is not only a way to create costly tokens; it is the voting and ordering mechanism. Digital signatures are not enough without a public history, and a public history is not enough without a Sybil-resistant rule for choosing among histories. The longest proof-of-work chain supplies that rule.
 
