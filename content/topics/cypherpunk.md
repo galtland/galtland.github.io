@@ -50,7 +50,7 @@ Closed gaps as of 2026-05-28 (the same day this topic was first written): [[phil
 
 Phase C closed-gaps (later same day): 1990s Crypto Wars primary sources are now collected in the 1990s Crypto Wars dossier raw aggregate ([[key-escrow-and-clipper-chip|Clipper Chip]] campaign, Matt Blaze 1994 protocol-failure paper, Bernstein timeline, Zimmermann prosecution timeline, Gilmore code-as-speech materials). The *Bernstein v. United States* Ninth Circuit opinion (1999) is its own raw paper. A curated Cypherpunks mailing-list subset (~30 hand-picked posts spanning 1992-2009) closes the worst of the mailing-list gap. Privacy-coin and messaging-protocol primary sources are ingested: van Saberhagen's CryptoNote v2.0 (Monero foundation), the extended Zerocash paper (Zcash zk-SNARK foundation), and the [[signal-x3dh|Signal X3DH]] plus [[signal-double-ratchet|Double Ratchet]] specifications.
 
-Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-2009 (we have a curated subset, not the whole 17-year record); the PGP source-code USENET posts (Zimmermann's 1991 release in source form); the AES selection process documents (NIST 1997-2001); and dedicated author references for Eric Hughes, John Perry Barlow, John Gilmore, Whitfield Diffie, Martin Hellman, Pierre Rochard, Allen Farrington, Joseph Poon, Tadge Dryja, Moxie Marlinspike, and Trevor Perrin (all currently covered by work-references rather than umbrella author-references).
+Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-2009 (we have a curated subset, not the whole 17-year record); the PGP source-code USENET posts (Zimmermann's 1991 release in source form); the AES selection process documents (NIST 1997-2001); and dedicated author references for Eric Hughes, John Perry Barlow, John Gilmore, Whitfield Diffie, Martin Hellman, Pierre Rochard, Allen Farrington, Joseph Poon, and Tadge Dryja (all currently covered by work-references rather than umbrella author-references).
 
 ## See Also
 
@@ -110,6 +110,8 @@ Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-200
 - [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
 - [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
 - [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
+- [[moxie-marlinspike|Moxie Marlinspike]] - Cryptographer behind Signal; co-author with Trevor Perrin of the X3DH and Double Ratchet specs that define modern end-to-end encrypted messaging.
+- [[trevor-perrin|Trevor Perrin]] - Cryptographer, co-author with Moxie Marlinspike of Signal's X3DH and Double Ratchet specs — the key-agreement and ratcheting core of modern end-to-end encrypted messaging.
 
 ## Sources
 

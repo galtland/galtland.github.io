@@ -3,8 +3,8 @@ title: "Privacy and Cryptography"
 volatility: warm
 category: topic
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-05-31
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [privacy, cryptography, cypherpunk, bitcoin, surveillance, austrian-economics, power-projection, national-security]
 aliases: [cypherpunk privacy, privacy technology, cryptographic privacy]
 confidence: medium
@@ -100,6 +100,8 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link back to depositors
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
+- [[moxie-marlinspike|Moxie Marlinspike]] - Cryptographer behind Signal; co-author with Trevor Perrin of the X3DH and Double Ratchet specs that define modern end-to-end encrypted messaging.
+- [[trevor-perrin|Trevor Perrin]] - Cryptographer, co-author with Moxie Marlinspike of Signal's X3DH and Double Ratchet specs — the key-agreement and ratcheting core of modern end-to-end encrypted messaging.
 
 ## Sources
 

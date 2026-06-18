@@ -3,8 +3,8 @@ title: "Signal Double Ratchet"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [libertarian, cypherpunk, signal, double-ratchet, forward-secrecy, post-compromise-recovery, end-to-end-encryption, messaging, diffie-hellman]
 aliases: [The Double Ratchet Algorithm, Double Ratchet, Signal ratchet, Axolotl ratchet]
 confidence: high
@@ -18,7 +18,7 @@ short: "Signal's messaging ratchet: per-message symmetric keys plus DH ratchet t
 
 ## Work and Revision
 
-The ingested source is *The Double Ratchet Algorithm*, Revision 4, dated 2025-11-04. It credits the algorithm to Trevor Perrin and Moxie Marlinspike, with Rolfe Schmidt credited for revision 3 and later. The historical Signal ratchet predates this revision; the reference here follows the ingested specification.
+The ingested source is *The Double Ratchet Algorithm*, Revision 4, dated 2025-11-04. It credits the algorithm to [[trevor-perrin|Trevor Perrin]] and [[moxie-marlinspike|Moxie Marlinspike]], with Rolfe Schmidt credited for revision 3 and later. The historical Signal ratchet predates this revision; the reference here follows the ingested specification.
 
 The protocol assumes the parties already share an initial secret, usually from a key agreement protocol such as [[signal-x3dh|Signal X3DH]] or PQXDH. The Double Ratchet then handles message encryption, decryption, key deletion, and recovery from some passive compromises.
 
@@ -59,6 +59,8 @@ The specification is also explicit about secure deletion. Forward secrecy depend
 - [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - earlier deployed system using forward-secret key negotiation in privacy infrastructure
 - [[cypherpunk|Cypherpunk]] - movement context for user-controlled encrypted messaging
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for encrypted communication and privacy tools
+- [[moxie-marlinspike|Moxie Marlinspike]] - Cryptographer behind Signal; co-author with Trevor Perrin of the X3DH and Double Ratchet specs that define modern end-to-end encrypted messaging.
+- [[trevor-perrin|Trevor Perrin]] - Cryptographer, co-author with Moxie Marlinspike of Signal's X3DH and Double Ratchet specs — the key-agreement and ratcheting core of modern end-to-end encrypted messaging.
 
 ## Sources
 

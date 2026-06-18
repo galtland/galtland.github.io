@@ -78,6 +78,8 @@ The confidence level is medium because the article describes May's thesis accura
 - [[the-cybereconomy|The Cybereconomy]] - Davidson and Rees-Mogg's untaxable digital economy, the macro counterpart to May's crypto-anarchic zones
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Rosenberg's novel dramatizing crypto anarchy as a lived scenario; the Crypto Anarchist's Bible
 - [[paul-rosenberg|Paul Rosenberg]] - author of that crypto-anarchist novel
+- [[moxie-marlinspike|Moxie Marlinspike]] - Cryptographer behind Signal; co-author with Trevor Perrin of the X3DH and Double Ratchet specs that define modern end-to-end encrypted messaging.
+- [[trevor-perrin|Trevor Perrin]] - Cryptographer, co-author with Moxie Marlinspike of Signal's X3DH and Double Ratchet specs — the key-agreement and ratcheting core of modern end-to-end encrypted messaging.
 
 ## Sources
 

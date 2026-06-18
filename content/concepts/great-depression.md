@@ -6,7 +6,7 @@ created: 2026-06-18
 updated: 2026-06-18
 verified: 2026-06-18
 tags: [great-depression, austrian-economics, business-cycle, monetary-history, federal-reserve, hoover, monetarism, economic-history]
-aliases: [Great Depression, the Great Depression, 1929 crash]
+aliases: [Great Depression, the Great Depression, 1929 crash, Great Contraction, the Great Contraction]
 confidence: high
 summary: "The 1929 crash and the decade-long depression that followed, and the competing free-market explanations of it: the Austrian/Rothbard reading (a Fed-engineered 1920s credit boom whose bust Hoover's interventionism prolonged) against the monetarist/Friedman reading (the Fed deepened the slump by letting the money supply collapse)."
 short: "The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause."

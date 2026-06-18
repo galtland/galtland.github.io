@@ -3,8 +3,8 @@ title: "Signal X3DH"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [libertarian, cypherpunk, signal, x3dh, key-agreement, forward-secrecy, end-to-end-encryption, messaging, diffie-hellman]
 aliases: [The X3DH Key Agreement Protocol, Extended Triple Diffie-Hellman, X3DH, Signal prekey protocol]
 confidence: high
@@ -14,7 +14,7 @@ short: "Signal's asynchronous key-agreement spec: identity keys, signed prekeys,
 
 # Signal X3DH
 
-> [[signal-x3dh|Signal X3DH]] is Moxie Marlinspike and Trevor Perrin's 2016 *X3DH Key Agreement Protocol*. It establishes an authenticated shared secret for encrypted messaging even when one party is offline.
+> [[signal-x3dh|Signal X3DH]] is [[moxie-marlinspike|Moxie Marlinspike]] and [[trevor-perrin|Trevor Perrin]]'s 2016 *X3DH Key Agreement Protocol*. It establishes an authenticated shared secret for encrypted messaging even when one party is offline.
 
 ## The Asynchronous Problem
 
@@ -55,6 +55,8 @@ That makes X3DH a practical compromise in [[trusted-third-parties-as-security-ho
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - design lens for limiting server trust
 - [[cypherpunk|Cypherpunk]] - movement context for user-controlled encrypted messaging
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for encrypted communication and privacy tools
+- [[moxie-marlinspike|Moxie Marlinspike]] - Cryptographer behind Signal; co-author with Trevor Perrin of the X3DH and Double Ratchet specs that define modern end-to-end encrypted messaging.
+- [[trevor-perrin|Trevor Perrin]] - Cryptographer, co-author with Moxie Marlinspike of Signal's X3DH and Double Ratchet specs — the key-agreement and ratcheting core of modern end-to-end encrypted messaging.
 
 ## Sources
 
