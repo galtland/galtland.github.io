@@ -3,8 +3,8 @@ title: "Democracy: The God That Failed"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [hoppe, democracy, monarchy, time-preference, decivilization, natural-order, regime-theory, praxeology]
 aliases: [Democracy, The God That Failed, Democracy by Hoppe]
 confidence: medium
@@ -25,7 +25,7 @@ This is the source of the book's decivilization thesis. Hoppe argues that democr
 
 ## Delegitimation, Secession, and Natural Order
 
-Chapters 3 through 5 extend the regime argument into public opinion, redistribution, centralization, and secession. Hoppe treats modern democracy as sustained by opinion: people must regard democratic rule as legitimate for it to operate cheaply. He therefore gives delegitimation the same strategic role that La Boetie gives the withdrawal of obedience. Secession and decentralization become practical antidotes to centralized democratic rule because smaller jurisdictions face stronger exit pressure and make redistribution harder to hide.
+Chapters 3 through 5 extend the regime argument into public opinion, redistribution, centralization, and secession. Hoppe treats modern democracy as sustained by opinion: people must regard democratic rule as legitimate for it to operate cheaply. He therefore gives delegitimation the same strategic role that [[etienne-de-la-boetie|La Boetie]] gives the withdrawal of obedience. Secession and decentralization become practical antidotes to centralized democratic rule because smaller jurisdictions face stronger exit pressure and make redistribution harder to hide.
 
 The book's constructive alternative is "natural order": private-law society, private property, contract, and competitive protection rather than monopoly government. This is why the book belongs next to [[the-production-of-security|The Production of Security]]. Chapter 12 explicitly turns the anti-state argument toward private defense and insurance, while chapter 13 argues that limited government is unstable and that liberty requires moving past constitutional repair into withdrawal, secession, and private-law institutions.
 

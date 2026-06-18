@@ -128,6 +128,8 @@ The case is not that Bitcoin is finished, safe, or already money. It is that Bit
 - [[crypto-anarchy|Crypto Anarchy]] - the cypherpunk political program that Bitcoin extends to value
 - [[ideal-money|Ideal Money]] - Nash's adjacent proposal for a non-political monetary standard
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
+- [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
 
 ## Sources
 

@@ -3,8 +3,8 @@ title: "Ecash and Chaumian Mints"
 volatility: warm
 category: concept
 created: 2026-05-30
-updated: 2026-06-09
-verified: 2026-06-08
+updated: 2026-06-18
+verified: 2026-06-18
 confidence: high
 tags: [ecash, chaumian-mint, cashu, fedimint, blind-signatures, bitcoin, privacy, custody, digital-cash, cypherpunk]
 aliases: [ecash, chaumian ecash, chaumian mint, Cashu, Fedimint, federated mint]
@@ -13,7 +13,7 @@ summary: "Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens i
 
 # Ecash and Chaumian Mints
 
-> Ecash brings David Chaum's [[blind-signatures-for-untraceable-payments|blind-signature]] scheme to Bitcoin. A **mint** signs tokens without seeing their serial numbers, so it cannot link a token's issuance to its later spending. Users deposit bitcoin, receive blind-signed ecash tokens, and spend them with strong privacy — at the cost of trusting the mint to honor redemptions. Ecash buys privacy by surrendering self-custody.
+> Ecash brings [[david-chaum|David Chaum]]'s [[blind-signatures-for-untraceable-payments|blind-signature]] scheme to Bitcoin. A **mint** signs tokens without seeing their serial numbers, so it cannot link a token's issuance to its later spending. Users deposit bitcoin, receive blind-signed ecash tokens, and spend them with strong privacy — at the cost of trusting the mint to honor redemptions. Ecash buys privacy by surrendering self-custody.
 
 ## How It Works
 
@@ -57,6 +57,7 @@ Finney was describing pre-1861 American private banknotes, then speculating "tha
 - [[digital-cash-history|Lessons from Digital-Cash History]] - DigiCash applied the same Chaumian scheme and failed on the custody point
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the implementation-map topic
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - ch. 15 §15.10 is the source for this concept
+- [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
 
 ## Sources
 

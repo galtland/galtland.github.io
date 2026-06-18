@@ -3,8 +3,8 @@ title: "Security Without Identification"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [david-chaum, pseudonymity, privacy, digital-cash, cryptography, surveillance, cypherpunk]
 aliases: [Security Without Identification: Transaction Systems to Make Big Brother Obsolete, Transaction Systems to Make Big Brother Obsolete, Chaum 1985]
 confidence: high
@@ -14,7 +14,7 @@ short: "Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card comp
 
 # Security Without Identification
 
-> [[security-without-identification|Security Without Identification]] is David Chaum's 1985 Communications of the ACM paper "Security Without Identification: Transaction Systems to Make Big Brother Obsolete."
+> [[security-without-identification|Security Without Identification]] is [[david-chaum|David Chaum]]'s 1985 Communications of the ACM paper "Security Without Identification: Transaction Systems to Make Big Brother Obsolete."
 
 ## Dossier Society
 
@@ -50,6 +50,7 @@ For the cypherpunk lineage, that makes the paper a bridge. It is older than the 
 - [[praxeology-of-privacy|Praxeology of Privacy]] - later Austrian-libertarian theory of selective disclosure
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - later conflict over routine public-key privacy tools
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - adjacent protocol-design critique of institutional trust
+- [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
 
 ## Sources
 

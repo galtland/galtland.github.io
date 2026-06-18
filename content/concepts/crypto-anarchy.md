@@ -3,10 +3,10 @@ title: "Crypto Anarchy"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [cypherpunk, crypto-anarchy, cryptography, privacy, state-power, libertarianism]
-aliases: [Crypto-Anarchy, crypto anarchism, crypto anarchist thesis]
+aliases: [Crypto-Anarchy, crypto anarchism, crypto anarchist thesis, Crypto Anarchist Manifesto, The Crypto Anarchist Manifesto]
 confidence: medium
 summary: "Tim May's crypto-anarchy thesis holds that strong cryptography, anonymous communication, and digital cash make new zones of exchange difficult for states to surveil, tax, censor, or regulate."
 short: "Tim May's thesis that strong cryptography enables zones of voluntary exchange outside ordinary state surveillance, taxation, censorship, and control."

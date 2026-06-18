@@ -3,8 +3,8 @@ title: "Lessons from Digital-Cash History"
 volatility: warm
 category: concept
 created: 2026-05-30
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 confidence: medium
 tags: [digital-cash, history, digicash, e-gold, liberty-dollar, liberty-reserve, silk-road, tornado-cash, bitcoin, centralization, trusted-third-parties, opsec, cypherpunk]
 aliases: [digital cash history, lessons from history, DigiCash, e-gold, Liberty Reserve, Silk Road, Tornado Cash, pre-Bitcoin digital money]
@@ -17,7 +17,7 @@ summary: "Why pre-Bitcoin alternative monies failed and what Bitcoin's design es
 
 ## The Six Cases
 
-- **DigiCash (1989–1998).** David Chaum's company implemented his [[blind-signatures-for-untraceable-payments|blind-signature]] ecash. The cryptography worked, but the venture failed commercially (too early for e-commerce; required conservative bank partners; reportedly spurned Microsoft/Visa offers). Its deeper flaw was architectural: tokens were **warehouse receipts** — claims on dollars held by a bank — so it could never escape the banking system it aimed to bypass. When the company failed, the receipts became claims on nothing.
+- **DigiCash (1989–1998).** [[david-chaum|David Chaum]]'s company implemented his [[blind-signatures-for-untraceable-payments|blind-signature]] ecash. The cryptography worked, but the venture failed commercially (too early for e-commerce; required conservative bank partners; reportedly spurned Microsoft/Visa offers). Its deeper flaw was architectural: tokens were **warehouse receipts** — claims on dollars held by a bank — so it could never escape the banking system it aimed to bypass. When the company failed, the receipts became claims on nothing.
 - **e-gold (1996–2009).** Douglas Jackson's gold-backed digital currency reached billions in annual volume and millions of accounts with minimal KYC. In 2007 the U.S. indicted it for unlicensed money transmission and money-laundering conspiracy; it was shut down and Jackson pleaded guilty. Same warehouse-receipt architecture as DigiCash — but here the **state**, not the market, exploited the single custodian. The gold still existed; the institution that honored claims did not.
 - **Liberty Dollar (1998–2011).** Bernard von NotHaus's silver/gold medallions and certificates aimed to be actual circulating currency competing with Federal Reserve notes (peak circulation ~$20M). After a 2007 FBI raid, NotHaus was convicted in 2011 of counterfeiting and fraud — controversially, since the medallions did not resemble U.S. currency. Lesson: **physical** alternative money draws even more direct state opposition, and provocative anti-Fed marketing raised the prosecutorial target.
 - **Liberty Reserve (2006–2013).** Arthur Budovsky's Costa Rica–based, privacy-focused digital currency processed ~$6B for ~1M users with minimal KYC. In 2013 U.S. authorities (with Costa Rican cooperation) shut it down; Budovsky was extradited and sentenced to 20 years. Lesson: **jurisdictional arbitrage has limits** — offshore incorporation delays but does not prevent prosecution of a centralized operator. (Note: entirely unrelated to Liberty Dollar despite the name.)
@@ -42,6 +42,7 @@ What **succeeded** is the inverse, and Bitcoin embodies it: decentralization wit
 - [[crypto-anarchy|Crypto Anarchy]] - the political program these systems tried to implement
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the implementation-map topic
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - ch. 18 "Lessons from History" is the source for this concept
+- [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
 
 ## Sources
 

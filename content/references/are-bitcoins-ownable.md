@@ -3,8 +3,8 @@ title: "Are Bitcoins Ownable?"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [konrad-graf, bitcoin, property-rights, legal-theory, intellectual-property, austrian-economics, cypherpunk, rival-goods]
 aliases: [Are Bitcoins Ownable, Are Bitcoins Ownable? Property Rights IP Wrongs and Legal-Theory Implications, bitcoin ownability]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Graf's action-based property-theory analysis of Bitcoin ownership, keys,
 
 # Are Bitcoins Ownable?
 
-> [[are-bitcoins-ownable|Are Bitcoins Ownable?]] is Konrad Graf's action-based property-theory work on Bitcoin, rival goods, intellectual-property errors, hacking, double spending, fungibility, and legal remedies. First written as a 2013 essay and cited here in the expanded 5 November 2015 book-length edition, it treats bitcoin as a novel property-theory test case rather than a simple ledger-entry metaphor.
+> [[are-bitcoins-ownable|Are Bitcoins Ownable?]] is [[konrad-graf|Konrad Graf]]'s action-based property-theory work on Bitcoin, rival goods, intellectual-property errors, hacking, double spending, fungibility, and legal remedies. First written as a 2013 essay and cited here in the expanded 5 November 2015 book-length edition, it treats bitcoin as a novel property-theory test case rather than a simple ledger-entry metaphor.
 
 ## Question and Scope
 
@@ -61,6 +61,7 @@ Graf's tentative answer is that bitcoins appear ownable because they are control
 - [[austrian-economics|Austrian Economics]] - Misesian action-theory background for Graf's jurisprudence
 - [[cypherpunk|Cypherpunk]] - technical-political setting for Bitcoin and crypto-anarchic property questions
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
 
 ## Sources
 

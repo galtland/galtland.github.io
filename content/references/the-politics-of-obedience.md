@@ -3,8 +3,8 @@ title: "The Politics of Obedience"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [de-la-boetie, consent, state, strategy, evolution-of-the-state]
 aliases: [The Discourse of Voluntary Servitude, Politics of Obedience]
 confidence: medium
@@ -29,7 +29,7 @@ The current raw source aggregates 3 reading-order pages from the [[ludwig-von-mi
 
 ## Relation to Neighboring Anti-State Texts
 
-This book pairs naturally with [[anatomy-of-the-state|Anatomy of the State]] and [[lets-abolish-government|Let's Abolish Government]]. Rothbard's essay dissects what the state is, [[lysander-spooner|Spooner]] attacks its constitutional pretensions, and La Boetie explains why populations tolerate it in the first place.
+This book pairs naturally with [[anatomy-of-the-state|Anatomy of the State]] and [[lets-abolish-government|Let's Abolish Government]]. Rothbard's essay dissects what the state is, [[lysander-spooner|Spooner]] attacks its constitutional pretensions, and [[etienne-de-la-boetie|La Boetie]] explains why populations tolerate it in the first place.
 
 It also complements [[evolution-of-the-state|Evolution of the State]]. [[franz-oppenheimer|Oppenheimer]] and [[albert-jay-nock|Nock]] emphasize conquest, exploitation, and political means; La Boetie supplies the persistence mechanism of habit, collaboration, and withdrawn consent.
 

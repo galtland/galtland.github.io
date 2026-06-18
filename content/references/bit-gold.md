@@ -42,7 +42,7 @@ The design's subtle move is that owning bit gold is not the same as possessing t
 
 Bit Gold sits one step before [[bitcoin-whitepaper|Bitcoin]] in the [[proof-of-work|proof-of-work]] lineage. It already contains costly proof-of-work strings, secure timestamping, a distributed title registry, and digital-signature chains of title — four ideas that reappear, made operational, in [[satoshi-nakamoto|Satoshi Nakamoto]]'s 2008 design. Bitcoin's decisive addition is to use proof of work not only to *create* cost but to *order a single shared transaction history* — replacing Bit Gold's separate timestamp services and title registry with one chain whose longest, most-worked branch is the agreed history.
 
-The connection is an inference from the texts rather than a citation: Bitcoin's whitepaper cites Wei Dai's b-money and [[adam-back|Adam Back]]'s [[hashcash|Hashcash]], but not Bit Gold. The design overlap is nonetheless close enough that Bit Gold is routinely read as Bitcoin's nearest conceptual predecessor. [[hal-finney|Hal Finney]] built a working variant, RPOW (Reusable Proofs of Work), that explicitly invoked Bit Gold and let a remote, tamper-evident "mint" be audited by remote attestation.
+The connection is an inference from the texts rather than a citation: Bitcoin's whitepaper cites [[wei-dai|Wei Dai]]'s b-money and [[adam-back|Adam Back]]'s [[hashcash|Hashcash]], but not Bit Gold. The design overlap is nonetheless close enough that Bit Gold is routinely read as Bitcoin's nearest conceptual predecessor. [[hal-finney|Hal Finney]] built a working variant, RPOW (Reusable Proofs of Work), that explicitly invoked Bit Gold and let a remote, tamper-evident "mint" be audited by remote attestation.
 
 ## Limits
 
@@ -65,6 +65,7 @@ A second consequence is that bit gold is not naturally fungible. Like collectors
 - [[cypherpunk|Cypherpunk]] - topic map for the thread this proposal belongs to
 - [[privacy-and-cryptography|Privacy and Cryptography]] - technical setting for Szabo's protocol designs
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
+- [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
 
 ## Sources
 

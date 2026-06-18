@@ -3,8 +3,8 @@ title: "The Cybereconomy"
 volatility: warm
 category: concept
 created: 2026-06-09
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [cybereconomy, cybercash, cybermoney, digital-money, james-dale-davidson, william-rees-mogg, sovereign-individual, information-age, denationalized-money, cypherpunk]
 aliases: [cybereconomy, cybercash, cybermoney, the cybereconomy, digital cash]
 confidence: medium
@@ -48,6 +48,7 @@ Confidence is medium. The cybercash prediction was substantially vindicated by t
 - [[cypherpunk|Cypherpunk]] - topic map for cryptographic money, privacy, and resistance
 - [[james-dale-davidson|James Dale Davidson]] - co-author who forecast the cybereconomy and cybercash
 - [[william-rees-mogg|William Rees-Mogg]] - co-author who forecast the cybereconomy and cybercash
+- [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
 
 ## Sources
 

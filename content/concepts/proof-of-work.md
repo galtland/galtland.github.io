@@ -20,7 +20,7 @@ short: "A publicly verifiable cost function used first to meter access to networ
 
 [[adam-back|Adam Back]]'s [[hashcash|Hashcash]] paper formalizes proof of work as a denial-of-service countermeasure. The problem is asymmetry: sending email, posting to a remailer, or opening network connections can be cheap for the attacker and costly for the recipient. Hashcash changes the price of access. A sender must compute a token tied to the service name and challenge; the receiver can verify it with little work.
 
-Section 3 of the Hashcash paper defines it as non-interactive, publicly auditable, and trapdoor-free. The work is probabilistic: the sender searches for a value that makes a hash meet a target, while the receiver checks the result. Section 4 extends the idea to interactive settings where a server can issue challenges and raise the work factor under load. Section 6 lists later applications, including remailer abuse resistance, Usenet flooding, and Wei Dai's b-money.
+Section 3 of the Hashcash paper defines it as non-interactive, publicly auditable, and trapdoor-free. The work is probabilistic: the sender searches for a value that makes a hash meet a target, while the receiver checks the result. Section 4 extends the idea to interactive settings where a server can issue challenges and raise the work factor under load. Section 6 lists later applications, including remailer abuse resistance, Usenet flooding, and [[wei-dai|Wei Dai]]'s b-money.
 
 Hashcash was not designed as money in its first use. It was a metering device. But that metering device had a monetary shape: scarce because costly, cheap to assay, and portable as a digital proof.
 
@@ -80,6 +80,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), founding cypherpunk and author of the Crypto Anarchist Manifesto
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
+- [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
 
 ## Sources
 

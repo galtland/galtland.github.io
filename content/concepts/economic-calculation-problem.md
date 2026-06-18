@@ -3,10 +3,10 @@ title: "Economic Calculation Problem"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [calculation-problem, socialism, austrian-economics, central-planning]
-aliases: [Calculation Problem, Mises's Calculation Argument, Socialist Calculation Debate]
+aliases: [Calculation Problem, Mises's Calculation Argument, Socialist Calculation Debate, Socialist Calculation]
 confidence: medium
 summary: "The Misesian argument that a socialist commonwealth without private ownership of capital goods cannot perform the economic calculations needed to allocate resources rationally."
 ---

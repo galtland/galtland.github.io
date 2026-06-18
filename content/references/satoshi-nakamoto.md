@@ -36,7 +36,7 @@ The problem is double spending. Section 3 introduces a timestamp server, and Sec
 
 ## Synthesis of Prior Cypherpunk Work
 
-The whitepaper is a synthesis rather than an isolated invention. It cites Wei Dai's b-money, several timestamping papers, Adam Back's Hashcash, Merkle trees, and Feller's probability text. The design also sits near Szabo's [[bit-gold|Bit Gold]]: costly proofs, timestamping, title-like chains, and minimized trust all appear in the same problem space, even though Bit Gold is not listed in the whitepaper's references.
+The whitepaper is a synthesis rather than an isolated invention. It cites [[wei-dai|Wei Dai]]'s b-money, several timestamping papers, Adam Back's Hashcash, Merkle trees, and Feller's probability text. The design also sits near Szabo's [[bit-gold|Bit Gold]]: costly proofs, timestamping, title-like chains, and minimized trust all appear in the same problem space, even though Bit Gold is not listed in the whitepaper's references.
 
 Satoshi's distinctive move is to combine the pieces into a live consensus process. Proof of work is not only a way to create costly tokens; it is the voting and ordering mechanism. Digital signatures are not enough without a public history, and a public history is not enough without a Sybil-resistant rule for choosing among histories. The longest proof-of-work chain supplies that rule.
 
@@ -62,6 +62,7 @@ That limitation is important for [[privacy-and-cryptography|Privacy and Cryptogr
 - [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function: non-interactive, publicly verifiable tokens that impose a real computational cost, cited in the whitepaper
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
+- [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
 
 ## Sources
 

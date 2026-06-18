@@ -3,10 +3,10 @@ title: "Étienne de la Boétie"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-06-14
-verified: 2026-06-14
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [etienne-de-la-boetie, voluntary-servitude, consent, obedience, tyranny, withdrawal, classical-canon]
-aliases: [La Boétie, Etienne de la Boetie, Étienne de la Boétie, de la Boétie]
+aliases: [La Boétie, La Boetie, Etienne de la Boetie, Étienne de la Boétie, de la Boétie, de la Boetie]
 confidence: medium
 summary: "Short author reference for Étienne de la Boétie, the sixteenth-century French humanist whose Discourse of Voluntary Servitude supplies this wiki's foundational account of tyranny as something the ruled sustain by habit and consent."
 ---

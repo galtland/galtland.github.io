@@ -3,8 +3,8 @@ title: "Nonaggression and Property Rights"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [nonaggression, property-rights, ethics, liberty, classical-liberalism, political-means]
 aliases: [NAP, nonaggression principle, private property rights]
 confidence: medium
@@ -81,6 +81,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[non-interventionism|Non-Interventionism]] - the foreign-policy application of the nonaggression axiom
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical lineage behind the natural-rights defense
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's labour-mixing property account restated by the homesteading principle
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
 
 ## Sources
 

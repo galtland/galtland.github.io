@@ -36,7 +36,7 @@ That mechanism also solves representation. One-IP-address-one-vote can be subver
 
 ## Relationship to the Cypherpunk Canon
 
-The whitepaper explicitly cites Wei Dai's b-money and Adam Back's Hashcash. B-money proposed pseudonymous digital money using signed broadcasts, account databases, computational money creation, and contract enforcement. Hashcash supplied the proof-of-work cost function first aimed at spam and denial-of-service throttling.
+The whitepaper explicitly cites [[wei-dai|Wei Dai]]'s b-money and Adam Back's Hashcash. B-money proposed pseudonymous digital money using signed broadcasts, account databases, computational money creation, and contract enforcement. Hashcash supplied the proof-of-work cost function first aimed at spam and denial-of-service throttling.
 
 The design also resembles Szabo's [[bit-gold|Bit Gold]], though Bit Gold is not cited in the whitepaper. This is an inference from the texts: Bit Gold proposes costly proof-of-work strings, secure timestamping, a distributed title registry, and digital signature chains of title. Bitcoin's design makes those ideas more operational by using proof of work not only to create cost but to order a shared transaction history.
 
@@ -86,6 +86,8 @@ The whitepaper is high-confidence as a primary text. Its 12 sections, references
 - [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
+- [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
 
 ## Sources
 

@@ -3,8 +3,8 @@ title: "Blind Signatures for Untraceable Payments"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [david-chaum, blind-signatures, digital-cash, privacy, cryptography, cypherpunk, payments]
 aliases: [Chaum 1982, Blind Signatures, Untraceable Payments, Chaumian e-cash]
 confidence: high
@@ -14,7 +14,7 @@ short: "Chaum's 1982 blind-signature paper: a bank signs a blinded token, the pa
 
 # Blind Signatures for Untraceable Payments
 
-> [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] is David Chaum's CRYPTO '82 paper introducing blind signatures for privacy-preserving electronic payments.
+> [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] is [[david-chaum|David Chaum]]'s CRYPTO '82 paper introducing blind signatures for privacy-preserving electronic payments.
 
 ## The Payment Privacy Problem
 
@@ -58,6 +58,7 @@ The paper belongs beside [[new-directions-in-cryptography|New Directions in Cryp
 - [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
 - [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
+- [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
 
 ## Sources
 

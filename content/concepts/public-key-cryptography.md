@@ -3,8 +3,8 @@ title: "Public-Key Cryptography"
 volatility: cold
 category: concept
 created: 2026-05-27
-updated: 2026-05-30
-verified: 2026-05-30
+updated: 2026-06-18
+verified: 2026-06-18
 tags: [cryptography, public-key-cryptography, digital-signatures, privacy, cypherpunk, diffie-hellman]
 aliases: [asymmetric cryptography, public key cryptography, Diffie-Hellman, digital signatures]
 confidence: high
@@ -36,7 +36,7 @@ Digital signatures become the cypherpunk identity primitive. A key pair can stan
 
 ## Blind Signatures and Digital Cash
 
-David Chaum's [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] shows how public-key signatures can preserve privacy in payment and credential systems. A blind signature lets a signer certify a token without learning which certified token later appears. In the payment example, a bank can sign a withdrawal token, and later verify the deposited token, without linking deposit to withdrawal.
+[[david-chaum|David Chaum]]'s [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] shows how public-key signatures can preserve privacy in payment and credential systems. A blind signature lets a signer certify a token without learning which certified token later appears. In the payment example, a bank can sign a withdrawal token, and later verify the deposited token, without linking deposit to withdrawal.
 
 That primitive matters because it separates validity from traceability. A system can know that a token is authorized without learning the payer's full transaction history. The cypherpunk dream of digital cash did not begin with blockchains; it first used public-key signatures, blind signatures, and cryptographic protocols to make payment both verifiable and private.
 
@@ -81,6 +81,7 @@ The confidence level is high for the core claim. Diffie and Hellman's paper expl
 - [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), founding cypherpunk and author of the Crypto Anarchist Manifesto
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
+- [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
 
 ## Sources
 

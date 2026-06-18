@@ -24,7 +24,7 @@ Hashcash was not written as money. Its first target was abuse pricing for unmete
 
 ## Place in the Proof-of-Work Lineage
 
-Back is the first rung in the [[proof-of-work|proof-of-work]] lineage this wiki traces from cost function to consensus. Hashcash supplies the verifiable cost; [[nick-szabo|Nick Szabo]]'s [[bit-gold|Bit Gold]] and Wei Dai's b-money turn costly proofs toward digital money; and Bitcoin combines the cost function with distributed timestamping and a longest-chain rule into a working peer-to-peer cash system. The connection is explicit rather than inferred: Satoshi cites Hashcash in Section 4 and the references of the [[bitcoin-whitepaper|Bitcoin whitepaper]], using a Hashcash-style search for a nonce that drives a block hash below a target as the network's minting and voting mechanism. Back's improvement-correspondent on the Cypherpunks list, [[hal-finney|Hal Finney]], later built RPOW on the same idea.
+Back is the first rung in the [[proof-of-work|proof-of-work]] lineage this wiki traces from cost function to consensus. Hashcash supplies the verifiable cost; [[nick-szabo|Nick Szabo]]'s [[bit-gold|Bit Gold]] and [[wei-dai|Wei Dai]]'s b-money turn costly proofs toward digital money; and Bitcoin combines the cost function with distributed timestamping and a longest-chain rule into a working peer-to-peer cash system. The connection is explicit rather than inferred: Satoshi cites Hashcash in Section 4 and the references of the [[bitcoin-whitepaper|Bitcoin whitepaper]], using a Hashcash-style search for a nonce that drives a block hash below a target as the network's minting and voting mechanism. Back's improvement-correspondent on the Cypherpunks list, [[hal-finney|Hal Finney]], later built RPOW on the same idea.
 
 ## Why He Matters in This Wiki
 
@@ -42,6 +42,7 @@ Adam Back is one of the few cypherpunks whose specific technical artifact surviv
 - [[hal-finney|Hal Finney]] - RPOW creator who extended Back's idea
 - [[unforgeable-costliness|Unforgeable Costliness]] - the monetary primitive Hashcash makes verifiable
 - [[cypherpunk|Cypherpunk]] - topic map for the thread Back's work belongs to
+- [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
 
 ## Sources
 
