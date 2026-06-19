@@ -24,6 +24,7 @@ He is not a libertarian: he emphasized duty over rights and defended strong sove
 ## See Also
 
 - [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]] - the work present in this wiki
+- [[sociality|Sociality]] - Pufendorf's foundational law of nature: because man is needy yet prone to harm, every person must so behave that others have no just cause to injure him
 
 ## Sources
 
