@@ -70,6 +70,7 @@ The tradeoff is therefore not between blockchain and no blockchain. It is whethe
 - [[coinjoin|CoinJoin and PayJoin]] - two Bitcoin base-layer privacy techniques: CoinJoin merges many users' inputs into one transaction to break address linkage; PayJoin disguises which input is the sender's
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 
 ## Sources
 

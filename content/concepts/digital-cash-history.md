@@ -43,6 +43,7 @@ What **succeeded** is the inverse, and Bitcoin embodies it: decentralization wit
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the implementation-map topic
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - ch. 18 "Lessons from History" is the source for this concept
 - [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 
 ## Sources
 

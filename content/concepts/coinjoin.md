@@ -51,6 +51,7 @@ CoinJoin and PayJoin are the on-chain privacy layer of [[the-praxeology-of-priva
 - [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's cryptographic-privacy ancestor of these methods
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the implementation-map topic
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - ch. 15 is the source for this concept
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 
 ## Sources
 

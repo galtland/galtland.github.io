@@ -95,6 +95,8 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 - [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
+- [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 
 ## Sources
 

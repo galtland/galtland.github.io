@@ -61,6 +61,8 @@ The confidence level is medium. The primary-source claims about the manifesto an
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
 
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator and Crypto Wars figure adjacent to May's cypherpunk program
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
+- [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 
 ## Sources
 

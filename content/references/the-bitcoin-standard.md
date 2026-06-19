@@ -70,6 +70,7 @@ The book is influential in Bitcoin circles, but its interpretive claims should n
 - [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 
 ## Sources
 

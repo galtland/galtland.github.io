@@ -62,6 +62,8 @@ Nash's text predates and never mentions Bitcoin; the following is the wiki's own
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
+
 ## Sources
 
 - [Ideal Money and Asymptotically Ideal Money](https://www.cypherpunkbooks.com/book/ideal-money-and-asymptotically-ideal-money) - John Nash's lecture: money as a quality-bearing standard of value, the "Keynesian" managed-inflation critique, and the asymptotically-ideal managed-index proposal

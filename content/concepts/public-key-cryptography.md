@@ -84,6 +84,7 @@ The confidence level is high for the core claim. Diffie and Hellman's paper expl
 - [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
 - [[moxie-marlinspike|Moxie Marlinspike]] - Cryptographer behind Signal; co-author with Trevor Perrin of the X3DH and Double Ratchet specs that define modern end-to-end encrypted messaging.
 - [[trevor-perrin|Trevor Perrin]] - Cryptographer, co-author with Moxie Marlinspike of Signal's X3DH and Double Ratchet specs — the key-agreement and ratcheting core of modern end-to-end encrypted messaging.
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 
 ## Sources
 

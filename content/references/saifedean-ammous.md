@@ -36,3 +36,4 @@ Ammous is a load-bearing modern source for the monetary thread, not a node in th
 - [[the-bitcoin-standard|The Bitcoin Standard]] - 2018; hardness and stock-to-flow
 - [[the-fiat-standard|The Fiat Standard]] - 2021; fiat as engineered debt-money
 - [[principles-of-economics-ammous|Principles of Economics]] - 2023; the Austrian textbook
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.

@@ -88,6 +88,8 @@ The whitepaper is high-confidence as a primary text. Its 12 sections, references
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
 - [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
 - [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
+- [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 
 ## Sources
 

@@ -64,6 +64,7 @@ The post's tone matters for confidence. It is not a detached biography; it is Fi
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
 - [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
 - [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
+- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 
 ## Sources
 
