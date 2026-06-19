@@ -3,8 +3,8 @@ title: "Bitcoin"
 volatility: cold
 category: concept
 created: 2026-06-18
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-06-19
+verified: 2026-06-19
 confidence: high
 tags: [bitcoin, sound-money, hard-money, proof-of-work, cypherpunk, satoshi-nakamoto, nick-szabo, saifedean-ammous, peer-to-peer, digital-cash, digital-scarcity, austrian-economics]
 aliases: [BTC, bitcoin, peer-to-peer electronic cash]
@@ -94,7 +94,7 @@ This is the answer to [[trusted-third-parties-as-security-holes|trusted third pa
 
 ## Honest Costs
 
-The strong claim is structural, not unconditional, and the cautious steelman does not soften the tradeoffs the sources themselves name.
+The strong claim is structural, not unconditional, and the cautious reading does not soften the tradeoffs the sources themselves name.
 
 Szabo flags one early: "proof of work schemes depend on computer architecture, not just an abstract mathematics based on an abstract 'compute cycle.'" A producer who finds a cheaper hardware path can "swamp the market" with low-cost bits; Bitcoin's difficulty adjustment dulls this in steady state, but ASIC concentration and energy-cost geography are continuing real-world expressions of the same asymmetry. Szabo's summary line — that "all money mankind has ever used has been insecure in one way or another" — applies to Bitcoin too.
 

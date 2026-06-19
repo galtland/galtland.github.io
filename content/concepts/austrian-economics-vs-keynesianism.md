@@ -3,8 +3,8 @@ title: "Austrian Economics vs Keynesianism"
 volatility: cold
 category: concept
 created: 2026-06-16
-updated: 2026-06-17
-verified: 2026-06-17
+updated: 2026-06-19
+verified: 2026-06-19
 confidence: high
 tags: [austrian-economics, keynesianism, business-cycle, monetary-theory, credit-expansion, malinvestment, capital-theory, interest-rates, effective-demand, unemployment, wage-rates, full-employment, great-depression, macroeconomics, methodology]
 aliases: [Austrian vs Keynesian, Hayek vs Keynes, Mises vs Keynes, Keynes vs the Austrians, Austrians vs Keynesians, Austrian Critique of Keynesianism]
@@ -30,7 +30,7 @@ The Austrian school — [[friedrich-a-hayek|Hayek]], extending the "Wicksell-Mis
 
 ## What Keynes actually prescribed
 
-The quarrel is not with a caricature; the steelman has to grant Keynes his strongest case. *If* slumps are demand shortfalls with no internal cure, then waiting for the market to self-correct means waiting through years of avoidable unemployment, and almost any spending that mobilises idle labour and capital is a net gain. That is the analytical point behind his most notorious illustration:
+The quarrel is not with a caricature: a fair treatment has to grant Keynes his strongest case. *If* slumps are demand shortfalls with no internal cure, then waiting for the market to self-correct means waiting through years of avoidable unemployment, and almost any spending that mobilises idle labour and capital is a net gain. That is the analytical point behind his most notorious illustration:
 
 > "If the Treasury were to fill old bottles with banknotes, bury them at suitable depths in disused coalmines which are then filled up to the surface with town rubbish, and leave it to private enterprise on well-tried principles of laissez-faire to dig the notes up again (the right to do so being obtained, of course, by tendering for leases of the note-bearing territory), there need be no more unemployment and, with the help of the repercussions, the real income of the community, and its capital wealth also, would probably become a good deal greater than it actually is. It would, indeed, be more sensible to build houses and the like; but if there are political and practical difficulties in the way of this, the above would be better than nothing."
 >
