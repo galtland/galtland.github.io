@@ -14,7 +14,7 @@ short: "Why Hayek and Rothbard hold that the Keynesian cure is the Austrian dise
 
 # Austrian Economics vs Keynesianism
 
-> Austrian economics and Keynesianism are usually filed as two toolkits for managing the same machine — one favouring restraint, the other intervention. The strong form of the Austrian argument rejects the framing itself. What Keynesianism prescribes as the cure — interest rates pressed below their natural level, consumption stimulated, investment socialised — is, in the Austrian account, delivered through the very credit expansion that builds the boom and so guarantees the bust. They are not two prescriptions for one illness; one school's remedy is the other's pathogen. And the reason the dispute cannot be split into "more intervention" versus "less" is finally methodological: Keynes reasons in aggregates that cannot even see the distortion the Austrians diagnose.
+> Austrian economics and Keynesianism are usually filed as two toolkits for managing the same machine — one favouring restraint, the other intervention. The strong form of the Austrian argument rejects the framing itself. What Keynesianism prescribes as the cure — interest rates pressed downward (below what Austrians call their natural level), consumption stimulated, investment socialised — is, in the Austrian account, delivered through the very credit expansion that builds the boom and so guarantees the bust. They are not two prescriptions for one illness; one school's remedy is the other's pathogen. And the reason the dispute cannot be split into "more intervention" versus "less" is finally methodological: Keynes reasons in aggregates that cannot even see the distortion the Austrians diagnose.
 
 ## Two diagnoses of the same slump
 
@@ -24,7 +24,7 @@ short: "Why Hayek and Rothbard hold that the Keynesian cure is the Austrian dise
 >
 > — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
-The cause of the shortfall is deficient effective demand. Because of what he called "the fundamental psychological law" that men "increase their consumption as their income increases, but not by as much as the increase in their income," income that is saved drains out of the circular flow unless investment takes it up — and investment, governed by volatile expectations of profit, may not. Output and employment can therefore be chronically demand-constrained, and the State must close the gap.
+The cause of the shortfall is deficient effective demand. Because of what he called the "fundamental psychological law" that men "increase their consumption as their income increases, but not by as much as the increase in their income," income that is saved drains out of the circular flow unless investment takes it up — and investment, governed by volatile expectations of profit, may not. Output and employment can therefore be chronically demand-constrained, and the State must close the gap.
 
 The Austrian school — [[friedrich-a-hayek|Hayek]], extending the "Wicksell-Mises theory" he inherited from [[ludwig-von-mises|Ludwig von Mises]], and [[murray-n-rothbard|Murray Rothbard]] after — reads the same slump in reverse. The depression is not a shortfall of demand to be topped up; it is the liquidation of a boom that should never have happened. The interesting fight is therefore not over how much to intervene. It is over what the bust *is*.
 
@@ -36,15 +36,15 @@ The quarrel is not with a caricature: a fair treatment has to grant Keynes his s
 >
 > — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
-Keynes did not literally recommend burying banknotes — he noted at once that it would be "more sensible to build houses." The logic is that in a deep slump even useless activity beats idleness, because it sets the multiplier in motion. The disease being treated is insufficient spending *as such*. That premise is exactly what the Austrians deny.
+Keynes offered the buried-banknotes scheme as an intentionally absurd second-best — he noted at once that it would be "more sensible to build houses." The logic is that in a deep slump even useless activity beats idleness, because it sets the multiplier in motion. The disease being treated is insufficient spending *as such*. That premise is exactly what the Austrians deny.
 
-But the remedies went well beyond emergency spending. Keynes wanted the rate of interest driven down until capital ceased to be scarce — "the euthanasia of the rentier" — on the ground that "Interest to-day rewards no genuine sacrifice, any more than does the rent of land." He judged that "the outstanding faults of the economic society in which we live are its failure to provide for full employment and its arbitrary and inequitable distribution of wealth and incomes," and held that investment, governed by "animal spirits" rather than exact calculation, was too unstable to leave to private hands. The conclusion is the programme's load-bearing sentence:
+But the remedies went well beyond emergency spending. Keynes wanted the rate of interest driven down until capital ceased to be scarce — "the euthanasia of the rentier" — on the ground that "Interest to-day rewards no genuine sacrifice, any more than does the rent of land." He judged that the "outstanding faults of the economic society in which we live are its failure to provide for full employment and its arbitrary and inequitable distribution of wealth and incomes", and held that investment, governed by "animal spirits" rather than exact calculation, was too unstable to leave to private hands. The conclusion is the programme's load-bearing sentence:
 
 > "I conceive, therefore, that a somewhat comprehensive socialisation of investment will prove the only means of securing an approximation to full employment; though this need not exclude all manner of compromises and of devices by which public authority will co-operate with private initiative."
 >
 > — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
-Hold that in mind: the cure is more spending, lower interest, and socialised investment. Each of those, for the Austrians, is not a treatment but the pathogen.
+Hold that in mind: the cure is more spending, lower interest, and socialised investment. For the Austrians these are not treatments at all — cheap credit and stimulated consumption are the very mechanism that builds the cycle, and socialised investment is the further intervention that then obstructs the adjustment the bust exists to perform.
 
 ## The Austrian inversion: the boom is the disease
 
@@ -70,9 +70,9 @@ Here the two systems become not merely different but contradictory. If the boom 
 >
 > — [[friedrich-a-hayek|F. A. Hayek]], *Monetary Theory and the Trade Cycle*, in [[prices-and-production|Prices and Production and Other Works]]
 
-He pressed the point to its sharpest edge: the artificial capital accumulation of the boom — the "forced saving" the inflationists welcomed — is not a route out of the cycle but its origin. "It is probably more proper to regard forced saving as the cause of economic crises than to expect it to restore a balanced structure of production."
+He pressed the point to its sharpest edge: the artificial capital accumulation of the boom — the "forced saving" the inflationists welcomed — is not a route out of the cycle but its origin — it is, he concludes, "more proper to regard forced saving as the cause of economic crises than to expect it to restore a balanced structure of production."
 
-Rothbard then supplies the demonstration that turns a disagreement into an indictment. Setting out to list "logically the various ways that government could hamper market adjustment," he found he had written out "the favorite “anti-depression” arsenal of government policy." His six headings are the interventionist toolkit that overlaps, heading for heading, with the Keynesian demand-management programme:
+Rothbard then supplies the demonstration that turns a disagreement into an indictment. Setting out to list "logically the various ways that government could hamper market adjustment," he found he had written out "the favorite “anti-depression” arsenal of government policy." His six headings are a general anti-intervention list, several of which overlap with the Keynesian demand-management programme — most directly the inflation and consumption-stimulus items:
 
 - "Prevent or delay liquidation" — lend to failing firms, keep the insolvent afloat.
 - "Inflate further" — block the necessary fall in prices and rates.
@@ -81,7 +81,7 @@ Rothbard then supplies the demonstration that turns a disagreement into an indic
 - "Stimulate consumption and discourage saving" — the demand-side reflex itself.
 - "Subsidize unemployment" — paying for the very thing you mean to reduce.
 
-Each is a standard instrument of demand management; each, on Rothbard's account, lengthens the slump it claims to shorten, because "any propping up of shaky positions postpones liquidation and aggravates unsound conditions." The prescription that follows is the mirror image of Keynes:
+Not every heading is a Keynesian instrument, but several are — the inflation and consumption-stimulus items most plainly; and each, on Rothbard's account, lengthens the slump it claims to shorten: "Any propping up of shaky positions postpones liquidation and aggravates unsound conditions." The prescription that follows is the mirror image of Keynes:
 
 > "The first and clearest injunction is: don’t interfere with the market’s adjustment process. The more the government intervenes to delay the market’s adjustment, the longer and more grueling the depression will be, and the more difficult will be the road to complete recovery."
 >
@@ -109,13 +109,13 @@ It lasts exactly as long as that compulsion does, and only it is a mass phenomen
 
 This is why Keynes's underemployment equilibrium looks, from the Austrian side, like a conclusion smuggled in as a premise. Rothbard notes that even sophisticated Keynesians concede the doctrine "does not really apply (as was first believed) to the free and unhampered market: that it assumes, in fact, that wage rates are rigid downward." Drop the assumption of downward-rigid wages and the standing pool of involuntary unemployment drains away; keep it, and the result was built into the model from the start. What Keynes reads off as a feature of the market is, on this account, a feature of the *rigidity*.
 
-The depression is where the two threads meet. The bust throws workers out of the malinvested stages; whether that unemployment stays brief or hardens into the mass unemployment of the 1930s turns on whether wages are allowed to fall to the new clearing level. Rothbard makes the consequence explicit: "If wage rates are kept above the free-market level that clears the demand for and supply of labor, laborers will remain permanently unemployed." That sharpens the "Keep wage rates up" entry already on the interventionist list above into a historical charge — Hoover's pressure on business to hold money wages up after 1929 is, on this reading, what turned a sharp correction into a decade of idleness. So full employment is not the elusive special case Keynes made of it. It is the standing tendency of a free labour market, and its absence as a *mass* and lasting fact is the fingerprint of the coercion that keeps wages from clearing.
+The depression is where the two threads meet. The bust throws workers out of the malinvested stages; whether that unemployment stays brief or hardens into the mass unemployment of the 1930s turns on whether wages are allowed to fall to the new clearing level. Rothbard makes the consequence explicit: "If wage rates are kept above the free-market level that clears the demand for and supply of labor, laborers will remain permanently unemployed." That sharpens the "Keep wage rates up" entry already on the interventionist list above into a historical charge — Hoover's pressure on business to hold money wages up after 1929 is, on this reading, a major mechanism by which his broader interventionist program turned a sharp correction into a decade of idleness. So full employment is not the elusive special case Keynes made of it. It is the standing tendency of a free labour market, and its absence as a *mass* and lasting fact is the fingerprint of the coercion that keeps wages from clearing.
 
 ## Why the quarrel is methodological
 
 Underneath the policy fight is a disagreement about what counts as an explanation. Keynes reasons in aggregates: effective demand is a single magnitude, the multiplier acts on it, and the general price level and the volume of output are the objects of theory. Hayek's objection cuts beneath any particular policy to the method itself:
 
-> "In fact, neither aggregates nor averages do act upon one another, and it will never be possible to establish necessary connections of cause and effect between them as we can between individual phenomena, individual prices, etc. I would even go so far as to assert that, from the very nature of economic theory, averages can never form a link in its reasoning..."
+> "In fact, neither aggregates nor averages do act upon one another, and it will never be possible to establish necessary connections of cause and effect between them as we can between individual phenomena, individual prices, etc. I would even go so far as to assert that, from the very nature of economic theory, averages can never form a link in its reasoning; but to prove this contention would go far beyond the subject of these lectures."
 >
 > — [[friedrich-a-hayek|F. A. Hayek]], [[prices-and-production|Prices and Production]]
 
@@ -125,7 +125,7 @@ From that one methodological divide, three concrete disagreements follow, and no
 
 **Aggregates vs. structure.** Keynes's idle resources are a homogeneous pool waiting for any spending to soak them up. The Austrians' are *specific* — half-built factories, capital goods and labour stranded in the wrong stages by the prior boom. Generic spending re-employs them in a structure that still does not match what consumers want; it does not heal the misallocation, it refreezes it.
 
-**Interest as price vs. interest as lever.** For Keynes the interest rate is a monetary quantity set by liquidity preference, low enough in social value to be a fair target to push toward zero. For the Austrians it is the intertemporal price that coordinates saving with investment across time; suppressing it is not stimulus but the falsification of the one signal that tells producers how far into the future to build.
+**Interest as price vs. interest as lever.** For Keynes the interest rate is a monetary quantity set by liquidity preference, low enough in social value to be a fair target to drive down toward the full-employment level. For the Austrians it is the intertemporal price that coordinates saving with investment across time; suppressing it is not stimulus but the falsification of the one signal that tells producers how far into the future to build.
 
 **Saving as leak vs. saving as fuel.** This is the cleanest single divide. The act Keynes wanted discouraged — abstaining from present consumption — is the act the Austrians say recovery is made of. There is no compromise rate of saving that satisfies both models; the variable has opposite signs in each.
 
