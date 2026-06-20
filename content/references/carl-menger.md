@@ -14,7 +14,7 @@ short: "Founder of the Austrian School (marginal utility, 1871) whose 1892 origi
 
 # Carl Menger
 
-> [[carl-menger|Carl Menger]] (1840–1921) is the founder of [[austrian-economics|Austrian Economics]]. His 1871 *Grundsätze der Volkswirtschaftslehre* — his foundational *Principles* — launched the marginal-utility revolution on subjectivist, methodologically individualist lines; his 1892 essay *On the Origins of Money* then derived money itself as a spontaneous, unplanned institution — the outcome of self-interested exchange, not of legislation. That account is the headwater of the wiki's monetary thread, from [[ludwig-von-mises|Mises]]'s regression theorem to the [[unforgeable-costliness|unforgeable costliness]] of digital money.
+> [[carl-menger|Carl Menger]] (1840–1921) is the founder of [[austrian-economics|Austrian Economics]]. His 1871 *[[principles-of-economics-menger|Grundsätze der Volkswirtschaftslehre]]* — his foundational *Principles* — launched the marginal-utility revolution on subjectivist, methodologically individualist lines; his 1892 essay *On the Origins of Money* then derived money itself as a spontaneous, unplanned institution — the outcome of self-interested exchange, not of legislation. That account is the headwater of the wiki's monetary thread, from [[ludwig-von-mises|Mises]]'s regression theorem to the [[unforgeable-costliness|unforgeable costliness]] of digital money.
 
 ## The Origin of Money
 
@@ -37,6 +37,9 @@ Menger is the source node for the Austrian theory of money the wiki builds on re
 - [[unforgeable-costliness|Unforgeable Costliness]] - the digital-money primitive descending from this account
 - [[bitcoin|Bitcoin]] - read as a candidate Mengerian money
 - [[nick-szabo|Nick Szabo]] - cypherpunk who carried the Mengerian account into digital money
+- [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
+- [[karl-marx|Karl Marx]] - Author of Capital (1867) and the labor theory of value — value as socially necessary labour-time embodied in goods; the principal foil to the Austrian subjective theory of value.
+- [[principles-of-economics-menger|Principles of Economics (Menger)]] - Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, never a property inherent in the good
 
 ## Sources
 

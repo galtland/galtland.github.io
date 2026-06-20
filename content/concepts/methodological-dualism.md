@@ -71,6 +71,7 @@ Methodological dualism is the deepest layer of the Austrian position — the pre
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] — the aggregates dispute, rooted in this dualism
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] — the theory-vs-empiricism dispute, rooted in this dualism
 - [[austrian-economics|Austrian Economics]] — the school whose epistemology this is
+- [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
 
 ## Sources
 

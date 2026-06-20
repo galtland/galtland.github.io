@@ -53,6 +53,7 @@ The Salamancans are the wiki's clearest single bridge between its [[natural-law-
 - [[evolution-of-the-state|Evolution of the State]] - consent and resistance theory (Suárez, Mariana) anticipating Locke
 - [[austrian-economics|Austrian Economics]] - the tradition the Salamancans are read as anticipating
 - [[murray-n-rothbard|Murray N. Rothbard]] - author of the history that frames the school this way
+- [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
 
 ## Sources
 

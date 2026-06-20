@@ -29,3 +29,6 @@ This is the wiki's primary source for the Austrian critique of Marxian economics
 
 - [[eugen-von-bohm-bawerk|Eugen von Böhm-Bawerk]] - the author
 - [[capital-and-interest|Capital and Interest]] - the companion critique of the exploitation theory of interest
+- [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
+- [[das-kapital|Capital]] - Marx's 1867 magnum opus. Chapter 1 grounds value in abstract human labour and socially necessary labour-time — the objective labor theory of value the Austrians reject.
+- [[karl-marx|Karl Marx]] - Author of Capital (1867) and the labor theory of value — value as socially necessary labour-time embodied in goods; the principal foil to the Austrian subjective theory of value.

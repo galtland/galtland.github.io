@@ -31,3 +31,4 @@ It is the historical and polemical companion to [[the-positive-theory-of-capital
 - [[eugen-von-bohm-bawerk|Eugen von Böhm-Bawerk]] - the author
 - [[the-positive-theory-of-capital|The Positive Theory of Capital]] - the constructive companion volume
 - [[time-preference-and-interest|Time Preference and the Theory of Interest]] - the theory this history clears the ground for
+- [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
