@@ -53,6 +53,8 @@ Rothbard also stressed that intervention is **self-propagating**: each intervent
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
+- [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
+
 ## Sources
 
 - [Power and Market: Government and the Economy](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - Rothbard's canonical statement of the autistic/binary/triangular typology (chs. 1-3)

@@ -85,6 +85,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[milton-friedman|Milton Friedman]] - Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism; author of Capitalism and Freedom and the 1968 monetary address
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
+- [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
 
 ## Sources
 

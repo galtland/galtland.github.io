@@ -167,6 +167,8 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Invasion, Child Soldiers, and the Twenty-Year Foreign Presence: Analysis]] - newsroom thesis backlink
+- [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
+
 ## Sources
 
 - [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - concise anti-state statement

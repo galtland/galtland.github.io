@@ -31,6 +31,7 @@ The Vienna instance is the worked example: rent-controlled units stay nominally 
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]] — thesis applying the Mises rent-ceiling claim to the Argentine case
 - [[economic-calculation-problem|Economic Calculation Problem]] - the Misesian argument that a socialist commonwealth without private ownership of the means of production cannot calculate
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
+- [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
 
 ## Sources
 
