@@ -8,13 +8,13 @@ verified: 2026-06-18
 tags: [federal-reserve, central-banking, monetary-theory, inflation, business-cycle, austrian-economics]
 aliases: [Federal Reserve, the Fed, Fed, central bank]
 confidence: high
-summary: "The United States central bank, founded in 1913, which the wiki's Austrian sources read as a government-enforced banking cartel that monopolizes note issue, removes the market limits on fractional-reserve credit expansion, and so drives inflation and the boom-bust cycle."
+summary: "The United States central bank, founded in 1913, which the wiki's Austrian sources read as a government-enforced banking cartel that monopolizes note issue, weakens the market limits on fractional-reserve credit expansion, and so drives inflation and the boom-bust cycle."
 short: "The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle."
 ---
 
 # Federal Reserve
 
-> The Federal Reserve is the central bank of the United States, and in this wiki's Austrian reading it is not a neutral stabilizer of money but a [[federal-reserve|government-enforced banking cartel]]. By monopolizing note issue and standing ready to backstop the banks, the Fed lifts the two market limits — bank runs and the loss of reserves to competitors — that otherwise discipline [[hundred-percent-reserve-banking|fractional-reserve]] lending. The result is systematic [[credit-expansion-dynamics|credit expansion]], the inflation that transfers wealth to those who spend the new money first, and the [[austrian-business-cycle-theory|boom-and-bust cycle]] that follows.
+> The Federal Reserve is the central bank of the United States, and in this wiki's Austrian reading it is not a neutral stabilizer of money but a government-enforced banking cartel. By monopolizing note issue and standing ready to backstop the banks, the Fed weakens the two market limits — bank runs and the loss of reserves to competitors — that otherwise discipline [[hundred-percent-reserve-banking|fractional-reserve]] lending. The result is systematic [[credit-expansion-dynamics|credit expansion]], the inflation that transfers wealth to those who spend the new money first, and the [[austrian-business-cycle-theory|boom-and-bust cycle]] that follows.
 
 ## What the Fed Is: The Cartel-Origin Thesis
 
@@ -26,7 +26,7 @@ Their motive was competitive discipline. A banking cartel, like any cartel, is h
 
 Under [[hundred-percent-reserve-banking|fractional-reserve banking]], a bank issues more warehouse receipts — notes and demand deposits, which Rothbard treats as economically and legally equivalent — than it holds in actual cash. Each new receipt enters the [[monetary-aggregates-and-credit-expansion|money supply]] as a substitute for cash, so the act of lending against fictitious reserves creates new money out of nothing.
 
-Rothbard's central analogy is that this is counterfeiting. A successful counterfeiter fashions a near-valueless object that passes as money; the fractional-reserve banker does the same with paper claims that no underlying cash backs. On a free market two forces hold the practice in check: a possible loss of confidence leading to a bank run, and the loss of reserves whenever one bank expands credit faster than the others and must redeem to them. The Fed alleviates both — as lender of last resort it cushions the run, and by setting uniform reserve requirements and supplying base reserves it lets the whole banking system inflate together. The inflation this enables is not neutral. The new money reaches early receivers first and bids up prices before later receivers feel it, so monetary expansion is a hidden transfer of wealth from those who get the new money last to those who get it first.
+Rothbard's central analogy is that this is counterfeiting. A successful counterfeiter fashions a near-valueless object that passes as money; the fractional-reserve banker does the same with paper claims that no underlying cash backs. On a free market two forces hold the practice in check: a possible loss of confidence leading to a bank run, and the loss of reserves whenever one bank expands credit faster than the others and must redeem to them. The Fed alleviates both — as lender of last resort it cushions the run, and by controlling legal reserve requirements and supplying base reserves it lets the whole banking system inflate together. The inflation this enables is not neutral. The new money reaches early receivers first and bids up prices before later receivers feel it, so monetary expansion is a hidden transfer of wealth from those who get the new money last to those who get it first.
 
 ## The Austrian Business-Cycle Role
 

@@ -8,13 +8,13 @@ verified: 2026-06-17
 confidence: high
 tags: [methodological-dualism, mises, epistemology, methodology, praxeology, philosophy-of-history, scientism, positivism, historicism, verstehen, teleology, austrian-economics]
 aliases: [Methodological Dualism, Theory and History, Conception and Understanding, Mises on Method, Theory vs History, Verstehen]
-summary: "Mises's foundational claim that the sciences of human action require a different method from the natural sciences: matter is studied through causality and constant relations, but human action is purposive and must be grasped teleologically, from the inside. From this dualism follow the two branches of the study of action — theory (praxeology, a priori and universal) and history (the understanding, Verstehen, of unique events) — and the rejection of scientism: the attempt to import the methods of physics into the study of man. It is the methodological backdrop shared by the rest of the Austrian program and by its quarrels with both the Keynesian aggregates and the Chicago empiricism."
+summary: "Mises's foundational claim that the sciences of human action require a different method from the natural sciences: matter is studied through causality and constant relations, but human action is purposive and must be grasped teleologically, from the inside. From this dualism follow the two branches of the study of action — theory (praxeology, a priori and universal) and history (the understanding, Verstehen, of unique events) — and the rejection of scientism: the attempt to import the methods of physics into the study of man. It is the methodological backdrop of Misesian Austrian economics and of its quarrels with both the Keynesian aggregates and the Chicago empiricism."
 short: "Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history, and grounding the Austrian rejection of scientism."
 ---
 
 # Methodological Dualism
 
-> [[methodological-dualism|Methodological dualism]] is [[ludwig-von-mises|Ludwig von Mises]]'s claim, set out in [[theory-and-history|Theory and History]] (1957), that the study of human action demands a method categorically different from that of the natural sciences. Mute matter is grasped through causality and constant relations; human action is *purposive*, and can only be grasped teleologically — through the ends and meanings of the actor himself. From this one cut follow the two branches of the sciences of action — **theory** ([[praxeology|praxeology]], a priori and universal) and **history** (the *understanding* of unique events) — and the refusal to import the methods of physics into the study of man. It is the bedrock under everything the Austrians argue.
+> [[methodological-dualism|Methodological dualism]] is [[ludwig-von-mises|Ludwig von Mises]]'s claim, set out in [[theory-and-history|Theory and History]] (1957), that the study of human action demands a method categorically different from that of the natural sciences. Mute matter is grasped through causality and constant relations; human action is *purposive*, and can only be grasped teleologically — through the ends and meanings of the actor himself. From this one cut follow the two branches of the sciences of action — **theory** ([[praxeology|praxeology]], a priori and universal) and **history** (the *understanding* of unique events) — and the refusal to import the methods of physics into the study of man. It is the methodological bedrock of Misesian Austrian economics.
 
 ## Two realms: causality and teleology
 
@@ -44,7 +44,7 @@ The dualism splits the study of action into two branches that must not be confus
 >
 > — [[ludwig-von-mises|Ludwig von Mises]], [[theory-and-history|Theory and History]]
 
-The two are complementary, not rivals: theory supplies the concepts without which the historian could not even identify an "exchange," a "price," or a "wage," while the understanding grasps the concrete meaning, weight, and relevance of those facts in a particular case. The error Mises hunts is the collapse of one into the other — treating history as a mine of theoretical regularities, or treating theory as a generalization read off the data. Economics is theory; the monetary record is history, and no accumulation of it can establish or refute an economic law.
+The two are complementary, not rivals: theory supplies the concepts without which the historian could not even identify an *exchange*, a *price*, or a *wage*, while the understanding grasps the concrete meaning, weight, and relevance of those facts in a particular case. The error Mises hunts is the collapse of one into the other — treating history as a mine of theoretical regularities, or treating theory as a generalization read off the data. Economics is theory; the monetary record is history, and no accumulation of it can establish or refute an economic law.
 
 ## The quarrel with scientism
 
@@ -58,11 +58,11 @@ The promise that a future neurophysiology will one day reduce ideas to physical 
 
 ## Why it matters in this wiki
 
-Methodological dualism is the deepest layer of the Austrian position — the premise the other commitments stand on. [[praxeology|Praxeology]] is simply the *theory* half of the dualism worked out; the insistence that only real, relative prices (not aggregates) can guide action — the [[economic-calculation-problem|economic calculation problem]] and the [[knowledge-problem|knowledge problem]] — is of a piece with taking purpose and choice as irreducible. It is also the unseen floor under the wiki's two great method disputes: against the [[austrian-economics-vs-keynesianism|Keynesians]], whose aggregates Mises says cannot even see the structure that action builds, and against the [[austrian-economics-vs-the-chicago-school|Chicago empiricists]], for whom an economic claim stands or falls on the monetary record — exactly the conflation of theory with history that this dualism forbids. Most Austrian quarrels about method, followed to their root, lead back to this dualism.
+Methodological dualism is a central methodological foundation of Misesian Austrian economics — the premise its other commitments stand on. [[praxeology|Praxeology]] is simply the *theory* half of the dualism worked out; the insistence that only real, relative prices (not aggregates) can guide action — the [[economic-calculation-problem|economic calculation problem]] and the [[knowledge-problem|knowledge problem]] — is of a piece with taking purpose and choice as irreducible. It is also the unseen floor under the wiki's two great method disputes: against the [[austrian-economics-vs-keynesianism|Keynesians]], whose aggregates Mises says cannot even see the structure that action builds, and against the [[austrian-economics-vs-the-chicago-school|Chicago empiricists]], for whom an economic claim stands or falls on the monetary record — exactly the conflation of theory with history that this dualism forbids. Most Austrian quarrels about method, followed to their root, lead back to this dualism.
 
 ## See Also
 
-- [[praxeology|Praxeology]] — the a priori theory of action; the "theory" half of the dualism worked out
+- [[praxeology|Praxeology]] — the a priori theory of action; the *theory* half of the dualism worked out
 - [[theory-and-history|Theory and History]] — Mises's 1957 treatise, the source for this concept
 - [[ludwig-von-mises|Ludwig von Mises]] — the author of the dualism
 - [[human-action|Human Action]] — the treatise whose whole method this epistemology defends
