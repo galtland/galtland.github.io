@@ -35,6 +35,7 @@ The concept complicates a simple parasite metaphor. A parasite model highlights 
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis whose Tilly gap this concept helps close
 - [[nationalism-and-state-formation|Nationalism and State Formation]] - reciprocal link.
 - [[jurisdictional-competition|Jurisdictional Competition]] - the reverse current in which mobile wealth unwinds the tax-for-rights bargain and turns citizens back into customers
+- [[organized-crime-and-the-size-of-the-polity|Organized Crime and the Size of the Polity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 
 ## Sources
 

@@ -39,3 +39,4 @@ Shughart is a citation anchor, not a tradition node: the encyclopedia entry give
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - the concept node his entry supplies: rational ignorance and concentrated-vs-dispersed interests
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
+- [[organized-crime-and-the-size-of-the-polity|Organized Crime and the Size of the Polity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations

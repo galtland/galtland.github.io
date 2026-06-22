@@ -63,6 +63,8 @@ The article is especially important for [[war-and-state-formation|War and State 
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
+- [[organized-crime-and-the-size-of-the-polity|Organized Crime and the Size of the Polity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+
 ## Sources
 
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - full-text research ingest of the 1985 Cambridge University Press chapter from an independent PDF mirror

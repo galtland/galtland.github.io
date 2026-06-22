@@ -168,6 +168,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Invasion, Child Soldiers, and the Twenty-Year Foreign Presence: Analysis]] - newsroom thesis backlink
 - [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
+- [[organized-crime-and-the-size-of-the-polity|Organized Crime and the Size of the Polity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 
 ## Sources
 

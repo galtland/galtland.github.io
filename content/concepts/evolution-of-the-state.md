@@ -103,6 +103,7 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [[the-sovereign-individual|The Sovereign Individual]] - megapolitical forecast of the nation-state's information-age decline, the forward end of this arc
 - [[megapolitics|Megapolitics]] - violence-cost theory generalizing the war-and-state-formation logic to predict state decline
 - [[school-of-salamanca|School of Salamanca]] - Suárez and Mariana on consent, the state of nature, and resistance to tyranny, anticipating Locke
+- [[organized-crime-and-the-size-of-the-polity|Organized Crime and the Size of the Polity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 
 ## Sources
 

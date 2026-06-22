@@ -93,6 +93,8 @@ The 2026-05-12 gap-closure pass appended chapters 2, 4, 5, and 7 to the earlier 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 - [[stateless-somalia|Stateless Somalia]] - a collapse-then-order counter-case to war-builds-states
 - [[megapolitics|Megapolitics]] - Davidson and Rees-Mogg's violence-cost theory generalizing the war-builds-states logic to forecast state decline
+- [[organized-crime-and-the-size-of-the-polity|Organized Crime and the Size of the Polity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+
 ## Sources
 
 - [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - Tilly's 1985 essay for the explicit organized-crime/protection-racket formulation and the war-making/state-making/protection/extraction model
