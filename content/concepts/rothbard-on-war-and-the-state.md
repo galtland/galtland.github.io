@@ -43,7 +43,7 @@ The claim sits inside the broader [[state-power-and-intervention|State Power and
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 - [[non-interventionism|Non-Interventionism]] - the normative non-intervention stance that pairs with this war-power ratchet
-- [[organized-crime-and-the-size-of-the-polity|Organized Crime and the Size of the Polity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-the-size-of-the-country|Organized Crime and the Size of the Country]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 
 ## Sources
 
