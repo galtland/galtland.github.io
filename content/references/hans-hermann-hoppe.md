@@ -65,7 +65,7 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-the-size-of-the-country|Organized Crime and the Size of the Country]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 
 ## Sources
 

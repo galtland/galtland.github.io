@@ -47,7 +47,7 @@ The broader [[war-and-state-formation|War and State Formation]] article situates
 - [[non-interventionism|Non-Interventionism]] - blowback as the threat-creation pattern abroad
 - [[megapolitics|Megapolitics]] - Davidson and Rees-Mogg generalize protection-pricing into a violence-cost theory of history
 - [[jurisdictional-competition|Jurisdictional Competition]] - what happens to the protection racket when mobile wealth can finally shop between jurisdictions
-- [[organized-crime-and-the-size-of-the-country|Organized Crime and the Size of the Country]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 
 ## Sources
 

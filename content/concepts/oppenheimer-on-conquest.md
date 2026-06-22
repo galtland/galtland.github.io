@@ -30,7 +30,7 @@ The qualification matters. Oppenheimer was not a Rothbardian, and his reform pol
 - [[evolution-of-the-state|Evolution of the State]] - how the conquest origin is refined across historical stages
 - [[franz-oppenheimer|Franz Oppenheimer]] - author reference
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-the-size-of-the-country|Organized Crime and the Size of the Country]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 
 ## Sources
 

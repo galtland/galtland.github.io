@@ -48,7 +48,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - competitive provision of law and protection the "sovereignty services" forecast approaches
 - [[private-security-and-insurance|Private Security and Insurance]] - market protection adjacent to the book's proliferating jurisdictions
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - incentive analysis matching Lane's "employee-controlled" government
-- [[organized-crime-and-the-size-of-the-country|Organized Crime and the Size of the Country]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 
 ## Sources
 
