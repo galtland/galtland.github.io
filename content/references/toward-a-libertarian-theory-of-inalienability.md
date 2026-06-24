@@ -30,6 +30,7 @@ This is the loyal opposition on contract theory. The wiki's account of contract 
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's text, whose inalienability argument this essay critiques
 - [[murray-n-rothbard|Murray N. Rothbard]] - the principal author Block argues against
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the self-ownership premise both sides share
+- [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
 
 ## Sources
 

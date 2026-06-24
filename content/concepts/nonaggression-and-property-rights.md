@@ -85,6 +85,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
 - [[walter-block|Walter Block]] - Author reference for Walter Block, the Austro-libertarian economist whose 'full alienability' thesis is this wiki's principal internal-libertarian dissent from the inalienability-of-the-will answer
 - [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]] - Work reference for Walter Block's Journal of Libertarian Studies article (17:2, 2003), the principal libertarian argument against inalienability. Reasoning from self-ownership
+- [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
 
 ## Sources
 

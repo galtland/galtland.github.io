@@ -37,6 +37,7 @@ Block is the loyal opposition on contract theory. This wiki's treatment of contr
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - the Rothbard text Block argues against
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the self-ownership premise both sides share
 - [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]] - Work reference for Walter Block's Journal of Libertarian Studies article (17:2, 2003), the principal libertarian argument against inalienability. Reasoning from self-ownership
+- [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
 
 ## Sources
 
