@@ -77,6 +77,7 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [[sociality|Sociality]] - Pufendorf's fundamental law of nature, the wiki's concept page for the principle
 - [[declaration-of-independence|The Declaration of Independence]] - the natural-rights tradition as founding political creed
 - [[rights-of-man|Rights of Man]] - Paine's revolutionary radicalization of natural rights
+- [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
 
 ## Sources
 

@@ -56,6 +56,7 @@ Not every libertarian tradition embraces full market anarchism, but this topic w
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the strategy-by-exit route toward this stateless order
 - [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's "sovereignty services" forecast approaching competitive provision of law and protection
 - [[spooner-natural-law|Natural Law; or The Science of Justice]] - Spooner's natural-rights case against legislation, ancestor of market-anarchist law
+- [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
 
 ## Sources
 

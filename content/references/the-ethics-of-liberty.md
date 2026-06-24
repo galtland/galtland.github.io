@@ -47,6 +47,8 @@ This book is in dialogue with several other sources. The natural-law foundation 
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical lineage Part I ("Natural Law") culminates
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's natural-rights theory upstream of Rothbard's
 - [[spooner-natural-law|Natural Law; or The Science of Justice]] - Spooner's natural-rights anarchism that Rothbard revived
+- [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
+- [[walter-block|Walter Block]] - Author reference for Walter Block, the Austro-libertarian economist whose 'full alienability' thesis is this wiki's principal internal-libertarian dissent from the inalienability-of-the-will answer
 
 ## Sources
 
