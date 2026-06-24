@@ -2,12 +2,12 @@
 
 > Where Austrian economics meets cypherpunk code. Political philosophy, monetary theory, cryptography, history, and the arguments that bind them. Published at https://index.galtland.org/.
 
-Last updated: 2026-06-18
+Last updated: 2026-06-24
 
 ## Statistics
 
 - Sources: 162 raw documents (+ 4 news-lens items)
-- Articles: 264 compiled wiki articles (104 concepts, 148 references, 7 theses, 5 topics)
+- Articles: 265 compiled wiki articles (105 concepts, 148 references, 7 theses, 5 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-18
 - Last lint: 2026-06-18

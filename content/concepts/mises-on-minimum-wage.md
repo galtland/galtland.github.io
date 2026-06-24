@@ -30,6 +30,7 @@ The result is "institutional unemployment": unemployment produced by the interve
 - [[knowledge-problem|Knowledge Problem]] - price and wage signals as dispersed information
 - [[economic-calculation-problem|Economic Calculation Problem]] - adjacent calculation frame
 - [[rothbard-on-price-controls|Rothbard on Price Controls]] - related maximum-price-control case
+- [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
 
 ## Sources
 

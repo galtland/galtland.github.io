@@ -76,6 +76,7 @@ This is an endorsement of fit, not a full empirical decomposition of Argentina's
 - [[road-to-serfdom|The Road to Serfdom]] - Hayek's 1944 warning that central economic planning leads to the erosion of liberty
 - [[socialism|Socialism]] - Mises's 1922 critique of socialism, the original statement of the calculation problem
 - [[the-law|The Law]] - Bastiat's anti-plunder essay on law, liberty, property, and legalized plunder
+- [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
 
 ## Sources
 

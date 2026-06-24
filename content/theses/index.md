@@ -2,7 +2,7 @@
 
 > Curated thesis articles.
 
-Last updated: 2026-06-14
+Last updated: 2026-06-24
 
 ## Contents
 
