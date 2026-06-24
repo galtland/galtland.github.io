@@ -46,7 +46,7 @@ The point is a limit on what law is for. Enforcement exists to defend property a
 
 ## Implicit Theft: What Makes a Breach Enforceable
 
-What turns an unmet agreement into an enforceable wrong is that a title has already passed. Rothbard's standard illustration is an exchange of car for money: if the buyer takes the car and withholds the agreed payment, "Smith has in effect stolen the $1000; Smith is an aggressor against $1000 now properly belonging to Jones." Fraud is implicit theft for the same reason — property has been appropriated without the owner's consent. A loan is the cleanest case of all, because the money plainly belonged to the lender:
+What turns an unmet agreement into an enforceable wrong is that a title has already passed. Rothbard's standard illustration is an exchange of car for money: if the buyer takes the car and withholds the agreed payment, "Smith has in effect stolen the &#36;1000; Smith is an aggressor against &#36;1000 now properly belonging to Jones." Fraud is implicit theft for the same reason — property has been appropriated without the owner's consent. A loan is the cleanest case of all, because the money plainly belonged to the lender:
 
 > "Debt contracts are properly enforceable, not because a promise is involved, but because the creditor's property is appropriated without his consent—i.e., stolen—if the debt is not paid."
 >
