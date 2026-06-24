@@ -89,6 +89,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
 - [[walter-block|Walter Block]] - Author reference for Walter Block, the Austro-libertarian economist whose 'full alienability' thesis is this wiki's principal internal-libertarian dissent from the inalienability-of-the-will answer
+- [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]] - Work reference for Walter Block's Journal of Libertarian Studies article (17:2, 2003), the principal libertarian argument against inalienability. Reasoning from self-ownership
 
 ## Sources
 

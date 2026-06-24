@@ -84,11 +84,11 @@ This is why a pure promise of personal performance cannot be enforced at all. Ro
 
 ## The Dissent: Block's "Full" Alienability
 
-The whole structure rests on one premise — that the will cannot be alienated — and that premise is not unanimous among libertarians. [[walter-block|Walter Block]] argues the contrary in "Toward a Libertarian Theory of Inalienability", reasoning straight from self-ownership:
+The whole structure rests on one premise — that the will cannot be alienated — and that premise is not unanimous among libertarians. [[walter-block|Walter Block]] argues the contrary in [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]], reasoning straight from self-ownership:
 
 > "if I own something, I can sell it (and should be allowed by law to do so). If I can't sell it, then, and to that extent, I really don't own it."
 >
-> — [[walter-block|Walter Block]], "Toward a Libertarian Theory of Inalienability"
+> — [[walter-block|Walter Block]], [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]]
 
 If a person genuinely owns himself, Block holds, then the right to dispose of what he owns must include the right to dispose of himself — even to the point of no longer owning himself. He embraces the conclusion the inalienability camp treats as a *reductio*: "the thesis that voluntary slavery is compatible with libertarianism", a position he grants is "not well accepted by libertarians" and which, by his account, only Robert Nozick had previously defended. On Block's "full" alienability, anything a person owns is legally alienable; a truly voluntary slave contract is a valid title transfer, not a mere promise.
 
@@ -105,6 +105,7 @@ The slavery-and-contract question is a good stress test of what libertarian cont
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - how contracts and debts would be adjudicated and enforced without a state
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the inalienable-rights tradition the inalienability-of-the-will argument descends from
 - [[walter-block|Walter Block]] - the dissenting author who defends full alienability and valid voluntary slave contracts
+- [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]] - Block's essay itself, the source of the full-alienability dissent
 - [[murray-n-rothbard|Murray N. Rothbard]] - author of the title-transfer theory and the inalienability argument
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - the source text (Ch. 19) for the theory of contracts, debt, and voluntary slavery
 - [[smart-contracts|Smart Contracts]] - protocol-embedded contract performance, a modern mechanism cousin to the penal bond

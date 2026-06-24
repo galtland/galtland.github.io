@@ -21,7 +21,7 @@ Walter E. Block is a libertarian economist. The source article identifies him as
 
 ## Works Present Here
 
-One Block work is currently present in the wiki: **"Toward a Libertarian Theory of Inalienability: A Critique of Rothbard, Barnett, Smith, Kinsella, Gordon, and Epstein"**, *Journal of Libertarian Studies* 17, no. 2 (2003). In it Block defends what he calls "full" alienability — that everything a person owns may be sold, including the person himself:
+One Block work is currently present in the wiki — [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]], his *Journal of Libertarian Studies* 17, no. 2 (2003) critique of Rothbard, Barnett, Smith, Kinsella, Gordon, and Epstein. In it Block defends what he calls "full" alienability — that everything a person owns may be sold, including the person himself:
 
 - **The self-ownership argument for alienability** — "if I own something, I can sell it (and should be allowed by law to do so). If I can't sell it, then, and to that extent, I really don't own it."
 - **The conclusion** — "the thesis that voluntary slavery is compatible with libertarianism", a position he concedes is "not well accepted by libertarians" and which, to the best of his knowledge, only Robert Nozick had previously supported.
@@ -36,6 +36,7 @@ Block is the loyal opposition on contract theory. This wiki's treatment of contr
 - [[murray-n-rothbard|Murray N. Rothbard]] - the author whose inalienability position Block critiques
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - the Rothbard text Block argues against
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the self-ownership premise both sides share
+- [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]] - Work reference for Walter Block's Journal of Libertarian Studies article (17:2, 2003), the principal libertarian argument against inalienability. Reasoning from self-ownership
 
 ## Sources
 
