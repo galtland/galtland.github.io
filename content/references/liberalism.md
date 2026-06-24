@@ -49,6 +49,8 @@ This book is the political-philosophy companion to [[socialism|Socialism]] (1922
 - [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
+- [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
+
 ## Sources
 
 - [Liberalism: In the Classical Tradition (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) - full PDF as a wiki-ingestable aggregate
