@@ -3,8 +3,8 @@ title: "Rothbard on Price Controls"
 volatility: warm
 category: concept
 created: 2026-05-16
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-25
+verified: 2026-06-25
 tags: [rothbard, price-control, intervention, shortage, austrian-economics, power-and-market]
 summary: "Rothbard's price-control analysis: a maximum price below the market-clearing level leaves quantity demanded exceeding supply, producing shortages, rationing, and a risk-premium black market."
 aliases: [Rothbard maximum price, triangular intervention price control, Power and Market price control]
@@ -24,6 +24,24 @@ First, an effective maximum price prevents the market from clearing, and the res
 
 Second, the shortage worsens with the elasticity of supply: "The more 'elastic' the supply, i.e., the more resources will shift out of production, the more aggravated, *ceteris paribus*, the shortage will be." Applied to housing, the more that rental supply can shift on the medium horizon — landlords converting units to sale, withholding them from the market, or moving capital to other uses — the more a binding rent ceiling produces a deepening shortage rather than a stable equilibrium. (The degree of that elasticity is an empirical application of Rothbard's general claim, not something the cited passage establishes for housing specifically.) Repeal reverses the same mechanism in the opposite direction: removing the binding ceiling restores the clearing price and the marginal supply re-enters the market.
 
+## The Symmetric Case: Minimum Prices
+
+The same apparatus, run in reverse, describes a price floor. Where a maximum below the clearing price opens a shortage, a minimum above it opens a surplus:
+
+> "Thus, while the effect of a maximum price is to create an artificial shortage, a minimum price creates an artificial unsold surplus."
+>
+> — [[murray-n-rothbard|Rothbard]], [[power-and-market|Power and Market]]
+
+And the imbalance is self-reinforcing on the production side, because "The artificially high price attracts resources into the field, while, at the same time, it discourages buyer demand." The labor market is the leading instance: an effective minimum wage is a floor that leaves an unsold surplus of labor — "involuntary mass unemployment" — and Rothbard stresses that "The result is the same whether the effective minimum wage is imposed by the State or by a labor union." This is the maximum-price author's-eye view of what [[mises-on-minimum-wage|Mises develops on the wage-floor side]].
+
+## One Law, Many Prices — Even Money
+
+Rothbard's distinctive emphasis is that this is a single law reaching every price — "consumer goods, capital goods, land or labor services, or the 'price' of money in terms of other goods." The monetary case is the surprising one: Gresham's Law, on his account, is just a special case of price control. Properly stated, he says, it is that "Money overvalued by the State will drive money undervalued by the State out of circulation." A bimetallic ratio fixing gold against silver, or a fixed exchange rate overvaluing one currency against another, is a maximum on one money and a minimum on the other, so the overvalued money piles up in surplus while the undervalued disappears from circulation. Rothbard reads the postwar European "dollar shortage" as exactly this — national currencies overvalued against the dollar, so dollars went scarce. The lesson is the universality of the law: the same mechanism governs bread, wages, and the monetary unit alike.
+
+## The Hidden Effects
+
+Rothbard closes on the gap between a control's announced aim and its result. A maximum is meant to help the consumer, yet "the objective result is to prevent many consumers from acquiring the good at all"; a minimum is meant to help the seller, yet "the effect will be to prevent many sellers from selling any of their surplus." Beyond the immediate parties, "price controls distort production and the allocation of resources and factors in the economy", and enforcement requires "an army of bureaucrats" financed by taxation and withdrawn from productive work. Where a price maximum is pressed further rather than repealed, rationing follows — and the ration ticket itself becomes a clumsy second money, the single shortage generalized into the [[price-controls|whole interventionist sequence]].
+
 ## See Also
 
 - [[mises-on-rent-ceilings|Mises on Rent Ceilings]] — the residential-rent-ceiling case of the same maximum-price result, with Vienna as the worked example
@@ -42,4 +60,4 @@ Second, the shortage worsens with the elasticity of supply: "The more 'elastic' 
 
 ## Sources
 
-- [Power and Market: Government and the Economy (Full Text)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) — §3.1 "Price Control" and §3 "Triangular Intervention"
+- [Power and Market: Government and the Economy (Full Text)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) — §3.1 "Price Control" and §3 "Triangular Intervention": the maximum-price shortage and elastic-supply aggravation, the symmetric minimum-price surplus, the minimum-wage application, the Gresham's-Law / bimetallism / postwar-dollar-shortage extension to money, and the summary of hidden effects and enforcement costs

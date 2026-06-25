@@ -92,6 +92,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]] - Work reference for Walter Block's Journal of Libertarian Studies article (17:2, 2003), the principal libertarian argument against inalienability. Reasoning from self-ownership
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
+- [[rothbard-on-price-controls|Rothbard on Price Controls]] - Rothbard's *Power and Market* claim that an effective maximum price creates a shortage that worsens as supply has time to shift, and that elastic supply aggravates the shortage.
 
 ## Sources
 

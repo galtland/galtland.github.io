@@ -89,6 +89,8 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
 - [[principles-of-economics-menger|Principles of Economics (Menger)]] - Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, never a property inherent in the good
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
+- [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - Mises's claim in *Liberalism* that a residential-rent ceiling produces an immediate housing shortage, with Vienna under Social Democratic rent abolition as the worked example.
 
 ## Sources
 
