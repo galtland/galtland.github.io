@@ -42,7 +42,7 @@ A mandate cannot manufacture that productivity; it can only forbid transactions 
 
 ## State or Union, the Same Result
 
-The mechanism does not depend on who enforces the floor. Mises classes statutory minima and union-enforced rates together — both are interference "intent upon enforcing by coercion and compulsion wage rates higher than those the unhampered market would have determined", and both therefore generate institutional unemployment; [[rothbard-on-price-controls|Rothbard]] reaches the same conclusion from the maximum-price side. Where the floor is general and rigid, Mises names the gravest outcome plainly: "the most disastrous effect of minimum wage rates, permanent mass unemployment". The wage floor is thus an inappropriate means for its announced end — it makes neither labor more productive nor capital more plentiful, and its surplus is counted in idle workers.
+The mechanism does not depend on who enforces the floor. Mises classes statutory minima and union-enforced rates together — both are interference "intent upon enforcing by coercion and compulsion wage rates higher than those the unhampered market would have determined", and both therefore generate institutional unemployment; [[rothbard-on-price-controls|Rothbard]] derives the same result from the minimum-price (floor) side, where an unsold surplus of labor is involuntary unemployment. Where the floor is general and rigid, Mises names the gravest outcome plainly: "the most disastrous effect of minimum wage rates, permanent mass unemployment". The wage floor is thus an inappropriate means for its announced end — it makes neither labor more productive nor capital more plentiful, and its surplus is counted in idle workers.
 
 ## See Also
 
