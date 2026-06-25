@@ -3,12 +3,12 @@ title: "Intellectual Property"
 volatility: cold
 category: concept
 created: 2026-05-29
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-25
+verified: 2026-06-25
 confidence: medium
 tags: [intellectual-property, scarcity, property-rights, rivalry, kinsella, rothbard, austrian-economics, copyright, patents, information, libertarian]
 aliases: [IP, intellectual property as aggression, against intellectual property, anti-IP, information and property]
-summary: "The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard): property rights exist to resolve conflicts over rivalrous resources, information content is non-rivalrous, so patents and copyrights are artificial scarcity imposed by force — a contested but influential position with direct bearing on digital money and privacy."
+summary: "The scarcity-based Austrian critique of intellectual property (Kinsella and Hillebrand, drawing on Rothbardian property theory): property rights exist to resolve conflicts over rivalrous resources, information content is non-rivalrous, so patents and statutory copyright monopolies are artificial scarcity imposed by force — a contested but influential position with direct bearing on digital money and privacy. (Rothbard himself rejected patents but accepted copyright reconstructed through contract — see below.)"
 ---
 
 # Intellectual Property
@@ -31,14 +31,14 @@ This is an **influential** Austrian-libertarian position, but the argument is **
 
 ## Content vs. Media
 
-The pivotal distinction is between **content** (non-scarce patterns) and **media** (the scarce physical objects — paper, drives, brains — on which content is instantiated). Property rights attach to media, not content. You own your hard drive and may store any bit-pattern on it; once you communicate content to another person, you cannot control what they do with *their* media. "Owning information" would imply that teaching transfers property, that learning is acquisition from someone, and that conversation is property exchange — absurdities that reveal the category error.
+The pivotal distinction is between **content** (non-scarce patterns) and **media** (the scarce physical objects — paper, drives, brains — on which content is instantiated). Property rights attach to media, not content. You own your hard drive and may store any bit-pattern on it; once you communicate content to another person without a confidentiality condition, you cannot control what they do with *their* media. "Owning information" would imply that teaching transfers property, that learning is acquisition from someone, and that conversation is property exchange — absurdities that reveal the category error.
 
 ## Why It Matters Here
 
 The content/media distinction is the hinge of two other articles:
 
-- **Privacy.** Because information content cannot be owned, privacy in [[praxeology-of-privacy|the praxeology of privacy]] is *not* protected by treating data as property. It is protected through self-ownership (mind and body), physical property (devices, homes), and contract (confidentiality, whose breach is theft of conditional payment). This keeps privacy inside the same scarcity-based framework rather than inventing a new "data property."
-- **Digital money.** The rivalry question is exactly what [[are-bitcoins-ownable|Konrad Graf asks of Bitcoin]]: a bitcoin is a copyable pattern, so how can it be owned? Graf's answer — control of a scarce UTXO slot is rivalrous even though the *code* is not — is the same content/media move applied to money, and it explains why "Bitcoin is just copyable numbers" misfires.
+- **Privacy.** Because information content cannot be owned, privacy in [[praxeology-of-privacy|the praxeology of privacy]] is *not* protected by treating data as property. It is protected through self-ownership (mind and body), physical property (devices, homes), and contract (confidentiality, whose breach is theft of conditional payment). This keeps privacy inside the same scarcity-based framework rather than inventing a new data-property right.
+- **Digital money.** The rivalry question is exactly what [[are-bitcoins-ownable|Konrad Graf asks of Bitcoin]]: a bitcoin is a copyable pattern, so how can it be owned? Graf's answer — control of a scarce UTXO slot is rivalrous even though the *code* is not — is the same content/media move applied to money, and it explains why the claim that Bitcoin is just copyable numbers misfires.
 - **Surveillance capitalism.** IP monopolies are, on Hillebrand's reading, part of why platform [[surveillance-capitalism|surveillance capitalism]] is so concentrated: patent and copyright protection insulates incumbents from compatible competitors.
 
 ## See Also
@@ -54,5 +54,6 @@ The content/media distinction is the hinge of two other articles:
 
 ## Sources
 
-- [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 6 "Information, Scarcity, and Property," presenting the Kinsella anti-IP argument and the content/media distinction
+- [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 6 "Information, Scarcity, and Property", presenting the Kinsella anti-IP argument and the content/media distinction
 - [The Ethics of Liberty](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's scarcity-based property theory and his contract-reconstruction of copyright
+- [Man, Economy, and State (Full Text)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's Ch. 10 patent/copyright distinction: he rejects patents as monopoly grants but accepts copyright reconstructed through contract

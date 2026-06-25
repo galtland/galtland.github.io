@@ -3,8 +3,8 @@ title: "Knowledge Problem"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-25
+verified: 2026-06-25
 tags: [hayek, knowledge-problem, central-planning, spontaneous-order, austrian-economics]
 aliases: [Use of Knowledge in Society, Hayekian Knowledge Problem, Dispersed Knowledge]
 confidence: medium
@@ -13,11 +13,11 @@ summary: "Hayek's argument that the knowledge needed to coordinate an economy is
 
 # Knowledge Problem
 
-> The knowledge problem is [[friedrich-a-hayek|Hayek]]'s claim that the central question of social organization is not how to allocate given resources to given ends — that is the textbook economic problem — but how to make use of knowledge that "is not given to anyone in its totality." Much of the knowledge needed to coordinate an economy is not general scientific knowledge but the particular, often tacit, time-and-place-specific knowledge of millions of actors. The price system is the social mechanism that puts it to use without anyone possessing all of it.
+> The knowledge problem is [[friedrich-a-hayek|Hayek]]'s claim that the central question of social organization is not how to allocate given resources to given ends — that is the textbook economic problem — but how to make use of knowledge that no single mind possesses in its totality. Much of the knowledge needed to coordinate an economy is not general scientific knowledge but the particular, time-and-place-specific knowledge of millions of actors. The price system is the social mechanism that puts it to use without anyone possessing all of it.
 
 ## The Core Argument
 
-Hayek's 1945 essay "The Use of Knowledge in Society," collected in [[individualism-and-economic-order|Individualism and Economic Order]], distinguishes scientific knowledge (general propositions about kinds) from "knowledge of the particular circumstances of time and place." The latter is what makes economic action effective — knowing that this railway car is empty now, that this customer prefers green, that this seam of coal has unexpectedly thinned. It is overwhelmingly tacit, perishable, and impossible to transmit upward in raw form to a central authority. Prices, Hayek argues, are the encoding mechanism: a change anywhere in the system shows up as a change in the relevant price, and individual actors can adjust without needing to know why the price moved. The market is therefore a discovery procedure and a communication system rather than the static equilibrium machine of textbook economics.
+Hayek's 1945 essay "The Use of Knowledge in Society", collected in [[individualism-and-economic-order|Individualism and Economic Order]], distinguishes scientific knowledge (general propositions about kinds) from "knowledge of the particular circumstances of time and place." The latter is what makes economic action effective: knowledge of people, local conditions, underused machines or skills, surplus stocks, empty or half-filled shipping capacity, and fleeting local price differences. It is local, perishable, often unorganized, and cannot be conveyed to a central authority in raw statistical form. Prices, Hayek argues, are the encoding mechanism: a change anywhere in the system shows up as a change in the relevant price, and individual actors can adjust without needing to know why the price moved. The market is therefore a discovery procedure and a communication system rather than the static equilibrium machine of textbook economics.
 
 ## Relation to the Calculation Problem
 
