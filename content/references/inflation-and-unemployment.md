@@ -3,8 +3,8 @@ title: "Inflation and Unemployment"
 volatility: cold
 category: reference
 created: 2026-06-16
-updated: 2026-06-16
-verified: 2026-06-16
+updated: 2026-06-25
+verified: 2026-06-25
 tags: [milton-friedman, chicago-school, monetarism, phillips-curve, natural-rate-of-unemployment, inflation, unemployment, nobel-lecture, classical-liberal]
 aliases: [Inflation and Unemployment, Friedman Nobel Lecture, Friedman Nobel Memorial Lecture]
 confidence: high
@@ -30,7 +30,7 @@ Unemployment can be pushed below the natural rate only by an *accelerating* infl
 
 The lecture is the empirical apex of the Chicago method in [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]]. Its natural-rate argument is the same one Friedman first set out in his 1968 [[the-role-of-monetary-policy|presidential address]], now defended as a tested prediction — and the contrast with the Austrians is sharpest here on **method**: Friedman's case stands or falls on the data, where for [[ludwig-von-mises|Mises]] the theorems of [[praxeology|praxeology]] are settled before any statistic is consulted. Both reject the naive Keynesian trade-off the lecture demolishes; they part on whether the monetary record can establish an economic law or only illustrate one.
 
-*Provenance: the ingested raw is clean digital text (pdftotext) from the official Nobel Foundation PDF; quotations can be verified directly against it. Copyright © The Nobel Foundation 1976 — not public domain; ingested for research and citation.*
+*Provenance: the ingested raw was re-extracted (2026-06-25) with pymupdf from the official Nobel Foundation PDF, superseding the earlier pdftotext extraction whose letter-spaced bibliography carried OCR-style artifacts; the lecture text is clean and quotations verify directly against it. Copyright © The Nobel Foundation 1976 — not public domain; ingested for research and citation.*
 
 ## See Also
 
