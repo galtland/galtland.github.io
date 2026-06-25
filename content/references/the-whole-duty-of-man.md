@@ -44,4 +44,4 @@ Pufendorf is the bridge the natural-law lineage needs. He receives the seculariz
 
 ## Sources
 
-- [Pufendorf, The Whole Duty of Man (Full Text)](https://archive.org/details/wholedutyofmanac00puferich) - Book I (the law of nature and sociality; duties to God, self, and others) and Book II (the state, sovereignty, and the law of nations); Tooke English translation, Internet Archive OCR
+- [Pufendorf, The Whole Duty of Man (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - Book I (the law of nature and sociality; duties to God, self, and others) and Book II (the state, sovereignty, and the law of nations); Tooke English translation, Internet Archive OCR
