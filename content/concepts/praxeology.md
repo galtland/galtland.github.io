@@ -3,11 +3,11 @@ title: "Praxeology"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-06-09
-verified: 2026-05-30
-tags: [praxeology, methodology, austrian-economics, action-axiom, mises]
+updated: 2026-06-25
+verified: 2026-06-25
+tags: [praxeology, methodology, austrian-economics, action-axiom, a-priori, methodological-dualism, methodological-individualism, catallactics, mises, rothbard]
 aliases: [The Action Axiom, Mises's Method, Austrian Methodology]
-confidence: medium
+confidence: high
 summary: "The Misesian general theory of human action: a deductive science whose first principle is that humans act purposefully, from which the laws of economics are derived without empirical assumption."
 ---
 
@@ -18,6 +18,46 @@ summary: "The Misesian general theory of human action: a deductive science whose
 ## The Action Axiom
 
 The axiom is that purposeful behavior — choosing means to ends — is a feature of human existence rather than something to be tested empirically. Anyone who tries to deny it must perform a purposeful action (formulating and asserting the denial) and so confirms the very thing they are denying. From the action axiom, together with the relevant action categories and institutional conditions it introduces step by step (scarcity, exchange, private property, money), Mises argues that one can derive the existence of value scales, time preference, the law of marginal utility, the structure of exchange, the function of prices, the necessity of monetary calculation, and the destabilizing effects of intervention — all without statistical regression, behavioral assumption, or psychological hypothesis.
+
+## A Deductive, A Priori Science
+
+What sets praxeology apart is the *status* of its conclusions. They are not empirical generalizations that further data might overturn but deductions from the action axiom, true in the way the theorems of logic are true. Mises is explicit:
+
+> "Praxeology is a theoretical and systematic, not a historical, science. Its scope is human action as such, irrespective of all environmental, accidental, and individual circumstances of the concrete acts. ... Its statements and propositions are not derived from experience. They are, like those of logic and mathematics, a priori. They are not subject to verification or falsification on the ground of experience and facts."
+>
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]]
+
+This is why the wiki's economic claims are argued rather than measured: a praxeological theorem cannot be confirmed or refuted by statistics, only checked for whether it follows validly from the axiom. The reasoning is, in Mises's words, "purely conceptual and deductive." Its certainty is bought at a price — the deductions tell us what *must* hold wherever the premises hold, but identifying which premises apply to a concrete historical episode is a separate task, the business of history rather than theory.
+
+## Praxeology and Economics
+
+Praxeology is wider than economics. It is the general science of action, of which economics — the analysis of market exchange, or catallactics — is the most developed province. The subjective-value revolution, Mises argues, was the point at which economics outgrew its old boundaries and revealed itself as one part of this larger science:
+
+> "economics becomes a part, although the hitherto best elaborated part, of a more universal science, praxeology."
+>
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]]
+
+That generality is why Mises calls the theory of choice "the science of every kind of human action" and not merely of the "economic side" of life. Praxeology is also strictly value-free: it analyzes the fitness of means to ends and takes the ends as given — "It is a science of means, not of ends." This is the methodological reason the wiki keeps Rothbard's economics separate from his ethics: praxeology can show that a policy fails to reach its stated goal, but cannot on its own pronounce the goal good or bad.
+
+## Methodological Dualism and Individualism
+
+Praxeology rests on a sharp claim about method: the sciences of human action cannot simply borrow the apparatus of physics, because their subject — purposive, choosing minds — is categorically unlike matter in motion. This is [[methodological-dualism|methodological dualism]], which Mises grounds not in metaphysics but in an admitted ignorance of how the physical gives rise to the mental:
+
+> "This ignorance splits the realm of knowledge into two separate fields, the realm of external events, commonly called nature, and the realm of human thought and action."
+>
+> — [[ludwig-von-mises|Mises]], [[theory-and-history|Theory and History]]
+
+Its companion premise is methodological individualism: only individuals act, and collectives have no ends of their own. [[murray-n-rothbard|Rothbard]] states it flatly: "Only individuals have ends and can act to attain them. There are no such things as ends of or actions by 'groups,' 'collectives,' or 'States,' which do not take place as actions by various specific individuals." Talk of governments acting is, on this view, "merely a metaphor" for the actions of particular persons. The entire structure is built from the acting individual outward, which is why the wiki treats claims about what the state or society does as shorthand for the choices of identifiable people.
+
+## Mises and Rothbard on the Status of the Axiom
+
+The two principal praxeologists agree on the deductive method but differ on *why* the starting point is certain. For Mises the action axiom is strictly a priori — a category through which the mind grasps action at all, prior to and independent of experience. Rothbard keeps the deductive architecture but is content to call the premises "apodictically true" and to rest the system on a short, explicit list of them. He opens [[man-economy-and-state|Man, Economy, and State]] by naming them:
+
+> "The present work deduces the entire corpus of economics from a few simple and apodictically true axioms: the Fundamental Axiom of action—that men employ means to achieve ends, and two subsidiary postulates: that there is a variety of human and natural resources, and that leisure is a consumers' good."
+>
+> — [[murray-n-rothbard|Rothbard]], [[man-economy-and-state|Man, Economy, and State]]
+
+From the axiom and those two postulates the deductions then unfold in order — value scales, the law of marginal utility, time preference, and the rest. Rothbard shows the chain in miniature when he notes of marginal utility that "This fundamental law of economics has been derived from the fundamental axiom of human action". The two subsidiary postulates are the one place Rothbard lets a modest empirical premise into an otherwise aprioristic edifice.
 
 ## What Praxeology Is Not
 
