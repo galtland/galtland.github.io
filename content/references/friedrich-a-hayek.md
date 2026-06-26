@@ -72,7 +72,7 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
 - [[john-maynard-keynes|John Maynard Keynes]] - John Maynard Keynes (1883-1946), founder of modern macroeconomics; author of The General Theory (1936) — the Keynesian counterpoint to the wiki's Austrian sources.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease

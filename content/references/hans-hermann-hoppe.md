@@ -62,7 +62,7 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical natural-law lineage behind Hoppe's "natural order"
 
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations

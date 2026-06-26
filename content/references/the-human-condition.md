@@ -40,7 +40,7 @@ The book should be handled carefully. Arendt's suspicion of the social question 
 - [[on-violence|On Violence]] - later essay on power and violence
 - [[on-revolution|On Revolution]] - companion work on public freedom and founding
 - [[totalitarianism|Totalitarianism]] - Arendt concept from the earlier totalitarianism work
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis that now uses Arendt's power vocabulary sparingly
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis that now uses Arendt's power vocabulary sparingly
 
 ## Sources
 

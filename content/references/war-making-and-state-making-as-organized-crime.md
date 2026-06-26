@@ -56,7 +56,7 @@ The article is especially important for [[war-and-state-formation|War and State 
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power article sharpened by the protection-racket formulation
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer distinction that overlaps descriptively with Tilly's extraction account
 - [[libertarianism|Libertarianism]] - topic map that situates Tilly outside the libertarian program
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - focused author-on-topic article on the 1985 racketeer formulation drawn from this essay.
 
 

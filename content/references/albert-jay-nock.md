@@ -41,7 +41,7 @@ Nock is a hinge between [[oppenheimer-the-state|The State]] and [[anatomy-of-the
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's later use of Nock
 
 
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - full-text aggregate and Frank Chodorov preface

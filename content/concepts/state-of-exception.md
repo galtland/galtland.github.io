@@ -34,7 +34,7 @@ The state-as-parasite thesis mainly concerns extraction and disguise. State of e
 - [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting Schmitt and Foucault
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian state-power comparison point
 - [[totalitarianism|Totalitarianism]] - distinct Arendt category not reducible to exception theory
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with exception language
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with exception language
 - [[society-must-be-defended|Society Must Be Defended]] - reciprocal link.
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 

@@ -44,7 +44,7 @@ It also complements [[evolution-of-the-state|Evolution of the State]]. [[franz-o
 - [[etienne-de-la-boetie|Étienne de la Boétie]] - the author
 
 
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the exit strategy that operationalizes withdrawal of consent
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink

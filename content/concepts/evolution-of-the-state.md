@@ -73,7 +73,7 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 
 ## See Also
 
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis article testing the parasite-with-symbiosis-disguise framing against the historical-evolution arc
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis article testing the parasite-with-symbiosis-disguise framing against the historical-evolution arc
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's core distinction behind the conquest thesis
 - [[war-and-state-formation|War and State Formation]] - Tilly's non-libertarian sociology of war, coercion, taxation, and state formation
 - [[totalitarianism|Totalitarianism]] - Arendt's account of the twentieth-century pathological-development pole

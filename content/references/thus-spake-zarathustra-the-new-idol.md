@@ -36,7 +36,7 @@ The convergence is narrower: Nietzsche's chapter attacks the state's self-identi
 ## See Also
 
 - [[state-power-and-intervention|State Power and Intervention]] - concept article that now notes Nietzsche's non-libertarian state-as-monster framing
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

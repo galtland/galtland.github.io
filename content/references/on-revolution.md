@@ -38,7 +38,7 @@ The work is not libertarian revolution theory. Arendt is neither Rothbardian nor
 - [[on-violence|On Violence]] - later essay on violence and power
 - [[violence-vs-power|Violence vs Power]] - concept connected to revolution and action
 - [[the-rise-of-the-social|The Rise of the Social]] - concept that helps explain Arendt's social-question critique
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - adjacent thesis, though this work is not central to its verdict
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - adjacent thesis, though this work is not central to its verdict
 - [[vita-activa|Vita Activa]] - reciprocal link.
 
 ## Sources

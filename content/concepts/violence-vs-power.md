@@ -27,7 +27,7 @@ The two can appear together, but they are not identical. Violence may protect or
 
 ## Use in the Parasite Thesis
 
-The [[state-as-parasite-thesis|State as Parasite Thesis]] uses this distinction sparingly. Ordinary states may disguise extraction as service and maintain power through legitimacy, habit, and cooperation. Totalitarian regimes rely on terror that destroys independent power, including power among supporters. That makes totalitarianism more than a badly disguised parasite.
+The [[2026-05-10-state-as-parasite-thesis|State as Parasite Thesis]] uses this distinction sparingly. Ordinary states may disguise extraction as service and maintain power through legitimacy, habit, and cooperation. Totalitarian regimes rely on terror that destroys independent power, including power among supporters. That makes totalitarianism more than a badly disguised parasite.
 
 ## See Also
 
@@ -38,7 +38,7 @@ The [[state-as-parasite-thesis|State as Parasite Thesis]] uses this distinction 
 - [[total-domination|Total Domination]] - endpoint where terror destroys independent power
 - [[banality-of-evil|Banality of Evil]] - participant-side Arendt concept
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power concept
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with this vocabulary
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with this vocabulary
 - [[council-system|Council System]] - reciprocal link.
 - [[on-revolution|On Revolution]] - reciprocal link.
 - [[public-happiness|Public Happiness]] - reciprocal link.

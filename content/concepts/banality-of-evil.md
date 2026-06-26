@@ -62,7 +62,7 @@ That convergence sharpens [[state-power-and-intervention|State Power and Interve
 - [[on-violence|On Violence]] - later Arendt source on power and violence
 
 - [[violence-vs-power|Violence vs Power]] - adjacent Arendt concept
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

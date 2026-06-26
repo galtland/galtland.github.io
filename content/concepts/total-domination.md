@@ -41,7 +41,7 @@ This is a non-libertarian diagnostic category. Arendt does not derive market ana
 
 ## See Also
 
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis article in which this concept marks where the parasite metaphor fails
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis article in which this concept marks where the parasite metaphor fails
 - [[totalitarianism|Totalitarianism]] - broader regime concept of which total domination is the endpoint
 - [[libertarianism|Libertarianism]] - topic map that uses this concept to mark the totalitarian limit case
 - [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - primary Arendt source

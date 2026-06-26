@@ -34,7 +34,7 @@ This topic sits beside, not inside, libertarian doctrine. [[state-power-and-inte
 ## See Also
 
 - [[state-power-and-intervention|State Power and Intervention]] - main libertarian comparison point
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with brief Schmitt/Foucault mentions
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with brief Schmitt/Foucault mentions
 - [[carl-schmitt|Carl Schmitt]] - author reference
 - [[political-theology|Political Theology]] - Schmitt sovereignty source
 - [[the-concept-of-the-political|The Concept of the Political]] - Schmitt friend/enemy source

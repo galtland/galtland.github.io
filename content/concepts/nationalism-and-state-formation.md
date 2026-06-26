@@ -33,7 +33,7 @@ This concept helps prevent a flattened state critique. Nationalism can legitimat
 - [[late-twentieth-century-state-forms|Late-Twentieth-Century State Forms]] - Chapter 7 continuation
 - [[war-and-state-formation|War and State Formation]] - broader Tilly concept
 - [[evolution-of-the-state|Evolution of the State]] - historical state-development context
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - the we-group sentiment nationalism channels
 
 

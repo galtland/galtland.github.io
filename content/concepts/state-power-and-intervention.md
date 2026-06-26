@@ -73,7 +73,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 
 ## See Also
 
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis article testing the parasite-with-symbiosis-disguise characterization against this concept's source set
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis article testing the parasite-with-symbiosis-disguise characterization against this concept's source set
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis instantiating the intervention-as-cumulative-process frame in the Argentine rental-housing case
 - [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] - focused author-on-topic article on Rothbard's *Power and Market* treatment of a tax on individual wealth as a distinct, uncapitalizable, unshiftable tax on accumulated capital
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] - focused author-on-topic article on Mises's *Liberalism* treatment of antiliberal policy as capital consumption

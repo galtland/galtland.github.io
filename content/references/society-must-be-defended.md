@@ -40,7 +40,7 @@ For the state-as-parasite thesis, Foucault adds a disguise layer different from 
 - [[state-of-exception|State of Exception]] - Schmitt comparison point on sovereignty
 - [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting non-libertarian power critiques
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power concept
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with the biopower layer
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with the biopower layer
 
 ## Sources
 

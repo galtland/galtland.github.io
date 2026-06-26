@@ -56,7 +56,7 @@ That makes [[banality-of-evil|Banality of Evil]] a bridge concept between [[tota
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power article sharpened by the bureaucracy and compliance layer
 
 - [[on-violence|On Violence]] - later Arendt source on power and violence
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

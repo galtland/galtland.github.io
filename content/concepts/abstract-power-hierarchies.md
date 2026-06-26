@@ -66,7 +66,7 @@ The confidence level is low because this is a single-source, contested framework
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - non-state-law alternative to centralized political authority
 - [[resistance-axiom|Resistance Axiom]] - technical-resistance frame adjacent to Lowery's physical-cost check on software authority
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for resistant systems, Bitcoin, and cyber control
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

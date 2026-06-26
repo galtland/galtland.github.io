@@ -43,7 +43,7 @@ That diagnostic overlap is still important. Where [[hannah-arendt|Arendt]] gives
 - [[libertarianism|Libertarianism]] - topic map that uses Solzhenitsyn as an outside witness, not as a libertarian source
 
 
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 ## Sources
 
 - [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - earlier abridged source text

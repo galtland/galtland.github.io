@@ -45,7 +45,7 @@ The book should therefore be used as an upstream sociological source. It should 
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's explicit adoption of Oppenheimer's definition
 - [[state-power-and-intervention|State Power and Intervention]] - anti-state concept article extended by this source
 - [[libertarianism|Libertarianism]] - broader topic that appropriates Oppenheimer's state theory without adopting his whole politics
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 Moderate-Shooting Ceasefire Remark: Analysis]] - newsroom thesis backlink

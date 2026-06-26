@@ -37,7 +37,7 @@ This is a critique of liberal attempts to neutralize conflict into procedure, mo
 - [[state-of-exception|State of Exception]] - sibling Schmitt concept
 - [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting non-libertarian power critiques
 - [[war-and-state-formation|War and State Formation]] - adjacent state-war concept
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - adjacent thesis with brief Schmitt note
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - adjacent thesis with brief Schmitt note
 
 ## Sources
 

@@ -27,7 +27,7 @@ Biopower does not simply abolish sovereign violence. It overlays it. Foucault's 
 
 ## Use in the Parasite Thesis
 
-The [[state-as-parasite-thesis|State as Parasite Thesis]] now mentions biopower only briefly. Foucault's account is that modern power is *productive*, *normalizing*, and *care-coded* — exercised through public health, social insurance, security, welfare administration, and population statistics rather than primarily through visible coercion. Foucault himself does not frame this as parasitic disguise. A libertarian application of the description — reading care-coded administration as further texture on how modern states extend reach under sympathetic language — goes beyond his own claim and should be marked as application rather than as Foucault's position.
+The [[2026-05-10-state-as-parasite-thesis|State as Parasite Thesis]] now mentions biopower only briefly. Foucault's account is that modern power is *productive*, *normalizing*, and *care-coded* — exercised through public health, social insurance, security, welfare administration, and population statistics rather than primarily through visible coercion. Foucault himself does not frame this as parasitic disguise. A libertarian application of the description — reading care-coded administration as further texture on how modern states extend reach under sympathetic language — goes beyond his own claim and should be marked as application rather than as Foucault's position.
 
 ## See Also
 
@@ -38,7 +38,7 @@ The [[state-as-parasite-thesis|State as Parasite Thesis]] now mentions biopower 
 - [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting non-libertarian power critiques
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power concept
 - [[totalitarianism|Totalitarianism]] - distinct Arendt concept; not reducible to biopower
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with a brief biopower note
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with a brief biopower note
 
 ## Sources
 

@@ -46,7 +46,7 @@ The supplied raw extraction contains six chapters, not five. This reference foll
 - [[mass-society-and-atomization|Mass Society and Atomization]] - Arendtian comparison point for the social-power depletion problem
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's later use of Nock's categories
 - [[libertarianism|Libertarianism]] - broader topic context for Nock's Old Right anti-statism
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 

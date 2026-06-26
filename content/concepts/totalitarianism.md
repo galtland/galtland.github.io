@@ -67,7 +67,7 @@ The useful synthesis is limited: libertarian sources explain why state monopoly 
 
 ## See Also
 
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis article in which this concept supplies the exception clause that breaks the parasite frame
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis article in which this concept supplies the exception clause that breaks the parasite frame
 - [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - primary Arendt source for this concept
 - [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - Arendt's ordinary-participant companion volume
 - [[banality-of-evil|Banality of Evil]] - participant-level concept from Eichmann

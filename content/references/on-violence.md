@@ -41,7 +41,7 @@ This should not be turned into libertarian doctrine. Arendt does not infer marke
 - [[totalitarianism|Totalitarianism]] - concept sharpened by the power/violence distinction
 - [[total-domination|Total Domination]] - endpoint where violence and terror destroy spontaneous power
 - [[banality-of-evil|Banality of Evil]] - participant-side Arendt concept
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with this distinction
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with this distinction
 - [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - reciprocal link.
 
 ## Sources

@@ -32,7 +32,7 @@ This is useful for the parasite thesis because it keeps Tilly's evidence bounded
 - [[nationalism-and-state-formation|Nationalism and State Formation]] - related late-century nationalism thread
 - [[war-and-state-formation|War and State Formation]] - broader Tilly concept
 - [[evolution-of-the-state|Evolution of the State]] - historical state-development context
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis whose Tilly gap this concept helps close
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis whose Tilly gap this concept helps close
 
 ## Sources
 

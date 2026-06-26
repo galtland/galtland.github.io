@@ -57,7 +57,7 @@ That distinction improves [[state-power-and-intervention|State Power and Interve
 - [[on-violence|On Violence]] - later Arendt source sharpening power and violence distinctions
 
 - [[violence-vs-power|Violence vs Power]] - concept that refines the totalitarian boundary
-- [[state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 
 ## Sources
 
