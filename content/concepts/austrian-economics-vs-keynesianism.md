@@ -3,8 +3,8 @@ title: "Austrian Economics vs Keynesianism"
 volatility: cold
 category: concept
 created: 2026-06-16
-updated: 2026-06-19
-verified: 2026-06-19
+updated: 2026-06-26
+verified: 2026-06-26
 confidence: high
 tags: [austrian-economics, keynesianism, business-cycle, monetary-theory, credit-expansion, malinvestment, capital-theory, interest-rates, effective-demand, unemployment, wage-rates, full-employment, great-depression, macroeconomics, methodology]
 aliases: [Austrian vs Keynesian, Hayek vs Keynes, Mises vs Keynes, Keynes vs the Austrians, Austrians vs Keynesians, Austrian Critique of Keynesianism]
@@ -66,7 +66,7 @@ This reverses the sign on Keynes's central variable. Where Keynes treated saving
 
 Here the two systems become not merely different but contradictory. If the boom is *caused* by credit expansion and suppressed interest, then meeting the bust with more credit and lower rates does not cure the depression — it re-commits the original error on a larger scale. Hayek said so without hedging:
 
-> "To combat the depression by a forced credit expansion is to attempt to cure the evil by the very means which brought it about; because we are suffering from a misdirection of production, we want to create further misdirection—a procedure that can only lead to a much more severe crisis as soon as the credit expansion comes to an end."
+> "To combat the depression by a forced credit expansion is to attempt to cure the evil by the very means which brought it about; because we are suffering from a misdirection of production, we want to create further misdirection."
 >
 > — [[friedrich-a-hayek|F. A. Hayek]], *Monetary Theory and the Trade Cycle*, in [[prices-and-production|Prices and Production and Other Works]]
 

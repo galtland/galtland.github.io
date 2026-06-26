@@ -3,8 +3,8 @@ title: "Credit Expansion Dynamics"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [credit-expansion, fiduciary-media, mises, rothbard, austrian-economics, business-cycle, abct, time-preference, natural-rate, loan-market, monetary-theory]
 summary: "Mises on the mechanics of fiduciary-media issuance: banks must lend new credit below the natural rate to place it, expanding loan demand until repayment and reserve limits force the contraction."
 aliases: [credit cycle mechanism, fiduciary media dynamics, Austrian credit cycle, the credit expansion mechanism]
@@ -13,7 +13,7 @@ short: "End-to-end mechanism of Austrian credit expansion: banks must drop the l
 
 # Credit Expansion Dynamics
 
-The Austrian theory of credit expansion is a dynamic process: a sequence of bank-issuance, rate-suppression, capital-structure-lengthening, and reckoning events whose interaction across time is the substance of the theory. The static "supply went up so prices will rise" framing common in mainstream monetary theory misses the structural mechanism. The mechanism runs end-to-end through five stages, and the persistent dynamics question — does loan-repayment cancel expansion in the long run? — turns on a sharp Misesian distinction between *net new issuance* and *gross rollover*.
+The Austrian theory of credit expansion is a dynamic process: a sequence of bank-issuance, rate-suppression, capital-structure-lengthening, and reckoning events whose interaction across time is the substance of the theory. The static framing common in mainstream monetary theory — money supply rose, so prices will rise — misses the structural mechanism. The mechanism runs end-to-end through five stages, and the persistent dynamics question — does loan-repayment cancel expansion in the long run? — turns on a sharp Misesian distinction between *net new issuance* and *gross rollover*.
 
 ## The five-stage mechanism
 
@@ -59,7 +59,7 @@ That distinction — *additional* fiduciary media vs. *re-lending of paid-back* 
 4. **Halting net new issuance after a period of growth is what triggers the bust.** During the growth phase, the suppressed rate funded long-duration malinvestments. When net new issuance ceases, the marginal demand for credit at the suppressed rate is no longer being met by fresh fiduciary media; the loan rate begins to reassert toward the natural rate; and the longest-duration projects are revealed as unprofitable. That *is* the bust. The bank's real long-run options after a growth phase are: (a) keep expanding net, in which case the stock grows and in the limit the currency dies in a flight from money; or (b) stop expanding net, in which case the cycle's accumulated malinvestments liquidate.
 5. **Even a fully-repaid one-shot expansion still misallocates.** During the life of the expansion, capital was reallocated toward higher-order projects on a falsified rate signal. When the expansion stops and the eventual repayment cancels the fiduciary-media stock, the *monetary* event is undone but the *real* misallocation isn't. Long-duration projects funded during the expansion may still be in motion when the supporting credit evaporates; their funding channel disappears while their resource commitments remain.
 
-So the long-run "every expansion meets a contraction" framing is correct *for a one-shot expansion that gets fully repaid* — but per Mises the cycle-theory complaint is not about net long-run quantities. It is about active *net new* issuance during the expansion phase, which causes the rate suppression and the malinvestment. Stopping net new issuance is the bust mechanism, not an equilibrium escape from the cycle.
+So the long-run framing in which every expansion eventually meets a contraction is correct *for a one-shot expansion that gets fully repaid* — but per Mises the cycle-theory complaint is not about net long-run quantities. It is about active *net new* issuance during the expansion phase, which causes the rate suppression and the malinvestment. Stopping net new issuance is the bust mechanism, not an equilibrium escape from the cycle.
 
 ## Measurement
 

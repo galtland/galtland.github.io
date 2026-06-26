@@ -3,8 +3,8 @@ title: "Monetary Aggregates and Credit Expansion"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [mises, rothbard, tms, m2, money-supply, credit-expansion, monetary-aggregates, abct, measurement]
 summary: "Why M2 mismeasures the Austrian cycle signal: Salerno's True Money Supply (TMS), building on Rothbard's broad money-supply criterion, is a cleaner money-stock aggregate — the total medium of exchange held by the public — that excludes the time-deposit and money-fund components contaminating M2 with non-money commodity credit. TMS is the preferred cycle-theory proxy, though it is a money-stock measure, not a fiduciary-media-only measure."
 aliases: [True Money Supply, TMS, M2 vs TMS, measuring credit expansion, money supply definition]
@@ -15,7 +15,7 @@ short: "Austrian-monetary-theory measurement: M2's time-deposit and money-fund c
 
 ## The theoretical target
 
-[[mises-on-credit-expansion|Mises]] defines inflation as the quantity of money in the broader sense outrunning the demand for money in the broader sense (see [[the-theory-of-money-and-credit|The Theory of Money and Credit]] Excursus to Ch. VII §7). The supply side of that test — "broader-sense quantity of money" — is what an empirical aggregate must capture. Per [[ludwig-von-mises|Mises]]'s typology (see [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]]):
+[[mises-on-credit-expansion|Mises]] defines inflation as the quantity of money in the broader sense outrunning the demand for money in the broader sense (see [[the-theory-of-money-and-credit|The Theory of Money and Credit]] Excursus to Ch. VII §7). The supply side of that test — the quantity of money in the broader sense — is what an empirical aggregate must capture. Per [[ludwig-von-mises|Mises]]'s typology (see [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]]):
 
 - **Money proper** (commodity / fiat / credit money)
 - **Money-certificates** (100%-covered substitutes; warehouse receipts)
@@ -60,7 +60,7 @@ TMS captures the total medium of exchange — money proper plus money-substitute
 
 The Fed funds target rate, ECB deposit rate, BOJ short rate, BoE bank rate — these are the central bank's signal to commercial banks about the price of marginal liquidity. They are an *input*: low policy rates lower banks' cost of issuing fiduciary media, which increases their incentive to do so, which is what the cycle theory wants to measure. So policy rates predict expansion but do not quantify it. A 50bp cut does not specify by how much fiduciary media will subsequently grow; the answer depends on banks' and borrowers' response.
 
-Worse, the natural rate of interest is unobservable. So the theoretical test "is the gross market rate suppressed below the natural rate" cannot be verified directly — it has to be inferred from outcomes (booms in interest-rate-sensitive sectors, capital-structure lengthening, eventual bust). Rates give intent; outcomes give evidence.
+Worse, the natural rate of interest is unobservable. So the theoretical test — whether the gross market rate is suppressed below the natural rate — cannot be verified directly — it has to be inferred from outcomes (booms in interest-rate-sensitive sectors, capital-structure lengthening, eventual bust). Rates give intent; outcomes give evidence.
 
 ## The sectoral diagnostic
 
