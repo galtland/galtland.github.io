@@ -3,8 +3,8 @@ title: "PGP and the Crypto Wars"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [pgp, crypto-wars, privacy, public-key-cryptography, cypherpunk, export-controls, key-escrow, surveillance]
 aliases: [PGP, Pretty Good Privacy, Crypto Wars, strong encryption]
 confidence: medium
@@ -46,7 +46,7 @@ The three-year DOJ investigation of Zimmermann over alleged export of cryptograp
 
 Zimmermann's argument is ultimately about cost. Mass surveillance becomes dangerous when monitoring everyone becomes cheap. Routine encryption raises the cost of indiscriminate monitoring and forces surveillance back toward more targeted methods.
 
-This is why the essay belongs in the [[cypherpunk|Cypherpunk]] thread. The civil-liberties claim is not only "the state should not read private mail." It is also "users can change the technical feasibility of reading private mail." PGP is a practical defense, not just a protest.
+This is why the essay belongs in the [[cypherpunk|Cypherpunk]] thread. The civil-liberties claim is not only *the state should not read private mail*. It is also *users can change the technical feasibility of reading private mail*. PGP is a practical defense, not just a protest.
 
 ## See Also
 

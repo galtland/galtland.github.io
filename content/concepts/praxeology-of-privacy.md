@@ -3,8 +3,8 @@ title: "Praxeology of Privacy"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [privacy, praxeology, action-axiom, austrian-economics, property-rights, surveillance, bitcoin, power-projection]
 aliases: [privacy praxeology, privacy as selective disclosure, privacy as structural feature of action]
 confidence: medium
@@ -45,7 +45,7 @@ That distinction keeps the privacy argument inside the same scarcity-based prope
 
 ## Surveillance as an Attack on Economic Action
 
-The economic implication is stronger than "surveillance feels invasive." Surveillance changes the conditions under which actors deliberate, negotiate, exchange, save, and build capital. Monitored actors may shape their choices to satisfy observers rather than their own valuations. Negotiation changes when reservation prices, plans, and vulnerabilities are visible. Price signals degrade when trades are chilled, distorted, or redirected by fear of later intervention.
+The economic implication is stronger than *surveillance feels invasive*. Surveillance changes the conditions under which actors deliberate, negotiate, exchange, save, and build capital. Monitored actors may shape their choices to satisfy observers rather than their own valuations. Negotiation changes when reservation prices, plans, and vulnerabilities are visible. Price signals degrade when trades are chilled, distorted, or redirected by fear of later intervention.
 
 In Hillebrand's framework, surveillance attacks the observation stage of the adversarial control loop. If a state, corporation, or counterparty cannot observe, it cannot orient on the target, decide how to exploit the information, or act effectively. Privacy is therefore a strategic defense of economic action, not a merely aesthetic preference.
 

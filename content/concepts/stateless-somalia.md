@@ -3,8 +3,8 @@ title: "Stateless Somalia"
 volatility: warm
 category: concept
 created: 2026-06-07
-updated: 2026-06-07
-verified: 2026-06-07
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [peter-leeson, somalia, anarchy, statelessness, anarcho-capitalism, predatory-state, public-goods, development-economics]
 summary: "Leeson's empirical finding that post-1991 stateless Somalia outperformed its predatory predecessor government on nearly all of 18 welfare indicators — the canonical case that anarchy can beat a sufficiently predatory state."
 aliases: [Somalia anarchy, better off stateless, Somali statelessness, anarchy in Somalia]
@@ -26,7 +26,7 @@ The mechanism he credits is not anarchy as magic but the *removal of predation*:
 
 ## The conditional, stated plainly
 
-The claim is conditional, not utopian. Leeson's own framing is that the result depends on how predatory the prior state was: where a state is highly predatory and unchecked, government can fail to add to welfare and instead push it *below* its stateless level. Somalia qualified; not every state does. The argument is therefore narrower and sharper than "anarchy is always better" — it is "a sufficiently predatory state is worse than its own absence," which is exactly the regime [[political-means-and-economic-means|Political Means and Economic Means]] and [[state-power-and-intervention|State Power and Intervention]] describe.
+The claim is conditional, not utopian. Leeson's own framing is that the result depends on how predatory the prior state was: where a state is highly predatory and unchecked, government can fail to add to welfare and instead push it *below* its stateless level. Somalia qualified; not every state does. The argument is therefore narrower and sharper than "anarchy is always better" — it is *a sufficiently predatory state is worse than its own absence*, which is exactly the regime [[political-means-and-economic-means|Political Means and Economic Means]] and [[state-power-and-intervention|State Power and Intervention]] describe.
 
 ## Scope
 

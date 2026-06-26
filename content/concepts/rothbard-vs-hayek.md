@@ -3,8 +3,8 @@ title: "Rothbard vs. Hayek: The Two Heirs of Mises"
 volatility: cold
 category: concept
 created: 2026-05-31
-updated: 2026-06-09
-verified: 2026-05-31
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [hayek, rothbard, mises, austrian-economics, praxeology, knowledge-problem, dehomogenization, anarcho-capitalism, methodology]
 aliases: [Rothbard vs Hayek, Hayek vs Rothbard, two heirs of Mises, Mises-Rothbard vs Hayek-Kirzner, dehomogenization]
 confidence: medium
@@ -22,7 +22,7 @@ The common ground is large and real. Both men work in methodological individuali
 
 ## Method: Praxeology vs. Evolutionary Empiricism
 
-The first divergence is methodological. Rothbard continues Mises's praxeology in its strict form: economic theory is the deductive working-out of the logic of human action, a priori and apodictically certain, set out in [[praxeology|Praxeology]] and in [[man-economy-and-state|Man, Economy, and State]]. Hayek, while sharing the subjectivist starting point, leans on tacit and dispersed knowledge, the evolution of institutions and rules, and an "explanation of the principle" / pattern-prediction view of what social science can deliver — the position he generalized in [[the-pretence-of-knowledge|The Pretence of Knowledge]]. On this axis Rothbard is closer to Mises than Hayek is: Rothbard defends the a-priori method Hayek qualified.
+The first divergence is methodological. Rothbard continues Mises's praxeology in its strict form: economic theory is the deductive working-out of the logic of human action, a priori and apodictically certain, set out in [[praxeology|Praxeology]] and in [[man-economy-and-state|Man, Economy, and State]]. Hayek, while sharing the subjectivist starting point, leans on tacit and dispersed knowledge, the evolution of institutions and rules, and an *explanation of the principle* / pattern-prediction view of what social science can deliver — the position he generalized in [[the-pretence-of-knowledge|The Pretence of Knowledge]]. On this axis Rothbard is closer to Mises than Hayek is: Rothbard defends the a-priori method Hayek qualified.
 
 ## The Socialism Critique: Calculation vs. Knowledge
 
@@ -40,7 +40,7 @@ Joseph [[joseph-t-salerno|Salerno]]'s [[mises-and-hayek-dehomogenized|"dehomogen
 
 ## Bottom Line
 
-The popular framing of "two Mises disciples with different economic ideas" is half right. They share the Misesian core, and they diverge on method, on the calculation-vs-knowledge framing, and on how much state is permissible. But they are not equidistant from Mises: Rothbard preserved Mises's praxeology, calculation argument, and uncompromising anti-statism, while Hayek qualified the method, reframed the socialism critique around knowledge, and stopped at limited government. The article presents this as the wiki's synthesis; the strong "two distinct paradigms" claim is Salerno's, and how sharply Mises and Hayek really divide is itself debated — some Austrians read more continuity than the dehomogenizers allow.
+The popular framing of *two Mises disciples with different economic ideas* is half right. They share the Misesian core, and they diverge on method, on the calculation-vs-knowledge framing, and on how much state is permissible. But they are not equidistant from Mises: Rothbard preserved Mises's praxeology, calculation argument, and uncompromising anti-statism, while Hayek qualified the method, reframed the socialism critique around knowledge, and stopped at limited government. The article presents this as the wiki's synthesis; the strong "two distinct paradigms" claim is Salerno's, and how sharply Mises and Hayek really divide is itself debated — some Austrians read more continuity than the dehomogenizers allow.
 
 ## See Also
 

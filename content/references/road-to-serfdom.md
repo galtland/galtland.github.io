@@ -3,8 +3,8 @@ title: "The Road to Serfdom"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [hayek, central-planning, totalitarianism, rule-of-law, classical-liberalism]
 aliases: [Road to Serfdom, RTS]
 confidence: medium
@@ -29,7 +29,7 @@ The Mises Institute's free PDF is the 1999 Institute of Economic Affairs (IEA) e
 
 ## Relation to Hayek's Other Texts
 
-This book is the popular front of Hayek's critique of central planning. Its theoretical underpinnings are in [[individualism-and-economic-order|Individualism and Economic Order]] — particularly "The Use of Knowledge in Society" and the "Socialist Calculation" essays. Its monetary-theoretic counterpart is [[prices-and-production|Prices and Production and Other Works]] — a separate line of Hayek's work on the business-cycle effects of credit expansion (money and capital theory), distinct from the political-planning argument of *Road* rather than a restatement of it.
+This book is the popular front of Hayek's critique of central planning. Its theoretical underpinnings are in [[individualism-and-economic-order|Individualism and Economic Order]] — particularly *The [[knowledge-problem|Use of Knowledge in Society]]* and the "Socialist Calculation" essays. Its monetary-theoretic counterpart is [[prices-and-production|Prices and Production and Other Works]] — a separate line of Hayek's work on the business-cycle effects of credit expansion (money and capital theory), distinct from the political-planning argument of *Road* rather than a restatement of it.
 
 ## See Also
 

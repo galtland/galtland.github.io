@@ -3,8 +3,8 @@ title: "Power Projection"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [power-projection, bitcoin, proof-of-work, physical-cost, national-security, cyberspace]
 aliases: [Power Projection Theory, physical power projection, abstract power projection, proof-of-power]
 confidence: low
@@ -48,7 +48,7 @@ The confidence level is low because this is Lowery's novel theoretical frame and
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for proof-of-work, Bitcoin, and resistant systems
 - [[proof-of-work|Proof of Work]] - cost-function mechanism that gives Bitcoin's cyber-domain control a physical resource base
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - primary design source for Bitcoin's proof-of-work timestamp network
-- [[the-sovereign-individual|The Sovereign Individual]] - 1997 book that Lowery cites (ref. 44), foreshadowing the "costs and rewards of projecting power" frame
+- [[the-sovereign-individual|The Sovereign Individual]] - 1997 book that Lowery cites (ref. 44), foreshadowing the *costs and rewards of projecting power* frame
 - [[megapolitics|Megapolitics]] - Davidson and Rees-Mogg's violence-cost theory that directly informs this power-projection frame
 
 ## Sources

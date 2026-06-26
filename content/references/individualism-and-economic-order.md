@@ -3,8 +3,8 @@ title: "Individualism and Economic Order"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [hayek, knowledge-problem, spontaneous-order, socialist-calculation-debate, competition]
 aliases: [I&EO, Hayek's Individualism]
 confidence: medium
@@ -24,9 +24,9 @@ The volume gathers twelve essays. The ones that matter most for this wiki are:
 - **The use of knowledge in society** (1945) — the canonical statement of the **knowledge problem**: relevant economic knowledge exists only as the dispersed, tacit, time-and-place-specific knowledge of millions of actors, and the price system is the social mechanism that uses that knowledge without anyone possessing all of it.
 - **The meaning of competition** — competition as a discovery process rather than the static equilibrium condition of textbook microeconomics.
 - **The three "Socialist Calculation" essays** — Hayek's contributions to the debate [[ludwig-von-mises|Mises]] opened in [[socialism|Socialism]], reframing the impossibility argument in terms of the knowledge problem and replying to Lange and Lerner's "market socialism" reply to Mises.
-- **The Ricardo Effect ("Profits, Interest and Investment")** — applying the same framework to capital structure and the boom-and-bust cycle.
+- **The Ricardo Effect (*Profits, Interest and Investment*)** — applying the same framework to capital structure and the boom-and-bust cycle.
 
-The remaining essays — among them "The Facts of the Social Sciences," "Free Enterprise and Competitive Order," "A Commodity Reserve Currency," and "The Economic Conditions of Interstate Federalism" — round out the volume but are less central to the wiki's calculation/knowledge thread.
+The remaining essays — among them "The Facts of the Social Sciences," "Free Enterprise and Competitive Order," "A Commodity Reserve Currency," and *The Economic Conditions of Interstate Federalism* — round out the volume but are less central to the wiki's calculation/knowledge thread.
 
 ## Why It Matters in This Wiki
 

@@ -3,8 +3,8 @@ title: "Socialism"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [mises, socialism, economic-calculation, austrian-economics]
 aliases: [Mises Socialism, Die Gemeinwirtschaft]
 confidence: medium
@@ -29,7 +29,7 @@ The current raw source is the Mises Institute's PDF edition (600 pages), extract
 
 ## Relation to Mises's Other Texts and the Calculation Debate
 
-[[socialism|Socialism]] opens a debate. [[friedrich-a-hayek|Hayek]]'s contributions in [[individualism-and-economic-order|Individualism and Economic Order]] — especially the three "Socialist Calculation" essays and "The Use of Knowledge in Society" — develop a related knowledge-based critique. On the standard dehomogenizing reading (see [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]]), Mises's point is that calculation is impossible *in principle* without market prices for the means of production, while Hayek stresses that the dispersed, time-and-place knowledge real prices summarize is not available to any planner; how cleanly the two divide is itself contested. [[human-action|Human Action]] integrates the calculation argument into the larger praxeological system. Together these three texts are the nucleus of the Austrian critique of central planning.
+[[socialism|Socialism]] opens a debate. [[friedrich-a-hayek|Hayek]]'s contributions in [[individualism-and-economic-order|Individualism and Economic Order]] — especially the three "Socialist Calculation" essays and *The [[knowledge-problem|Use of Knowledge in Society]]* — develop a related knowledge-based critique. On the standard dehomogenizing reading (see [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]]), Mises's point is that calculation is impossible *in principle* without market prices for the means of production, while Hayek stresses that the dispersed, time-and-place knowledge real prices summarize is not available to any planner; how cleanly the two divide is itself contested. [[human-action|Human Action]] integrates the calculation argument into the larger praxeological system. Together these three texts are the nucleus of the Austrian critique of central planning.
 
 ## See Also
 

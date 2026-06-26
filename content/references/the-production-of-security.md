@@ -3,8 +3,8 @@ title: "The Production of Security"
 volatility: warm
 category: reference
 created: 2026-05-06
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [molinari, market-anarchism, private-security, classical-liberalism, private-law, evolution-of-the-state]
 aliases: [De la production de la sécurité, Molinari's Production of Security]
 confidence: medium
