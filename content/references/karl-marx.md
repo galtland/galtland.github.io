@@ -38,4 +38,4 @@ Marx is the wiki's reference foil for the Austrian theory of value. The [[carl-m
 ## Sources
 
 - [Capital, Volume I — Chapter 1: Commodities (Full Text)](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm) - Marx's own statement of the labor theory of value: use-value vs. value, abstract human labour, socially necessary labour-time
-- [Karl Marx and the Close of His System (Full Text Aggregate)](https://archive.org/details/karlmarxandclos00macdgoog) - Böhm-Bawerk's critique, used here for Marx's place in the value-theory dispute
+- [Karl Marx and the Close of His System (Full Text Aggregate)](https://cdn.mises.org/Karl%20Marx%20and%20the%20Close%20of%20His%20System.epub) - Böhm-Bawerk's critique, used here for Marx's place in the value-theory dispute

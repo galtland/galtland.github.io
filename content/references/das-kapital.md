@@ -39,4 +39,4 @@ On this base the later argument is built: labour-power becomes a commodity, and 
 ## Sources
 
 - [Capital, Volume I — Chapter 1: Commodities (Full Text)](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm) - the chapter summarized here: use-value vs. value, abstract human labour, socially necessary labour-time, the form of value, commodity fetishism
-- [Karl Marx and the Close of His System (Full Text Aggregate)](https://archive.org/details/karlmarxandclos00macdgoog) - Böhm-Bawerk on the Vol. I / Vol. III tension in the value theory
+- [Karl Marx and the Close of His System (Full Text Aggregate)](https://cdn.mises.org/Karl%20Marx%20and%20the%20Close%20of%20His%20System.epub) - Böhm-Bawerk on the Vol. I / Vol. III tension in the value theory
