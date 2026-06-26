@@ -3,8 +3,8 @@ title: "Capitalism: The Unknown Ideal"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [ayn-rand, capitalism-the-unknown-ideal, objectivism, capitalism, laissez-faire, political-economy, alan-greenspan, nathaniel-branden]
 aliases: [Capitalism The Unknown Ideal, What Is Capitalism]
 confidence: medium
@@ -14,7 +14,7 @@ short: "Rand's 1966 collection defending laissez-faire capitalism as the only mo
 
 # Capitalism: The Unknown Ideal
 
-> [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] is a 1966 essay collection assembled by [[ayn-rand|Ayn Rand]], with additional articles by Nathaniel Branden, Alan Greenspan, and Robert Hessen, arguing that laissez-faire capitalism is not merely the most productive system but the *only moral* one — and that it remains an "unknown ideal" because even its champions have defended it on practical, utilitarian grounds rather than on the moral foundation of individual rights. The available raw source is a partial, non-official OCR scan: it contains the title page, the contributor list, and the complete opening essay "What Is Capitalism?", but not the rest of the book — so claims about the present text are well grounded, while the collection's broader structure is reconstructed from established bibliography at correspondingly lower confidence.
+> [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] is a 1966 essay collection assembled by [[ayn-rand|Ayn Rand]], with additional articles by Nathaniel Branden, Alan Greenspan, and Robert Hessen, arguing that laissez-faire capitalism is not merely the most productive system but the *only moral* one — and that it remains an "unknown ideal" because even its champions have defended it on practical, utilitarian grounds rather than on the moral foundation of individual rights. The available raw source is a partial, non-official OCR scan: it contains the title page, the contributor list, and the complete opening essay *What Is Capitalism?*, but not the rest of the book — so claims about the present text are well grounded, while the collection's broader structure is reconstructed from established bibliography at correspondingly lower confidence.
 
 ## The central thesis: capitalism as the unknown ideal
 
@@ -26,7 +26,7 @@ The opening essay (originally published in *The Objectivist Newsletter*, Novembe
 
 ## A multi-author collection
 
-The title page names Rand as author "with additional articles by Nathaniel Branden, Alan Greenspan, and Robert Hessen," published as "A Signet Book." The volume is organized as a collection of essays (the opening one sits under a "Theory and History" heading in the scan). Beyond the material present in the raw source, the book is generally cataloged as gathering pieces such as Rand's "What Is Capitalism?", "The Roots of War", "America's Persecuted Minority: Big Business", and "Notes on the History of American Free Enterprise"; Branden's psychological and economic essays; Robert Hessen's historical treatment of subjects like child labor and the "robber baron" charge; and Alan Greenspan's contributions, most notably "Gold and Economic Freedom" (a defense of the gold standard, written years before Greenspan chaired the U.S. [[federal-reserve|Federal Reserve]]) and an essay attacking "Antitrust." The multi-author format lets the book pair Rand's philosophical case with applied arguments about specific institutions and historical episodes.
+The title page names Rand as author "with additional articles by Nathaniel Branden, Alan Greenspan, and Robert Hessen," published as "A Signet Book." The volume is organized as a collection of essays (the opening one sits under a "Theory and History" heading in the scan). Beyond the material present in the raw source, the book is generally cataloged as gathering pieces such as Rand's "What Is Capitalism?", *The Roots of War*, *America's Persecuted Minority: Big Business*, and *Notes on the History of American Free Enterprise*; Branden's psychological and economic essays; Robert Hessen's historical treatment of subjects like child labor and the "robber baron" charge; and Alan Greenspan's contributions, most notably *Gold and Economic Freedom* (a defense of the gold standard, written years before Greenspan chaired the U.S. [[federal-reserve|Federal Reserve]]) and an essay attacking "Antitrust." The multi-author format lets the book pair Rand's philosophical case with applied arguments about specific institutions and historical episodes.
 
 ## Relation to Objectivist ethics and the Austrian tradition
 
@@ -34,7 +34,7 @@ The book is the political-economic expression of [[objectivism|Objectivism]]: la
 
 ## Source Note
 
-The raw source for this article is a partial, non-official OCR scan (Internet Archive) of roughly 10,000 words. It reliably contains the title page, the contributor list (Nathaniel Branden, Alan Greenspan, Robert Hessen), the "Theory and History" section heading, and the complete opening essay "What Is Capitalism?" — direct quotations above are drawn from that text. It does NOT contain a full table of contents or the remaining essays, so all detail about the rest of the collection's structure (essay titles, authorship of specific pieces, Greenspan's "Gold and Economic Freedom" and "Antitrust", Hessen's historical chapters) rests on established bibliography rather than on the scanned text, and confidence is set to medium accordingly. OCR may contain transcription errors; any quotation should be checked against an authorized edition.
+The raw source for this article is a partial, non-official OCR scan (Internet Archive) of roughly 10,000 words. It reliably contains the title page, the contributor list (Nathaniel Branden, Alan Greenspan, Robert Hessen), the "Theory and History" section heading, and the complete opening essay "What Is Capitalism?" — direct quotations above are drawn from that text. It does NOT contain a full table of contents or the remaining essays, so all detail about the rest of the collection's structure (essay titles, authorship of specific pieces, Greenspan's "Gold and Economic Freedom" and *Antitrust*, Hessen's historical chapters) rests on established bibliography rather than on the scanned text, and confidence is set to medium accordingly. OCR may contain transcription errors; any quotation should be checked against an authorized edition.
 
 ## See Also
 - [[ayn-rand|Ayn Rand]] - author reference

@@ -3,8 +3,8 @@ title: "Coercion, Capital, and European States"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [charles-tilly, state, historical-sociology, war-and-state-formation, coercion, capital, protection-racket, european-history, citizenship, nationalism, military-power, full-text, non-libertarian]
 aliases: [Coercion Capital and European States, Coercion Capital and European States AD 990-1992]
 confidence: medium
@@ -39,7 +39,7 @@ These are Tilly's historical-sociological categories, not libertarian categories
 
 ## Protection and Racketeering
 
-The famous "state-making as organized crime" formulation belongs to [[war-making-and-state-making-as-organized-crime|Tilly's 1985 essay]], which is now ingested as a source. The present book contains the same analytic family: chapter 3 explicitly compares rulers to racketeers when they offered protection against harms they could themselves inflict or permit. It also describes Wallenstein's wartime extraction as a protection racket.
+The famous *state-making as organized crime* formulation belongs to [[war-making-and-state-making-as-organized-crime|Tilly's 1985 essay]], which is now ingested as a source. The present book contains the same analytic family: chapter 3 explicitly compares rulers to racketeers when they offered protection against harms they could themselves inflict or permit. It also describes Wallenstein's wartime extraction as a protection racket.
 
 That makes the book important for [[war-and-state-formation|War and State Formation]] and [[state-power-and-intervention|State Power and Intervention]]. It supplies a non-libertarian version of the state/protection-racket convergence, while refusing the libertarian move from description to abolition.
 

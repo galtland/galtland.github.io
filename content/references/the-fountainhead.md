@@ -3,8 +3,8 @@ title: "The Fountainhead"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-05-31
-verified: 2026-05-31
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [ayn-rand, the-fountainhead, objectivism, individualism, integrity, second-hander, novel, howard-roark]
 aliases: [The Fountainhead, Howard Roark, Roark's speech]
 confidence: medium
@@ -33,7 +33,7 @@ The arrangement is pointed: three of the four titular characters are foils or an
 
 ## The "prime mover" versus the "second-hander"
 
-Rand's organizing antithesis is between the creator and what she calls the second-hander. The creator, in Roark's words from the courtroom speech, is "self-sufficient, self-motivated, self-generated. A first cause, a fount of energy, a life force, a Prime Mover" — a person whose source of action and standard of value lie within himself. The second-hander, by contrast, "has no concern for the truth" and exists only through others; his "basic need... is to secure his ties with men in order to be fed." Rand maps the cast onto this scheme: Roark is the prime mover, Keating and Toohey are second-handers of different kinds, and Wynand is the man of ability who let himself become one. She presents the real division not as selfishness versus generosity but as "independence or dependence... the code of the creator or the code of the second-hander."
+Rand's organizing antithesis is between the creator and what she calls the second-hander. The creator, in Roark's words from the courtroom speech, is "self-sufficient, self-motivated, self-generated. A first cause, a fount of energy, a life force, a Prime Mover" — a person whose source of action and standard of value lie within himself. The second-hander, by contrast, has no concern for the truth and exists only through others; his "basic need... is to secure his ties with men in order to be fed." Rand maps the cast onto this scheme: Roark is the prime mover, Keating and Toohey are second-handers of different kinds, and Wynand is the man of ability who let himself become one. She presents the real division not as selfishness versus generosity but as "independence or dependence... the code of the creator or the code of the second-hander."
 
 ## Integrity and egoism as Rand frames them
 

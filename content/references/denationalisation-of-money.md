@@ -3,8 +3,8 @@ title: "Denationalisation of Money"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [hayek, denationalisation-of-money, competing-currencies, currency-competition, free-banking, sound-money, monetary-theory, austrian-economics, bitcoin]
 aliases: [Denationalisation of Money, Denationalization of Money, The Argument Refined, competing currencies, currency competition, free trade in money]
 confidence: medium
@@ -24,7 +24,7 @@ The discipline comes from competition. An issuer publicly commits to keeping its
 
 ## The Gresham's Law Inversion
 
-A standard objection is Gresham's Law — "bad money drives out good." Hayek answers that this holds only where a *fixed* legal rate of exchange is enforced between the monies (legal-tender laws compelling acceptance at par). Where people are free to choose and exchange rates float, the relation reverses: the *good* money drives out the bad, because no one will hold or accept a depreciating currency when a stable alternative is one transaction away. Removing legal-tender compulsion is thus central to the scheme.
+A standard objection is Gresham's Law — *bad money drives out good*. Hayek answers that this holds only where a *fixed* legal rate of exchange is enforced between the monies (legal-tender laws compelling acceptance at par). Where people are free to choose and exchange rates float, the relation reverses: the *good* money drives out the bad, because no one will hold or accept a depreciating currency when a stable alternative is one transaction away. Removing legal-tender compulsion is thus central to the scheme.
 
 ## Lineage and Reception
 

@@ -3,8 +3,8 @@ title: "The Sovereign Individual"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [james-dale-davidson, william-rees-mogg, sovereign-individual, information-age, megapolitics, cybereconomy, digital-money, jurisdictional-competition, nation-state, cypherpunk, commercially-published, non-libertarian]
 aliases: [The Sovereign Individual, Mastering the Transition to the Information Age, Sovereign Individual, the sovereign individual thesis]
 confidence: medium
@@ -31,7 +31,7 @@ Their central forecast is that the microprocessor inverts the trend of the indus
 
 ## Place in This Wiki
 
-This is an external, popularly-published forecast, not a libertarian treatise, and not all of its predictions have aged equally well — its timeline, its determinism about violence, and its sometimes triumphalist treatment of inequality are contestable. But it sits at a hinge between two clusters of this wiki. On one side it shares the [[evolution-of-the-state|state-evolution]] and protection-pricing logic of [[franz-oppenheimer|Oppenheimer]], [[albert-jay-nock|Nock]], [[charles-tilly|Tilly]], and Frederic Lane (whom the authors cite directly). On the other it anticipates the [[cypherpunk|cypherpunk]] program of escape through cryptography — its cybercash forecast prefigures [[crypto-anarchy|crypto anarchy]] and the Bitcoin debate. It is the book that most explicitly fuses "the state is a protection racket whose price is set by the cost of violence" with "technology is about to crash that price."
+This is an external, popularly-published forecast, not a libertarian treatise, and not all of its predictions have aged equally well — its timeline, its determinism about violence, and its sometimes triumphalist treatment of inequality are contestable. But it sits at a hinge between two clusters of this wiki. On one side it shares the [[evolution-of-the-state|state-evolution]] and protection-pricing logic of [[franz-oppenheimer|Oppenheimer]], [[albert-jay-nock|Nock]], [[charles-tilly|Tilly]], and Frederic Lane (whom the authors cite directly). On the other it anticipates the [[cypherpunk|cypherpunk]] program of escape through cryptography — its cybercash forecast prefigures [[crypto-anarchy|crypto anarchy]] and the Bitcoin debate. It is the book that most explicitly fuses two of the book's claims — that the state is a protection racket whose price is set by the cost of violence, and that technology is about to crash that price.
 
 ## Limits
 
