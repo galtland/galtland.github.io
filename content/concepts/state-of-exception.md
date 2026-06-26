@@ -3,8 +3,8 @@ title: "State of Exception"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [carl-schmitt, state-of-exception, sovereignty, emergency-power, decisionism, non-libertarian]
 aliases: [exception, sovereign exception, emergency powers]
 confidence: medium

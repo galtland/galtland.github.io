@@ -3,8 +3,8 @@ title: "Friend/Enemy Distinction"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [carl-schmitt, friend-enemy-distinction, political-theory, sovereignty, war, non-libertarian]
 aliases: [friend-enemy distinction, friend and enemy, concept of the political]
 confidence: medium

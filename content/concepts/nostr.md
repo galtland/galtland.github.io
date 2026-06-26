@@ -3,8 +3,8 @@ title: "Nostr"
 volatility: warm
 category: concept
 created: 2026-05-30
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-26
+verified: 2026-06-26
 confidence: high
 tags: [nostr, decentralized-social, cypherpunk, public-key-cryptography, identity, relays, censorship-resistance, lightning, privacy, fiatjaf]
 aliases: [Nostr, Notes and Other Stuff Transmitted by Relays, decentralized social protocol, keys as identity]

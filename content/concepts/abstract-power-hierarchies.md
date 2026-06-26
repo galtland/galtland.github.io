@@ -3,8 +3,8 @@ title: "Abstract Power Hierarchies"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-26
+verified: 2026-06-26
 tags: [abstract-power, state, hierarchy, bitcoin, software, power-projection, national-security, political-means, totalitarianism]
 aliases: [abstract power hierarchy, APB hierarchy, abstract-power-based hierarchy, rule-based authority]
 confidence: low

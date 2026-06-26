@@ -3,8 +3,8 @@ title: "Surveillance Capitalism"
 volatility: warm
 category: concept
 created: 2026-05-29
-updated: 2026-06-09
-verified: 2026-05-30
+updated: 2026-06-26
+verified: 2026-06-26
 confidence: medium
 tags: [surveillance-capitalism, privacy, data-extraction, zuboff, austrian-economics, market-failure, intellectual-property, corporate-state, knowledge-problem, max-hillebrand]
 aliases: [surveillance capitalism, data extraction, behavioral surplus, corporate surveillance, users as product]
