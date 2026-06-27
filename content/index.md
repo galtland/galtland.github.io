@@ -9,13 +9,12 @@ Last updated: 2026-06-26
 - Sources: 162 raw documents (+ 4 news-lens items)
 - Articles: 265 compiled wiki articles (105 concepts, 148 references, 7 theses, 5 topics)
 - Outputs: 1 generated artifacts
-- Last compiled: 2026-06-18
-- Last lint: 2026-06-18
+- Last compiled: 2026-06-26
+- Last lint: 2026-06-26
 - Last librarian scan: 2026-05-30 (0 stale, 0 low-quality; 18 articles human-verified)
 
 ## Quick Navigation
 
-- [All Sources](raw/_index.md)
 - [Concepts](concepts/)
 - [Topics](topics/):
   - [Austrian Economics](topics/austrian-economics.md)
@@ -25,10 +24,14 @@ Last updated: 2026-06-26
   - [Critiques of Sovereignty and Power](topics/critiques-of-sovereignty-and-power.md)
 - [References](references/)
 - [Theses](theses/)
-- [Outputs](output/_index.md)
-- [Projects](output/projects/_index.md)
 
 ## Recent Changes
+
+- 2026-06-26: integrity — hardened the quote-integrity gate (`verify-quotes`): fixed three OCR-detection false-positives — large clean EPUBs flagged by an absolute isolated-consonant count, possessive `'s`/contractions counted as garble, and math/code single-letter variables — plus a superseded-provenance edge, taking verbatim-enforced articles from 63 to 181 of 265. Re-extracted or replaced the last OCR-grade sources from clean text: *Road to Serfdom* (pypdf), Pufendorf's *Whole Duty of Man* (Liberty Fund OLL), Friedman's Nobel lecture and the Bitcoin whitepaper (pymupdf, with the math/code fenced), and Böhm-Bawerk's *Karl Marx and the Close of His System* + *Capital and Interest* (clean Mises EPUBs, same translations). Hand-reviewed all 39 remaining copyright-locked-scan quote spans — fixing real misquotes (Nietzsche's "It is a lie!", Arendt's "terror is the essence of totalitarian domination") and de-quoting the article's own framing. Renamed the only non-dated thesis to `2026-05-10-state-as-parasite-thesis` and rewrote its 52 backlinks. No article-count change.
+
+- 2026-06-24: compile — new concept `price-controls` plus thickened spoke articles, and the title-transfer cluster: concept `the-title-transfer-theory-of-contract`, concept `voluntary-slavery-debt-and-contract`, and a `walter-block` work-node for *Toward a Libertarian Theory of Inalienability*. Fixed a KaTeX bug that ate dollar amounts inside quotes; corrected `mises-on-minimum-wage` (a wage floor is a minimum, not a maximum, price).
+
+- 2026-06-22: compile — new concept `organized-crime-and-state-capacity` (reframed from polity size to state capacity and will, with a two-margins subsection on rights-suspension), grounded in an ingested El Salvador gang-crackdown reference; new concept `government-provision-and-the-conservation-appeal`. Article count 253 → 265.
 
 - 2026-06-18: maintenance — rebuilt the concepts/references/topics category indexes (which had drifted on direct PRs) and added `scripts/rebuild-indexes.py` plus a weekly index-freshness audit that flags category-index / home-stats drift. No article-count change.
 
