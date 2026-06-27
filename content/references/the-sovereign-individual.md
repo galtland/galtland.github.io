@@ -50,6 +50,7 @@ Confidence is medium: the book can be summarized faithfully and directly from th
 - [[power-projection|Power Projection]] - Lowery's later "costs and rewards of projecting power" frame, foreshadowed by megapolitics
 - [[softwar|Softwar]] - later national-security thesis that cites this book and shares the violence-cost lens
 - [[cypherpunk|Cypherpunk]] - topic map for the cryptographic-escape program the book prefigures
+- [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 
 ## Sources
 

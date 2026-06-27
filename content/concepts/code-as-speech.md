@@ -55,6 +55,7 @@ That boundary matters because code can also be conduct, infrastructure, evidence
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - deployment conflict around routine strong encryption and export controls
 - [[cypherpunk|Cypherpunk]] - movement context for publishing cryptographic tools as resistance infrastructure
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong encryption and privacy tools
+- [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 
 ## Sources
 

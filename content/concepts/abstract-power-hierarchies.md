@@ -67,6 +67,7 @@ The confidence level is low because this is a single-source, contested framework
 - [[resistance-axiom|Resistance Axiom]] - technical-resistance frame adjacent to Lowery's physical-cost check on software authority
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for resistant systems, Bitcoin, and cyber control
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 
 ## Sources
 

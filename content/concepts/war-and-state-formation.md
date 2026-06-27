@@ -94,6 +94,7 @@ The 2026-05-12 gap-closure pass appended chapters 2, 4, 5, and 7 to the earlier 
 - [[stateless-somalia|Stateless Somalia]] - a collapse-then-order counter-case to war-builds-states
 - [[megapolitics|Megapolitics]] - Davidson and Rees-Mogg's violence-cost theory generalizing the war-builds-states logic to forecast state decline
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 
 ## Sources
 

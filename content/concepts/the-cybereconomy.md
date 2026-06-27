@@ -49,6 +49,7 @@ Confidence is medium. The cybercash prediction was substantially vindicated by t
 - [[james-dale-davidson|James Dale Davidson]] - co-author who forecast the cybereconomy and cybercash
 - [[william-rees-mogg|William Rees-Mogg]] - co-author who forecast the cybereconomy and cybercash
 - [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
+- [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 
 ## Sources
 

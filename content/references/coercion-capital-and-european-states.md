@@ -74,6 +74,8 @@ The usefulness for this wiki is comparative. Tilly converges with [[oppenheimer-
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 Moderate-Shooting Ceasefire Remark: Analysis]] - newsroom thesis backlink
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Invasion, Child Soldiers, and the Twenty-Year Foreign Presence: Analysis]] - newsroom thesis backlink
+- [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
+
 ## Sources
 
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - expanded aggregate now covering chapters 1-7; chapters 2, 4, 5, and 7 appended on 2026-05-12

@@ -50,6 +50,7 @@ The confidence level is low because this is Lowery's novel theoretical frame and
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - primary design source for Bitcoin's proof-of-work timestamp network
 - [[the-sovereign-individual|The Sovereign Individual]] - 1997 book that Lowery cites (ref. 44), foreshadowing the *costs and rewards of projecting power* frame
 - [[megapolitics|Megapolitics]] - Davidson and Rees-Mogg's violence-cost theory that directly informs this power-projection frame
+- [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 
 ## Sources
 
