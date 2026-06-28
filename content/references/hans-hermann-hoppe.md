@@ -68,6 +68,7 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.
 - [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] - Hoppe's claim in *Democracy: The God That Failed* that a democratic government caretaker owns only the current use of state resources, not their capital value
+- [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 
 ## Sources
 

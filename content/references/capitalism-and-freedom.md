@@ -41,6 +41,7 @@ This is the headline text of the Chicago counterpoint in [[austrian-economics-vs
 - [[ludwig-von-mises|Ludwig von Mises]] - the Austrian who rejects the premise that money should be managed at all
 - [[inflation-and-unemployment|Inflation and Unemployment]] - Friedman's 1976 Nobel lecture: no lasting trade-off between inflation and unemployment, the natural rate, and the vertical long-run Phillips curve — the monetarist core the Austrians answer on method.
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
+- [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 
 ## Sources
 
