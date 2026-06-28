@@ -76,6 +76,8 @@ Confidence is medium. The article can describe Ammous's framing with high confid
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.
+
 ## Sources
 
 - [[2026-05-28-the-fiat-standard-full-text|The Fiat Standard: Full Text Aggregate]] - Ammous's 2021 book on fiat technology, debt issuance, fiat life, and Bitcoin as liquidator
