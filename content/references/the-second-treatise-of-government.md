@@ -42,6 +42,7 @@ The Second Treatise is the hinge between classical natural law and modern libert
 - [[declaration-of-independence|The Declaration of Independence]] - the political application of Locke's natural-rights theory
 - [[rights-of-man|Rights of Man]] - Paine's revolutionary extension of Lockean natural rights
 - [[sociality|Sociality]] - the Pufendorfian sociality apparatus Locke read and sharpened
+- [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 
 ## Sources
 

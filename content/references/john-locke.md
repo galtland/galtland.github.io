@@ -30,6 +30,7 @@ He is the hinge of the tradition — receiving the [[the-rights-of-war-and-peace
 - [[thomas-paine|Thomas Paine]] - the radical who turns Lockean rights into a popular revolutionary creed
 - [[lysander-spooner|Lysander Spooner]] - the heir who pushes Locke's premises toward anarchism
 - [[murray-n-rothbard|Murray N. Rothbard]] - the heir who carries the natural-rights premises furthest
+- [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 
 ## Sources
 

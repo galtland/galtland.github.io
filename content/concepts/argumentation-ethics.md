@@ -50,6 +50,7 @@ Argumentation ethics is one of the most ambitious justificatory arguments in the
 - [[ludwig-von-mises|Ludwig von Mises]] - whose action-axiom method Hoppe carries into ethics
 - [[murray-n-rothbard|Murray N. Rothbard]] - whose property ethic Hoppe recasts
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the rival route to grounding libertarian rights
+- [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 
 ## Sources
 
