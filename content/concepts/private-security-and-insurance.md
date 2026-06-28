@@ -55,6 +55,7 @@ This concept is narrower than [[market-anarchism-and-private-law|Market Anarchis
 - [[the-market-for-liberty|The Market for Liberty]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - Molinari's 1849 essay; founding text of the private-security argument
 - [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's proliferating jurisdictions and "sovereignty services" as a market for protection
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
 
 ## Sources
 

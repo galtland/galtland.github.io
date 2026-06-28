@@ -60,6 +60,7 @@ Not every libertarian tradition embraces full market anarchism, but this topic w
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Paul Rosenberg's crypto-anarchist novel (2007): the Free Souls build an untraceable online free-market society beyond state control — the Crypto Anarchist's Bible.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
 
 ## Sources
 

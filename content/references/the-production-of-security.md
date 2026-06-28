@@ -44,6 +44,7 @@ For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the cou
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's regime-comparison book points toward a private-law alternative
 - [[murray-n-rothbard|Murray N. Rothbard]] - author of the 1977 preface; principal modern heir to Molinari's argument
 - [[libertarianism|Libertarianism]] - broader doctrinal context
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
 
 ## Sources
 

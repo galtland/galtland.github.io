@@ -55,6 +55,7 @@ This is **minarchism**, and it should not be confused with [[market-anarchism-an
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - the companion politics volume
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the wiki's parallel rights framework, reached by a different route
 - [[the-fountainhead|The Fountainhead]] - Rand's 1943 individualist novel of the uncompromising architect Howard Roark.
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
 
 ## Sources
 - [The Virtue of Selfishness (Full Text Aggregate)](https://archive.org/details/the-virtue-of-selfishness-ayn-rand) - the 1964 essay collection (non-official OCR scan; quote-check against an authorized edition)

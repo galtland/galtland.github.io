@@ -42,6 +42,8 @@ This is descriptive development economics, not anarcho-capitalist political theo
 
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+
 ## Sources
 
 - [Better Off Stateless: Somalia Before and After Government Collapse](https://www.peterleeson.com/Better_Off_Stateless.pdf) - Leeson's 2007 paper; the 18-indicator comparison and the "did more harm than good" verdict
