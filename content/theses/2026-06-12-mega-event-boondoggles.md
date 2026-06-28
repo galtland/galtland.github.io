@@ -78,6 +78,11 @@ So the hospital built the same way inherits the same defect. It may be more defe
 - [[political-means-and-economic-means|Political Means and Economic Means]] — appropriation versus production as the prior question behind the counterfactual
 - [[economic-calculation-problem|Economic Calculation Problem]] — why a project with no profit-and-loss test cannot be known to pay off
 - [[knowledge-problem|Knowledge Problem]] — why the value of the foregone alternatives is dispersed, not collectable in city hall
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Reference guide to Hoppe's 2001 regime-comparison book on monarchy, democracy, time preference, decivilization, and natural order, now backed by a full-text Internet Archive OCR ingest.
+- [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - Reference guide to Hans-Hermann Hoppe's role in this wiki as a property theorist, Austrian economist, and major bridge from market theory to private-law anarchism.
+- [[liberalism|Liberalism]] - Reference guide to Mises's short 1927 statement of classical-liberal political economy: private property, peace, free trade, and a strictly limited state defended on consequentialist economic grounds.
+- [[ludwig-von-mises|Ludwig von Mises]] - Reference guide to Ludwig von Mises's place in this wiki as the founder of modern Austrian economics, originator of the economic-calculation argument
+- [[william-f-shughart-ii|William F. Shughart II]] - Short author reference for William F. Shughart II, the American public-choice economist whose Concise Encyclopedia of Economics entry 'Public Choice' supplies this wiki's compact statement
 
 ## Sources
 

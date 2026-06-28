@@ -69,6 +69,9 @@ That places Szabo near [[market-anarchism-and-private-law|Market Anarchism and P
 - [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
 - [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum where the cypherpunk program — anonymous remailers, Chaumian digital cash, the two founding manifestos
+- [[satoshi-nakamoto|Satoshi Nakamoto]] - Pseudonymous author of the 2008 Bitcoin whitepaper. The work is well-documented; identity claims are deliberately treated as low-confidence.
+- [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), former Intel senior scientist and founding cypherpunk; author of the Crypto Anarchist Manifesto (1988) and Cyphernomicon (1994).
 
 ## Sources
 

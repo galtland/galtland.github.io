@@ -76,6 +76,10 @@ This is a contextualizing claim, not a denial that ceasefires can reduce violenc
 - [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] - Tilly source for the protection-racket formulation
 - [[oppenheimer-the-state|The State]] - Oppenheimer source for the political-means distinction
 - [[coercion-capital-and-european-states|Coercion, Capital, and European States]] - Tilly's broader capital/coercion state-formation account
+- [[state-power-and-intervention|State Power and Intervention]] - Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, organized-crime/protection-racket sociology
+- [[charles-tilly|Charles Tilly]] - Short author reference for Charles Tilly, the American historical sociologist whose 1985 organized-crime essay and later *Coercion, Capital
+- [[franz-oppenheimer|Franz Oppenheimer]] - Short author reference for Franz Oppenheimer, the German sociologist and political economist whose conquest theory of the state and political/economic means distinction fed into Nock, Rothbard
+- [[murray-n-rothbard|Murray N. Rothbard]] - Reference guide to Rothbard's place in this wiki as system-builder, economist, anti-state theorist, and movement strategist.
 
 ## Sources
 

@@ -58,6 +58,7 @@ The strongest connection is to [[war-and-state-formation|War and State Formation
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - Tilly's 1985 claim that war making and state making are quintessential protection rackets with the advantage of legitimacy
 
 ## Sources
 

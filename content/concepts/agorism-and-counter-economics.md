@@ -50,6 +50,7 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[samuel-edward-konkin-iii|Samuel Edward Konkin III]] - Short author reference for Samuel Edward Konkin III, the market-anarchist theorist who founded agorism and counter-economics and wrote the New Libertarian Manifesto.
+- [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 
 ## Sources
 

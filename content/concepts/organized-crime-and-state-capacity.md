@@ -113,6 +113,11 @@ The combined analysis cuts across the usual framing of the debate. It is neither
 - [[anatomy-of-the-state|Anatomy of the State]] — Rothbard's definition of the state used in Section 2
 - [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] — Tilly's 1985 essay
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] — Hoppe's decentralization / small-polity argument, used here for the liberty axis only
+- [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - Tilly's account of citizenship as a byproduct of rulers' bargaining with subjects for taxes, manpower, credit, and compliance in the course of war-making and direct rule.
+- [[evolution-of-the-state|Evolution of the State]] - Historical-evolution layer for the libertarian state critique: Oppenheimer's conquest-origin thesis, Nock's American application, Hoppe's monarchy-to-democracy regime comparison
+- [[oppenheimer-on-conquest|Oppenheimer On Conquest]] - Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association.
+- [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its ultimate, and that every modern war leaves a permanent legacy of increased state burdens on society.
+- [[war-and-state-formation|War and State Formation]] - Tilly's historical-sociological thesis that European war-making, extraction, coercive consolidation, capital
 
 ## Sources
 

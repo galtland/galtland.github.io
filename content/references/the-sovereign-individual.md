@@ -51,6 +51,7 @@ Confidence is medium: the book can be summarized faithfully and directly from th
 - [[softwar|Softwar]] - later national-security thesis that cites this book and shares the violence-cost lens
 - [[cypherpunk|Cypherpunk]] - topic map for the cryptographic-escape program the book prefigures
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
+- [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Paul Rosenberg's crypto-anarchist novel (2007): the Free Souls build an untraceable online free-market society beyond state control — the Crypto Anarchist's Bible.
 
 ## Sources
 

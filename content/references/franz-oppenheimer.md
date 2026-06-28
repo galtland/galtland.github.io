@@ -42,6 +42,8 @@ Public Frankfurt materials identify Ludwig Erhard among Oppenheimer's students a
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
+- [[oppenheimer-on-conquest|Oppenheimer On Conquest]] - Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association.
+
 ## Sources
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - title-page, front-matter, and full-text basis for Oppenheimer's role in this wiki

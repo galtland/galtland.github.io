@@ -39,6 +39,7 @@ Spooner is the bridge between the classical natural-law canon and modern America
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's limited-government use of the same natural rights
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's natural-rights ethics that revives Spooner
 - [[lets-abolish-government|Let's Abolish Government]] - the existing Spooner collection in this wiki
+- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - Concept article on non-state courts, protection, insurance, and title systems in the current libertarian book set.
 
 ## Sources
 

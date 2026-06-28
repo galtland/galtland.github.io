@@ -81,6 +81,7 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
+- [[privacy-and-cryptography|Privacy and Cryptography]] - Topic map for the wiki's privacy-and-cryptography thread: Hillebrand's Austrian theory of privacy, Lowery's power-projection thesis, the resistance axiom, state and corporate surveillance, Bitcoin
 
 ## Sources
 

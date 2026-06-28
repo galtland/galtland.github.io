@@ -64,6 +64,9 @@ The confidence level is medium. The primary-source claims about the manifesto an
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
+- [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Paul Rosenberg's crypto-anarchist novel (2007): the Free Souls build an untraceable online free-market society beyond state control — the Crypto Anarchist's Bible.
+- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum where the cypherpunk program — anonymous remailers, Chaumian digital cash, the two founding manifestos
+- [[paul-rosenberg|Paul Rosenberg]] - Engineer, privacy entrepreneur, and writer; author of A Lodging of Wayfaring Men (2007) and Production Versus Plunder; co-founder of Cryptohippie.
 
 ## Sources
 

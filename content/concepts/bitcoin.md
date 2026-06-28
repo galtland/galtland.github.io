@@ -141,6 +141,7 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 - [[coinjoin|CoinJoin]] - on-chain privacy composition over Bitcoin's pseudonymous base
 - [[ideal-money|Ideal Money]] - Nash's adjacent proposal for a non-political monetary standard
 - [[carl-menger|Carl Menger]] - Austrian founder whose origin-of-money account underlies the hardness/salability frame
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
 
 ## Sources
 

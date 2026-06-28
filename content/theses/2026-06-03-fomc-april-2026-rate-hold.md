@@ -74,6 +74,13 @@ Two limits hold. First, the natural-rate gap is unobservable, and nothing in the
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — why a policy rate is an input, not a measurement, of credit expansion
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] — the natural rate and the stepwise credit-expansion mechanism
 - [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] — inflation as a money-relation change, not a supply shock
+- [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market: autistic (commands with no exchange), binary (the state as a party to an involuntary exchange)
+- [[state-power-and-intervention|State Power and Intervention]] - Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, organized-crime/protection-racket sociology
+- [[americas-great-depression|America's Great Depression]] - Reference guide to Rothbard's 1963 application of Austrian Business Cycle Theory to the 1929 crash and the prolonged depression that followed
+- [[human-action|Human Action]] - Reference guide to Mises's praxeological treatise (1949 / Scholar's Edition 1998), the foundational text of modern Austrian economics and the immediate intellectual ancestor of Rothbard's Man
+- [[ludwig-von-mises|Ludwig von Mises]] - Reference guide to Ludwig von Mises's place in this wiki as the founder of modern Austrian economics, originator of the economic-calculation argument
+- [[murray-n-rothbard|Murray N. Rothbard]] - Reference guide to Rothbard's place in this wiki as system-builder, economist, anti-state theorist, and movement strategist.
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Reference guide to Mises's *The Theory of Money and Credit* (1912 German; 1934 English trans. H. E. Batson; 1953 Yale 'new edition' enlarged with *Monetary Reconstruction*)
 
 ## Sources
 

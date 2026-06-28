@@ -77,6 +77,8 @@ This is an endorsement of fit, not a full empirical decomposition of Argentina's
 - [[socialism|Socialism]] - Mises's 1922 critique of socialism, the original statement of the calculation problem
 - [[the-law|The Law]] - Bastiat's anti-plunder essay on law, liberty, property, and legalized plunder
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
+- [[human-action|Human Action]] - Reference guide to Mises's praxeological treatise (1949 / Scholar's Edition 1998), the foundational text of modern Austrian economics and the immediate intellectual ancestor of Rothbard's Man
+- [[libertarianism|Libertarianism]] - Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, Tilly's protection-racket sociology
 
 ## Sources
 

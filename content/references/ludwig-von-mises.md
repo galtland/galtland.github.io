@@ -91,6 +91,11 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
 - [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 - [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - Mises's claim in *Liberalism* that a residential-rent ceiling produces an immediate housing shortage, with Vienna under Social Democratic rent abolition as the worked example.
+- [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is determined by the supply of money against the demand to hold money
+- [[mises-on-capital-consumption|Mises on Capital Consumption]] - Mises's *Liberalism* Part I §5 claim that 'antiliberal policy is a policy of capital consumption' — present abundance bought by drawing down the productive stock that would have funded future
+- [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its time-preference level and falsifies entrepreneurial calculation
+- [[joseph-t-salerno|Joseph T. Salerno]] - Austrian-school monetary economist in the Mises-Rothbard tradition; Academic Vice President of the Mises Institute and Professor Emeritus of Economics in Pace University's Lubin School of Business.
+- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man, Economy, and State that develops the autistic/binary/triangular intervention typology and the systematic
 
 ## Sources
 

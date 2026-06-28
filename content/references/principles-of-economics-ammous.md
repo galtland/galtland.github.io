@@ -65,6 +65,7 @@ The book's structure is clear, but its adoption is uncertain. It is best treated
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - property and violence framework relevant to the civilization section
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - defense and law-order themes adjacent to Chapters 16-17
 - [[hard-money|Hard Money]] - Money whose supply is hard to expand; the bridge concept linking Mises on sound money to Ammous's hardness-based monetary economics
+- [[saifedean-ammous|Saifedean Ammous]] - Author reference for Saifedean Ammous, the economist whose Bitcoin Standard, Fiat Standard, and Principles of Economics give this wiki its explicitly Austrian
 
 ## Sources
 

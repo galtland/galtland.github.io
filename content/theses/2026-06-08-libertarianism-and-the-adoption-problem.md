@@ -135,6 +135,22 @@ Liberty does not win by out-uniting nationalism on its own ground; it cannot. If
 - [[hard-money|Hard Money]] - the sound-money lifeboat
 - [[objectivism|Objectivism]] - a candidate liberty-as-creed
 - [[anatomy-of-the-state|Anatomy of the State]] - the war-ratchet and the ideological-legitimacy argument
+- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
+- [[state-power-and-intervention|State Power and Intervention]] - Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, organized-crime/protection-racket sociology
+- [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged. A capitalist individualist adjacent to — but at odds with — the Austro-libertarian tradition.
+- [[charles-tilly|Charles Tilly]] - Short author reference for Charles Tilly, the American historical sociologist whose 1985 organized-crime essay and later *Coercion, Capital
+- [[etienne-de-la-boetie|Étienne de la Boétie]] - Short author reference for Étienne de la Boétie, the sixteenth-century French humanist whose Discourse of Voluntary Servitude supplies this wiki's foundational account of tyranny as something
+- [[folkways|Folkways]] - Reference guide to W. G. Sumner's Folkways (1906), the classic statement of the we-group/out-group distinction and the coinage of ethnocentrism
+- [[for-a-new-liberty|For a New Liberty]] - Reference guide to Rothbard's movement-level overview of libertarian doctrine, applications, and strategy, now ingested in full text.
+- [[hannah-arendt|Hannah Arendt]] - Author reference for Hannah Arendt, whose works now present in the wiki include Origins, Eichmann in Jerusalem, On Violence, The Human Condition, and On Revolution.
+- [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - Reference guide to Hans-Hermann Hoppe's role in this wiki as a property theorist, Austrian economist, and major bridge from market theory to private-law anarchism.
+- [[max-hillebrand|Max Hillebrand]] - Short author reference for Max Hillebrand as represented in this wiki by *The Praxeology of Privacy*, a Towards Liberty public-domain book connecting Austrian economics
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
+- [[murray-n-rothbard|Murray N. Rothbard]] - Reference guide to Rothbard's place in this wiki as system-builder, economist, anti-state theorist, and movement strategist.
+- [[the-praxeology-of-privacy|The Praxeology of Privacy]] - Reference guide to Max Hillebrand's public-domain v0.2.0 book arguing that privacy is a structural feature of human action and that Austrian theory and cypherpunk implementation converge
+- [[william-f-shughart-ii|William F. Shughart II]] - Short author reference for William F. Shughart II, the American public-choice economist whose Concise Encyclopedia of Economics entry 'Public Choice' supplies this wiki's compact statement
+- [[william-graham-sumner|William Graham Sumner]] - Short author reference for William Graham Sumner, the American sociologist and laissez-faire classical liberal whose Folkways supplies this wiki's we-group/out-group and ethnocentrism vocabulary.
+- [[cypherpunk|Cypherpunk]] - The wiki's Austrian-libertarian reading of cypherpunk: strong cryptography, anonymous protocols, and verifiable scarcity replacing trusted intermediaries with verifiable rules
 
 ## Sources
 

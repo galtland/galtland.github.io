@@ -56,6 +56,7 @@ That is why [[bitcoin-whitepaper|Bitcoin Whitepaper]] cites Hashcash in its proo
 - [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
+- [[privacy-and-cryptography|Privacy and Cryptography]] - Topic map for the wiki's privacy-and-cryptography thread: Hillebrand's Austrian theory of privacy, Lowery's power-projection thesis, the resistance axiom, state and corporate surveillance, Bitcoin
 
 ## Sources
 

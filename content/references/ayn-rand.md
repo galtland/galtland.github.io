@@ -47,6 +47,8 @@ But she was not an Austrian economist and did not present economic theory in Mis
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, with a gold-versus-fiat warning that aligns with Austrian sound-money even as its value theory differs.
+
 ## Sources
 
 - [Atlas Shrugged (Full Text Aggregate)](https://archive.org/details/atlas-shrugged-35th-anniversary-edition-ayn-rand) - 1957 novel, the fullest statement of her philosophy in fiction

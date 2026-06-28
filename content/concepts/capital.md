@@ -87,6 +87,8 @@ Capital theory is the analytical hinge between Austrian microeconomics and the w
 - [[man-economy-and-state|Man, Economy, and State]] — primary source, esp. Ch. 1 §9 "The Formation of Capital".
 - [[murray-n-rothbard|Murray Rothbard]] — author of the treatment summarized here.
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
+- [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
+- [[austrian-economics-vs-the-chicago-school|Austrian Economics vs. the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 
 ## Sources
 

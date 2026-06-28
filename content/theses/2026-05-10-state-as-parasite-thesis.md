@@ -133,6 +133,19 @@ Considered through the wiki's anarcho-libertarian sources together with Tilly's 
 - [[the-human-condition|The Human Condition]] - reciprocal link.
 - [[violence-vs-power|Violence vs Power]] - reciprocal link.
 - [[the-politics-of-obedience|The Politics of Obedience]] - La Boetie's classic essay on consent, habit, and the fragility of political power once obedience is withdrawn
+- [[albert-jay-nock|Albert Jay Nock]] - Short author reference for Albert Jay Nock, the American essayist and Old Right forerunner whose *Our Enemy, the State* transmitted Oppenheimer's state theory into American libertarian anti-statism.
+- [[aleksandr-solzhenitsyn|Aleksandr Solzhenitsyn]] - Short author reference for Aleksandr Solzhenitsyn, Soviet dissident writer and author of *The Gulag Archipelago*. He enters this wiki as a witness to Soviet totalitarianism
+- [[charles-tilly|Charles Tilly]] - Short author reference for Charles Tilly, the American historical sociologist whose 1985 organized-crime essay and later *Coercion, Capital
+- [[franz-oppenheimer|Franz Oppenheimer]] - Short author reference for Franz Oppenheimer, the German sociologist and political economist whose conquest theory of the state and political/economic means distinction fed into Nock, Rothbard
+- [[friedrich-a-hayek|F. A. Hayek]] - Reference guide to Friedrich Hayek's place in this wiki as the second pillar of mature Austrian economics: knowledge-problem theorist, business-cycle theorist
+- [[hannah-arendt|Hannah Arendt]] - Author reference for Hannah Arendt, whose works now present in the wiki include Origins, Eichmann in Jerusalem, On Violence, The Human Condition, and On Revolution.
+- [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - Reference guide to Hans-Hermann Hoppe's role in this wiki as a property theorist, Austrian economist, and major bridge from market theory to private-law anarchism.
+- [[liberalism|Liberalism]] - Reference guide to Mises's short 1927 statement of classical-liberal political economy: private property, peace, free trade, and a strictly limited state defended on consequentialist economic grounds.
+- [[ludwig-von-mises|Ludwig von Mises]] - Reference guide to Ludwig von Mises's place in this wiki as the founder of modern Austrian economics, originator of the economic-calculation argument
+- [[lysander-spooner|Lysander Spooner]] - Short author reference for Lysander Spooner (1808–1887), the American individualist anarchist, abolitionist, and legal theorist whose Natural Law
+- [[murray-n-rothbard|Murray N. Rothbard]] - Reference guide to Rothbard's place in this wiki as system-builder, economist, anti-state theorist, and movement strategist.
+- [[road-to-serfdom|The Road to Serfdom]] - Reference guide to Hayek's 1944 warning that central economic planning leads to authoritarian rule by destroying the rule of law and the institutions on which liberty depends
+- [[libertarianism|Libertarianism]] - Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, Tilly's protection-racket sociology
 
 ## Sources
 
