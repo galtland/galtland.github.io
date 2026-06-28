@@ -77,6 +77,7 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[john-maynard-keynes|John Maynard Keynes]] - John Maynard Keynes (1883-1946), founder of modern macroeconomics; author of The General Theory (1936) — the Keynesian counterpoint to the wiki's Austrian sources.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion
+- [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 
 ## Sources
 

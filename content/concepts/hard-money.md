@@ -98,6 +98,7 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 - [[john-nash|John Nash]] - Short author reference for John F. Nash Jr., the mathematician and Nobel laureate whose 'Ideal Money' lectures converge, from outside the Austrian tradition
+- [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 
 ## Sources
 
