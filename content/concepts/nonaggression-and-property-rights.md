@@ -87,6 +87,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]] - Work reference for Walter Block's Journal of Libertarian Studies article (17:2, 2003), the principal libertarian argument against inalienability. Reasoning from self-ownership
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
+- [[open-borders|Open Borders]] - Walter Block's non-aggression-axiom case that peaceful migration is not aggression, so that immigration restriction is the coercive act — the libertarian counter to forced integration.
 
 ## Sources
 

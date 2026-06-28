@@ -91,6 +91,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]] - Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
+- [[open-borders|Open Borders]] - Walter Block's non-aggression-axiom case that peaceful migration is not aggression, so that immigration restriction is the coercive act — the libertarian counter to forced integration.
 
 ## Sources
 
