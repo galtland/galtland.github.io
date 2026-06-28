@@ -32,3 +32,5 @@ Konkin anchors [[agorism-and-counter-economics|Agorism and Counter-Economics]] a
 ## See Also
 
 - [[new-libertarian-manifesto|New Libertarian Manifesto]] - his 1980 founding agorist text
+- [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the concept Konkin anchors
+- [[parallel-economy|The Parallel Economy]] - the counter-economic exit route his program feeds

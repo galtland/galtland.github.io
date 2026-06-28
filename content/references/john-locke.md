@@ -24,6 +24,12 @@ He is the hinge of the tradition — receiving the [[the-rights-of-war-and-peace
 ## See Also
 
 - [[the-second-treatise-of-government|Second Treatise of Government]] - the work present in this wiki
+- [[natural-law-and-natural-order|Natural Law and Natural Order]] - the lineage Locke is the keystone of as libertarians receive it
+- [[hugo-grotius|Hugo Grotius]] - the predecessor whose secularized natural law Locke inherits
+- [[thomas-aquinas|Thomas Aquinas]] - the Scholastic root of the tradition Locke modernizes
+- [[thomas-paine|Thomas Paine]] - the radical who turns Lockean rights into a popular revolutionary creed
+- [[lysander-spooner|Lysander Spooner]] - the heir who pushes Locke's premises toward anarchism
+- [[murray-n-rothbard|Murray N. Rothbard]] - the heir who carries the natural-rights premises furthest
 
 ## Sources
 

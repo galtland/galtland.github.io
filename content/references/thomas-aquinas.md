@@ -24,6 +24,10 @@ He synthesizes [[aristotle-politics|Aristotle]] and the Ciceronian/Roman natural
 ## See Also
 
 - [[aquinas-treatise-on-law|Treatise on Law]] - the work present in this wiki
+- [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition Aquinas is the medieval pillar of
+- [[aristotle|Aristotle]] - the philosophical source Aquinas fuses with Christian theology
+- [[hugo-grotius|Hugo Grotius]] - the jurist who secularizes the natural law Aquinas systematized
+- [[john-locke|John Locke]] - the modern heir who turns the tradition toward individual rights
 
 ## Sources
 

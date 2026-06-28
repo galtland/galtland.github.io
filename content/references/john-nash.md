@@ -32,3 +32,5 @@ Nash anchors the non-Austrian wing of [[ideal-money|Ideal Money]]: a mathematici
 ## See Also
 
 - [[ideal-money-and-asymptotically-ideal-money|Ideal Money and Asymptotically Ideal Money]] - his lecture present in the wiki
+- [[ideal-money|Ideal Money]] - the concept whose non-Austrian wing Nash anchors
+- [[hard-money|Hard Money]] - the sound-money lineage the wiki reads Nash alongside

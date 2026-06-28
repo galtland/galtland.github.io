@@ -36,6 +36,7 @@ The Declaration is where the wiki's natural-law lineage becomes practice. It dra
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's theory the Declaration applies
 - [[rights-of-man|Rights of Man]] - Paine's revolutionary defense of the same natural-rights creed
 - [[lysander-spooner|Lysander Spooner]] - later individualist who turned the Declaration's premises against the state it founded
+- [[thomas-paine|Thomas Paine]] - Short author reference for Thomas Paine (1737–1809), the Anglo-American revolutionary pamphleteer whose Common Sense helped spark the American Revolution and whose Rights of Man carried
 
 ## Sources
 

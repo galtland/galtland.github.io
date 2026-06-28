@@ -78,6 +78,10 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [[declaration-of-independence|The Declaration of Independence]] - the natural-rights tradition as founding political creed
 - [[rights-of-man|Rights of Man]] - Paine's revolutionary radicalization of natural rights
 - [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
+- [[thomas-aquinas|Thomas Aquinas]] - Short author reference for Thomas Aquinas (c. 1225–1274), the Dominican theologian whose Treatise on Law in the Summa Theologica is the most systematic medieval statement of natural law
+- [[hugo-grotius|Hugo Grotius]] - Short author reference for Hugo Grotius (1583–1645), the Dutch jurist whose De Jure Belli ac Pacis secularized natural law and founded modern international law
+- [[john-locke|John Locke]] - Short author reference for John Locke (1632–1704), the English philosopher whose Second Treatise of Government gave the natural-rights tradition its decisive modern form
+- [[thomas-paine|Thomas Paine]] - Short author reference for Thomas Paine (1737–1809), the Anglo-American revolutionary pamphleteer whose Common Sense helped spark the American Revolution and whose Rights of Man carried
 
 ## Sources
 

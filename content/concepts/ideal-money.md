@@ -63,6 +63,7 @@ Nash's text predates and never mentions Bitcoin; the following is the wiki's own
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
+- [[john-nash|John Nash]] - Short author reference for John F. Nash Jr., the mathematician and Nobel laureate whose 'Ideal Money' lectures converge, from outside the Austrian tradition
 
 ## Sources
 

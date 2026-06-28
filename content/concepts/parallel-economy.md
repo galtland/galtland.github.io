@@ -59,6 +59,8 @@ The parallel economy is the cypherpunk-implementation cousin of **agorism / coun
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[samuel-edward-konkin-iii|Samuel Edward Konkin III]] - Short author reference for Samuel Edward Konkin III, the market-anarchist theorist who founded agorism and counter-economics and wrote the New Libertarian Manifesto.
+
 ## Sources
 
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 21 "Building the Parallel Economy" (with chs. 2 and 10 on convergence and the observation loop)

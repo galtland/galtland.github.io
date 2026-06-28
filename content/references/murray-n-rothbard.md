@@ -93,6 +93,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
 - [[rothbard-on-price-controls|Rothbard on Price Controls]] - Rothbard's *Power and Market* claim that an effective maximum price creates a shortage that worsens as supply has time to shift, and that elastic supply aggravates the shortage.
+- [[john-locke|John Locke]] - Short author reference for John Locke (1632–1704), the English philosopher whose Second Treatise of Government gave the natural-rights tradition its decisive modern form
 
 ## Sources
 

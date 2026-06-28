@@ -24,6 +24,9 @@ He stands in the lineage between [[aquinas-treatise-on-law|Aquinas]] and [[the-s
 ## See Also
 
 - [[the-rights-of-war-and-peace|The Rights of War and Peace]] - the work present in this wiki
+- [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition Grotius secularizes and carries to the moderns
+- [[thomas-aquinas|Thomas Aquinas]] - the Scholastic predecessor whose apparatus Grotius inherits and strips of theology
+- [[john-locke|John Locke]] - the heir who receives the Grotian rights-and-contract natural law
 
 ## Sources
 

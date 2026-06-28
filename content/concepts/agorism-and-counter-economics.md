@@ -49,6 +49,8 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[samuel-edward-konkin-iii|Samuel Edward Konkin III]] - Short author reference for Samuel Edward Konkin III, the market-anarchist theorist who founded agorism and counter-economics and wrote the New Libertarian Manifesto.
+
 ## Sources
 
 - [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto) - Konkin's 1980 founding statement of agorism and counter-economics

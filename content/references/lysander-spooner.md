@@ -30,6 +30,8 @@ His argument is that justice is an exact natural science of person and property,
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 - [[declaration-of-independence|The Declaration of Independence]] - the founding creed whose natural-rights premises Spooner turned against the state it created
 - [[rights-of-man|Rights of Man]] - Paine's natural-rights radicalism, adjacent to Spooner's individualist edge
+- [[john-locke|John Locke]] - Short author reference for John Locke (1632–1704), the English philosopher whose Second Treatise of Government gave the natural-rights tradition its decisive modern form
+
 ## Sources
 
 - [Spooner, Natural Law; or The Science of Justice (Full Text)](https://en.wikisource.org/wiki/Natural_Law;_or_The_Science_of_Justice) - the basis for this profile

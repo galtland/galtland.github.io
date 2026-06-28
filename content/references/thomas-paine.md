@@ -24,6 +24,9 @@ Paine is closer to the libertarian tradition than most of the canon — radicall
 ## See Also
 
 - [[rights-of-man|Rights of Man]] - the work present in this wiki
+- [[natural-law-and-natural-order|Natural Law and Natural Order]] - the natural-rights tradition Paine defends against Burke
+- [[john-locke|John Locke]] - the source of the natural-rights theory Paine popularizes
+- [[declaration-of-independence|Declaration of Independence]] - the Lockean charter Paine turned into a mass creed
 
 ## Sources
 

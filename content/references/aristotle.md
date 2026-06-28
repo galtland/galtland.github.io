@@ -25,6 +25,7 @@ The wiki flags the limits honestly: Aristotle reaches *statist* conclusions (the
 
 - [[nicomachean-ethics|Nicomachean Ethics]] - natural vs. conventional justice
 - [[aristotle-politics|Politics]] - the natural teleology of the polis
+- [[thomas-aquinas|Thomas Aquinas]] - Short author reference for Thomas Aquinas (c. 1225–1274), the Dominican theologian whose Treatise on Law in the Summa Theologica is the most systematic medieval statement of natural law
 
 ## Sources
 
