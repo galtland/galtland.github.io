@@ -100,6 +100,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[joseph-t-salerno|Joseph T. Salerno]] - Austrian-school monetary economist in the Mises-Rothbard tradition; Academic Vice President of the Mises Institute and Professor Emeritus of Economics in Pace University's Lubin School of Business.
 - [[the-mystery-of-banking|The Mystery of Banking]] - Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, banking, and central banking — the most accessible statement of the 100%-reserve-banking case and the Rothbardian money-supply
 - [[open-borders|Open Borders]] - Walter Block's non-aggression-axiom case that peaceful migration is not aggression, so that immigration restriction is the coercive act — the libertarian counter to forced integration.
+- [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 
 ## Sources
 

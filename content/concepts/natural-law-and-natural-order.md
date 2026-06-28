@@ -82,6 +82,7 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [[hugo-grotius|Hugo Grotius]] - Short author reference for Hugo Grotius (1583–1645), the Dutch jurist whose De Jure Belli ac Pacis secularized natural law and founded modern international law
 - [[john-locke|John Locke]] - Short author reference for John Locke (1632–1704), the English philosopher whose Second Treatise of Government gave the natural-rights tradition its decisive modern form
 - [[thomas-paine|Thomas Paine]] - Short author reference for Thomas Paine (1737–1809), the Anglo-American revolutionary pamphleteer whose Common Sense helped spark the American Revolution and whose Rights of Man carried
+- [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 
 ## Sources
 

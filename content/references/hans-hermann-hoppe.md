@@ -70,6 +70,7 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] - Hoppe's claim in *Democracy: The God That Failed* that a democratic government caretaker owns only the current use of state resources, not their capital value
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[open-borders|Open Borders]] - Walter Block's non-aggression-axiom case that peaceful migration is not aggression, so that immigration restriction is the coercive act — the libertarian counter to forced integration.
+- [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 
 ## Sources
 

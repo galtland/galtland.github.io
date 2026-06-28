@@ -96,6 +96,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its time-preference level and falsifies entrepreneurial calculation
 - [[joseph-t-salerno|Joseph T. Salerno]] - Austrian-school monetary economist in the Mises-Rothbard tradition; Academic Vice President of the Mises Institute and Professor Emeritus of Economics in Pace University's Lubin School of Business.
 - [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man, Economy, and State that develops the autistic/binary/triangular intervention typology and the systematic
+- [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 
 ## Sources
 
