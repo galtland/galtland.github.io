@@ -24,7 +24,7 @@ Walter E. Block is a libertarian economist. The source article identifies him as
 One Block work is currently present in the wiki — [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]], his *Journal of Libertarian Studies* 17, no. 2 (2003) critique of Rothbard, Barnett, Smith, Kinsella, Gordon, and Epstein. In it Block defends what he calls "full" alienability — that everything a person owns may be sold, including the person himself:
 
 - **The self-ownership argument for alienability** — "if I own something, I can sell it (and should be allowed by law to do so). If I can't sell it, then, and to that extent, I really don't own it."
-- **The conclusion** — "the thesis that voluntary slavery is compatible with libertarianism", a position he concedes is "not well accepted by libertarians" and which, to the best of his knowledge, only Robert Nozick had previously supported.
+- **The conclusion** — "the thesis that voluntary slavery is compatible with libertarianism", a position he concedes is "not well accepted by libertarians" and which, to the best of his knowledge, only [[robert-nozick|Robert Nozick]] had previously supported.
 
 ## Place in This Wiki
 

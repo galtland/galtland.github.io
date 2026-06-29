@@ -4,8 +4,8 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-06-28
-updated: 2026-06-28
-verified: 2026-06-28
+updated: 2026-06-29
+verified: 2026-06-29
 tags: [minarchism, minimal-state, night-watchman-state, ayn-rand, robert-nozick, limited-government, anarcho-capitalism, classical-liberalism, competing-governments]
 aliases: [Minarchism, minarchism, minimal state, night-watchman state, limited government, minarchist]
 short: "The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished. The minimal-state pole of the anarchism-vs-minarchism debate."
@@ -31,11 +31,11 @@ The minarchist answer is not to abolish the monopoly but to chain it — with a 
 
 ## The academic landmark: Nozick
 
-The most influential *academic* statement of minarchism is Robert Nozick's *Anarchy, State, and Utopia* (1974), which helped bring libertarianism into professional political philosophy. Nozick argued — against the anarchist — that a minimal state could emerge from a stateless order without anyone's rights being violated along the way, and — against the egalitarian — that maintaining any preferred distribution of holdings requires continual interference with voluntary exchange. (The wiki does not yet hold the text; his arguments are noted here as the landmark of the position rather than summarized from source, and a fuller treatment awaits ingesting the book.)
+The most influential *academic* statement of minarchism is [[robert-nozick|Robert Nozick]]'s ([Robert Nozick](../references/robert-nozick.md)) [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] (1974). Against the anarchist, Nozick argued that a minimal state could emerge from a stateless order of private protective agencies by an "invisible-hand" process without anyone's rights being deliberately violated, concluding that "a minimal state, limited to the narrow functions of protection against force, theft, fraud, enforcement of contracts, and so on, is justified", and that any more extensive one is not. Against the egalitarian, his entitlement theory of justice and the **Wilt Chamberlain** argument hold that preserving any preferred distribution of holdings requires continuous interference with voluntary exchange — that liberty upsets patterns.
 
 ## Why minarchists reject anarchism
 
-For the minarchist, anarcho-capitalism's competing private defense agencies are not a freer market in protection but a recipe for either war or a re-emergent state. Rand pressed the point bluntly — the only service a government offers is the "forcible restraint of men," and she asks: "Ask yourself what a competition in forcible restraint would have to mean." Law, the minarchist argues, must be single and final within a territory, or competing governments simply become warring gangs until one prevails — at which point the state has reconstituted itself.
+For the minarchist, anarcho-capitalism's competing private defense agencies are not a freer market in protection but a recipe for either war or a re-emergent state. Rand pressed the point bluntly — the only service a government offers is the "forcible restraint of men", and she asks: "Ask yourself what a competition in forcible restraint would have to mean." Law, the minarchist argues, must be single and final within a territory, or competing governments simply become warring gangs until one prevails — at which point the state has reconstituted itself.
 
 ## The anarcho-capitalist reply
 
@@ -43,12 +43,14 @@ The wiki's larger an-cap material presses the opposite case. On the anarcho-capi
 
 ## Where it stands in this wiki
 
-Most of this corpus argues from the anarcho-capitalist side; minarchism is the position that side is arguing *against*, and it deserves its own node. It marks the boundary the wiki's radicalism crosses — the difference between cutting the state to its protective core and denying that a legitimate state can exist at all — and it names the classical-liberal and Objectivist tradition — Rand, Nozick, and classical liberals such as [[ludwig-von-mises|Mises]] and [[milton-friedman|Friedman]] — that stops at the minimal state rather than going all the way to private law.
+Most of this corpus argues from the anarcho-capitalist side; minarchism is the position that side is arguing *against*, and it deserves its own node. It marks the boundary the wiki's radicalism crosses — the difference between cutting the state to its protective core and denying that a legitimate state can exist at all — and it names the broader classical-liberal and Objectivist orbit — Rand and Nozick, and limited-government liberals such as [[ludwig-von-mises|Mises]] and [[milton-friedman|Friedman]] — that does not go all the way to private law.
 
 ## See Also
 
 - [[ayn-rand|Ayn Rand]] - the canonical modern statement of the rights-protecting minimal state
 - [[the-virtue-of-selfishness|The Virtue of Selfishness]] - “The Nature of Government,” the source text
+- [[robert-nozick|Robert Nozick]] - the philosopher who gave minarchism its academic statement
+- [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] - Nozick's 1974 book: the minimal state, entitlement theory, and Wilt Chamberlain
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the anarcho-capitalist alternative minarchism rejects
 - [[the-production-of-security|The Production of Security]] - Molinari's case that even defense can be supplied without a monopoly state
 - [[private-security-and-insurance|Private Security and Insurance]] - the market mechanism the an-cap reply relies on
@@ -58,3 +60,4 @@ Most of this corpus argues from the anarcho-capitalist side; minarchism is the p
 ## Sources
 
 - [The Virtue of Selfishness (Full Text Aggregate)](https://archive.org/details/the-virtue-of-selfishness-ayn-rand) - Ayn Rand's “The Nature of Government”: the rights-protecting purpose of the state, government as a dangerous legal monopoly on force, and the rejection of "competing governments"
+- **Anarchy, State, and Utopia (Full Text Aggregate)** - Nozick's minimal-state summary, the invisible-hand justification, the entitlement theory, and the Wilt Chamberlain argument
