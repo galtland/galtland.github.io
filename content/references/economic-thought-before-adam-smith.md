@@ -38,6 +38,8 @@ This book is where the wiki's [[natural-law-and-natural-order|natural-law]] spin
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition the book ties to the origins of economics
 - [[austrian-economics|Austrian Economics]] - the school whose prehistory this book traces
 - [[hard-money|Hard Money]] - the sound-money lineage the book traces back to the scholastic quantity theory and anti-debasement arguments
+- [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
+- [[richard-cantillon|Richard Cantillon]] - Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
 
 ## Sources
 

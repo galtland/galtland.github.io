@@ -37,3 +37,4 @@ Ammous is a load-bearing modern source for the monetary thread, not a node in th
 - [[the-fiat-standard|The Fiat Standard]] - 2021; fiat as engineered debt-money
 - [[principles-of-economics-ammous|Principles of Economics]] - 2023; the Austrian textbook
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
+- [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.

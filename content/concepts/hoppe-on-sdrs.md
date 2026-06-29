@@ -51,6 +51,7 @@ The claim is narrower than a theory of international monetary law, and it is a s
 - [[evolution-of-the-state|Evolution of the State]] - the drive toward larger political units that the monetary argument parallels
 - [[state-power-and-intervention|State Power and Intervention]] - broader intervention frame
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - focused article on discretion replacing predictable limits
+- [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 
 ## Sources
 

@@ -75,6 +75,8 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 - [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
+- [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
+- [[richard-cantillon|Richard Cantillon]] - Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
 
 ## Sources
 

@@ -99,6 +99,7 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 - [[john-nash|John Nash]] - Short author reference for John F. Nash Jr., the mathematician and Nobel laureate whose 'Ideal Money' lectures converge, from outside the Austrian tradition
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
+- [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 
 ## Sources
 

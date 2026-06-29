@@ -102,6 +102,8 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[open-borders|Open Borders]] - Walter Block's non-aggression-axiom case that peaceful migration is not aggression, so that immigration restriction is the coercive act — the libertarian counter to forced integration.
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
+- [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
+- [[richard-cantillon|Richard Cantillon]] - Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
 
 ## Sources
 
