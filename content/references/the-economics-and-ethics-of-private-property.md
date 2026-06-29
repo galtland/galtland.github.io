@@ -35,8 +35,7 @@ In the current graph, [[a-theory-of-socialism-and-capitalism|A Theory of Sociali
 
 For the specific sales-tax question, this book's taxation chapter states that "no amount of any tax can be shifted onto consumers." The surrounding argument is that forward shifting would require taxation to leave production untouched, and Hoppe treats that as logically impossible.
 
-The underlying raw passage is here:
-[The Economics and Sociology of Taxation](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub)
+The underlying passage is Chapter 2 of the full text, [“The Economics and Sociology of Taxation”](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub).
 
 ## See Also
 
