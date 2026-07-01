@@ -40,6 +40,8 @@ Because the essay is short, it does not cover as much terrain as [[murray-n-roth
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis applying Bastiat's legalized-plunder reading to rent controls
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the natural-rights tradition behind Bastiat's principle that law defends pre-existing rights
+- [[the-seen-and-the-unseen|The Seen and the Unseen]] - Bastiat's principle that sound economics reckons with the unseen — the foregone alternatives a policy destroys — not only its visible effect; the broken-window fallacy is its most famous illustration.
+- [[frederic-bastiat|Frédéric Bastiat]] - French classical-liberal economist and pamphleteer (1801–1850): the wittiest expositor of free trade, and the originator of the seen-and-the-unseen and the broken-window fallacy.
 
 ## Sources
 

@@ -41,6 +41,8 @@ The comparative-advantage case is one of the most settled results in economics, 
 - [[political-means-and-economic-means|Political Means and Economic Means]] - the coercion-vs-exchange distinction a tariff violates
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs the Labor Theory of Value]] - the value theory the comparative-cost theorem is independent of
 - [[non-interventionism|Non-Interventionism]] - the foreign-policy analogue of the open-trade principle
+- [[the-seen-and-the-unseen|The Seen and the Unseen]] - Bastiat's principle that sound economics reckons with the unseen — the foregone alternatives a policy destroys — not only its visible effect; the broken-window fallacy is its most famous illustration.
+- [[frederic-bastiat|Frédéric Bastiat]] - French classical-liberal economist and pamphleteer (1801–1850): the wittiest expositor of free trade, and the originator of the seen-and-the-unseen and the broken-window fallacy.
 
 ## Sources
 

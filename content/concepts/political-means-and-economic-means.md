@@ -93,6 +93,8 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[open-borders|Open Borders]] - Walter Block's non-aggression-axiom case that peaceful migration is not aggression, so that immigration restriction is the coercive act — the libertarian counter to forced integration.
 - [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - The economic case for free trade: by comparative advantage, even a party worse at producing everything gains by specializing where it is relatively best and trading
+- [[the-seen-and-the-unseen|The Seen and the Unseen]] - Bastiat's principle that sound economics reckons with the unseen — the foregone alternatives a policy destroys — not only its visible effect; the broken-window fallacy is its most famous illustration.
+- [[frederic-bastiat|Frédéric Bastiat]] - French classical-liberal economist and pamphleteer (1801–1850): the wittiest expositor of free trade, and the originator of the seen-and-the-unseen and the broken-window fallacy.
 
 ## Sources
 
