@@ -15,21 +15,21 @@ confidence: high
 
 # The Seen and the Unseen
 
-> [[frederic-bastiat|Frédéric Bastiat]]'s principle is that good economics looks past the visible effect of an act or policy to its *unseen* consequences — above all the alternatives it forecloses. Its most famous illustration is the broken-window fallacy: when a shopkeeper's window is smashed, the glazier's new work is *seen*, but the shoes or books the shopkeeper can now no longer buy are *unseen*, and the destruction is a net loss disguised as a benefit. It is opportunity cost made vivid, and the analytic core of the libertarian case against make-work spending, protectionism, and every "destruction creates jobs" argument.
+> [[frederic-bastiat|Frédéric Bastiat]]'s principle is that good economics looks past the visible effect of an act or policy to its *unseen* consequences — above all the alternatives it forecloses. Its most famous illustration is the broken-window fallacy: when a shopkeeper's window is smashed, the glazier's new work is *seen*, but the shoes or books the shopkeeper can now no longer buy are *unseen*, and the destruction is a net loss disguised as a benefit. It is opportunity cost made vivid, and the analytic core of the libertarian case against make-work spending, protectionism, and every argument that destruction creates jobs.
 
 ## The principle
 
-In his 1850 essay *That Which Is Seen, and That Which Is Not Seen*, Bastiat draws the distinction that gives the concept its name: an act produces one immediate, visible effect and a series of later effects that must be foreseen rather than seen. The difference between good and bad economics, he argues, is whether one reckons with both.
+In his 1850 essay “That Which Is Seen, and That Which Is Not Seen,” Bastiat draws the distinction that gives the concept its name: an act produces one immediate, visible effect and a series of later effects that must be foreseen rather than seen. The difference between good and bad economics, he argues, is whether one reckons with both.
 
-> the one takes account of the visible effect; the other takes account both of the effects which are seen and also of those which it is necessary to foresee.
+> …the one takes account of the visible effect; the other takes account both of the effects which are seen and also of those which it is necessary to foresee.
 >
-> — Frédéric Bastiat, *That Which Is Seen, and That Which Is Not Seen*
+> — [[frederic-bastiat|Frédéric Bastiat]], “That Which Is Seen, and That Which Is Not Seen”
 
-The trap is that the seen effect is concrete and immediate while the unseen effects are diffuse and hypothetical — so bad policy, and bad economics, systematically over-weight what is visible. "It is well for us," Bastiat writes, "if they are foreseen."
+The trap is that the seen effect is concrete and immediate while the unseen effects are diffuse and hypothetical — so bad policy, and bad economics, systematically over-weight what is visible. Bastiat writes that "it is well for us if they are foreseen."
 
 ## The broken window
 
-The parable is the essay's opening. A shopkeeper's careless son breaks a pane of glass; the bystanders console him that the accident at least gives the glazier six francs of work, and so "circulates" money. That six francs of glazier's income, Bastiat grants, "is that which is seen." But it is only half the account. Had the window not been broken, the shopkeeper would have put the same six francs to some other use of his own — an exchange that now never happens. That foregone purchase is the unseen. Society has not gained the glazier's work; it has merely *lost* whatever the shopkeeper would otherwise have bought, and is down one window. Destruction does not enrich; it only redistributes the seen while hiding the loss.
+The parable is the essay's opening. A shopkeeper's careless son breaks a pane of glass; the bystanders console him that the accident at least gives the glazier six francs of work, and so keeps money in circulation. That six francs of glazier's income, Bastiat grants, "is that which is seen." But it is only half the account. Had the window not been broken, the shopkeeper would have put the same six francs to some other use of his own — an exchange that now never happens. That foregone purchase is the unseen. Society has not gained the glazier's work; it has merely *lost* whatever the shopkeeper would otherwise have bought, and is down one window. Destruction does not enrich; it only redistributes the seen while hiding the loss.
 
 ## Opportunity cost, and where it applies
 
@@ -37,7 +37,7 @@ The seen-and-the-unseen is opportunity cost dramatized: every use of scarce reso
 
 ## Hazlitt and the tradition
 
-Bastiat's insight became the founding move of one of the most widely read works of popular economics, Henry Hazlitt's *Economics in One Lesson* (1946). Hazlitt's "one lesson" is Bastiat's generalized: that the good economist traces *all* the effects of a policy, on all groups, not merely the immediate effect on one — the whole book is a march of the seen-and-the-unseen through modern policy. Through Hazlitt the principle became a staple of the twentieth-century free-market case, and it remains the wiki's standard reply to fallacies that count only the visible beneficiary.
+Bastiat's insight is the acknowledged starting point of Henry Hazlitt's *Economics in One Lesson* (1946), the best-known modern popularization of the seen-and-the-unseen. (The wiki does not hold Hazlitt's text, which is still in copyright, and treats it here as a pointer rather than a source.) The principle remains the wiki's standard reply to fallacies that count only the visible beneficiary and ignore the foregone alternative.
 
 ## Where it fits, and its limits
 
@@ -49,7 +49,7 @@ The seen-and-the-unseen is a discipline of attention rather than a full theory: 
 - [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - the seen (protected job) and unseen (foregone gains) of trade policy
 - [[political-means-and-economic-means|Political Means and Economic Means]] - why the political means moves wealth toward the seen beneficiary rather than creating it
 - [[the-law|The Law]] - Bastiat's companion essay on legal plunder
-- [[rothbards-taxonomy-of-intervention|Rothbard's Taxonomy of Intervention]] - the interventions whose unseen costs the principle exposes
+- [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - the interventions whose unseen costs the principle exposes
 
 ## Sources
 
