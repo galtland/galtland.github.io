@@ -171,6 +171,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
 - [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility
+- [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 
 ## Sources
 

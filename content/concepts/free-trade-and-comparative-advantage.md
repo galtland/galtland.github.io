@@ -43,6 +43,7 @@ The comparative-advantage case is exceptionally robust, and the objections clust
 - [[non-interventionism|Non-Interventionism]] - the foreign-policy analogue of the open-trade principle
 - [[the-seen-and-the-unseen|The Seen and the Unseen]] - Bastiat's principle that sound economics reckons with the unseen — the foregone alternatives a policy destroys — not only its visible effect; the broken-window fallacy is its most famous illustration.
 - [[frederic-bastiat|Frédéric Bastiat]] - French classical-liberal economist and pamphleteer (1801–1850): the wittiest expositor of free trade, and the originator of the seen-and-the-unseen and the broken-window fallacy.
+- [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 
 ## Sources
 

@@ -50,6 +50,7 @@ The seen-and-the-unseen is a discipline of attention rather than a full theory: 
 - [[political-means-and-economic-means|Political Means and Economic Means]] - why the political means moves wealth toward the seen beneficiary rather than creating it
 - [[the-law|The Law]] - Bastiat's companion essay on legal plunder
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - the interventions whose unseen costs the principle exposes
+- [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 
 ## Sources
 

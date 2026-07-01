@@ -104,6 +104,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 - [[richard-cantillon|Richard Cantillon]] - Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
+- [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 
 ## Sources
 
