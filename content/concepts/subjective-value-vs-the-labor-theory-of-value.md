@@ -136,6 +136,7 @@ In the history of economic thought the displacement was decisive: after the 1870
 - [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]] — Böhm-Bawerk's argument that Marx's Volume I value theory contradicts the Volume III theory of prices.
 - [[ludwig-von-mises|Ludwig von Mises]] — generalized subjective value into the praxeological theory of action.
 - [[human-action|Human Action]] — Mises's treatment of value, marginal utility, and the paradox of value.
+- [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - The economic case for free trade: by comparative advantage, even a party worse at producing everything gains by specializing where it is relatively best and trading
 
 ## Sources
 

@@ -92,6 +92,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]] - Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[open-borders|Open Borders]] - Walter Block's non-aggression-axiom case that peaceful migration is not aggression, so that immigration restriction is the coercive act — the libertarian counter to forced integration.
+- [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - The economic case for free trade: by comparative advantage, even a party worse at producing everything gains by specializing where it is relatively best and trading
 
 ## Sources
 

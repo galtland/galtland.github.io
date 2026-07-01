@@ -50,6 +50,8 @@ This is the *normative* libertarian argument (who may justly use force), distinc
 
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
+- [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - The economic case for free trade: by comparative advantage, even a party worse at producing everything gains by specializing where it is relatively best and trading
+
 ## Sources
 
 - [War, Peace, and the State](https://mises.org/library/war-peace-and-state) - Rothbard's 1963 essay; the non-aggression axiom applied to war, the taxpayer-aggression argument, and the non-intervention objective
