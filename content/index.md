@@ -2,12 +2,14 @@
 
 > Where Austrian economics meets cypherpunk code. Political philosophy, monetary theory, cryptography, history, and the arguments that bind them. Published at https://index.galtland.org/.
 
-Last updated: 2026-06-28
+**New here? → [Start Here](topics/start-here.md)** — a plain-language tour of the whole wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to read next. No background assumed.
+
+Last updated: 2026-07-01
 
 ## Statistics
 
 - Sources: 165 raw documents (+ 4 news-lens items)
-- Articles: 279 compiled wiki articles (115 concepts, 152 references, 7 theses, 5 topics)
+- Articles: 280 compiled wiki articles (115 concepts, 152 references, 7 theses, 6 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-26
 - Last lint: 2026-06-26
@@ -15,6 +17,7 @@ Last updated: 2026-06-28
 
 ## Quick Navigation
 
+- **[Start Here](topics/start-here.md)** — new-reader introduction to the whole wiki
 - [Concepts](concepts/)
 - [Topics](topics/):
   - [Austrian Economics](topics/austrian-economics.md)

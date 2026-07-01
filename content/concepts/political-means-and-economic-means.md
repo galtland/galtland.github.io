@@ -95,6 +95,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - The economic case for free trade: by comparative advantage, even a party worse at producing everything gains by specializing where it is relatively best and trading
 - [[the-seen-and-the-unseen|The Seen and the Unseen]] - Bastiat's principle that sound economics reckons with the unseen — the foregone alternatives a policy destroys — not only its visible effect; the broken-window fallacy is its most famous illustration.
 - [[frederic-bastiat|Frédéric Bastiat]] - French classical-liberal economist and pamphleteer (1801–1850): the wittiest expositor of free trade, and the originator of the seen-and-the-unseen and the broken-window fallacy.
+- [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
 
 ## Sources
 
