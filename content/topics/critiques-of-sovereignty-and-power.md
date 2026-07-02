@@ -47,6 +47,7 @@ This topic sits beside, not inside, libertarian doctrine. [[state-power-and-inte
 - [[biopower|Biopower]] - Foucault concept
 - [[libertarianism|Libertarianism]] - reciprocal link.
 - [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
+- [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 
 ## Sources
 

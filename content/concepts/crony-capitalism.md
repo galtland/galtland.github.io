@@ -72,6 +72,7 @@ There is also a genuine boundary problem: in a heavily regulated economy almost 
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
+- [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 
 ## Sources
 

@@ -151,6 +151,7 @@ Liberty does not win by out-uniting nationalism on its own ground; it cannot. If
 - [[william-f-shughart-ii|William F. Shughart II]] - Short author reference for William F. Shughart II, the American public-choice economist whose Concise Encyclopedia of Economics entry 'Public Choice' supplies this wiki's compact statement
 - [[william-graham-sumner|William Graham Sumner]] - Short author reference for William Graham Sumner, the American sociologist and laissez-faire classical liberal whose Folkways supplies this wiki's we-group/out-group and ethnocentrism vocabulary.
 - [[cypherpunk|Cypherpunk]] - The wiki's Austrian-libertarian reading of cypherpunk: strong cryptography, anonymous protocols, and verifiable scarcity replacing trusted intermediaries with verifiable rules
+- [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 
 ## Sources
 

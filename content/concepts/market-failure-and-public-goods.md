@@ -63,6 +63,7 @@ The libertarian replies are strongest on natural monopoly (historically a statut
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - the dispute over perfect competition as the benchmark of efficiency
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the property-rights reading of externalities
 - [[capitalism|Capitalism]] - the market order whose alleged failures this entry weighs
+- [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 
 ## Sources
 

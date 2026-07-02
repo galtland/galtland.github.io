@@ -158,6 +158,7 @@ The Chicago School is a principal free-market rival to the Austrian program, so 
 - [[human-action|Human Action]] — Mises source volume
 - [[americas-great-depression|America's Great Depression]] — Rothbard source volume and the direct critique of Friedman on the 1920s
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
+- [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 
 ## Sources
 
