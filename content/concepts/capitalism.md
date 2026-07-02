@@ -86,6 +86,7 @@ There is also an internal libertarian dispute the entry does not resolve: whethe
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's rights-based defense and the "unknown ideal" thesis
 - [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]] - Böhm-Bawerk's refutation of the exploitation theory
 - [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
+- [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 
 ## Sources
 

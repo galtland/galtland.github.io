@@ -157,6 +157,7 @@ The Chicago School is a principal free-market rival to the Austrian program, so 
 - [[inflation-and-unemployment|Inflation and Unemployment]] — Friedman's 1976 Nobel lecture on the natural rate; develops the monetarist method this article contrasts with praxeology
 - [[human-action|Human Action]] — Mises source volume
 - [[americas-great-depression|America's Great Depression]] — Rothbard source volume and the direct critique of Friedman on the 1920s
+- [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 
 ## Sources
 
