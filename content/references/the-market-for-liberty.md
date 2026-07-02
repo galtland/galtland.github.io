@@ -38,6 +38,7 @@ In this corpus, the Tannehills do for institutions what [[murray-n-rothbard|Roth
 - [[libertarianism|Libertarianism]] - broader doctrine that this book radicalizes institutionally
 - [[state-power-and-intervention|State Power and Intervention]] - critique to which this book supplies a constructive alternative
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 
 ## Sources
 

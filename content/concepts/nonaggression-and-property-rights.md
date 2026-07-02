@@ -95,6 +95,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] - Robert Nozick's 1974 book — the landmark academic defense of the libertarian minimal state, the entitlement theory of justice, and the case against patterned distribution.
 - [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 
 ## Sources
 

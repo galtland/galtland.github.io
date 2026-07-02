@@ -56,6 +56,7 @@ Most of this corpus argues from the anarcho-capitalist side; minarchism is the p
 - [[private-security-and-insurance|Private Security and Insurance]] - the market mechanism the an-cap reply relies on
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the premise both sides share and dispute the implications of
 - [[stateless-somalia|Stateless Somalia]] - a case study in the empirical half of the same debate
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 
 ## Sources
 

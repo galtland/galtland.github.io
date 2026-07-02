@@ -29,6 +29,7 @@ He occupies a precise position in the libertarian field. Against the individuali
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the anarchist alternative his minimal-state argument answers
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the rights-first premises he shares with the rest of the tradition
 - [[ayn-rand|Ayn Rand]] - the other major modern statement of the rights-protecting minimal state
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 
 ## Sources
 

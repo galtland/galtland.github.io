@@ -45,6 +45,7 @@ For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the cou
 - [[murray-n-rothbard|Murray N. Rothbard]] - author of the 1977 preface; principal modern heir to Molinari's argument
 - [[libertarianism|Libertarianism]] - broader doctrinal context
 - [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 
 ## Sources
 

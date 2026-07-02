@@ -42,6 +42,7 @@ The book is the academic anchor of [[minarchism|minarchism]] and the principal p
 - [[minarchism|Minarchism]] - the position the book anchors
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the anarchist alternative Part I argues against
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the rights premises the entitlement theory builds on
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 
 ## Sources
 
