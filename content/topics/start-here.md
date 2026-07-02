@@ -22,6 +22,8 @@ This is a library with a point of view. It is built from primary sources — the
 
 Everything here circles one distinction: the difference between dealing with people **voluntarily** — trade, persuasion, agreement — and dealing with them by **force** — command, confiscation, threat. [[franz-oppenheimer|Franz Oppenheimer]] called these the [[political-means-and-economic-means|economic means and the political means]]: you can get what you want by *producing and exchanging*, or by *taking*. The moral rule that follows — don't start force against peaceful people or their property — is the [[nonaggression-and-property-rights|non-aggression principle]]. Hold those two ideas and the rest of the wiki falls into place.
 
+The economic system built on the economic means — private property and voluntary exchange — is [[capitalism|capitalism]], and it may be the most misunderstood word here. People routinely take it to mean the opposite of what it is: the [[crony-capitalism|crony capitalism]] of firms that buy privilege from the state, or the fraud, dishonesty, and greed that an honest market actually forbids and punishes. Sorting out what capitalism *is* — and what it is *not* — is one of the first things this wiki sets out to do.
+
 ## The three threads, from zero
 
 ### 1. Austrian economics — how order happens with no one in charge
@@ -58,7 +60,7 @@ They are one argument in three registers. Austrian economics explains *why* soun
 
 Pick the path that fits you:
 
-- **Curious, have 15 minutes:** [[the-seen-and-the-unseen|The Seen and the Unseen]] → [[nonaggression-and-property-rights|Nonaggression and Property Rights]] → [[bitcoin|Bitcoin]].
+- **Curious, have 15 minutes:** [[capitalism|Capitalism]] → [[the-seen-and-the-unseen|The Seen and the Unseen]] → [[nonaggression-and-property-rights|Nonaggression and Property Rights]] → [[bitcoin|Bitcoin]].
 - **The economics:** [[austrian-economics|Austrian Economics]] → [[praxeology|Praxeology]] → [[economic-calculation-problem|Economic Calculation Problem]] → [[austrian-business-cycle-theory|Austrian Business-Cycle Theory]].
 - **The politics:** [[libertarianism|Libertarianism]] → [[political-means-and-economic-means|Political Means and Economic Means]] → [[state-power-and-intervention|State Power and Intervention]] → [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
 - **The code and the money:** [[cypherpunk|Cypherpunk]] → [[crypto-anarchy|Crypto Anarchy]] → [[proof-of-work|Proof of Work]] → [[hard-money|Hard Money]].
@@ -77,6 +79,7 @@ Four kinds of page: **Concepts** explain a single idea; **References** describe 
 - [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - non-libertarian critics of state power, for contrast
 - [[political-means-and-economic-means|Political Means and Economic Means]] - the produce-versus-take distinction underneath the whole wiki
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the one moral rule the corpus keeps returning to
+- [[capitalism|Capitalism]] - what capitalism is and, just as important, what it is not (crony capitalism, fraud, exploitation)
 
 ## Sources
 

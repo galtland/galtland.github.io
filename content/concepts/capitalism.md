@@ -85,6 +85,7 @@ There is also an internal libertarian dispute the entry does not resolve: whethe
 - [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - Hoppe's property-based contrast of the two systems
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's rights-based defense and the "unknown ideal" thesis
 - [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]] - Böhm-Bawerk's refutation of the exploitation theory
+- [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
 
 ## Sources
 
