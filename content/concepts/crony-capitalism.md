@@ -47,6 +47,10 @@ Rothbard's [[intervention-taxonomy|taxonomy of intervention]] locates cronyism p
 
 Cronyism survives politically because its beneficiaries are visible and its victims are not — an instance of Bastiat's [[the-seen-and-the-unseen|seen and the unseen]]. The saved factory, the protected jobs, and the rescued bank are *seen*, and their beneficiaries are grateful and vocal. The higher prices every consumer pays, the competitors barred from the field, the start-ups that never form because the licensing wall is too high, and the more productive uses the subsidized capital never found are *unseen*, and their victims are dispersed and silent. The whole case against crony capitalism, in the libertarian telling, is the case for counting the unseen.
 
+## Rand's aristocracy of pull
+
+Crony capitalism has a sustained portrait in fiction. [[ayn-rand|Ayn Rand]]'s [[atlas-shrugged|Atlas Shrugged]] dramatizes a country run by what she calls the *aristocracy of pull* — an order in which men like the railroad heir James Taggart and the steel magnate Orren Boyle prosper not by out-producing their rivals but by working Washington for favors and for hobbling legislation such as the Equalization of Opportunity Bill, while the actual producers are bled to keep them afloat. The phrase names the exact substitution at the heart of this article: political *pull* in place of productive achievement — an aristocracy of favor replacing an aristocracy of earned money. In [[franciscos-money-speech|Francisco d'Anconia's money speech]] Rand compresses the diagnosis into a warning: the mark of a doomed society is the day when "men get richer by graft and by pull than by work" — when the law comes to shield the grafters rather than their victims. It is Bastiat's legal plunder and Rothbard's grant of privilege, rendered as a novel.
+
 ## Where it is contested
 
 The concept is not without critics, and the disputes are worth stating plainly.
@@ -68,6 +72,9 @@ There is also a genuine boundary problem: in a heavily regulated economy almost 
 - [[power-and-market|Power and Market]] - Rothbard's analysis of monopoly grants and government intervention
 - [[frederic-bastiat|Frédéric Bastiat]] - author of the legal-plunder analysis
 - [[murray-n-rothbard|Murray N. Rothbard]] - author of the monopoly-grant analysis
+- [[atlas-shrugged|Atlas Shrugged]] - Rand's novel of the "aristocracy of pull," a sustained dramatization of crony capitalism
+- [[franciscos-money-speech|Francisco's Money Speech]] - the money-as-barometer diagnosis of a society where men get rich by graft and pull rather than work
+- [[ayn-rand|Ayn Rand]] - author of the aristocracy-of-pull portrait
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
@@ -82,3 +89,4 @@ There is also a genuine boundary problem: in a heavily regulated economy almost 
 - [Public Choice (Econlib Concise Encyclopedia)](https://www.econlib.org/library/Enc/PublicChoice.html) - the rent-seeking and concentrated-benefits/dispersed-costs account of why privilege is systematically supplied
 - [Essays on Political Economy (Full Text Aggregate)](https://www.gutenberg.org/ebooks/15962 (Project Gutenberg); public-domain 19th-century English translation; SHA-256 1b4ca6a2ae3370f35f4e76b87721342ca79214e4d090becfaf6cbb7b2aed0e12) - Bastiat's seen-and-the-unseen essay: the visible-beneficiary / invisible-victim logic that lets privilege survive
 - [The Case Against the Fed (Full Text Aggregate)](https://mises.org/library/case-against-fed) - Rothbard on the Federal Reserve as a government-sponsored banking cartel and the bailout of connected banks
+- [Atlas Shrugged (Full Text Aggregate)](https://archive.org/details/atlas-shrugged-35th-anniversary-edition-ayn-rand) - Rand's "aristocracy of pull," the pull-peddling of James Taggart and Orren Boyle, and Francisco's diagnosis of men who "get richer by graft and by pull than by work"

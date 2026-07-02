@@ -67,6 +67,7 @@ But the *grounding* differs, and the difference is worth stating. Francisco spea
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's subjective-value monetary theory, contrasted with Rand's objective-value framing
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - trade-versus-force, the speech's political core
 - [[austrian-economics|Austrian Economics]] - the tradition whose sound-money conclusion the speech shares
+- [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 
 ## Sources
 
