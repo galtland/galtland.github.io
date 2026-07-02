@@ -32,6 +32,8 @@ Rees-Mogg is used here only as a co-author of *The Sovereign Individual* and is 
 - [[megapolitics|Megapolitics]] - the theory developed across the authors' trilogy
 - [[the-cybereconomy|The Cybereconomy]] - the borderless-economy forecast central to the book
 
+
+- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - author biography (about-the-authors page), title-page styling, and references to *Strategic Investment*, *Blood in the Streets*, and *The Great Reckoning*

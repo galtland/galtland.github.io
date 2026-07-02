@@ -35,3 +35,4 @@ Konkin anchors [[agorism-and-counter-economics|Agorism and Counter-Economics]] a
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the concept Konkin anchors
 - [[parallel-economy|The Parallel Economy]] - the counter-economic exit route his program feeds
 - [[paul-rosenberg|Paul Rosenberg]] - Engineer, privacy entrepreneur, and writer; author of A Lodging of Wayfaring Men (2007) and Production Versus Plunder; co-founder of Cryptohippie.
+- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink

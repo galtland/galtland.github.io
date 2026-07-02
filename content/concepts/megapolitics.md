@@ -52,6 +52,7 @@ Confidence is low. Megapolitics is a sweeping single-source theory of all of his
 - [[james-dale-davidson|James Dale Davidson]] - co-author who developed the megapolitics theory across the trilogy
 - [[william-rees-mogg|William Rees-Mogg]] - co-author who developed the megapolitics theory across the trilogy
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
+- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 
 ## Sources
 

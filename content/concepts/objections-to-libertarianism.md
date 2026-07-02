@@ -62,3 +62,4 @@ Stated plainly, the corpus's answers are strongest on monopoly (usually a state 
 - [[capitalism|Capitalism]] - the position most of these objections target
 - [[libertarianism|Libertarianism]] - the topic map these objections are aimed at
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - the human-nature and adoption objection
+- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies

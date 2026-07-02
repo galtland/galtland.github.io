@@ -50,6 +50,7 @@ The confidence level is medium because the source is a completed MIT thesis and 
 - [[the-sovereign-individual|The Sovereign Individual]] - Davidson and Rees-Mogg book Softwar cites (ref. 44); its megapolitics frame underlies Lowery's power-projection theory
 - [[megapolitics|Megapolitics]] - the violence-cost theory Lowery quotes and builds the power-projection lens upon
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
+- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 
 ## Sources
 

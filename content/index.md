@@ -8,8 +8,8 @@ Last updated: 2026-07-02
 
 ## Statistics
 
-- Sources: 165 raw documents (+ 4 news-lens items)
-- Articles: 286 compiled wiki articles (121 concepts, 152 references, 7 theses, 6 topics)
+- Sources: 166 raw documents (+ 4 news-lens items)
+- Articles: 287 compiled wiki articles (121 concepts, 152 references, 8 theses, 6 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-26
 - Last lint: 2026-06-26
@@ -29,6 +29,8 @@ Last updated: 2026-07-02
 - [Theses](theses/)
 
 ## Recent Changes
+
+- 2026-07-02: thesis -- added `2026-07-02-bitcoin-frees-the-individual-not-the-collective`; regenerated newsroom indexes and backlinks.
 
 - 2026-06-26: integrity — hardened the quote-integrity gate (`verify-quotes`): fixed three OCR-detection false-positives — large clean EPUBs flagged by an absolute isolated-consonant count, possessive `'s`/contractions counted as garble, and math/code single-letter variables — plus a superseded-provenance edge, taking verbatim-enforced articles from 63 to 181 of 265. Re-extracted or replaced the last OCR-grade sources from clean text: *Road to Serfdom* (pypdf), Pufendorf's *Whole Duty of Man* (Liberty Fund OLL), Friedman's Nobel lecture and the Bitcoin whitepaper (pymupdf, with the math/code fenced), and Böhm-Bawerk's *Karl Marx and the Close of His System* + *Capital and Interest* (clean Mises EPUBs, same translations). Hand-reviewed all 39 remaining copyright-locked-scan quote spans — fixing real misquotes (Nietzsche's "It is a lie!", Arendt's "terror is the essence of totalitarian domination") and de-quoting the article's own framing. Renamed the only non-dated thesis to `2026-05-10-state-as-parasite-thesis` and rewrote its 52 backlinks. No article-count change.
 

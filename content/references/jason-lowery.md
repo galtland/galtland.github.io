@@ -36,6 +36,8 @@ Lowery should not be presented as a libertarian fellow traveler. His thesis argu
 - [[abstract-power-hierarchies|Abstract Power Hierarchies]] - institutional-control concept developed in the thesis
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map where the proof-of-work and Bitcoin implications belong
 
+
+- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
 ## Sources
 
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - title page, abstract, biography, and thesis argument

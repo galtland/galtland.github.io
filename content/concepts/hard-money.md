@@ -100,6 +100,7 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[john-nash|John Nash]] - Short author reference for John F. Nash Jr., the mathematician and Nobel laureate whose 'Ideal Money' lectures converge, from outside the Austrian tradition
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
+- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 
 ## Sources
 

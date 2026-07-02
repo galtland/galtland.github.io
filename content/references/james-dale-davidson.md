@@ -32,6 +32,8 @@ Davidson is not a libertarian theorist in the Austrian sense and is used here on
 - [[megapolitics|Megapolitics]] - the theory developed across the authors' trilogy
 - [[the-cybereconomy|The Cybereconomy]] - the capital-mobility forecast central to the book
 
+
+- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - author biography (about-the-authors page) and references to the earlier *Strategic Investment*, *Blood in the Streets*, and *The Great Reckoning*
