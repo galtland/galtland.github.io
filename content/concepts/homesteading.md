@@ -49,6 +49,7 @@ Homesteading is the foundation the rest of the structure rests on. Self-ownershi
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's source text
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that title must arise from action, not decree
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the rights tradition homesteading belongs to
+- [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
 
 ## Sources
 

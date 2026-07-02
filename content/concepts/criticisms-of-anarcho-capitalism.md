@@ -68,6 +68,7 @@ None of these objections is decisively refuted, and none decisively refutes the 
 - [[crony-capitalism|Crony Capitalism]] - the shared worry that unequal wealth converts into unequal treatment
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the rights premise the invisible-hand debate turns on
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
+- [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
 
 ## Sources
 

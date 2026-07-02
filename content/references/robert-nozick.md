@@ -30,6 +30,7 @@ He occupies a precise position in the libertarian field. Against the individuali
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the rights-first premises he shares with the rest of the tradition
 - [[ayn-rand|Ayn Rand]] - the other major modern statement of the rights-protecting minimal state
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
+- [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
 
 ## Sources
 
