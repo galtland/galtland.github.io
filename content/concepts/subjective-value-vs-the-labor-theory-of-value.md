@@ -137,6 +137,7 @@ In the history of economic thought the displacement was decisive: after the 1870
 - [[ludwig-von-mises|Ludwig von Mises]] — generalized subjective value into the praxeological theory of action.
 - [[human-action|Human Action]] — Mises's treatment of value, marginal utility, and the paradox of value.
 - [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - The economic case for free trade: by comparative advantage, even a party worse at producing everything gains by specializing where it is relatively best and trading
+- [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 
 ## Sources
 

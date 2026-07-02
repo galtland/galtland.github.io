@@ -77,6 +77,7 @@ The theory is deceptively consequential. It reshapes contract law around a singl
 - [[walter-block|Walter Block]] - the dissenting author on alienability
 - [[murray-n-rothbard|Murray N. Rothbard]] - developer of the theory
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - the source text (Ch. 19) where the theory is set out
+- [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 
 ## Sources
 

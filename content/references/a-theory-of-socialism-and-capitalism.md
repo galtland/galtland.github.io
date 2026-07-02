@@ -41,6 +41,7 @@ In the present graph, this book is the compact comparative-systems counterpart t
 - [[socialism|Socialism]] - related work in this corpus
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
+- [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 
 ## Sources
 

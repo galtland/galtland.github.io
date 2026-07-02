@@ -44,6 +44,7 @@ The raw source for this article is a partial, non-official OCR scan (Internet Ar
 - [[austrian-economics|Austrian Economics]] - the economic school Rand admired without adopting its method
 - [[libertarianism|Libertarianism]] - the broader pro-capitalist tradition
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the rights framework underlying the moral case
+- [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 
 ## Sources
 - [Capitalism: The Unknown Ideal (Full Text Aggregate)](https://archive.org/details/CapitalismTheUnknownIdeal) - the 1966 collection; PARTIAL non-official OCR scan (front matter + opening essay only); quote-check against an authorized edition

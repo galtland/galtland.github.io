@@ -68,6 +68,7 @@ There is also a genuine boundary problem: in a heavily regulated economy almost 
 - [[power-and-market|Power and Market]] - Rothbard's analysis of monopoly grants and government intervention
 - [[frederic-bastiat|Frédéric Bastiat]] - author of the legal-plunder analysis
 - [[murray-n-rothbard|Murray N. Rothbard]] - author of the monopoly-grant analysis
+- [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 
 ## Sources
 

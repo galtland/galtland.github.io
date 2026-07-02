@@ -51,6 +51,7 @@ The seen-and-the-unseen is a discipline of attention rather than a full theory: 
 - [[the-law|The Law]] - Bastiat's companion essay on legal plunder
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - the interventions whose unseen costs the principle exposes
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
+- [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 
 ## Sources
 
