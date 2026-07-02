@@ -58,6 +58,10 @@ If the strikers are the novel's heroes, its antagonists are a portrait of [[cron
 - [[libertarianism|Libertarianism]] - the broader tradition the novel influenced
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 - [[crony-capitalism|Crony Capitalism]] - the wiki's concept the novel dramatizes as the "aristocracy of pull"
+- [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
+- [[galts-speech|Galt's Speech]] - The ~60-page radio address near the end of Atlas Shrugged — the complete, systematic statement of Rand's Objectivism and the novel's philosophical climax.
+- [[ragnar-danneskjold|Ragnar Danneskjöld]] - Rand's philosopher-pirate in Atlas Shrugged and his deliberate inversion of the Robin Hood myth — an attack on the idea that need, not achievement, is the source of rights.
+- [[reardens-trial-speech|Rearden's Trial Speech]] - Hank Rearden's defense at his trial in Atlas Shrugged: he refuses to grant the court the moral sanction to judge him for producing — a compact dramatization of the withdrawn sanction of the victim.
 
 ## Sources
 - [Atlas Shrugged (Full Text Aggregate)](https://archive.org/details/atlas-shrugged-35th-anniversary-edition-ayn-rand) - the 1957 novel (non-official OCR scan; quote-check against an authorized edition)

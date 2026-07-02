@@ -53,6 +53,9 @@ The tensions are equally real and worth stating. Objectivism is a closed philoso
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
+- [[galts-speech|Galt's Speech]] - The ~60-page radio address near the end of Atlas Shrugged — the complete, systematic statement of Rand's Objectivism and the novel's philosophical climax.
+
 ## Sources
 
 - [The Virtue of Selfishness (Full Text Aggregate)](https://archive.org/details/the-virtue-of-selfishness-ayn-rand) - Rand's statement of the Objectivist ethics

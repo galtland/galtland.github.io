@@ -26,6 +26,7 @@ The wiki flags the limits honestly: Aristotle reaches *statist* conclusions (the
 - [[nicomachean-ethics|Nicomachean Ethics]] - natural vs. conventional justice
 - [[aristotle-politics|Politics]] - the natural teleology of the polis
 - [[thomas-aquinas|Thomas Aquinas]] - Short author reference for Thomas Aquinas (c. 1225–1274), the Dominican theologian whose Treatise on Law in the Summa Theologica is the most systematic medieval statement of natural law
+- [[galts-speech|Galt's Speech]] - The ~60-page radio address near the end of Atlas Shrugged — the complete, systematic statement of Rand's Objectivism and the novel's philosophical climax.
 
 ## Sources
 

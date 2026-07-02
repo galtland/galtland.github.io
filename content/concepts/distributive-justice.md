@@ -55,6 +55,7 @@ From the egalitarian side, the strongest replies are that the veil of ignorance 
 - [[minarchism|Minarchism]] - the minimal state Nozick defends as the most that distributive justice permits
 - [[capitalism|Capitalism]] - the market order whose unequal outcomes distributive justice evaluates
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
+- [[ragnar-danneskjold|Ragnar Danneskjöld]] - Rand's philosopher-pirate in Atlas Shrugged and his deliberate inversion of the Robin Hood myth — an attack on the idea that need, not achievement, is the source of rights.
 
 ## Sources
 

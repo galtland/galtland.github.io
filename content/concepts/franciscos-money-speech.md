@@ -68,6 +68,9 @@ But the *grounding* differs, and the difference is worth stating. Francisco spea
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - trade-versus-force, the speech's political core
 - [[austrian-economics|Austrian Economics]] - the tradition whose sound-money conclusion the speech shares
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
+- [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
+- [[galts-speech|Galt's Speech]] - The ~60-page radio address near the end of Atlas Shrugged — the complete, systematic statement of Rand's Objectivism and the novel's philosophical climax.
+- [[reardens-trial-speech|Rearden's Trial Speech]] - Hank Rearden's defense at his trial in Atlas Shrugged: he refuses to grant the court the moral sanction to judge him for producing — a compact dramatization of the withdrawn sanction of the victim.
 
 ## Sources
 
