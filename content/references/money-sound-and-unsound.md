@@ -54,6 +54,8 @@ The article's confidence is high because the raw source preserves the table of c
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] - institutional implication of the sound-money and fiduciary-media critique
 - [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis applying Austrian monetary logic to Bitcoin adoption
 - [[hard-money|Hard Money]] - the bridge concept linking Austrian sound-money theory to Bitcoin's monetary hardness
+- [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
+- [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
 
 ## Sources
 

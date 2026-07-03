@@ -50,6 +50,7 @@ Homesteading is the foundation the rest of the structure rests on. Self-ownershi
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that title must arise from action, not decree
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the rights tradition homesteading belongs to
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
+- [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 
 ## Sources
 

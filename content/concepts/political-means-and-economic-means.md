@@ -101,6 +101,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 - [[ragnar-danneskjold|Ragnar Danneskjöld]] - Rand's philosopher-pirate in Atlas Shrugged and his deliberate inversion of the Robin Hood myth — an attack on the idea that need, not achievement, is the source of rights.
 - [[reardens-trial-speech|Rearden's Trial Speech]] - Hank Rearden's defense at his trial in Atlas Shrugged: he refuses to grant the court the moral sanction to judge him for producing — a compact dramatization of the withdrawn sanction of the victim.
+- [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 
 ## Sources
 

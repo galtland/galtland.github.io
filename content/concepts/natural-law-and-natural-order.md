@@ -84,6 +84,7 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [[thomas-paine|Thomas Paine]] - Short author reference for Thomas Paine (1737–1809), the Anglo-American revolutionary pamphleteer whose Common Sense helped spark the American Revolution and whose Rights of Man carried
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
+- [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 
 ## Sources
 

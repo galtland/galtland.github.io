@@ -48,6 +48,7 @@ For [[milton-friedman|Milton Friedman]] and the monetarists, the prior boom is l
 - [[milton-friedman|Milton Friedman]] - author of the monetarist counter-reading
 - [[capitalism-and-freedom|Capitalism and Freedom]] - Friedman's classic statement of the Chicago-school free-market position
 - [[austrian-economics|Austrian Economics]] - the school whose macroeconomics frames the Austrian explanation
+- [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
 
 ## Sources
 

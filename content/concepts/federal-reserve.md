@@ -54,6 +54,7 @@ Not every free-market critic of the Fed wants it gone. [[milton-friedman|Friedma
 - [[the-bitcoin-standard|The Bitcoin Standard]] — the hard-money case for an exit from central banking
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
+- [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
 
 ## Sources
 

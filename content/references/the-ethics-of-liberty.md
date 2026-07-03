@@ -53,6 +53,7 @@ This book is in dialogue with several other sources. The natural-law foundation 
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
+- [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 
 ## Sources
 

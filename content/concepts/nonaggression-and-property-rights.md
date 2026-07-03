@@ -100,6 +100,8 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
 - [[ragnar-danneskjold|Ragnar Danneskjöld]] - Rand's philosopher-pirate in Atlas Shrugged and his deliberate inversion of the Robin Hood myth — an attack on the idea that need, not achievement, is the source of rights.
 - [[reardens-trial-speech|Rearden's Trial Speech]] - Hank Rearden's defense at his trial in Atlas Shrugged: he refuses to grant the court the moral sanction to judge him for producing — a compact dramatization of the withdrawn sanction of the victim.
+- [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
+- [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 
 ## Sources
 

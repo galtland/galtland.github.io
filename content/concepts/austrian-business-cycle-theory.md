@@ -77,6 +77,8 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 - [[richard-cantillon|Richard Cantillon]] - Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
+- [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
+- [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
 
 ## Sources
 

@@ -71,6 +71,7 @@ It is also not the same as narrow banking, sovereign-money proposals, or central
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs. the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.
+- [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
 
 ## Sources
 

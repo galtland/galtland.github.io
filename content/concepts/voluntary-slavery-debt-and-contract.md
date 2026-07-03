@@ -110,6 +110,7 @@ The slavery-and-contract question is a good stress test of what libertarian cont
 - [[murray-n-rothbard|Murray N. Rothbard]] - author of the title-transfer theory and the inalienability argument
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - the source text (Ch. 19) for the theory of contracts, debt, and voluntary slavery
 - [[smart-contracts|Smart Contracts]] - protocol-embedded contract performance, a modern mechanism cousin to the penal bond
+- [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 
 ## Sources
 

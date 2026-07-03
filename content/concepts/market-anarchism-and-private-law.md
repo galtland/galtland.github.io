@@ -65,6 +65,7 @@ Not every libertarian tradition embraces full market anarchism, but this topic w
 - [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] - Robert Nozick's 1974 book — the landmark academic defense of the libertarian minimal state, the entitlement theory of justice, and the case against patterned distribution.
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
+- [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 
 ## Sources
 
