@@ -51,6 +51,7 @@ Because events are just signed data, one keypair also serves marketplaces (NIP-9
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the implementation-map topic
 - [[cypherpunk|Cypherpunk]] - the movement whose censorship-resistance goals Nostr advances
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - ch. 17 is the source for this concept
+- [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 
 ## Sources
 

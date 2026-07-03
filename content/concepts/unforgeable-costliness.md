@@ -80,10 +80,11 @@ Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; 
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
+- [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
 
 ## Sources
 
-- [[2026-05-27-shelling-out|Shelling Out: The Origins of Money]] - Szabo on collectible attributes, prehistoric wealth transfer, and unforgeable costliness
-- [[2026-05-27-bit-gold|Bit Gold]] - Szabo's proof-of-work and distributed-title proposal for costly bits
-- [[2026-05-28-the-bitcoin-standard-full-text|The Bitcoin Standard: Full Text Aggregate]] - Ammous on salability, hardness, stock-to-flow, primitive monies, metals, fiat, and Bitcoin
-- [[2026-05-09-the-theory-of-money-and-credit-full-text|The Theory of Money and Credit: Full Text]] - Mises on the regression theorem and the historical element in money's purchasing power
+- [Shelling Out](https://nakamotoinstitute.org/library/shelling-out/) - Szabo on collectible attributes, prehistoric wealth transfer, and unforgeable costliness
+- [Bit Gold](https://nakamotoinstitute.org/library/bit-gold/) - Szabo's proof-of-work and distributed-title proposal for costly bits
+- [The Bitcoin Standard](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - Ammous on salability, hardness, stock-to-flow, primitive monies, metals, fiat, and Bitcoin
+- [The Theory of Money and Credit](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) - Mises on the regression theorem and the historical element in money's purchasing power

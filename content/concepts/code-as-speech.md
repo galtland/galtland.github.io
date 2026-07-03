@@ -56,6 +56,7 @@ That boundary matters because code can also be conduct, infrastructure, evidence
 - [[cypherpunk|Cypherpunk]] - movement context for publishing cryptographic tools as resistance infrastructure
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong encryption and privacy tools
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
+- [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 
 ## Sources
 

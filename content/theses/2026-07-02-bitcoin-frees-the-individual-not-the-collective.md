@@ -85,6 +85,8 @@ The wiki's position is that Bitcoin is real individual sovereignty and no collec
 - [[bitcoin|Bitcoin]] - the tool under dispute
 - [[objections-to-libertarianism|Objections to Libertarianism]] - the steelman hub this thesis extends into the cypherpunk thread
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - the companion thesis on why individual tools do not by themselves scale to collective liberation
+- [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
+- [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
 
 ## Sources
 

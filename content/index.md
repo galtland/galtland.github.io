@@ -4,12 +4,12 @@
 
 **New here? → [Start Here](topics/start-here.md)** — a plain-language tour of the whole wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to read next. No background assumed.
 
-Last updated: 2026-07-02
+Last updated: 2026-07-03
 
 ## Statistics
 
 - Sources: 166 raw documents (+ 4 news-lens items)
-- Articles: 295 compiled wiki articles (129 concepts, 152 references, 8 theses, 6 topics)
+- Articles: 299 compiled wiki articles (133 concepts, 152 references, 8 theses, 6 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-26
 - Last lint: 2026-06-26
