@@ -53,6 +53,7 @@ Self-ownership is powerful precisely because so much rides on one premise, which
 - [[murray-n-rothbard|Murray N. Rothbard]] - the axiom's fullest modern statement
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - its argumentation-ethics grounding
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
+- [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 
 ## Sources
 

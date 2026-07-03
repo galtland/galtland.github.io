@@ -46,6 +46,7 @@ Confidence is medium. The substance of Keynes's economics is grounded in the ing
 - [[ludwig-von-mises|Ludwig von Mises]] - the Austrian whose cycle theory frames the critique of Keynes
 - [[friedrich-a-hayek|F. A. Hayek]] - Keynes's most direct contemporary antagonist on money and the cycle
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs. the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
+- [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
 
 ## Sources
 

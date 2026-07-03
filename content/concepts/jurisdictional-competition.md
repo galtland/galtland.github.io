@@ -50,6 +50,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - incentive analysis matching Lane's "employee-controlled" government
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
+- [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 
 ## Sources
 

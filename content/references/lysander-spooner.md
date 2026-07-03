@@ -31,6 +31,7 @@ His argument is that justice is an exact natural science of person and property,
 - [[declaration-of-independence|The Declaration of Independence]] - the founding creed whose natural-rights premises Spooner turned against the state it created
 - [[rights-of-man|Rights of Man]] - Paine's natural-rights radicalism, adjacent to Spooner's individualist edge
 - [[john-locke|John Locke]] - Short author reference for John Locke (1632–1704), the English philosopher whose Second Treatise of Government gave the natural-rights tradition its decisive modern form
+- [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 
 ## Sources
 

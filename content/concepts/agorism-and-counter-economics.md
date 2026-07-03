@@ -52,6 +52,7 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 - [[samuel-edward-konkin-iii|Samuel Edward Konkin III]] - Short author reference for Samuel Edward Konkin III, the market-anarchist theorist who founded agorism and counter-economics and wrote the New Libertarian Manifesto.
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
+- [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 
 ## Sources
 
