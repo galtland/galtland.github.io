@@ -19,7 +19,7 @@ confidence: high
 
 ## The problem of original acquisition
 
-Every other rule of property presupposes an answer to this one. The [[the-title-transfer-theory-of-contract|title-transfer theory of contract]] explains how titles move from one owner to the next — but only if there was a *first* owner. The [[nonaggression-and-property-rights|non-aggression principle]] forbids invading another's property — but only once we know whose it is. Homesteading is the principle that closes the circle: it says how a thing with no owner acquires one without anyone's consent being needed, because no one's rights are violated by putting unused nature to use.
+Every other rule of property presupposes an answer to this one. The [[title-transfer-theory-of-contract|title-transfer theory of contract]] explains how titles move from one owner to the next — but only if there was a *first* owner. The [[nonaggression-and-property-rights|non-aggression principle]] forbids invading another's property — but only once we know whose it is. Homesteading is the principle that closes the circle: it says how a thing with no owner acquires one without anyone's consent being needed, because no one's rights are violated by putting unused nature to use.
 
 ## Locke's labor-mixing
 
@@ -42,7 +42,7 @@ Homesteading is the foundation the rest of the structure rests on. Self-ownershi
 ## See Also
 
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the property-rights framework homesteading helps ground
-- [[the-title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - how homesteaded titles are then transferred
+- [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - how homesteaded titles are then transferred
 - [[john-locke|John Locke]] - the labor-mixing account and the proviso
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's source text
 - [[murray-n-rothbard|Murray N. Rothbard]] - the first-use-first-own formulation
