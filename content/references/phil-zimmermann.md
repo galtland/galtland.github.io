@@ -53,5 +53,5 @@ The author reference is therefore intentionally narrow: Zimmermann matters here 
 
 ## Sources
 
-- [[2026-05-28-why-i-wrote-pgp|Why I Wrote PGP]] - Zimmermann's essay on PGP, privacy, trapdoor proposals, CALEA, Clipper, export controls, and the case for routine strong encryption
+- [Why I Wrote PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html) - Zimmermann's essay on PGP, privacy, trapdoor proposals, CALEA, Clipper, export controls, and the case for routine strong encryption
 - [1990s Crypto Wars Dossier](https://web.archive.org/web/20011127065037id_/http://www.eff.org/Privacy/Clipper/) - EFF/Gilmore case material; source for the three-year DOJ export investigation, its early-1996 end, and Zimmermann's later ZRTP/Silent Circle work

@@ -68,4 +68,4 @@ This is why the essay belongs in the [[cypherpunk|Cypherpunk]] thread. The civil
 
 ## Sources
 
-- [[2026-05-28-why-i-wrote-pgp|Why I Wrote PGP]] - Zimmermann's 1991 PGP User's Guide essay with 1999 expansion on privacy, trapdoors, CALEA, Clipper, export controls, and routine strong cryptography
+- [Why I Wrote PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html) - Zimmermann's 1991 PGP User's Guide essay with 1999 expansion on privacy, trapdoors, CALEA, Clipper, export controls, and routine strong cryptography

@@ -81,5 +81,5 @@ Confidence is medium. The article can describe Ammous's framing with high confid
 
 ## Sources
 
-- [[2026-05-28-the-fiat-standard-full-text|The Fiat Standard: Full Text Aggregate]] - Ammous's 2021 book on fiat technology, debt issuance, fiat life, and Bitcoin as liquidator
-- [[2026-05-28-the-bitcoin-standard-full-text|The Bitcoin Standard: Full Text Aggregate]] - comparison source for sound money, salability, hard money, and Bitcoin's monetary properties
+- [The Fiat Standard](https://archive.org/details/the-fiat-standard-the-debt-slavery-alternative-to-human-civilization_202409) - Ammous's 2021 book on fiat technology, debt issuance, fiat life, and Bitcoin as liquidator
+- [The Bitcoin Standard](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - comparison source for sound money, salability, hard money, and Bitcoin's monetary properties

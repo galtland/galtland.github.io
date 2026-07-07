@@ -69,4 +69,4 @@ The post's tone matters for confidence. It is not a detached biography; it is Fi
 
 ## Sources
 
-- [[2026-05-28-hal-finney-early-bitcoin-corpus|Hal Finney Early Bitcoin Corpus]] - aggregate source for "Bitcoin and Me," RPOW, the 2008 cryptography-list Bitcoin response, and "Running bitcoin"
+- [Hal Finney Early Bitcoin Corpus](https://bitcointalk.org/index.php?topic=155054.0) - aggregate source for "Bitcoin and Me," RPOW, the 2008 cryptography-list Bitcoin response, and "Running bitcoin"

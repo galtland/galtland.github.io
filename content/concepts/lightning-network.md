@@ -74,4 +74,4 @@ The tradeoff is therefore not between blockchain and no blockchain. It is whethe
 
 ## Sources
 
-- [[2026-05-28-lightning-network-paper|The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments]] - Poon and Dryja's 2016 paper on payment channels, HTLCs, routing, risks, and the blockchain as enforcement backstop
+- [The Bitcoin Lightning Network](https://lightning.network/lightning-network-paper.pdf) - Poon and Dryja's 2016 paper on payment channels, HTLCs, routing, risks, and the blockchain as enforcement backstop

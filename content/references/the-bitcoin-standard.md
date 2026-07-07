@@ -77,4 +77,4 @@ The book is influential in Bitcoin circles, but its interpretive claims should n
 ## Sources
 
 - [[saifedean-ammous|Saifedean Ammous]] - the author
-- [[2026-05-28-the-bitcoin-standard-full-text|The Bitcoin Standard: Full Text Aggregate]] - full-text raw ingest for publication status, Taleb foreword, prologue, ten-chapter structure, and monetary argument
+- [The Bitcoin Standard](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - full-text raw ingest for publication status, Taleb foreword, prologue, ten-chapter structure, and monetary argument

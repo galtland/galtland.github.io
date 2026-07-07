@@ -65,4 +65,4 @@ Graf's tentative answer is that bitcoins appear ownable because they are control
 
 ## Sources
 
-- [[2026-05-28-are-bitcoins-ownable|Are Bitcoins Ownable? Property Rights, IP Wrongs, and Legal-Theory Implications]] - Graf's paper on action-based property theory, bitcoin ownability, trespass by hacking, double spending, brain wallets, fungibility, and rival goods
+- [Are Bitcoins Ownable?](https://www.konradsgraf.com/s/AreBitcoinsOwnableBookFreePDF5Nov2015.pdf) - Graf's paper on action-based property theory, bitcoin ownability, trespass by hacking, double spending, brain wallets, fungibility, and rival goods

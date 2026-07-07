@@ -70,4 +70,4 @@ The book's structure is clear, but its adoption is uncertain. It is best treated
 ## Sources
 
 - [[saifedean-ammous|Saifedean Ammous]] - the author
-- [[2026-05-28-principles-of-economics-ammous-full-text|Principles of Economics: Full Text Aggregate]] - full-text raw ingest for publication status, author bio, introduction, table of contents, and five-part/eighteen-chapter structure
+- [Principles of Economics](https://archive.org/details/principles-of-economics_202409) - full-text raw ingest for publication status, author bio, introduction, table of contents, and five-part/eighteen-chapter structure
