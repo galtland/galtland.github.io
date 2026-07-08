@@ -45,6 +45,7 @@ Censorship resistance is a matter of *cost*, not an absolute, and its limits are
 - [[proof-of-work|Proof of Work]] - the cost that makes reversing a confirmed action prohibitive
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - why endpoint coercion and network severance bound the property
 - [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
+- [[your-secret-right-to-cash|Your Secret Right to Cash]] - Van Valkenburgh's 2017 essay: cash silently guaranteed uncensorable, private payment — a 'secret right' nobody defended because physics enforced it, until electronic money removed it.
 
 ## Sources
 

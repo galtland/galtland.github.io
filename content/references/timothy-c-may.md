@@ -67,6 +67,7 @@ The confidence level is medium. The primary-source claims about the manifesto an
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Paul Rosenberg's crypto-anarchist novel (2007): the Free Souls build an untraceable online free-market society beyond state control — the Crypto Anarchist's Bible.
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum where the cypherpunk program — anonymous remailers, Chaumian digital cash, the two founding manifestos
 - [[paul-rosenberg|Paul Rosenberg]] - Engineer, privacy entrepreneur, and writer; author of A Lodging of Wayfaring Men (2007) and Production Versus Plunder; co-founder of Cryptohippie.
+- [[meditations-on-cypherpunk-nightmares|Meditations on Cypherpunk Nightmares]] - Goldstein's 2014 essay reads Tim May's crypto anarchy through the Stoics: anonymous information markets make leaks inevitable, so live as though your secrets are already public.
 
 ## Sources
 
