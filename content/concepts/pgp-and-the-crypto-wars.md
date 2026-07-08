@@ -65,6 +65,7 @@ This is why the essay belongs in the [[cypherpunk|Cypherpunk]] thread. The civil
 - [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] - Clipper-era government-access proposal resisted alongside PGP export controls
 - [[bernstein-v-united-states-1999|Bernstein v. United States (1999)]] - the withdrawn Ninth Circuit panel opinion on code-as-speech from the same Crypto Wars episode (persuasive history, not binding precedent)
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
+- [[fog-of-cryptowar|Fog of CryptoWar]] - Logan's 2017 field map of Crypto War 2: the 'ban encryption' debate is a straw man while plaintext access arrives through vendor pressure, weak defaults, metadata retention, and lawful hacking.
 
 ## Sources
 

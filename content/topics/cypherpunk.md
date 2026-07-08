@@ -116,6 +116,8 @@ Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-200
 - [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
 - [[conscience-of-a-hacker|The Conscience of a Hacker]] - Loyd Blankenship's 1986 Phrack manifesto — 'My crime is that of curiosity' — the founding statement of the hacker ethic that the cypherpunks inherited.
 - [[meditations-on-cypherpunk-nightmares|Meditations on Cypherpunk Nightmares]] - Goldstein's 2014 essay reads Tim May's crypto anarchy through the Stoics: anonymous information markets make leaks inevitable, so live as though your secrets are already public.
+- [[21-lessons|21 Lessons]] - Gigi's book of 21 lessons from the Bitcoin rabbit hole — seven philosophical, seven economic, seven technological — ending where the movement began: cypherpunks write code.
+- [[fog-of-cryptowar|Fog of CryptoWar]] - Logan's 2017 field map of Crypto War 2: the 'ban encryption' debate is a straw man while plaintext access arrives through vendor pressure, weak defaults, metadata retention, and lawful hacking.
 
 ## Sources
 

@@ -54,6 +54,7 @@ Confidence is medium: the book can be summarized faithfully and directly from th
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Paul Rosenberg's crypto-anarchist novel (2007): the Free Souls build an untraceable online free-market society beyond state control — the Crypto Anarchist's Bible.
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
+- [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
 
 ## Sources
 

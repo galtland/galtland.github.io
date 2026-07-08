@@ -73,6 +73,7 @@ The book is influential in Bitcoin circles, but its interpretive claims should n
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[saifedean-ammous|Saifedean Ammous]] - Author reference for Saifedean Ammous, the economist whose Bitcoin Standard, Fiat Standard, and Principles of Economics give this wiki its explicitly Austrian
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
+- [[21-lessons|21 Lessons]] - Gigi's book of 21 lessons from the Bitcoin rabbit hole — seven philosophical, seven economic, seven technological — ending where the movement began: cypherpunks write code.
 
 ## Sources
 

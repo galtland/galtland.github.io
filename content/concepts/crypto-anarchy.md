@@ -86,6 +86,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 - [[meditations-on-cypherpunk-nightmares|Meditations on Cypherpunk Nightmares]] - Goldstein's 2014 essay reads Tim May's crypto anarchy through the Stoics: anonymous information markets make leaks inevitable, so live as though your secrets are already public.
+- [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
 
 ## Sources
 
