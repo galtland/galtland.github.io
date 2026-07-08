@@ -3,9 +3,9 @@ title: "Rothbard on the Wealth Tax"
 volatility: warm
 category: concept
 created: 2026-05-18
-updated: 2026-06-09
-verified: 2026-05-31
-tags: [rothbard, wealth-tax, taxation, capital-consumption, accumulated-capital, power-and-market]
+updated: 2026-07-08
+verified: 2026-07-08
+tags: [rothbard, wealth-tax, taxation, capital-consumption, accumulated-capital, power-and-market, oecd, wealth-tax-repeal]
 summary: "Rothbard's wealth-tax incidence analysis: a tax on accumulated wealth cannot be capitalized or shifted, so it penalizes saving and investment and directly consumes the capital stock."
 aliases: [Rothbard wealth tax, tax on individual wealth, Power and Market 4C, accumulated-capital tax]
 short: "Rothbard's *Power and Market* Ch. 4 §C treatment of a tax on individual wealth as an uncapitalizable, unshiftable charge that falls directly on accumulated capital and 'levies a heavy penalty' on it, promoting capital consumption and general impoverishment."
@@ -23,6 +23,10 @@ Three structural features follow from Rothbard's analysis and are load-bearing w
 
 The mechanism reaches its full institutional form when paired with [[hoppe-on-caretaker-capital-consumption|Hoppe's caretaker capital consumption]] frame — democratic governments structurally prefer present extraction to capital-value preservation — and with [[mises-on-capital-consumption|Mises's antiliberal-policy-as-capital-consumption]] formulation — antiliberal policy is the policy class that systematically funds present consumption out of the productive base of the future. Rothbard supplies the categorical economic prediction for the specific instrument; [[ludwig-von-mises|Mises]] names the policy class; [[hans-hermann-hoppe|Hoppe]] explains the institutional incentive that produces it.
 
+## The Empirical Record
+
+The OECD's own comparative study — *The Role and Design of Net Wealth Taxes in the OECD* (Tax Policy Studies No. 26, 2018) — reads like a field test of Rothbard's categorical prediction. "The number of OECD countries levying individual net wealth taxes dropped from 12 in 1990 to 4 in 2017": Austria repealed in 1994, Denmark and Germany in 1997, the Netherlands in 2001, Finland, Iceland and Luxembourg in 2006, Sweden in 2007, and France converted its ISF to a real-estate-only levy from 2018. The report attributes the repeals to "their efficiency costs and the risks of capital flight", narrow bases hollowed by avoidance, and high administrative cost against very low revenues (0.2–1.0% of GDP among the 2016 levyers). Where the tax stacks on capital-income taxation it concedes the confiscatory arithmetic outright — "with METRs sometimes reaching values close to or above 100% in some countries" — and its headline conclusion is the deflationary version of Rothbard's: "From both an efficiency and equity perspective, there are limited arguments for having a net wealth tax in addition to broad-based personal capital income taxes and well-designed inheritance and gift taxes." What Rothbard derives praxeologically — an unshiftable levy on accumulated capital consumes the capital stock and repels its formation — the OECD documents as three decades of legislated retreat.
+
 ## See Also
 
 - [[power-and-market|Power and Market]] — primary source: Ch. 4 §C "A Tax on Individual Wealth"
@@ -36,3 +40,5 @@ The mechanism reaches its full institutional form when paired with [[hoppe-on-ca
 ## Sources
 
 - [Power and Market: Government and the Economy (Full Text Aggregate)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) — Ch. 4 §C "A Tax on Individual Wealth"; the directly quoted passages on non-capitalization, non-shifting, and the slashing of accumulated capital are from this section.
+- [The Role and Design of Net Wealth Taxes in the OECD](https://doi.org/10.1787/9789264290303-en) — OECD Tax Policy Studies No. 26 (2018); bibliographic record with the repeal sequence and headline findings quoted in "The Empirical Record".
+- [The Role and Design of Net Wealth Taxes in the OECD (Full Text Aggregate)](https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/04/the-role-and-design-of-net-wealth-taxes-in-the-oecd_g1g89919/9789264290303-en.pdf) — Foreword, Executive Summary, Ch. 1 and Ch. 5 excerpts backing the same section.
