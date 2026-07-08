@@ -42,6 +42,8 @@ The verdict follows: "Money that can be surveilled and controlled is not sound m
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[digital-euro|Digital Euro]] - The EU's retail CBDC project: a direct ECB liability with legal-tender status, bank-intermediated access, an ECB-set holding cap
+
 ## Sources
 
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) — Ch. 10 §10.5 "Central Bank Digital Currencies as Total Intervention" (autistic/binary/triangular mapping; the programmability catalogue; the "not sound money" verdict)

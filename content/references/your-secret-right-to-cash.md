@@ -35,3 +35,4 @@ This is the wiki's cleanest statement of what is actually at stake in the war on
 - [[censorship-resistance|Censorship Resistance]] - the property cash conferred and intermediated payment removed
 - [[praxeology-of-privacy|The Praxeology of Privacy]] - the action-theoretic companion argument
 - [[ecash|eCash]] - the first engineering attempt to rebuild cash's secret right electronically
+- [[digital-euro|Digital Euro]] - The EU's retail CBDC project: a direct ECB liability with legal-tender status, bank-intermediated access, an ECB-set holding cap
