@@ -58,6 +58,7 @@ That boundary matters because code can also be conduct, infrastructure, evidence
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 - [[conscience-of-a-hacker|The Conscience of a Hacker]] - Loyd Blankenship's 1986 Phrack manifesto — 'My crime is that of curiosity' — the founding statement of the hacker ethic that the cypherpunks inherited.
+- [[of-cypherpunks-and-sousveillance|Of Cypherpunks and Sousveillance]] - Anderson's 2022 academic study of cypherpunk ethics — 'privacy for the weak, transparency for the powerful' — and the movement's overlooked practice of sousveillance: watching the watchers.
 
 ## Sources
 
