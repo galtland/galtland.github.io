@@ -48,6 +48,7 @@ Censorship resistance is a matter of *cost*, not an absolute, and its limits are
 - [[your-secret-right-to-cash|Your Secret Right to Cash]] - Van Valkenburgh's 2017 essay: cash silently guaranteed uncensorable, private payment — a 'secret right' nobody defended because physics enforced it, until electronic money removed it.
 - [[fog-of-cryptowar|Fog of CryptoWar]] - Logan's 2017 field map of Crypto War 2: the 'ban encryption' debate is a straw man while plaintext access arrives through vendor pressure, weak defaults, metadata retention, and lawful hacking.
 - [[digital-euro|Digital Euro]] - The EU's retail CBDC project: a direct ECB liability with legal-tender status, bank-intermediated access, an ECB-set holding cap
+- [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.
 
 ## Sources
 

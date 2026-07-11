@@ -119,6 +119,7 @@ Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-200
 - [[21-lessons|21 Lessons]] - Gigi's book of 21 lessons from the Bitcoin rabbit hole — seven philosophical, seven economic, seven technological — ending where the movement began: cypherpunks write code.
 - [[fog-of-cryptowar|Fog of CryptoWar]] - Logan's 2017 field map of Crypto War 2: the 'ban encryption' debate is a straw man while plaintext access arrives through vendor pressure, weak defaults, metadata retention, and lawful hacking.
 - [[of-cypherpunks-and-sousveillance|Of Cypherpunks and Sousveillance]] - Anderson's 2022 academic study of cypherpunk ethics — 'privacy for the weak, transparency for the powerful' — and the movement's overlooked practice of sousveillance: watching the watchers.
+- [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.
 
 ## Sources
 

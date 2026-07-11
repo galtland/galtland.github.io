@@ -33,3 +33,4 @@ The project's status is live politics: trilogue ongoing, ECB assumption of adopt
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - the theoretical frame the proposal instantiates
 - [[your-secret-right-to-cash|Your Secret Right to Cash]] - what the "digital complement to cash" does not replicate
 - [[censorship-resistance|Censorship Resistance]] - the property at stake in centralised settlement
+- [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.

@@ -28,10 +28,11 @@ The middle of the essay is a technical field map of every plaintext-recovery mec
 
 ## Why It Matters in This Wiki
 
-This is the wiki's primary source on Crypto War 2 and the corrective to the folk memory of Crypto War 1 that [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] records: the state did not stop wanting plaintext when it lost on export controls — it changed tactics, and the winning cypherpunk arguments of the 1990s are precisely the ones Logan shows losing now. The essay's platform-chokepoint analysis gives the [[cypherpunk|cypherpunk]] program its modern target list — verifiable builds, single-source-of-record software delivery, independence from app stores — and its enforcement realism ("Regulation does not require perfect adherence") is the strongest internal challenge to the wiki's more triumphalist censorship-resistance material: unstoppable in principle is not unstopped in practice.
+This is the wiki's primary source on [[crypto-wars-2|Crypto War 2]] and the corrective to the folk memory of Crypto War 1 that [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] records: the state did not stop wanting plaintext when it lost on export controls — it changed tactics, and the winning cypherpunk arguments of the 1990s are precisely the ones Logan shows losing now. The essay's platform-chokepoint analysis gives the [[cypherpunk|cypherpunk]] program its modern target list — verifiable builds, single-source-of-record software delivery, independence from app stores — and its enforcement realism ("Regulation does not require perfect adherence") is the strongest internal challenge to the wiki's more triumphalist censorship-resistance material: unstoppable in principle is not unstopped in practice.
 
 ## See Also
 
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - Crypto War 1, whose winning arguments this essay retires
 - [[cypherpunk|Cypherpunk]] - the movement whose strategy the essay redirects
 - [[censorship-resistance|Censorship Resistance]] - the property whose practical limits the essay stress-tests
+- [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.
