@@ -18,7 +18,7 @@ summary: "Reference guide to Michael Goldstein's 'Meditations on Cypherpunk Nigh
 
 ## What the Essay Argues
 
-Goldstein starts from May's Crypto Anarchist Manifesto and draws out two lessons: all information will be on the market, and the market will exist whether you like it or not — "by will, I mean already," citing WikiLeaks, Edward Snowden, and the first Bitcoin-denominated leak markets. The practical corollary is stark:
+Goldstein starts from May's Crypto Anarchist Manifesto and draws out two lessons: all information will be on the market, and the market will exist whether you like it or not — "by will, I mean already," citing WikiLeaks, [[snowden-disclosures|Edward Snowden]], and the first Bitcoin-denominated leak markets. The practical corollary is stark:
 
 > "I would recommend that anyone alive in 2014 not only assume that their secrets will be leaked, but live as though they have already been leaked."
 >
