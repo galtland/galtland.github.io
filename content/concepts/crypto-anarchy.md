@@ -88,6 +88,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[meditations-on-cypherpunk-nightmares|Meditations on Cypherpunk Nightmares]] - Goldstein's 2014 essay reads Tim May's crypto anarchy through the Stoics: anonymous information markets make leaks inevitable, so live as though your secrets are already public.
 - [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
+- [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
 
 ## Sources
 

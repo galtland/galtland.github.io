@@ -40,6 +40,7 @@ Chaum predates and seeds the cypherpunk movement: his untraceable-payments and p
 - [[the-cybereconomy|The Cybereconomy]] - the privacy-economy vision his work prefigures
 - [[cypherpunk|Cypherpunk]] - the movement Chaum's program seeds
 - [[hal-finney|Hal Finney]] - later cypherpunk who championed ecash's privacy properties
+- [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
 
 ## Sources
 

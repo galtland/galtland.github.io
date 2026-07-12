@@ -52,6 +52,7 @@ This is the paper's bridge from anonymous client browsing to broader resistant i
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - earlier public conflict over routine strong encryption
 - [[forward-secrecy|Forward Secrecy]] - cryptographic property Tor's telescoping circuit construction helps provide
 - [[signal-double-ratchet|Signal Double Ratchet]] - messaging protocol with a different forward-secret key-update pattern
+- [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
 
 ## Sources
 
