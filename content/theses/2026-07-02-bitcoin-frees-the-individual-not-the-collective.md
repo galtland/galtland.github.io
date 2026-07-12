@@ -87,6 +87,12 @@ The wiki's position is that Bitcoin is real individual sovereignty and no collec
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - the companion thesis on why individual tools do not by themselves scale to collective liberation
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
+- [[proof-of-work|Proof of Work]] - A publicly verifiable cost function used first to meter access to network resources, then adapted by Bit Gold and Bitcoin for digital scarcity and consensus.
+- [[james-dale-davidson|James Dale Davidson]] - Short author reference for James Dale Davidson as represented by *The Sovereign Individual*: an American venture capitalist, entrepreneur
+- [[jason-lowery|Jason Lowery]] - Short author reference for Jason P. Lowery as represented by *Softwar*: a US Space Force officer and MIT SDM fellow whose thesis analyzes Bitcoin as electro-cyber power projection
+- [[murray-n-rothbard|Murray N. Rothbard]] - Reference guide to Rothbard's place in this wiki as system-builder, economist, anti-state theorist, and movement strategist.
+- [[samuel-edward-konkin-iii|Samuel Edward Konkin III]] - Short author reference for Samuel Edward Konkin III, the market-anarchist theorist who founded agorism and counter-economics and wrote the New Libertarian Manifesto.
+- [[william-rees-mogg|William Rees-Mogg]] - Short author reference for Lord William Rees-Mogg as represented by *The Sovereign Individual*: a British journalist and public figure
 
 ## Sources
 

@@ -80,6 +80,7 @@ The theory is deceptively consequential. It reshapes contract law around a singl
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
+- [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 
 ## Sources
 
