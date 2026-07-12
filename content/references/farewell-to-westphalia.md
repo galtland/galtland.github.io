@@ -14,7 +14,7 @@ summary: "Reference guide to Jarrad Hope and Peter Ludlow's Farewell to Westphal
 
 # Farewell to Westphalia
 
-> [[farewell-to-westphalia|Farewell to Westphalia]] is Jarrad Hope and Peter Ludlow's 2025 book-length case that the Westphalian nation-state is an obsolete governance technology and that cryptographic communities are its emerging successor. Dedicated to Julian Assange and the memory of [[hal-finney|Hal Finney]], it is the most systematic bridge in the corpus between cypherpunk foundations and post-state political theory.
+> [[farewell-to-westphalia|Farewell to Westphalia]] is Jarrad Hope and Peter Ludlow's 2025 book-length case that the Westphalian nation-state is an obsolete governance technology and that cryptographic communities are its emerging successor. Dedicated to [[julian-assange|Julian Assange]] and the memory of [[hal-finney|Hal Finney]], it is the most systematic bridge in the corpus between cypherpunk foundations and post-state political theory.
 
 ## What the Book Argues
 
@@ -36,3 +36,4 @@ The book supplies the missing middle between the wiki's cypherpunk lineage and i
 - [[seasteading-and-network-states|Seasteading and Network States]] - the concept family the book systematises
 - [[crypto-anarchy|Crypto Anarchy]] - the cypherpunk root extended to governance
 - [[softwar|Softwar]] - the conflict-theory frame of chapter 13
+- [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes

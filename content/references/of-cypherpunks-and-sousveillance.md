@@ -30,3 +30,4 @@ This is the corpus's only academic treatment of the [[cypherpunk|cypherpunk]] mo
 - [[code-as-speech|Code as Speech]] - the constitutional ruling in the paper's Crypto War account
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - the wiki's own account of the same war
 - [[snowden-disclosures|The Snowden Disclosures]] - June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own reviewers and courts
+- [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes

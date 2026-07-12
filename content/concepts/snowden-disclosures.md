@@ -80,3 +80,4 @@ Nor did the documents prove a Stasi. PCLOB, naming the danger that bulk data "wi
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - Crypto War 1: how civilian cryptography became legal to ship
 - [[of-cypherpunks-and-sousveillance|Of Cypherpunks and Sousveillance]] - Snowden and WikiLeaks as the cypherpunk counter-move: watching the watchers
 - [[surveillance-capitalism|Surveillance Capitalism]] - the commercial dragnet whose infrastructure state collection rides on
+- [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
