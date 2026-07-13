@@ -60,6 +60,7 @@ The design pattern propagated. Onion routing adapted the mix chain to real-time 
 - [[crypto-anarchy|Crypto Anarchy]] - the political program the remailer network first made operational
 - [[cypherpunk|Cypherpunk]] - topic map for the movement that built and ran the network
 - [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - the real-time descendant of the mix design
+- [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 
 ## Sources
 

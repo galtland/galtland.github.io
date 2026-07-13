@@ -41,6 +41,7 @@ Chaum predates and seeds the cypherpunk movement: his untraceable-payments and p
 - [[cypherpunk|Cypherpunk]] - the movement Chaum's program seeds
 - [[hal-finney|Hal Finney]] - later cypherpunk who championed ecash's privacy properties
 - [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
+- [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 
 ## Sources
 

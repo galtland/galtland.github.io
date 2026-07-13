@@ -79,3 +79,4 @@ Every episode above fits the menu. Apple was ordered to turn its signing key —
 - [[cypherpunk|Cypherpunk]] - the movement whose target list Crypto War 2 rewrites: defaults, delivery channels, device integrity
 - [[digital-euro|Digital Euro]] - the same EU drafting pattern in money: assurances about the machine's use atop mandates for the machine
 - [[snowden-disclosures|The Snowden Disclosures]] - June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own reviewers and courts
+- [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
