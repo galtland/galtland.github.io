@@ -3,8 +3,8 @@ title: "Privacy and Cryptography"
 volatility: warm
 category: topic
 created: 2026-05-10
-updated: 2026-06-18
-verified: 2026-06-18
+updated: 2026-07-15
+verified: 2026-07-15
 tags: [privacy, cryptography, cypherpunk, bitcoin, surveillance, austrian-economics, power-projection, national-security]
 aliases: [cypherpunk privacy, privacy technology, cryptographic privacy]
 confidence: medium
@@ -106,6 +106,8 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
 - [[snowden-disclosures|The Snowden Disclosures]] - June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own reviewers and courts
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
+- [[crypto-wars-2|Crypto Wars 2.0]] - the renewed state effort to mandate encryption backdoors and scan devices — the sequel to the 1990s fight over strong cryptography
+- [[money-and-banking|Money and Banking]] - the money hub; privacy coins are where financial privacy meets the wiki's sound-money thread
 
 ## Sources
 
