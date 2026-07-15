@@ -9,7 +9,7 @@ Last updated: 2026-07-15
 ## Statistics
 
 - Sources: 181 raw documents (+ 4 news-lens items)
-- Articles: 322 compiled wiki articles (145 concepts, 162 references, 8 theses, 7 topics)
+- Articles: 323 compiled wiki articles (145 concepts, 162 references, 8 theses, 8 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-26
 - Last lint: 2026-06-26

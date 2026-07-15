@@ -29,6 +29,7 @@ He synthesizes [[aristotle-politics|Aristotle]] and the Ciceronian/Roman natural
 - [[aristotle|Aristotle]] - the philosophical source Aquinas fuses with Christian theology
 - [[hugo-grotius|Hugo Grotius]] - the jurist who secularizes the natural law Aquinas systematized
 - [[john-locke|John Locke]] - the modern heir who turns the tradition toward individual rights
+- [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
 ## Sources
 

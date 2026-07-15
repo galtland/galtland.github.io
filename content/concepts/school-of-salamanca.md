@@ -54,6 +54,7 @@ The Salamancans are the wiki's clearest single bridge between its [[natural-law-
 - [[austrian-economics|Austrian Economics]] - the tradition the Salamancans are read as anticipating
 - [[murray-n-rothbard|Murray N. Rothbard]] - author of the history that frames the school this way
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
+- [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
 ## Sources
 

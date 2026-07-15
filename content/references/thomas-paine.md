@@ -28,6 +28,7 @@ Paine is closer to the libertarian tradition than most of the canon — radicall
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the natural-rights tradition Paine defends against Burke
 - [[john-locke|John Locke]] - the source of the natural-rights theory Paine popularizes
 - [[declaration-of-independence|Declaration of Independence]] - the Lockean charter Paine turned into a mass creed
+- [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
 ## Sources
 

@@ -28,6 +28,7 @@ He stands in the lineage between [[aquinas-treatise-on-law|Aquinas]] and [[the-s
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition Grotius secularizes and carries to the moderns
 - [[thomas-aquinas|Thomas Aquinas]] - the Scholastic predecessor whose apparatus Grotius inherits and strips of theology
 - [[john-locke|John Locke]] - the heir who receives the Grotian rights-and-contract natural law
+- [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
 ## Sources
 

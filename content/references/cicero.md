@@ -24,6 +24,7 @@ Cicero was a Roman senator, consul, orator, and the most important Latin transmi
 
 - [[cicero-de-re-publica|De Re Publica]] - the work present in this wiki
 - [[cicero-de-legibus|De Legibus]] - On the Laws, the systematic natural-law argument
+- [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
 ## Sources
 

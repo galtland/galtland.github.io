@@ -33,6 +33,7 @@ His argument is that justice is an exact natural science of person and property,
 - [[rights-of-man|Rights of Man]] - Paine's natural-rights radicalism, adjacent to Spooner's individualist edge
 - [[john-locke|John Locke]] - Short author reference for John Locke (1632–1704), the English philosopher whose Second Treatise of Government gave the natural-rights tradition its decisive modern form
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
+- [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
 ## Sources
 

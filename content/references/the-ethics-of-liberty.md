@@ -26,7 +26,7 @@ This is the natural-rights side of Rothbard's system. [[man-economy-and-state|Ma
 
 ## Scope of the Full-Text Ingest
 
-The raw source is the Mises Institute's PDF of the NYU Press 1998 edition (336 pages), extracted with `pdftotext -layout`. It contains Hoppe's introduction; all 30 chapters across Parts I–V (Natural Law; A Theory of Liberty; The State Versus Liberty; Modern Alternative Theories of Liberty; Toward a Theory of Strategy for Liberty); and the bibliography and index. The full-text aggregate was added 2026-05-04 — earlier ingests had only the Mises catalog metadata page.
+The raw source is the Mises Institute's PDF of the NYU Press 1998 edition (336 pages), extracted with `pdftotext -layout`. It contains Hoppe's introduction; all 30 chapters across Parts I–V ([[natural-law|Natural Law]]; A Theory of Liberty; The State Versus Liberty; Modern Alternative Theories of Liberty; Toward a Theory of Strategy for Liberty); and the bibliography and index. The full-text aggregate was added 2026-05-04 — earlier ingests had only the Mises catalog metadata page.
 
 ## Relation to Other Texts in This Wiki
 
@@ -55,6 +55,7 @@ This book is in dialogue with several other sources. The natural-law foundation 
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
+- [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
 ## Sources
 
