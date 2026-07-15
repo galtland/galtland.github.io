@@ -75,6 +75,7 @@ The book is influential in Bitcoin circles, but its interpretive claims should n
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 - [[21-lessons|21 Lessons]] - Gigi's book of 21 lessons from the Bitcoin rabbit hole — seven philosophical, seven economic, seven technological — ending where the movement began: cypherpunks write code.
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

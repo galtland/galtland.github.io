@@ -48,6 +48,7 @@ The 100%-reserve-banking position the wiki adopts in [[hundred-percent-reserve-b
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
 - [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

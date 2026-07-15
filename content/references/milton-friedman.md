@@ -53,6 +53,7 @@ Confidence is medium. The substance of Friedman's monetary and classical-liberal
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

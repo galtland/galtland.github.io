@@ -102,6 +102,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[principles-of-economics-menger|Principles of Economics (Menger)]] - Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, never a property inherent in the good
 - [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

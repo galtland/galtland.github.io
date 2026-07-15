@@ -151,6 +151,7 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

@@ -96,6 +96,7 @@ Both readings are held by serious people and neither is obviously decisive; conf
 - [[denationalisation-of-money|Denationalisation of Money]] - the regression-theorem objection to launching a new private currency unit with no prior value
 - [[joseph-t-salerno|Joseph T. Salerno]] - carries the Mengerian-Misesian monetary apparatus into modern debate
 - [[austrian-economics|Austrian Economics]] - the school whose monetary theory rests on this argument
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

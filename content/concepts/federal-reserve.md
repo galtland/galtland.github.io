@@ -55,6 +55,7 @@ Not every free-market critic of the Fed wants it gone. [[milton-friedman|Friedma
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

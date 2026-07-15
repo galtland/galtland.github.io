@@ -58,6 +58,7 @@ The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 page
 - [[the-role-of-monetary-policy|The Role of Monetary Policy]] - Friedman's 1968 monetarist address: the limits of monetary policy, the natural rate, and the steady money-growth rule — the Chicago account of the cycle the Austrians dispute.
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

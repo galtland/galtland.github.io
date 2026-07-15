@@ -159,6 +159,7 @@ The Chicago School is a principal free-market rival to the Austrian program, so 
 - [[americas-great-depression|America's Great Depression]] — Rothbard source volume and the direct critique of Friedman on the 1920s
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

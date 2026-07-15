@@ -65,6 +65,7 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

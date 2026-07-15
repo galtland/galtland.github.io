@@ -56,6 +56,7 @@ The article's confidence is high because the raw source preserves the table of c
 - [[hard-money|Hard Money]] - the bridge concept linking Austrian sound-money theory to Bitcoin's monetary hardness
 - [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
 - [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

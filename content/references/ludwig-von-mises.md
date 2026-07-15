@@ -100,6 +100,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - The economic case for free trade: by comparative advantage, even a party worse at producing everything gains by specializing where it is relatively best and trading
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 

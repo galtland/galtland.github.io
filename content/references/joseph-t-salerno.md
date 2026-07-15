@@ -21,7 +21,7 @@ summary: "Austrian-school monetary economist in the Mises-Rothbard tradition; Ac
 - **The 2010 essay collection.** *Money, Sound and Unsound* is organized in five parts and 26 chapters:
   - *Part 1 — Foundations of Monetary Theory*: two traditions (John Law vs Turgot), Mises's monetary theory, the TMS paper (Ch. 3), a theory of money prices, international monetary theory, a comment on Yeager.
   - *Part 2 — Inflation, Deflation and Depression*: coordination in Austrian macroeconomics, Mises on inflation and expectations, war and the money machine, an Austrian taxonomy of deflation, a comment on Tullock (Ch. 11).
-  - *Part 3 — The Gold Standard*: the 100 percent gold standard proposal, true vs false gold standards, an analysis of recent gold-standard proposals (Ch. 14), the international gold standard.
+  - *Part 3 — [[gold-standard|The Gold Standard]]*: the 100 percent gold standard proposal, true vs false gold standards, an analysis of recent gold-standard proposals (Ch. 14), the international gold standard.
   - *Part 4 — Applications*: money and gold in the 1920s–30s, a reply to Timberlake on inflation and money (Ch. 17), a monetary explanation of the 1987 stock-market crash, sound money for ex-communist Europe, currency board vs currency principle for currency-crisis prevention.
   - *Part 5 — Commentary*: Greenspan critiques (Chs. 21–22), gold in [[great-depression|the Great Depression]], a comment on Greenfield/Rockoff on currency competition (Ch. 24), "Money Matters No More?" (Ch. 25), deflation/depression links (Ch. 26).
 - **Application of monetary calculation to post-communist reform.** *Money, Sound and Unsound* Ch. 19 ("Beyond Calculational Chaos") applies the Mises-Rothbard monetary-calculation framework to the transition out of communist central planning: private property, free exchange, and sound money are jointly necessary for economic calculation; Rothbard's "calculational chaos" diagnosis is invoked directly. This is one of the clearer empirical demonstrations of the Mises-Rothbard line on calculation at work.
@@ -56,6 +56,7 @@ The 1993 paper is explicit about what the dehomogenization argument does *not* c
 - [[ludwig-von-mises|Ludwig von Mises]] — the foundational figure Salerno's monetary work descends from
 - [[americas-great-depression|America's Great Depression]] — Rothbard's broad money-supply argument that TMS formalizes
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
+- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
 ## Sources
 
