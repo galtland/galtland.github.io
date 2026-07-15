@@ -9,7 +9,7 @@ tags: [school-of-salamanca, late-scholastics, natural-law, natural-rights, austr
 aliases: [School of Salamanca, Salamanca School, late Spanish scholastics, Spanish scholastics, Salamancans, late scholastics]
 confidence: medium
 summary: "The sixteenth-century Spanish Thomists centered on the University of Salamanca (Vitoria, de Soto, Molina, Mariana, Suárez, Azpilcueta), read by Rothbard as the hinge where natural-law philosophy met proto-Austrian economics. They revived a rational, reason-discoverable natural law and natural rights (consent, state of nature, resistance to tyranny), and independently developed subjective-utility value, the just price as the market price, the quantity theory of money, and a natural-law case against inflationary debasement."
-short: "The 16th-century Salamanca scholastics who were both natural-rights theorists (consent, resistance) and proto-Austrian economists (subjective value, market just price, quantity theory of money, anti-debasement) — the bridge between this wiki's two pillars."
+short: "The 16th-century Salamanca scholastics: natural-rights theorists (consent, resistance) and proto-Austrian economists (subjective value, just price, money theory) — bridging this wiki's two pillars."
 ---
 
 # School of Salamanca

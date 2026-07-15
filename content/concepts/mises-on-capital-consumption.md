@@ -9,7 +9,7 @@ tags: [mises, capital-consumption, antiliberal-policy, liberalism, taxation, red
 summary: "Mises's claim that antiliberal policy is a policy of capital consumption — providing for the present at the expense of the future by drawing down the productive stock that funds future output."
 aliases: [Mises capital consumption, antiliberal policy, Liberalism Part I §5]
 confidence: medium
-short: "Mises's *Liberalism* Part I §5 claim that 'antiliberal policy is a policy of capital consumption' — present abundance bought by drawing down the productive stock that would have funded future production."
+short: "Mises's *Liberalism* claim that 'antiliberal policy is a policy of capital consumption' — present abundance bought by drawing down the productive stock that would fund future production."
 ---
 
 # Mises on Capital Consumption

@@ -9,7 +9,7 @@ tags: [konrad-graf, bitcoin, property-rights, praxeology, austrian-economics, cy
 aliases: [Konrad Graf, Graf]
 confidence: high
 summary: "Konrad Graf is the Austrian-school theorist who applied action-based jurisprudence to Bitcoin in Are Bitcoins Ownable?, arguing that bitcoin can be analyzed as a rival, exclusively appropriable good — specified as a spendable transaction output — without repeating the intellectual-property error of treating copyable patterns as owned things. His work distinguishes owning a signing key from controlling a bitcoin, and shows where the ownability question actually bears on cases of theft, double spending, and fungibility."
-short: "Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival, UTXO-specified goods rather than ownable IP-style patterns."
+short: "Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival, UTXO-specified goods, not IP-style patterns."
 ---
 
 # Konrad Graf

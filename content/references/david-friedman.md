@@ -8,7 +8,7 @@ verified: 2026-07-15
 tags: [david-friedman, machinery-of-freedom, anarcho-capitalism, consequentialism, utilitarian, private-law, protection-agencies, market-anarchism, chicago-school]
 aliases: [David Friedman, David D. Friedman, The Machinery of Freedom, Machinery of Freedom]
 confidence: medium
-short: "The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son; not to be confused with him."
+short: "The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man."
 summary: "Author reference for David D. Friedman (b. 1945): the consequentialist anarcho-capitalist, whose The Machinery of Freedom argues for a stateless order — police and courts replaced by competing private firms — on efficiency/outcome grounds rather than a natural-rights axiom. Covers the competing-protection-agency mechanism (Tannahelp vs Dawn Defense; profit prices war out, contra Rand), private property as 'the machinery of freedom', 'selling the state in small pieces', and the explicit method choice to judge legal rules by consequences. The missing consequentialist pillar beside the wiki's natural-rights (Rothbard/Rand) ancap material; disambiguated from his father Milton."
 ---
 

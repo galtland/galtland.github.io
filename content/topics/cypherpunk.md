@@ -9,7 +9,7 @@ tags: [cypherpunk, crypto-anarchy, cryptography, bitcoin, privacy, proof-of-work
 aliases: [cypherpunks, crypto-anarchism, cypherpunk movement]
 confidence: medium
 summary: "Topic map for the cypherpunk thread: a 1990s technical-political movement holding that strong cryptography, anonymous protocols, and verifiable scarcity move power from centralized institutions to individuals. This wiki reads cypherpunk through an Austrian-libertarian lens — one implementation thread where sound money meets strong cryptography — while noting that not every cypherpunk shares those politics."
-short: "The wiki's Austrian-libertarian reading of cypherpunk: strong cryptography, anonymous protocols, and verifiable scarcity replacing trusted intermediaries with verifiable rules — one implementation thread, not the whole movement's politics."
+short: "The wiki's Austrian-libertarian cypherpunk reading: cryptography, anonymous protocols, and verifiable scarcity replace trusted intermediaries with verifiable rules — one thread, not the full movement."
 ---
 
 # Cypherpunk

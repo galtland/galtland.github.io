@@ -9,7 +9,7 @@ confidence: high
 tags: [rothbard, price-control, shortage, government-monopoly, conservation, water, electricity, public-utilities, austrian-economics, for-a-new-liberty, power-and-market]
 aliases: [Provide-and-Exhort, Save Water Paradox, Save Energy Paradox, Government Conservation Appeal, Conservation Appeal as Shortage Symptom]
 summary: "When the state both supplies a good and exhorts the public to save it, the conservation appeal is a symptom of the underlying economics, not environmental virtue. A compulsory government monopoly that prices its output below the market-clearing level cannot ration by price, so it rations by chronic shortage, moral exhortation, and coercive use restriction, blaming the consumer for the failure to clear. Rothbard's worked case is municipal water; rate-set utilities such as electricity are the structural parallel."
-short: "Where the state both supplies a utility good and runs conservation campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing — Rothbard's diagnosis of the New York water shortage."
+short: "Where the state supplies a utility and runs conservation campaigns, the appeal signals a compulsory monopoly pricing output below market-clearing — Rothbard's diagnosis of the NY water shortage."
 ---
 
 # Government Provision and the Conservation Appeal

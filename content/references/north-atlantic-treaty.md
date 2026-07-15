@@ -8,7 +8,7 @@ verified: 2026-07-08
 tags: [nato, treaties, defense-spending, article-3, article-5, collective-defense, ratchet, primary-source]
 aliases: [The North Atlantic Treaty, North Atlantic Treaty, NATO treaty, Washington Treaty, Wales Summit Declaration]
 confidence: medium
-short: "The 1949 founding treaty and the 2014 Wales Defence Investment Pledge — the primary documents behind NATO's defense-spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP, then raised to 3.5%."
+short: "The 1949 founding treaty and 2014 Wales Defence Investment Pledge — the documents behind NATO's spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP, then raised to 3.5%."
 summary: "Reference guide to the wiki's two NATO primary sources: the North Atlantic Treaty (Washington, 4 April 1949) and the Wales Summit Declaration (5 September 2014). Article 3 binds parties to maintain and develop the capacity to resist armed attack by 'continuous and effective self-help and mutual aid' — a deliberately open-ended obligation that later spending floors interpret; Article 5 is the collective-defense cornerstone. Wales ¶14 (the Defence Investment Pledge) crystallized Article 3 into the 2% of GDP guideline 'within a decade', and the May 2026 raise to 3.5% by 2032 extends the same ratchet. Read through the wiki's Tilly/Rothbard lens: a treaty-level mechanism by which member states' war spending ratchets upward by alliance interpretation, without new domestic authorization."
 ---
 

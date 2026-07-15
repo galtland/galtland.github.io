@@ -8,7 +8,7 @@ updated: 2026-07-02
 verified: 2026-07-02
 tags: [market-failure, public-goods, externalities, natural-monopoly, asymmetric-information, welfare-economics, government-failure, pigou, coase, objections]
 aliases: [Market Failure, market failure, public goods, externalities, natural monopoly, asymmetric information, the case for intervention]
-short: "The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly, with the Austrian/libertarian replies (the benchmark problem, property-rights solutions, and government failure)."
+short: "The standard case for government intervention — public goods, externalities, natural monopoly, asymmetric information — with Austrian replies: benchmark problem, property rights, government failure."
 summary: "Market failure is the most respectable economic argument for the state: welfare economics holds that in specific cases — public goods, externalities, natural monopoly, and asymmetric information — a free market produces inefficient outcomes that government can improve on. This entry states each argument fairly and gives the Austrian/libertarian replies: that the framework measures the real market against an unattainable 'perfect competition' benchmark; that many failures are really missing or undefined property rights (the Coasean point); that monopoly is usually a government grant rather than a market outcome; that markets evolve their own solutions to information problems; and that the government offered as the cure has systematic failures of its own. It is the economic core of the case for intervention, and the debate is genuinely unsettled at the edges."
 confidence: medium
 ---

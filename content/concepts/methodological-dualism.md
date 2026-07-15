@@ -9,7 +9,7 @@ confidence: high
 tags: [methodological-dualism, mises, epistemology, methodology, praxeology, philosophy-of-history, scientism, positivism, historicism, verstehen, teleology, austrian-economics]
 aliases: [Methodological Dualism, Theory and History, Conception and Understanding, Mises on Method, Theory vs History, Verstehen]
 summary: "Mises's foundational claim that the sciences of human action require a different method from the natural sciences: matter is studied through causality and constant relations, but human action is purposive and must be grasped teleologically, from the inside. From this dualism follow the two branches of the study of action — theory (praxeology, a priori and universal) and history (the understanding, Verstehen, of unique events) — and the rejection of scientism: the attempt to import the methods of physics into the study of man. It is the methodological backdrop of Misesian Austrian economics and of its quarrels with both the Keynesian aggregates and the Chicago empiricism."
-short: "Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history, and grounding the Austrian rejection of scientism."
+short: "Mises's claim that purposive human action cannot be studied by physics's methods — splitting its study into a priori theory and history, grounding the Austrian rejection of scientism."
 ---
 
 # Methodological Dualism

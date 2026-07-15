@@ -9,7 +9,7 @@ tags: [john-nash, ideal-money, monetary-theory, inflation, hard-money, gold-stan
 summary: "John Nash's argument that money should be a stable long-run standard of value — an 'ideal money' approached asymptotically by tying issuance to a stable index rather than central-bank discretion. A non-Austrian, game-theoretic convergence on the wiki's anti-inflation, hard-money conclusion, with a real methodological tension: Nash reaches it through a managed index, not market-chosen money."
 aliases: [ideal money, asymptotically ideal money, Nash ideal money, ICPI]
 confidence: medium
-short: "Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion — converging on hard money's anti-inflation conclusion from outside the Austrian tradition."
+short: "Nash's claim that good money holds stable long-run value, approached by pegging issuance to a stable index rather than central-bank discretion — hard money's conclusion, outside Austrian theory."
 ---
 
 # Ideal Money

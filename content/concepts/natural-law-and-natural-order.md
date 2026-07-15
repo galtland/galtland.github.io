@@ -9,7 +9,7 @@ tags: [natural-law, natural-order, natural-rights, natural-justice, classical-ca
 aliases: [natural law, natural order, natural rights, natural justice, jus naturale, lex naturalis, the law of nature, jusnaturalism]
 confidence: medium
 summary: "The natural-law tradition holds that there is an objective standard of justice — knowable by reason and binding prior to and above human enactment — against which positive law can be judged. This article maps its lineage from Aristotle's natural justice through Cicero's right reason, Aquinas's eternal/natural/human/divine scheme, Grotius's secularization, and Locke's natural rights, to its radical individualist (Spooner) and modern libertarian (Rothbard's natural-rights ethics, Hoppe's 'natural order') heirs."
-short: "The doctrine of an objective, reason-knowable justice prior to and above positive law — from Aristotle, Cicero, Aquinas, Grotius, and Locke down to Spooner, Rothbard, and Hoppe — and the foundation of the natural-rights branch of libertarianism."
+short: "The doctrine of objective, reason-knowable justice above positive law — from Aristotle and Aquinas down to Spooner, Rothbard, and Hoppe — foundation of libertarianism's natural-rights branch."
 ---
 
 # Natural Law and Natural Order

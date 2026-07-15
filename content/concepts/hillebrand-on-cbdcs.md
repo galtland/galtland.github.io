@@ -8,7 +8,7 @@ verified: 2026-06-09
 tags: [cbdc, central-bank-digital-currency, hillebrand, programmable-money, financial-surveillance, total-intervention]
 summary: "Max Hillebrand's argument that central bank digital currencies fuse surveillance, monetary, and behavioral control into one programmable mechanism — 'total intervention,' not a mere digital banknote."
 aliases: [Hillebrand CBDC, CBDC as total intervention, programmable central bank money]
-short: "Hillebrand's Ch. 10 §10.5 claim that CBDCs are not digital cash but programmable money that combines Rothbard's autistic, binary, and triangular intervention types into a single architecture for observation and control."
+short: "Hillebrand's claim: CBDCs are not digital cash but programmable money combining Rothbard's autistic, binary, and triangular intervention types into one architecture for observation and control."
 confidence: medium
 ---
 

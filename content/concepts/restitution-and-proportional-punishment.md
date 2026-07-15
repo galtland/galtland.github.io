@@ -8,7 +8,7 @@ updated: 2026-07-03
 verified: 2026-07-03
 tags: [restitution, punishment, proportionality, rothbard, ethics-of-liberty, lex-talionis, victims-rights, self-ownership, libertarian-law]
 aliases: [Restitution and Proportional Punishment, restitution, proportional punishment, lex talionis, let the punishment fit the crime, victims rights, two teeth for a tooth]
-short: "Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent, and justice is restitution to the victim plus proportional retribution — not punishment for 'society.'"
+short: "Rothbard's theory of justice: crime invades a victim's rights; the criminal forfeits his own rights equally, and justice means restitution plus proportional retribution — not punishing 'society.'"
 summary: "Restitution and proportional punishment is the libertarian theory of criminal justice worked out in Rothbard's Ethics of Liberty. It rests on self-ownership: a crime is an invasion of a specific victim's person or property, so the wronged party — not 'society' or the state — is the one owed redress. The criminal forfeits his own rights only to the extent that he violated another's, which yields a strict proportionality principle (the lex talionis, corrected from an eye for an eye to 'two teeth for a tooth' — restitution plus an equal loss of the aggressor's own rights). Its emphasis is on restitution to the victim rather than punishment for its own sake, and it rejects the deterrence and rehabilitation rationales that treat the offender as an instrument of social policy, along with the whole category of victimless crime. It is the criminal-law half of the wiki's market-anarchist legal order."
 confidence: medium
 ---

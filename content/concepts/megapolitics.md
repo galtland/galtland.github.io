@@ -9,7 +9,7 @@ tags: [megapolitics, james-dale-davidson, william-rees-mogg, sovereign-individua
 aliases: [megapolitics, megapolitical, logic of violence, the logic of violence, costs and rewards of violence]
 confidence: low
 summary: "Davidson and Rees-Mogg's theory that the deep factors governing the costs and rewards of using violence — topography, climate, microbes, and technology — set the boundaries within which conventional politics operates, and that shifts in this 'logic of violence' explain the rise and fall of forms of government."
-short: "The Sovereign Individual's master theory: underlying factors that set the cost of violence (topography, climate, microbes, technology) determine how societies are governed, beneath the level of ordinary politics."
+short: "The Sovereign Individual's master theory: underlying factors setting the cost of violence — topography, climate, microbes, technology — determine how societies are governed, beneath ordinary politics."
 ---
 
 # Megapolitics

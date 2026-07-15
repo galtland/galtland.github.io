@@ -8,7 +8,7 @@ updated: 2026-07-03
 verified: 2026-07-03
 tags: [censorship-resistance, bitcoin, crypto-anarchy, permissionless, self-custody, nostr, tor, cypherpunk, code-as-speech, privacy]
 aliases: [Censorship Resistance, censorship-resistant, permissionless, unstoppable transactions, uncensorable]
-short: "The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete — the animating goal of the cypherpunk project and Bitcoin's defining feature as money."
+short: "The property of a system no gatekeeper can block — a payment no bank can freeze, a message no platform can delete — the cypherpunk project's animating goal and Bitcoin's defining feature as money."
 summary: "Censorship resistance is the property of a system in which no gatekeeper can prevent a permitted action or reverse it after the fact: a payment no bank can freeze or claw back, a message no platform can delete, a connection no provider can cut. It is the animating political goal of the cypherpunk project — the reason strong cryptography matters beyond privacy — and the defining feature of Bitcoin as money. It rests on making a system permissionless (anyone may participate without an approver) and its records prohibitively costly to rewrite (via proof-of-work consensus), so that inclusion is governed by open rules rather than a chokepoint's discretion. But it is a property of protocols, not of people: it holds only for a self-custodying user with network access, and states retain the option of coercing the person or severing the network — so censorship resistance raises the cost of control without abolishing it."
 confidence: medium
 ---

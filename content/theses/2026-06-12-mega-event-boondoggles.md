@@ -11,7 +11,7 @@ aliases: [stadium boondoggles, mega-event economics, white-elephant stadiums, wo
 stance: contextualize
 verdict: contextualize
 confidence: medium
-short: "Host-city stadiums rarely pay off because they are built by caretakers who cannot keep the downside and chosen by a political process with no profit-and-loss test — a defect 'build a hospital instead' inherits rather than escapes."
+short: "Host-city stadiums rarely pay off: built by caretakers who can't keep the downside, chosen by politics with no profit-and-loss test — a defect 'build a hospital instead' inherits, not escapes."
 summary: "Reuters's finding that World Cups and Olympics rarely pay off is read through caretaker capital consumption and public choice — political owners harvest present prestige while consuming capital they cannot sell, and concentrated organizer benefits survive a vote dispersed taxpayers will not monitor — while 'build a hospital instead', taken as a remedy, is rejected for conceding the real defect: allocation by the political means, with no profit-and-loss test, which a hospital built the same way would inherit."
 ---
 

@@ -9,7 +9,7 @@ tags: [jurisdictional-competition, sovereignty-services, james-dale-davidson, wi
 aliases: [jurisdictional competition, interjurisdictional competition, sovereignty services, governments as firms, citizens as customers, government controlled by its customers]
 confidence: low
 summary: "The Sovereign Individual's forecast that, once wealth and talent are mobile, governments must compete for residents like firms competing for customers — selling 'sovereignty services' on market terms — using Frederic Lane's typology of governments controlled by proprietors, employees, or customers."
-short: "Davidson and Rees-Mogg's claim that mobile cyberwealth forces governments to compete for residents like firms compete for customers, shifting control of the state toward its 'customers' and pricing sovereignty on market terms."
+short: "Davidson and Rees-Mogg's claim that mobile cyberwealth forces governments to compete for residents like firms compete for customers, shifting control toward its 'customers' and pricing sovereignty."
 ---
 
 # Jurisdictional Competition

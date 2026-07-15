@@ -9,7 +9,7 @@ tags: [b-money, wei-dai, proof-of-work, digital-money, cypherpunk, crypto-anarch
 aliases: [b-money, bmoney, b money]
 confidence: high
 summary: "b-money is Wei Dai's 1998 proposal for a digital money that lets pseudonymous online participants hold balances and enforce contracts without any government or trusted issuer. Money is created by broadcasting solutions to costly computational problems, transfers are signed broadcasts applied to a shared set of account databases, and contracts are bonded with arbitration. It is one of the cypherpunk proof-of-work predecessors the Bitcoin whitepaper cites directly, supplying proof-of-work issuance and signed, broadcast-ordered accounts while leaving the consensus problem open."
-short: "Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts — a cited precursor to Bitcoin that left the consensus problem open."
+short: "Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed transfers, and bonded contracts — a precursor to Bitcoin that left the consensus problem open."
 ---
 
 # b-money

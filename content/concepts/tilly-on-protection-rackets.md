@@ -9,7 +9,7 @@ tags: [charles-tilly, protection-racket, war-and-state-formation, organized-crim
 summary: "Charles Tilly's formulation that war-making and state-making are 'quintessential protection rackets with the advantage of legitimacy' — a sociological convergence with the Austrian state-as-predator thesis."
 aliases: [Tilly protection racket, war-making state-making protection extraction, Tilly 1985 on rackets]
 confidence: high
-short: "Tilly's 1985 claim that war making and state making are quintessential protection rackets with the advantage of legitimacy, and that governments that produce both the danger and the shield against it qualify as racketeers."
+short: "Tilly's 1985 claim: war making and state making are protection rackets with the advantage of legitimacy — governments producing both the danger and the shield against it qualify as racketeers."
 ---
 
 # Tilly on Protection Rackets

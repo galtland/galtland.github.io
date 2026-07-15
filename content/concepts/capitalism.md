@@ -8,7 +8,7 @@ updated: 2026-07-02
 verified: 2026-07-02
 tags: [capitalism, free-market, market-economy, private-property, laissez-faire, consumer-sovereignty, profit-and-loss, voluntary-exchange, ludwig-von-mises, ayn-rand]
 aliases: [Capitalism, free market, free-market capitalism, market economy, free enterprise, laissez-faire, laissez-faire capitalism, what is capitalism]
-short: "The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud, coercion, and 'exploitation'."
+short: "The economic system of private property, voluntary exchange, and free prices — market cooperation — often confused with what it forbids: crony privilege, fraud, coercion, and 'exploitation'."
 summary: "Capitalism is the system in which the means of production are privately owned and goods and services change hands only by voluntary exchange, coordinated by free prices and the profit-and-loss test that keeps producers answerable to consumers. This entry defines it — private property, freedom of contract, consumer sovereignty, the economic means of acquiring wealth — and, following its critics' own confusions, sets out what it is not: not crony capitalism (privilege bought from the state), not fraud or theft or contract-breaking (which capitalism's rules forbid and punish), not 'exploitation' (a charge resting on the discredited labor theory of value), and not mere greed or money-making by any means. The confusions are why Ayn Rand called it 'the unknown ideal'."
 confidence: high
 ---

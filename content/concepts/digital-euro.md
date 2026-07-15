@@ -8,7 +8,7 @@ verified: 2026-07-08
 tags: [digital-euro, cbdc, ecb, holding-cap, programmable-money, two-tier-cbdc, financial-surveillance, legal-tender, european-union]
 aliases: [Digital Euro, digital euro, EU CBDC, COM(2023) 369]
 confidence: medium
-short: "The EU's retail CBDC project: a direct ECB liability with legal-tender status, bank-intermediated access, an ECB-set holding cap, and a formal ban on 'programmable money' built atop the plumbing that would enable it."
+short: "The EU's retail CBDC project: a direct ECB liability with legal-tender status, bank-intermediated access, a holding cap, and a formal ban on 'programmable money' atop plumbing that would enable it."
 summary: "Concept page on the digital euro — the EU's proposed retail central bank digital currency (regulation COM(2023) 369 final, tabled June 2023; ECB working assumption: adoption in 2026, first issuance around 2029). The design: a direct ECB liability with legal tender status, distributed through banks in a two-tier architecture with centralised Eurosystem settlement; an ECB-delegated holding limit (the FAQ tests EUR 3,000 per person) with waterfall linkage to bank deposits; a legal prohibition on restrictive 'programmable money' that still permits conditional payments; and a privacy floor that is stronger offline than online. The libertarian reading: the politically decisive powers sit with the ECB, and the cap/conditional-payment plumbing is structurally the surveillance-and-control plumbing, whatever today's prohibitions say."
 ---
 

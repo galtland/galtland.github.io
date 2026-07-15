@@ -8,7 +8,7 @@ verified: 2026-07-12
 tags: [julian-assange, wikileaks, cypherpunk, transparency, censorship-resistance, conspiracy-as-governance, banking-blockade, whistleblowing, crypto-anarchy]
 aliases: [Julian Assange, Assange, WikiLeaks]
 confidence: medium
-short: "Founder of WikiLeaks; early cypherpunks-mailing-list contributor whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes — and who then absorbed the full state response his model predicted."
+short: "Founder of WikiLeaks and early cypherpunks-list contributor whose 2006 essays theorized leaks as a secrecy tax on unjust regimes — then absorbed the state response his model predicted."
 summary: "Author reference for Julian Assange (b. 1971): cypherpunks-mailing-list contributor and Rubberhose author; the 2006 iq.org essays (State and Terrorist Conspiracies / Conspiracy as Governance) that blueprint WikiLeaks as a machine for taxing conspiratorial communication; WikiLeaks as applied cypherpunk sousveillance and the 2010 banking blockade as the empirical case for censorship-resistant money; the 2012 Cypherpunks book ('Cryptography is the ultimate form of non-violent direct action'); the persecution arc; and the honestly-flagged harm-versus-transparency dispute."
 ---
 

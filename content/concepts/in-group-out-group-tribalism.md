@@ -9,7 +9,7 @@ tags: [william-graham-sumner, ethnocentrism, in-group, out-group, we-group, trib
 summary: "Sumner's we-group/out-group distinction and his classic formulation of ethnocentrism: each group takes itself as the center of everything, breeding inward cohesion and outward hostility — the default tribal sentiment nationalism mobilizes and an individualist order must work against."
 aliases: [ethnocentrism, we-group, in-group out-group, tribalism, us versus them]
 confidence: medium
-short: "Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility — the human-default sentiment that nationalism mobilizes."
+short: "Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility that nationalism mobilizes."
 ---
 
 # In-Group/Out-Group Tribalism

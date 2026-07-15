@@ -9,7 +9,7 @@ tags: [james-dale-davidson, william-rees-mogg, sovereign-individual, information
 aliases: [The Sovereign Individual, Mastering the Transition to the Information Age, Sovereign Individual, the sovereign individual thesis]
 confidence: medium
 summary: "Reference guide to Davidson and Rees-Mogg's 1997 book arguing that the microprocessor lowers the returns to violence, dissolves the nation-state's taxing monopoly, drives commerce into an untaxable cybereconomy settled in encrypted digital cash, and produces a denationalized 'Sovereign Individual' who shops among competing jurisdictions."
-short: "Davidson and Rees-Mogg's 1997 forecast that the information age erodes the nation-state, moves wealth into an untaxable cybereconomy with encrypted digital money, and frees a mobile elite of 'Sovereign Individuals' from territorial taxation."
+short: "Davidson and Rees-Mogg's 1997 forecast: the information age erodes the nation-state, moves wealth into an untaxable cybereconomy with encrypted digital money, and frees a mobile elite."
 ---
 
 # The Sovereign Individual

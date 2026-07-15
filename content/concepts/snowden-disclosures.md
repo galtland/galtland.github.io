@@ -8,7 +8,7 @@ verified: 2026-07-11
 tags: [snowden, nsa, section-215, bulk-collection, mass-surveillance, fisa, pclob, aclu-v-clapper, usa-freedom-act, whistleblowing, cypherpunk, privacy]
 aliases: [The Snowden Disclosures, Snowden disclosures, Snowden revelations, Edward Snowden, 2013 disclosures]
 confidence: medium
-short: "June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own reviewers and courts, and answered by encryption-by-default."
+short: "June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own courts, and answered by encryption-by-default."
 summary: "Concept page on the June 2013 Snowden disclosures, built on the official record: the Verizon order revealing bulk telephone-metadata collection under Section 215; the PCLOB report finding the program legally nonviable, constitutionally troubling, and of minimal counterterrorism value (not a single instance, per the Board, in which the program made a concrete difference); ACLU v. Clapper holding it exceeded the statute; the USA FREEDOM Act ending it; Snowden's European Parliament testimony on the failure of internal channels; and the cypherpunk vindication — the post-2013 encryption-by-default wave that made the warnings of the 1990s deployed architecture and provoked Crypto Wars 2. Contested ground (espionage-law view, the limits of what the documents proved) flagged honestly."
 ---
 

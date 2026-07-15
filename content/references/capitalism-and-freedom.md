@@ -9,7 +9,7 @@ tags: [milton-friedman, chicago-school, capitalism-and-freedom, classical-libera
 aliases: [Capitalism and Freedom, Friedman Capitalism and Freedom]
 confidence: high
 summary: "Reference guide to Milton Friedman's Capitalism and Freedom (1962, with Rose D. Friedman): the classic statement of Chicago-school classical liberalism — competitive capitalism as economic freedom and a precondition of political freedom, the limited role of government, and the case for a legislated money-growth rule. The broad free-market source in the wiki's Austrian-versus-Chicago comparison, where Friedman is the ally on liberty and the rival on money."
-short: "Friedman's 1962 Capitalism and Freedom: capitalism as a precondition of political liberty, limited government, and the rule-bound managed money the Austrians reject — the Chicago counterpoint's headline text."
+short: "Friedman's 1962 Capitalism and Freedom: capitalism as precondition of political liberty, limited government, and rule-bound managed money the Austrians reject — Chicago's headline counterpoint."
 ---
 
 # Capitalism and Freedom

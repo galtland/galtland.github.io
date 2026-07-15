@@ -9,7 +9,7 @@ tags: [public-choice, james-buchanan, gordon-tullock, rational-ignorance, collec
 summary: "The public-choice diagnosis of why liberty is systematically under-supplied: rationally ignorant voters plus the logic of collective action (small concentrated interests out-organize the large diffuse public) make politics favor the few at the many's expense, regardless of who holds office."
 aliases: [public choice, rational ignorance, concentrated benefits dispersed costs, logic of collective action, government failure]
 confidence: medium
-short: "The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public, so politics favors the few at the expense of the many."
+short: "The public-choice account of why liberty is under-supplied: rationally ignorant voters let small concentrated interests out-organize the diffuse public, so politics favors the few over the many."
 ---
 
 # Public Choice and Rational Ignorance

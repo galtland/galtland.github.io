@@ -9,7 +9,7 @@ tags: [carl-menger, austrian-economics, origin-of-money, marginal-utility, salea
 aliases: [Carl Menger, Menger, Mengerian]
 confidence: high
 summary: "Carl Menger (1840–1921) founded the Austrian School with the marginal-utility analysis of his 1871 Principles of Economics, and in his 1892 essay On the Origins of Money gave the school its defining account of money: a spontaneous, unintended institution that emerges from the differing saleableness of goods as self-interested traders converge on the most marketable commodities — without any state decree. This is the seed of Mises's regression theorem and the Austrian-cypherpunk theory of money the wiki traces into Bitcoin."
-short: "Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods — the seed of the regression theorem."
+short: "Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as spontaneous order from goods' differing saleableness — seed of the regression theorem."
 ---
 
 # Carl Menger

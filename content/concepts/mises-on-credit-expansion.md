@@ -9,7 +9,7 @@ tags: [credit-expansion, mises, abct, interest-rates, fiduciary-media]
 summary: "Mises on how credit expansion falsifies entrepreneurial calculation: an artificially lowered interest rate makes capital-deficient projects look profitable, seeding the malinvestment the boom must later liquidate."
 aliases: [Mises credit expansion, circulation credit, gross market rate distortion]
 confidence: medium
-short: "Mises's claim that credit expansion drops the gross market rate of interest below its time-preference level and falsifies entrepreneurial calculation, making projects look profitable that a correct calculation would have shown unrealizable."
+short: "Mises's claim that credit expansion drops the gross market interest rate below its time-preference level, falsifying calculation and making unrealizable projects look profitable."
 ---
 
 # Mises on Credit Expansion

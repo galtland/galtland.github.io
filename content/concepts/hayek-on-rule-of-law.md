@@ -8,7 +8,7 @@ verified: 2026-06-09
 tags: [hayek, rule-of-law, central-planning, classical-liberalism, arbitrary-government, discretion]
 summary: "Hayek's account of the rule of law as government bound by fixed, pre-announced rules, and his argument that comprehensive planning requires the opposite — discretionary administration — making the two mutually exclusive."
 aliases: [Hayek on rule of law, Road to Serfdom rule of law, planning vs rule of law]
-short: "Hayek's Road to Serfdom claim that the rule of law means government action is bound by rules fixed and announced beforehand, and that economic planning necessarily replaces that constraint with administrative discretion."
+short: "Hayek's Road to Serfdom claim: the rule of law means government is bound by rules fixed and announced beforehand, and economic planning replaces that constraint with administrative discretion."
 confidence: medium
 ---
 

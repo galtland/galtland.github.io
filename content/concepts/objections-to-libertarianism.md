@@ -9,7 +9,7 @@ updated: 2026-07-02
 verified: 2026-07-02
 tags: [objections, criticism, steelman, the-other-side, market-failure, distributive-justice, keynesianism, anarcho-capitalism, human-nature, sovereignty]
 aliases: [Objections to Libertarianism, criticisms of libertarianism, the case against libertarianism, steelman, the other side, arguments against libertarianism]
-short: "A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical — each pointed to its fuller treatment, with an honest note on where the wiki's answers are weakest."
+short: "A map of the strongest objections to this wiki's libertarian and Austrian positions — economic, institutional, distributive, philosophical — each linked to its fuller treatment and weakest answer."
 summary: "A wiki with a strong point of view owes its readers the strongest case against it. This entry gathers the most serious objections to the libertarian and Austrian arguments made across the corpus and points each to its fuller treatment: market failure and public goods; the Keynesian critique of laissez-faire; whether a stateless order can actually work; Rawlsian distributive justice; the Marxian exploitation charge; the human-nature and adoption problem; and the non-libertarian critiques of power and sovereignty. It is a deliberate steelman — the objections are stated as their proponents would put them — and it closes by naming the points where this wiki's own answers are thinnest."
 confidence: medium
 ---

@@ -9,7 +9,7 @@ tags: [milton-friedman, chicago-school, monetarism, monetary-policy, natural-rat
 aliases: [Friedman, Milton Friedman, Prof. Friedman]
 confidence: medium
 summary: "Author reference for Milton Friedman (1912-2006), the American economist who led the Chicago school and revived the quantity theory of money as monetarism. His General Theory-era opponents were the Keynesians; in this wiki he is the principal free-market counterpoint to the Austrians (Mises, Hayek, Rothbard) — an ally on liberty and the market, a rival on money and method, whose case for a rule-bound managed central bank the Austrian corpus treats as managing the disease rather than curing it."
-short: "Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism; author of Capitalism and Freedom and the 1968 monetary address — the free-market ally the wiki's Austrians part with over money and method."
+short: "Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism, author of Capitalism and Freedom — the free-market ally the wiki's Austrians part with over money and method."
 ---
 
 # Milton Friedman

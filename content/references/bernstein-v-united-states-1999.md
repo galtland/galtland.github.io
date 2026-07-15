@@ -9,7 +9,7 @@ tags: [libertarian, cypherpunk, bernstein-v-united-states, code-as-speech, first
 aliases: [Bernstein v. USDOJ, Bernstein v. Department of State, Bernstein v. Department of Justice, Bernstein 1999, Snuffle case]
 confidence: medium
 summary: "The 1999 Ninth Circuit panel opinion in Bernstein held that encryption source code, as used by cryptographers, can be expressive First Amendment material and that the challenged export-control licensing regime operated as unconstitutional prior restraint. The opinion was withdrawn when the court granted rehearing en banc, and the dispute was mooted by changed export rules before any en banc ruling, so it set no binding precedent. The source also records the district-court path through Judge Marilyn Hall Patel's 1996 and 1997 rulings."
-short: "The influential — but later withdrawn and non-precedential — 1999 Ninth Circuit panel opinion treating encryption source code as speech and striking export licensing as unconstitutional prior restraint."
+short: "The influential but later withdrawn, non-precedential 1999 Ninth Circuit opinion treating encryption source code as speech and striking export licensing as unconstitutional prior restraint."
 ---
 
 # Bernstein v. United States (1999)

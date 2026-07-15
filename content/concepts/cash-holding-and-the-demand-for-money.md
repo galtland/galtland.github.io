@@ -9,7 +9,7 @@ tags: [mises, money-demand, cash-holding, purchasing-power, austrian-economics, 
 summary: "Mises on the demand for money as cash holding: purchasing power cannot be explained without individuals' demand to hold money, whose sum (money proper plus fiduciary media) is the community's money demand."
 aliases: [demand for money, cash balance, money relation, need for money]
 confidence: medium
-short: "Austrian-monetary-theory primitive: the purchasing power of money is determined by the supply of money against the demand to hold money, where 'demand' is each individual's subjective valuation of cash balances. Without this side of the relation, neither money's price nor monetary intervention's effects can be reasoned about correctly."
+short: "Austrian primitive: money's purchasing power is set by supply against demand to hold it — each person's subjective valuation of cash balances, without which price or intervention can't be assessed."
 ---
 
 # Cash Holding and the Demand for Money

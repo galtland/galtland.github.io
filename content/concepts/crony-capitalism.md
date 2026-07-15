@@ -8,7 +8,7 @@ updated: 2026-07-01
 verified: 2026-07-01
 tags: [crony-capitalism, cronyism, corporatism, rent-seeking, regulatory-capture, monopoly-privilege, subsidies, bailouts, protectionism, public-choice, political-means, legal-plunder]
 aliases: [Crony Capitalism, cronyism, crony capitalist, corporate welfare, corporatism, political capitalism, pro-business vs pro-market]
-short: "The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise; in the libertarian view not a market failure but the political means in a market mask."
+short: "The sale of political privilege to favored firms — subsidies, bailouts, tariffs, licensing barriers, regulatory advantage — dressed as free enterprise; the political means wearing a market mask."
 summary: "Crony capitalism is profit won not by serving consumers but by capturing the state: subsidies, bailouts, protective tariffs, occupational licensing, exclusive franchises, and regulation written to raise rivals' costs. The libertarian argument is that it is misnamed — it is not capitalism but privilege, the political means wearing a market disguise, and the case against it turns on the distinction between being pro-market (a competitive order open to all and guaranteeing profit to none) and pro-business (protecting incumbents from that competition). It is Bastiat's legal plunder, Rothbard's grant of monopoly privilege, and the public-choice logic of concentrated benefits and dispersed costs, applied to the firm."
 confidence: high
 ---

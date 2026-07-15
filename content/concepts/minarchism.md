@@ -8,7 +8,7 @@ updated: 2026-06-29
 verified: 2026-06-29
 tags: [minarchism, minimal-state, night-watchman-state, ayn-rand, robert-nozick, limited-government, anarcho-capitalism, classical-liberalism, competing-governments]
 aliases: [Minarchism, minarchism, minimal state, night-watchman state, limited government, minarchist]
-short: "The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished. The minimal-state pole of the anarchism-vs-minarchism debate."
+short: "The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate."
 summary: "Minarchism is the view that a single, strictly limited state confined to defense, police, and courts is both legitimate and necessary — the rights-protecting 'night-watchman' state. It is the chief rival, within libertarianism, to anarcho-capitalism: Rand and Nozick defend the minimal state, while the market-anarchist tradition argues that even it is an unjust coercive monopoly."
 confidence: medium
 ---

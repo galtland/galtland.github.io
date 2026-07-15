@@ -9,7 +9,7 @@ tags: [hayek, denationalisation-of-money, competing-currencies, currency-competi
 aliases: [Denationalisation of Money, Denationalization of Money, The Argument Refined, competing currencies, currency competition, free trade in money]
 confidence: medium
 summary: "F. A. Hayek's 1976/1978 IEA monograph arguing that the government monopoly on money should be abolished and replaced by 'free trade in money' — competition among private issuers of distinct, stable-value currencies, so that the discipline of competition forces issuers to maintain purchasing power. Widely cited as an intellectual forerunner of cryptocurrency, and sharply criticized by Rothbard and Hoppe on regression-theorem grounds."
-short: "Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete; a forerunner of the Bitcoin debate, criticized within the Austrian school by Rothbard and Hoppe."
+short: "Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe."
 ---
 
 # Denationalisation of Money

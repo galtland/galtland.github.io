@@ -8,7 +8,7 @@ updated: 2026-07-02
 verified: 2026-07-02
 tags: [anarcho-capitalism, market-anarchism, criticism, minarchism, robert-nozick, public-goods, defense, warlords, night-watchman-state, objections]
 aliases: [Criticisms of Anarcho-Capitalism, objections to anarcho-capitalism, criticisms of market anarchism, the case against ancap, problems with anarcho-capitalism]
-short: "The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly, with the anarcho-capitalist replies."
+short: "The strongest objections to a stateless market order — public goods, the warlord problem, Nozick's invisible-hand state, equal justice, stability — stated fairly, with anarcho-capitalist replies."
 summary: "Anarcho-capitalism holds that even law, courts, and defense can be supplied on the market without a monopoly state. This entry states the strongest objections to that claim fairly and gives the anarcho-capitalist replies: the public-goods argument that defense and law are non-excludable and will be under-supplied; the Hobbesian/warlord argument that competing protection agencies will fight or collude into a de facto state; Robert Nozick's invisible-hand argument that a minimal state would legitimately arise from anarchy without violating rights; the objection that market justice cannot be equal for the poor; and the stability objection that any stateless order reverts to a state. The debate turns on contested empirical questions about how markets in protection would behave, on which history gives only fragmentary evidence."
 confidence: medium
 ---

@@ -9,7 +9,7 @@ confidence: high
 tags: [sociality, socialitas, sociability, natural-law, natural-rights, natural-order, law-of-nature, samuel-pufendorf, natural-equality, classical-canon, jusnaturalism, duties-of-man, property, contract, civil-society, nonaggression]
 aliases: [sociality, socialitas, sociability, sociableness, social nature, sociable life, the social principle, law of sociality]
 summary: "Sociality (Latin socialitas) is Samuel Pufendorf's name for the fundamental law of nature from which his whole account of what one person owes another descends: because man cannot survive without his own kind yet is uniquely prone to harm them, every person must so conduct himself toward others that they have no just cause to injure him. Pufendorf glosses the society to be preserved as the welfare of mankind, and from sociality derives the interpersonal duties of not injuring (with reparation for wrongs), treating others as natural equals, and doing them good, together with the truthful speech, promise-keeping, property, and civil order that make peaceful cooperation practicable — grounding natural law in observable human nature rather than scholastic metaphysics."
-short: "Pufendorf's foundational law of nature: because man is needy yet prone to harm, every person must so behave that others have no just cause to injure him — the root of the duties of non-injury and reparation, natural equality, humanity, contract, property, and civil order."
+short: "Pufendorf's foundational law of nature: man is needy yet prone to harm, so each must behave so others have no just cause to injure him — root of the duties of non-injury, equality, and contract."
 ---
 
 # Sociality

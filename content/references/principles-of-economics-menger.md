@@ -9,7 +9,7 @@ tags: [carl-menger, austrian-economics, subjective-theory-of-value, marginal-uti
 aliases: [Grundsätze der Volkswirtschaftslehre, "Menger's Principles", Menger Principles of Economics, Grundsatze]
 confidence: high
 summary: "Principles of Economics (Grundsätze der Volkswirtschaftslehre, 1871) is Carl Menger's founding work of the Austrian School and one of the three independent origins of the marginal revolution. Its theory of value is the cornerstone of the subjective theory of value: value is not a property inherent in goods but a judgment economizing individuals make about the importance of goods for satisfying their needs, and its measure is entirely subjective."
-short: "Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, never a property inherent in the good — the cornerstone of the subjective theory of value."
+short: "Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, not a property inherent in the good — cornerstone of subjective value."
 ---
 
 # Principles of Economics (Menger)

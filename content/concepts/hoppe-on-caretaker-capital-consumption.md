@@ -9,7 +9,7 @@ tags: [hoppe, democracy, caretaker, capital-consumption, time-preference, public
 summary: "Hoppe's caretaker thesis: a democratic ruler owns only the current use of government resources, not their capital value, so he maximizes present income at the expense of the capital stock."
 aliases: [Hoppe caretaker capital consumption, prince vs caretaker, Hoppe DGTF caretaker]
 confidence: medium
-short: "Hoppe's claim in *Democracy: The God That Failed* that a democratic government caretaker owns only the current use of state resources, not their capital value, so the structural prediction is continual capital consumption — the institutional asymmetry between a king who can sell the estate and a president who cannot."
+short: "Hoppe's claim: a democratic caretaker owns only current use of state resources, not capital value, predicting continual capital consumption — unlike a king who can sell the estate outright."
 ---
 
 # Hoppe on Caretaker Capital Consumption

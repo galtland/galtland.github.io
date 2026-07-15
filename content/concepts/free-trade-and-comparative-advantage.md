@@ -8,7 +8,7 @@ updated: 2026-07-01
 verified: 2026-07-01
 tags: [free-trade, comparative-advantage, law-of-association, ricardo, ludwig-von-mises, protectionism, division-of-labor, tariffs, austrian-economics]
 aliases: [Free Trade, Comparative Advantage, comparative advantage, law of association, law of comparative cost, Ricardian law of association]
-short: "The economic case for free trade: by comparative advantage, even a party worse at producing everything gains by specializing where it is relatively best and trading — so trade is mutually enriching and protectionism destroys wealth."
+short: "The economic case for free trade: by comparative advantage, even a party worse at everything gains by specializing where relatively best — trade enriches both sides, protectionism destroys wealth."
 summary: "Free trade rests on the law of comparative advantage — Ricardo's law of comparative cost, which Mises generalized as the law of association: even a person or nation absolutely worse at producing everything still gains by specializing where its disadvantage is smallest and trading for the rest. Trade is positive-sum; a tariff forces resources into less productive uses and makes both sides poorer. The economic companion to open borders."
 confidence: high
 ---

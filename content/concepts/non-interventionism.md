@@ -9,7 +9,7 @@ tags: [murray-rothbard, non-interventionism, war, foreign-policy, nonaggression,
 summary: "Rothbard's derivation of the libertarian foreign-policy stance from the non-aggression axiom: inter-State war aggresses against the State's own taxpayers, and modern war almost always kills innocents too, so no State can wage it justly; the objective is to pressure States not to launch wars and, once at war, to sue for peace."
 aliases: [non-intervention, anti-war libertarianism, libertarian foreign policy, blowback, just war]
 confidence: high
-short: "The libertarian foreign-policy position from Rothbard's 'War, Peace, and the State': inter-State war aggresses against the State's own taxpayers (and modern war almost always against innocents too), so no State can wage it justly and the objective is non-intervention."
+short: "Rothbard's foreign-policy position: inter-State war aggresses against taxpayers, and modern war almost always against innocents too, so no State can wage it justly; the aim is non-intervention."
 ---
 
 # Non-Interventionism

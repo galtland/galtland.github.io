@@ -9,7 +9,7 @@ tags: [hayek, rothbard, mises, austrian-economics, praxeology, knowledge-problem
 aliases: [Rothbard vs Hayek, Hayek vs Rothbard, two heirs of Mises, Mises-Rothbard vs Hayek-Kirzner, dehomogenization]
 confidence: medium
 summary: "How the two leading inheritors of the Misesian tradition diverge: Rothbard continues Mises's strict a-priori praxeology, calculation-based critique of socialism, and pushes to anarcho-capitalism; Hayek shifts toward evolutionary/empirical method, a dispersed-knowledge framing, and limited-government classical liberalism. On Salerno's 'dehomogenization' reading they are not equidistant from Mises — Rothbard is the orthodox heir, Hayek the divergence."
-short: "The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government) — with the caveat that they are not symmetric disciples."
+short: "The intra-Austrian split: Rothbard the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government) — not symmetric disciples."
 ---
 
 # Rothbard vs. Hayek: The Two Heirs of Mises
