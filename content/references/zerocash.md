@@ -56,6 +56,7 @@ Zcash is the deployed system descending from this design. The main conceptual co
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - trust-minimization lens for the setup trade-off
 - [[cypherpunk|Cypherpunk]] - movement context for private digital cash
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for privacy-preserving cryptographic systems
+- [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 
 ## Sources
 

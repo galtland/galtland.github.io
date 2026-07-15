@@ -104,6 +104,7 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[trevor-perrin|Trevor Perrin]] - Cryptographer, co-author with Moxie Marlinspike of Signal's X3DH and Double Ratchet specs — the key-agreement and ratcheting core of modern end-to-end encrypted messaging.
 - [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
 - [[snowden-disclosures|The Snowden Disclosures]] - June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own reviewers and courts
+- [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 
 ## Sources
 

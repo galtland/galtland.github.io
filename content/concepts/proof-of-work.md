@@ -89,6 +89,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
 - [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
+- [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 
 ## Sources
 

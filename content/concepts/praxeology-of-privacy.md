@@ -82,6 +82,7 @@ In Hillebrand's framework, surveillance attacks the observation stage of the adv
 - [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw material
 - [[coinjoin|CoinJoin and PayJoin]] - two Bitcoin base-layer privacy techniques: CoinJoin merges many users' inputs into one transaction to break address linkage; PayJoin disguises which input is the sender's
 - [[your-secret-right-to-cash|Your Secret Right to Cash]] - Van Valkenburgh's 2017 essay: cash silently guaranteed uncensorable, private payment — a 'secret right' nobody defended because physics enforced it, until electronic money removed it.
+- [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 
 ## Sources
 

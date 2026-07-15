@@ -57,6 +57,7 @@ CryptoNote also belongs between Chaum and Zerocash in the privacy-money lineage.
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - trust-minimization lens for avoiding laundering services and trusted mixers
 - [[cypherpunk|Cypherpunk]] - movement context for private digital cash
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for privacy-preserving cryptographic systems
+- [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 
 ## Sources
 

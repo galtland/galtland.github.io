@@ -149,6 +149,7 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 - [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
+- [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 
 ## Sources
 

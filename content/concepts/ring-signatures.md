@@ -58,6 +58,7 @@ Ring signatures are one branch of digital-cash privacy. Chaum's [[blind-signatur
 - [[cypherpunk|Cypherpunk]] - movement context for private digital cash
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for privacy-preserving cryptographic systems
 - [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
+- [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 
 ## Sources
 
