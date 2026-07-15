@@ -43,6 +43,7 @@ In the forest the couple finds a house surviving from the Unmentionable Times, f
 - [[atlas-shrugged|Atlas Shrugged]] - the mature statement
 - [[totalitarianism|Totalitarianism]] - the wiki's non-libertarian analysis of the collectivist endpoint Anthem dramatizes
 - [[libertarianism|Libertarianism]] - broader individualist tradition
+- [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 
 ## Sources
 - [Anthem (Full Text)](https://www.gutenberg.org/cache/epub/1250/pg1250.txt) - the 1938 novella, US public domain (Project Gutenberg)

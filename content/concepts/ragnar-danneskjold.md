@@ -43,6 +43,7 @@ Ragnar is the novel's most troubling figure even to admirers, and Rand knew it â
 - [[reardens-trial-speech|Rearden's Trial Speech]] - the producer to whom Ragnar restitutes the seized gold
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the non-initiation-of-force principle Ragnar's methods sit uneasily with
 - [[crony-capitalism|Crony Capitalism]] - the looters whose relief ships Ragnar seizes
+- [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism â€” reason, rational self-interest, and laissez-faire capitalism
 
 ## Sources
 

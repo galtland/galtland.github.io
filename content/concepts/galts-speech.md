@@ -48,6 +48,7 @@ The speech's philosophical moves are the most disputed in Rand's work. Critics c
 - [[franciscos-money-speech|Francisco's Money Speech]] - the novel's other great set-piece, on money and the trader principle
 - [[aristotle|Aristotle]] - the law of identity ("A is A") the speech builds its metaphysics on
 - [[reardens-trial-speech|Rearden's Trial Speech]] - Hank Rearden's defense at his trial in Atlas Shrugged: he refuses to grant the court the moral sanction to judge him for producing — a compact dramatization of the withdrawn sanction of the victim.
+- [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 
 ## Sources
 

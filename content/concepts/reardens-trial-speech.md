@@ -44,6 +44,7 @@ As drama the scene is exhilarating; as a model of action it is, like the strike,
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the property right in one's own product that Rearden asserts
 - [[the-politics-of-obedience|The Politics of Obedience]] - domination as dependent on the compliance it can be denied
 - [[ragnar-danneskjold|Ragnar Danneskjöld]] - Rand's philosopher-pirate in Atlas Shrugged and his deliberate inversion of the Robin Hood myth — an attack on the idea that need, not achievement, is the source of rights.
+- [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 
 ## Sources
 

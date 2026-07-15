@@ -53,6 +53,7 @@ The Fountainhead became one of the best-known American novels of individualism a
 - [[atlas-shrugged|Atlas Shrugged]] - Rand's later, fuller statement
 - [[anthem|Anthem]] - the anti-collectivist novella
 - [[the-virtue-of-selfishness|The Virtue of Selfishness]] - the ethics of egoism stated directly
+- [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 
 ## Sources
 - [The Fountainhead (Full Text Aggregate)](https://archive.org/details/rand-ayn-the-fountainhead) - the 1943 novel with Rand's introduction (non-official OCR scan; quote-check against an authorized edition)
