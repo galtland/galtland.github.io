@@ -106,6 +106,7 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
 - [[21-lessons|21 Lessons]] - Gigi's book of 21 lessons from the Bitcoin rabbit hole — seven philosophical, seven economic, seven technological — ending where the movement began: cypherpunks write code.
+- [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 
 ## Sources
 

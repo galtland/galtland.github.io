@@ -81,6 +81,7 @@ Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; 
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
+- [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 
 ## Sources
 

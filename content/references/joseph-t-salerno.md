@@ -55,6 +55,7 @@ The 1993 paper is explicit about what the dehomogenization argument does *not* c
 - [[murray-n-rothbard|Murray N. Rothbard]] — the source whose work Salerno extends
 - [[ludwig-von-mises|Ludwig von Mises]] — the foundational figure Salerno's monetary work descends from
 - [[americas-great-depression|America's Great Depression]] — Rothbard's broad money-supply argument that TMS formalizes
+- [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 
 ## Sources
 

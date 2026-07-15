@@ -65,6 +65,7 @@ These criticisms do not all land the same way against Bitcoin, whose cryptograph
 - [[the-sovereign-individual|The Sovereign Individual]] - 1997 forecast that "encrypted cybercash" would realize Hayek's currency-competition logic
 - [[the-cybereconomy|The Cybereconomy]] - the borderless digital-money domain framed as fulfilling denationalization
 - [[school-of-salamanca|School of Salamanca]] - the scholastic anti-debasement and quantity-theory forerunners of monetary competition
+- [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 
 ## Sources
 
