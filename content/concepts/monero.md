@@ -74,6 +74,7 @@ None of this is settled, and the confidence here is medium. Regulators increasin
 - [[praxeology-of-privacy|Praxeology of Privacy]] - privacy as selective disclosure, the frame for tracking and viewing keys
 - [[cypherpunk|Cypherpunk]] - the movement whose untraceable-cash-without-a-bank ambition these coins realize
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for privacy-preserving systems
+- [[money-and-banking|Money and Banking]] - The wiki's money hub: the Austrian theory of money from Menger and Mises through sound money, banking and the business cycle, the fiat system and CBDCs, to Bitcoin as digital hard money.
 
 ## Sources
 

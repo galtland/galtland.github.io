@@ -41,7 +41,7 @@ Each Part numbers its chapters internally from I, so chapter references are alwa
 - **Front matter**: Preface to the New Edition; Lionel Robbins's 1934 introduction; Preface to the English Edition; Preface to the Second German Edition.
 - **Part One — The Nature of Money** (Chapters I–VI): the functions of money, measurement of value, the various kinds of money, money and the State, money as an economic good, the enemies of money.
 - **Part Two — The Value of Money** (Chapters I–VIII): the concept of the value of money, the determinants of objective exchange-value, the problem of measuring objective exchange-value, the social consequences of variations in the value of money, monetary policy, the monetary policy of etatism.
-- **Part Three — Money and Banking** (Chapters I–VI): the business of banking, the evolution of fiduciary media, fiduciary media and the demand for money, the redemption of fiduciary media, money/credit/interest, problems of credit policy.
+- **Part Three — [[money-and-banking|Money and Banking]]** (Chapters I–VI): the business of banking, the evolution of fiduciary media, fiduciary media and the demand for money, the redemption of fiduciary media, money/credit/interest, problems of credit policy.
 - **Part Four — Monetary Reconstruction** (Chapters I–III, added 1953): the principle of sound money, contemporary currency systems, the return to sound money.
 - Concluding Remarks; Appendix A (Classification of Monetary Theories); Appendix B (Translator's Note).
 

@@ -90,6 +90,7 @@ Whether *digital gold* truly succeeds gold is contested, and it reopens the very
 - [[joseph-t-salerno|Joseph T. Salerno]] - modern Austrian scholar of sound money
 - [[ideal-money|Ideal Money]] - Nash's non-commodity route to stable-value money
 - [[austrian-economics|Austrian Economics]] - the school whose monetary tradition frames the case for gold
+- [[money-and-banking|Money and Banking]] - The wiki's money hub: the Austrian theory of money from Menger and Mises through sound money, banking and the business cycle, the fiat system and CBDCs, to Bitcoin as digital hard money.
 
 ## Sources
 
