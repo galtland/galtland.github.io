@@ -4,7 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-27
 updated: 2026-06-09
-verified: 2026-05-30
+verified: 2026-06-09
 tags: [tim-may, cypherpunk, crypto-anarchy, cryptography, privacy, libertarianism]
 aliases: [Tim May, Timothy May, T. C. May]
 confidence: medium

@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-28
 updated: 2026-06-12
-verified: 2026-05-30
+verified: 2026-06-12
 tags: [bitcoin, lightning-network, payment-channels, htlc, proof-of-work, cypherpunk, scalability]
 aliases: [Lightning Network, Bitcoin Lightning Network, payment channels, HTLCs, hashed timelock contracts]
 confidence: high

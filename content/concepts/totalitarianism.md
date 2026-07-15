@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-06-09
-verified: 2026-05-31
+verified: 2026-06-09
 tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, stalinism, gulag, total-domination, banality-of-evil, state, central-planning, evolution-of-the-state, non-libertarian]
 aliases: [totalitarian rule, ideology and terror]
 confidence: medium

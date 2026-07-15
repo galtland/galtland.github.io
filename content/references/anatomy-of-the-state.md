@@ -4,7 +4,7 @@ volatility: warm
 category: reference
 created: 2026-04-25
 updated: 2026-06-09
-verified: 2026-05-30
+verified: 2026-06-09
 tags: [rothbard, state, anti-statism, political-theory, political-means, evolution-of-the-state]
 aliases: [Anatomy]
 confidence: medium

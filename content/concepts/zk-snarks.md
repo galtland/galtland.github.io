@@ -7,7 +7,7 @@ updated: 2026-05-28
 verified: 2026-05-30
 tags: [libertarian, cypherpunk, zk-snarks, zero-knowledge-proofs, zerocash, zcash, privacy-coins, cryptography]
 aliases: [zero-knowledge succinct non-interactive arguments of knowledge, SNARKs, ZK SNARKs, succinct zero-knowledge proofs]
-confidence: medium-high
+confidence: medium
 summary: "zk-SNARKs are short, publicly verifiable zero-knowledge proofs of knowledge. Zerocash uses them to prove that a private ledger transition is valid without revealing the coins, amounts, or addresses involved."
 short: "Short zero-knowledge proofs that let Zerocash/Zcash prove private ledger transitions are valid without exposing transaction details."
 ---

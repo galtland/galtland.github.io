@@ -4,7 +4,7 @@ volatility: cold
 category: concept
 created: 2026-05-31
 updated: 2026-06-09
-verified: 2026-05-31
+verified: 2026-06-09
 tags: [objectivism, ayn-rand, ethics, rational-self-interest, capitalism, individual-rights, epistemology, reason]
 aliases: [Objectivist philosophy, Rand's philosophy, Objectivist ethics]
 confidence: medium

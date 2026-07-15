@@ -4,7 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-31
 updated: 2026-06-09
-verified: 2026-05-31
+verified: 2026-06-09
 tags: [ayn-rand, objectivism, capitalism, individualism, rational-self-interest, novelist-philosopher, romantic-realism]
 aliases: [Rand, Alisa Rosenbaum, Ayn Rand author]
 confidence: medium

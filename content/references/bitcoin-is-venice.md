@@ -4,7 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-28
 updated: 2026-06-09
-verified: 2026-05-30
+verified: 2026-06-09
 tags: [allen-farrington, bitcoin, austrian-economics, sound-money, fiat, venice, capitalism, cypherpunk]
 aliases: [Bitcoin is Venice, Farrington Bitcoin Is Venice, Rhapsody on a Theme by Nakamoto]
 confidence: medium

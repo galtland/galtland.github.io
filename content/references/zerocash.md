@@ -7,7 +7,7 @@ updated: 2026-05-28
 verified: 2026-05-30
 tags: [libertarian, cypherpunk, zerocash, zcash, zk-snarks, zero-knowledge-proofs, privacy-coins, bitcoin, digital-cash]
 aliases: [Zerocash paper, Decentralized Anonymous Payments from Bitcoin, Zerocash extended paper, Zcash foundation paper]
-confidence: medium-high
+confidence: medium
 summary: "Ben-Sasson, Chiesa, Garman, Green, Miers, Tromer, and Virza's 2014 Zerocash paper proposes a decentralized anonymous payment protocol using zk-SNARKs to hide transaction origin, destination, and amount while preserving ledger validity. It is the technical foundation for Zcash."
 short: "The 2014 Zerocash paper: zk-SNARK-based private payments that hide origin, destination, and amount while preserving ledger validity."
 ---

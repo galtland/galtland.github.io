@@ -4,7 +4,7 @@ volatility: cold
 category: reference
 created: 2026-05-31
 updated: 2026-06-12
-verified: 2026-05-31
+verified: 2026-06-12
 tags: [hayek, pretence-of-knowledge, nobel-lecture, scientism, knowledge-problem, spontaneous-order, complexity, methodology, austrian-economics]
 aliases: [The Pretence of Knowledge, The Pretense of Knowledge, Hayek Nobel lecture, Hayek 1974 Nobel lecture]
 confidence: medium

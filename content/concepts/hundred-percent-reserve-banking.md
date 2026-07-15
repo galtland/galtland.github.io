@@ -8,6 +8,7 @@ verified: 2026-06-18
 tags: [rothbard, banking, fiduciary-media, sound-money, fractional-reserves, property-rights, money]
 summary: "The Rothbardian case for 100%-reserve banking: issuing money substitutes beyond the stock of specie is inflation and pseudo-warehouse-receipt fraud; full reserves remove the first stage of the credit-expansion cycle."
 aliases: [100-percent reserves, full-reserve banking, Rothbardian banking, sound-banking, hundred percent reserve]
+confidence: medium
 short: "Rothbardian normative position that demand deposits and bank-issued notes must be 100% covered by money proper held in reserve. Issuing claims to money beyond actual reserves is pseudo-warehouse-receipts — a property-rights violation against depositors and the operational mechanism of inflation as Rothbard defines it. The institutional regime that removes the first stage of the Austrian credit-expansion mechanism."
 ---
 

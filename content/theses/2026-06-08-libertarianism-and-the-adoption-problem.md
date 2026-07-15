@@ -5,7 +5,7 @@ category: thesis
 type: thesis
 created: 2026-06-08
 updated: 2026-06-12
-verified: 2026-06-08
+verified: 2026-06-12
 tags: [thesis, libertarianism, adoption, strategy, obedience, nationalism, tribalism, public-choice, agorism, surveillance, cbdc, cryptography, monetary-collapse, creed, human-nature]
 aliases: [adoption problem, why libertarianism is hard to adopt, libertarianism and human nature, can libertarianism succeed, the surveillance objection]
 stance: contextualize

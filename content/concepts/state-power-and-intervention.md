@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-04-21
 updated: 2026-06-09
-verified: 2026-05-31
+verified: 2026-06-09
 tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [state intervention, interventionism]
 confidence: medium

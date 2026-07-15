@@ -7,7 +7,7 @@ updated: 2026-05-30
 verified: 2026-05-30
 tags: [libertarian, cypherpunk, forward-secrecy, signal, double-ratchet, x3dh, diffie-hellman, cryptography, messaging]
 aliases: [perfect forward secrecy, forward-secure messaging, ephemeral session keys, forward-secure key update]
-confidence: medium-high
+confidence: medium
 summary: "Forward secrecy is the property that later compromise of long-term keys does not retroactively decrypt past sessions. Signal combines X3DH session initiation with the Double Ratchet's symmetric and Diffie-Hellman ratchets to keep replacing message keys."
 short: "A key-compromise limit: past sessions stay protected even if long-term keys are later stolen, usually by using and deleting ephemeral keys."
 ---

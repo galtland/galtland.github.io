@@ -4,7 +4,7 @@ volatility: cold
 category: concept
 created: 2026-05-31
 updated: 2026-06-09
-verified: 2026-05-31
+verified: 2026-06-09
 tags: [ayn-rand, atlas-shrugged, objectivism, money, sound-money, gold, fiat, trader-principle, production]
 aliases: [the money speech, money is a tool of exchange, Francisco d'Anconia money speech, root of all evil money]
 confidence: medium

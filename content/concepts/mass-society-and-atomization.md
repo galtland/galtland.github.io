@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-06-09
-verified: 2026-05-31
+verified: 2026-06-09
 tags: [mass-society, atomization, hannah-arendt, totalitarianism, loneliness, thoughtlessness, gulag, social-power, state, civic-association, non-libertarian]
 aliases: [mass society, atomization, political loneliness, isolated masses]
 confidence: medium

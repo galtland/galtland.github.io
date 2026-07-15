@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-06-08
 updated: 2026-06-09
-verified: 2026-06-08
+verified: 2026-06-09
 tags: [william-graham-sumner, ethnocentrism, in-group, out-group, we-group, tribalism, nationalism, patriotism, sociology, classical-liberalism, non-libertarian]
 summary: "Sumner's we-group/out-group distinction and his classic formulation of ethnocentrism: each group takes itself as the center of everything, breeding inward cohesion and outward hostility — the default tribal sentiment nationalism mobilizes and an individualist order must work against."
 aliases: [ethnocentrism, we-group, in-group out-group, tribalism, us versus them]

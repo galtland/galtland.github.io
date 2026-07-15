@@ -4,7 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-10
 updated: 2026-06-09
-verified: 2026-05-30
+verified: 2026-06-09
 tags: [albert-jay-nock, old-right, state, social-power, political-means, american-history]
 aliases: [Nock, Albert J. Nock]
 confidence: medium

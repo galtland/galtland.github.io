@@ -4,7 +4,7 @@ volatility: warm
 category: reference
 created: 2026-04-21
 updated: 2026-06-09
-verified: 2026-05-30
+verified: 2026-06-09
 tags: [rothbard, libertarianism, anti-statism, strategy]
 aliases: [For a New Liberty: The Libertarian Manifesto]
 confidence: medium

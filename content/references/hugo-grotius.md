@@ -4,7 +4,7 @@ volatility: cold
 category: reference
 created: 2026-06-09
 updated: 2026-06-12
-verified: 2026-06-09
+verified: 2026-06-12
 tags: [hugo-grotius, natural-law, natural-rights, classical-canon, international-law, law-of-nations, rationalism, dutch-golden-age]
 aliases: [Hugo Grotius, Grotius, Huig de Groot, Hugo de Groot]
 confidence: medium

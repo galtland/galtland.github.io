@@ -5,7 +5,7 @@ category: thesis
 type: thesis
 created: 2026-06-04
 updated: 2026-06-09
-verified: 2026-06-06
+verified: 2026-06-09
 tags: [thesis, ceasefire, war-and-state, state-power, protection-racket, political-means, us-iran, kuwait, israel-lebanon, trump]
 aliases: [Trump ceasefire moderate shooting, June 2026 ceasefire remark, moderate shooting ceasefire]
 stance: contextualize

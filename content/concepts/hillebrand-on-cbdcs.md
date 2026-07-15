@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-18
 updated: 2026-06-09
-verified: 2026-05-31
+verified: 2026-06-09
 tags: [cbdc, central-bank-digital-currency, hillebrand, programmable-money, financial-surveillance, total-intervention]
 summary: "Max Hillebrand's argument that central bank digital currencies fuse surveillance, monetary, and behavioral control into one programmable mechanism — 'total intervention,' not a mere digital banknote."
 aliases: [Hillebrand CBDC, CBDC as total intervention, programmable central bank money]

@@ -7,7 +7,7 @@ updated: 2026-05-28
 verified: 2026-05-30
 tags: [libertarian, cypherpunk, ring-signatures, cryptonote, monero, privacy-coins, digital-cash, cryptography]
 aliases: [one-time ring signatures, linkable ring signatures, Monero ring signatures, CryptoNote ring signatures]
-confidence: medium-high
+confidence: medium
 summary: "Ring signatures let a signer prove that one key in a chosen set authorized a message without revealing which key it was. CryptoNote adapts one-time ring signatures to hide cryptocurrency spenders while still detecting double spends through key images."
 short: "A privacy signature primitive: prove one key in a set signed, without revealing which key; CryptoNote uses it to hide senders."
 ---

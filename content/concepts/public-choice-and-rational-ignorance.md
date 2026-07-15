@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-06-08
 updated: 2026-06-12
-verified: 2026-06-09
+verified: 2026-06-12
 tags: [public-choice, james-buchanan, gordon-tullock, rational-ignorance, collective-action, special-interests, rent-seeking, government-failure, classical-liberalism]
 summary: "The public-choice diagnosis of why liberty is systematically under-supplied: rationally ignorant voters plus the logic of collective action (small concentrated interests out-organize the large diffuse public) make politics favor the few at the many's expense, regardless of who holds office."
 aliases: [public choice, rational ignorance, concentrated benefits dispersed costs, logic of collective action, government failure]

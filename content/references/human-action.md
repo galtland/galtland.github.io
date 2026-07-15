@@ -4,7 +4,7 @@ volatility: warm
 category: reference
 created: 2026-05-05
 updated: 2026-06-09
-verified: 2026-05-30
+verified: 2026-06-09
 tags: [mises, austrian-economics, praxeology, economics]
 aliases: [Human Action, Mises's Treatise, Nationalökonomie]
 confidence: medium

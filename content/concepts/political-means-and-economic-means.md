@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-06-09
-verified: 2026-05-31
+verified: 2026-06-09
 tags: [political-means, economic-means, state, exploitation, production, exchange, nonaggression, war-and-state-formation]
 aliases: [economic means, political means, Oppenheimer distinction, production versus predation]
 confidence: medium

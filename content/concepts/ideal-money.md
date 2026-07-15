@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-06-08
 updated: 2026-06-09
-verified: 2026-06-08
+verified: 2026-06-09
 tags: [john-nash, ideal-money, monetary-theory, inflation, hard-money, gold-standard, central-banking, keynesianism, non-austrian]
 summary: "John Nash's argument that money should be a stable long-run standard of value — an 'ideal money' approached asymptotically by tying issuance to a stable index rather than central-bank discretion. A non-Austrian, game-theoretic convergence on the wiki's anti-inflation, hard-money conclusion, with a real methodological tension: Nash reaches it through a managed index, not market-chosen money."
 aliases: [ideal money, asymptotically ideal money, Nash ideal money, ICPI]

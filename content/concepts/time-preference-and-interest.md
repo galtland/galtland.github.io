@@ -7,6 +7,7 @@ updated: 2026-06-15
 verified: 2026-06-15
 tags: [austrian-economics, interest, time-preference, agio-theory, capital-theory, eugen-von-bohm-bawerk, roundaboutness]
 aliases: [time preference, agio theory of interest, theory of interest, originary interest]
+confidence: medium
 summary: "The Austrian explanation of interest as the agio — the premium — on present over future goods, rooted in time preference rather than in capital's physical productivity or in abstinence. Set out by Böhm-Bawerk and rebuilt by Mises and Rothbard on pure time preference, it makes interest a category of action, not a payment to a factor."
 short: "Interest as the agio on present over future goods, rooted in time preference — Böhm-Bawerk's account, rebuilt by Mises on pure time preference."
 ---

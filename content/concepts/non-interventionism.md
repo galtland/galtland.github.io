@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 created: 2026-06-07
 updated: 2026-06-09
-verified: 2026-06-07
+verified: 2026-06-09
 tags: [murray-rothbard, non-interventionism, war, foreign-policy, nonaggression, just-war, anti-war, blowback]
 summary: "Rothbard's derivation of the libertarian foreign-policy stance from the non-aggression axiom: inter-State war aggresses against the State's own taxpayers, and modern war almost always kills innocents too, so no State can wage it justly; the objective is to pressure States not to launch wars and, once at war, to sue for peace."
 aliases: [non-intervention, anti-war libertarianism, libertarian foreign policy, blowback, just war]

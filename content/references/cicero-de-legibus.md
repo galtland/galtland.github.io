@@ -4,7 +4,7 @@ volatility: cold
 category: reference
 created: 2026-06-09
 updated: 2026-06-12
-verified: 2026-06-09
+verified: 2026-06-12
 tags: [cicero, natural-law, natural-rights, classical-canon, stoicism, de-legibus, on-the-laws, right-reason, justice, roman-law]
 aliases: [De Legibus, On the Laws, Cicero On the Laws, Laws]
 confidence: medium

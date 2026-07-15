@@ -8,6 +8,7 @@ updated: 2026-06-25
 verified: 2026-06-25
 tags: [mises, minimum-wage, wage-rates, price-control, unemployment, human-action]
 aliases: [Mises minimum wage, Mises on minimum wage rates, minimum wage rates]
+confidence: medium
 short: "Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages."
 summary: "Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages."
 ---

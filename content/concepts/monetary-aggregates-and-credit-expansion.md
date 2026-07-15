@@ -8,6 +8,7 @@ verified: 2026-06-26
 tags: [mises, rothbard, tms, m2, money-supply, credit-expansion, monetary-aggregates, abct, measurement]
 summary: "Why M2 mismeasures the Austrian cycle signal: Salerno's True Money Supply (TMS), building on Rothbard's broad money-supply criterion, is a cleaner money-stock aggregate — the total medium of exchange held by the public — that excludes the time-deposit and money-fund components contaminating M2 with non-money commodity credit. TMS is the preferred cycle-theory proxy, though it is a money-stock measure, not a fiduciary-media-only measure."
 aliases: [True Money Supply, TMS, M2 vs TMS, measuring credit expansion, money supply definition]
+confidence: medium
 short: "Austrian-monetary-theory measurement: M2's time-deposit and money-fund components contaminate the cycle-theory signal with non-money commodity-credit; Rothbard's broad money-supply criterion (AGD Ch. 4), refined by Salerno's 1987 True Money Supply (TMS), is the cleaner Austrian money-stock aggregate — the total medium of exchange, not a fiduciary-media-only measure; central-bank policy rates are an input not a measure; sectoral asymmetry is the structural diagnostic."
 ---
 

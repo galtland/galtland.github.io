@@ -5,7 +5,7 @@ category: thesis
 type: thesis
 created: 2026-05-19
 updated: 2026-06-13
-verified: 2026-05-31
+verified: 2026-06-13
 tags: [thesis, argentina, rent-control, price-control, housing-policy, decontrol, buenos-aires, austrian-economics, mises, rothbard]
 aliases: [theses/argentina-rent-decontrol-2023, Argentina rent decontrol 2023, Milei rent decontrol, Buenos Aires rental listings doubled, Argentina rent-control repeal]
 stance: endorse
