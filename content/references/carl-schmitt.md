@@ -9,6 +9,7 @@ tags: [carl-schmitt, sovereignty, state-of-exception, friend-enemy-distinction, 
 aliases: [Schmitt, Carl Schmitt political theory]
 confidence: medium
 summary: "Author reference for Carl Schmitt, included as a non-libertarian and anti-liberal theorist of sovereignty, exception, decision, and the friend/enemy distinction."
+short: "Anti-liberal theorist of sovereignty and the friend/enemy distinction, included here as a hostile witness against whom libertarian theory is tested."
 ---
 
 # Carl Schmitt

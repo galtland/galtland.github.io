@@ -9,6 +9,7 @@ tags: [michel-foucault, biopower, population, sovereignty, state-racism, public-
 aliases: [bio-power, biopolitics, make live and let die]
 confidence: medium
 summary: "Foucault's concept of modern power addressed to life and population: health, birth, death, risk, security, and the power to make live and let die."
+short: "Foucault's concept of modern power directed at life itself: population, health, birth, death, risk, and the power to make live and let die."
 ---
 
 # Biopower

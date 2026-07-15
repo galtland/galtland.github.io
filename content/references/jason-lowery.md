@@ -9,6 +9,7 @@ tags: [jason-lowery, softwar, bitcoin, national-security, ussf, mit-sdm]
 aliases: [Major Jason P. Lowery, Jason P. Lowery, Lowery]
 confidence: medium
 summary: "Short author reference for Jason P. Lowery as represented by *Softwar*: a US Space Force officer and MIT SDM fellow whose thesis analyzes Bitcoin as electro-cyber power projection and national-security infrastructure."
+short: "US Space Force officer and MIT fellow whose Softwar analyzes Bitcoin as electro-cyber power projection and national-security infrastructure."
 ---
 
 # Jason Lowery

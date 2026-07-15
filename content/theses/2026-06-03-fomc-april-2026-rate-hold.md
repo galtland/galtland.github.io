@@ -12,6 +12,7 @@ stance: contextualize
 verdict: contextualize
 confidence: medium
 summary: "Reads the April 2026 FOMC rate hold not as a judgment call to be graded but as an instance of administering a price no committee can know. The federal funds target is the price of credit; a market discovers it, a committee can only estimate it, and the four-way split is the knowledge problem made visible. Whether the administered rate sits above or below the natural rate — not the hold/cut/hike label — decides whether calculation is being falsified. Contextualizes the report's two framings: the 'easing bias' the dissents oppose is the credit-expansion tilt ABCT names, and the statement's framing of inflation as partly reflecting global energy prices misnames a monetary relation as a supply shock. Confidence medium: the natural-rate gap is unobservable and a hold is not itself credit expansion."
+short: "The April 2026 FOMC hold shows the Fed estimating a price only markets can discover - the knowledge problem made visible in a rate decision."
 ---
 
 # The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem

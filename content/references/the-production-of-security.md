@@ -9,6 +9,7 @@ tags: [molinari, market-anarchism, private-security, classical-liberalism, priva
 aliases: [De la production de la sécurité, Molinari's Production of Security]
 confidence: medium
 summary: "Reference guide to Molinari's 1849 essay — the founding text of the classical-liberal case for private, competitive production of security, and the principal nineteenth-century predecessor to modern market-anarchist thought."
+short: "Molinari's 1849 essay founding the classical-liberal case for private, competitive production of security - the root of market anarchism."
 ---
 
 # The Production of Security

@@ -9,6 +9,7 @@ tags: [franz-oppenheimer, state, conquest-theory, political-means, economic-mean
 aliases: [Der Staat, The State by Franz Oppenheimer, The State: Its History and Development Viewed Sociologically]
 confidence: medium
 summary: "Reference guide to Franz Oppenheimer's sociological treatise on the state's conquest origin, developmental stages, and political-means/economic-means distinction."
+short: "Oppenheimer's sociological treatise on the state's conquest origin and the political-means versus economic-means distinction."
 ---
 
 # The State

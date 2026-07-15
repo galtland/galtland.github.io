@@ -9,6 +9,7 @@ tags: [calculation-problem, socialism, austrian-economics, central-planning]
 aliases: [Calculation Problem, Mises's Calculation Argument, Socialist Calculation Debate, Socialist Calculation]
 confidence: medium
 summary: "The Misesian argument that a socialist commonwealth without private ownership of capital goods cannot perform the economic calculations needed to allocate resources rationally."
+short: "Mises's argument that a socialist commonwealth without private ownership of capital goods cannot rationally calculate how to allocate resources."
 ---
 
 # Economic Calculation Problem

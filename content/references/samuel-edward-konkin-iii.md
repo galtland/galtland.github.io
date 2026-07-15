@@ -9,6 +9,7 @@ tags: [samuel-edward-konkin, agorism, counter-economics, market-anarchism, left-
 aliases: [Konkin, Samuel Edward Konkin III, Samuel Konkin, SEK3]
 confidence: medium
 summary: "Short author reference for Samuel Edward Konkin III, the market-anarchist theorist who founded agorism and counter-economics and wrote the New Libertarian Manifesto."
+short: "Market-anarchist theorist who founded agorism and counter-economics and wrote the New Libertarian Manifesto."
 ---
 
 # Samuel Edward Konkin III

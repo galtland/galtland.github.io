@@ -9,6 +9,7 @@ tags: [walter-block, inalienability, alienability, voluntary-slavery, contract, 
 aliases: [Toward a Libertarian Theory of Inalienability, Block on inalienability, Block inalienability, a libertarian theory of inalienability]
 confidence: medium
 summary: "Work reference for Walter Block's Journal of Libertarian Studies article (17:2, 2003), the principal libertarian argument against inalienability. Reasoning from self-ownership — if you truly own a thing you may sell it — Block defends 'full' alienability and concludes that a genuinely voluntary slave contract is a valid, enforceable title transfer, critiquing the inalienability-of-the-will positions of Rothbard, Barnett, George Smith, Kinsella, Gordon, and Epstein."
+short: "Block's 2003 argument that true self-ownership entails full alienability, making a genuinely voluntary slave contract a valid title transfer."
 ---
 
 # Toward a Libertarian Theory of Inalienability

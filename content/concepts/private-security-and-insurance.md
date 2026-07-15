@@ -9,6 +9,7 @@ tags: [private-security, insurance, defense-agencies, protection, classical-libe
 aliases: [production of security, private defense agencies, competitive security]
 confidence: medium
 summary: "Concept article on how the current libertarian corpus imagines private security: defense agencies, insurance, arbitration, and competitive checks on abuse."
+short: "How the libertarian corpus imagines policing without the state: defense agencies, insurance, arbitration, and competitive checks on abuse."
 ---
 
 # Private Security and Insurance

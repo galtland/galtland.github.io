@@ -9,6 +9,7 @@ tags: [hayek, austrian-economics, classical-liberalism, knowledge-problem, busin
 aliases: [Hayek, Friedrich Hayek, F. A. Hayek]
 confidence: medium
 summary: "Reference guide to Friedrich Hayek's place in this wiki as the second pillar of mature Austrian economics: knowledge-problem theorist, business-cycle theorist, and classical-liberal critic of central planning."
+short: "Second pillar of mature Austrian economics: knowledge-problem theorist, business-cycle theorist, and classical-liberal critic of central planning."
 ---
 
 # F. A. Hayek

@@ -9,6 +9,7 @@ tags: [hannah-arendt, on-revolution, revolution, american-revolution, french-rev
 aliases: [Arendt On Revolution]
 confidence: medium
 summary: "Reference guide to Hannah Arendt's 1963 comparison of the American and French revolutions, public freedom, the social question, founding, public happiness, and the lost council tradition."
+short: "Arendt's 1963 comparison of the American and French revolutions on public freedom, founding, and the lost council tradition."
 ---
 
 # On Revolution

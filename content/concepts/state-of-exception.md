@@ -9,6 +9,7 @@ tags: [carl-schmitt, state-of-exception, sovereignty, emergency-power, decisioni
 aliases: [exception, sovereign exception, emergency powers]
 confidence: medium
 summary: "Schmitt's concept that sovereignty is revealed in the decision on the exception: the authority to determine when normal legal rules are suspended and what must be done."
+short: "Schmitt's claim that sovereignty is revealed in the decision on the exception: who decides when normal law is suspended."
 ---
 
 # State of Exception

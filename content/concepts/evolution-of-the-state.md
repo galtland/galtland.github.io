@@ -9,6 +9,7 @@ tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-t
 aliases: [state evolution, historical state formation, state formation, conquest theory of the state]
 confidence: medium
 summary: "Historical-evolution layer for the libertarian state critique: Oppenheimer's conquest-origin thesis, Nock's American application, Hoppe's monarchy-to-democracy regime comparison, Tilly's war-and-state-formation sociology, Arendt's totalitarianism preconditions, and adjacent consent, abstraction, and private-security counterfactuals."
+short: "Historical layer for the state critique: conquest origins, monarchy-to-democracy comparison, war-driven state formation, and totalitarianism's preconditions."
 ---
 
 # Evolution of the State

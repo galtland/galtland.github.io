@@ -9,6 +9,7 @@ tags: [privacy, cryptography, cypherpunk, bitcoin, surveillance, austrian-econom
 aliases: [cypherpunk privacy, privacy technology, cryptographic privacy]
 confidence: medium
 summary: "Topic map for the wiki's privacy-and-cryptography thread: Hillebrand's Austrian theory of privacy, Lowery's power-projection thesis, the resistance axiom, state and corporate surveillance, Bitcoin, proof-of-work, and parallel-economy implementation."
+short: "Topic map of the wiki's privacy-and-cryptography thread: Austrian privacy theory, state surveillance, Bitcoin, and parallel-economy tools."
 ---
 
 # Privacy and Cryptography

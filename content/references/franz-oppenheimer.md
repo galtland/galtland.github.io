@@ -9,6 +9,7 @@ tags: [franz-oppenheimer, sociology, state, conquest-theory, political-means, ec
 aliases: [Oppenheimer]
 confidence: medium
 summary: "Short author reference for Franz Oppenheimer, the German sociologist and political economist whose conquest theory of the state and political/economic means distinction fed into Nock, Rothbard, and later libertarian anti-state theory."
+short: "German sociologist whose conquest theory of the state and political-versus-economic-means distinction fed into Nock, Rothbard, and later anti-statism."
 ---
 
 # Franz Oppenheimer

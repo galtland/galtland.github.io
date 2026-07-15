@@ -9,6 +9,7 @@ tags: [mises, austrian-economics, praxeology, economics]
 aliases: [Human Action, Mises's Treatise, Nationalökonomie]
 confidence: medium
 summary: "Reference guide to Mises's praxeological treatise (1949 / Scholar's Edition 1998), the foundational text of modern Austrian economics and the immediate intellectual ancestor of Rothbard's Man, Economy, and State."
+short: "Mises's 1949 praxeological treatise, the foundational text of modern Austrian economics and direct ancestor of Rothbard's Man, Economy, and State."
 ---
 
 # Human Action

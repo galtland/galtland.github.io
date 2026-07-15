@@ -12,6 +12,7 @@ stance: contextualize
 verdict: contextualize
 confidence: medium
 summary: "Reads Trump's ceasefire definition as a war-and-state case: once peace means reduced fire rather than demobilization, defense rhetoric can preserve legitimacy while the protection-racket and political-means apparatus continues."
+short: "Reads Trump's 'moderate shooting' ceasefire remark as a war-and-state case where redefining peace as less fire preserves the protection racket."
 ---
 
 # The June 2026 Moderate-Shooting Ceasefire Remark: Analysis

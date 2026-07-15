@@ -9,6 +9,7 @@ confidence: high
 tags: [ecash, chaumian-mint, cashu, fedimint, blind-signatures, bitcoin, privacy, custody, digital-cash, cypherpunk]
 aliases: [ecash, chaumian ecash, chaumian mint, Cashu, Fedimint, federated mint]
 summary: "Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link to spending, giving strong transaction privacy in exchange for custody risk. Cashu uses single-operator mints; Fedimint distributes custody across a threshold of guardians. Ecash is a money substitute, not a self-custodial layer."
+short: "Chaumian ecash on Bitcoin: mints issue blind-signed tokens for strong transaction privacy at the cost of custody risk, from single-operator Cashu to guardian-distributed Fedimint."
 ---
 
 # Ecash and Chaumian Mints

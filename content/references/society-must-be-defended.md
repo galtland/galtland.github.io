@@ -9,6 +9,7 @@ tags: [michel-foucault, society-must-be-defended, biopower, sovereignty, populat
 aliases: [Society Must Be Defended lectures, Il faut defendre la societe]
 confidence: medium
 summary: "Reference guide to Michel Foucault's 1975-1976 lectures on war, sovereignty, disciplinary power, biopower, population, and state racism."
+short: "Foucault's 1975-1976 lectures on war, sovereignty, disciplinary power, biopower, population, and state racism."
 ---
 
 # Society Must Be Defended

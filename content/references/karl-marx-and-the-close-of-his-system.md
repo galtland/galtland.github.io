@@ -9,6 +9,7 @@ tags: [eugen-von-bohm-bawerk, austrian-economics, karl-marx, marxism, labor-theo
 aliases: [Karl Marx and the Close of His System, Zum Abschluss des Marxschen Systems]
 confidence: medium
 summary: "Reference guide to Böhm-Bawerk's Karl Marx and the Close of His System (1896; Macdonald trans. 1898): the classic Austrian critique of Marx's labor theory of value and the contradiction between Capital Vol. I (value = labor-time) and Vol. III (competitive prices of production)."
+short: "Bohm-Bawerk's 1896 classic Austrian critique of Marx's labor theory of value, exposing the contradiction between Capital vols. I and III."
 ---
 
 # Karl Marx and the Close of His System

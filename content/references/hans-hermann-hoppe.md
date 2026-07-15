@@ -9,6 +9,7 @@ tags: [hoppe, austrian-economics, libertarianism, property-rights, democracy, re
 aliases: [Hoppe, Hans Hoppe]
 confidence: medium
 summary: "Reference guide to Hans-Hermann Hoppe's role in this wiki as a property theorist, Austrian economist, and major bridge from market theory to private-law anarchism."
+short: "Property theorist and Austrian economist who bridges market theory to private-law anarchism via argumentation ethics and time-preference analysis."
 ---
 
 # Hans-Hermann Hoppe

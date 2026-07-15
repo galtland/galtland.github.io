@@ -9,6 +9,7 @@ tags: [mises, austrian-economics, monetary-theory, money-and-banking, credit, re
 aliases: [Theory of Money and Credit, TMC, Theorie des Geldes und der Umlaufsmittel]
 confidence: medium
 summary: "Reference guide to Mises's *The Theory of Money and Credit* (1912 German; 1934 English trans. H. E. Batson; 1953 Yale 'new edition' enlarged with *Monetary Reconstruction*) — the founding text of Austrian monetary theory and the original source of the regression theorem, the present-good-for-future-good definition of credit, and the proto-statement of Austrian Business Cycle Theory."
+short: "Mises's founding text of Austrian monetary theory, source of the regression theorem and the proto-statement of the business-cycle theory."
 ---
 
 # The Theory of Money and Credit

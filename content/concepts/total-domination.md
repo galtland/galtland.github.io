@@ -9,6 +9,7 @@ tags: [total-domination, hannah-arendt, totalitarianism, gulag, concentration-ca
 aliases: [total domination, totalitarian domination, domination not extraction]
 confidence: medium
 summary: "Arendt's term for the totalitarian aim beyond ordinary tyranny or extraction: domination of human beings as such, attacking spontaneity, plurality, reality, and moral agency. Solzhenitsyn's abridged *Gulag Archipelago* supplies concrete Soviet documentation."
+short: "Arendt's term for totalitarianism's aim beyond tyranny or extraction: total domination of human beings, attacking spontaneity, plurality, and moral agency."
 ---
 
 # Total Domination

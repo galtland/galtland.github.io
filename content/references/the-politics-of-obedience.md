@@ -9,6 +9,7 @@ tags: [de-la-boetie, consent, state, strategy, evolution-of-the-state]
 aliases: [The Discourse of Voluntary Servitude, Politics of Obedience]
 confidence: medium
 summary: "Reference guide to La Boetie's classic essay on consent, habit, and the fragility of political domination, now ingested in full text."
+short: "La Boetie's classic essay arguing tyranny survives only on the ruled's habitual consent, and collapses once obedience is withdrawn."
 ---
 
 # The Politics of Obedience

@@ -9,6 +9,7 @@ tags: [salerno, austrian-economics, monetary-theory, tms, mises-institute, pure-
 aliases: [Joseph Salerno, Salerno]
 confidence: medium
 summary: "Austrian-school monetary economist in the Mises-Rothbard tradition; Academic Vice President of the Mises Institute and Professor Emeritus of Economics in Pace University's Lubin School of Business. Author of: (1) the 1987 True Money Supply (TMS) paper formalizing Rothbard's broad money-supply criterion; (2) the 1993 'Mises and Hayek Dehomogenized' paper distinguishing two paradigms within modern Austrian economics on source lineage, equilibrium/market-process treatment, and the socialist-calculation debate; (3) the 2010 essay collection Money, Sound and Unsound, spanning monetary theory foundations, inflation/deflation/depression, the gold standard, monetary-history applications, and contemporary commentary."
+short: "Austrian economist in the Mises-Rothbard tradition and Mises Institute VP, known for formalizing the True Money Supply and for 'Mises and Hayek Dehomogenized'."
 ---
 
 # Joseph T. Salerno

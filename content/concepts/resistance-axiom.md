@@ -9,6 +9,7 @@ tags: [resistance, privacy, cryptography, bitcoin, cypherpunk, praxeology]
 aliases: [Axiom of Resistance, Voskuil's resistance axiom, resistance assumption]
 confidence: medium
 summary: "Voskuil's axiom, as used by Hillebrand, that systems can be designed to resist external control; unlike the action axiom, it is a methodological assumption about resistant systems, not a self-evident truth."
+short: "Voskuil's axiom, via Hillebrand, that systems can be designed to resist external control -- a methodological assumption, not a self-evident truth."
 ---
 
 # Resistance Axiom

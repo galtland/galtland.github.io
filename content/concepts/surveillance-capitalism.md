@@ -9,6 +9,7 @@ confidence: medium
 tags: [surveillance-capitalism, privacy, data-extraction, zuboff, austrian-economics, market-failure, intellectual-property, corporate-state, knowledge-problem, max-hillebrand]
 aliases: [surveillance capitalism, data extraction, behavioral surplus, corporate surveillance, users as product]
 summary: "Zuboff's term for the business model that treats human experience as free raw material for behavioral-prediction products, read through an Austrian lens by Hillebrand: corporate and state surveillance are entangled, the 'market failure' diagnosis is contested, and current concentration reflects intervention (IP monopolies, compliance moats, KYC) as much as market outcome."
+short: "Zuboff's term for treating human experience as free raw material for prediction products, reread here as entangled with state power, not just market failure."
 ---
 
 # Surveillance Capitalism

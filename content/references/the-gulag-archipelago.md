@@ -9,6 +9,7 @@ tags: [aleksandr-solzhenitsyn, gulag, soviet-union, stalinism, totalitarianism, 
 aliases: [Gulag Archipelago, The Gulag Archipelago 1918-1956, Gulag]
 confidence: medium
 summary: "Reference guide to Solzhenitsyn's documentary-literary investigation of the Soviet camp system. The wiki now holds both the earlier abridged one-volume OCR and the unabridged three-volume OCR ingested on 2026-05-12."
+short: "Solzhenitsyn's documentary-literary indictment of the Soviet camp system, the definitive eyewitness case against totalitarian terror."
 ---
 
 # The Gulag Archipelago

@@ -9,6 +9,7 @@ confidence: high
 tags: [nostr, decentralized-social, cypherpunk, public-key-cryptography, identity, relays, censorship-resistance, lightning, privacy, fiatjaf]
 aliases: [Nostr, Notes and Other Stuff Transmitted by Relays, decentralized social protocol, keys as identity]
 summary: "Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where identity is a cryptographic keypair and content is signed events distributed through user-chosen relays — solving the identity-capture problem of centralized platforms. It optimizes for censorship resistance and self-sovereign identity, not anonymity."
+short: "A minimal protocol where identity is a keypair and content is signed, relay-distributed events, optimized for censorship resistance rather than anonymity."
 ---
 
 # Nostr

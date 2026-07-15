@@ -9,6 +9,7 @@ tags: [state, libertarianism, strategy, advocacy]
 aliases: [Busting Myths]
 confidence: medium
 summary: "Reference guide to Zack Rofer's accessible libertarian primer on common pro-state myths and common misconceptions about the free market."
+short: "Zack Rofer's accessible primer debunking common pro-state myths and misconceptions about how free markets actually work."
 ---
 
 # Busting Myths about the State and the Libertarian Alternative

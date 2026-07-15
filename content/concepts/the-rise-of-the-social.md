@@ -9,6 +9,7 @@ tags: [hannah-arendt, social-question, public-private, administration, modernity
 aliases: [rise of the social, social realm, the social question]
 confidence: medium
 summary: "Arendt's diagnosis that the modern social realm blurs public and private by treating shared life as collective household administration, often displacing public action."
+short: "Arendt's diagnosis that the modern 'social' realm blurs public and private into collective household administration, crowding out genuine public action."
 ---
 
 # The Rise of the Social

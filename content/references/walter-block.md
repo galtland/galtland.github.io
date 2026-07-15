@@ -9,6 +9,7 @@ tags: [walter-block, inalienability, voluntary-slavery, alienability, contract, 
 aliases: [Walter Block, Walter E. Block, Block]
 confidence: medium
 summary: "Author reference for Walter Block, the Austro-libertarian economist whose 'full alienability' thesis is this wiki's principal internal-libertarian dissent from the inalienability-of-the-will answer to voluntary slavery and debt bondage. His 2003 Journal of Libertarian Studies article argues that genuine self-ownership entails the right to sell oneself, so that a truly voluntary slave contract is valid and enforceable."
+short: "Austro-libertarian economist whose full-alienability thesis argues genuine self-ownership permits selling oneself into voluntary slavery."
 ---
 
 # Walter Block

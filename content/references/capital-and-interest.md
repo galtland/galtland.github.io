@@ -9,6 +9,7 @@ tags: [eugen-von-bohm-bawerk, austrian-economics, capital-theory, interest, hist
 aliases: [Capital and Interest, History and Critique of Interest Theories, Kapital und Kapitalzins]
 confidence: medium
 summary: "Reference guide to Böhm-Bawerk's Capital and Interest (Smart's 1890 translation), Vol. I of Kapital und Kapitalzins: the critical history that surveys and refutes earlier theories of interest — productivity, use, abstinence, and exploitation — clearing the ground for his own positive theory."
+short: "Bohm-Bawerk's critical history of interest theory, clearing away productivity, use, abstinence, and exploitation accounts to make room for his own."
 ---
 
 # Capital and Interest: A Critical History of Economical Theory

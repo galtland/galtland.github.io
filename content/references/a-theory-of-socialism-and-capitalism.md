@@ -9,6 +9,7 @@ tags: [hoppe, austrian-economics, socialism, property-rights]
 aliases: [Theory of Socialism and Capitalism]
 confidence: medium
 summary: "Reference guide to Hoppe's comparative-systems book on capitalism, socialism, and property regimes, now ingested in full text."
+short: "Hoppe's comparative-systems treatise contrasting capitalism and socialism through property rights and economic calculation, arguing intervention degrades outcomes."
 ---
 
 # A Theory of Socialism and Capitalism

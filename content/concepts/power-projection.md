@@ -9,6 +9,7 @@ tags: [power-projection, bitcoin, proof-of-work, physical-cost, national-securit
 aliases: [Power Projection Theory, physical power projection, abstract power projection, proof-of-power]
 confidence: low
 summary: "Lowery's analytic frame for comparing physical-cost power projection with abstract, rule-based power projection, then applying that distinction to proof-of-work and Bitcoin in cyberspace."
+short: "Lowery's frame for comparing physical-cost power projection with abstract, rule-based power, applied to proof-of-work and Bitcoin."
 ---
 
 # Power Projection

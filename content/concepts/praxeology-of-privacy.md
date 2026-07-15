@@ -9,6 +9,7 @@ tags: [privacy, praxeology, action-axiom, austrian-economics, property-rights, s
 aliases: [privacy praxeology, privacy as selective disclosure, privacy as structural feature of action]
 confidence: medium
 summary: "Hillebrand's theoretical claim that privacy is a structural feature of human action: deliberation, subjective valuation, and controlled disclosure are built into action, and surveillance attacks the conditions under which rational exchange and coordination occur."
+short: "Hillebrand's claim that privacy is structural to human action itself, so surveillance attacks the conditions rational exchange depends on."
 ---
 
 # Praxeology of Privacy

@@ -9,6 +9,7 @@ tags: [william-rees-mogg, sovereign-individual, megapolitics, the-times, bbc, no
 aliases: [William Rees-Mogg, Lord William Rees-Mogg, Lord Rees-Mogg, Rees-Mogg]
 confidence: medium
 summary: "Short author reference for Lord William Rees-Mogg as represented by *The Sovereign Individual*: a British journalist and public figure, formerly editor of *The Times* of London and vice-chairman of the BBC, who co-authored the book and two earlier forecasting works with James Dale Davidson."
+short: "British journalist and former Times editor who co-authored The Sovereign Individual, forecasting the rise of the sovereign individual."
 ---
 
 # William Rees-Mogg

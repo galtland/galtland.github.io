@@ -9,6 +9,7 @@ tags: [carl-schmitt, concept-of-the-political, friend-enemy-distinction, soverei
 aliases: [Der Begriff des Politischen, Schmitt's Concept of the Political]
 confidence: medium
 summary: "Reference guide to Carl Schmitt's The Concept of the Political, especially the friend/enemy criterion and critique of liberal depoliticization."
+short: "Schmitt's work centered on the friend/enemy criterion and its critique of liberal depoliticization."
 ---
 
 # The Concept of the Political

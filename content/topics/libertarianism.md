@@ -9,6 +9,7 @@ tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberal
 aliases: [libertarian thought, liberty tradition]
 confidence: medium
 summary: "Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, Tilly's protection-racket sociology, Arendt/Solzhenitsyn totalitarianism coverage, and non-state legal order."
+short: "Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order."
 ---
 
 # Libertarianism

@@ -9,6 +9,7 @@ tags: [carl-schmitt, political-theology, sovereignty, state-of-exception, decisi
 aliases: [Political Theology Four Chapters, Four Chapters on the Concept of Sovereignty]
 confidence: medium
 summary: "Reference guide to Carl Schmitt's Political Theology, the sovereign-decision work that defines sovereignty through decision on the exception."
+short: "Schmitt's work defining sovereignty as the power to decide on the exception."
 ---
 
 # Political Theology

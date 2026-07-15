@@ -9,6 +9,7 @@ tags: [rothbard, great-depression, austrian-economics, business-cycle, economic-
 aliases: [AGD, America's Great Depression, Rothbard on the Depression]
 confidence: medium
 summary: "Reference guide to Rothbard's 1963 application of Austrian Business Cycle Theory to the 1929 crash and the prolonged depression that followed; the canonical Austrian interpretation of the era and a sustained revisionist case against Hoover as the architect of the New Deal interventionist program."
+short: "Rothbard's 1963 Austrian Business Cycle Theory account of the 1929 crash, the canonical revisionist case against Hoover as architect of the New Deal."
 ---
 
 # America's Great Depression

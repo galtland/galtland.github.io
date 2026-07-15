@@ -9,6 +9,7 @@ tags: [cicero, natural-law, natural-rights, stoicism, roman-law, classical-canon
 aliases: [Cicero, Marcus Tullius Cicero, Tully]
 confidence: medium
 summary: "Short author reference for Marcus Tullius Cicero (106–43 BC), the Roman statesman, orator, and philosopher whose De Re Publica transmitted Stoic natural law — 'right reason in accordance with nature' — into the Roman legal tradition and thence to the West."
+short: "Roman statesman and philosopher whose De Re Publica carried Stoic natural law - right reason in accordance with nature - into Western legal tradition."
 ---
 
 # Cicero

@@ -11,6 +11,7 @@ stance: contextualize
 verdict: contextualize
 confidence: high
 summary: "A BBC profile of a former child soldier supplies a war-and-state case study — Tilly's racketeer test, Rothbard's war power and permanent ratchet, and Oppenheimer's conquest of an already-producing order — where the costs land on an unwilling schoolboy."
+short: "A former child soldier's story tests Tilly's racketeer logic and Oppenheimer's conquest thesis against Somalia's 2006 intervention and its costs."
 ---
 
 # Somalia's 2006 Invasion, Child Soldiers, and the Twenty-Year Foreign Presence: Analysis

@@ -9,6 +9,7 @@ tags: [james-dale-davidson, sovereign-individual, megapolitics, strategic-invest
 aliases: [James Dale Davidson, Jim Davidson, Davidson]
 confidence: medium
 summary: "Short author reference for James Dale Davidson as represented by *The Sovereign Individual*: an American venture capitalist, entrepreneur, and private-investment newsletter publisher who co-authored the book and two earlier forecasting works with Lord William Rees-Mogg."
+short: "American venture capitalist and newsletter publisher who co-authored The Sovereign Individual with Lord William Rees-Mogg, forecasting the nation-state's decline."
 ---
 
 # James Dale Davidson

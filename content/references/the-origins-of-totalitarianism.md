@@ -9,6 +9,7 @@ tags: [hannah-arendt, totalitarianism, antisemitism, imperialism, nazism, stalin
 aliases: [Origins of Totalitarianism, Arendt Origins]
 confidence: medium
 summary: "Reference guide to Hannah Arendt's 1951 study of antisemitism, imperialism, mass society, ideology, terror, and totalitarianism as a novel form of government. The wiki holds a full-text Internet Archive OCR ingest of the 1973 Harvest / Harcourt edition under commercial-copyright provenance."
+short: "Arendt's 1951 study tracing antisemitism and imperialism into totalitarianism as a wholly new form of rule built on terror and ideology."
 ---
 
 # The Origins of Totalitarianism

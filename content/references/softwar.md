@@ -9,6 +9,7 @@ tags: [jason-lowery, softwar, bitcoin, power-projection, national-security, proo
 aliases: [Softwar thesis, A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin, electro-cyber security thesis]
 confidence: medium
 summary: "Reference guide to Jason Lowery's 2023 MIT SDM master's thesis arguing that Bitcoin should be analyzed as electro-cyber power projection and national-security infrastructure, not only as peer-to-peer cash or monetary technology."
+short: "Lowery's 2023 MIT thesis arguing Bitcoin should be analyzed as electro-cyber power projection and national-security infrastructure, not just money."
 ---
 
 # Softwar

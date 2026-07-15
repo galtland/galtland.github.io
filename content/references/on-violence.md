@@ -9,6 +9,7 @@ tags: [hannah-arendt, on-violence, violence, power, authority, force, political-
 aliases: [Arendt On Violence, Power and Violence]
 confidence: medium
 summary: "Reference guide to Hannah Arendt's 1970 essay distinguishing power, strength, force, authority, and violence, and arguing that violence is instrumental rather than identical with political power."
+short: "Arendt's 1970 essay distinguishing power, strength, force, authority, and violence, arguing violence is instrumental, not the essence of political power."
 ---
 
 # On Violence

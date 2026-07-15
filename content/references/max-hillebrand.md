@@ -9,6 +9,7 @@ tags: [max-hillebrand, privacy, bitcoin, cypherpunk, austrian-economics]
 aliases: [Hillebrand]
 confidence: medium
 summary: "Short author reference for Max Hillebrand as represented in this wiki by *The Praxeology of Privacy*, a Towards Liberty public-domain book connecting Austrian economics, Rothbardian/Hoppean libertarianism, Bitcoin privacy, and cypherpunk implementation."
+short: "Author of The Praxeology of Privacy, connecting Austrian economics, Rothbardian and Hoppean libertarianism, Bitcoin privacy, and cypherpunk implementation."
 ---
 
 # Max Hillebrand

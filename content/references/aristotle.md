@@ -9,6 +9,7 @@ tags: [aristotle, natural-law, natural-justice, classical-canon, virtue-ethics, 
 aliases: [Aristotle, the Philosopher, the Stagirite]
 confidence: medium
 summary: "Short author reference for Aristotle (384–322 BC), whose Nicomachean Ethics and Politics root the natural-law tradition: the distinction between natural and conventional justice, and a teleological account of human nature and the polis. 'The Philosopher' for the Scholastics — but also the source of the natural-slavery doctrine libertarians reject."
+short: "Greek philosopher whose Ethics and Politics root natural-law theory in human nature and the polis, though his natural-slavery doctrine is rejected here."
 ---
 
 # Aristotle

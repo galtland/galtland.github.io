@@ -9,6 +9,7 @@ tags: [hayek, knowledge-problem, central-planning, spontaneous-order, austrian-e
 aliases: [Use of Knowledge in Society, Hayekian Knowledge Problem, Dispersed Knowledge]
 confidence: medium
 summary: "Hayek's argument that the knowledge needed to coordinate an economy is dispersed, often tacit, and time-and-place-specific, so the price system — not a central planner — is what puts it to use."
+short: "Hayek's argument that economic knowledge is dispersed and tacit, so the price system, not a central planner, is what puts it to use."
 ---
 
 # Knowledge Problem

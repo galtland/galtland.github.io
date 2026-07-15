@@ -12,6 +12,7 @@ stance: contextualize
 verdict: framing-correct-classic-routes-necessary-but-insufficient-real-path-is-cryptographic-floor-plus-monetary-reckoning-plus-an-unbuilt-creed
 confidence: medium
 summary: "Tests the claim that libertarianism is correct but unadoptable — out-organized by surveillance, AI, military states, and propaganda, with no way for free individuals to coordinate against the nation-state. The corpus largely concedes the diagnosis (obedience runs on habit; legitimacy is manufactured; the opinion battle is the weakest leg; tribalism gives nationalism a standing edge) and resists only the conclusion. Its honest answer: the three classic routes (withdrawal, opinion, exit) are each necessary but insufficient; the defensible path narrows to one hard floor (the cryptographic cost-asymmetry, the lone lever that does not scale with the adversary's size or AI), one catalyst worth pre-positioning for (a monetary reckoning, not the war-or-emergency collapse that the ratchet shows grows the state), and one thing the movement has not yet built (a unifying meaning that satisfies the belonging nationalism supplies)."
+short: "Tests whether libertarianism is correct but unadoptable; the honest answer is a cryptographic cost-floor, a monetary reckoning, and a still-unbuilt unifying meaning."
 ---
 
 # Libertarianism and Human Nature: The Adoption Problem

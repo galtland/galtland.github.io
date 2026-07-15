@@ -9,6 +9,7 @@ tags: [john-nash, ideal-money, monetary-theory, inflation, sound-money, game-the
 aliases: [John Nash, John F. Nash, John F. Nash Jr., John Nash Jr.]
 confidence: medium
 summary: "Short author reference for John F. Nash Jr., the mathematician and Nobel laureate whose 'Ideal Money' lectures converge, from outside the Austrian tradition, on this wiki's hard-money critique of discretionary fiat."
+short: "Mathematician and Nobel laureate whose Ideal Money lectures converge, from outside the Austrian tradition, on this wiki's hard-money critique of discretionary fiat."
 ---
 
 # John Nash

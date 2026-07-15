@@ -9,6 +9,7 @@ tags: [william-graham-sumner, folkways, ethnocentrism, in-group, out-group, we-g
 aliases: [Folkways, Folkways Sumner]
 confidence: medium
 summary: "Reference guide to W. G. Sumner's Folkways (1906), the classic statement of the we-group/out-group distinction and the coinage of ethnocentrism, cited in this wiki for the tribal sentiment nationalism mobilizes."
+short: "Sumner's 1906 study coining ethnocentrism and the we-group/out-group distinction, cited here for the tribal sentiment nationalism mobilizes."
 ---
 
 # Folkways

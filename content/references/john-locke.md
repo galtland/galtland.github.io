@@ -9,6 +9,7 @@ tags: [john-locke, natural-law, natural-rights, classical-liberalism, social-con
 aliases: [John Locke, Locke]
 confidence: medium
 summary: "Short author reference for John Locke (1632–1704), the English philosopher whose Second Treatise of Government gave the natural-rights tradition its decisive modern form: pre-political rights to life, liberty, and property; government by consent; and the right of revolution."
+short: "English philosopher (1632-1704) whose Second Treatise of Government founded modern natural-rights theory: pre-political rights, consent, and the right of revolution."
 ---
 
 # John Locke

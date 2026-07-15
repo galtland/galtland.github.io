@@ -9,6 +9,7 @@ tags: [rothbard, natural-rights, ethics, liberty, property-rights]
 aliases: [EoL, Rothbard's Ethics]
 confidence: medium
 summary: "Reference guide to Rothbard's natural-rights treatise (1982/1998) on the ethical foundations of libertarianism: self-ownership, property, contract, the state, and a critique of competing libertarian theories."
+short: "Rothbard's 1982 treatise grounding libertarianism in self-ownership and property rights, culminating in a full ethical critique of the state."
 ---
 
 # The Ethics of Liberty

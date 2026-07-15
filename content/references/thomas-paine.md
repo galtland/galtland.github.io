@@ -9,6 +9,7 @@ tags: [thomas-paine, natural-rights, classical-canon, american-founding, french-
 aliases: [Thomas Paine, Paine, Tom Paine]
 confidence: medium
 summary: "Short author reference for Thomas Paine (1737–1809), the Anglo-American revolutionary pamphleteer whose Common Sense helped spark the American Revolution and whose Rights of Man carried natural-rights theory into mass democratic politics."
+short: "Revolutionary pamphleteer whose Common Sense sparked the American Revolution and whose Rights of Man popularized natural-rights theory."
 ---
 
 # Thomas Paine

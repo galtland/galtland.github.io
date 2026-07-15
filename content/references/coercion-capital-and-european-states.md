@@ -9,6 +9,7 @@ tags: [charles-tilly, state, historical-sociology, war-and-state-formation, coer
 aliases: [Coercion Capital and European States, Coercion Capital and European States AD 990-1992]
 confidence: medium
 summary: "Reference guide to Charles Tilly's historical-sociological account of European state formation, war-making, extraction, citizenship, nationalism, soldiers, and the capital/coercion typology. The raw aggregate now includes chapters 1-7."
+short: "Tilly's historical-sociological account of how war-making, extraction, and the capital/coercion typology forged the European state system."
 ---
 
 # Coercion, Capital, and European States

@@ -9,6 +9,7 @@ tags: [hayek, austrian-business-cycle-theory, capital-theory, monetary-theory]
 aliases: [Prices and Production, Hayek's Monetary Works]
 confidence: medium
 summary: "Reference guide to the Mises Institute's collected edition of Hayek's monetary and business-cycle works (originals 1929–1939) — the core texts of Austrian business-cycle theory."
+short: "Mises Institute's collected edition of Hayek's 1929-1939 monetary and business-cycle works, the core texts of Austrian business-cycle theory."
 ---
 
 # Prices and Production and Other Works

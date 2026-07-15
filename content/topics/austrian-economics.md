@@ -9,6 +9,7 @@ tags: [austrian-economics, economics, praxeology, intervention, calculation-prob
 aliases: [Austrian School, Austrian School of Economics]
 confidence: medium
 summary: "Topic map of Austrian economics in this wiki: praxeology, calculation, the knowledge problem, capital and the business cycle, property, and the destabilizing logic of intervention."
+short: "Topic map of the wiki's Austrian economics coverage: praxeology, calculation, the knowledge problem, capital theory, and interventionism."
 ---
 
 # Austrian Economics

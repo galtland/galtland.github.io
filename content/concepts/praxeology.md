@@ -9,6 +9,7 @@ tags: [praxeology, methodology, austrian-economics, action-axiom, a-priori, meth
 aliases: [The Action Axiom, Mises's Method, Austrian Methodology]
 confidence: high
 summary: "The Misesian general theory of human action: a deductive science whose first principle is that humans act purposefully, from which the laws of economics are derived without empirical assumption."
+short: "Mises's deductive science of human action: since humans act purposefully, the laws of economics follow without need for empirical testing."
 ---
 
 # Praxeology

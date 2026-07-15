@@ -11,6 +11,7 @@ aliases: [parasite thesis of the state, state-as-parasite, the state is a parasi
 confidence: medium
 verdict: partial-support-with-one-major-exception
 summary: "Tests the two-sentence claim that the State is a parasite that disguises itself as symbiosis, and that dictatorships and organized crime are less-skilled versions of the same parasite. Sentence 1 is strongly supported in the anarcho-libertarian corpus (Rothbard, Oppenheimer, Nock, Bastiat, Spooner, La Boetie, Nietzsche, Hoppe), with non-libertarian convergence from Tilly's historical sociology and adjacent descriptions from Schmitt and Foucault. Sentence 2 holds for ordinary regimes but breaks at totalitarianism in Arendt's specific sense; her power-vs-violence distinction clarifies why terror is not simply weak legitimacy."
+short: "Tests the claim that the state is a parasite masquerading as symbiosis; holds broadly but breaks at totalitarianism, per Arendt's terror analysis."
 ---
 
 # The State as Parasite: A Thesis

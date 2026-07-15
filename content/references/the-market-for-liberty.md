@@ -9,6 +9,7 @@ tags: [tannehill, market-anarchism, private-law, defense-agencies]
 aliases: [Market for Liberty]
 confidence: medium
 summary: "Reference guide to the Tannehills' full-scale case for private law, arbitration, insurance, and defense markets, now ingested in full text."
+short: "The Tannehills' full case for replacing the state with market-provided law, arbitration, insurance, and defense."
 ---
 
 # The Market for Liberty

@@ -9,6 +9,7 @@ tags: [albert-jay-nock, old-right, state, social-power, political-means, america
 aliases: [Nock, Albert J. Nock]
 confidence: medium
 summary: "Short author reference for Albert Jay Nock, the American essayist and Old Right forerunner whose *Our Enemy, the State* transmitted Oppenheimer's state theory into American libertarian anti-statism."
+short: "American essayist and Old Right forerunner whose Our Enemy, the State carried Oppenheimer's conquest theory into American libertarian anti-statism."
 ---
 
 # Albert Jay Nock

@@ -9,6 +9,7 @@ tags: [hannah-arendt, eichmann, banality-of-evil, holocaust, totalitarianism, bu
 aliases: [Eichmann in Jerusalem, A Report on the Banality of Evil]
 confidence: medium
 summary: "Reference guide to Hannah Arendt's 1963 report on Adolf Eichmann's Jerusalem trial and the banality-of-evil thesis. Companion to *The Origins of Totalitarianism*: the earlier book analyzes the regime, while *Eichmann* analyzes the ordinary participant."
+short: "Arendt's 1963 report on Eichmann's trial and the banality-of-evil thesis: the ordinary bureaucrat as totalitarianism's working part."
 ---
 
 # Eichmann in Jerusalem

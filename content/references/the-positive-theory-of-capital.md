@@ -9,6 +9,7 @@ tags: [eugen-von-bohm-bawerk, austrian-economics, capital-theory, time-preferenc
 aliases: [Positive Theory of Capital, Positive Theorie des Kapitales]
 confidence: medium
 summary: "Reference guide to Böhm-Bawerk's Positive Theory of Capital (Smart trans. of Positive Theorie des Kapitales, 1889): the constructive Austrian account of capital as produced means of production, the roundabout structure of production, and the agio (time-preference) theory of interest."
+short: "Bohm-Bawerk's constructive Austrian theory of capital as roundabout production, grounding interest in time preference."
 ---
 
 # The Positive Theory of Capital

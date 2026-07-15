@@ -9,6 +9,7 @@ tags: [sovereignty, power, carl-schmitt, michel-foucault, state-of-exception, di
 aliases: [non-libertarian critiques of power, sovereignty and power critiques]
 confidence: medium
 summary: "Topic map collecting non-libertarian critiques of state power through Schmitt's sovereignty/exception/friend-enemy tradition and Foucault's discipline/biopower tradition."
+short: "Topic map collecting non-libertarian critiques of state power through Schmitt's sovereignty tradition and Foucault's biopower tradition."
 ---
 
 # Critiques of Sovereignty and Power

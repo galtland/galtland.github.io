@@ -9,6 +9,7 @@ tags: [hannah-arendt, the-human-condition, vita-activa, labor, work, action, pub
 aliases: [Human Condition, Arendt Human Condition]
 confidence: medium
 summary: "Reference guide to Hannah Arendt's 1958 account of vita activa: labor, work, action, public and private realms, the rise of the social, and the modern eclipse of public action."
+short: "Arendt's 1958 study of labor, work, and action, tracing how the rise of 'the social' eclipsed genuine public political life."
 ---
 
 # The Human Condition

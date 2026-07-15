@@ -9,6 +9,7 @@ tags: [rothbard, banking, fiduciary-media, fractional-reserves, sound-money, mon
 aliases: [Mystery of Banking, MOB, Rothbard on banking]
 confidence: medium
 summary: "Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, banking, and central banking — the most accessible statement of the 100%-reserve-banking case and the Rothbardian money-supply criterion that Salerno later formalizes as the True Money Supply. Full text now ingested into the corpus (322 pages, ~10.5k lines)."
+short: "Rothbard's accessible account of money, banking, and central banking, making the popular case for 100%-reserve banking over fractional reserve."
 ---
 
 # The Mystery of Banking

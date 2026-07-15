@@ -8,6 +8,7 @@ verified: 2026-06-08
 tags: [franz-oppenheimer, conquest-theory, state, political-means, exploitation]
 aliases: [Oppenheimer conquest thesis, conquest origin of the state, state by conquest]
 confidence: high
+summary: "Oppenheimer's conquest thesis holds that the state originates not in a social contract but in conquest: a victorious group stabilizes permanent domination over a defeated one, keeping the conquered alive and productive because recurring tribute outvalues one-time plunder. The class state is force made into a durable institution of extraction, later refined by law, administration, and fiscal regularity without changing its moral species. Because it breaks the contractarian myth at the root — the state as conquest made legal and respectable rather than society's chosen agent — the account was taken up by Nock and Rothbard even though Oppenheimer himself was no Rothbardian."
 short: "Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association."
 ---
 

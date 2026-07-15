@@ -9,6 +9,7 @@ tags: [hannah-arendt, council-system, revolution, public-freedom, self-governmen
 aliases: [council tradition, revolutionary councils, ward system]
 confidence: medium
 summary: "Arendt's account of the recurring revolutionary council tradition as a lost form of local, federated public participation."
+short: "Arendt's account of the recurring revolutionary council tradition as a lost form of local, federated public participation."
 ---
 
 # Council System

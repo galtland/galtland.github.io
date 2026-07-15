@@ -9,6 +9,7 @@ tags: [sales-tax, taxation, incidence, rothbard]
 aliases: [general sales tax incidence, Rothbard on sales tax, tax incidence]
 confidence: medium
 summary: "Rothbardian account of who ultimately bears a general sales tax: not consumers via higher prices, but original-factor incomes through backward shifting."
+short: "The Rothbardian case that a general sales tax is not passed to consumers but falls on original-factor incomes through backward shifting."
 ---
 
 # Sales Tax Incidence

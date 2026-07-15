@@ -9,6 +9,7 @@ tags: [banality-of-evil, hannah-arendt, eichmann, bureaucracy, thoughtlessness, 
 aliases: [the banality of evil, thoughtlessness, ordinary evil, bureaucratic evil]
 confidence: medium
 summary: "Arendt's thesis from *Eichmann in Jerusalem*: Eichmann's evil was not demonic depth but a terrifying normality rooted in bureaucratic compliance, cliche, law-abiding self-presentation, and an inability to think morally from another standpoint."
+short: "Arendt's thesis that Eichmann's evil was not demonic depth but bureaucratic compliance, cliche, and an inability to think from another's standpoint."
 ---
 
 # Banality of Evil

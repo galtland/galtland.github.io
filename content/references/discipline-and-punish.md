@@ -9,6 +9,7 @@ tags: [michel-foucault, discipline-and-punish, disciplinary-power, panopticism, 
 aliases: [Discipline and Punish: The Birth of the Prison, Surveiller et punir]
 confidence: medium
 summary: "Reference guide to Michel Foucault's Discipline and Punish, especially disciplinary power, surveillance, examination, docile bodies, panopticism, and the prison form."
+short: "Foucault's account of disciplinary power - surveillance, examination, docile bodies, panopticism - as the modern prison's true technology of control."
 ---
 
 # Discipline and Punish

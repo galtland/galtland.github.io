@@ -9,6 +9,7 @@ tags: [bastiat, law, property-rights, legal-plunder]
 aliases: [La Loi]
 confidence: medium
 summary: "Reference guide to Bastiat's anti-plunder essay on law, liberty, property, and the corruption of legislation."
+short: "Bastiat's essay defining law as the collective right to self-defense, and legal plunder as its perversion into legalized theft."
 ---
 
 # The Law

@@ -9,6 +9,7 @@ tags: [mass-society, atomization, hannah-arendt, totalitarianism, loneliness, th
 aliases: [mass society, atomization, political loneliness, isolated masses]
 confidence: medium
 summary: "Arendt's account of the social preconditions of totalitarianism: class and community breakdown produce isolated, interchangeable masses available for total mobilization. Eichmann adds the thoughtlessness layer; Solzhenitsyn documents the Gulag as both product and enforcer of atomization."
+short: "Arendt's account of how the breakdown of class and community produces isolated masses available for total mobilization, later enforced in the Gulag."
 ---
 
 # Mass Society and Atomization

@@ -9,6 +9,7 @@ tags: [charles-tilly, citizenship, state-formation, bargaining, taxation, rights
 aliases: [states and citizens, citizen bargaining, state-citizen bargaining]
 confidence: medium
 summary: "Tilly's account of citizenship as a byproduct of rulers' bargaining with subjects for taxes, manpower, credit, and compliance in the course of war-making and direct rule."
+short: "Tilly's account of citizenship as a byproduct of rulers' bargaining with subjects for taxes, manpower, and compliance during war-making and direct rule."
 ---
 
 # Citizenship and State Bargaining

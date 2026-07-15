@@ -9,6 +9,7 @@ tags: [samuel-edward-konkin, agorism, counter-economics, market-anarchism, strat
 aliases: [New Libertarian Manifesto, NLM]
 confidence: medium
 summary: "Reference guide to Samuel Edward Konkin III's New Libertarian Manifesto (1980), the founding statement of agorism: build the counter-economy until voluntary exchange displaces the state."
+short: "Konkin's 1980 founding statement of agorism: build the counter-economy until voluntary exchange displaces the state."
 ---
 
 # New Libertarian Manifesto

@@ -9,6 +9,7 @@ tags: [william-f-shughart-ii, public-choice, rational-ignorance, collective-acti
 aliases: [Shughart, William F. Shughart, William Shughart, William F. Shughart II]
 confidence: medium
 summary: "Short author reference for William F. Shughart II, the American public-choice economist whose Concise Encyclopedia of Economics entry 'Public Choice' supplies this wiki's compact statement of rational ignorance and the logic of concentrated benefits over dispersed costs."
+short: "Public-choice economist whose Public Choice entry supplies this wiki's compact account of rational ignorance and concentrated benefits."
 ---
 
 # William F. Shughart II

@@ -9,6 +9,7 @@ tags: [john-nash, ideal-money, monetary-theory, inflation, sound-money, hard-mon
 aliases: [Ideal Money, Ideal Money and Asymptotically Ideal Money, Asymptotically Ideal Money]
 confidence: medium
 summary: "Reference guide to John Nash's lecture 'Ideal Money and Asymptotically Ideal Money', which argues for a money of stable long-run value approached by indexing issuance to industrial prices rather than central-bank discretion."
+short: "John Nash's lecture arguing for money of stable value via indexing issuance to industrial prices rather than central-bank discretion."
 ---
 
 # Ideal Money and Asymptotically Ideal Money

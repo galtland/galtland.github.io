@@ -9,6 +9,7 @@ tags: [mises, liberalism, classical-liberalism, free-trade]
 aliases: [Liberalismus, Mises Liberalism, Classical Liberalism]
 confidence: medium
 summary: "Reference guide to Mises's short 1927 statement of classical-liberal political economy: private property, peace, free trade, and a strictly limited state defended on consequentialist economic grounds."
+short: "Mises's short 1927 statement of classical-liberal political economy: private property, peace, free trade, and a strictly limited state."
 ---
 
 # Liberalism

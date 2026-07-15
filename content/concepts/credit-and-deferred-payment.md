@@ -9,6 +9,7 @@ tags: [credit, time-preference, debtor-creditor, book-credit, austrian-economics
 aliases: [credit transaction, trade credit, book credit, commercial credit, deferred payment]
 confidence: high
 summary: "The Austrian definition of credit as the exchange of a present good for a claim on a future good — distinguishing cash from credit by whether the transaction is finished, and treating book/trade/commercial credit, monthly billing, and consumer loans as instances of the same underlying structure. Mises states the definition canonically in *The Theory of Money and Credit* (1912, p. 268), and Rothbard restates it in catallactic terms in *Man, Economy, and State*. Mises (*Human Action*), Rothbard (*The Ethics of Liberty*), and Hoppe (*EEPP*) apply or re-use the framework rather than re-stating it as a definition. Hayek (*Prices and Production*) presupposes it while contributing the book-credit / commercial-credit category."
+short: "The Austrian definition of credit as exchanging a present good for a claim on a future good, from Mises's canonical statement through Rothbard's catallactic restatement."
 ---
 
 # Credit and Deferred Payment

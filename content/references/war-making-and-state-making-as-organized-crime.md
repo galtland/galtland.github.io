@@ -9,6 +9,7 @@ tags: [charles-tilly, state, war-and-state-formation, protection-racket, organiz
 aliases: [War Making and State Making, State Making as Organized Crime, Tilly 1985, protection rackets with legitimacy]
 confidence: medium
 summary: "Reference guide to Charles Tilly's 1985 essay that explicitly compares war making, state making, protection, and extraction to organized crime. This is the canonical source for the 'quintessential protection rackets with the advantage of legitimacy' formulation."
+short: "Tilly's 1985 essay casting war making and state making as organized crime - protection rackets with the advantage of legitimacy."
 ---
 
 # War Making and State Making as Organized Crime

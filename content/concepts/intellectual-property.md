@@ -9,6 +9,7 @@ confidence: medium
 tags: [intellectual-property, scarcity, property-rights, rivalry, kinsella, rothbard, austrian-economics, copyright, patents, information, libertarian]
 aliases: [IP, intellectual property as aggression, against intellectual property, anti-IP, information and property]
 summary: "The scarcity-based Austrian critique of intellectual property (Kinsella and Hillebrand, drawing on Rothbardian property theory): property rights exist to resolve conflicts over rivalrous resources, information content is non-rivalrous, so patents and statutory copyright monopolies are artificial scarcity imposed by force — a contested but influential position with direct bearing on digital money and privacy. (Rothbard himself rejected patents but accepted copyright reconstructed through contract — see below.)"
+short: "The Austrian case that IP monopolies are illegitimate: property rights resolve conflict over rivalrous resources, and information is not rivalrous."
 ---
 
 # Intellectual Property

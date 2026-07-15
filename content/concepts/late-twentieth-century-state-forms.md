@@ -9,6 +9,7 @@ tags: [charles-tilly, state-formation, military-rule, postcolonial-states, natio
 aliases: [soldiers and states in 1992, contemporary state forms, military misdevelopment]
 confidence: medium
 summary: "Tilly's Chapter 7 extension from European state formation to late-twentieth-century military rule, postcolonial states, soldiers in power, and the limits of exporting Europe's path."
+short: "Tilly's extension of European state-formation theory to late-twentieth-century military rule, postcolonial states, and the limits of exporting Europe's path."
 ---
 
 # Late-Twentieth-Century State Forms

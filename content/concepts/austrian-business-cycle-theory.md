@@ -9,6 +9,7 @@ tags: [business-cycle, austrian-economics, monetary-theory, capital-theory, grea
 aliases: [ABCT, Austrian Theory of the Business Cycle, Hayek-Mises Business Cycle Theory]
 confidence: medium
 summary: "The Austrian theory that booms and busts are caused by credit expansion lowering interest rates below their natural level, distorting the structure of production, and forcing an inevitable corrective downturn."
+short: "The Austrian theory that credit expansion pushes interest rates below their natural level, distorting production and forcing an inevitable corrective bust."
 ---
 
 # Austrian Business Cycle Theory

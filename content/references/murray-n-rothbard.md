@@ -9,6 +9,7 @@ tags: [rothbard, libertarianism, austrian-economics, anti-statism, economic-hist
 aliases: [Murray Rothbard, Rothbard]
 confidence: medium
 summary: "Reference guide to Rothbard's place in this wiki as system-builder, economist, anti-state theorist, and movement strategist."
+short: "System-builder, economist, anti-state theorist, and movement strategist at the center of this wiki's Austro-libertarian tradition."
 ---
 
 # Murray N. Rothbard

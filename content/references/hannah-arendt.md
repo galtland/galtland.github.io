@@ -9,6 +9,7 @@ tags: [hannah-arendt, political-philosophy, totalitarianism, banality-of-evil, o
 aliases: [Arendt, Hannah Arendt political philosophy]
 confidence: medium
 summary: "Author reference for Hannah Arendt, whose works now present in the wiki include Origins, Eichmann in Jerusalem, On Violence, The Human Condition, and On Revolution."
+short: "Political theorist of totalitarianism, power, and public life, whose Origins, Eichmann, Human Condition, and On Revolution anchor this wiki's Arendt node."
 ---
 
 # Hannah Arendt

@@ -9,6 +9,7 @@ tags: [hannah-arendt, public-happiness, revolution, public-freedom, american-rev
 aliases: [public freedom, happiness in public, revolutionary public happiness]
 confidence: medium
 summary: "Arendt's term for the joy and dignity of participating in public freedom, especially in her account of the American revolutionary experience."
+short: "Arendt's term for the joy of participating in public freedom, drawn from her account of the American revolutionary experience."
 ---
 
 # Public Happiness

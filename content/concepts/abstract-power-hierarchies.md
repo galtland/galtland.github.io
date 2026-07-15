@@ -9,6 +9,7 @@ tags: [abstract-power, state, hierarchy, bitcoin, software, power-projection, na
 aliases: [abstract power hierarchy, APB hierarchy, abstract-power-based hierarchy, rule-based authority]
 confidence: low
 summary: "Lowery's term for belief-based, rule-based, or software-defined control systems that allocate authority through abstract power rather than directly through physical-cost competition, now compared with Arendt's account of total domination."
+short: "Lowery's term for belief- or rule-based control systems that allocate authority abstractly rather than via physical-cost competition, set against Arendt's total domination."
 ---
 
 # Abstract Power Hierarchies

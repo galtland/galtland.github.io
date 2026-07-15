@@ -9,6 +9,7 @@ tags: [etienne-de-la-boetie, voluntary-servitude, consent, obedience, tyranny, w
 aliases: [La Boétie, La Boetie, Etienne de la Boetie, Étienne de la Boétie, de la Boétie, de la Boetie]
 confidence: medium
 summary: "Short author reference for Étienne de la Boétie, the sixteenth-century French humanist whose Discourse of Voluntary Servitude supplies this wiki's foundational account of tyranny as something the ruled sustain by habit and consent."
+short: "Sixteenth-century French humanist whose Discourse of Voluntary Servitude argues tyranny survives only because the ruled sustain it through habit and consent."
 ---
 
 # Étienne de la Boétie

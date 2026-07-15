@@ -9,6 +9,7 @@ tags: [charles-tilly, historical-sociology, state, war-and-state-formation, comp
 aliases: [Tilly, Charles Tilly historical sociology]
 confidence: medium
 summary: "Short author reference for Charles Tilly, the American historical sociologist whose 1985 organized-crime essay and later *Coercion, Capital, and European States* supply this wiki's non-libertarian Tilly tradition node."
+short: "American historical sociologist whose organized-crime essay and state-formation studies supply this wiki's non-libertarian 'state as racket' analogy."
 ---
 
 # Charles Tilly

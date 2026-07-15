@@ -9,6 +9,7 @@ tags: [spooner, government, constitutionalism, anti-statism]
 aliases: [Lets Abolish Government]
 confidence: medium
 summary: "Reference guide to the Rothbard-curated Spooner collection on constitutional illegitimacy, jury nullification, slavery, and radical anti-state dissent."
+short: "Rothbard-curated Spooner collection on constitutional illegitimacy, jury nullification, slavery, and radical anti-state dissent."
 ---
 
 # Let's Abolish Government

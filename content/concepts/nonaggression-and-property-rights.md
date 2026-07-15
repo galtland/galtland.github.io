@@ -9,6 +9,7 @@ tags: [nonaggression, property-rights, ethics, liberty, classical-liberalism, po
 aliases: [NAP, nonaggression principle, private property rights]
 confidence: medium
 summary: "Normative core of the current corpus: self-ownership, property, contract, and the rule against initiated force — defended on natural-rights grounds by Rothbard, on argumentation-ethics/property-theory grounds by Hoppe, and on consequentialist/utilitarian grounds by Mises."
+short: "The corpus's normative core: self-ownership, property, and the rule against initiated force, defended on natural-rights, argumentation-ethics, and utilitarian grounds."
 ---
 
 # Nonaggression and Property Rights

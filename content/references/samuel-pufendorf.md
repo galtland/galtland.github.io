@@ -9,6 +9,7 @@ tags: [samuel-pufendorf, natural-law, natural-rights, classical-canon, sociality
 aliases: [Samuel Pufendorf, Pufendorf, Samuel von Pufendorf, Freiherr von Pufendorf]
 confidence: medium
 summary: "Short author reference for Samuel von Pufendorf (1632–1694), the German jurist and natural-law theorist who systematized the discipline between Grotius and Locke, grounding the law of nature in human sociality."
+short: "German jurist and natural-law theorist (1632-1694) who systematized the discipline between Grotius and Locke, grounding it in human sociality."
 ---
 
 # Samuel Pufendorf

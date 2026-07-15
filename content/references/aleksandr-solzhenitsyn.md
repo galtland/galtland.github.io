@@ -9,6 +9,7 @@ tags: [aleksandr-solzhenitsyn, gulag, soviet-union, stalinism, dissident-literat
 aliases: [Solzhenitsyn, Aleksandr I. Solzhenitsyn, Alexander Solzhenitsyn]
 confidence: medium
 summary: "Short author reference for Aleksandr Solzhenitsyn, Soviet dissident writer and author of *The Gulag Archipelago*. He enters this wiki as a witness to Soviet totalitarianism, not as a libertarian political theorist."
+short: "Soviet dissident writer whose Gulag Archipelago stands in this wiki as eyewitness testimony to totalitarian terror, not as libertarian theory."
 ---
 
 # Aleksandr Solzhenitsyn

@@ -9,6 +9,7 @@ confidence: high
 tags: [cypherpunk, cypherpunks-mailing-list, tim-may, eric-hughes, hal-finney, adam-back, wei-dai, crypto-wars, digital-cash, remailers, proof-of-work, b-money, hashcash, history, primary-source]
 aliases: [Cypherpunks Mailing List, cypherpunks@toad.com, the cypherpunks list, toad.com list]
 summary: "Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded forum where the cypherpunk program — anonymous remailers, Chaumian digital cash, the two founding manifestos, the Crypto Wars, Hashcash, and b-money — was argued out in public, and from which the lineage runs to the 2008 Bitcoin announcement on the separate Metzdowd cryptography list."
+short: "The 1992-2009 forum where anonymous remailers, digital cash, and crypto-anarchism were argued into being, feeding directly into Bitcoin's 2008 debut."
 ---
 
 # The Cypherpunks Mailing List

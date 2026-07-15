@@ -9,6 +9,7 @@ tags: [saifedean-ammous, bitcoin, hard-money, stock-to-flow, fiat, sound-money, 
 aliases: [Ammous, Saifedean, Saifedean Ammous]
 confidence: medium
 summary: "Author reference for Saifedean Ammous, the economist whose Bitcoin Standard, Fiat Standard, and Principles of Economics give this wiki its explicitly Austrian, hardness-and-stock-to-flow reading of money and its engineering critique of fiat."
+short: "Economist whose Bitcoin Standard, Fiat Standard, and Principles of Economics give this wiki its Austrian, hardness-and-stock-to-flow reading of money."
 ---
 
 # Saifedean Ammous

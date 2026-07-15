@@ -9,6 +9,7 @@ tags: [mises, socialism, economic-calculation, austrian-economics]
 aliases: [Mises Socialism, Die Gemeinwirtschaft]
 confidence: medium
 summary: "Reference guide to Mises's 1922 critique of socialism — the book-length statement of the economic-calculation argument first made in his 1920 essay, and the work that touched off the entire socialist-calculation debate."
+short: "Mises's 1922 book-length critique of socialism, expanding his 1920 economic-calculation argument and launching the socialist-calculation debate."
 ---
 
 # Socialism

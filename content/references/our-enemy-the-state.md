@@ -9,6 +9,7 @@ tags: [albert-jay-nock, state, social-power, state-power, political-means, ameri
 aliases: [Our Enemy the State, Nock's Our Enemy the State]
 confidence: medium
 summary: "Reference guide to Albert Jay Nock's 1935 anti-state book applying Oppenheimer's political-means/economic-means distinction to American history and the New Deal."
+short: "Nock's 1935 anti-state book applying Oppenheimer's political-means/economic-means distinction to American history and the New Deal."
 ---
 
 # Our Enemy, the State

@@ -12,6 +12,7 @@ stance: endorse
 verdict: endorse
 confidence: medium
 summary: "Reads Argentina's late-2023 rent decontrol as consistent with the Mises-Rothbard price-control prediction: an effective rent ceiling creates a housing shortage by suppressing the legal return to supply; repeal reopens the offer margin, and early data report listings returning and real rents falling. Confidence is medium because the post-repeal evidence is recent and Argentina's macro volatility complicates clean attribution."
+short: "Argentina's 2023 rent decontrol reads as consistent with the Mises-Rothbard price-control prediction: ceilings coincided with shortage, repeal with reopened supply and lower rents."
 ---
 
 # Argentina's 2023 Rent Decontrol: Price-Control Analysis

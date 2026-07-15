@@ -9,6 +9,7 @@ tags: [hugo-grotius, natural-law, natural-rights, classical-canon, international
 aliases: [Hugo Grotius, Grotius, Huig de Groot, Hugo de Groot]
 confidence: medium
 summary: "Short author reference for Hugo Grotius (1583–1645), the Dutch jurist whose De Jure Belli ac Pacis secularized natural law and founded modern international law — grounding rights and obligations in human nature such that they would bind 'even if there were no God.'"
+short: "Dutch jurist whose De Jure Belli ac Pacis secularized natural law and founded international law, grounding rights in human nature alone."
 ---
 
 # Hugo Grotius

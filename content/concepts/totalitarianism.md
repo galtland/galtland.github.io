@@ -9,6 +9,7 @@ tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, s
 aliases: [totalitarian rule, ideology and terror]
 confidence: medium
 summary: "Arendt's account of totalitarianism as a novel form of government distinct from tyranny, despotism, dictatorship, and authoritarianism: rule through ideology and terror, pursuit of total domination, ordinary bureaucratic participation, and the camp system documented by Solzhenitsyn."
+short: "Arendt's account of totalitarianism as a novel form of rule through ideology and terror, distinct from tyranny or dictatorship, sustained by ordinary bureaucratic participation."
 ---
 
 # Totalitarianism

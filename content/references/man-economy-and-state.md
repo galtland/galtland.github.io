@@ -9,6 +9,7 @@ tags: [rothbard, austrian-economics, economics, power-and-market]
 aliases: [MES, Man Economy and State]
 confidence: medium
 summary: "Reference guide to Rothbard's full Man, Economy, and State aggregate: action, exchange, money, and the Power and Market intervention analysis."
+short: "Rothbard's treatise building economics from action through exchange and money to the Power and Market analysis of state intervention."
 ---
 
 # Man, Economy, and State

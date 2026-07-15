@@ -9,6 +9,7 @@ tags: [rothbard, austrian-economics, intervention, taxation, power-and-market, p
 aliases: [P&M, Power and Market Government and the Economy]
 confidence: medium
 summary: "Reference guide to Rothbard's Power and Market (1970) — the standalone companion to Man, Economy, and State that develops the autistic/binary/triangular intervention typology and the systematic Austrian critique of taxation, expenditure, and antimarket ethics."
+short: "Rothbard's 1970 companion to Man, Economy, and State, developing the intervention typology and critique of taxation and antimarket ethics."
 ---
 
 # Power and Market

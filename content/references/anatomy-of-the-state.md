@@ -9,6 +9,7 @@ tags: [rothbard, state, anti-statism, political-theory, political-means, evoluti
 aliases: [Anatomy]
 confidence: medium
 summary: "Reference guide to Rothbard's concise anti-state essay on political monopoly, ideological camouflage, and the conflict between state power and social power."
+short: "Rothbard's concise essay unmasking the state as political monopoly wrapped in ideological camouflage, opposed to voluntary social power."
 ---
 
 # Anatomy of the State

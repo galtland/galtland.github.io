@@ -9,6 +9,7 @@ tags: [michel-foucault, disciplinary-power, biopower, genealogy, sovereignty, po
 aliases: [Foucault, Michel Foucault power]
 confidence: medium
 summary: "Author reference for Michel Foucault, included as a non-libertarian genealogist of discipline, surveillance, biopower, population, and modern power."
+short: "Non-libertarian genealogist of discipline, surveillance, biopower, population, and modern power, included here as a foil and analytic resource."
 ---
 
 # Michel Foucault

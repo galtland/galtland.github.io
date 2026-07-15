@@ -9,6 +9,7 @@ tags: [state, intervention, anti-statism, taxation, central-planning, abstract-p
 aliases: [state intervention, interventionism]
 confidence: medium
 summary: "Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, organized-crime/protection-racket sociology, abstract authority, regime incentives, bureaucracy, Gulag testimony, totalitarian pathology, and dependence on habit or consent."
+short: "The libertarian account of the state as legalized privilege: born of conquest, sustained by taxation and monopoly law, and dependent on habitual consent."
 ---
 
 # State Power and Intervention

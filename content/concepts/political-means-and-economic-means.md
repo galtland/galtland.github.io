@@ -9,6 +9,7 @@ tags: [political-means, economic-means, state, exploitation, production, exchang
 aliases: [economic means, political means, Oppenheimer distinction, production versus predation]
 confidence: medium
 summary: "Oppenheimer's distinction between the economic means of production-and-voluntary-exchange and the political means of coercive appropriation, later adopted by Nock, Rothbard, and Hoppe and empirically illuminated by Tilly's capital/coercion account of European state formation."
+short: "Oppenheimer's distinction between voluntary production-and-exchange and coercive appropriation, adopted by Nock, Rothbard, and Hoppe."
 ---
 
 # Political Means and Economic Means

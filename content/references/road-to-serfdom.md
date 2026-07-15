@@ -9,6 +9,7 @@ tags: [hayek, central-planning, totalitarianism, rule-of-law, classical-liberali
 aliases: [Road to Serfdom, RTS]
 confidence: medium
 summary: "Reference guide to Hayek's 1944 warning that central economic planning leads to authoritarian rule by destroying the rule of law and the institutions on which liberty depends, now cross-linked to Arendt's distinct totalitarianism framework."
+short: "Hayek's 1944 warning that central economic planning destroys the rule of law and leads to authoritarian rule."
 ---
 
 # The Road to Serfdom

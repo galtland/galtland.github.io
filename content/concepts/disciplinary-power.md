@@ -9,6 +9,7 @@ tags: [michel-foucault, disciplinary-power, panopticism, surveillance, normaliza
 aliases: [discipline, panopticism, docile bodies]
 confidence: medium
 summary: "Foucault's concept of power that trains bodies through surveillance, partitioning, examination, normalization, schedules, institutions, and possible visibility."
+short: "Foucault's concept of power that trains bodies through surveillance, partitioning, examination, and normalization within institutions."
 ---
 
 # Disciplinary Power

@@ -9,6 +9,7 @@ tags: [hoppe, democracy, monarchy, time-preference, decivilization, natural-orde
 aliases: [Democracy, The God That Failed, Democracy by Hoppe]
 confidence: medium
 summary: "Reference guide to Hoppe's 2001 regime-comparison book on monarchy, democracy, time preference, decivilization, and natural order, now backed by a full-text Internet Archive OCR ingest."
+short: "Hoppe's regime-comparison book arguing monarchy outperforms democracy on time preference and civilization, now backed by full-text ingest."
 ---
 
 # Democracy: The God That Failed

@@ -9,6 +9,7 @@ tags: [rothbard, libertarianism, anti-statism, strategy]
 aliases: [For a New Liberty: The Libertarian Manifesto]
 confidence: medium
 summary: "Reference guide to Rothbard's movement-level overview of libertarian doctrine, applications, and strategy, now ingested in full text."
+short: "Rothbard's movement-level manifesto surveying libertarian doctrine, rights theory, and strategy across the full range of policy applications."
 ---
 
 # For a New Liberty

@@ -9,6 +9,7 @@ tags: [mises, austrian-economics, praxeology, classical-liberalism]
 aliases: [Ludwig Mises, Mises]
 confidence: medium
 summary: "Reference guide to Ludwig von Mises's place in this wiki as the founder of modern Austrian economics, originator of the economic-calculation argument, and the methodological source for the wider Rothbardian tradition."
+short: "Founder of modern Austrian economics, originator of the economic-calculation argument, and methodological source of the Rothbardian tradition."
 ---
 
 # Ludwig von Mises

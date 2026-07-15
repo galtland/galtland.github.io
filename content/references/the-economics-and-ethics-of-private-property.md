@@ -9,6 +9,7 @@ tags: [hoppe, property-rights, austrian-economics, taxation]
 aliases: [Economics and Ethics of Private Property]
 confidence: medium
 summary: "Reference guide to Hoppe's collected essays on property, taxation, money, public goods, and security, now ingested in full text."
+short: "Hoppe's essay collection defending private property, sound money, and voluntary security against taxation and democratic redistribution."
 ---
 
 # The Economics and Ethics of Private Property

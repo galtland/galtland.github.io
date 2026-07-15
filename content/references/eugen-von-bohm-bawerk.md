@@ -9,6 +9,7 @@ tags: [eugen-von-bohm-bawerk, austrian-economics, capital-theory, time-preferenc
 aliases: [Böhm-Bawerk, Bohm-Bawerk, Eugen von Böhm-Bawerk, Eugen Böhm von Bawerk, Böhm-Bawerkian]
 confidence: medium
 summary: "Author reference for Eugen von Böhm-Bawerk, the second-generation Austrian economist whose capital-and-interest theory — roundabout production, time preference, and capital as reducible to land, labor, and time — is the lineage Mises and Rothbard carry into this wiki's capital concept."
+short: "Second-generation Austrian economist whose capital-and-interest theory of roundabout production and time preference feeds directly into Mises and Rothbard."
 ---
 
 # Eugen von Böhm-Bawerk

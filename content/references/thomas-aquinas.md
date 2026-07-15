@@ -9,6 +9,7 @@ tags: [thomas-aquinas, natural-law, classical-canon, scholasticism, summa-theolo
 aliases: [Thomas Aquinas, Aquinas, St. Thomas Aquinas, Thomas of Aquino, the Angelic Doctor]
 confidence: medium
 summary: "Short author reference for Thomas Aquinas (c. 1225–1274), the Dominican theologian whose Treatise on Law in the Summa Theologica is the most systematic medieval statement of natural law: law as reason for the common good, and the eternal/natural/human/divine fourfold scheme."
+short: "Medieval theologian whose Treatise on Law gives the most systematic statement of natural law as reason ordered to the common good."
 ---
 
 # Thomas Aquinas

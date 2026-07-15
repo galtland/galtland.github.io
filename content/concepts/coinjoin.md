@@ -9,6 +9,7 @@ confidence: high
 tags: [coinjoin, payjoin, bitcoin, privacy, wasabi, joinmarket, wabisabi, chain-analysis, cypherpunk, digital-cash]
 aliases: [coinjoin, payjoin, collaborative coinjoining, Wasabi, JoinMarket, WabiSabi]
 summary: "Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into one transaction so observers cannot link inputs to outputs (JoinMarket, Wasabi/WabiSabi), while PayJoin is a steganographic payment that breaks the common-input-ownership heuristic and looks like an ordinary transaction."
+short: "Two Bitcoin privacy techniques: CoinJoin merges many users' inputs so outputs cannot be linked, while PayJoin disguises a payment to break the common-input-ownership heuristic."
 ---
 
 # CoinJoin and PayJoin

@@ -9,6 +9,7 @@ tags: [mises, methodology, epistemology, philosophy-of-history]
 aliases: [Mises Theory and History, Methodological Dualism]
 confidence: medium
 summary: "Reference guide to Mises's 1957 methodological treatise: the case for methodological dualism between the natural and social sciences, and a critique of historicism, scientism, and Marxian dialectical materialism."
+short: "Mises's 1957 defense of methodological dualism between the natural and social sciences, against historicism and Marxist determinism."
 ---
 
 # Theory and History

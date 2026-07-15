@@ -9,6 +9,7 @@ tags: [hannah-arendt, violence, power, authority, force, action, totalitarianism
 aliases: [power versus violence, violence and power, Arendt power]
 confidence: medium
 summary: "Arendt's distinction between power as action-in-concert and violence as instrumental means; violence can destroy power but cannot create the consent-grounded power it replaces."
+short: "Arendt's distinction between power as collective action and violence as mere instrumental force; violence can destroy power but never creates the consent it replaces."
 ---
 
 # Violence vs Power

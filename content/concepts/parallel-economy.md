@@ -9,6 +9,7 @@ confidence: medium
 tags: [parallel-economy, cypherpunk, bitcoin, privacy, agorism, counter-economics, resistance, ooda-loop, austrian-economics, max-hillebrand, crypto-anarchy]
 aliases: [parallel economy, parallel economic implementation, breaking the observation loop, counter-economics, agorism]
 summary: "Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools (Bitcoin, Tor, encrypted messaging, zero-knowledge proofs, Nostr) that lets economic life occur outside surveilled infrastructure, breaking the state's observe-orient-decide-act loop at the observation stage and making coercive extraction uneconomic rather than merely illegal."
+short: "Hillebrand's synthesis of Bitcoin, Tor, encrypted messaging, and zero-knowledge tools into a stack that lets economic life escape state surveillance."
 ---
 
 # The Parallel Economy

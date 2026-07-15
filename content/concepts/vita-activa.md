@@ -9,6 +9,7 @@ tags: [hannah-arendt, vita-activa, labor, work, action, public-realm, political-
 aliases: [active life, labor work action, vita activa]
 confidence: medium
 summary: "Arendt's framework for active life: labor sustains biological life, work fabricates a durable world, and action appears among plural persons through speech and deed."
+short: "Arendt's framework for the active life: labor sustains the body, work builds a durable world, and action discloses who we are among plural others."
 ---
 
 # Vita Activa

@@ -9,6 +9,7 @@ tags: [carl-schmitt, friend-enemy-distinction, political-theory, sovereignty, wa
 aliases: [friend-enemy distinction, friend and enemy, concept of the political]
 confidence: medium
 summary: "Schmitt's criterion of the political: the public distinction between friend and enemy as the highest-intensity form of association and dissociation."
+short: "Schmitt's criterion of the political: the public distinction between friend and enemy as the highest-intensity form of association and dissociation."
 ---
 
 # Friend/Enemy Distinction

@@ -9,6 +9,7 @@ tags: [lysander-spooner, natural-law, natural-rights, individualist-anarchism, c
 aliases: [Lysander Spooner, Spooner]
 confidence: medium
 summary: "Short author reference for Lysander Spooner (1808–1887), the American individualist anarchist, abolitionist, and legal theorist whose Natural Law; or The Science of Justice turns natural-rights reasoning against the legitimacy of legislation itself."
+short: "American individualist anarchist, abolitionist, and legal theorist (1808-1887) whose Natural Law turns natural-rights reasoning against legislation's own legitimacy."
 ---
 
 # Lysander Spooner

@@ -9,6 +9,7 @@ confidence: medium
 tags: [digital-cash, history, digicash, e-gold, liberty-dollar, liberty-reserve, silk-road, tornado-cash, bitcoin, centralization, trusted-third-parties, opsec, cypherpunk]
 aliases: [digital cash history, lessons from history, DigiCash, e-gold, Liberty Reserve, Silk Road, Tornado Cash, pre-Bitcoin digital money]
 summary: "Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn from six cases — DigiCash, e-gold, Liberty Dollar, Liberty Reserve, Silk Road, and Tornado Cash. The recurring killer is a central point of failure (issuer, operator, or developer) that the state or the market can eliminate."
+short: "Why pre-Bitcoin digital monies like DigiCash, e-gold, and Liberty Reserve failed: each had a central point of failure the state or market could eliminate, which Bitcoin escaped."
 ---
 
 # Lessons from Digital-Cash History

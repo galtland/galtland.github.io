@@ -9,6 +9,7 @@ tags: [market-anarchism, private-law, arbitration, defense-agencies, classical-l
 aliases: [anarcho-capitalism, private law society, market provision of law]
 confidence: medium
 summary: "Concept article on non-state courts, protection, insurance, and title systems in the current libertarian book set."
+short: "The libertarian vision of non-state courts, protection agencies, insurance, and title systems replacing state law and adjudication."
 ---
 
 # Market Anarchism and Private Law

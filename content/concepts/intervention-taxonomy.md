@@ -9,6 +9,7 @@ confidence: high
 tags: [rothbard, intervention, austrian-economics, power-and-market, autistic-intervention, binary-intervention, triangular-intervention, taxation, price-controls, surveillance, cbdc]
 aliases: [autistic binary triangular intervention, triangular intervention, binary intervention, autistic intervention, intervention typology, Rothbard intervention typology]
 summary: "Rothbard's three-way classification of coercive intervention in Power and Market: autistic (commands with no exchange), binary (the state as a party to an involuntary exchange), and triangular (the state dictating terms of an exchange between others) — the analytic spine for everything from taxation and price controls to KYC and CBDCs."
+short: "Rothbard's three-way classification of coercive intervention -- autistic, binary, triangular -- that frames everything from taxation to KYC and CBDCs."
 ---
 
 # Rothbard's Taxonomy of Intervention
