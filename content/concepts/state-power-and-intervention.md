@@ -137,7 +137,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 
 - [[biopower|Biopower]] - Foucauldian population-power concept
 
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic for non-libertarian power critiques
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic for non-libertarian power critiques
 
 - [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - Tilly concept complicating extraction with bargaining
 - [[discipline-and-punish|Discipline and Punish]] - reciprocal link.

@@ -36,7 +36,7 @@ The book also argues that major concepts in modern state theory are secularized 
 - [[state-of-exception|State of Exception]] - central concept from this work
 - [[the-concept-of-the-political|The Concept of the Political]] - sibling Schmitt work
 - [[friend-enemy-distinction|Friend/Enemy Distinction]] - sibling Schmitt concept
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting non-libertarian power critiques
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting non-libertarian power critiques
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian state-power concept sharpened by exception theory
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with the exception problem
 

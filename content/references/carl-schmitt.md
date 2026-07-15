@@ -36,7 +36,7 @@ Schmitt is not a libertarian and should not be normalized as one. His critique o
 - [[the-concept-of-the-political|The Concept of the Political]] - Schmitt work on friend/enemy distinction
 - [[state-of-exception|State of Exception]] - concept from [[political-theology|Political Theology]]
 - [[friend-enemy-distinction|Friend/Enemy Distinction]] - concept from [[the-concept-of-the-political|The Concept of the Political]]
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting Schmitt and Foucault as non-libertarian state-power critiques
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting Schmitt and Foucault as non-libertarian state-power critiques
 - [[michel-foucault|Michel Foucault]] - another non-libertarian power critic added with this batch
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with exception language
 

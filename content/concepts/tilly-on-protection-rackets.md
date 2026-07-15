@@ -49,6 +49,7 @@ The broader [[war-and-state-formation|War and State Formation]] article situates
 - [[jurisdictional-competition|Jurisdictional Competition]] - what happens to the protection racket when mobile wealth can finally shop between jurisdictions
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[north-atlantic-treaty|The North Atlantic Treaty]] - The 1949 founding treaty and the 2014 Wales Defence Investment Pledge — the primary documents behind NATO's defense-spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
 ## Sources
 

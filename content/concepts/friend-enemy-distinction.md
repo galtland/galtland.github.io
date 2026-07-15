@@ -32,7 +32,7 @@ The concept exposes a different layer of state power: the state claims authority
 - [[carl-schmitt|Carl Schmitt]] - author reference
 - [[state-of-exception|State of Exception]] - sibling Schmitt concept
 - [[political-theology|Political Theology]] - sibling Schmitt work
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting Schmitt and Foucault
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting Schmitt and Foucault
 - [[war-and-state-formation|War and State Formation]] - adjacent state-war concept
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power comparison point
 

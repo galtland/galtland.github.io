@@ -36,7 +36,7 @@ The work broadens state critique beyond taxation and coercion. It shows power op
 - [[disciplinary-power|Disciplinary Power]] - central concept from this work
 - [[society-must-be-defended|Society Must Be Defended]] - sibling Foucault source on biopower
 - [[biopower|Biopower]] - later population-level concept
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting non-libertarian power critiques
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting non-libertarian power critiques
 - [[state-power-and-intervention|State Power and Intervention]] - broader libertarian state-power concept
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis using Foucault only as a brief supplement
 

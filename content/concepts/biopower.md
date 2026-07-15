@@ -36,7 +36,7 @@ The [[2026-05-10-state-as-parasite-thesis|State as Parasite Thesis]] now mention
 - [[michel-foucault|Michel Foucault]] - author reference
 - [[disciplinary-power|Disciplinary Power]] - body-level complement
 - [[discipline-and-punish|Discipline and Punish]] - discipline and panopticism source
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting non-libertarian power critiques
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting non-libertarian power critiques
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power concept
 - [[totalitarianism|Totalitarianism]] - distinct Arendt concept; not reducible to biopower
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with a brief biopower note

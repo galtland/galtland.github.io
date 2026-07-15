@@ -32,7 +32,7 @@ The state-as-parasite thesis mainly concerns extraction and disguise. State of e
 - [[carl-schmitt|Carl Schmitt]] - author reference
 - [[friend-enemy-distinction|Friend/Enemy Distinction]] - sibling Schmitt concept
 - [[the-concept-of-the-political|The Concept of the Political]] - sibling Schmitt work
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting Schmitt and Foucault
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting Schmitt and Foucault
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian state-power comparison point
 - [[totalitarianism|Totalitarianism]] - distinct Arendt category not reducible to exception theory
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with exception language

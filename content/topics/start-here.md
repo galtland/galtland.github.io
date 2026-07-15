@@ -64,7 +64,7 @@ Pick the path that fits you:
 - **The economics:** [[austrian-economics|Austrian Economics]] → [[praxeology|Praxeology]] → [[economic-calculation-problem|Economic Calculation Problem]] → [[austrian-business-cycle-theory|Austrian Business-Cycle Theory]].
 - **The politics:** [[libertarianism|Libertarianism]] → [[political-means-and-economic-means|Political Means and Economic Means]] → [[state-power-and-intervention|State Power and Intervention]] → [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
 - **The code and the money:** [[cypherpunk|Cypherpunk]] → [[crypto-anarchy|Crypto Anarchy]] → [[proof-of-work|Proof of Work]] → [[hard-money|Hard Money]].
-- **Skeptical, want the other side:** start with [[objections-to-libertarianism|Objections to Libertarianism]] — the strongest counterarguments gathered in one place — then its deep dives on [[market-failure-and-public-goods|market failure and public goods]], [[criticisms-of-anarcho-capitalism|the case against anarcho-capitalism]], and [[distributive-justice|distributive justice]]; the [[austrian-economics-vs-keynesianism|Keynesian critique]] and [[critiques-of-sovereignty-and-power|critiques of sovereignty and power]] round it out.
+- **Skeptical, want the other side:** start with [[objections-to-libertarianism|Objections to Libertarianism]] — the strongest counterarguments gathered in one place — then its deep dives on [[market-failure-and-public-goods|market failure and public goods]], [[criticisms-of-anarcho-capitalism|the case against anarcho-capitalism]], and [[distributive-justice|distributive justice]]; the [[austrian-economics-vs-keynesianism|Keynesian critique]] and [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] round it out.
 
 ## How the wiki is organized
 
@@ -76,7 +76,7 @@ Four kinds of page: **Concepts** explain a single idea; **References** describe 
 - [[libertarianism|Libertarianism]] - the political-philosophy thread, in full
 - [[cypherpunk|Cypherpunk]] - the cryptography-and-Bitcoin movement thread
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the privacy, surveillance, and proof-of-work thread
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - non-libertarian critics of state power, for contrast
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - non-libertarian critics of state power, for contrast
 - [[political-means-and-economic-means|Political Means and Economic Means]] - the produce-versus-take distinction underneath the whole wiki
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the one moral rule the corpus keeps returning to
 - [[capitalism|Capitalism]] - what capitalism is and, just as important, what it is not (crony capitalism, fraud, exploitation)

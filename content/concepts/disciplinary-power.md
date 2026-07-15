@@ -36,7 +36,7 @@ Disciplinary power extends the wiki's state critique beyond taxation and police 
 - [[michel-foucault|Michel Foucault]] - author reference
 - [[biopower|Biopower]] - population-level complement
 - [[society-must-be-defended|Society Must Be Defended]] - source comparing discipline, sovereignty, and biopower
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting non-libertarian power critiques
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting non-libertarian power critiques
 - [[state-power-and-intervention|State Power and Intervention]] - libertarian comparison point
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis using Foucault only as a brief supplement
 

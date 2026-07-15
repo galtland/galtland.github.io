@@ -39,7 +39,7 @@ For the state-as-parasite thesis, Foucault adds a disguise layer different from 
 - [[discipline-and-punish|Discipline and Punish]] - sibling Foucault source on discipline
 - [[disciplinary-power|Disciplinary Power]] - disciplinary power concept that biopower builds alongside
 - [[state-of-exception|State of Exception]] - Schmitt comparison point on sovereignty
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting non-libertarian power critiques
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting non-libertarian power critiques
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power concept
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with the biopower layer
 

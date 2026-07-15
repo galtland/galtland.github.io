@@ -45,6 +45,7 @@ The [[2026-05-10-state-as-parasite-thesis|State as Parasite Thesis]] uses this d
 - [[public-happiness|Public Happiness]] - reciprocal link.
 - [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] - reciprocal link.
 - [[vita-activa|Vita Activa]] - reciprocal link.
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
 ## Sources
 

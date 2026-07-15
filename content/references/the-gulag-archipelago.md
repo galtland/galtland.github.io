@@ -50,6 +50,7 @@ This does not make Solzhenitsyn a libertarian. His later political and religious
 - [[libertarianism|Libertarianism]] - topic map that uses this source only as non-libertarian testimony on totalitarian rule
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Whether a state can suppress organized crime turns on its capacity, centralization, and willingness to override rights — not the size of the country. Large total-coercion states (China
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
 ## Sources
 

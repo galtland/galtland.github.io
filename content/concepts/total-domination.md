@@ -57,6 +57,7 @@ This is a non-libertarian diagnostic category. Arendt does not derive market ana
 - [[on-violence|On Violence]] - Arendt source clarifying how violence destroys power
 
 - [[violence-vs-power|Violence vs Power]] - power/violence distinction that sharpens total domination
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
 ## Sources
 

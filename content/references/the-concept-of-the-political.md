@@ -36,7 +36,7 @@ This is a critique of liberal attempts to neutralize conflict into procedure, mo
 - [[friend-enemy-distinction|Friend/Enemy Distinction]] - central concept from this work
 - [[political-theology|Political Theology]] - sibling Schmitt work
 - [[state-of-exception|State of Exception]] - sibling Schmitt concept
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting non-libertarian power critiques
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting non-libertarian power critiques
 - [[war-and-state-formation|War and State Formation]] - adjacent state-war concept
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - adjacent thesis with brief Schmitt note
 

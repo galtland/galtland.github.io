@@ -103,7 +103,7 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 
 - [[council-system|Council System]] - Arendtian public-freedom concept, not a libertarian institutional program
 
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - non-libertarian critique topic added for comparison
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - non-libertarian critique topic added for comparison
 
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - news-lens thesis applying the wiki's Austrian and intervention frames to a contemporary case
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in

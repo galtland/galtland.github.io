@@ -64,6 +64,7 @@ That convergence sharpens [[state-power-and-intervention|State Power and Interve
 
 - [[violence-vs-power|Violence vs Power]] - adjacent Arendt concept
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
 ## Sources
 

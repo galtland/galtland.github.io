@@ -44,7 +44,7 @@ Most of this wiki argues *for* liberty, property, and markets. That makes it use
 
 ## The critiques of power and sovereignty
 
-- **The non-libertarian left and right.** Traditions that reject the libertarian frame outright — [[carl-schmitt|Carl Schmitt]] on sovereignty and the exception, [[michel-foucault|Michel Foucault]] on disciplinary and bio-power — are mapped in the topic [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]]. They are included not because the wiki endorses them but because a serious reader should meet the strongest opponents of its own vocabulary.
+- **The non-libertarian left and right.** Traditions that reject the libertarian frame outright — [[carl-schmitt|Carl Schmitt]] on sovereignty and the exception, [[michel-foucault|Michel Foucault]] on disciplinary and bio-power — are mapped in the topic [[state-theory-and-totalitarianism|State Theory and Totalitarianism]]. They are included not because the wiki endorses them but because a serious reader should meet the strongest opponents of its own vocabulary.
 
 ## Where the wiki is most vulnerable
 
@@ -57,7 +57,7 @@ Stated plainly, the corpus's answers are strongest on monopoly (usually a state 
 - [[distributive-justice|Distributive Justice]] - Rawls's egalitarian challenge versus the entitlement theory
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - the macroeconomic critique of laissez-faire
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - the friendly critique from within free-market economics
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - non-libertarian critiques of the whole frame
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - non-libertarian critiques of the whole frame
 - [[crony-capitalism|Crony Capitalism]] - the inequality-into-power worry, and the libertarian account of it
 - [[capitalism|Capitalism]] - the position most of these objections target
 - [[libertarianism|Libertarianism]] - the topic map these objections are aimed at

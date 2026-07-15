@@ -36,7 +36,7 @@ Foucault is not a libertarian. He does not argue from self-ownership, voluntary 
 - [[society-must-be-defended|Society Must Be Defended]] - lectures on sovereignty, war, race, and biopower
 - [[disciplinary-power|Disciplinary Power]] - concept from [[discipline-and-punish|Discipline and Punish]]
 - [[biopower|Biopower]] - concept from [[society-must-be-defended|Society Must Be Defended]]
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting Schmitt and Foucault
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting Schmitt and Foucault
 - [[carl-schmitt|Carl Schmitt]] - contrasting sovereignty/decision tradition
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with the biopower disguise layer
 

@@ -113,7 +113,7 @@ Considered through the wiki's anarcho-libertarian sources together with Tilly's 
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's monarchy/democracy gradient
 - [[thus-spake-zarathustra-the-new-idol|Thus Spake Zarathustra: The New Idol]] - Nietzsche's "coldest of all cold monsters"
 
-- [[critiques-of-sovereignty-and-power|Critiques of Sovereignty and Power]] - topic collecting Schmitt and Foucault
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - topic collecting Schmitt and Foucault
 
 - [[citizenship-and-state-bargaining|Citizenship and State Bargaining]] - Tilly concept from the completed book ingest
 
