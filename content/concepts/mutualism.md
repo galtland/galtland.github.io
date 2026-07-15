@@ -53,6 +53,7 @@ The internal debate is unresolved and genuinely interesting. Mutualists press th
 - [[homesteading|Homesteading]] - the Lockean land title that *occupancy and use* revises
 - [[georgism|Georgism and the Land-Value Tax]] - a rival diagnosis of landed privilege, and Tucker's anarchist objection to it
 - [[crony-capitalism|Crony Capitalism]] - the state-privilege nexus mutualists and Rothbardians condemn alike
+- [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 
 ## Sources
 

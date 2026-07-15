@@ -3,8 +3,8 @@ title: "Libertarianism"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-06-09
-verified: 2026-06-09
+updated: 2026-07-15
+verified: 2026-07-15
 tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [libertarian thought, liberty tradition]
 confidence: medium
@@ -40,6 +40,10 @@ This source set also treats libertarianism as an account of social order, not on
 
 The current corpus also contains the classical-liberal stream that the anarcho-capitalist tradition emerged from and partly reacted against. [[ludwig-von-mises|Mises]]'s [[liberalism|Liberalism]] (1927) defends a free society on consequentialist economic grounds and explicitly declines the natural-rights argumentation that [[murray-n-rothbard|Rothbard]] reactivates in [[the-ethics-of-liberty|The Ethics of Liberty]]. [[friedrich-a-hayek|Hayek]]'s [[road-to-serfdom|The Road to Serfdom]] (1944) is the twentieth-century classical-liberal companion: it argues that comprehensive central planning destroys the rule of law and the institutional preconditions for liberty. The two streams disagree on the legitimate role of the state — minarchist vs. anarchist — but they share the property-and-exchange spine described above.
 
+## The Internal Debate: How Far, and Why
+
+Within that shared spine the corpus stages two live disagreements rather than a single party line. The first is over **how far to shrink the state**: [[minarchism|minarchism]] keeps a minimal, rights-protecting government, while the anarcho-capitalist wing argues even protection and adjudication can be supplied on the market. That case and its strongest counterarguments are laid out in [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] and, corpus-wide, in [[objections-to-libertarianism|Objections to Libertarianism]]. The second is over **why** liberty binds at all: [[murray-n-rothbard|Rothbard]]'s natural-rights derivation from [[nonaggression-and-property-rights|nonaggression]] versus [[david-friedman|David Friedman]]'s consequentialist defense of the very same stateless institutions on efficiency grounds — same destination, opposite compass, and the wiki now carries both roads. The debate then reaches concrete questions: [[restitution-and-proportional-punishment|restitution]] as the theory of justice, [[non-interventionism|non-interventionism]] in foreign policy, and [[intellectual-property|intellectual property]] as a test of what property can legitimately cover. The market-anarchist tradition also has a socialist-leaning cousin in [[mutualism|mutualism]], and a distributive challenge from outside in [[distributive-justice|distributive justice]].
+
 ## What This Corpus Emphasizes
 
 The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner, Bastiat, de la Boetie, and the Tannehills, with Mises and Hayek now present as the classical-liberal precursors. This wiki's libertarian map therefore leans more anarcho-capitalist than minarchist, with a clearly visible classical-liberal wing as historical and analytical context. That is a property of the source set, not a claim that all libertarian traditions look the same. The strongest single entry point into the anarcho-capitalist position is [[for-a-new-liberty|For a New Liberty]]; the natural-rights moral case is fullest in [[the-ethics-of-liberty|The Ethics of Liberty]]; the classical-liberal alternative is set out in [[liberalism|Liberalism]] and [[road-to-serfdom|The Road to Serfdom]]. [[murray-n-rothbard|Murray N. Rothbard]] remains the central author node integrating ethics, economics, and strategy.
@@ -47,6 +51,14 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 ## See Also
 
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline of the current corpus
+- [[minarchism|Minarchism]] - the minimal-state pole of the internal how-far-to-shrink-the-state debate
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - the strongest objections to the stateless-market conclusion, stated fairly
+- [[david-friedman|David Friedman]] - the consequentialist case for anarcho-capitalism, the efficiency-not-rights road to the same institutions
+- [[non-interventionism|Non-Interventionism]] - the libertarian foreign-policy conclusion about inter-State war
+- [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - the corpus's theory of justice: restitution plus proportional retribution
+- [[intellectual-property|Intellectual Property]] - the property-theory test case on whether non-rivalrous ideas can be owned
+- [[distributive-justice|Distributive Justice]] - the Rawls-vs-Nozick challenge to libertarian property from outside
+- [[mutualism|Mutualism]] - the market-anarchist tradition that shares the anti-state half but not the economics
 - [[state-power-and-intervention|State Power and Intervention]] - critique of political monopoly and intervention
 - [[evolution-of-the-state|Evolution of the State]] - historical origin, persistence, and regime-change layer for the state critique
 - [[war-and-state-formation|War and State Formation]] - non-libertarian historical sociology of coercion, taxation, capital, and state formation

@@ -46,6 +46,7 @@ The theory's difficulties are the ones proportionality has always faced. Fixing 
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - the law of voluntary transfer alongside the law of wrongs
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - the source of the theory
 - [[murray-n-rothbard|Murray N. Rothbard]] - its author
+- [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 
 ## Sources
 
