@@ -54,6 +54,8 @@ The monetary canon behind this hub: Mises's [[the-theory-of-money-and-credit|The
 - [[monero|Monero]] - sound money at the level of the fungible unit
 - [[libertarianism|Libertarianism]] - the political philosophy this monetary thread serves
 - [[privacy-and-cryptography|Privacy and Cryptography]]
+- [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]]
+
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) - Mises's founding text of Austrian monetary theory: the regression theorem and the proto-business-cycle statement
