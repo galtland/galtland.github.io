@@ -40,7 +40,7 @@ Private security in this corpus is not separable from legal order. Arbitration a
 
 The current libertarian books make three recurrent claims in favor of private security. First, a tax-funded protector is seen as conceptually contradictory: an agency that violates property in order to defend property. Second, monopoly removes the competitive pressure that would otherwise discipline price and quality. Third, state policing is said to be entangled with victimless-crime enforcement, black markets, and political privilege in ways that distort its protective function. Whether or not one accepts those claims, they are central to how this source set imagines the creation of a non-state security order.
 
-## Place in the Current Wiki
+## The Protective Side of the Private-Law Order
 
 This concept is narrower than [[market-anarchism-and-private-law|Market Anarchism and Private Law]]. That article covers the whole non-state legal order. This one focuses on the protective side: defense agencies, insurers, and the production of security itself. It is also a concrete example of the more general anti-monopoly reasoning laid out in [[libertarianism|Libertarianism]] and [[state-power-and-intervention|State Power and Intervention]].
 

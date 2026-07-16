@@ -156,7 +156,7 @@ This matters for two reasons. First, it shows the definition is *load-bearing* i
 
 [[hans-hermann-hoppe|Hoppe]]'s [[the-economics-and-ethics-of-private-property|Economics and Ethics of Private Property]] quotes the depositor passage directly (citing TMC p. 268) when he uses the present-good/future-good distinction to argue against Selgin's reading of demand deposits. This wiki's earlier compile pass — written before TMC was ingested — could only attest the 1912 framework *via* that Hoppe quotation. With TMC now in the corpus, the article cites Mises directly for both the canonical definition (above) and the "purchase on credit" passage in Part One Ch. I §3, and Hoppe's quotation becomes a corroborating downstream citation rather than the only available evidence.
 
-## Relation to the Current Wiki
+## Foundation for Austrian Business-Cycle Theory
 
 This concept is methodological foundation for [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. That theory's central object is **credit expansion** — credit granted by the banking system out of newly issued fiduciary media rather than out of voluntary saving. To understand why credit *expansion* matters, one first needs the underlying definition of *credit* itself: a present-for-future-good exchange whose price tracks time preference. ABCT is what happens when monetary policy detaches the price of credit (the loan rate of interest) from the time-preference structure that ought to govern it.
 

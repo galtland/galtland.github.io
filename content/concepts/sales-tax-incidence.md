@@ -32,11 +32,11 @@ Rothbard says the merchant's gross revenue is reduced first. But firms do not ul
 
 This article is about Rothbard's analysis of a **general** sales tax. He distinguishes that case from a **partial excise** on a particular line of production. With a partial excise, supply in the taxed industry may contract and the relative price of that good may later rise. Even there, however, Rothbard does not treat the tax as directly shifted forward in the simple textbook sense. The distinction matters, because the user's question about "sales tax" is often asked in the retail, general-sales-tax sense that Rothbard addresses explicitly.
 
-## Relation to the Current Wiki
+## Austrian Price Theory Applied to a Tax Question
 
 This concept sits at the intersection of [[austrian-economics|Austrian Economics]] and [[state-power-and-intervention|State Power and Intervention]]. It is a concrete example of how Austrian price theory changes a standard public-finance question. It also shows why Rothbard's anti-tax arguments are not just moral claims. They rely on a specific theory of price formation, production, and factor incomes.
 
-[[hans-hermann-hoppe|Hoppe]]'s later discussion in [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] broadly reinforces the same conclusion. He explicitly argues that [[the-economics-and-ethics-of-private-property#Tax Incidence|no amount of any tax can be shifted onto consumers]] and treats the contrary assumption as logically impossible because it would imply that taxation leaves production untouched. That makes the article not only Rothbardian in origin but also consistent with the wider property-and-production framework already present in this wiki.
+[[hans-hermann-hoppe|Hoppe]]'s later discussion in [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] broadly reinforces the same conclusion. He explicitly argues that [[the-economics-and-ethics-of-private-property#Tax Incidence|no amount of any tax can be shifted onto consumers]] and treats the contrary assumption as logically impossible because it would imply that taxation leaves production untouched. That makes the case not only Rothbardian in origin but also consistent with the wider Austrian property-and-production framework.
 
 ## See Also
 

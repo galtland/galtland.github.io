@@ -28,7 +28,7 @@ The passage is doing two things at once. The first is a definition: the rule of 
 
 The corollary is the one [[road-to-serfdom|The Road to Serfdom]] is named for: once law becomes the legalization of substantive administrative discretion, the citizen's capacity to plan is replaced by dependence on the discretion of administrators, and the institutional habits of liberty erode. The argument is therefore institutional rather than merely procedural. The rule of law is the precondition under which private planning is possible; substantive planning destroys that precondition by construction, not by abuse.
 
-## Relation to the Current Wiki
+## The Rule of Law and Programmable Money
 
 Hayek's foreseeability condition sits at the level of [[state-power-and-intervention|State Power and Intervention]] and supplies the classical-liberal limit on permissible state action that [[ludwig-von-mises|Mises]] shares in [[liberalism|Liberalism]]. It is the constraint a programmable monetary medium would invert: when the central bank can attach expiry, geographic limits, category refusals, or identity gating to balances at its own discretion, citizens can no longer "plan one's individual affairs on the basis of this knowledge." That makes the rule-of-law concept the natural Hayekian bridge from the [[knowledge-problem|knowledge problem]] to applied analysis of contemporary monetary architecture.
 

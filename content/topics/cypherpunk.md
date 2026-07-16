@@ -44,13 +44,7 @@ This topic overlaps with [[privacy-and-cryptography|Privacy and Cryptography]] b
 
 ## Boundaries
 
-This topic should not absorb every cryptographic or blockchain technology. The wiki value is in the cypherpunk-Austrian connection: how concrete cryptographic systems implement long-standing libertarian commitments to property, sound money, and resistance to coerced disclosure. Smart-contract-platform tutorials, altcoin economics, NFT history, and academic cryptography that does not bear on the political thesis belong elsewhere.
-
-Closed gaps as of 2026-05-28 (the same day this topic was first written): [[phil-zimmermann|Phil Zimmermann]]'s *Why I Wrote PGP* and the 1990s Crypto Wars are now treated in [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]]; [[hal-finney|Hal Finney]] has a dedicated author reference covering his RPOW and early-Bitcoin correspondence; the [[the-lightning-network-paper|Lightning Network whitepaper]] is ingested and paired with the [[lightning-network|Lightning Network]] concept; [[konrad-graf|Konrad Graf]]'s [[are-bitcoins-ownable|Are Bitcoins Ownable?]] was successfully retried from the author's own free PDF mirror; all three Saifedean books are ingested in full text.
-
-Phase C closed-gaps (later same day): 1990s Crypto Wars primary sources are now collected in the 1990s Crypto Wars dossier raw aggregate ([[key-escrow-and-clipper-chip|Clipper Chip]] campaign, Matt Blaze 1994 protocol-failure paper, Bernstein timeline, Zimmermann prosecution timeline, Gilmore code-as-speech materials). The *Bernstein v. United States* Ninth Circuit opinion (1999) is its own raw paper. A curated Cypherpunks mailing-list subset (~30 hand-picked posts spanning 1992-2009) closes the worst of the mailing-list gap. Privacy-coin and messaging-protocol primary sources are ingested: van Saberhagen's CryptoNote v2.0 (Monero foundation), the extended Zerocash paper (Zcash zk-SNARK foundation), and the [[signal-x3dh|Signal X3DH]] plus [[signal-double-ratchet|Double Ratchet]] specifications.
-
-Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-2009 (we have a curated subset, not the whole 17-year record); the PGP source-code USENET posts (Zimmermann's 1991 release in source form); the AES selection process documents (NIST 1997-2001); and dedicated author references for Eric Hughes, John Perry Barlow, John Gilmore, Whitfield Diffie, Martin Hellman, Pierre Rochard, Allen Farrington, Joseph Poon, and Tadge Dryja (all currently covered by work-references rather than umbrella author-references).
+This topic should not absorb every cryptographic or blockchain technology. The value here is in the cypherpunk-Austrian connection: how concrete cryptographic systems implement long-standing libertarian commitments to property, sound money, and resistance to coerced disclosure. Smart-contract-platform tutorials, altcoin economics, NFT history, and academic cryptography that does not bear on the political thesis belong elsewhere.
 
 ## See Also
 
@@ -100,7 +94,6 @@ Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-200
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
-
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[the-sovereign-individual|The Sovereign Individual]] - 1997 forecast prefiguring cryptographic escape and denationalized digital money

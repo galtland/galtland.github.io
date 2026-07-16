@@ -28,9 +28,9 @@ The resulting legal model is not lawlessness. It is law without sovereign privil
 
 This concept also explains why the source set is skeptical of attempts to save liberty through better constitutional design alone. [[lysander-spooner|Spooner]]'s [[lets-abolish-government|Let's Abolish Government]] attacks the claim that a constitution can bind people who never truly consented. The Tannehills argue that even a supposedly limited government must still forbid competitors if it is to remain a government at all. Rothbard's [[for-a-new-liberty|For a New Liberty]] pushes in the same direction when it treats the state as the major aggressor rather than as a neutral umpire in need of reform.
 
-## Place in the Current Wiki
+## The Constructive Counterpart to State Power
 
-Not every libertarian tradition embraces full market anarchism, but this topic wiki's present corpus gives it unusual prominence. It is the constructive counterpart to [[state-power-and-intervention|State Power and Intervention]] and a direct application of [[nonaggression-and-property-rights|Nonaggression and Property Rights]]. It also helps explain why the current map of [[libertarianism|Libertarianism]] leans more radical than managerial.
+Not every libertarian tradition embraces full market anarchism, but it earns unusual prominence in this corpus. It is the constructive counterpart to [[state-power-and-intervention|State Power and Intervention]] and a direct application of [[nonaggression-and-property-rights|Nonaggression and Property Rights]]. It also helps explain why the map of [[libertarianism|Libertarianism]] leans more radical than managerial.
 
 ## See Also
 

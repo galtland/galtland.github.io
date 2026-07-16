@@ -1272,7 +1272,7 @@ The same idea drives the rest of the cypherpunk toolkit. The [[code-as-speech|co
 
 ## Where it is contested
 
-Censorship resistance is a matter of *cost*, not an absolute, and its limits are exactly where its critics press. At the protocol layer, resistance weakens if the parties who order transactions — miners, or block builders — concentrate enough to start filtering, a live worry as mining pools and compliance pressure grow. More fundamentally, a determined state does not need to break the protocol: it attacks the *endpoints*, coercing the person who holds the keys, regulating the exchanges and on-ramps where crypto meets the banking system, or, as Iran did during its 2026 blackout, severing the network the protocol runs on. The wiki's honest position is that censorship resistance genuinely raises the cost and narrows the reach of control — a real and valuable shift at the margin — without delivering the immunity the maximalist case sometimes claims for it.
+Censorship resistance is a matter of *cost*, not an absolute, and its limits are exactly where its critics press. At the protocol layer, resistance weakens if the parties who order transactions — miners, or block builders — concentrate enough to start filtering, a live worry as mining pools and compliance pressure grow. More fundamentally, a determined state does not need to break the protocol: it attacks the *endpoints*, coercing the person who holds the keys, regulating the exchanges and on-ramps where crypto meets the banking system, or, as Iran did during its 2026 blackout, severing the network the protocol runs on. Censorship resistance genuinely raises the cost and narrows the reach of control — a real and valuable shift at the margin — but it does not deliver the immunity the maximalist case sometimes claims for it.
 
 ## See Also
 
@@ -1695,7 +1695,7 @@ This matters for two reasons. First, it shows the definition is *load-bearing* i
 
 [[hans-hermann-hoppe|Hoppe]]'s [[the-economics-and-ethics-of-private-property|Economics and Ethics of Private Property]] quotes the depositor passage directly (citing TMC p. 268) when he uses the present-good/future-good distinction to argue against Selgin's reading of demand deposits. This wiki's earlier compile pass — written before TMC was ingested — could only attest the 1912 framework *via* that Hoppe quotation. With TMC now in the corpus, the article cites Mises directly for both the canonical definition (above) and the "purchase on credit" passage in Part One Ch. I §3, and Hoppe's quotation becomes a corroborating downstream citation rather than the only available evidence.
 
-## Relation to the Current Wiki
+## Foundation for Austrian Business-Cycle Theory
 
 This concept is methodological foundation for [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. That theory's central object is **credit expansion** — credit granted by the banking system out of newly issued fiduciary media rather than out of voluntary saving. To understand why credit *expansion* matters, one first needs the underlying definition of *credit* itself: a present-for-future-good exchange whose price tracks time preference. ABCT is what happens when monetary policy detaches the price of credit (the loan rate of interest) from the time-preference structure that ought to govern it.
 
@@ -3642,7 +3642,7 @@ The passage is doing two things at once. The first is a definition: the rule of 
 
 The corollary is the one [[road-to-serfdom|The Road to Serfdom]] is named for: once law becomes the legalization of substantive administrative discretion, the citizen's capacity to plan is replaced by dependence on the discretion of administrators, and the institutional habits of liberty erode. The argument is therefore institutional rather than merely procedural. The rule of law is the precondition under which private planning is possible; substantive planning destroys that precondition by construction, not by abuse.
 
-## Relation to the Current Wiki
+## The Rule of Law and Programmable Money
 
 Hayek's foreseeability condition sits at the level of [[state-power-and-intervention|State Power and Intervention]] and supplies the classical-liberal limit on permissible state action that [[ludwig-von-mises|Mises]] shares in [[liberalism|Liberalism]]. It is the constraint a programmable monetary medium would invert: when the central bank can attach expiry, geographic limits, category refusals, or identity gating to balances at its own discretion, citizens can no longer "plan one's individual affairs on the basis of this knowledge." That makes the rule-of-law concept the natural Hayekian bridge from the [[knowledge-problem|knowledge problem]] to applied analysis of contemporary monetary architecture.
 
@@ -4475,9 +4475,9 @@ The resulting legal model is not lawlessness. It is law without sovereign privil
 
 This concept also explains why the source set is skeptical of attempts to save liberty through better constitutional design alone. [[lysander-spooner|Spooner]]'s [[lets-abolish-government|Let's Abolish Government]] attacks the claim that a constitution can bind people who never truly consented. The Tannehills argue that even a supposedly limited government must still forbid competitors if it is to remain a government at all. Rothbard's [[for-a-new-liberty|For a New Liberty]] pushes in the same direction when it treats the state as the major aggressor rather than as a neutral umpire in need of reform.
 
-## Place in the Current Wiki
+## The Constructive Counterpart to State Power
 
-Not every libertarian tradition embraces full market anarchism, but this topic wiki's present corpus gives it unusual prominence. It is the constructive counterpart to [[state-power-and-intervention|State Power and Intervention]] and a direct application of [[nonaggression-and-property-rights|Nonaggression and Property Rights]]. It also helps explain why the current map of [[libertarianism|Libertarianism]] leans more radical than managerial.
+Not every libertarian tradition embraces full market anarchism, but it earns unusual prominence in this corpus. It is the constructive counterpart to [[state-power-and-intervention|State Power and Intervention]] and a direct application of [[nonaggression-and-property-rights|Nonaggression and Property Rights]]. It also helps explain why the map of [[libertarianism|Libertarianism]] leans more radical than managerial.
 
 ## See Also
 
@@ -6727,7 +6727,7 @@ Private security in this corpus is not separable from legal order. Arbitration a
 
 The current libertarian books make three recurrent claims in favor of private security. First, a tax-funded protector is seen as conceptually contradictory: an agency that violates property in order to defend property. Second, monopoly removes the competitive pressure that would otherwise discipline price and quality. Third, state policing is said to be entangled with victimless-crime enforcement, black markets, and political privilege in ways that distort its protective function. Whether or not one accepts those claims, they are central to how this source set imagines the creation of a non-state security order.
 
-## Place in the Current Wiki
+## The Protective Side of the Private-Law Order
 
 This concept is narrower than [[market-anarchism-and-private-law|Market Anarchism and Private Law]]. That article covers the whole non-state legal order. This one focuses on the protective side: defense agencies, insurers, and the production of security itself. It is also a concrete example of the more general anti-monopoly reasoning laid out in [[libertarianism|Libertarianism]] and [[state-power-and-intervention|State Power and Intervention]].
 
@@ -7632,11 +7632,11 @@ Rothbard says the merchant's gross revenue is reduced first. But firms do not ul
 
 This article is about Rothbard's analysis of a **general** sales tax. He distinguishes that case from a **partial excise** on a particular line of production. With a partial excise, supply in the taxed industry may contract and the relative price of that good may later rise. Even there, however, Rothbard does not treat the tax as directly shifted forward in the simple textbook sense. The distinction matters, because the user's question about "sales tax" is often asked in the retail, general-sales-tax sense that Rothbard addresses explicitly.
 
-## Relation to the Current Wiki
+## Austrian Price Theory Applied to a Tax Question
 
 This concept sits at the intersection of [[austrian-economics|Austrian Economics]] and [[state-power-and-intervention|State Power and Intervention]]. It is a concrete example of how Austrian price theory changes a standard public-finance question. It also shows why Rothbard's anti-tax arguments are not just moral claims. They rely on a specific theory of price formation, production, and factor incomes.
 
-[[hans-hermann-hoppe|Hoppe]]'s later discussion in [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] broadly reinforces the same conclusion. He explicitly argues that [[the-economics-and-ethics-of-private-property#Tax Incidence|no amount of any tax can be shifted onto consumers]] and treats the contrary assumption as logically impossible because it would imply that taxation leaves production untouched. That makes the article not only Rothbardian in origin but also consistent with the wider property-and-production framework already present in this wiki.
+[[hans-hermann-hoppe|Hoppe]]'s later discussion in [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] broadly reinforces the same conclusion. He explicitly argues that [[the-economics-and-ethics-of-private-property#Tax Incidence|no amount of any tax can be shifted onto consumers]] and treats the contrary assumption as logically impossible because it would imply that taxation leaves production untouched. That makes the case not only Rothbardian in origin but also consistent with the wider Austrian property-and-production framework.
 
 ## See Also
 
@@ -18585,13 +18585,7 @@ This topic overlaps with [[privacy-and-cryptography|Privacy and Cryptography]] b
 
 ## Boundaries
 
-This topic should not absorb every cryptographic or blockchain technology. The wiki value is in the cypherpunk-Austrian connection: how concrete cryptographic systems implement long-standing libertarian commitments to property, sound money, and resistance to coerced disclosure. Smart-contract-platform tutorials, altcoin economics, NFT history, and academic cryptography that does not bear on the political thesis belong elsewhere.
-
-Closed gaps as of 2026-05-28 (the same day this topic was first written): [[phil-zimmermann|Phil Zimmermann]]'s *Why I Wrote PGP* and the 1990s Crypto Wars are now treated in [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]]; [[hal-finney|Hal Finney]] has a dedicated author reference covering his RPOW and early-Bitcoin correspondence; the [[the-lightning-network-paper|Lightning Network whitepaper]] is ingested and paired with the [[lightning-network|Lightning Network]] concept; [[konrad-graf|Konrad Graf]]'s [[are-bitcoins-ownable|Are Bitcoins Ownable?]] was successfully retried from the author's own free PDF mirror; all three Saifedean books are ingested in full text.
-
-Phase C closed-gaps (later same day): 1990s Crypto Wars primary sources are now collected in the 1990s Crypto Wars dossier raw aggregate ([[key-escrow-and-clipper-chip|Clipper Chip]] campaign, Matt Blaze 1994 protocol-failure paper, Bernstein timeline, Zimmermann prosecution timeline, Gilmore code-as-speech materials). The *Bernstein v. United States* Ninth Circuit opinion (1999) is its own raw paper. A curated Cypherpunks mailing-list subset (~30 hand-picked posts spanning 1992-2009) closes the worst of the mailing-list gap. Privacy-coin and messaging-protocol primary sources are ingested: van Saberhagen's CryptoNote v2.0 (Monero foundation), the extended Zerocash paper (Zcash zk-SNARK foundation), and the [[signal-x3dh|Signal X3DH]] plus [[signal-double-ratchet|Double Ratchet]] specifications.
-
-Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-2009 (we have a curated subset, not the whole 17-year record); the PGP source-code USENET posts (Zimmermann's 1991 release in source form); the AES selection process documents (NIST 1997-2001); and dedicated author references for Eric Hughes, John Perry Barlow, John Gilmore, Whitfield Diffie, Martin Hellman, Pierre Rochard, Allen Farrington, Joseph Poon, and Tadge Dryja (all currently covered by work-references rather than umbrella author-references).
+This topic should not absorb every cryptographic or blockchain technology. The value here is in the cypherpunk-Austrian connection: how concrete cryptographic systems implement long-standing libertarian commitments to property, sound money, and resistance to coerced disclosure. Smart-contract-platform tutorials, altcoin economics, NFT history, and academic cryptography that does not bear on the political thesis belong elsewhere.
 
 ## See Also
 
@@ -18641,7 +18635,6 @@ Remaining gaps (smaller now): the FULL Cypherpunks mailing-list archive 1992-200
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
-
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[the-sovereign-individual|The Sovereign Individual]] - 1997 forecast prefiguring cryptographic escape and denationalized digital money
