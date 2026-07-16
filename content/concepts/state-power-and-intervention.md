@@ -175,6 +175,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[taxation|Taxation]]
+- [[james-buchanan|James Buchanan]]
 
 ## Sources
 

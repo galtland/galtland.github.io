@@ -58,3 +58,4 @@ The wiki argues from the Austrian school — its economics articles are deductio
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the Austrian diagnosis of boom and bust
 - [[adam-smith|Adam Smith]]
 - [[the-wealth-of-nations|The Wealth of Nations]]
+- [[james-buchanan|James Buchanan]]

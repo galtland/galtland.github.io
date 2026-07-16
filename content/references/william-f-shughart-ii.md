@@ -20,7 +20,7 @@ short: "Public-choice economist whose Public Choice entry supplies this wiki's c
 
 William F. Shughart II is an American economist working in the public-choice tradition — the application of economic reasoning to political behavior. He has held a chair in public choice at Utah State University, served as research director at the Independent Institute, and was long associated with the journal *Public Choice*. His work spans rent-seeking, antitrust, public finance, and government failure.
 
-He is a contributor to, not a founder of, the field: public choice originated with Kenneth Arrow, Duncan Black, James Buchanan, Gordon Tullock, Anthony Downs, William Niskanen, Mancur Olson, and William Riker. Shughart's role here is expository — a clear, citable synthesis of the tradition's core results.
+He is a contributor to, not a founder of, the field: public choice originated with Kenneth Arrow, Duncan Black, [[james-buchanan|James Buchanan]], Gordon Tullock, Anthony Downs, William Niskanen, Mancur Olson, and William Riker. Shughart's role here is expository — a clear, citable synthesis of the tradition's core results.
 
 ## Works Present Here
 
@@ -41,3 +41,4 @@ Shughart is a citation anchor, not a tradition node: the encyclopedia entry give
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[james-buchanan|James Buchanan]]

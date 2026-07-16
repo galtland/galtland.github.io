@@ -2000,6 +2000,7 @@ There is also a genuine boundary problem: in a heavily regulated economy almost 
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[ragnar-danneskjold|Ragnar Danneskjöld]] - Rand's philosopher-pirate in Atlas Shrugged and his deliberate inversion of the Robin Hood myth — an attack on the idea that need, not achievement, is the source of rights.
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
+- [[james-buchanan|James Buchanan]]
 
 ## Sources
 
@@ -7124,6 +7125,7 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
+- [[james-buchanan|James Buchanan]]
 
 ## Sources
 
@@ -8072,6 +8074,7 @@ The wiki argues from the Austrian school — its economics articles are deductio
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the Austrian diagnosis of boom and bust
 - [[adam-smith|Adam Smith]]
 - [[the-wealth-of-nations|The Wealth of Nations]]
+- [[james-buchanan|James Buchanan]]
 
 ---
 
@@ -8864,6 +8867,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[taxation|Taxation]]
+- [[james-buchanan|James Buchanan]]
 
 ## Sources
 
@@ -13453,6 +13457,44 @@ The lecture is the empirical apex of the Chicago method in [[austrian-economics-
 
 ---
 
+## James Buchanan
+URL: /references/james-buchanan
+Category: reference
+
+# James Buchanan
+
+> [[james-buchanan|James M. Buchanan]] (1919–2013) was the economist who founded public choice with Gordon Tullock and won the 1986 Nobel Prize for it. His contribution was to insist that the actors in politics are the same self-interested people economics studies in markets — and to follow that insistence all the way down to the constitutional rules that govern them.
+
+## The founder of public choice
+
+Public choice is the application of economic reasoning to political decision-making, and Buchanan was its central founder. Its organizing assumption is deflationary: voters, politicians, and bureaucrats are not selfless servants of a collective good but ordinary rational actors pursuing their own ends, and political outcomes are the aggregate of those pursuits within a given set of rules. Buchanan summarized the program as *politics without romance* — the removal of the sentimental premise that the state, unlike the market, is run by people acting against their own interest for the public one. Once that premise is dropped, "government failure" becomes as real and as analyzable as market failure, and the case for correcting the second with the first has to be argued rather than assumed. The wiki develops the mechanisms — [[public-choice-and-rational-ignorance|rational ignorance]], the logic of concentrated benefits and diffuse costs, logrolling, and [[crony-capitalism|rent-seeking]] — in its own public-choice articles.
+
+## The Calculus of Consent
+
+Buchanan's founding book, *The Calculus of Consent: Logical Foundations of Constitutional Democracy* (1962), written with Gordon Tullock, is the field's cornerstone. Its innovation was to analyze not merely outcomes within politics but the *choice of the rules* under which politics is conducted. It draws a sharp line between two levels of decision: the **constitutional** level, at which a society chooses the rules of the game, and the **post-constitutional** level, at which it plays within them. At the constitutional level, where no one yet knows which particular interests the rules will favour, something approaching unanimity is both possible and the proper standard — a rule everyone can agree to behind that veil is one that does not simply let a majority exploit a minority. The book also gave the early analysis of *logrolling*, the vote-trading by which legislative majorities assemble themselves, showing how ordinary democratic mechanics can produce outcomes no majority actually wants.
+
+## Constitutional economics
+
+From that two-level distinction grew the research program Buchanan called constitutional economics: the study of the rules that constrain political action, on the premise that liberty is secured less by choosing virtuous rulers than by binding all rulers with well-designed constraints. It is a recognizably classical-liberal conclusion reached by an economist's route — the case for [[state-power-and-intervention|limits on state power]] rebuilt from the incentives of the people who staff the state rather than from natural rights. Where the Austrians reach limited government from the impossibility of calculation and the ethics of property, Buchanan reaches a neighbouring destination from the self-interest of political actors.
+
+## Place in This Wiki
+
+In the wiki's [[schools-of-economics|comparison of economic schools]], public choice is the *ally* — not because it shares the Austrian method, but because it removes the benevolent-government assumption that most arguments for intervention quietly depend on. Buchanan is the figure who made that removal rigorous. His work is the bridge between the wiki's economic articles and its [[state-power-and-intervention|theory of the state]]: it explains, in the language of incentives, why the state behaves as the libertarian tradition says it does.
+
+## See Also
+
+- [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - the field Buchanan founded and its voter-ignorance result
+- [[william-f-shughart-ii|William F. Shughart II]] - author of the encyclopedia treatment this page draws on
+- [[schools-of-economics|Schools of Economics]] - where public choice sits as the government-failure ally
+- [[crony-capitalism|Crony Capitalism]] - the rent-seeking public choice analyzes
+- [[state-power-and-intervention|State Power and Intervention]] - the theory of the state Buchanan's incentives account supports
+
+## Sources
+
+- [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) - Shughart's Econlib entry: Buchanan and Tullock's founding of public choice, The Calculus of Consent, politics without romance, logrolling, rent-seeking, and government failure
+
+---
+
 ## James Dale Davidson
 URL: /references/james-dale-davidson
 Category: reference
@@ -17987,7 +18029,7 @@ Category: reference
 
 William F. Shughart II is an American economist working in the public-choice tradition — the application of economic reasoning to political behavior. He has held a chair in public choice at Utah State University, served as research director at the Independent Institute, and was long associated with the journal *Public Choice*. His work spans rent-seeking, antitrust, public finance, and government failure.
 
-He is a contributor to, not a founder of, the field: public choice originated with Kenneth Arrow, Duncan Black, James Buchanan, Gordon Tullock, Anthony Downs, William Niskanen, Mancur Olson, and William Riker. Shughart's role here is expository — a clear, citable synthesis of the tradition's core results.
+He is a contributor to, not a founder of, the field: public choice originated with Kenneth Arrow, Duncan Black, [[james-buchanan|James Buchanan]], Gordon Tullock, Anthony Downs, William Niskanen, Mancur Olson, and William Riker. Shughart's role here is expository — a clear, citable synthesis of the tradition's core results.
 
 ## Works Present Here
 
@@ -18008,6 +18050,7 @@ Shughart is a citation anchor, not a tradition node: the encyclopedia entry give
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[james-buchanan|James Buchanan]]
 
 ---
 
