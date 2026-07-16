@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Source: "https://github.com/galtland/galtland.github.io",
+      Glossary: "/glossary",
       RSS: "/index.xml",
       LLMs: "/llms-full.txt",
       "Colophon & License": "/concepts/colophon",
