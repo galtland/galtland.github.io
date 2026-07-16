@@ -51,3 +51,4 @@ Taxation is where the wiki's [[state-power-and-intervention|theory of the state]
 - [[georgism|Georgism]] - the land-value-tax claim to be the one non-expropriating levy
 - [[hard-money|Hard Money]] - the response to inflation as a hidden tax
 - [[state-power-and-intervention|State Power and Intervention]] - the broader theory of state coercion taxation anchors
+- [[inflation|Inflation]]

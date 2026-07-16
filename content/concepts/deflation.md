@@ -50,6 +50,7 @@ The Austrian case is strongest against the crudest version of deflation-phobia a
 - [[cantillon-effect|Cantillon Effect]] - the distributive cost of inflating to prevent price deflation
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - the macro dispute over whether deflation must be prevented
 - [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's taxonomy of deflation
+- [[inflation|Inflation]]
 
 ## Sources
 

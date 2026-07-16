@@ -57,6 +57,7 @@ As a mechanism the Cantillon effect is the Austrian counter to the quantity-theo
 - [[hard-money|Hard Money]] - the money with no privileged first receivers
 - [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - injection at the international/IMF layer
 - [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
+- [[inflation|Inflation]]
 
 ## Sources
 
