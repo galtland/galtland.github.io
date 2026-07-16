@@ -1297,6 +1297,7 @@ Censorship resistance is a matter of *cost*, not an absolute, and its limits are
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 - [[eric-hughes|Eric Hughes]]
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 
@@ -1451,6 +1452,7 @@ CoinJoin and PayJoin are the on-chain privacy layer of [[the-praxeology-of-priva
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 
@@ -2785,6 +2787,49 @@ Confidence is medium. The article can describe Ammous's framing with high confid
 
 ---
 
+## Financial Surveillance
+URL: /concepts/financial-surveillance
+Category: concept
+
+# Financial Surveillance
+
+> Financial surveillance is the standing regime that makes the financial system a surveillance system. It does not work by searching individuals but by conscripting the *intermediaries* — banks, exchanges, payment processors — into identifying, monitoring, and reporting their customers by default. The same architecture that watches the flow of money can also stop it, which is why financial surveillance and financial *control* are two faces of one design.
+
+## Surveillance by intermediary
+
+The regime has three layers. **Know-your-customer (KYC)** rules require every regulated financial institution to tie each account to a verified legal identity, abolishing the anonymous account. **Anti-money-laundering and counter-terrorist-financing (AML/CTF)** rules then deputize those institutions as watchers: they must monitor transactions, file suspicious-activity and currency-transaction reports, and — under the *travel rule* — pass identifying information along with transfers. The **Financial Action Task Force (FATF)**, an intergovernmental body, writes the recommendations that harmonize these rules worldwide and grades countries on compliance, so the standard propagates without any single legislature enacting it.
+
+The elegance, from the state's side, is that it needs no warrant and no direct search. The intermediary reports *by default*, and the citizen who wants to transact through the formal system has already consented to being watched as the price of entry. Financial privacy, historically the norm, is thereby redefined as a red flag: the desire to transact unmonitored is treated as presumptive evidence of wrongdoing.
+
+## Chokepoints and debanking
+
+Because the regime runs through intermediaries, whoever controls the intermediaries controls access to the money. The on- and off-ramps between the banking system and the wider economy are **chokepoints**, and a chokepoint that can report can also refuse. This is the mechanism behind *debanking* and financial deplatforming: a person, business, or cause can be cut off from payment rails not by a court judgment but by a bank's risk decision, a processor's terms of service, or informal regulatory pressure on the intermediary. It is the [[political-means-and-economic-means|political means]] applied to money — control exercised through the gatekeeper rather than the gate — and the reason [[censorship-resistance|censorship resistance]] is a monetary property and not only a communications one.
+
+## CBDCs as the culmination
+
+A [[hillebrand-on-cbdcs|central-bank digital currency]] would fold all three layers into the money itself. Where today's surveillance is assembled from reports filed by many private intermediaries, a retail CBDC issued as a direct central-bank liability could give the issuer a single, real-time view of balances and payments — and, if it carried programmable rules (expiry dates, category restrictions, holding caps, identity gating), the power to *shape* spending, not merely observe it. That is why the wiki treats the CBDC debate as the sharp edge of financial surveillance: it is the point at which monitoring and control stop being two systems and become one.
+
+## The counter: fungibility and self-custody
+
+The technical answer to financial surveillance is money that removes the reporting intermediary. [[self-custody|Self-custody]] takes the balance out of the deputized bank; [[fungibility|fungibility]] — the interchangeability that a transparent ledger erodes and privacy technology restores — is what keeps a monitored history from following a coin. [[monero|Monero]] makes untraceability the default, and [[coinjoin|CoinJoin]] composes privacy over [[bitcoin|Bitcoin]]'s pseudonymous base. Physical cash is the same principle in analog form, which is why proposals to cap or retire it belong to the same story. None of these abolishes the state's interest in watching money; they raise the cost of watching and restore the default the regime reversed.
+
+## Place in This Wiki
+
+Financial surveillance is where the wiki's [[privacy-and-cryptography|privacy]] and [[money-and-banking|money]] threads meet. It is the concrete institutional stake behind the abstract case for [[hard-money|hard]], private money: not merely that state money can be inflated, but that state-intermediated money can be watched and switched off. It is the adversary the cypherpunk tradition built its tools against, and the reason the wiki reads privacy coins and self-custody as political technologies rather than conveniences.
+
+## See Also
+
+- [[hillebrand-on-cbdcs|CBDCs]] - the potential culmination of the regime in programmable state money
+- [[censorship-resistance|Censorship Resistance]] - the property that answers the chokepoint
+- [[fungibility|Fungibility]] - the monetary property surveillance erodes and privacy tech restores
+- [[monero|Monero]] - default-private money as the direct counter
+- [[coinjoin|CoinJoin]] - on-chain privacy over a transparent ledger
+- [[self-custody|Self-Custody]] - removing the deputized reporting intermediary
+- [[political-means-and-economic-means|Political Means and Economic Means]] - control through the gatekeeper as the political means applied to money
+- [[privacy-and-cryptography|Privacy and Cryptography]] - the hub this regime is the adversary of
+
+---
+
 ## Forced Integration
 URL: /concepts/forced-integration
 Category: concept
@@ -3159,6 +3204,7 @@ Fungibility runs headlong into the compliance regime, and the conflict is unreso
 - [[censorship-resistance|Censorship Resistance]] - fungibility as unit-level resistance to blacklisting
 - [[self-custody|Self-Custody]] - the individual control fungibility complements
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 
@@ -3730,6 +3776,7 @@ CBDCs are the newest instrument in the [[money-and-banking|money-and-banking]] h
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]]
 - [[man-economy-and-state|Man, Economy, and State]]
 - [[privacy-and-cryptography|Privacy and Cryptography]]
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 
@@ -5166,6 +5213,7 @@ None of this is settled, and the confidence here is medium. Regulators increasin
 - [[cypherpunk|Cypherpunk]] - the movement whose untraceable-cash-without-a-bank ambition these coins realize
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for privacy-preserving systems
 - [[money-and-banking|Money and Banking]] - The wiki's money hub: the Austrian theory of money from Menger and Mises through sound money, banking and the business cycle, the fiat system and CBDCs, to Bitcoin as digital hard money.
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 
@@ -6353,6 +6401,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[georgism|Georgism and the Land-Value Tax]] - Henry George's proposal to fund government by a single tax on the unimproved value of land — and the Austro-libertarian critique that land is legitimately owned, speculation is useful
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 - [[economics-in-one-lesson|Economics in One Lesson]]
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 
@@ -8000,6 +8049,7 @@ The custody gap is the strongest empirical point in the critique of crypto's pol
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - the thesis on why self-custody is the precondition for Bitcoin's individual freedom
 - [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 
@@ -19304,6 +19354,7 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[crypto-wars-2|Crypto Wars 2.0]] - the renewed state effort to mandate encryption backdoors and scan devices — the sequel to the 1990s fight over strong cryptography
 - [[money-and-banking|Money and Banking]]
 - [[eric-hughes|Eric Hughes]]
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 

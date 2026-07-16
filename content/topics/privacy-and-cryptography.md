@@ -109,6 +109,7 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[crypto-wars-2|Crypto Wars 2.0]] - the renewed state effort to mandate encryption backdoors and scan devices — the sequel to the 1990s fight over strong cryptography
 - [[money-and-banking|Money and Banking]]
 - [[eric-hughes|Eric Hughes]]
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 

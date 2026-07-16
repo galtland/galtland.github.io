@@ -45,6 +45,7 @@ The custody gap is the strongest empirical point in the critique of crypto's pol
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - the thesis on why self-custody is the precondition for Bitcoin's individual freedom
 - [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 

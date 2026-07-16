@@ -61,6 +61,7 @@ CBDCs are the newest instrument in the [[money-and-banking|money-and-banking]] h
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]]
 - [[man-economy-and-state|Man, Economy, and State]]
 - [[privacy-and-cryptography|Privacy and Cryptography]]
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 

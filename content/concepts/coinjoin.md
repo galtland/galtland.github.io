@@ -55,6 +55,7 @@ CoinJoin and PayJoin are the on-chain privacy layer of [[the-praxeology-of-priva
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 

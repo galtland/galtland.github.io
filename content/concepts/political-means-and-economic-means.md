@@ -106,6 +106,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[georgism|Georgism and the Land-Value Tax]] - Henry George's proposal to fund government by a single tax on the unimproved value of land — and the Austro-libertarian critique that land is legitimately owned, speculation is useful
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 - [[economics-in-one-lesson|Economics in One Lesson]]
+- [[financial-surveillance|Financial Surveillance]]
 
 ## Sources
 
