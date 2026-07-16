@@ -1,0 +1,92 @@
+@use "../../styles/variables.scss" as *;
+
+.cite-this {
+  margin-top: 2rem;
+  border-top: 1px solid var(--lightgray);
+  padding-top: 0.75rem;
+
+  & > details {
+    & > summary {
+      cursor: pointer;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--gray);
+      list-style: none;
+      user-select: none;
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+
+      &::before {
+        content: "🔖 ";
+      }
+
+      &:hover {
+        color: var(--secondary);
+      }
+    }
+
+    &[open] > summary {
+      margin-bottom: 0.6rem;
+    }
+  }
+
+  .cite-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  .cite-text {
+    margin: 0;
+    padding: 0.75rem;
+    background: var(--lightgray);
+    border-radius: 5px;
+    font-size: 0.8rem;
+    line-height: 1.55;
+    color: var(--darkgray);
+    font-family: var(--codeFont);
+    word-break: break-word;
+  }
+
+  .cite-copy-button {
+    align-self: flex-start;
+    cursor: pointer;
+    background: var(--secondary);
+    color: var(--light);
+    border: none;
+    border-radius: 4px;
+    padding: 0.35rem 0.8rem;
+    font-size: 0.8rem;
+    font-family: inherit;
+    transition: filter 0.2s ease;
+
+    &:hover {
+      filter: brightness(1.15);
+    }
+
+    &.copied {
+      background: #3fb950;
+    }
+  }
+}
+
+// Feedback when a heading permalink is copied to the clipboard.
+article a[role="anchor"] {
+  position: relative;
+
+  &.permalink-copied::after {
+    content: "link copied";
+    position: absolute;
+    left: 100%;
+    margin-left: 0.4rem;
+    top: 50%;
+    transform: translateY(-50%);
+    white-space: nowrap;
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: var(--secondary);
+    opacity: 0.9;
+  }
+}
