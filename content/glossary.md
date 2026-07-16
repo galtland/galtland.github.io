@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (343 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (344 entries).
 
 ## #
 
@@ -111,6 +111,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[The Economics and Ethics of Private Property](/references/the-economics-and-ethics-of-private-property)** — Hoppe's essay collection defending private property, sound money, and voluntary security against taxation and democratic redistribution.
 - **[Economics in One Lesson](/references/economics-in-one-lesson)** — Hazlitt's 1946 classic: the whole of economics reduced to one lesson — trace an act's longer and unseen effects on all groups, not just its immediate visible effect on one.
 - **[Eichmann in Jerusalem](/references/eichmann-in-jerusalem)** — Arendt's 1963 report on Eichmann's trial and the banality-of-evil thesis: the ordinary bureaucrat as totalitarianism's working part.
+- **[Electronic Frontier Foundation](/references/electronic-frontier-foundation)** — The digital-rights organization (founded 1990) that fought the Clipper Chip in the Crypto Wars and won First Amendment protection for source code — the legal arm of the cypherpunk fight.
 - **[Eric Hughes](/references/eric-hughes)** — Cypherpunk and mathematician; author of 'A Cypherpunk's Manifesto' (1993) and co-founder of the cypherpunks list. Coined the movement's creed: privacy must be written into code, not petitioned for.
 - **[The Ethics of Liberty](/references/the-ethics-of-liberty)** — Rothbard's 1982 treatise grounding libertarianism in self-ownership and property rights, culminating in a full ethical critique of the state.
 - **[Eugen von Böhm-Bawerk](/references/eugen-von-bohm-bawerk)** — Second-generation Austrian economist whose capital-and-interest theory of roundabout production and time preference feeds directly into Mises and Rothbard.

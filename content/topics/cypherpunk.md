@@ -131,6 +131,7 @@ New to this hub? Read these five, in order:
 - [[john-perry-barlow|John Perry Barlow]]
 - [[martin-hellman|Martin Hellman]]
 - [[whitfield-diffie|Whitfield Diffie]]
+- [[electronic-frontier-foundation|Electronic Frontier Foundation]]
 
 ## Sources
 

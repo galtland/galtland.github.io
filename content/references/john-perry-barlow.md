@@ -14,7 +14,7 @@ short: "Grateful Dead lyricist, EFF co-founder, and author of 'A Declaration of 
 
 # John Perry Barlow
 
-> [[john-perry-barlow|John Perry Barlow]] (1947–2018) was a lyricist for the Grateful Dead, a co-founder of the Electronic Frontier Foundation, and the author of *A Declaration of the Independence of Cyberspace* (1996) — the most quoted single statement of the idea that the networked world lies beyond the reach of the territorial state.
+> [[john-perry-barlow|John Perry Barlow]] (1947–2018) was a lyricist for the Grateful Dead, a co-founder of the [[electronic-frontier-foundation|Electronic Frontier Foundation]], and the author of *A Declaration of the Independence of Cyberspace* (1996) — the most quoted single statement of the idea that the networked world lies beyond the reach of the territorial state.
 
 ## A Declaration of the Independence of Cyberspace
 
@@ -47,6 +47,7 @@ Barlow marks the exuberant, political edge of the [[cypherpunk|cypherpunk]] thre
 - [[code-as-speech|Code as Speech]] - the EFF-litigated free-speech protection for cryptography
 - [[the-cybereconomy|The Cybereconomy]] - the economic form of Barlow's borderless cyberspace
 - [[jurisdictional-competition|Jurisdictional Competition]] - the sober version of the sovereignty claim
+- [[electronic-frontier-foundation|Electronic Frontier Foundation]]
 
 ## Sources
 

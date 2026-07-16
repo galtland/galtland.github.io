@@ -57,6 +57,7 @@ Bernstein did not make all regulation of software unconstitutional, and because 
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - deployment conflict around PGP, export controls, and routine strong encryption
 - [[cypherpunk|Cypherpunk]] - movement context for publishing cryptographic code
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong encryption and privacy tools
+- [[electronic-frontier-foundation|Electronic Frontier Foundation]]
 
 ## Sources
 

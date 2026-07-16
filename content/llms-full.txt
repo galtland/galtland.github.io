@@ -1404,6 +1404,7 @@ That boundary matters because code can also be conduct, infrastructure, evidence
 - [[of-cypherpunks-and-sousveillance|Of Cypherpunks and Sousveillance]] - Anderson's 2022 academic study of cypherpunk ethics — 'privacy for the weak, transparency for the powerful' — and the movement's overlooked practice of sousveillance: watching the watchers.
 - [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.
 - [[john-perry-barlow|John Perry Barlow]]
+- [[electronic-frontier-foundation|Electronic Frontier Foundation]]
 
 ## Sources
 
@@ -6407,6 +6408,7 @@ This is why the essay belongs in the [[cypherpunk|Cypherpunk]] thread. The civil
 - [[of-cypherpunks-and-sousveillance|Of Cypherpunks and Sousveillance]] - Anderson's 2022 academic study of cypherpunk ethics — 'privacy for the weak, transparency for the powerful' — and the movement's overlooked practice of sousveillance: watching the watchers.
 - [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.
 - [[snowden-disclosures|The Snowden Disclosures]] - June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own reviewers and courts
+- [[electronic-frontier-foundation|Electronic Frontier Foundation]]
 
 ## Sources
 
@@ -11148,6 +11150,7 @@ Bernstein did not make all regulation of software unconstitutional, and because 
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - deployment conflict around PGP, export controls, and routine strong encryption
 - [[cypherpunk|Cypherpunk]] - movement context for publishing cryptographic code
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong encryption and privacy tools
+- [[electronic-frontier-foundation|Electronic Frontier Foundation]]
 
 ## Sources
 
@@ -12534,6 +12537,44 @@ That makes [[banality-of-evil|Banality of Evil]] a bridge concept between [[tota
 
 ---
 
+## Electronic Frontier Foundation
+URL: /references/electronic-frontier-foundation
+Category: reference
+
+# Electronic Frontier Foundation
+
+> The [[electronic-frontier-foundation|Electronic Frontier Foundation]] (EFF), founded in 1990, is the leading organization defending civil liberties in the digital world — the legal and advocacy counterpart to the cypherpunks' technical program.
+
+## Founding and mission
+
+The EFF was founded in July 1990 by [[john-perry-barlow|John Perry Barlow]], the software entrepreneur Mitch Kapor, and John Gilmore, in response to what they saw as government overreach against early online communities. Its mission is the defence of free expression, privacy, and innovation online — pursued through litigation, policy advocacy, and technical projects. Where the cypherpunks' answer to threatened privacy was to *write code*, the EFF's was to fight for the legal space in which that code could be written, published, and used. (The EFF's founding details here are widely documented common knowledge, not drawn from the source this page cites.)
+
+## The Crypto Wars
+
+The EFF was a central actor in the 1990s [[pgp-and-the-crypto-wars|Crypto Wars]]. It opposed the **[[key-escrow-and-clipper-chip|Clipper Chip]]** — the government's proposal for an encryption standard with a built-in key-escrow backdoor that would have guaranteed state access to encrypted communications — arguing that mandated backdoors are incompatible with real security and with civil liberties. It fought the encryption **export controls** that classified strong cryptography as a munition and so restricted its publication. The EFF's own archive of the Clipper campaign is one of the primary records of that fight.
+
+## Code as speech
+
+The EFF's most consequential contribution was legal. It backed [[bernstein-v-united-states-1999|Bernstein v. United States]], in which a graduate student challenged the export rules that barred him from publishing his encryption source code. The Ninth Circuit's 1999 ruling that source code is expression protected by the First Amendment — the [[code-as-speech|code-as-speech]] principle — removed the legal ground from under the export-control regime and secured, in law, the freedom to publish cryptography. It is the clearest case of the courtroom winning what the cypherpunks were simultaneously trying to make moot in code.
+
+## Place in This Wiki
+
+The EFF sits at the intersection of the wiki's [[cypherpunk|cypherpunk]] and [[privacy-and-cryptography|privacy-and-cryptography]] threads as their institutional and legal arm. It is a reminder that the cypherpunk victory was not purely technical: the right to deploy strong cryptography was also won in court and in policy, and the EFF is the organization that did most of that winning.
+
+## See Also
+
+- [[john-perry-barlow|John Perry Barlow]] - EFF co-founder and author of the Declaration of the Independence of Cyberspace
+- [[code-as-speech|Code as Speech]] - the First Amendment principle the EFF's litigation established
+- [[bernstein-v-united-states-1999|Bernstein v. United States]] - the case that won it
+- [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - the fight over Clipper, key escrow, and export controls
+- [[cypherpunk|Cypherpunk]] - the movement whose technical program the EFF's legal work complemented
+
+## Sources
+
+- [1990s Crypto Wars Dossier](https://web.archive.org/web/20011127065037id_/http://www.eff.org/Privacy/Clipper/) - primary materials from the EFF's own archive on Clipper, key escrow, export controls, and the code-as-speech fight
+
+---
+
 ## Eric Hughes
 URL: /references/eric-hughes
 Category: reference
@@ -13683,7 +13724,7 @@ Category: reference
 
 # John Perry Barlow
 
-> [[john-perry-barlow|John Perry Barlow]] (1947–2018) was a lyricist for the Grateful Dead, a co-founder of the Electronic Frontier Foundation, and the author of *A Declaration of the Independence of Cyberspace* (1996) — the most quoted single statement of the idea that the networked world lies beyond the reach of the territorial state.
+> [[john-perry-barlow|John Perry Barlow]] (1947–2018) was a lyricist for the Grateful Dead, a co-founder of the [[electronic-frontier-foundation|Electronic Frontier Foundation]], and the author of *A Declaration of the Independence of Cyberspace* (1996) — the most quoted single statement of the idea that the networked world lies beyond the reach of the territorial state.
 
 ## A Declaration of the Independence of Cyberspace
 
@@ -13716,6 +13757,7 @@ Barlow marks the exuberant, political edge of the [[cypherpunk|cypherpunk]] thre
 - [[code-as-speech|Code as Speech]] - the EFF-litigated free-speech protection for cryptography
 - [[the-cybereconomy|The Cybereconomy]] - the economic form of Barlow's borderless cyberspace
 - [[jurisdictional-competition|Jurisdictional Competition]] - the sober version of the sovereignty claim
+- [[electronic-frontier-foundation|Electronic Frontier Foundation]]
 
 ## Sources
 
@@ -19409,6 +19451,7 @@ New to this hub? Read these five, in order:
 - [[john-perry-barlow|John Perry Barlow]]
 - [[martin-hellman|Martin Hellman]]
 - [[whitfield-diffie|Whitfield Diffie]]
+- [[electronic-frontier-foundation|Electronic Frontier Foundation]]
 
 ## Sources
 
