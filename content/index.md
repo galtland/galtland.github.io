@@ -19,6 +19,7 @@ Last updated: 2026-07-15
 
 - **[Start Here](topics/start-here.md)** — new-reader introduction to the whole wiki
 - [Colophon — How This Wiki Is Made](concepts/colophon.md) — the quote standard, the integrity gate and its honest limits, and licensing
+- [Glossary](glossary) — an A–Z index of every article, one line each (generated)
 - [Concepts](concepts/)
 - [Topics](topics/):
   - [Austrian Economics](topics/austrian-economics.md)
