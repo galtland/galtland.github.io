@@ -71,6 +71,8 @@ These traditions sit *beside* libertarian doctrine, not inside it. Schmitt, Fouc
 - [[society-must-be-defended|Society Must Be Defended]] - Foucault's 1975-1976 lectures on war, sovereignty, disciplinary power, biopower, population, and state racism.
 - [[the-concept-of-the-political|The Concept of the Political]] - Schmitt's work centered on the friend/enemy criterion and its critique of liberal depoliticization.
 - [[start-here|Start Here]]
+- [[council-system|Council System]]
+
 ## Sources
 
 - [Oppenheimer, The State](https://www.gutenberg.org/ebooks/51544) - conquest origin and the political/economic means distinction
