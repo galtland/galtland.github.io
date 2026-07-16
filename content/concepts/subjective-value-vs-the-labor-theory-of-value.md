@@ -142,6 +142,8 @@ In the history of economic thought the displacement was decisive: after the 1870
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
+- [[adam-smith|Adam Smith]]
+- [[the-wealth-of-nations|The Wealth of Nations]]
 
 ## Sources
 

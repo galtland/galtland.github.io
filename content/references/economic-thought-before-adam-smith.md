@@ -14,13 +14,13 @@ short: "Rothbard's 1995 Austrian history of pre-classical economics — the wiki
 
 # Economic Thought Before Adam Smith
 
-> [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] is Volume 1 of Murray Rothbard's *An Austrian Perspective on the History of Economic Thought* (Edward Elgar, 1995), tracing economics from [[aristotle|Aristotle]] and the canon lawyers to Adam Smith. It is the wiki's grounding source for the [[school-of-salamanca|School of Salamanca]].
+> [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] is Volume 1 of Murray Rothbard's *An Austrian Perspective on the History of Economic Thought* (Edward Elgar, 1995), tracing economics from [[aristotle|Aristotle]] and the canon lawyers to [[adam-smith|Adam Smith]]. It is the wiki's grounding source for the [[school-of-salamanca|School of Salamanca]].
 
 ## The Two Theses
 
 The book is a polemical history with two revisionist claims:
 
-1. **Economics began before Smith — with natural law.** Rothbard argues that systematic economic reasoning grew out of the scholastic natural-law tradition, reaching an early peak in the late Spanish scholastics, who already had a subjective-utility theory of value, the just price as the market price, and the quantity theory of money. On this telling the discipline did not spring from *The Wealth of Nations* but was rediscovered and, in places, set back by it.
+1. **Economics began before Smith — with natural law.** Rothbard argues that systematic economic reasoning grew out of the scholastic natural-law tradition, reaching an early peak in the late Spanish scholastics, who already had a subjective-utility theory of value, the just price as the market price, and the quantity theory of money. On this telling the discipline did not spring from [[the-wealth-of-nations|The Wealth of Nations]] but was rediscovered and, in places, set back by it.
 2. **Smith was a wrong turn.** Rothbard's most contrarian move is to treat Adam Smith not as the founder of economics but as a figure who *displaced* the more correct subjective-value tradition (the Salamancans, Cantillon, Turgot, the French liberals) with a labour-and-cost theory of value that misled economics until the 1870s marginalist revolution recovered the older insight.
 
 ## Structure
@@ -40,6 +40,8 @@ This book is where the wiki's [[natural-law-and-natural-order|natural-law]] spin
 - [[hard-money|Hard Money]] - the sound-money lineage the book traces back to the scholastic quantity theory and anti-debasement arguments
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 - [[richard-cantillon|Richard Cantillon]] - Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
+- [[adam-smith|Adam Smith]]
+- [[the-wealth-of-nations|The Wealth of Nations]]
 
 ## Sources
 

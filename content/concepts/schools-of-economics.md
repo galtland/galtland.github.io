@@ -56,3 +56,5 @@ The wiki argues from the Austrian school — its economics articles are deductio
 - [[milton-friedman|Milton Friedman]] - the central Chicago figure
 - [[capitalism-and-freedom|Capitalism and Freedom]] - the Chicago program in brief
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the Austrian diagnosis of boom and bust
+- [[adam-smith|Adam Smith]]
+- [[the-wealth-of-nations|The Wealth of Nations]]

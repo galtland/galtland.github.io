@@ -3136,6 +3136,8 @@ The comparative-advantage case is exceptionally robust, and the objections clust
 - [[frederic-bastiat|Frédéric Bastiat]] - French classical-liberal economist and pamphleteer (1801–1850): the wittiest expositor of free trade, and the originator of the seen-and-the-unseen and the broken-window fallacy.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[economics-in-one-lesson|Economics in One Lesson]]
+- [[adam-smith|Adam Smith]]
+- [[the-wealth-of-nations|The Wealth of Nations]]
 
 ## Sources
 
@@ -8068,6 +8070,8 @@ The wiki argues from the Austrian school — its economics articles are deductio
 - [[milton-friedman|Milton Friedman]] - the central Chicago figure
 - [[capitalism-and-freedom|Capitalism and Freedom]] - the Chicago program in brief
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the Austrian diagnosis of boom and bust
+- [[adam-smith|Adam Smith]]
+- [[the-wealth-of-nations|The Wealth of Nations]]
 
 ---
 
@@ -8647,6 +8651,8 @@ Spontaneous order is the positive half of the Austrian case for liberty: where t
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - the designed framework within which spontaneous order forms
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - why overriding the order to direct results fails
 - [[hard-money|Hard Money]] - an emergent monetary institution the tradition prefers to designed money
+- [[adam-smith|Adam Smith]]
+- [[the-wealth-of-nations|The Wealth of Nations]]
 
 ## Sources
 
@@ -9065,6 +9071,8 @@ In the history of economic thought the displacement was decisive: after the 1870
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
+- [[adam-smith|Adam Smith]]
+- [[the-wealth-of-nations|The Wealth of Nations]]
 
 ## Sources
 
@@ -10392,6 +10400,41 @@ Adam Back is one of the few cypherpunks whose specific technical artifact surviv
 
 - [Hashcash: A Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) - Back's 2002 paper: the cost-function design, interactive/non-interactive variants, public verifiability, and applications
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - cites Hashcash as the proof-of-work model Bitcoin adapts
+
+---
+
+## Adam Smith
+URL: /references/adam-smith
+Category: reference
+
+# Adam Smith
+
+> [[adam-smith|Adam Smith]] (1723–1790) was the Scottish Enlightenment moral philosopher who founded classical political economy. His [[the-wealth-of-nations|The Wealth of Nations]] (1776) is the source-text of the free-market case.
+
+## The founder of classical economics
+
+Smith was a professor of moral philosophy at Glasgow before he was an economist, and his first book, *The Theory of Moral Sentiments* (1759), grounded ethics in sympathy — our capacity to imagine ourselves in another's place. *The Wealth of Nations*, seventeen years later, is often read as its complement rather than its contradiction: the market, in Smith's account, is precisely the institution that lets self-interested strangers serve one another without requiring the benevolence his ethics reserved for closer relations. (Smith's biographical details here are widely documented common knowledge, not drawn from the work this page cites.)
+
+## The ideas that endure
+
+Three ideas from *The Wealth of Nations* became permanent. The **division of labour** explains a nation's productivity by the specialization of tasks rather than the abundance of resources. **Self-interest coordinated by exchange** explains how a complex economy feeds itself without central direction — the butcher and baker serve their customers from regard to their own interest, and the merchant seeking only his own gain is "led by an invisible hand to promote an end which was no part of his intention." And **free trade** follows from both: the mercantilist attempt to manage commerce for a favourable balance of gold enriches the protected few at the general expense. The wiki develops these in the [[the-wealth-of-nations|book's own reference page]].
+
+## Place in This Wiki
+
+Smith is the classical-liberal foundation nearly every school in the wiki's [[schools-of-economics|comparison of economic schools]] traces itself to, and the first clear statement of the [[spontaneous-order|spontaneous order]] argument the Austrians later made central. But the wiki reads him critically as well: his slide toward locating value in cost and labour was a step back from the subjective-value insights of the earlier Scholastics, and it was corrected only by the [[subjective-value-vs-the-labor-theory-of-value|marginal revolution]] a century on — the Austrian reading set out in [[economic-thought-before-adam-smith|Rothbard's history]].
+
+## See Also
+
+- [[the-wealth-of-nations|The Wealth of Nations]] - his founding treatise
+- [[spontaneous-order|Spontaneous Order]] - the idea his invisible hand first states
+- [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - the anti-mercantilist case he launched
+- [[subjective-value-vs-the-labor-theory-of-value|Subjective Value vs the Labor Theory of Value]] - where the Austrians correct him
+- [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's critical placement of Smith
+- [[schools-of-economics|Schools of Economics]] - the classical root of the schools that follow
+
+## Sources
+
+- [The Wealth of Nations (Full Text)](https://www.gutenberg.org/ebooks/3300) - Smith's 1776 treatise (Project Gutenberg, public domain), the source of the division-of-labour, invisible-hand, and free-trade arguments summarized here
 
 ---
 
@@ -12318,13 +12361,13 @@ Category: reference
 
 # Economic Thought Before Adam Smith
 
-> [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] is Volume 1 of Murray Rothbard's *An Austrian Perspective on the History of Economic Thought* (Edward Elgar, 1995), tracing economics from [[aristotle|Aristotle]] and the canon lawyers to Adam Smith. It is the wiki's grounding source for the [[school-of-salamanca|School of Salamanca]].
+> [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] is Volume 1 of Murray Rothbard's *An Austrian Perspective on the History of Economic Thought* (Edward Elgar, 1995), tracing economics from [[aristotle|Aristotle]] and the canon lawyers to [[adam-smith|Adam Smith]]. It is the wiki's grounding source for the [[school-of-salamanca|School of Salamanca]].
 
 ## The Two Theses
 
 The book is a polemical history with two revisionist claims:
 
-1. **Economics began before Smith — with natural law.** Rothbard argues that systematic economic reasoning grew out of the scholastic natural-law tradition, reaching an early peak in the late Spanish scholastics, who already had a subjective-utility theory of value, the just price as the market price, and the quantity theory of money. On this telling the discipline did not spring from *The Wealth of Nations* but was rediscovered and, in places, set back by it.
+1. **Economics began before Smith — with natural law.** Rothbard argues that systematic economic reasoning grew out of the scholastic natural-law tradition, reaching an early peak in the late Spanish scholastics, who already had a subjective-utility theory of value, the just price as the market price, and the quantity theory of money. On this telling the discipline did not spring from [[the-wealth-of-nations|The Wealth of Nations]] but was rediscovered and, in places, set back by it.
 2. **Smith was a wrong turn.** Rothbard's most contrarian move is to treat Adam Smith not as the founder of economics but as a figure who *displaced* the more correct subjective-value tradition (the Salamancans, Cantillon, Turgot, the French liberals) with a labour-and-cost theory of value that misled economics until the 1870s marginalist revolution recovered the older insight.
 
 ## Structure
@@ -12344,6 +12387,8 @@ This book is where the wiki's [[natural-law-and-natural-order|natural-law]] spin
 - [[hard-money|Hard Money]] - the sound-money lineage the book traces back to the scholastic quantity theory and anti-debasement arguments
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 - [[richard-cantillon|Richard Cantillon]] - Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
+- [[adam-smith|Adam Smith]]
+- [[the-wealth-of-nations|The Wealth of Nations]]
 
 ## Sources
 
@@ -17362,6 +17407,57 @@ This is **minarchism**, and it should not be confused with [[market-anarchism-an
 
 ## Sources
 - [The Virtue of Selfishness (Full Text Aggregate)](https://archive.org/details/the-virtue-of-selfishness-ayn-rand) - the 1964 essay collection (non-official OCR scan; quote-check against an authorized edition)
+
+---
+
+## The Wealth of Nations
+URL: /references/the-wealth-of-nations
+Category: reference
+
+# The Wealth of Nations
+
+> [[the-wealth-of-nations|The Wealth of Nations]] (1776) is [[adam-smith|Adam Smith]]'s founding treatise of classical political economy — the book that made the systematic case that a nation grows rich through the division of labour and free exchange, not through the hoarding of gold or the direction of the state.
+
+## The division of labour
+
+The book opens with the source of wealth, and it is not resources or money but organization. Productivity, Smith argues, rises when work is broken into specialized tasks:
+
+> "The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour."
+>
+> — [[adam-smith|Adam Smith]], [[the-wealth-of-nations|The Wealth of Nations]]
+
+His famous illustration is the pin factory, where a single untrained worker might make a handful of pins a day but ten workers dividing the eighteen distinct operations make tens of thousands. The division of labour is in turn limited by the extent of the market — the wider the market, the finer the specialization it can support — which is already an argument for free trade.
+
+## Self-interest and the invisible hand
+
+Smith's second great idea is that the market turns private self-interest into public benefit without anyone aiming at the public benefit. The exchange that feeds a city runs not on goodwill but on reciprocal advantage:
+
+> "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest."
+>
+> — [[adam-smith|Adam Smith]], [[the-wealth-of-nations|The Wealth of Nations]]
+
+From this follows the book's most quoted image. A merchant who directs his capital to its most profitable domestic use intends only his own gain, and yet is "led by an invisible hand to promote an end which was no part of his intention" — the efficient allocation of a nation's capital. It is the founding statement of what the wiki treats as [[spontaneous-order|spontaneous order]]: a beneficial overall pattern that is the result of human action but not of human design.
+
+## Against mercantilism
+
+Much of the book is a sustained assault on the mercantile system — the doctrine that a nation's wealth is its stock of gold and silver, and that trade should therefore be managed to run a surplus. Smith answers that wealth is the flow of goods a people can consume, not the metal in the treasury, and that tariffs, bounties, and monopolies enrich the protected interest at the general expense. His case for [[free-trade-and-comparative-advantage|free trade]] — later sharpened by Ricardo into comparative advantage — is the classical-liberal core the wiki inherits.
+
+## Place in This Wiki
+
+The wiki reads Smith as the foundation the later free-market tradition rests on, and as a foundation that needed repair. He is the ancestor of the [[spontaneous-order|spontaneous-order]] argument that runs through Hayek, and the classical-liberal case against mercantilism is common ground for every school in the wiki's [[schools-of-economics|comparison of economic schools]]. But Smith also let the labour and cost of production drift toward being the *source* of value rather than a determinant of price — an error the [[subjective-value-vs-the-labor-theory-of-value|marginal revolution]] later overturned, and one that the Austrian reading in [[economic-thought-before-adam-smith|Rothbard's history]] treats as a step back from the earlier subjective-value insights of the Scholastics. Smith is thus both the classical liberal the tradition claims and a figure the Austrians read critically.
+
+## See Also
+
+- [[adam-smith|Adam Smith]] - the author; founder of classical political economy
+- [[spontaneous-order|Spontaneous Order]] - the idea the "invisible hand" first states
+- [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - the anti-mercantilist case Smith launched
+- [[subjective-value-vs-the-labor-theory-of-value|Subjective Value vs the Labor Theory of Value]] - the value question Smith got wrong and the marginalists fixed
+- [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's Austrian, and critical, history of Smith's place
+- [[schools-of-economics|Schools of Economics]] - the classical foundation the later schools diverge from
+
+## Sources
+
+- [The Wealth of Nations (Full Text)](https://www.gutenberg.org/ebooks/3300) - Smith's 1776 treatise (Project Gutenberg, public domain): the division of labour, the butcher-brewer-baker account of self-interest, the invisible hand, and the case against mercantilism
 
 ---
 
