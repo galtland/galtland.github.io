@@ -9,7 +9,7 @@ Last updated: 2026-07-15
 ## Statistics
 
 - Sources: 182 raw documents (+ 4 news-lens items)
-- Articles: 327 compiled wiki articles (145 concepts, 164 references, 8 theses, 10 topics)
+- Articles: 328 compiled wiki articles (146 concepts, 164 references, 8 theses, 10 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-26
 - Last lint: 2026-06-26
@@ -18,6 +18,7 @@ Last updated: 2026-07-15
 ## Quick Navigation
 
 - **[Start Here](topics/start-here.md)** — new-reader introduction to the whole wiki
+- [Colophon — How This Wiki Is Made](concepts/colophon.md) — the quote standard, the integrity gate and its honest limits, and licensing
 - [Concepts](concepts/)
 - [Topics](topics/):
   - [Austrian Economics](topics/austrian-economics.md)
