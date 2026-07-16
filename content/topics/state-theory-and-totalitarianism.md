@@ -65,13 +65,12 @@ These traditions sit *beside* libertarian doctrine, not inside it. Schmitt, Fouc
 
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
-- [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to this wiki's libertarian and Austrian positions — economic, institutional, distributive, philosophical — each linked to its fuller treatment and weakest answer.
+- [[objections-to-libertarianism|Objections to Libertarianism]]
 - [[discipline-and-punish|Discipline and Punish]] - Foucault's account of disciplinary power - surveillance, examination, docile bodies, panopticism - as the modern prison's true technology of control.
 - [[political-theology|Political Theology]] - Schmitt's work defining sovereignty as the power to decide on the exception.
 - [[society-must-be-defended|Society Must Be Defended]] - Foucault's 1975-1976 lectures on war, sovereignty, disciplinary power, biopower, population, and state racism.
 - [[the-concept-of-the-political|The Concept of the Political]] - Schmitt's work centered on the friend/enemy criterion and its critique of liberal depoliticization.
-- [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
-
+- [[start-here|Start Here]]
 ## Sources
 
 - [Oppenheimer, The State](https://www.gutenberg.org/ebooks/51544) - conquest origin and the political/economic means distinction
