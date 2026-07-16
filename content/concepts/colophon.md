@@ -46,6 +46,10 @@ This review is deliberately kept *advisory*: a human reads its findings and fixe
 
 Every factual claim and every quotation traces to a real source. Full source texts are held in a private working repository and are *not published* — only the finished articles appear on this site, carrying short verified quotations and links out to the canonical public edition of each work (Project Gutenberg, the Mises Institute, arXiv, and the like). Where a source has no free public edition, the article names it in plain text rather than linking a copy.
 
+## For machines
+
+Two machine-readable indexes accompany the site for language-model agents and crawlers. `/llms.txt` is a table of contents — every public page with its title, category, and summary. `/llms-full.txt` is the same corpus with each article's complete text inlined, so an agent can read the whole wiki in one fetch. Both are regenerated at publish time from the published articles *only*; neither includes the private full-text sources.
+
 ## Copyright, sources, and licensing
 
 - **Quoted and referenced works** remain the property of their respective copyright holders. This wiki reproduces only short excerpts, for commentary, criticism, and education, and links to the original wherever a public edition exists. Some sources are public-domain, some are openly licensed (for example, works released under Creative Commons), and some are commercially published and held privately for research only — the full text of the latter is never republished here.
