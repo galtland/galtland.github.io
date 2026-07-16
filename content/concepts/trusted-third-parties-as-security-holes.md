@@ -84,6 +84,7 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[privacy-and-cryptography|Privacy and Cryptography]] - Topic map for the wiki's privacy-and-cryptography thread: Hillebrand's Austrian theory of privacy, Lowery's power-projection thesis, the resistance axiom, state and corporate surveillance, Bitcoin
 - [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 

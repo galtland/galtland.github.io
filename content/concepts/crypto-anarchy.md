@@ -93,6 +93,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[eric-hughes|Eric Hughes]]
 - [[john-perry-barlow|John Perry Barlow]]
 - [[silk-road|Silk Road]]
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 

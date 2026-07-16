@@ -52,6 +52,7 @@ Nakamoto consensus is a genuine achievement but not a free lunch or a full solut
 - [[power-projection|Power Projection]] - Bitcoin as physical cost imposed in cyberspace
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - Satoshi's statement of the double-spending problem and its solution
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 

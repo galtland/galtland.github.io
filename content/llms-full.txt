@@ -894,6 +894,7 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 
 **Further:** [[nick-szabo|Nick Szabo]] · [[wei-dai|Wei Dai]] · [[timothy-c-may|Tim May]] · [[public-key-cryptography|Public-Key Cryptography]] · [[hashcash|Hashcash]] · [[adam-back|Adam Back]] · [[hal-finney|Hal Finney]] · [[crypto-anarchy|Crypto Anarchy]] · [[ecash|eCash]] · [[shelling-out|Shelling Out]] · [[lightning-network|Lightning Network]] · [[coinjoin|CoinJoin]] · [[ideal-money|Ideal Money]] · [[carl-menger|Carl Menger]] · [[konrad-graf|Konrad Graf]] · [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] · [[deflation|Deflation]] · [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] · [[fungibility|Fungibility]] · [[monero|Monero]] · [[regression-theorem|The Regression Theorem]] · [[gold-standard|The Gold Standard]]
 - [[silk-road|Silk Road]]
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 
@@ -947,6 +948,7 @@ Nakamoto consensus is a genuine achievement but not a free lunch or a full solut
 - [[power-projection|Power Projection]] - Bitcoin as physical cost imposed in cyberspace
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - Satoshi's statement of the double-spending problem and its solution
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 
@@ -1302,6 +1304,7 @@ Censorship resistance is a matter of *cost*, not an absolute, and its limits are
 - [[eric-hughes|Eric Hughes]]
 - [[financial-surveillance|Financial Surveillance]]
 - [[silk-road|Silk Road]]
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 
@@ -2095,6 +2098,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[eric-hughes|Eric Hughes]]
 - [[john-perry-barlow|John Perry Barlow]]
 - [[silk-road|Silk Road]]
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 
@@ -6298,6 +6302,46 @@ The parallel economy is the cypherpunk-implementation cousin of **agorism / coun
 
 ---
 
+## Peer-to-Peer and the BitTorrent Lineage
+URL: /concepts/peer-to-peer
+Category: concept
+
+# Peer-to-Peer and the BitTorrent Lineage
+
+> Peer-to-peer (P2P) is the architecture in which every participant is both client and server, so there is no central machine an authority can seize to stop the system. Its two-decade history of file-sharing is the practical proof of a single idea the cypherpunks had asserted in theory: that you can shut down a *company* but not a *protocol*. It is the direct architectural ancestor of Bitcoin.
+
+## The lineage: removing the central point
+
+The file-sharing story is a sequence of steps, each removing a central point of failure the previous generation was killed at.
+
+- **Napster (1999–2001)** distributed the *files* peer-to-peer but kept a **central index** of who had what. That index was a single company, and a single company can be sued: Napster was shut down by court order, its architecture's one central component its fatal flaw.
+- **Gnutella** answered by removing the index entirely — searches flooded outward from peer to peer, so there was no server to seize and no company to enjoin. It traded efficiency for the absence of a center.
+- **BitTorrent (2001)**, designed by Bram Cohen, made decentralized distribution efficient. It breaks a file into pieces and lets a *swarm* of downloaders trade pieces with each other as they go, so popular files get faster as more people join rather than overloading one source. Its remaining semi-central element, the tracker that coordinated swarms, was later made optional by **distributed hash tables (DHT)**, which spread the coordination itself across the peers — leaving, finally, nothing central to shut down.
+
+## Why it could not be stopped
+
+The lesson is the one the wiki states as [[trusted-third-parties-as-security-holes|trusted third parties are security holes]]: every central component is a point of control, so an architecture with no center has no lever for an outside party to pull. Enforcement could take down individual users, seed servers, or indexing websites, but the protocol itself — a way for peers to find and trade pieces directly — kept running because it was not located anywhere in particular. This is [[censorship-resistance|censorship resistance]] as a property of *design* rather than of law or goodwill, and file-sharing was where it was first proven at scale against a determined and well-funded adversary.
+
+## The bridge to Bitcoin
+
+The connection to the wiki's monetary thread is not an analogy but a lineage. [[satoshi-nakamoto|Satoshi Nakamoto]] titled the [[bitcoin|Bitcoin]] whitepaper [[bitcoin-whitepaper|Bitcoin: A Peer-to-Peer Electronic Cash System]], and the design is P2P architecture applied to money. But money required solving a problem file-sharing never had. Sharing *wants* copying — the whole point is that everyone can have a copy of the file. Money must forbid it: a coin I send you must stop being mine, or it is not money. That is the [[byzantine-generals-and-double-spending|double-spending problem]], and solving it in a network with no central ledger-keeper is what [[proof-of-work|proof of work]] and the longest-chain rule accomplish. BitTorrent proved decentralized *distribution* survives enforcement; Bitcoin added decentralized *scarcity*. The second was impossible without the architectural template the first established.
+
+## Place in This Wiki
+
+Peer-to-peer is the structural pattern beneath the entire cypherpunk-to-crypto arc: encrypted messaging, darknet markets, [[the-cybereconomy|the cybereconomy]], and digital cash are all instances of pushing function out of seizable centers and into protocols run by their users. It is why the wiki reads decentralization not as a technical preference but as the mechanism of [[crypto-anarchy|crypto anarchy]] — the concrete way in which strong tools shift power from gatekeepers to participants.
+
+## See Also
+
+- [[bitcoin|Bitcoin]] - *a peer-to-peer electronic cash system*: the lineage applied to money
+- [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - the design thesis P2P architecture embodies
+- [[censorship-resistance|Censorship Resistance]] - the property decentralized distribution first proved at scale
+- [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - the problem money added that file-sharing never faced
+- [[proof-of-work|Proof of Work]] - how Bitcoin added decentralized scarcity to the P2P template
+- [[crypto-anarchy|Crypto Anarchy]] - the political program decentralization serves
+- [[the-cybereconomy|The Cybereconomy]] - the broader economy built on the same architecture
+
+---
+
 ## PGP and the Crypto Wars
 URL: /concepts/pgp-and-the-crypto-wars
 Category: concept
@@ -7014,6 +7058,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 
@@ -9181,6 +9226,7 @@ Confidence is medium. The cybercash prediction was substantially vindicated by t
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 - [[john-perry-barlow|John Perry Barlow]]
 - [[silk-road|Silk Road]]
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 
@@ -9735,6 +9781,7 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[privacy-and-cryptography|Privacy and Cryptography]] - Topic map for the wiki's privacy-and-cryptography thread: Hillebrand's Austrian theory of privacy, Lowery's power-projection thesis, the resistance axiom, state and corporate surveillance, Bitcoin
 - [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 

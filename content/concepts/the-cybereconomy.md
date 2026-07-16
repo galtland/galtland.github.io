@@ -53,6 +53,7 @@ Confidence is medium. The cybercash prediction was substantially vindicated by t
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 - [[john-perry-barlow|John Perry Barlow]]
 - [[silk-road|Silk Road]]
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 ## Sources
 
