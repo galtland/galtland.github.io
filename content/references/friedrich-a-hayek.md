@@ -34,7 +34,7 @@ Until this compile pass, the wiki had no Hayek source. With these texts present:
 
 Mises and Hayek share the calculation-debate position against socialism but diverge on three points:
 
-- **The role of the state in a free society.** Mises is closer to strict laissez-faire; Hayek is more accommodating of a basic social safety net and a regulatory framework, especially in his later *Constitution of Liberty* (not in this wiki).
+- **The role of the state in a free society.** Mises is closer to strict laissez-faire; Hayek is more accommodating of a basic social safety net and a regulatory framework, especially in his later [[the-constitution-of-liberty|Constitution of Liberty]] (not in this wiki).
 - **Methodology.** Mises holds praxeology as strictly a priori. Hayek leans more heavily on tacit knowledge, evolutionary social processes, and an empirical-pattern view of economic theory.
 - **The form of the calculation critique.** On the standard dehomogenizing reading, Mises argues that socialist planners cannot calculate at all without market prices for the means of production, while Hayek emphasizes that the dispersed, tacit knowledge real prices summarize is not available to any planning mind — though how sharply the two arguments actually divide is itself debated (see [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]]).
 
@@ -79,6 +79,7 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
+- [[the-constitution-of-liberty|The Constitution of Liberty]]
 
 ## Sources
 

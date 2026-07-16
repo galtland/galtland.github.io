@@ -50,6 +50,7 @@ Spontaneous order is the positive half of the Austrian case for liberty: where t
 - [[hard-money|Hard Money]] - an emergent monetary institution the tradition prefers to designed money
 - [[adam-smith|Adam Smith]]
 - [[the-wealth-of-nations|The Wealth of Nations]]
+- [[the-constitution-of-liberty|The Constitution of Liberty]]
 
 ## Sources
 

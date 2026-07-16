@@ -3780,6 +3780,7 @@ Hayek's foreseeability condition sits at the level of [[state-power-and-interven
 
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not the result of human design: order that emerges without a designer.
+- [[the-constitution-of-liberty|The Constitution of Liberty]]
 
 ## Sources
 
@@ -4511,6 +4512,7 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 - [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
+- [[the-constitution-of-liberty|The Constitution of Liberty]]
 
 ## Sources
 
@@ -4732,6 +4734,7 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[council-system|Council System]]
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 - [[secession|Secession]]
+- [[the-constitution-of-liberty|The Constitution of Liberty]]
 
 ## Sources
 
@@ -7849,7 +7852,7 @@ The methodological split shows up directly in how each frames the critique of so
 
 The sharpest practical divergence is political. Rothbard follows the property-rights logic all the way to [[market-anarchism-and-private-law|market anarchism]]: no state at all, with law, defense, and adjudication supplied competitively. Hayek is a classical liberal, not an anarchist: he defends a limited constitutional government bound by the [[hayek-on-rule-of-law|rule of law]], and in his later work he accepted a basic social safety net and a regulatory framework — positions [[road-to-serfdom|The Road to Serfdom]] already signals.
 
-This is where Rothbard's criticism is most direct. In [[the-ethics-of-liberty|The Ethics of Liberty]] (ch. 28, "F. A. Hayek and the Concept of Coercion"), Rothbard argues that Hayek's definition of coercion — drawn from *The Constitution of Liberty* — is too broad and imprecise, untethered from a clear standard of invasion of person and property, and that this looseness lets Hayek license state interventions a consistent libertarian would reject. For Rothbard, only the initiation of physical force against person or property counts as coercion; Hayek's wider, fuzzier notion is, on this view, the hinge on which his accommodation of the state turns.
+This is where Rothbard's criticism is most direct. In [[the-ethics-of-liberty|The Ethics of Liberty]] (ch. 28, "F. A. Hayek and the Concept of Coercion"), Rothbard argues that Hayek's definition of coercion — drawn from [[the-constitution-of-liberty|The Constitution of Liberty]] — is too broad and imprecise, untethered from a clear standard of invasion of person and property, and that this looseness lets Hayek license state interventions a consistent libertarian would reject. For Rothbard, only the initiation of physical force against person or property counts as coercion; Hayek's wider, fuzzier notion is, on this view, the hinge on which his accommodation of the state turns.
 
 ## The Dehomogenization Map
 
@@ -8706,6 +8709,7 @@ Spontaneous order is the positive half of the Austrian case for liberty: where t
 - [[hard-money|Hard Money]] - an emergent monetary institution the tradition prefers to designed money
 - [[adam-smith|Adam Smith]]
 - [[the-wealth-of-nations|The Wealth of Nations]]
+- [[the-constitution-of-liberty|The Constitution of Liberty]]
 
 ## Sources
 
@@ -12968,7 +12972,7 @@ Until this compile pass, the wiki had no Hayek source. With these texts present:
 
 Mises and Hayek share the calculation-debate position against socialism but diverge on three points:
 
-- **The role of the state in a free society.** Mises is closer to strict laissez-faire; Hayek is more accommodating of a basic social safety net and a regulatory framework, especially in his later *Constitution of Liberty* (not in this wiki).
+- **The role of the state in a free society.** Mises is closer to strict laissez-faire; Hayek is more accommodating of a basic social safety net and a regulatory framework, especially in his later [[the-constitution-of-liberty|Constitution of Liberty]] (not in this wiki).
 - **Methodology.** Mises holds praxeology as strictly a priori. Hayek leans more heavily on tacit knowledge, evolutionary social processes, and an empirical-pattern view of economic theory.
 - **The form of the calculation critique.** On the standard dehomogenizing reading, Mises argues that socialist planners cannot calculate at all without market prices for the means of production, while Hayek emphasizes that the dispersed, tacit knowledge real prices summarize is not available to any planning mind — though how sharply the two arguments actually divide is itself debated (see [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]]).
 
@@ -13013,6 +13017,7 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
+- [[the-constitution-of-liberty|The Constitution of Liberty]]
 
 ## Sources
 
@@ -16369,6 +16374,60 @@ This is a critique of liberal attempts to neutralize conflict into procedure, mo
 ## Sources
 
 - [The Concept of the Political](https://platypus1917.org/wp-content/uploads/Concept-of-the-Political-Carl-Schmitt.pdf) - extracted Schwab translation text
+
+---
+
+## The Constitution of Liberty
+URL: /references/the-constitution-of-liberty
+Category: reference
+
+# The Constitution of Liberty
+
+> [[the-constitution-of-liberty|The Constitution of Liberty]] (1960) is [[friedrich-a-hayek|F. A. Hayek]]'s systematic statement of the philosophy of freedom — the mature, constructive counterpart to the warning of [[road-to-serfdom|The Road to Serfdom]].
+
+## Liberty as the absence of arbitrary coercion
+
+Hayek defines liberty negatively and precisely. It is not power, wealth, or the range of one's options, but a relation between persons: the condition of not being subject to the arbitrary will of another. The state he is after is
+
+> "that condition of men in which coercion of some by others is reduced as much as is possible in society"
+>
+> — [[friedrich-a-hayek|F. A. Hayek]], [[the-constitution-of-liberty|The Constitution of Liberty]]
+
+and its opposite is "the state in which a man is not subject to coercion by the arbitrary will of another or others" turned around. Defining freedom this way lets Hayek separate it cleanly from the confusions — freedom as ability, as political participation, as freedom from want — that let the word be turned against itself.
+
+## The argument from ignorance
+
+The distinctive move of the book is that its case for liberty rests not on knowing how freedom will be used but on *not* knowing. Because no mind can foresee which experiments, ideas, and adaptations will turn out to matter, a society that leaves individuals free to try things discovers more than any planner could design. Hayek puts the point sharply:
+
+> "If we knew how freedom would be used, the case for it would largely disappear."
+>
+> — [[friedrich-a-hayek|F. A. Hayek]], [[the-constitution-of-liberty|The Constitution of Liberty]]
+
+This is the [[knowledge-problem|knowledge problem]] turned from a critique of central planning into a positive defence of freedom, and it is why liberty for Hayek is bound up with [[spontaneous-order|spontaneous order]] — the beneficial patterns that arise from many free actions no one coordinated.
+
+## The rule of law
+
+Liberty's political embodiment, for Hayek, is the **rule of law**: government bound by general, prospective, equally applied rules rather than by particular commands aimed at particular people. When the state acts through known rules that apply to everyone including itself, coercion is confined and predictable, and the citizen can plan his own life inside a stable framework; when it acts by discretionary command, the same power that could protect liberty destroys it. The wiki develops this in [[hayek-on-rule-of-law|Hayek on the Rule of Law]] — the standard against which a programmable, discretionary monetary authority is judged.
+
+## Applications, and "Why I Am Not a Conservative"
+
+More than half the book applies the principle to concrete policy — labour unions, monetary policy, taxation, housing and rent control, education, social security, and the welfare state — showing how each is to be judged by whether it expands arbitrary coercion or confines it. The book closes with its most-quoted section, the postscript *Why I Am Not a Conservative*, in which Hayek refuses the conservative label: the liberal, he argues, faces an open future and welcomes change he cannot foresee, where the conservative distrusts it; the two share a suspicion of the socialist's rationalist planning but part on whether the direction of change, rather than change itself, is what matters.
+
+## Place in This Wiki
+
+The book is the constructive half of the wiki's Hayek cluster: where *The Road to Serfdom* warns where planning leads, *The Constitution of Liberty* sets out the positive alternative — a free order under the rule of law, defended from the fact of human ignorance rather than from any claim to superior knowledge. It anchors the classical-liberal, limited-government pole of the wiki's argument, distinct from the [[market-anarchism-and-private-law|anarcho-capitalist]] wing that would go further than Hayek's minimal but real state.
+
+## See Also
+
+- [[friedrich-a-hayek|F. A. Hayek]] - the author
+- [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - liberty's political form, developed from this book
+- [[knowledge-problem|The Knowledge Problem]] - the ignorance the argument for liberty rests on
+- [[spontaneous-order|Spontaneous Order]] - the order free action produces
+- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the wing that goes further than Hayek's minimal state
+
+## Sources
+
+- [The Constitution of Liberty (Full Text)](https://archive.org/details/TheConstitutionOfLiberty) - Hayek's 1960 treatise (Definitive Edition; Internet Archive, ABBYY OCR): the definition of liberty, the argument from ignorance, the rule of law, the policy applications, and "Why I Am Not a Conservative"
 
 ---
 
