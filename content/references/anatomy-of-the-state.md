@@ -60,6 +60,7 @@ In the current reference set, this book is the compressed companion to [[for-a-n
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[north-atlantic-treaty|The North Atlantic Treaty]] - The 1949 founding treaty and the 2014 Wales Defence Investment Pledge — the primary documents behind NATO's defense-spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP
+- [[oppenheimer-on-conquest|Oppenheimer On Conquest]]
 
 ## Sources
 

@@ -48,6 +48,7 @@ The supplied raw extraction contains six chapters, not five. This reference foll
 - [[anatomy-of-the-state|Anatomy of the State]] - Rothbard's later use of Nock's categories
 - [[libertarianism|Libertarianism]] - broader topic context for Nock's Old Right anti-statism
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
+- [[oppenheimer-on-conquest|Oppenheimer On Conquest]]
 
 ## Sources
 
