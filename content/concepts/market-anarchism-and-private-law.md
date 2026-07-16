@@ -70,6 +70,7 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 - [[council-system|Council System]]
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
+- [[secession|Secession]]
 
 ## Sources
 

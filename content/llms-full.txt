@@ -4273,6 +4273,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 - [[john-perry-barlow|John Perry Barlow]]
+- [[secession|Secession]]
 
 ## Sources
 
@@ -4620,6 +4621,7 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 - [[council-system|Council System]]
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
+- [[secession|Secession]]
 
 ## Sources
 
@@ -4949,6 +4951,7 @@ Most of this corpus argues from the anarcho-capitalist side; minarchism is the p
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 - [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
+- [[secession|Secession]]
 
 ## Sources
 
@@ -8004,12 +8007,57 @@ In the texts themselves, both are put forward as programs to be built rather tha
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - exit by routing around the state where you stand, rather than founding a new jurisdiction
 - [[self-custody|Self-Custody]] - the economic sovereignty a network state depends on before it has territory
 - [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
+- [[secession|Secession]]
 
 ## Sources
 
 - [The Sovereign Individual (Full Text)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Davidson and Rees-Mogg on declining returns to violence, jurisdictional competition, the cybereconomy, and governments forced to treat populations "more like customers" than shakedown victims
 - [Beyond Folk Activism (Full Text)](https://www.cato-unbound.org/2009/04/06/patri-friedman/beyond-folk-activism/) - Patri Friedman on government as an uncompetitive monopoly industry, seasteading as a modular ocean frontier that lowers the barrier to founding new jurisdictions, and its marine and state-interference risks
 - [The Network State — Definitional Excerpts](https://thenetworkstate.com/) - Balaji Srinivasan's definition of the network state and the seven-step "cloud first, land last" path from startup society to diplomatic recognition
+
+---
+
+## Secession
+URL: /concepts/secession
+Category: concept
+
+# Secession
+
+> Secession is the withdrawal of a political unit from a larger one. Its libertarian interest is not any particular breakaway but the *principle* the act exposes: if a people may justly leave a state, the same logic licenses a region to leave that people, a town to leave the region, and — at the limit — an individual to leave the town. Secession is exit made collective, and exit is what forces a state to earn the consent it claims.
+
+## The right to secede
+
+The libertarian case for secession begins with consent. A government legitimate only by the consent of the governed cannot claim consent from a population that would leave if it could; the freedom to secede is simply the freedom to withhold consent made real. Once granted, the principle does not stop at any convenient level. If the United States could justly separate from Britain, a state could separate from the union, a county from the state, and so on down — there is no principled place to halt the regress short of the individual, who is the only unit that can actually give or refuse consent. Most traditions flinch before that conclusion; the anarchist wing of the libertarian family, in [[market-anarchism-and-private-law|market anarchism]], embraces it — individual secession is just another name for the sovereignty of the person.
+
+## Exit over voice
+
+Secession belongs to the family of **exit** rather than **voice**. Where democratic reform asks the citizen to change the state from within by voting and arguing, exit lets him withdraw from its authority altogether — and the mere credible threat of exit disciplines rulers who would otherwise face no competition. This is the mechanism of [[jurisdictional-competition|jurisdictional competition]]: a world of many small, exit-able jurisdictions forces each to treat its residents well or lose them, exactly as firms in a market must serve customers who can shop elsewhere. Secession multiplies the number of jurisdictions and so sharpens the competition; consolidation into ever-larger units dulls it by leaving nowhere to go.
+
+## Hoppe's small-states argument
+
+[[hans-hermann-hoppe|Hoppe]] makes secession central to the practical program of [[democracy-the-god-that-failed|Democracy: The God That Failed]]. His argument is that small states are *forced* to be liberal: because capital and productive people can readily leave a small territory, its government cannot tax and regulate heavily without emptying its own tax base, whereas a large or global state faces no such flight and can predate freely. Radical decentralization by secession — the multiplication of small units — is therefore, on his account, the realistic path from mass democracy toward a natural order of competing private-law jurisdictions, without requiring a revolution.
+
+## The modern, non-territorial forms
+
+The classical image of secession is territorial: a province raises a new flag. The wiki's cypherpunk and information-age threads describe a subtler version in which exit goes partly *virtual*. [[jurisdictional-competition|Jurisdictional competition]] and the [[the-cybereconomy|cybereconomy]] let capital and work relocate across borders without anyone physically moving; [[seasteading-and-network-states|seasteading and network states]] propose new polities on the ocean or online rather than by carving up existing land; and the [[the-sovereign-individual|Sovereign Individual]] thesis treats individual jurisdictional arbitrage — choosing where to bank, reside, and be taxed — as a kind of one-person secession the information age makes cheap.
+
+## Where it is contested
+
+Secession carries historical baggage: in the United States it is bound to the Confederacy and the defense of slavery, and elsewhere to ethnic partition and its violence. The libertarian reply is that the *principle* is neutral on what one secedes toward — a right to leave is not an endorsement of the seceding party's aims, and the same principle that would have let a slave secede from a master is the one the Confederacy abused. The sharper objection is the regress itself: a right of secession with no natural stopping point seems to dissolve every political unit into individuals, which critics read as a reductio. Libertarians tend to read it instead as the honest conclusion — that legitimate association is voluntary all the way down. The wiki holds the concept at *medium* confidence: the exit-disciplines-states logic is strong, while the claim that unlimited secession is workable at scale is genuinely open.
+
+## Place in This Wiki
+
+Secession is the political-institutional face of the wiki's recurring theme that *exit beats voice*. It connects the abstract case for [[market-anarchism-and-private-law|competing private-law jurisdictions]] to concrete proposals for [[seasteading-and-network-states|new polities]], and it is the mechanism by which [[jurisdictional-competition|jurisdictional competition]] is supposed to grow. It sits beside [[minarchism|minarchism]] as one of the wiki's answers to the question of how liberty is institutionally secured — not by capturing the state but by making it leaveable.
+
+## See Also
+
+- [[jurisdictional-competition|Jurisdictional Competition]] - the mechanism secession sharpens: exit-able jurisdictions disciplining states
+- [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - the small-states / decentralization argument for secession
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's case for secession as the path from democracy to natural order
+- [[seasteading-and-network-states|Seasteading and Network States]] - the modern non-territorial forms of exit
+- [[the-sovereign-individual|The Sovereign Individual]] - individual jurisdictional arbitrage as one-person secession
+- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - where the secession regress ends: voluntary association all the way down
+- [[minarchism|Minarchism]] - the rival answer to how liberty is institutionally secured
 
 ---
 
@@ -11948,6 +11996,7 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
+- [[secession|Secession]]
 
 ## Sources
 
@@ -12836,6 +12885,7 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[open-borders|Open Borders]] - Walter Block's non-aggression-axiom case that peaceful migration is not aggression, so that immigration restriction is the coercive act — the libertarian counter to forced integration.
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
+- [[secession|Secession]]
 
 ## Sources
 
@@ -16914,6 +16964,7 @@ Confidence is medium: the book can be summarized faithfully and directly from th
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 - [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
+- [[secession|Secession]]
 
 ## Sources
 

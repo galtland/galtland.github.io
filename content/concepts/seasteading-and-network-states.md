@@ -53,6 +53,7 @@ In the texts themselves, both are put forward as programs to be built rather tha
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - exit by routing around the state where you stand, rather than founding a new jurisdiction
 - [[self-custody|Self-Custody]] - the economic sovereignty a network state depends on before it has territory
 - [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
+- [[secession|Secession]]
 
 ## Sources
 

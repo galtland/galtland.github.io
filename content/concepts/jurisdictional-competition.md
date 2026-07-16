@@ -53,6 +53,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 - [[john-perry-barlow|John Perry Barlow]]
+- [[secession|Secession]]
 
 ## Sources
 
