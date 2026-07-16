@@ -44,6 +44,16 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 
 [[max-hillebrand|Max Hillebrand]]'s [[the-praxeology-of-privacy|The Praxeology of Privacy]] extends this Austrian map into privacy and cypherpunk implementation. The book uses Mises's action axiom to frame privacy as a structural feature of action, uses Hoppe's property and argumentation-ethics line to make the normative case, and then treats cryptography, Bitcoin, anonymous networks, and zero-knowledge proofs as implementation domains. This is not a claim that classical Austrian economics already contained those technologies. It is a modern application of Austrian method to surveillance and resistant infrastructure.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[praxeology|Praxeology]] — the deductive, action-based method that sets the school apart.
+2. [[subjective-value-vs-the-labor-theory-of-value|Subjective Value]] — value as imputed by choosers, not embodied in goods — the marginalist core.
+3. [[economic-calculation-problem|The Economic Calculation Problem]] — why central planning cannot rationally allocate resources without market prices.
+4. [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] — how credit expansion below the natural rate produces the boom and its bust.
+5. [[hard-money|Hard Money]] — the sound-money conclusion the whole analysis points toward.
+
 ## See Also
 
 - [[ludwig-von-mises|Ludwig von Mises]] - founder of modern Austrian economics

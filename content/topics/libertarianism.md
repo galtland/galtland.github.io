@@ -48,6 +48,16 @@ Within that shared spine the corpus stages two live disagreements rather than a 
 
 The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner, Bastiat, de la Boetie, and the Tannehills, with Mises and Hayek now present as the classical-liberal precursors. This wiki's libertarian map therefore leans more anarcho-capitalist than minarchist, with a clearly visible classical-liberal wing as historical and analytical context. That is a property of the source set, not a claim that all libertarian traditions look the same. The strongest single entry point into the anarcho-capitalist position is [[for-a-new-liberty|For a New Liberty]]; the natural-rights moral case is fullest in [[the-ethics-of-liberty|The Ethics of Liberty]]; the classical-liberal alternative is set out in [[liberalism|Liberalism]] and [[road-to-serfdom|The Road to Serfdom]]. [[murray-n-rothbard|Murray N. Rothbard]] remains the central author node integrating ethics, economics, and strategy.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[nonaggression-and-property-rights|Nonaggression and Property Rights]] — the ethical foundation: self-ownership and the non-aggression principle.
+2. [[political-means-and-economic-means|Political Means and Economic Means]] — production versus appropriation — the frame for judging the state.
+3. [[state-power-and-intervention|State Power and Intervention]] — how state coercion works and why interventions misfire.
+4. [[market-anarchism-and-private-law|Market Anarchism and Private Law]] — the constructive alternative: law and defense supplied without a state.
+5. [[libertarian-family|The Libertarian Family]] — how the varieties — ancap, minarchist, mutualist, Georgist — differ.
+
 ## See Also
 
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline of the current corpus

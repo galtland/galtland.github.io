@@ -40,6 +40,16 @@ The wiki's distinctive claim is that the arc closes: [[bitcoin|Bitcoin]] is read
 
 The monetary canon behind this hub: Mises's [[the-theory-of-money-and-credit|The Theory of Money and Credit]] (1912) and [[human-action|Human Action]]; Menger's [[principles-of-economics-menger|Principles of Economics]]; Rothbard's [[the-mystery-of-banking|The Mystery of Banking]] and [[americas-great-depression|America's Great Depression]]; Hayek's [[denationalisation-of-money|Denationalisation of Money]]; Salerno's [[money-sound-and-unsound|Money, Sound and Unsound]]; the Chicago counterpoint in Friedman's [[capitalism-and-freedom|Capitalism and Freedom]]; and [[saifedean-ammous|Saifedean Ammous]]'s [[the-bitcoin-standard|The Bitcoin Standard]] and [[the-fiat-standard|The Fiat Standard]] for the gold-fiat-Bitcoin narrative.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[hard-money|Hard Money]] — money whose supply no one can expand at will.
+2. [[inflation|Inflation]] — what monetary expansion actually is, and whom it quietly robs.
+3. [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] — how elastic credit turns into boom and bust.
+4. [[federal-reserve|The Federal Reserve]] — the institution that makes the expansion permanent.
+5. [[bitcoin|Bitcoin]] — the fixed-supply digital answer to the whole problem.
+
 ## See Also
 
 - [[austrian-economics|Austrian Economics]] - the sibling hub supplying the method (praxeology, calculation, capital theory) this monetary thread applies

@@ -32,6 +32,16 @@ Rand's essays state the politics directly. [[capitalism-the-unknown-ideal|Capita
 
 Where does Rand sit relative to the rest of the corpus? On conclusions she is close: she defends [[capitalism|capitalism]], individual rights, and [[intellectual-property|intellectual property]] (which she considered the highest form of property), and she is a fierce anti-collectivist. On foundations she diverges: her ethical egoism is neither the [[nonaggression-and-property-rights|natural-rights]] derivation Rothbard uses nor the Austrian consequentialism of Mises. And on the state she is a [[minarchism|minarchist]], not an anarchist: she explicitly rejected competing private protection agencies, the position [[david-friedman|David Friedman]] answers directly in his market-anarchist model. That places her inside the how-far-to-shrink-the-state debate mapped in [[libertarianism|Libertarianism]] rather than at its anarchist pole. The calibration note is load-bearing here: the wiki reads Rand's economics as rhetorically forceful and often correct in its conclusions, but as *her* argument rather than as the corpus's Austrian analysis — the two agree on sound money and free markets while disagreeing on why.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[objectivism|Objectivism]] — Rand's philosophical system in overview.
+2. [[the-virtue-of-selfishness|The Virtue of Selfishness]] — the ethics of rational self-interest.
+3. [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] — the political economy of laissez-faire.
+4. [[atlas-shrugged|Atlas Shrugged]] — the novel that dramatizes the entire system.
+5. [[franciscos-money-speech|Francisco's Money Speech]] — its most famous set-piece, on the morality of money.
+
 ## See Also
 
 - [[objectivism|Objectivism]] - the system itself: metaphysics, epistemology, ethics, politics

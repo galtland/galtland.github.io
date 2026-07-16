@@ -36,6 +36,16 @@ Natural law is what makes the wiki's natural-rights branch a *moral* argument ra
 
 The canon also connects to economics. The [[school-of-salamanca|School of Salamanca]] — the sixteenth-century Spanish scholastics who extended the Thomist natural-law tradition — were simultaneously natural-rights theorists of consent and resistance and proto-Austrian economists of subjective value, just price, and money. They are the historical hinge where this hub meets [[money-and-banking|Money and Banking]] and [[austrian-economics|Austrian Economics]]: the same tradition that grounds rights also seeded the analysis of markets.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[natural-law-and-natural-order|Natural Law and Natural Order]] — the overview: the lineage from Aristotle to Rothbard.
+2. [[cicero-de-legibus|Cicero, De Legibus]] — the classical Roman root — true law as right reason in agreement with nature.
+3. [[aquinas-treatise-on-law|Aquinas, Treatise on Law]] — the medieval synthesis of reason, nature, and law.
+4. [[john-locke|John Locke]] — the modern turn: property by labour and government by consent.
+5. [[nonaggression-and-property-rights|Nonaggression and Property Rights]] — the libertarian payoff of the whole tradition.
+
 ## See Also
 
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the synthesis concept mapping the whole lineage

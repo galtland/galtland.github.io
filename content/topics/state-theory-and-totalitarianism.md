@@ -40,6 +40,16 @@ The wiki's own account treats the state as a standing exception to the rules tha
 
 These traditions sit *beside* libertarian doctrine, not inside it. Schmitt, Foucault, Arendt, and Tilly reach no libertarian conclusion, and their reform politics should not be imported wholesale. What they provide is external pressure on the state: sovereignty can suspend its own rules and name enemies (Schmitt), power can discipline bodies and manage life as care (Foucault), war can forge and feed the state (Tilly), conquest can be its origin (Oppenheimer), and the whole apparatus can, under the right conditions, turn total (Arendt). The libertarian analysis in [[libertarianism|Libertarianism]] reads them as confirming from the outside what it argues from within.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[oppenheimer-on-conquest|Oppenheimer on Conquest]] — the origin of the state in conquest, not contract.
+2. [[political-means-and-economic-means|Political Means and Economic Means]] — appropriation versus production — the state's essence.
+3. [[evolution-of-the-state|Evolution of the State]] — how the conquest origin is refined into modern institutions.
+4. [[tilly-on-protection-rackets|Tilly on Protection Rackets]] — the convergent war-making-as-organized-crime account.
+5. [[banality-of-evil|The Banality of Evil]] — where unchecked state power ends — Arendt on totalitarian domination.
+
 ## See Also
 
 - [[state-power-and-intervention|State Power and Intervention]] - the main libertarian state-power article

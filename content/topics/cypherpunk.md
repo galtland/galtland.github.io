@@ -46,6 +46,16 @@ This topic overlaps with [[privacy-and-cryptography|Privacy and Cryptography]] b
 
 This topic should not absorb every cryptographic or blockchain technology. The value here is in the cypherpunk-Austrian connection: how concrete cryptographic systems implement long-standing libertarian commitments to property, sound money, and resistance to coerced disclosure. Smart-contract-platform tutorials, altcoin economics, NFT history, and academic cryptography that does not bear on the political thesis belong elsewhere.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[crypto-anarchy|Crypto Anarchy]] — the founding thesis: strong cryptography shifts power to individuals.
+2. [[public-key-cryptography|Public-Key Cryptography]] — the primitive the whole movement is built on.
+3. [[censorship-resistance|Censorship Resistance]] — the property the tools are built to secure.
+4. [[bitcoin|Bitcoin]] — crypto-anarchy applied to money.
+5. [[the-cybereconomy|The Cybereconomy]] — the borderless economy the tools make possible.
+
 ## See Also
 
 - [[crypto-anarchy|Crypto Anarchy]] - Tim May's founding thesis

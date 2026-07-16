@@ -50,6 +50,16 @@ The extension should be kept honest. [[ludwig-von-mises|Mises]] did not write a 
 
 This topic should not become a grab bag of every cryptographic technology. The wiki value is in the Austrian-libertarian connection: privacy as action-theoretic structure, surveillance as intervention, cryptographic resistance as implementation, and sound money as a privacy-bearing institution. Low-level cryptographic tutorials, tool guides, and operational-security checklists belong only when they illuminate that theory-to-practice chain.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[public-key-cryptography|Public-Key Cryptography]] — the mathematical foundation of digital privacy.
+2. [[forward-secrecy|Forward Secrecy]] — how modern encrypted messaging protects even past conversations.
+3. [[financial-surveillance|Financial Surveillance]] — the regime privacy technology exists to answer.
+4. [[fungibility|Fungibility]] — why a transparent ledger threatens money's interchangeability.
+5. [[monero|Monero]] — default-private money as the concrete counter.
+
 ## See Also
 
 - [[praxeology-of-privacy|Praxeology of Privacy]] - theoretical core of the topic

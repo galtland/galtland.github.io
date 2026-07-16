@@ -19100,6 +19100,16 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 
 [[max-hillebrand|Max Hillebrand]]'s [[the-praxeology-of-privacy|The Praxeology of Privacy]] extends this Austrian map into privacy and cypherpunk implementation. The book uses Mises's action axiom to frame privacy as a structural feature of action, uses Hoppe's property and argumentation-ethics line to make the normative case, and then treats cryptography, Bitcoin, anonymous networks, and zero-knowledge proofs as implementation domains. This is not a claim that classical Austrian economics already contained those technologies. It is a modern application of Austrian method to surveillance and resistant infrastructure.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[praxeology|Praxeology]] — the deductive, action-based method that sets the school apart.
+2. [[subjective-value-vs-the-labor-theory-of-value|Subjective Value]] — value as imputed by choosers, not embodied in goods — the marginalist core.
+3. [[economic-calculation-problem|The Economic Calculation Problem]] — why central planning cannot rationally allocate resources without market prices.
+4. [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] — how credit expansion below the natural rate produces the boom and its bust.
+5. [[hard-money|Hard Money]] — the sound-money conclusion the whole analysis points toward.
+
 ## See Also
 
 - [[ludwig-von-mises|Ludwig von Mises]] - founder of modern Austrian economics
@@ -19238,6 +19248,16 @@ This topic overlaps with [[privacy-and-cryptography|Privacy and Cryptography]] b
 
 This topic should not absorb every cryptographic or blockchain technology. The value here is in the cypherpunk-Austrian connection: how concrete cryptographic systems implement long-standing libertarian commitments to property, sound money, and resistance to coerced disclosure. Smart-contract-platform tutorials, altcoin economics, NFT history, and academic cryptography that does not bear on the political thesis belong elsewhere.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[crypto-anarchy|Crypto Anarchy]] — the founding thesis: strong cryptography shifts power to individuals.
+2. [[public-key-cryptography|Public-Key Cryptography]] — the primitive the whole movement is built on.
+3. [[censorship-resistance|Censorship Resistance]] — the property the tools are built to secure.
+4. [[bitcoin|Bitcoin]] — crypto-anarchy applied to money.
+5. [[the-cybereconomy|The Cybereconomy]] — the borderless economy the tools make possible.
+
 ## See Also
 
 - [[crypto-anarchy|Crypto Anarchy]] - Tim May's founding thesis
@@ -19374,6 +19394,16 @@ Within that shared spine the corpus stages two live disagreements rather than a 
 
 The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner, Bastiat, de la Boetie, and the Tannehills, with Mises and Hayek now present as the classical-liberal precursors. This wiki's libertarian map therefore leans more anarcho-capitalist than minarchist, with a clearly visible classical-liberal wing as historical and analytical context. That is a property of the source set, not a claim that all libertarian traditions look the same. The strongest single entry point into the anarcho-capitalist position is [[for-a-new-liberty|For a New Liberty]]; the natural-rights moral case is fullest in [[the-ethics-of-liberty|The Ethics of Liberty]]; the classical-liberal alternative is set out in [[liberalism|Liberalism]] and [[road-to-serfdom|The Road to Serfdom]]. [[murray-n-rothbard|Murray N. Rothbard]] remains the central author node integrating ethics, economics, and strategy.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[nonaggression-and-property-rights|Nonaggression and Property Rights]] — the ethical foundation: self-ownership and the non-aggression principle.
+2. [[political-means-and-economic-means|Political Means and Economic Means]] — production versus appropriation — the frame for judging the state.
+3. [[state-power-and-intervention|State Power and Intervention]] — how state coercion works and why interventions misfire.
+4. [[market-anarchism-and-private-law|Market Anarchism and Private Law]] — the constructive alternative: law and defense supplied without a state.
+5. [[libertarian-family|The Libertarian Family]] — how the varieties — ancap, minarchist, mutualist, Georgist — differ.
+
 ## See Also
 
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline of the current corpus
@@ -19509,6 +19539,16 @@ The wiki's distinctive claim is that the arc closes: [[bitcoin|Bitcoin]] is read
 
 The monetary canon behind this hub: Mises's [[the-theory-of-money-and-credit|The Theory of Money and Credit]] (1912) and [[human-action|Human Action]]; Menger's [[principles-of-economics-menger|Principles of Economics]]; Rothbard's [[the-mystery-of-banking|The Mystery of Banking]] and [[americas-great-depression|America's Great Depression]]; Hayek's [[denationalisation-of-money|Denationalisation of Money]]; Salerno's [[money-sound-and-unsound|Money, Sound and Unsound]]; the Chicago counterpoint in Friedman's [[capitalism-and-freedom|Capitalism and Freedom]]; and [[saifedean-ammous|Saifedean Ammous]]'s [[the-bitcoin-standard|The Bitcoin Standard]] and [[the-fiat-standard|The Fiat Standard]] for the gold-fiat-Bitcoin narrative.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[hard-money|Hard Money]] — money whose supply no one can expand at will.
+2. [[inflation|Inflation]] — what monetary expansion actually is, and whom it quietly robs.
+3. [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] — how elastic credit turns into boom and bust.
+4. [[federal-reserve|The Federal Reserve]] — the institution that makes the expansion permanent.
+5. [[bitcoin|Bitcoin]] — the fixed-supply digital answer to the whole problem.
+
 ## See Also
 
 - [[austrian-economics|Austrian Economics]] - the sibling hub supplying the method (praxeology, calculation, capital theory) this monetary thread applies
@@ -19566,6 +19606,16 @@ Natural law is what makes the wiki's natural-rights branch a *moral* argument ra
 
 The canon also connects to economics. The [[school-of-salamanca|School of Salamanca]] — the sixteenth-century Spanish scholastics who extended the Thomist natural-law tradition — were simultaneously natural-rights theorists of consent and resistance and proto-Austrian economists of subjective value, just price, and money. They are the historical hinge where this hub meets [[money-and-banking|Money and Banking]] and [[austrian-economics|Austrian Economics]]: the same tradition that grounds rights also seeded the analysis of markets.
 
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[natural-law-and-natural-order|Natural Law and Natural Order]] — the overview: the lineage from Aristotle to Rothbard.
+2. [[cicero-de-legibus|Cicero, De Legibus]] — the classical Roman root — true law as right reason in agreement with nature.
+3. [[aquinas-treatise-on-law|Aquinas, Treatise on Law]] — the medieval synthesis of reason, nature, and law.
+4. [[john-locke|John Locke]] — the modern turn: property by labour and government by consent.
+5. [[nonaggression-and-property-rights|Nonaggression and Property Rights]] — the libertarian payoff of the whole tradition.
+
 ## See Also
 
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the synthesis concept mapping the whole lineage
@@ -19618,6 +19668,16 @@ Rand's essays state the politics directly. [[capitalism-the-unknown-ideal|Capita
 ## Rand and the Wiki's Core
 
 Where does Rand sit relative to the rest of the corpus? On conclusions she is close: she defends [[capitalism|capitalism]], individual rights, and [[intellectual-property|intellectual property]] (which she considered the highest form of property), and she is a fierce anti-collectivist. On foundations she diverges: her ethical egoism is neither the [[nonaggression-and-property-rights|natural-rights]] derivation Rothbard uses nor the Austrian consequentialism of Mises. And on the state she is a [[minarchism|minarchist]], not an anarchist: she explicitly rejected competing private protection agencies, the position [[david-friedman|David Friedman]] answers directly in his market-anarchist model. That places her inside the how-far-to-shrink-the-state debate mapped in [[libertarianism|Libertarianism]] rather than at its anarchist pole. The calibration note is load-bearing here: the wiki reads Rand's economics as rhetorically forceful and often correct in its conclusions, but as *her* argument rather than as the corpus's Austrian analysis — the two agree on sound money and free markets while disagreeing on why.
+
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[objectivism|Objectivism]] — Rand's philosophical system in overview.
+2. [[the-virtue-of-selfishness|The Virtue of Selfishness]] — the ethics of rational self-interest.
+3. [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] — the political economy of laissez-faire.
+4. [[atlas-shrugged|Atlas Shrugged]] — the novel that dramatizes the entire system.
+5. [[franciscos-money-speech|Francisco's Money Speech]] — its most famous set-piece, on the morality of money.
 
 ## See Also
 
@@ -19688,6 +19748,16 @@ The extension should be kept honest. [[ludwig-von-mises|Mises]] did not write a 
 ## Boundaries
 
 This topic should not become a grab bag of every cryptographic technology. The wiki value is in the Austrian-libertarian connection: privacy as action-theoretic structure, surveillance as intervention, cryptographic resistance as implementation, and sound money as a privacy-bearing institution. Low-level cryptographic tutorials, tool guides, and operational-security checklists belong only when they illuminate that theory-to-practice chain.
+
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[public-key-cryptography|Public-Key Cryptography]] — the mathematical foundation of digital privacy.
+2. [[forward-secrecy|Forward Secrecy]] — how modern encrypted messaging protects even past conversations.
+3. [[financial-surveillance|Financial Surveillance]] — the regime privacy technology exists to answer.
+4. [[fungibility|Fungibility]] — why a transparent ledger threatens money's interchangeability.
+5. [[monero|Monero]] — default-private money as the concrete counter.
 
 ## See Also
 
@@ -19878,6 +19948,16 @@ The wiki's own account treats the state as a standing exception to the rules tha
 ## How These Fit
 
 These traditions sit *beside* libertarian doctrine, not inside it. Schmitt, Foucault, Arendt, and Tilly reach no libertarian conclusion, and their reform politics should not be imported wholesale. What they provide is external pressure on the state: sovereignty can suspend its own rules and name enemies (Schmitt), power can discipline bodies and manage life as care (Foucault), war can forge and feed the state (Tilly), conquest can be its origin (Oppenheimer), and the whole apparatus can, under the right conditions, turn total (Arendt). The libertarian analysis in [[libertarianism|Libertarianism]] reads them as confirming from the outside what it argues from within.
+
+## Reading Path
+
+New to this hub? Read these five, in order:
+
+1. [[oppenheimer-on-conquest|Oppenheimer on Conquest]] — the origin of the state in conquest, not contract.
+2. [[political-means-and-economic-means|Political Means and Economic Means]] — appropriation versus production — the state's essence.
+3. [[evolution-of-the-state|Evolution of the State]] — how the conquest origin is refined into modern institutions.
+4. [[tilly-on-protection-rackets|Tilly on Protection Rackets]] — the convergent war-making-as-organized-crime account.
+5. [[banality-of-evil|The Banality of Evil]] — where unchecked state power ends — Arendt on totalitarian domination.
 
 ## See Also
 
