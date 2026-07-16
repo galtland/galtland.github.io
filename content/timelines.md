@@ -36,3 +36,16 @@ The cryptographic lineage that led to Bitcoin — from Chaum's blinded tokens th
 - **2009** — January: Satoshi releases the first Bitcoin software (v0.1), moving the design from paper to a running peer-to-peer network. ([Satoshi Nakamoto](/references/satoshi-nakamoto))
 - **2016** — Poon and Dryja's Lightning Network paper adds HTLC-routed payment channels, keeping Bitcoin's chain as settlement and dispute backstop while moving everyday payments off it. ([The Lightning Network Paper](/references/the-lightning-network-paper))
 
+## From the Gold Standard to Bitcoin
+
+The monetary arc the wiki's Austrian sources trace: money leaves political control under the classical gold standard, is dismantled in stages across the twentieth century into pure fiat, and is answered in the twenty-first by a fixed-supply digital money. Each entry links to the article that documents it.
+
+- **1870s** — The classical gold standard matures: major currencies are defined as fixed weights of gold, exchange rates are fixed by arithmetic, and trade imbalances correct automatically — money largely outside political control. ([The Gold Standard](/concepts/gold-standard))
+- **1913** — The United States adopts the Federal Reserve System — the last major nation to take up central banking — an outcome the wiki's Austrian sources trace to the secret 1910 Jekyll Island drafting session rather than the official lender-of-last-resort story. ([Federal Reserve](/concepts/federal-reserve))
+- **1929** — The Wall Street crash opens the Great Depression, which Rothbard reads as the unavoidable correction of the credit inflation the Fed engineered through the 1920s. ([Great Depression](/concepts/great-depression))
+- **1933** — Roosevelt bans private gold ownership, forcing Americans to sell to the Treasury at $20.67 an ounce, then revalues the dollar to $35 — a roughly 41% devaluation after the population had been stripped of the metal. ([The Gold Standard](/concepts/gold-standard))
+- **1944** — Bretton Woods builds a dollar-gold exchange standard: other currencies peg to the dollar and only the dollar is convertible to gold — and only for foreign central banks, with ordinary Americans still barred from owning it. ([The Gold Standard](/concepts/gold-standard))
+- **1971** — August 15: Nixon closes the gold window, ending dollar-gold convertibility — in effect a U.S. default on redeeming dollars in gold — and inaugurating the pure fiat era. ([The Fiat Standard](/references/the-fiat-standard))
+- **2008** — Satoshi Nakamoto's Bitcoin whitepaper proposes a fixed-supply, rule-based money that needs no central bank — advanced by its proponents as gold's contested digital heir. ([Bitcoin Whitepaper](/references/bitcoin-whitepaper))
+- **2009** — January: the Bitcoin network launches with Satoshi's v0.1 release — the first money since the classical gold standard with a fixed, apolitical issuance schedule. ([Satoshi Nakamoto](/references/satoshi-nakamoto))
+
