@@ -6,7 +6,7 @@ created: 2026-07-16
 updated: 2026-07-16
 verified: 2026-07-16
 confidence: high
-tags: [friedrich-hayek, constitution-of-liberty, classical-liberalism, rule-of-law, liberty, coercion, knowledge-problem, spontaneous-order, conservatism]
+tags: [hayek, constitution-of-liberty, classical-liberalism, rule-of-law, liberty, coercion, knowledge-problem, spontaneous-order, conservatism]
 aliases: [The Constitution of Liberty, Constitution of Liberty]
 summary: "F. A. Hayek's The Constitution of Liberty (1960) is his systematic statement of the classical-liberal philosophy of freedom. It defines liberty negatively, as the absence of arbitrary coercion by others rather than the presence of power or wealth; grounds the case for it not in any knowledge of how it will be used but precisely in our ignorance — freedom matters because no one can foresee which uses of it will prove valuable; and identifies the rule of law, general and prospective rules binding the state itself, as liberty's political form. The book then applies the principle across labour, money, taxation, housing, education, and the welfare state, and closes with the famous postscript 'Why I Am Not a Conservative,' distinguishing the liberal who faces an open future from the conservative who resists change as such. It is the mature counterpart to The Road to Serfdom in the wiki's Hayek cluster."
 short: "Hayek's 1960 statement of classical liberalism: liberty as the absence of arbitrary coercion, the case for freedom grounded in our ignorance, and the rule of law as its political form."
