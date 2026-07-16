@@ -55,6 +55,7 @@ The monetary canon behind this hub: Mises's [[the-theory-of-money-and-credit|The
 - [[libertarianism|Libertarianism]] - the political philosophy this monetary thread serves
 - [[privacy-and-cryptography|Privacy and Cryptography]]
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]]
+- [[mises-on-credit-expansion|Mises on Credit Expansion]]
 
 ## Sources
 
