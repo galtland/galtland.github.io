@@ -57,6 +57,7 @@ CBDCs are the newest instrument in the [[money-and-banking|money-and-banking]] h
 - [[money-and-banking|Money and Banking]] — the money hub CBDCs sit inside as the newest extraction instrument
 - [[parallel-economy|The Parallel Economy]] — the privacy stack built to route around programmable state money
 - [[surveillance-capitalism|Surveillance Capitalism]] — the corporate analogue of the same observation logic
+- [[biopower|Biopower]]
 
 ## Sources
 
