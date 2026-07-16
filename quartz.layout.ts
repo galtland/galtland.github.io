@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Source: "https://github.com/galtland/galtland.github.io",
       RSS: "/index.xml",
+      LLMs: "/llms-full.txt",
       "Colophon & License": "/concepts/colophon",
       Contact: "https://github.com/galtland/galtland.github.io/issues",
     },
