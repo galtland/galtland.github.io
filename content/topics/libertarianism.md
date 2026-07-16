@@ -125,6 +125,8 @@ The ingested books are heavy on Rothbard, [[hans-hermann-hoppe|Hoppe]], Spooner,
 - [[money-and-banking|Money and Banking]]
 - [[natural-law|Natural Law]]
 - [[objectivism-and-rand|Objectivism and Ayn Rand]]
+- [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
+
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - Rothbard's full-book overview of doctrine, applications, and strategy

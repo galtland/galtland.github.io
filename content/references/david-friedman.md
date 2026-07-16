@@ -63,6 +63,7 @@ David Friedman fills a structural gap. The corpus derives anarcho-capitalism alm
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the revolutionary-exit strategy his incrementalism is set against
 - [[stateless-somalia|Stateless Somalia]] - a real-world private-law order, the empirical companion to his model
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
+- [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 
 ## Sources
 

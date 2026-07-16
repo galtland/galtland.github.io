@@ -45,6 +45,7 @@ Georgism is the rare interventionist proposal that keeps recruiting from within 
 - [[political-means-and-economic-means|Political Means and Economic Means]] - the predation-vs-production frame that George applied to landlordism and Rothbard turned back on the tax
 - [[subjective-value-vs-the-labor-theory-of-value|Subjective Value vs. the Labor Theory of Value]] - why the Austrians deny that community-created value is anyone's to reclaim
 - [[power-and-market|Power and Market]] - Rothbard's chapter-length refutation of the single tax
+- [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 
 ## Sources
 

@@ -56,6 +56,7 @@ The tensions are equally real and worth stating. Objectivism is a closed philoso
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[galts-speech|Galt's Speech]] - The ~60-page radio address near the end of Atlas Shrugged — the complete, systematic statement of Rand's Objectivism and the novel's philosophical climax.
 - [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
+- [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 
 ## Sources
 
