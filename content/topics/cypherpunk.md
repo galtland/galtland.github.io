@@ -132,6 +132,7 @@ New to this hub? Read these five, in order:
 - [[martin-hellman|Martin Hellman]]
 - [[whitfield-diffie|Whitfield Diffie]]
 - [[electronic-frontier-foundation|Electronic Frontier Foundation]]
+- [[free-software|Free Software]]
 
 ## Sources
 

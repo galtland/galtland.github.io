@@ -86,6 +86,7 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 - [[whitfield-diffie|Whitfield Diffie]]
+- [[free-software|Free Software]]
 
 ## Sources
 

@@ -46,3 +46,4 @@ Peer-to-peer is the structural pattern beneath the entire cypherpunk-to-crypto a
 - [[proof-of-work|Proof of Work]] - how Bitcoin added decentralized scarcity to the P2P template
 - [[crypto-anarchy|Crypto Anarchy]] - the political program decentralization serves
 - [[the-cybereconomy|The Cybereconomy]] - the broader economy built on the same architecture
+- [[free-software|Free Software]]

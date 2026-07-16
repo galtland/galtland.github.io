@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (344 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (345 entries).
 
 ## #
 
@@ -134,6 +134,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Fractional-Reserve Banking and Free Banking](/concepts/fractional-reserve-banking)** — Fractional-reserve banking — lending out money depositors can demand back anytime — and the Austrian dispute over whether it's inherent fraud (Rothbard) or legitimate (the free bankers).
 - **[Francisco's Money Speech](/concepts/franciscos-money-speech)** — Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, with a gold-versus-fiat warning that aligns with Austrian sound-money even as its value theory differs.
 - **[Franz Oppenheimer](/references/franz-oppenheimer)** — German sociologist whose conquest theory of the state and political-versus-economic-means distinction fed into Nock, Rothbard, and later anti-statism.
+- **[Free Software](/concepts/free-software)** — The movement (Stallman/GNU) for users' freedom to run, study, modify, and share code, enforced by copyleft — and the auditability precondition for every trustless cypherpunk tool.
 - **[Free Trade and Comparative Advantage](/concepts/free-trade-and-comparative-advantage)** — The economic case for free trade: by comparative advantage, even a party worse at everything gains by specializing where relatively best — trade enriches both sides, protectionism destroys wealth.
 - **[Friend/Enemy Distinction](/concepts/friend-enemy-distinction)** — Schmitt's criterion of the political: the public distinction between friend and enemy as the highest-intensity form of association and dissociation.
 - **[Frédéric Bastiat](/references/frederic-bastiat)** — French classical-liberal economist and pamphleteer (1801–1850): a lucid, satirical expositor of free trade, and the originator of the seen-and-the-unseen and the broken-window fallacy.

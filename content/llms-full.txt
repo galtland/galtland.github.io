@@ -895,6 +895,7 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 **Further:** [[nick-szabo|Nick Szabo]] · [[wei-dai|Wei Dai]] · [[timothy-c-may|Tim May]] · [[public-key-cryptography|Public-Key Cryptography]] · [[hashcash|Hashcash]] · [[adam-back|Adam Back]] · [[hal-finney|Hal Finney]] · [[crypto-anarchy|Crypto Anarchy]] · [[ecash|eCash]] · [[shelling-out|Shelling Out]] · [[lightning-network|Lightning Network]] · [[coinjoin|CoinJoin]] · [[ideal-money|Ideal Money]] · [[carl-menger|Carl Menger]] · [[konrad-graf|Konrad Graf]] · [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] · [[deflation|Deflation]] · [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] · [[fungibility|Fungibility]] · [[monero|Monero]] · [[regression-theorem|The Regression Theorem]] · [[gold-standard|The Gold Standard]]
 - [[silk-road|Silk Road]]
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
+- [[free-software|Free Software]]
 
 ## Sources
 
@@ -1305,6 +1306,7 @@ Censorship resistance is a matter of *cost*, not an absolute, and its limits are
 - [[financial-surveillance|Financial Surveillance]]
 - [[silk-road|Silk Road]]
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
+- [[free-software|Free Software]]
 
 ## Sources
 
@@ -2102,6 +2104,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[silk-road|Silk Road]]
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 - [[martin-hellman|Martin Hellman]]
+- [[free-software|Free Software]]
 
 ## Sources
 
@@ -3100,6 +3103,46 @@ But the *grounding* differs, and the difference is worth stating. Francisco spea
 ## Sources
 
 - [Atlas Shrugged (Full Text Aggregate)](https://archive.org/details/atlas-shrugged-35th-anniversary-edition-ayn-rand) - Part Two, ch. 2 "The Aristocracy of Pull"; the full speech is preserved in the (private) raw and quoted here only in representative fair-use excerpts (non-official OCR scan; quote-check against an authorized edition)
+
+---
+
+## Free Software
+URL: /concepts/free-software
+Category: concept
+
+# Free Software
+
+> Free software is the principle that the people who use a program should be free to run, study, change, and share it — freedom as in liberty, not as in price. It is usually treated as a developers' ethic, but the wiki treats it as something more load-bearing: the precondition that makes trustless cryptographic tools possible at all.
+
+## The four freedoms
+
+The movement was launched by Richard Stallman, who founded the GNU project in 1983 and the Free Software Foundation in 1985 to build a complete operating system that users would be free to control. Its definition of *free* is a specific set of freedoms: to run the program for any purpose, to study how it works and change it (which requires access to the source code), to redistribute copies, and to distribute modified versions. Software that denies these — that ships only as an opaque binary the user may not inspect or alter — is, on this view, a means by which its author exercises power over its users. The claim is moral before it is technical: control over the software you depend on is a question of freedom.
+
+## Copyleft
+
+Free software's decisive invention is *copyleft*, embodied in the GNU General Public License (GPL). Ordinary copyright lets an author forbid copying and modification; copyleft uses that same legal power to guarantee the opposite. A copyleft licence grants everyone the four freedoms on one condition — that any derivative work be released under the same terms — so the freedom cannot be stripped out downstream by someone who takes the code, improves it, and closes it. It is copyright turned against itself, a licensing hack that propagates freedom virally through every fork. This is the counterpoint to the wiki's treatment of [[intellectual-property|intellectual property]]: where the libertarian IP debate asks whether ideas can be owned at all, copyleft is a pragmatic tool that works *within* copyright to enlarge the commons.
+
+## Free versus open source
+
+A later, milder framing — *open source* — describes the same practice of shared, modifiable code but justifies it pragmatically (better software, faster development) rather than as a matter of user freedom. The code is often the same; the disagreement is over *why* it matters. For the wiki's purposes the two converge on the property that counts: the source is available to be read and rebuilt by anyone.
+
+## The cypherpunk precondition
+
+This is where free software stops being a programmers' preference and becomes structural. A privacy tool, an encryption library, or a money protocol that you cannot inspect is one you must simply *trust* — trust that it has no backdoor, leaks no keys, and does what it claims. That is exactly the trust the cypherpunk program refuses: it is the software instance of [[trusted-third-parties-as-security-holes|trusted third parties as security holes]]. Open source converts that trust into *verification*: the code can be audited by anyone, compiled reproducibly, and checked against its claims. The [[bitcoin|Bitcoin]] maxim *don’t trust, verify* applies to the software as much as to the ledger. It is no accident that every load-bearing tool in the wiki's [[cypherpunk|cypherpunk]] canon — PGP, Tor, the [[public-key-cryptography|public-key]] messaging stacks, Bitcoin, [[monero|Monero]] — is free and open source. Auditability *is* the security model, and free software is what makes it available.
+
+## Place in This Wiki
+
+Free software sits beneath the wiki's [[cypherpunk|cypherpunk]] and [[peer-to-peer|peer-to-peer]] threads as an enabling ethic rather than a headline. The movement's insistence that users control their tools is the same commitment, in the domain of code, that the wiki makes about money and speech: that the systems people depend on should not be black boxes controlled by someone else. It is the software precondition for [[censorship-resistance|censorship resistance]] and for [[crypto-anarchy|crypto anarchy]].
+
+## See Also
+
+- [[cypherpunk|Cypherpunk]] - the movement free software is a precondition of
+- [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - why an un-inspectable tool is a trust hole
+- [[bitcoin|Bitcoin]] - *don’t trust, verify* applied to open-source money
+- [[intellectual-property|Intellectual Property]] - the libertarian IP debate copyleft works within
+- [[censorship-resistance|Censorship Resistance]] - the property open, auditable code underwrites
+- [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]] - the architecture that pairs with open code
+- [[crypto-anarchy|Crypto Anarchy]] - the political program open tools serve
 
 ---
 
@@ -4226,6 +4269,7 @@ The content/media distinction is the hinge of two other articles:
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's property theory and his contract-based treatment of copyright
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - ch. 6 presents the Kinsella anti-IP framework used here
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
+- [[free-software|Free Software]]
 
 ## Sources
 
@@ -6344,6 +6388,7 @@ Peer-to-peer is the structural pattern beneath the entire cypherpunk-to-crypto a
 - [[proof-of-work|Proof of Work]] - how Bitcoin added decentralized scarcity to the P2P template
 - [[crypto-anarchy|Crypto Anarchy]] - the political program decentralization serves
 - [[the-cybereconomy|The Cybereconomy]] - the broader economy built on the same architecture
+- [[free-software|Free Software]]
 
 ---
 
@@ -9800,6 +9845,7 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 - [[whitfield-diffie|Whitfield Diffie]]
+- [[free-software|Free Software]]
 
 ## Sources
 
@@ -19452,6 +19498,7 @@ New to this hub? Read these five, in order:
 - [[martin-hellman|Martin Hellman]]
 - [[whitfield-diffie|Whitfield Diffie]]
 - [[electronic-frontier-foundation|Electronic Frontier Foundation]]
+- [[free-software|Free Software]]
 
 ## Sources
 

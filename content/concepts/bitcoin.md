@@ -135,6 +135,7 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 **Further:** [[nick-szabo|Nick Szabo]] · [[wei-dai|Wei Dai]] · [[timothy-c-may|Tim May]] · [[public-key-cryptography|Public-Key Cryptography]] · [[hashcash|Hashcash]] · [[adam-back|Adam Back]] · [[hal-finney|Hal Finney]] · [[crypto-anarchy|Crypto Anarchy]] · [[ecash|eCash]] · [[shelling-out|Shelling Out]] · [[lightning-network|Lightning Network]] · [[coinjoin|CoinJoin]] · [[ideal-money|Ideal Money]] · [[carl-menger|Carl Menger]] · [[konrad-graf|Konrad Graf]] · [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] · [[deflation|Deflation]] · [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] · [[fungibility|Fungibility]] · [[monero|Monero]] · [[regression-theorem|The Regression Theorem]] · [[gold-standard|The Gold Standard]]
 - [[silk-road|Silk Road]]
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
+- [[free-software|Free Software]]
 
 ## Sources
 

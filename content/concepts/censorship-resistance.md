@@ -56,6 +56,7 @@ Censorship resistance is a matter of *cost*, not an absolute, and its limits are
 - [[financial-surveillance|Financial Surveillance]]
 - [[silk-road|Silk Road]]
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
+- [[free-software|Free Software]]
 
 ## Sources
 

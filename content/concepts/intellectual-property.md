@@ -53,6 +53,7 @@ The content/media distinction is the hinge of two other articles:
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's property theory and his contract-based treatment of copyright
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - ch. 6 presents the Kinsella anti-IP framework used here
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
+- [[free-software|Free Software]]
 
 ## Sources
 
