@@ -106,6 +106,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 - [[money-and-banking|Money and Banking]]
 - [[henry-hazlitt|Henry Hazlitt]]
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 

@@ -141,6 +141,7 @@ In the history of economic thought the displacement was decisive: after the 1870
 - [[georgism|Georgism and the Land-Value Tax]] - Henry George's proposal to fund government by a single tax on the unimproved value of land — and the Austro-libertarian critique that land is legitimately owned, speculation is useful
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 

@@ -43,6 +43,7 @@ This is the headline text of the Chicago counterpoint in [[austrian-economics-vs
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 

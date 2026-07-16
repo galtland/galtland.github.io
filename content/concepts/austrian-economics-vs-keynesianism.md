@@ -161,6 +161,7 @@ The contrast supplies the macro-political content of the wiki's monetary argumen
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 

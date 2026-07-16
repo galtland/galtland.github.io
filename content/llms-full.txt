@@ -312,6 +312,7 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
 - [[money-and-banking|Money and Banking]] - The wiki's money hub: the Austrian theory of money from Menger and Mises through sound money, banking and the business cycle, the fiat system and CBDCs, to Bitcoin as digital hard money.
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 
@@ -475,6 +476,7 @@ The contrast supplies the macro-political content of the wiki's monetary argumen
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 
@@ -637,6 +639,7 @@ The Chicago School is a principal free-market rival to the Austrian program, so 
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 
@@ -6443,6 +6446,7 @@ Both are modern *applications* rather than claims Mises himself made: the wiki t
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 
@@ -7799,6 +7803,56 @@ The Salamancans are the wiki's clearest single bridge between its [[natural-law-
 
 ---
 
+## Schools of Economics: Austrian, Chicago, Keynesian, Public Choice
+URL: /concepts/schools-of-economics
+Category: concept
+
+# Schools of Economics: Austrian, Chicago, Keynesian, Public Choice
+
+> This page sets the four schools of economics the wiki argues among side by side. They are not four answers to one question but four different ideas of what economics *is* — a deductive science of human action, an empirical predictive discipline, a theory of aggregate demand, or the economic study of politics itself. The sharpest disagreements are over **method** and over **money and the business cycle**.
+
+| | **Austrian** | **Chicago** | **Keynesian** | **Public Choice** |
+|---|---|---|---|---|
+| **Method** | Deductive, a priori (praxeology); laws derived from the action axiom, not tested statistically | Positive, empirical — theory judged by predictive success (Friedman's methodology) | Aggregate, empirical macro modeling; measured relationships between totals | Rational-choice method applied to *politics* — voters, bureaucrats, and legislators as self-interested maximizers |
+| **Theory of value** | Subjective and marginal | Subjective and marginal (neoclassical price theory) | Neoclassical microeconomics, but macro a separate domain | Methodological individualism carried into collective decisions |
+| **Money & the business cycle** | Credit expansion below the natural rate causes malinvestment; the bust is the correction (ABCT) | Monetarism: booms and slumps track the money supply; a stable monetary rule prevents them | Slumps are demand-deficiency; the economy can settle at underemployment equilibrium | The political incentives behind money — the temptation to inflate before elections |
+| **Proper role of government** | Minimal to none; many Austrians are market anarchists | Limited government under *rules over discretion*; correct a few well-defined market failures | Active demand management; a substantial stabilizing role for fiscal and monetary policy | Small, because *government* fails — political actors serve concentrated interests |
+| **Response to a recession** | Let the malinvestment liquidate; no bailouts, no stimulus | Keep money growth stable and predictable; avoid the contraction that deepens slumps | Deficit spending and lower rates to close the demand gap | Warns that stimulus reliably channels resources to organized interests |
+| **Key figures** | Menger, Mises, Hayek, Rothbard | Friedman, Stigler, Becker | Keynes, Samuelson, Hicks | Buchanan, Tullock |
+
+## The method divide
+
+The deepest split is not over any policy but over what kind of knowledge economics is. The Austrian school treats it as a **deductive** science: from the fact that people act — choose means to attain ends — the core theorems follow with the certainty of logic, not as empirical regularities that data might overturn (this is the claim of [[praxeology|praxeology]]). The Chicago school takes the opposite stance: economics is a **positive** science whose theories earn their keep by predicting, and a model's realism matters less than its forecasts. Keynesianism builds **empirical macro** models of aggregates — output, employment, the price level — and reads their measured relationships. Public choice is a method more than a doctrine: it carries the economist's assumption of self-interested rational action across the boundary into *politics*, and asks what voters, legislators, and bureaucrats will actually do.
+
+## Money and the business cycle
+
+If the method divide is the deepest, the business-cycle divide is the loudest, because here three schools give three incompatible diagnoses of the *same* recession. For the Austrian, the boom is the disease: credit expansion pushes the interest rate below the level voluntary saving would set, entrepreneurs over-invest in long-horizon projects the real savings cannot complete, and the bust is the unavoidable correction of that malinvestment — so the cure is to stop the expansion and let liquidation run, not to re-stimulate. For the Chicago monetarist, the cycle tracks the **money supply**: a sharp monetary contraction turns a downturn into a depression, and the remedy is a steady, rule-bound rate of money growth. For the Keynesian, a slump is a shortfall of **aggregate demand** that can persist, and the remedy is to fill the gap with deficit spending and cheaper credit. The wiki develops the Austrian side of these disputes in [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] and [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]].
+
+## Two free-market schools, one fault line
+
+Austrian and Chicago economists are usually allies in public debate — both defend markets, prices, and free trade against central planning. But they divide on method and on money. Chicago's [[milton-friedman|Milton Friedman]] wanted the state *out* of most of the economy yet kept it firmly in charge of the money supply, disciplined by a fixed growth rule; the Austrian answer is that managing money at all is the disease, and that the discretion a rule is meant to constrain should be abolished, not tuned. [[capitalism-and-freedom|Capitalism and Freedom]] is the compact statement of the Chicago program the Austrians answer.
+
+## The antagonist and the ally
+
+Keynesianism is the wiki's principal antagonist: its claim that a market economy can get stuck below full employment and needs the state to spend it back to health is exactly what the Austrian cycle theory denies. Public choice, by contrast, is an **ally** — not because it shares the Austrian method, but because it dismantles the assumption most interventionist arguments rest on. Where the Keynesian model quietly treats government as a benevolent corrector standing outside the economy, public choice insists that legislators and bureaucrats are ordinary self-interested actors, so *market failure* is no argument for state action until you have shown the political remedy will not fail worse. That converges with the Austrian and [[oppenheimer-on-conquest|conquest-theory]] picture of the state as an interested party, not a referee.
+
+## Where the wiki stands
+
+The wiki argues from the Austrian school — its economics articles are deductions in the praxeological style rather than empirical estimates — while treating the others fairly: Chicago as the free-market rival that gets money wrong, Keynesianism as the antagonist to answer on method, and public choice as the discipline that keeps everyone honest about what governments actually do.
+
+## See Also
+
+- [[austrian-economics|Austrian Economics]] - the wiki's home school and the hub for this comparison
+- [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - the business-cycle argument with the principal antagonist
+- [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - the money fault line between the two free-market schools
+- [[praxeology|Praxeology]] - the deductive method that sets the Austrian school apart
+- [[subjective-value-vs-the-labor-theory-of-value|Subjective Value vs the Labor Theory of Value]] - the value theory the neoclassical schools share
+- [[milton-friedman|Milton Friedman]] - the central Chicago figure
+- [[capitalism-and-freedom|Capitalism and Freedom]] - the Chicago program in brief
+- [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the Austrian diagnosis of boom and bust
+
+---
+
 ## Seasteading and Network States
 URL: /concepts/seasteading-and-network-states
 Category: concept
@@ -8702,6 +8756,7 @@ In the history of economic thought the displacement was decisive: after the 1870
 - [[georgism|Georgism and the Land-Value Tax]] - Henry George's proposal to fund government by a single tax on the unimproved value of land — and the Austro-libertarian critique that land is legitimately owned, speculation is useful
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 
@@ -11040,6 +11095,7 @@ This is the headline text of the Chicago counterpoint in [[austrian-economics-vs
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 
@@ -13794,6 +13850,7 @@ Confidence is medium. The substance of Friedman's monetary and classical-liberal
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 
@@ -18512,6 +18569,7 @@ The Austrian conclusions are repeatedly relied on by the wiki's libertarian poli
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 - [[money-and-banking|Money and Banking]]
 - [[henry-hazlitt|Henry Hazlitt]]
+- [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 ## Sources
 
