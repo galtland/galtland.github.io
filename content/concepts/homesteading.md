@@ -54,6 +54,8 @@ Homesteading is the foundation the rest of the structure rests on. Self-ownershi
 - [[georgism|Georgism and the Land-Value Tax]] - Henry George's proposal to fund government by a single tax on the unimproved value of land — and the Austro-libertarian critique that land is legitimately owned, speculation is useful
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - why first-use title needs no sovereign — the reply to the claim that private property requires the state
+
 ## Sources
 
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's first-use-first-own, the Crusoe analysis, and the theory of valid and invalid land titles

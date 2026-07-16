@@ -109,6 +109,8 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[financial-surveillance|Financial Surveillance]]
 - [[taxation|Taxation]]
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - uses this distinction to answer the communist claim that private property requires the state
+
 ## Sources
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - original political/economic means distinction and state definition

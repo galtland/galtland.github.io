@@ -48,6 +48,8 @@ For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the cou
 - [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - Molinari's market-supplied enforcement as the reply to the claim that private property requires the state
+
 ## Sources
 
 - [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - full Mises Institute 2009 PDF as a wiki-ingestable aggregate

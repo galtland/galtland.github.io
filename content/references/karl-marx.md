@@ -35,6 +35,8 @@ Marx is the wiki's reference foil for the Austrian theory of value. The [[carl-m
 - [[carl-menger|Carl Menger]] - founder of the subjective-value tradition that displaced the labor theory
 - [[principles-of-economics-menger|Principles of Economics (Menger)]] - Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, never a property inherent in the good
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - Marx's property-as-social-relation critique of private property, stated and answered
+
 ## Sources
 
 - [Capital, Volume I — Chapter 1: Commodities (Full Text)](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm) - Marx's own statement of the labor theory of value: use-value vs. value, abstract human labour, socially necessary labour-time

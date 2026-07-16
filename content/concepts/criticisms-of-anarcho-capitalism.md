@@ -72,6 +72,8 @@ None of these objections is decisively refuted, and none decisively refutes the 
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the prior, conceptual objection — that property is constituted by state violence — answered before these empirical ones
+
 ## Sources
 
 - **Anarchy, State, and Utopia (Full Text Aggregate)** - Nozick's invisible-hand derivation of the minimal state from anarchy, the dominant protective agency, and the case that it violates no rights

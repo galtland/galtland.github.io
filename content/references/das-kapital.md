@@ -36,6 +36,8 @@ On this base the later argument is built: labour-power becomes a commodity, and 
 - [[principles-of-economics-menger|Principles of Economics]] - Menger's founding statement of the rival subjective theory
 - [[eugen-von-bohm-bawerk|Eugen von Böhm-Bawerk]] - the Austrian critic of Marxian value theory
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the capitalist-property-relations analysis engaged by the reply to the claim that property requires the state
+
 ## Sources
 
 - [Capital, Volume I — Chapter 1: Commodities (Full Text)](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm) - the chapter summarized here: use-value vs. value, abstract human labour, socially necessary labour-time, the form of value, commodity fetishism

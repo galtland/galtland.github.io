@@ -56,6 +56,8 @@ The internal debate is unresolved and genuinely interesting. Mutualists press th
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the communist/social-anarchist claim that private property is a creature of the state, answered — enforcement is not the state, and the premise would abolish occupancy-and-use too
+
 ## Sources
 
 - [Natural Law; or The Science of Justice (Full Text)](https://en.wikisource.org/wiki/Natural_Law;_or_The_Science_of_Justice) - Spooner's natural-law anarchism and his verdict on legislation beyond justice as "an intrusion, an absurdity, an usurpation, and a crime"

@@ -56,6 +56,8 @@ Self-ownership is powerful precisely because so much rides on one premise, which
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the axiom used to show property is prior to the state, not its creature
+
 ## Sources
 
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's derivation of the property order from self-ownership plus homesteading, and Hoppe's summary of the principle

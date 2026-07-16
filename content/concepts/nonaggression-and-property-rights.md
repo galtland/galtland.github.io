@@ -108,6 +108,8 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the objection that property is nothing but a state-enforced entitlement, stated at full strength and answered
+
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - states and applies the anti-aggression axiom across many domains

@@ -45,6 +45,8 @@ The current raw source is the Mises Institute's PDF edition (600 pages), extract
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis grounded in the 1922 calculation framework this book opens
 - [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the calculation argument invoked as the reply that holds whoever enforces property
+
 ## Sources
 
 - [Socialism: An Economic and Sociological Analysis (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - full PDF as a wiki-ingestable aggregate

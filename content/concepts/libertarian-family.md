@@ -53,3 +53,4 @@ The wiki argues from the [[market-anarchism-and-private-law|anarcho-capitalist]]
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the Lockean property premise the family splits over
 - [[objectivism|Objectivism]] - the Randian route to minarchism
 - [[david-friedman|David Friedman]] - the consequentialist anarcho-capitalist
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the anarcho-capitalist/mutualist split the unresolved land question runs through

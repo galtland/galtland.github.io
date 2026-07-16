@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (346 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (347 entries).
 
 ## #
 
@@ -103,6 +103,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Disciplinary Power](/concepts/disciplinary-power)** — Foucault's concept of power that trains bodies through surveillance, partitioning, examination, and normalization within institutions.
 - **[Discipline and Punish](/references/discipline-and-punish)** — Foucault's account of disciplinary power - surveillance, examination, docile bodies, panopticism - as the modern prison's true technology of control.
 - **[Distributive Justice](/concepts/distributive-justice)** — How should wealth be shared? Rawls's 'justice as fairness' versus Nozick's entitlement theory — libertarian property's strongest challenge, with the reply that patterned ideals must override liberty.
+- **[Does Private Property Require the State?](/concepts/does-private-property-require-the-state)** — The communist claim that property is a creature of state violence — so true anarchy and private property are incompatible — stated fairly and answered: enforcement is not the state, and the premise would abolish communal possession too.
 
 ## E
 

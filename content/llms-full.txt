@@ -1185,6 +1185,8 @@ There is also an internal libertarian dispute the entry does not resolve: whethe
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - answers the communist claim that capitalist property presupposes the state
+
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - Mises's definition of the market economy, the sovereignty of the consumers, and production for profit as production for use
@@ -1920,6 +1922,8 @@ None of these objections is decisively refuted, and none decisively refutes the 
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the prior, conceptual objection — that property is constituted by state violence — answered before these empirical ones
+
 ## Sources
 
 - **Anarchy, State, and Utopia (Full Text Aggregate)** - Nozick's invisible-hand derivation of the minimal state from anarchy, the dominant protective agency, and the case that it violates no rights
@@ -2004,6 +2008,8 @@ There is also a genuine boundary problem: in a heavily regulated economy almost 
 - [[ragnar-danneskjold|Ragnar Danneskjöld]] - Rand's philosopher-pirate in Atlas Shrugged and his deliberate inversion of the Robin Hood myth — an attack on the idea that need, not achievement, is the source of rights.
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 - [[james-buchanan|James Buchanan]]
+
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the state-shaped property the communist critique rightly targets, conceded and distinguished from property as such
 
 ## Sources
 
@@ -2411,6 +2417,94 @@ From the egalitarian side, the strongest replies are that the veil of ignorance 
 
 ---
 
+## Does Private Property Require the State?
+URL: /concepts/does-private-property-require-the-state
+Category: concept
+
+# Does Private Property Require the State?
+
+> A recurring objection from communists and social anarchists is that private property is not a fact of nature but a legal relation manufactured and enforced by the state's police, courts, and title registries. Strip the state away and the deed becomes a scrap of paper; possession reverts to whoever actually holds and works the thing. On this view a genuinely stateless order cannot sustain capitalist property, *anarcho-capitalism* is a contradiction in terms, and the property owner is just a private state. The argument is stronger than libertarians usually admit — and it fails at a precise point: it conflates *enforcement of a property rule* with *the state*, and its premise, taken seriously, would abolish the communist's own possession-rights along with everyone else's.
+
+## The argument, at full strength
+
+The claim is not merely that property is *protected* by states; it is that property is *constituted* by them — that ownership is nothing but a bundle of legally enforced entitlements that would evaporate without the coercive apparatus behind it. It comes in a Marxist and an anarchist register, and the two reinforce each other.
+
+In the Marxist register, running from [[karl-marx|Karl Marx]] and [[das-kapital|Capital]], property is treated as a historically specific *social relation* rather than a fact of nature — Marx's analysis of commodity fetishism turns precisely on how a social relation between producers comes to look like an objective property of things. Applied to the means of production, private ownership is a legal power to exclude others and to draw income from title; and, the communist argues, that power is effective only because a coercive apparatus stands behind it — remove the state that validates the deed and evicts the non-owner, and the arrangement it protects loses its footing. The communist program accordingly joins the abolition of private property to the disappearance of the state, as two aspects of one transformation.
+
+The anarchist register is sharper still, because it shares the libertarian's own premise — no state — and turns it against him. Pierre-Joseph Proudhon, a founding figure of the [[mutualism|mutualist and individualist-anarchist]] tradition (alongside Josiah Warren in America), gave it the founding slogan — *property is robbery* — which in the mutualist reading indicts not the peasant's cottage but the proprietor's claim to income from land and capital he does not work. Benjamin Tucker made the point operational: legitimate land title should rest on *occupancy and use*, so that absentee landlordism survives only because the state enforces titles to land the claimant does not himself occupy and work. The distinction the argument turns on — between the *possession* of what one actually uses, which needs no state, and *property* in the absentee, income-drawing sense, which needs one to collect the rent and evict the user — is the crux. In its contemporary form, this becomes the social-anarchist charge that **anarcho-capitalism is not anarchism at all**: it would abolish the *public* state while preserving the private mini-states — owners wielding the recognized right to command, exclude, and extract on their turf — so it has not abolished the state, only parcelled it out. True anarchy and capitalist private property, the critic concludes, are incompatible.
+
+Stated this carefully, the objection is a serious one, and answering it by simply re-asserting that property is a natural right begs exactly the question at issue.
+
+## What the argument gets right
+
+A great deal — and libertarians who wave it away lose the thread. Much of the property that actually exists *is* state-shaped, its pedigree running back through conquest, enclosure, colonial land grants, chartered monopoly, and today's [[crony-capitalism|crony-capitalist]] nexus of subsidy, bailout, licensing, and central-bank finance. The critic is right that these holdings are creatures of the political order and would not survive its withdrawal in their present shape.
+
+The striking thing is that the Austro-libertarian tradition says so too. In [[the-ethics-of-liberty|The Ethics of Liberty]], [[murray-n-rothbard|Murray Rothbard]] makes legitimacy turn on use, not decree:
+
+> One form of invalid land title, then, is any claim to land that has never been put into use.
+>
+> — [[murray-n-rothbard|Murray N. Rothbard]], [[the-ethics-of-liberty|The Ethics of Liberty]]
+
+A title backed only by a sovereign's say-so, or by continuing conquest, is on his own account no title at all — which is why Rothbard can pronounce swaths of historical landholding illegitimate. So the libertarian and the communist agree about the target of much of the critique. What the libertarian denies is that the pathology of *state-conferred* property generalizes to property *as such*. The dispute narrows to a single question: is there a legitimate core of ownership — first use plus consenting transfer — that would both survive and be defensible once the state is gone?
+
+## Where it goes wrong: enforcement is not the state
+
+The decisive flaw is an equivocation on the word *state*. The argument slides from a true premise — that property rights, like all rights, are empty unless someone will *enforce* them against violators — to a false one: that this enforcer must be *the state*. But *the state* is not a synonym for *coercion* or *adjudication*. The state is a specific institution — the territorial monopoly on force. What sets it apart, in the vocabulary of [[franz-oppenheimer|Franz Oppenheimer]] — a social-democratic sociologist, not a libertarian — is that it lives by the [[political-means-and-economic-means|political means]], taxation and command, rather than by production and exchange; it is, in his phrase, "an organization of the political means." Defending a possession against a taker is not that. It can be done by self-help, by a community, by mutual-aid associations, or, as the [[market-anarchism-and-private-law|market-anarchist]] tradition argues, by competing firms selling protection and arbitration — Gustave de Molinari's [[the-production-of-security|The Production of Security]] is the founding case that defense is a good like any other, and [[private-security-and-insurance|private security and insurance]] the worked-out model. Enforcement without a monopoly is the whole content of the anarcho-capitalist proposal; asserting that enforcement *is* the state simply denies that proposal by definition instead of refuting it.
+
+And the premise, honestly applied, proves far too much. If a property rule counts as *requiring the state* merely because it must be enforced against those who would violate it, then the communist's own arrangement requires a state in exactly the same sense. Occupancy-and-use is a rule too: it says the commune may hold the tractor and the field it works, and that an outsider — or a former member — who tries to seize them may be stopped by force. Someone must adjudicate what counts as *use*, who is inside the collective, and what happens when two groups claim the same works; someone must exclude the taker. A norm that needs backing by force is not thereby a *state* — otherwise every conceivable social order, anarcho-communism included, is a state, and the word has been defined into meaninglessness. The sharper social anarchist grants this and refines the claim: it is not enforcement as such but the enforcement of *absentee, exclusionary* title — property in the second sense — that reintroduces something state-like. That is a better argument, but it no longer shows anarchy and property incompatible as such; it relocates the quarrel to *which* property rule a stateless order should enforce — the land question taken up below.
+
+## Property is prior to the state, not its creature
+
+The libertarian goes further and inverts the causal story. Property does not descend from the state; on the propertarian account it arises from [[self-ownership|self-ownership]] and [[homesteading|first use]] — an objective, visible act of transforming an unowned thing — and is transferred only by consent, all of which is intelligible with no sovereign in sight. [[hans-hermann-hoppe|Hans-Hermann Hoppe]] presses the point to its limit in [[argumentation-ethics|argumentation ethics]]: the very act of disputing property presupposes exclusive control of one's own body, so the norm is built into rational discourse rather than granted by legislation. On this reading, the whole of the [[nonaggression-and-property-rights|nonaggression-and-property]] framework is a moral grammar the state neither authors nor is needed to declare.
+
+History, on the tradition's telling, runs the critic's arrow backwards. In Oppenheimer's account the *economic means* — production and voluntary exchange — comes first and creates a stock of goods; the state appears afterward, as organized robbery of that stock, when the political means becomes stable and territorial. Property is what the state preys upon, not what it produces. The record the libertarian points to — taxation, conscription, eminent domain, enclosure by statute, the slow expropriation of savers through monetary inflation — is a record of the state *violating* property on a scale no private trespasser approaches. To identify property with the state is to mistake the parasite for the host.
+
+## The economic argument, independent of enforcement
+
+Even a critic who won the whole enforcement dispute would still face a separate wall. Suppose the means of production were held in common and the *who enforces it* problem solved to everyone's satisfaction. Without private ownership of capital there are no genuine exchanges of it, hence no prices for it, hence — this is [[ludwig-von-mises|Ludwig von Mises]]'s ([Ludwig von Mises](../references/ludwig-von-mises.md)) [[economic-calculation-problem|economic-calculation problem]], the argument of [[socialism|Socialism]] — no way to reckon whether a given use of steel and labor produces more value than it consumes. The choice is therefore not *state-backed capitalist property versus free communal possession*; it is property with the price signals it generates, which can be rationally administered, versus their abolition, which cannot — whoever holds the truncheon. And [[hans-hermann-hoppe|Hoppe]]'s [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] adds the incentive edge: socializing the returns to production degrades the very production the arrangement lives on.
+
+## Where it remains genuinely contested
+
+The conceptual claim — that *true anarchy and private property are incompatible* — does not survive; enforcement is not the state, and property is not the state's creature. But the objection has a live residue that the honest answer must keep open.
+
+- **The mutualist land question.** The internal anarchist critique is not settled by the reply above. Whether the *legitimate* core of property is Lockean (first use plus indefinite absentee title, rent and interest included) or narrower and use-bound (occupancy-and-use, no rentier claims) is a real and unresolved dispute — the same fault line as [[subjective-value-vs-the-labor-theory-of-value|subjective value versus the labor theory of value]] and the [[georgism|land-value]] debate, and it divides the [[libertarian-family|libertarian family]] itself. The mutualist may be right that an-cap absentee title, enforced against non-using claimants, needs an apparatus that starts to look state-like — without the communist being right that *all* property does.
+- **Does stateless enforcement scale?** The rebuttal shows property does not *conceptually* require a state; it does not show that competing protectors would not fight, collude into a de facto monopoly, or fail to supply large-scale defense. Those are the standing [[criticisms-of-anarcho-capitalism|criticisms of anarcho-capitalism]] — the public-goods, warlord, and invisible-hand objections — and the historical evidence is fragmentary. *Property can be enforced without a state* is a claim about possibility that the market-anarchist argues but has not decisively demonstrated at scale.
+
+So the communist's *conceptual* thesis is false: private property is not a mere emanation of state violence, the two are not analytically welded together, and a norm's needing enforcement does not make it a state. What is true, and worth conceding, is that much existing property is state-privileged (and condemned by libertarians on their own principles), and that whether the legitimate remainder can actually be defended without something re-congealing into a state is an empirical question still under argument. The incompatibility is asserted; it is not proven.
+
+## See Also
+
+- [[mutualism|Mutualism and Individualist Anarchism]] - the anti-state, anti-capitalist tradition (Proudhon, Tucker) that presses the sharpest form of this critique from inside anarchism
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - the empirical objections to stateless enforcement that survive this conceptual rebuttal
+- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's distinction, on which the *enforcement is not the state* reply turns
+- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the property-as-moral-grammar framework the state neither authors nor is needed to state
+- [[homesteading|Homesteading]] - first-use appropriation, the account of property that needs no sovereign's decree
+- [[self-ownership|Self-Ownership]] - the axiom the propertarian derives property from, prior to the state
+- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the constructive claim that enforcement can be polycentric rather than monopolized
+- [[economic-calculation-problem|Economic Calculation Problem]] - the indictment of the communist alternative that holds independent of who enforces property
+- [[crony-capitalism|Crony Capitalism]] - the state-shaped property the critique rightly targets and libertarians also condemn
+- [[capitalism|Capitalism]] - the market order under attack, distinguished from the state-privilege it is confused with
+- [[libertarian-family|The Libertarian Family]] - the anarcho-capitalist / mutualist / Georgist split the unresolved land question runs through
+- [[the-production-of-security|The Production of Security]] - Molinari's founding case that protection is a market good, not a state monopoly
+- [[franz-oppenheimer|Franz Oppenheimer]] - the social-democratic sociologist whose state theory supplies the reply's key distinction
+- [[karl-marx|Karl Marx]] - source of the property-as-social-relation register of the critique
+- [[das-kapital|Capital]] - Marx's analysis of capitalist property relations
+- [[socialism|Socialism]] - Mises's systematic treatment, home of the calculation argument
+
+## Sources
+
+- [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - Oppenheimer's economic-means/political-means distinction, the definition of the state as "an organization of the political means", and the conquest account in which the state arises to appropriate what production created
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's derivation of property from self-ownership and first use, and the theory of valid and invalid (conquest-based, never-used) land titles
+- [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - Hoppe's treatment of capitalism and socialism as rival property orders and the incentive case against socialized production
+- [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Hoppe's argumentation-ethics grounding of property and the property-based treatment of public goods and defense
+- [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - Molinari's case that security and enforcement can be produced competitively rather than by a monopoly state
+- [What Is Property? — Scoped Excerpt (1840)](https://theanarchistlibrary.org/library/pierre-joseph-proudhon-what-is-property-an-inquiry-into-the-principle-of-right-and-of-government) - Proudhon's *property is robbery* thesis aimed at the proprietor's claim to unearned income, and his self-identification as an anarchist
+- [State Socialism and Anarchism (Full Text)](https://theanarchistlibrary.org/library/benjamin-r-tucker-state-socialism-and-anarchism) - Tucker's occupancy-and-use land rule and the charge that absentee title depends on state enforcement
+- [Capital, Volume I — Chapter 1: Commodities (Full Text)](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm) - Marx's commodity-fetishism analysis: value and property relations as social relations that come to appear as objective properties of things
+- [Socialism: An Economic and Sociological Analysis (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - Mises's economic-calculation argument against abolishing private ownership of the means of production
+
+---
+
 ## Ecash and Chaumian Mints
 URL: /concepts/ecash
 Category: concept
@@ -2540,6 +2634,8 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
+
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the calculation argument as the reply that holds whoever enforces property
 
 ## Sources
 
@@ -3894,6 +3990,8 @@ Homesteading is the foundation the rest of the structure rests on. Self-ownershi
 - [[georgism|Georgism and the Land-Value Tax]] - Henry George's proposal to fund government by a single tax on the unimproved value of land — and the Austro-libertarian critique that land is legitimately owned, speculation is useful
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - why first-use title needs no sovereign — the reply to the claim that private property requires the state
+
 ## Sources
 
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's first-use-first-own, the Crusoe analysis, and the theory of valid and invalid land titles
@@ -4598,6 +4696,7 @@ The wiki argues from the [[market-anarchism-and-private-law|anarcho-capitalist]]
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the Lockean property premise the family splits over
 - [[objectivism|Objectivism]] - the Randian route to minarchism
 - [[david-friedman|David Friedman]] - the consequentialist anarcho-capitalist
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the anarcho-capitalist/mutualist split the unresolved land question runs through
 
 ---
 
@@ -4735,6 +4834,8 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 - [[secession|Secession]]
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
+
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - enforcement without a monopoly, the constructive reply to the claim that property requires the state
 
 ## Sources
 
@@ -5492,6 +5593,8 @@ The internal debate is unresolved and genuinely interesting. Mutualists press th
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the communist/social-anarchist claim that private property is a creature of the state, answered — enforcement is not the state, and the premise would abolish occupancy-and-use too
+
 ## Sources
 
 - [Natural Law; or The Science of Justice (Full Text)](https://en.wikisource.org/wiki/Natural_Law;_or_The_Science_of_Justice) - Spooner's natural-law anarchism and his verdict on legislation beyond justice as "an intrusion, an absurdity, an usurpation, and a crime"
@@ -5784,6 +5887,8 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
+
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the objection that property is nothing but a state-enforced entitlement, stated at full strength and answered
 
 ## Sources
 
@@ -6564,6 +6669,8 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[economics-in-one-lesson|Economics in One Lesson]]
 - [[financial-surveillance|Financial Surveillance]]
 - [[taxation|Taxation]]
+
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - uses this distinction to answer the communist claim that private property requires the state
 
 ## Sources
 
@@ -8322,6 +8429,8 @@ Self-ownership is powerful precisely because so much rides on one premise, which
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
+
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the axiom used to show property is prior to the state, not its creature
 
 ## Sources
 
@@ -12103,6 +12212,8 @@ On this base the later argument is built: labour-power becomes a commodity, and 
 - [[principles-of-economics-menger|Principles of Economics]] - Menger's founding statement of the rival subjective theory
 - [[eugen-von-bohm-bawerk|Eugen von Böhm-Bawerk]] - the Austrian critic of Marxian value theory
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the capitalist-property-relations analysis engaged by the reply to the claim that property requires the state
+
 ## Sources
 
 - [Capital, Volume I — Chapter 1: Commodities (Full Text)](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm) - the chapter summarized here: use-value vs. value, abstract human labour, socially necessary labour-time, the form of value, commodity fetishism
@@ -12907,6 +13018,8 @@ Public Frankfurt materials identify Ludwig Erhard among Oppenheimer's students a
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]] - Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association.
+
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - his state theory supplies the enforcement-is-not-the-state distinction that reply turns on
 
 ## Sources
 
@@ -13976,6 +14089,8 @@ Marx is the wiki's reference foil for the Austrian theory of value. The [[carl-m
 - [[eugen-von-bohm-bawerk|Eugen von Böhm-Bawerk]] - the Austrian economist who refuted the labor theory of value
 - [[carl-menger|Carl Menger]] - founder of the subjective-value tradition that displaced the labor theory
 - [[principles-of-economics-menger|Principles of Economics (Menger)]] - Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, never a property inherent in the good
+
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - Marx's property-as-social-relation critique of private property, stated and answered
 
 ## Sources
 
@@ -16075,6 +16190,8 @@ The current raw source is the Mises Institute's PDF edition (600 pages), extract
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis grounded in the 1922 calculation framework this book opens
 - [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the calculation argument invoked as the reply that holds whoever enforces property
+
 ## Sources
 
 - [Socialism: An Economic and Sociological Analysis (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - full PDF as a wiki-ingestable aggregate
@@ -17274,6 +17391,8 @@ For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the cou
 - [[libertarianism|Libertarianism]] - broader doctrinal context
 - [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
+
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - Molinari's market-supplied enforcement as the reply to the claim that private property requires the state
 
 ## Sources
 

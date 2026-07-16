@@ -91,6 +91,8 @@ There is also an internal libertarian dispute the entry does not resolve: whethe
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - answers the communist claim that capitalist property presupposes the state
+
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - Mises's definition of the market economy, the sovereignty of the consumers, and production for profit as production for use

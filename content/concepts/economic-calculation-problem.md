@@ -77,6 +77,8 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the calculation argument as the reply that holds whoever enforces property
+
 ## Sources
 
 - [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - canonical 1922 statement

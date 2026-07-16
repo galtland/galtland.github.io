@@ -84,6 +84,8 @@ There is also a genuine boundary problem: in a heavily regulated economy almost 
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 - [[james-buchanan|James Buchanan]]
 
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the state-shaped property the communist critique rightly targets, conceded and distinguished from property as such
+
 ## Sources
 
 - [The Law (Full Text Aggregate)](https://mises.org/online-book/law) - Bastiat's legal-plunder analysis and its test for privilege ("See whether the law takes from some persons ...")
