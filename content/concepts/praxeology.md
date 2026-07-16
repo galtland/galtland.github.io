@@ -3,8 +3,8 @@ title: "Praxeology"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-06-25
-verified: 2026-06-25
+updated: 2026-07-16
+verified: 2026-07-16
 tags: [praxeology, methodology, austrian-economics, action-axiom, a-priori, methodological-dualism, methodological-individualism, catallactics, mises, rothbard]
 aliases: [The Action Axiom, Mises's Method, Austrian Methodology]
 confidence: high
@@ -38,7 +38,7 @@ Praxeology is wider than economics. It is the general science of action, of whic
 >
 > — [[ludwig-von-mises|Mises]], [[human-action|Human Action]]
 
-That generality is why Mises calls the theory of choice "the science of every kind of human action" and not merely of the "economic side" of life. Praxeology is also strictly value-free: it analyzes the fitness of means to ends and takes the ends as given — "It is a science of means, not of ends." This is the methodological reason the wiki keeps Rothbard's economics separate from his ethics: praxeology can show that a policy fails to reach its stated goal, but cannot on its own pronounce the goal good or bad.
+That generality is why Mises calls the theory of choice "the science of every kind of human action" and not merely of the "economic side" of life. Praxeology is also strictly value-free: it analyzes the fitness of means to ends and takes the ends as given — "It is a science of means, not of ends." This is the methodological reason the wiki keeps Rothbard's economics separate from his ethics: praxeology can show that a policy fails to reach its stated goal, but cannot on its own pronounce the goal good or bad. Rothbard's normative case is a separate project, argued on natural-law grounds in [[the-ethics-of-liberty|The Ethics of Liberty]], and [[hans-hermann-hoppe|Hoppe]] later built the distinct [[argumentation-ethics|argumentation-ethics]] defense of the same conclusions — neither of which praxeology by itself can supply.
 
 ## Methodological Dualism and Individualism
 
@@ -64,23 +64,13 @@ From the axiom and those two postulates the deductions then unfold in order — 
 
 Praxeology is not introspection, not psychology, and not history. It does not explain *why* a particular person values a particular thing — that is psychology. It does not explain *what happened* in a particular episode — that is history. It studies the formal implications of the categories of action: ends, means, choice, scarcity, time, uncertainty. This distinction is set out most directly in [[theory-and-history|Theory and History]] and informs Mises's claim that the methods of the natural sciences — observation, hypothesis, controlled experiment — cannot simply be transplanted into the study of human action.
 
-## Sources in This Wiki
+## The Method at Work Across the Wiki
 
-[[human-action|Human Action]] is the central text — its very title and Part One are the canonical statement of the praxeological method. [[theory-and-history|Theory and History]] is the explicit epistemological defense. [[man-economy-and-state|Man, Economy, and State]] opens with a praxeological derivation of economic categories and is the most systematic Rothbardian elaboration. [[the-ethics-of-liberty|The Ethics of Liberty]] sets out Rothbard's natural-law/natural-rights libertarian ethics — a separate project from praxeological economics (Mises held that praxeology is value-free and cannot by itself establish ethical conclusions). Hoppe later developed the distinct argumentation-ethics defense of the same libertarian conclusions.
+Praxeology is the reason the wiki's economic articles cite arguments rather than studies. [[sales-tax-incidence|Sales Tax Incidence]] does not rest on regressions of past tax data but on a deductive analysis of how prices, costs, and factor incomes must respond to a tax; the [[economic-calculation-problem|economic-calculation problem]] is presented as a logical impossibility, not an empirical finding about particular regimes. The status of these claims stands or falls with the method itself — which is exactly the question Mises and Rothbard treat as decisive.
 
-## Why It Matters in This Wiki
+The same deductive frame has been carried into newer territory. Hoppe, in [[democracy-the-god-that-failed|Democracy: The God That Failed]], starts from the action-theoretic claim that actors prefer earlier to later goods and argues that systematic state interference raises social time preference, then treats monarchy and democracy as different ownership structures for government with predictably different planning horizons. [[max-hillebrand|Max Hillebrand]], in [[the-praxeology-of-privacy|The Praxeology of Privacy]], argues that internal deliberation, subjective valuation, and actor–observer information asymmetry make privacy a structural feature of action — layering Mises's descriptive axiom, Hoppe's contested normative bridge, and a practical [[resistance-axiom|Resistance Axiom]] that cryptographic systems can resist external control.
 
-Praxeology is the reason the wiki's economic articles cite arguments rather than studies. [[sales-tax-incidence|Sales Tax Incidence]] does not depend on regressions of past tax data; it depends on a deductive analysis of how prices, costs, and factor incomes must respond to a tax. [[economic-calculation-problem|The economic-calculation problem]] is presented as a logical impossibility, not an empirical observation about historical regimes. The status of these claims depends entirely on whether the praxeological method is sound — and that is the question Mises and Rothbard treat as decisive.
-
-## Time Preference and Regime Theory
-
-[[democracy-the-god-that-failed|Democracy: The God That Failed]] is now the wiki's direct Hoppe source for applying time preference to political regimes. Chapter 1 starts from the action-theory claim that actors prefer earlier over later goods and that civilization requires longer planning horizons. Hoppe then uses that frame to argue that systematic state interference raises social time preference, and chapter 2 applies the same logic to monarchy and democracy as different ownership structures for government.
-
-## Privacy and Resistance Extension
-
-[[max-hillebrand|Max Hillebrand]] extends this method in [[the-praxeology-of-privacy|The Praxeology of Privacy]]. His claim is that internal deliberation, subjective valuation, and actor-observer information asymmetry make privacy a structural feature of action. The move is explicitly layered: Mises's action axiom supplies the descriptive foundation, Hoppe's argumentation ethics supplies the contested normative bridge, and the [[resistance-axiom|Resistance Axiom]] supplies the practical assumption that cryptographic systems can resist external control.
-
-This is a modern extension rather than a claim Mises himself made. The wiki should treat it as Hillebrand's application of praxeology to surveillance and cryptographic implementation.
+Both are modern *applications* rather than claims Mises himself made: the wiki treats regime time-preference theory as Hoppe's extension and the privacy argument as Hillebrand's, each inheriting praxeology's method without inheriting its author's authority.
 
 ## See Also
 
