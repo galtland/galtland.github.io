@@ -54,6 +54,7 @@ Censorship resistance is a matter of *cost*, not an absolute, and its limits are
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 - [[eric-hughes|Eric Hughes]]
 - [[financial-surveillance|Financial Surveillance]]
+- [[silk-road|Silk Road]]
 
 ## Sources
 

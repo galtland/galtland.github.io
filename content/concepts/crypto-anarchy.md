@@ -92,6 +92,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 - [[eric-hughes|Eric Hughes]]
 - [[john-perry-barlow|John Perry Barlow]]
+- [[silk-road|Silk Road]]
 
 ## Sources
 

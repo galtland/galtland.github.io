@@ -72,6 +72,7 @@ The confidence level is medium. The primary-source claims about the manifesto an
 - [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
 - [[eric-hughes|Eric Hughes]]
 - [[john-perry-barlow|John Perry Barlow]]
+- [[silk-road|Silk Road]]
 
 ## Sources
 

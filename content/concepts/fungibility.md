@@ -49,6 +49,7 @@ Fungibility runs headlong into the compliance regime, and the conflict is unreso
 - [[self-custody|Self-Custody]] - the individual control fungibility complements
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 - [[financial-surveillance|Financial Surveillance]]
+- [[silk-road|Silk Road]]
 
 ## Sources
 
