@@ -37,7 +37,7 @@ The seen-and-the-unseen is opportunity cost dramatized: every use of scarce reso
 
 ## Hazlitt and the tradition
 
-Bastiat's insight is the acknowledged starting point of Henry Hazlitt's *Economics in One Lesson* (1946), the best-known modern popularization of the seen-and-the-unseen. (The wiki does not hold Hazlitt's text, which is still in copyright, and treats it here as a pointer rather than a source.) The principle remains the wiki's standard reply to fallacies that count only the visible beneficiary and ignore the foregone alternative.
+Bastiat's insight is the acknowledged starting point of [[henry-hazlitt|Henry Hazlitt]]'s [[economics-in-one-lesson|Economics in One Lesson]] (1946), the best-known modern popularization of the seen-and-the-unseen — Hazlitt generalizes Bastiat's parable into a single rule for all economic reasoning, then applies it fallacy by fallacy across public works, tariffs, price controls, and inflation. The principle remains the wiki's standard reply to fallacies that count only the visible beneficiary and ignore the foregone alternative.
 
 ## Where it fits, and its limits
 
@@ -46,6 +46,8 @@ The seen-and-the-unseen is a discipline of attention rather than a full theory: 
 ## See Also
 
 - [[frederic-bastiat|Frédéric Bastiat]] - the author of the principle
+- [[economics-in-one-lesson|Economics in One Lesson]] - Hazlitt's 1946 primer that generalizes this principle into its one lesson
+- [[henry-hazlitt|Henry Hazlitt]] - the journalist who popularized the seen-and-unseen for a mass audience
 - [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - the seen (protected job) and unseen (foregone gains) of trade policy
 - [[political-means-and-economic-means|Political Means and Economic Means]] - why the political means moves wealth toward the seen beneficiary rather than creating it
 - [[the-law|The Law]] - Bastiat's companion essay on legal plunder

@@ -29,6 +29,8 @@ The wiki draws on two strands of his work. From [[the-seen-and-the-unseen|“Tha
 - [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - the free-trade cause his satires defended
 - [[political-means-and-economic-means|Political Means and Economic Means]] - the plunder-versus-production distinction his work anticipates
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
+- [[economics-in-one-lesson|Economics in One Lesson]]
+- [[henry-hazlitt|Henry Hazlitt]]
 
 ## Sources
 
