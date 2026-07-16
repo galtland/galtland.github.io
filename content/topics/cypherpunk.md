@@ -18,7 +18,7 @@ short: "The wiki's Austrian-libertarian cypherpunk reading: cryptography, anonym
 
 ## The Founding Texts
 
-Three short documents define the political register. [[crypto-anarchy|Crypto Anarchy]] collects the central thesis from Tim May's 1988 *Crypto Anarchist Manifesto* and his 1994 *Cyphernomicon*: that public-key cryptography and anonymous markets make many forms of state regulation impractical, not by lobbying or revolution but by raising the cost of enforcement above what states can sustain. Eric Hughes's 1993 *A Cypherpunk's Manifesto* tightens the practical commitment — "cypherpunks write code" — and treats privacy as something built by deployed systems, not granted by institutional promise. John Perry Barlow's 1996 *Declaration of the Independence of Cyberspace* gives the rhetorical maximum: governments of the industrial world have no sovereignty over the networked space being built.
+Three short documents define the political register. [[crypto-anarchy|Crypto Anarchy]] collects the central thesis from Tim May's 1988 *Crypto Anarchist Manifesto* and his 1994 *Cyphernomicon*: that public-key cryptography and anonymous markets make many forms of state regulation impractical, not by lobbying or revolution but by raising the cost of enforcement above what states can sustain. [[eric-hughes|Eric Hughes]]'s 1993 *A Cypherpunk's Manifesto* tightens the practical commitment — "cypherpunks write code" — and treats privacy as something built by deployed systems, not granted by institutional promise. John Perry Barlow's 1996 *Declaration of the Independence of Cyberspace* gives the rhetorical maximum: governments of the industrial world have no sovereignty over the networked space being built.
 
 These manifestos are deliberately programmatic. They make claims that need physical implementation to be credible. The rest of the cypherpunk thread is the implementation.
 
@@ -117,6 +117,8 @@ This topic should not absorb every cryptographic or blockchain technology. The v
 - [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 - [[money-and-banking|Money and Banking]]
+- [[eric-hughes|Eric Hughes]]
+
 ## Sources
 
 - [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) - Tim May 1988, founding political text

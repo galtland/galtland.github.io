@@ -165,7 +165,7 @@ The cypherpunk remailers had the opposite weakness — nothing to seize, but slo
 
 ## Lineage: What the Remailers Taught
 
-May's inventory of defenses against subpoena is architectural, not legal: "no logs of messages", many independent nodes, "multiple legal jurisdictions, e.g., offshore remailers", and chains that make tracing "very laborious, very expensive, and likely to fail (if even one party won't cooperate, or is outside the court's jurisdiction, etc.)". Eric Hughes named the jurisdictional game "regulatory arbitrage". penet versus the mix lineage is the closest thing the era offers to a controlled comparison: both came under legal pressure, and the system whose operator could comply died of compliance while the network with no compliance point outlived its attackers. In this wiki's reading, that is the founding empirical case for the [[crypto-anarchy|Crypto Anarchy]] claim that political outcomes can be compiled into protocol topology.
+May's inventory of defenses against subpoena is architectural, not legal: "no logs of messages", many independent nodes, "multiple legal jurisdictions, e.g., offshore remailers", and chains that make tracing "very laborious, very expensive, and likely to fail (if even one party won't cooperate, or is outside the court's jurisdiction, etc.)". [[eric-hughes|Eric Hughes]] named the jurisdictional game "regulatory arbitrage". penet versus the mix lineage is the closest thing the era offers to a controlled comparison: both came under legal pressure, and the system whose operator could comply died of compliance while the network with no compliance point outlived its attackers. In this wiki's reading, that is the founding empirical case for the [[crypto-anarchy|Crypto Anarchy]] claim that political outcomes can be compiled into protocol topology.
 
 The design pattern propagated. Onion routing adapted the mix chain to real-time traffic; [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] opens its related-work survey with Chaum's mix-net as the origin point. The same two moves — batch many users into one anonymity set, and ensure no single trusted node — recur across Bitcoin-adjacent privacy tech (CoinJoin's batched rounds are the obvious echo; a lineage noted from common knowledge, not the sources below). The human lineage is just as direct: the man who ran the first encrypting remailer reports "I think I was the first person besides Satoshi to run bitcoin" and that he was "the recipient of the first bitcoin transaction, when Satoshi sent ten coins to me as a test."
 
@@ -1296,6 +1296,7 @@ Censorship resistance is a matter of *cost*, not an absolute, and its limits are
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
+- [[eric-hughes|Eric Hughes]]
 
 ## Sources
 
@@ -2084,6 +2085,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
 - [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
+- [[eric-hughes|Eric Hughes]]
 
 ## Sources
 
@@ -9937,7 +9939,7 @@ Category: reference
 
 ## What the Book Argues
 
-The 21 lessons come in three bundles of seven. Chapter 1 draws the philosophical teachings: the interplay of immutability and change, true digital scarcity ("The Scarcity of Scarcity"), Bitcoin's "immaculate conception", the problem of identity, replication versus locality, the power of free speech, and the limits of knowledge. Chapter 2 draws the economic ones: financial ignorance, inflation, value, money and its history and downfall, fractional reserve banking, and how Bitcoin re-introduces sound money "in a sly, roundabout way". Chapter 3 draws the technological ones: strength in numbers, reflections on "Don't Trust, Verify", why telling time takes work, why moving slowly and not breaking things is a feature, what Bitcoin's creation teaches about privacy ("Privacy is Not Dead"), and why cypherpunks write code. The closing movement quotes Eric Hughes's manifesto at length and reads Satoshi as its executor — code written before the whitepaper, because working code is the cypherpunk's argument:
+The 21 lessons come in three bundles of seven. Chapter 1 draws the philosophical teachings: the interplay of immutability and change, true digital scarcity ("The Scarcity of Scarcity"), Bitcoin's "immaculate conception", the problem of identity, replication versus locality, the power of free speech, and the limits of knowledge. Chapter 2 draws the economic ones: financial ignorance, inflation, value, money and its history and downfall, fractional reserve banking, and how Bitcoin re-introduces sound money "in a sly, roundabout way". Chapter 3 draws the technological ones: strength in numbers, reflections on "Don't Trust, Verify", why telling time takes work, why moving slowly and not breaking things is a feature, what Bitcoin's creation teaches about privacy ("Privacy is Not Dead"), and why cypherpunks write code. The closing movement quotes [[eric-hughes|Eric Hughes]]'s manifesto at length and reads Satoshi as its executor — code written before the whitepaper, because working code is the cypherpunk's argument:
 
 > "Cypherpunks do not find comfort in hopes and wishes. They actively interfere with the course of events and shape their own destiny. Cypherpunks write code."
 >
@@ -11602,7 +11604,7 @@ Category: reference
 
 # The Cypherpunks Mailing List
 
-> [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] was the forum — founded by Eric Hughes, [[timothy-c-may|Tim May]], and John Gilmore in 1992 — where the cypherpunk movement worked out its program in public: build privacy with deployed code rather than petition for it. The wiki holds a curated subset of roughly thirty posts (1992–2009) tracing one continuous line from anonymous remailers and Chaumian digital cash, through the Clipper and key-escrow fights, to [[hashcash|Hashcash]], b-money, and the bridge to the cryptography mailing list where [[bitcoin-whitepaper|Bitcoin]] was announced.
+> [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] was the forum — founded by [[eric-hughes|Eric Hughes]], [[timothy-c-may|Tim May]], and John Gilmore in 1992 — where the cypherpunk movement worked out its program in public: build privacy with deployed code rather than petition for it. The wiki holds a curated subset of roughly thirty posts (1992–2009) tracing one continuous line from anonymous remailers and Chaumian digital cash, through the Clipper and key-escrow fights, to [[hashcash|Hashcash]], b-money, and the bridge to the cryptography mailing list where [[bitcoin-whitepaper|Bitcoin]] was announced.
 
 ## Text Status
 
@@ -12171,6 +12173,46 @@ That makes [[banality-of-evil|Banality of Evil]] a bridge concept between [[tota
 ## Sources
 
 - [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - full-text research ingest of the revised and enlarged edition text
+
+---
+
+## Eric Hughes
+URL: /references/eric-hughes
+Category: reference
+
+# Eric Hughes
+
+> [[eric-hughes|Eric Hughes]] is a mathematician and cypherpunk — the author of *A Cypherpunk's Manifesto* (1993) and, with [[timothy-c-may|Timothy C. May]] and John Gilmore, a co-founder of the cypherpunks mailing list that gave the movement its name. His manifesto is the movement's compact statement of purpose.
+
+## A Cypherpunk's Manifesto
+
+Written in March 1993, the manifesto opens with the claim the whole cypherpunk project rests on: "Privacy is necessary for an open society in the electronic age." Hughes is careful to distinguish the term from its usual confusion with concealment — privacy is not secrecy, he writes, but something more precise and more social:
+
+> "Privacy is the power to selectively reveal oneself to the world."
+>
+> — [[eric-hughes|Eric Hughes]], "A Cypherpunk's Manifesto"
+
+From that definition follows the manifesto's central move, and the movement's break with mere advocacy: privacy in the electronic age will not be handed down by governments or granted by corporations, so those who want it must build it themselves. "We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy," Hughes writes — and the remedy is not persuasion but construction. He states it in the line that became the movement's motto: "Cypherpunks write code." The cypherpunks, he declares, "are dedicated to building anonymous systems," defending privacy with cryptography, anonymous mail forwarding, digital signatures, and electronic money.
+
+## Co-Founder of the Cypherpunks
+
+Hughes co-founded the cypherpunks mailing list in 1992 together with [[timothy-c-may|Timothy C. May]] and John Gilmore, hosting it initially from his own machine; the group's name was coined by Jude Milhon at one of its early meetings. Where May's *The Crypto Anarchist Manifesto* supplied the movement's political vision, Hughes supplied its ethic of action — the insistence that the argument is won by writing and releasing working tools, not by winning a debate. (Hughes's biographical details here are widely documented common knowledge, not drawn from the manifesto this page cites.)
+
+## Place in This Wiki
+
+Hughes sits at the founding of the [[cypherpunk|cypherpunk]] thread alongside [[timothy-c-may|May]]. His "write code" ethic is the practical hinge of the whole [[privacy-and-cryptography|privacy-and-cryptography]] tradition the wiki traces from PGP through Signal to Bitcoin: the conviction that [[crypto-anarchy|crypto anarchy]] is not a policy to be lobbied for but a set of systems to be deployed. His definition of privacy as *selective revelation* also underlies the wiki's treatment of [[censorship-resistance|censorship resistance]] and pseudonymity.
+
+## See Also
+
+- [[timothy-c-may|Timothy C. May]] - co-founder of the cypherpunks list and author of its crypto-anarchist vision
+- [[cypherpunk|Cypherpunk]] - the movement Hughes helped found and name
+- [[crypto-anarchy|Crypto Anarchy]] - the political program the "write code" ethic serves
+- [[privacy-and-cryptography|Privacy and Cryptography]] - the tradition his manifesto launches
+- [[censorship-resistance|Censorship Resistance]] - a property his selective-revelation definition underwrites
+
+## Sources
+
+- [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) - Hughes's 1993 statement: privacy as selective revelation, the refusal to expect privacy as a gift, and the "Cypherpunks write code" ethic of building anonymous systems
 
 ---
 
@@ -14408,7 +14450,7 @@ Category: reference
 
 ## What the Paper Argues
 
-Anderson reconstructs cypherpunk philosophy as two complementary pairs. Normatively: privacy for individuals, transparency for institutions — not a contradiction but a single principle about power, since privacy and transparency "only take on meaning in the context of power relations". Epistemologically: a hands-on data activism that is both re-active (defending privacy with crypto, per Eric Hughes's manifesto definition of privacy as "the power to selectively reveal oneself to the world") and pro-active (forcing transparency on the powerful). The historical throughline runs from the movement's founding — organized in reaction to 1991 legislation demanding that systems "permit the government to obtain the plaintext contents of voice, data, and other communications" — through the Crypto War tactic of "intentionally and repeatedly provoking state backlash by finding and distributing classified government documents about cryptology", to the court victory establishing that code is speech. WikiLeaks serves as the case study of mature "cypherpunk sousveillance": transparency activism aimed at altering information flows at the systemic level, against surveillance institutions like the NSA and Google.
+Anderson reconstructs cypherpunk philosophy as two complementary pairs. Normatively: privacy for individuals, transparency for institutions — not a contradiction but a single principle about power, since privacy and transparency "only take on meaning in the context of power relations". Epistemologically: a hands-on data activism that is both re-active (defending privacy with crypto, per [[eric-hughes|Eric Hughes]]'s manifesto definition of privacy as "the power to selectively reveal oneself to the world") and pro-active (forcing transparency on the powerful). The historical throughline runs from the movement's founding — organized in reaction to 1991 legislation demanding that systems "permit the government to obtain the plaintext contents of voice, data, and other communications" — through the Crypto War tactic of "intentionally and repeatedly provoking state backlash by finding and distributing classified government documents about cryptology", to the court victory establishing that code is speech. WikiLeaks serves as the case study of mature "cypherpunk sousveillance": transparency activism aimed at altering information flows at the systemic level, against surveillance institutions like the NSA and Google.
 
 ## Why It Matters in This Wiki
 
@@ -17204,6 +17246,7 @@ The confidence level is medium. The primary-source claims about the manifesto an
 - [[meditations-on-cypherpunk-nightmares|Meditations on Cypherpunk Nightmares]] - Goldstein's 2014 essay reads Tim May's crypto anarchy through the Stoics: anonymous information markets make leaks inevitable, so live as though your secrets are already public.
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
 - [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
+- [[eric-hughes|Eric Hughes]]
 
 ## Sources
 
@@ -18671,7 +18714,7 @@ Category: topic
 
 ## The Founding Texts
 
-Three short documents define the political register. [[crypto-anarchy|Crypto Anarchy]] collects the central thesis from Tim May's 1988 *Crypto Anarchist Manifesto* and his 1994 *Cyphernomicon*: that public-key cryptography and anonymous markets make many forms of state regulation impractical, not by lobbying or revolution but by raising the cost of enforcement above what states can sustain. Eric Hughes's 1993 *A Cypherpunk's Manifesto* tightens the practical commitment — "cypherpunks write code" — and treats privacy as something built by deployed systems, not granted by institutional promise. John Perry Barlow's 1996 *Declaration of the Independence of Cyberspace* gives the rhetorical maximum: governments of the industrial world have no sovereignty over the networked space being built.
+Three short documents define the political register. [[crypto-anarchy|Crypto Anarchy]] collects the central thesis from Tim May's 1988 *Crypto Anarchist Manifesto* and his 1994 *Cyphernomicon*: that public-key cryptography and anonymous markets make many forms of state regulation impractical, not by lobbying or revolution but by raising the cost of enforcement above what states can sustain. [[eric-hughes|Eric Hughes]]'s 1993 *A Cypherpunk's Manifesto* tightens the practical commitment — "cypherpunks write code" — and treats privacy as something built by deployed systems, not granted by institutional promise. John Perry Barlow's 1996 *Declaration of the Independence of Cyberspace* gives the rhetorical maximum: governments of the industrial world have no sovereignty over the networked space being built.
 
 These manifestos are deliberately programmatic. They make claims that need physical implementation to be credible. The rest of the cypherpunk thread is the implementation.
 
@@ -18770,6 +18813,8 @@ This topic should not absorb every cryptographic or blockchain technology. The v
 - [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 - [[money-and-banking|Money and Banking]]
+- [[eric-hughes|Eric Hughes]]
+
 ## Sources
 
 - [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) - Tim May 1988, founding political text
@@ -19205,6 +19250,8 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 - [[crypto-wars-2|Crypto Wars 2.0]] - the renewed state effort to mandate encryption backdoors and scan devices — the sequel to the 1990s fight over strong cryptography
 - [[money-and-banking|Money and Banking]]
+- [[eric-hughes|Eric Hughes]]
+
 ## Sources
 
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) - chapters 1-21 for theory, adversary analysis, cryptographic implementation, and parallel-economy synthesis
