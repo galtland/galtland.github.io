@@ -118,41 +118,21 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - Satoshi's 2008 peer-to-peer electronic-cash paper
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous designer and first operator of the Bitcoin network
-- [[nick-szabo|Nick Szabo]] - Bit Gold author and the closest precursor to Bitcoin's design
-- [[bit-gold|Bit Gold]] - Szabo's 2005 proof-of-work digital-money proposal
-- [[wei-dai|Wei Dai]] - cypherpunk whose b-money the whitepaper cites
-- [[b-money|b-money]] - Wei Dai's 1998 proof-of-work money the whitepaper cites; the consensus-less precursor Bitcoin completes
-- [[timothy-c-may|Tim May]] - crypto-anarchist whose program b-money set out to give a working economy
 - [[saifedean-ammous|Saifedean Ammous]] - economist whose Bitcoin Standard frames Bitcoin as hard money
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's Austrian-frame book on Bitcoin and central banking
 - [[proof-of-work|Proof of Work]] - cost function that orders and secures the Bitcoin chain
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the category Bitcoin maximizes
 - [[unforgeable-costliness|Unforgeable Costliness]] - the bridge from costly collectibles to computational proof of work
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - the design thesis Bitcoin operationalizes for money
-- [[public-key-cryptography|Public-Key Cryptography]] - the signature infrastructure behind Bitcoin's coins-as-signature-chains
-- [[hashcash|Hashcash]] - Adam Back's cost-function paper the whitepaper cites as its proof-of-work model
-- [[adam-back|Adam Back]] - creator of Hashcash, the proof-of-work primitive behind Bitcoin mining
-- [[hal-finney|Hal Finney]] - RPOW creator and recipient of the first Bitcoin transaction
-- [[crypto-anarchy|Crypto Anarchy]] - the cypherpunk political program b-money and Bitcoin extend to value
+- [[bit-gold|Bit Gold]] - Szabo's 2005 proof-of-work proposal; the closest precursor to Bitcoin's design
+- [[b-money|b-money]] - Wei Dai's 1998 proof-of-work money the whitepaper cites; the consensus-less precursor Bitcoin completes
 - [[digital-cash-history|Digital Cash History]] - the lineage of partial digital-cash designs Bitcoin completes
-- [[ecash|eCash]] - Chaumian intermediated digital cash, the trusted-issuer contrast case
-- [[shelling-out|Shelling Out]] - Szabo's prehistoric-collectibles essay underpinning unforgeable costliness
-- [[lightning-network|Lightning Network]] - second-layer payment design that settles on the Bitcoin chain
-- [[coinjoin|CoinJoin]] - on-chain privacy composition over Bitcoin's pseudonymous base
-- [[ideal-money|Ideal Money]] - Nash's adjacent proposal for a non-political monetary standard
-- [[carl-menger|Carl Menger]] - Austrian founder whose origin-of-money account underlies the hardness/salability frame
-- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
-- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
-- [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
-- [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
-- [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
-- [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
-- [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
-- [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
-- [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
-- [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
-- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
-- [[money-and-banking|Money and Banking]] - The wiki's money hub: the Austrian theory of money from Menger and Mises through sound money, banking and the business cycle, the fiat system and CBDCs, to Bitcoin as digital hard money.
+- [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - the consensus problem Bitcoin's longest-chain rule solves
+- [[self-custody|Self-Custody]] - holding your own keys: the precondition for everything Bitcoin promises
+- [[censorship-resistance|Censorship Resistance]] - the property that makes a Bitcoin payment one no gatekeeper can freeze
+- [[money-and-banking|Money and Banking]] - the wiki's money hub, from Menger and Mises through sound money to Bitcoin as digital hard money
+
+**Further:** [[nick-szabo|Nick Szabo]] · [[wei-dai|Wei Dai]] · [[timothy-c-may|Tim May]] · [[public-key-cryptography|Public-Key Cryptography]] · [[hashcash|Hashcash]] · [[adam-back|Adam Back]] · [[hal-finney|Hal Finney]] · [[crypto-anarchy|Crypto Anarchy]] · [[ecash|eCash]] · [[shelling-out|Shelling Out]] · [[lightning-network|Lightning Network]] · [[coinjoin|CoinJoin]] · [[ideal-money|Ideal Money]] · [[carl-menger|Carl Menger]] · [[konrad-graf|Konrad Graf]] · [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] · [[deflation|Deflation]] · [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] · [[fungibility|Fungibility]] · [[monero|Monero]] · [[regression-theorem|The Regression Theorem]] · [[gold-standard|The Gold Standard]]
 
 ## Sources
 
