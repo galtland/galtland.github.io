@@ -107,6 +107,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 - [[economics-in-one-lesson|Economics in One Lesson]]
 - [[financial-surveillance|Financial Surveillance]]
+- [[taxation|Taxation]]
 
 ## Sources
 

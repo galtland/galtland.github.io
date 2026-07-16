@@ -46,6 +46,7 @@ Georgism is the rare interventionist proposal that keeps recruiting from within 
 - [[subjective-value-vs-the-labor-theory-of-value|Subjective Value vs. the Labor Theory of Value]] - why the Austrians deny that community-created value is anyone's to reclaim
 - [[power-and-market|Power and Market]] - Rothbard's chapter-length refutation of the single tax
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
+- [[taxation|Taxation]]
 
 ## Sources
 

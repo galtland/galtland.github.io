@@ -52,6 +52,7 @@ The conquest thesis is a strong causal claim, and it is not the only story. Soci
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - the hub gathering the state-origin and state-power critiques
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - a related state-capacity analysis
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention: Analysis]] - newsroom thesis applying the conquest/racket frame
+- [[taxation|Taxation]]
 
 ## Sources
 

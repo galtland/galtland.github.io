@@ -49,6 +49,7 @@ This concept sits at the intersection of [[austrian-economics|Austrian Economics
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
 - [[power-and-market|Power and Market]] - Rothbard's Power and Market (1970), the standalone companion to Man, Economy, and State
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
+- [[taxation|Taxation]]
 
 ## Sources
 
