@@ -71,6 +71,7 @@ The confidence level is medium. The primary-source claims about the manifesto an
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
 - [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
 - [[eric-hughes|Eric Hughes]]
+- [[john-perry-barlow|John Perry Barlow]]
 
 ## Sources
 

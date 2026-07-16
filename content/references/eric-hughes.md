@@ -41,6 +41,7 @@ Hughes sits at the founding of the [[cypherpunk|cypherpunk]] thread alongside [[
 - [[crypto-anarchy|Crypto Anarchy]] - the political program the "write code" ethic serves
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the tradition his manifesto launches
 - [[censorship-resistance|Censorship Resistance]] - a property his selective-revelation definition underwrites
+- [[john-perry-barlow|John Perry Barlow]]
 
 ## Sources
 

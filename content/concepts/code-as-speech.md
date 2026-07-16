@@ -60,6 +60,7 @@ That boundary matters because code can also be conduct, infrastructure, evidence
 - [[conscience-of-a-hacker|The Conscience of a Hacker]] - Loyd Blankenship's 1986 Phrack manifesto — 'My crime is that of curiosity' — the founding statement of the hacker ethic that the cypherpunks inherited.
 - [[of-cypherpunks-and-sousveillance|Of Cypherpunks and Sousveillance]] - Anderson's 2022 academic study of cypherpunk ethics — 'privacy for the weak, transparency for the powerful' — and the movement's overlooked practice of sousveillance: watching the watchers.
 - [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.
+- [[john-perry-barlow|John Perry Barlow]]
 
 ## Sources
 

@@ -91,6 +91,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[anonymous-remailers|Anonymous Remailers]] - The cypherpunks' first deployed infrastructure: mail servers chained so no single operator knows both sender and recipient — Chaum's 1981 mix design made real, and the ancestor of Tor.
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 - [[eric-hughes|Eric Hughes]]
+- [[john-perry-barlow|John Perry Barlow]]
 
 ## Sources
 
