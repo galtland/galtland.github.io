@@ -129,6 +129,8 @@ New to this hub? Read these five, in order:
 - [[money-and-banking|Money and Banking]]
 - [[eric-hughes|Eric Hughes]]
 - [[john-perry-barlow|John Perry Barlow]]
+- [[martin-hellman|Martin Hellman]]
+- [[whitfield-diffie|Whitfield Diffie]]
 
 ## Sources
 

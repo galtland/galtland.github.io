@@ -2100,6 +2100,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[john-perry-barlow|John Perry Barlow]]
 - [[silk-road|Silk Road]]
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
+- [[martin-hellman|Martin Hellman]]
 
 ## Sources
 
@@ -7244,6 +7245,8 @@ The confidence level is high for the core claim. Diffie and Hellman's paper expl
 - [[moxie-marlinspike|Moxie Marlinspike]] - Cryptographer behind Signal; co-author with Trevor Perrin of the X3DH and Double Ratchet specs that define modern end-to-end encrypted messaging.
 - [[trevor-perrin|Trevor Perrin]] - Cryptographer, co-author with Moxie Marlinspike of Signal's X3DH and Double Ratchet specs — the key-agreement and ratcheting core of modern end-to-end encrypted messaging.
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
+- [[martin-hellman|Martin Hellman]]
+- [[whitfield-diffie|Whitfield Diffie]]
 
 ## Sources
 
@@ -9794,6 +9797,7 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
+- [[whitfield-diffie|Whitfield Diffie]]
 
 ## Sources
 
@@ -14235,6 +14239,40 @@ The current raw source was re-extracted on 2026-06-17 from the official Mises In
 
 ---
 
+## Martin Hellman
+URL: /references/martin-hellman
+Category: reference
+
+# Martin Hellman
+
+> [[martin-hellman|Martin Hellman]] is the cryptographer who, with [[whitfield-diffie|Whitfield Diffie]], invented [[public-key-cryptography|public-key cryptography]] — the primitive on which the wiki's entire privacy-and-money thread is built.
+
+## New Directions in Cryptography
+
+Hellman and Diffie's 1976 paper [[new-directions-in-cryptography|New Directions in Cryptography]] introduced the two ideas that founded modern cryptography: the **public-key cryptosystem**, in which the encrypting key is public and only the decrypting key is secret, and the **Diffie–Hellman key exchange**, by which two parties can establish a shared secret over a channel an adversary is listening to. Together they solved the key-distribution problem that had, for all of prior history, required secure communication to begin with a securely delivered shared key — and so required trusting whoever delivered it. The paper is the point at which cryptography stopped being the preserve of states and militaries and became something ordinary people could, in principle, wield for themselves.
+
+## Defending open cryptography
+
+Hellman's contribution was not only mathematical. In the years around the paper he resisted U.S. government pressure to restrict the publication of academic cryptographic research, insisting that the field belonged in the open literature rather than under classification. That stance — that strong cryptography should be public knowledge and available to citizens, not a state monopoly — is the seed of the argument the [[cypherpunk|cypherpunk]] movement would later make its own, and it prefigures the 1990s [[pgp-and-the-crypto-wars|Crypto Wars]] over encryption and key escrow. In later decades Hellman turned his risk-analysis instincts to the dangers of nuclear deterrence.
+
+## Place in This Wiki
+
+With Diffie, Hellman sits one step before the cypherpunks in the [[privacy-and-cryptography|privacy-and-cryptography]] lineage — the mathematicians whose invention made the political program of [[crypto-anarchy|crypto anarchy]] technically possible. Every later tool the wiki covers, from PGP to Signal to Bitcoin's signatures, rests on the public-key idea he and Diffie set down.
+
+## See Also
+
+- [[whitfield-diffie|Whitfield Diffie]] - his co-author on the founding paper
+- [[new-directions-in-cryptography|New Directions in Cryptography]] - the 1976 paper that invented the field
+- [[public-key-cryptography|Public-Key Cryptography]] - the primitive he and Diffie created
+- [[cypherpunk|Cypherpunk]] - the movement built on their invention
+- [[crypto-anarchy|Crypto Anarchy]] - the political thesis their mathematics made possible
+
+## Sources
+
+- [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) - Hellman and Diffie's 1976 paper: public-key cryptosystems, the Diffie–Hellman key exchange, and the end of the key-distribution problem
+
+---
+
 ## Max Hillebrand
 URL: /references/max-hillebrand
 Category: reference
@@ -14667,7 +14705,7 @@ Category: reference
 
 # New Directions in Cryptography
 
-> [[new-directions-in-cryptography|New Directions in Cryptography]] is Whitfield Diffie and Martin E. Hellman's 1976 IEEE paper that introduced the public-key turn in modern cryptography.
+> [[new-directions-in-cryptography|New Directions in Cryptography]] is [[whitfield-diffie|Whitfield Diffie]] and [[martin-hellman|Martin E. Hellman]]'s 1976 IEEE paper that introduced the public-key turn in modern cryptography.
 
 ## The Key-Distribution Problem
 
@@ -14706,6 +14744,8 @@ The paper does not itself give every later algorithm or deployed protocol. Its c
 - [[forward-secrecy|Forward Secrecy]] - session property built from ephemeral Diffie-Hellman exchange
 - [[signal-x3dh|Signal X3DH]] - Signal key agreement protocol built from multiple Diffie-Hellman computations
 - [[signal-double-ratchet|Signal Double Ratchet]] - messaging ratchet that repeatedly mixes Diffie-Hellman outputs into fresh chains
+- [[martin-hellman|Martin Hellman]]
+- [[whitfield-diffie|Whitfield Diffie]]
 
 ## Sources
 
@@ -18017,6 +18057,42 @@ B-money is the pseudonymous-money-plus-proof-of-work-issuance rung of the cypher
 
 ---
 
+## Whitfield Diffie
+URL: /references/whitfield-diffie
+Category: reference
+
+# Whitfield Diffie
+
+> [[whitfield-diffie|Whitfield Diffie]] is the cryptographer who, with [[martin-hellman|Martin Hellman]], invented [[public-key-cryptography|public-key cryptography]] — the single idea the entire cypherpunk and cryptocurrency world is built on.
+
+## New Directions in Cryptography
+
+Diffie and Hellman's 1976 paper [[new-directions-in-cryptography|New Directions in Cryptography]] announced that cryptography stood on the brink of a revolution, and then delivered two of its foundations. The first was the concept of a **public-key cryptosystem**: a scheme in which the key used to encrypt a message is public and freely published, while only the separate key needed to decrypt it is kept secret — so anyone can send a confidential message to a recipient they have never contacted, using only information the recipient has posted openly. The second was the **Diffie–Hellman key exchange**, a protocol by which two parties communicating over a completely open channel can arrive at a shared secret that an eavesdropper who hears the whole exchange still cannot compute.
+
+Both broke the assumption that had confined cryptography for millennia: that two parties must first share a secret key, delivered by some secure means, before they can communicate securely. That key-distribution problem tied every secure system to trusted couriers and central key authorities. Public-key methods dissolved it — the deepest instance of the wiki's recurring theme that [[trusted-third-parties-as-security-holes|trusted third parties are security holes]] that good design can remove.
+
+## What it made possible
+
+Nearly everything the wiki's [[cypherpunk|cypherpunk]] thread depends on descends from this work. Public-key cryptography is what lets PGP encrypt mail to a stranger, lets a digital signature prove authorship without revealing a secret, secures the Signal protocol, and underlies the [[public-key-cryptography|signature scheme]] that makes a Bitcoin coin a chain of ownership. Diffie also became a prominent public advocate for strong civil cryptography, arguing against government key-escrow and wiretap-access mandates during the 1990s [[pgp-and-the-crypto-wars|Crypto Wars]] — the political fight the cypherpunks would carry forward.
+
+## Place in This Wiki
+
+Diffie sits at the very root of the [[privacy-and-cryptography|privacy-and-cryptography]] tradition — one technical step before the cypherpunks, and the reason their program was possible at all. Where [[crypto-anarchy|crypto anarchy]] is the political thesis that cryptography shifts power to individuals, Diffie and Hellman supplied the mathematics that made the thesis more than a wish.
+
+## See Also
+
+- [[martin-hellman|Martin Hellman]] - his co-author on the founding paper
+- [[new-directions-in-cryptography|New Directions in Cryptography]] - the 1976 paper that invented the field
+- [[public-key-cryptography|Public-Key Cryptography]] - the primitive Diffie and Hellman created
+- [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - the key-distribution problem public keys dissolve
+- [[cypherpunk|Cypherpunk]] - the movement his invention made possible
+
+## Sources
+
+- [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) - Diffie and Hellman's 1976 paper: public-key cryptosystems, the Diffie–Hellman key exchange, and the end of the key-distribution problem
+
+---
+
 ## William F. Shughart II
 URL: /references/william-f-shughart-ii
 Category: reference
@@ -19331,6 +19407,8 @@ New to this hub? Read these five, in order:
 - [[money-and-banking|Money and Banking]]
 - [[eric-hughes|Eric Hughes]]
 - [[john-perry-barlow|John Perry Barlow]]
+- [[martin-hellman|Martin Hellman]]
+- [[whitfield-diffie|Whitfield Diffie]]
 
 ## Sources
 

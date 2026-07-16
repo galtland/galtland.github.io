@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (341 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (343 entries).
 
 ## #
 
@@ -220,6 +220,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Market Anarchism and Private Law](/concepts/market-anarchism-and-private-law)** — The libertarian vision of non-state courts, protection agencies, insurance, and title systems replacing state law and adjudication.
 - **[Market Failure and Public Goods](/concepts/market-failure-and-public-goods)** — The standard case for government intervention — public goods, externalities, natural monopoly, asymmetric information — with Austrian replies: benchmark problem, property rights, government failure.
 - **[The Market for Liberty](/references/the-market-for-liberty)** — The Tannehills' full case for replacing the state with market-provided law, arbitration, insurance, and defense.
+- **[Martin Hellman](/references/martin-hellman)** — Cryptographer who, with Whitfield Diffie, invented public-key cryptography in 1976 — the foundation of encrypted messaging, digital signatures, and Bitcoin.
 - **[Mass Society and Atomization](/concepts/mass-society-and-atomization)** — Arendt's account of how the breakdown of class and community produces isolated masses available for total mobilization, later enforced in the Gulag.
 - **[Max Hillebrand](/references/max-hillebrand)** — Author of The Praxeology of Privacy, connecting Austrian economics, Rothbardian and Hoppean libertarianism, Bitcoin privacy, and cypherpunk implementation.
 - **[Meditations on Cypherpunk Nightmares](/references/meditations-on-cypherpunk-nightmares)** — Goldstein's 2014 essay reads Tim May's crypto anarchy through the Stoics: anonymous information markets make leaks inevitable, so live as though your secrets are already public.
@@ -407,6 +408,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[War Making and State Making as Organized Crime](/references/war-making-and-state-making-as-organized-crime)** — Tilly's 1985 essay casting war making and state making as organized crime - protection rackets with the advantage of legitimacy.
 - **[The Wealth of Nations](/references/the-wealth-of-nations)** — Adam Smith's 1776 founding treatise of classical economics: the division of labour, self-interest coordinated by the 'invisible hand,' and the case for free trade against mercantilism.
 - **[Wei Dai](/references/wei-dai)** — Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
+- **[Whitfield Diffie](/references/whitfield-diffie)** — Cryptographer who, with Martin Hellman, invented public-key cryptography in 1976 — the primitive underlying encrypted messaging, digital signatures, and Bitcoin.
 - **[The Whole Duty of Man According to the Law of Nature](/references/the-whole-duty-of-man)** — Pufendorf's 1673 compendium of natural law, grounding it in human sociality — the systematizing bridge from Grotius to Locke.
 - **[William F. Shughart II](/references/william-f-shughart-ii)** — Public-choice economist whose Public Choice entry supplies this wiki's compact account of rational ignorance and concentrated benefits.
 - **[William Graham Sumner](/references/william-graham-sumner)** — Laissez-faire sociologist whose Folkways coined the we-group/out-group and ethnocentrism vocabulary this wiki draws on.

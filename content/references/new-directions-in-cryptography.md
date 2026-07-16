@@ -14,7 +14,7 @@ short: "Diffie and Hellman's 1976 breakthrough: public keys, key exchange, and d
 
 # New Directions in Cryptography
 
-> [[new-directions-in-cryptography|New Directions in Cryptography]] is Whitfield Diffie and Martin E. Hellman's 1976 IEEE paper that introduced the public-key turn in modern cryptography.
+> [[new-directions-in-cryptography|New Directions in Cryptography]] is [[whitfield-diffie|Whitfield Diffie]] and [[martin-hellman|Martin E. Hellman]]'s 1976 IEEE paper that introduced the public-key turn in modern cryptography.
 
 ## The Key-Distribution Problem
 
@@ -53,6 +53,8 @@ The paper does not itself give every later algorithm or deployed protocol. Its c
 - [[forward-secrecy|Forward Secrecy]] - session property built from ephemeral Diffie-Hellman exchange
 - [[signal-x3dh|Signal X3DH]] - Signal key agreement protocol built from multiple Diffie-Hellman computations
 - [[signal-double-ratchet|Signal Double Ratchet]] - messaging ratchet that repeatedly mixes Diffie-Hellman outputs into fresh chains
+- [[martin-hellman|Martin Hellman]]
+- [[whitfield-diffie|Whitfield Diffie]]
 
 ## Sources
 
