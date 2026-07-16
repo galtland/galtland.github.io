@@ -58,6 +58,9 @@ CBDCs are the newest instrument in the [[money-and-banking|money-and-banking]] h
 - [[parallel-economy|The Parallel Economy]] — the privacy stack built to route around programmable state money
 - [[surveillance-capitalism|Surveillance Capitalism]] — the corporate analogue of the same observation logic
 - [[biopower|Biopower]]
+- [[hayek-on-rule-of-law|Hayek on the Rule of Law]]
+- [[man-economy-and-state|Man, Economy, and State]]
+- [[privacy-and-cryptography|Privacy and Cryptography]]
 
 ## Sources
 

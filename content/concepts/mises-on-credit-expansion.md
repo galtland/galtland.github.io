@@ -41,6 +41,8 @@ The conclusion Mises draws is the one policymakers least want to hear: the malin
 - [[ludwig-von-mises|Ludwig von Mises]] — author reference
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] — the rival account of the cycle and its cure
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold]] — newsroom thesis applying ABCT to a rate decision
+- [[austrian-economics-vs-the-chicago-school|Austrian Economics vs. the Chicago School]]
+- [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]]
 
 ## Sources
 

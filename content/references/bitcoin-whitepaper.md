@@ -66,32 +66,11 @@ The whitepaper is high-confidence as a primary text. Its 12 sections, references
 - [[softwar|Softwar]] - later thesis interpreting Bitcoin proof of work as strategic power projection
 - [[power-projection|Power Projection]] - concept article for Lowery's physical-cost frame
 - [[cypherpunk|Cypherpunk]] - topic map for the cypherpunk thread that this article participates in
-
 - [[lightning-network|Lightning Network]] - second-layer payment-channel design that keeps Bitcoin's blockchain as settlement backstop
 - [[the-lightning-network-paper|The Lightning Network Paper]] - 2016 paper extending Bitcoin settlement through payment channels
 - [[unforgeable-costliness|Unforgeable Costliness]] - monetary primitive connecting proof-of-work consensus to costly scarcity
-- [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's economic interpretation of Bitcoin as digital hard money
-- [[hal-finney|Hal Finney]] - early reader, runner, and recipient of the first Bitcoin transaction
-- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory reading of Bitcoin's signatures, UTXOs, and double-spend defenses
-- [[new-directions-in-cryptography|New Directions in Cryptography]] - Diffie and Hellman's 1976 breakthrough: public keys, key exchange, and digital
-- [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token, the payer unblinds
-- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
-- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through
-- [[zk-snarks|zk-SNARKs]] - proof primitive used to hide details of Bitcoin-style ledger transitions
-- [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin paper responding to Bitcoin transaction traceability
-- [[zerocash|Zerocash]] - anonymous-payment design built as an extension or fork of Bitcoin-style ledgers
-- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as
-- [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - Reference guide to the Cypherpunks mailing list (1992-2009), the Bay Area-founded
-- [[coinjoin|CoinJoin and PayJoin]] - Two Bitcoin base-layer privacy techniques: CoinJoin combines many users' inputs into
-- [[digital-cash-history|Lessons from Digital-Cash History]] - Why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped, drawn
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
-- [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
-- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
-- [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
-- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
-- [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
-- [[privacy-and-cryptography|Privacy and Cryptography]] - Topic map for the wiki's privacy-and-cryptography thread: Hillebrand's Austrian theory of privacy, Lowery's power-projection thesis, the resistance axiom, state and corporate surveillance, Bitcoin
-- [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
+
+**Further:** [[the-bitcoin-standard|The Bitcoin Standard]] · [[hal-finney|Hal Finney]] · [[are-bitcoins-ownable|Are Bitcoins Ownable?]] · [[new-directions-in-cryptography|New Directions in Cryptography]] · [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] · [[bitcoin-is-venice|Bitcoin Is Venice]] · [[speculative-attack|Speculative Attack]] · [[zk-snarks|zk-SNARKs]] · [[cryptonote-whitepaper|CryptoNote Whitepaper]] · [[zerocash|Zerocash]] · [[shelling-out|Shelling Out]] · [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] · [[coinjoin|CoinJoin and PayJoin]] · [[digital-cash-history|Lessons from Digital-Cash History]] · [[denationalisation-of-money|Denationalisation of Money]] · [[adam-back|Adam Back]] · [[konrad-graf|Konrad Graf]] · [[wei-dai|Wei Dai]] · [[bitcoin|Bitcoin]] · [[b-money|b-money]] · [[privacy-and-cryptography|Privacy and Cryptography]] · [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]]
 
 ## Sources
 

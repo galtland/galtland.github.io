@@ -74,41 +74,8 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's foundational treatise and the regression-theorem source
 - [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's collected essays on Austrian monetary theory
 - [[austrian-economics|Austrian Economics]] - broader school whose monetary tradition this concept rests on
-- [[cypherpunk|Cypherpunk]] - the movement whose Bitcoin-era thinkers reframed hardness as a cryptographic primitive
-- [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
-- [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
-- [[digital-cash-history|Lessons from Digital-Cash History]] - why pre-Bitcoin alternative monies failed and what Bitcoin's design escaped
-- [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link back to depositors
-- [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
-- [[ideal-money|Ideal Money]] - Nash's non-Austrian convergence on stable-value money (managed-index route)
 
-
-- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
-- [[the-cybereconomy|The Cybereconomy]] - the Sovereign Individual's gold-linked "cybercash" forecast in the hard-money lineage
-- [[school-of-salamanca|School of Salamanca]] - the scholastic quantity-theory and anti-debasement roots of sound money
-- [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's history tracing sound-money thought to the scholastics
-- [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
-- [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
-- [[capitalism-and-freedom|Capitalism and Freedom]] - Friedman's 1962 Capitalism and Freedom: capitalism as a precondition of political liberty, limited government, and the rule-bound managed money the Austrians reject
-- [[milton-friedman|Milton Friedman]] - Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism; author of Capitalism and Freedom and the 1968 monetary address
-- [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
-- [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
-- [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
-- [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
-- [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
-- [[john-nash|John Nash]] - Short author reference for John F. Nash Jr., the mathematician and Nobel laureate whose 'Ideal Money' lectures converge, from outside the Austrian tradition
-- [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
-- [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
-- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
-- [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
-- [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
-- [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
-- [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
-- [[21-lessons|21 Lessons]] - Gigi's book of 21 lessons from the Bitcoin rabbit hole — seven philosophical, seven economic, seven technological — ending where the movement began: cypherpunks write code.
-- [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
-- [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
-- [[money-and-banking|Money and Banking]] - The wiki's money hub: the Austrian theory of money from Menger and Mises through sound money, banking and the business cycle, the fiat system and CBDCs, to Bitcoin as digital hard money.
+**Further:** [[cypherpunk|Cypherpunk]] · [[intellectual-property|Intellectual Property]] · [[parallel-economy|The Parallel Economy]] · [[digital-cash-history|Lessons from Digital-Cash History]] · [[ecash|Ecash and Chaumian Mints]] · [[franciscos-money-speech|Francisco's Money Speech]] · [[denationalisation-of-money|Denationalisation of Money]] · [[ideal-money|Ideal Money]] · [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] · [[the-cybereconomy|The Cybereconomy]] · [[school-of-salamanca|School of Salamanca]] · [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] · [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] · [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] · [[capitalism-and-freedom|Capitalism and Freedom]] · [[milton-friedman|Milton Friedman]] · [[bit-gold|Bit Gold]] · [[carl-menger|Carl Menger]] · [[federal-reserve|Federal Reserve]] · [[bitcoin|Bitcoin]] · [[b-money|b-money]] · [[john-nash|John Nash]] · [[spontaneous-order|Spontaneous Order]] · [[cantillon-effect|The Cantillon Effect]] · [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] · [[deflation|Deflation]] · [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] · [[fungibility|Fungibility]] · [[self-custody|Self-Custody]] · [[21-lessons|21 Lessons]] · [[regression-theorem|The Regression Theorem]] · [[gold-standard|The Gold Standard]] · [[money-and-banking|Money and Banking]]
 
 ## Sources
 
