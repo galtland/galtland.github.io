@@ -74,13 +74,9 @@ This is the theoretical scaffolding beneath [[hard-money|Hard Money]] and the br
 
 ## The Contested Bitcoin Bridge
 
-[[bitcoin|Bitcoin]] is where the theorem stops being settled doctrine and becomes a live dispute — and this page takes no side. On its face Bitcoin looks like a counterexample: it had no industrial or commodity use, yet it became a medium of exchange. Two readings compete.
+[[bitcoin|Bitcoin]] is where the theorem stops being settled doctrine and becomes a live dispute. On its face it looks like a counterexample — it had no industrial or commodity use, yet it became a medium of exchange — and Austrians split on what that means. Skeptics apply the corollary literally: a money with no prior non-monetary value either is not money on Mises's criterion or marks a limit of the theorem. Defenders answer that the theorem requires only *some* first non-monetary demand, not an industrial one, and that Bitcoin's early life as a collectible carrying ideological and practical value to cypherpunks supplied it.
 
-**The skeptics.** Some Austrians read Bitcoin as either violating the theorem or failing its test — a thing that became money without a prior non-monetary value therefore is not, on Mises's criterion, true money, or else demonstrates the theorem's limits.
-
-**The defenders.** Others argue the theorem requires only *some* first non-monetary demand, not necessarily an *industrial* one, and that Bitcoin plausibly had it: a novel technology and collectible carrying ideological, speculative, and practical value to cypherpunks — a censorship-resistant payment rail — before it circulated as money. On this reading Szabo's collectibles frame supplies the missing first layer, and the regress terminates in that early non-monetary demand rather than in a metal's industrial use.
-
-Both readings are held by serious people and neither is obviously decisive; confidence here is medium. The important structural point, echoed in the hard-money article, is that the Bitcoin application is the genuinely contested sub-question — the underlying theorem, and the hardness criterion it supports, stand independently of how that particular case resolves.
+The debate has its own article — [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] — which lays out the skeptic reading, the defender reading (Ammous, Szabo), and a property-theory sidestep (Graf). The structural point holds whichever way it resolves: the theorem is an entry/existence claim, and the hardness criterion it scaffolds does not depend on how the Bitcoin case is scored. Confidence here is medium.
 
 ## See Also
 
@@ -92,6 +88,7 @@ Both readings are held by serious people and neither is obviously decisive; conf
 - [[hard-money|Hard Money]] - the sound-money concept the theorem scaffolds; source of the "contested sub-question" framing
 - [[unforgeable-costliness|Unforgeable Costliness]] - the digital-money primitive downstream of the saleableness lineage
 - [[bitcoin|Bitcoin]] - the contested application: a money with no industrial prior use
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the dedicated article on the contested Bitcoin application (skeptic, defender, and property-theory readings)
 - [[the-bitcoin-standard|The Bitcoin Standard]] - a modern Bitcoin-as-hard-money argument downstream of the theorem
 - [[denationalisation-of-money|Denationalisation of Money]] - the regression-theorem objection to launching a new private currency unit with no prior value
 - [[joseph-t-salerno|Joseph T. Salerno]] - carries the Mengerian-Misesian monetary apparatus into modern debate

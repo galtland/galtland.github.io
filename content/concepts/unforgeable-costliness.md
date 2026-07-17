@@ -84,6 +84,8 @@ Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; 
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - why proof-of-work lets Bitcoin hold saleability once monetized, in the regression debate
+
 ## Sources
 
 - [Shelling Out](https://nakamotoinstitute.org/library/shelling-out/) - Szabo on collectible attributes, prehistoric wealth transfer, and unforgeable costliness

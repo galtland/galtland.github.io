@@ -63,6 +63,8 @@ Graf's tentative answer is that bitcoins appear ownable because they are control
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 - [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - Graf's property-theoretic sidestep of the regression theorem
+
 ## Sources
 
 - [Are Bitcoins Ownable?](https://www.konradsgraf.com/s/AreBitcoinsOwnableBookFreePDF5Nov2015.pdf) - Graf's paper on action-based property theory, bitcoin ownability, trespass by hacking, double spending, brain wallets, fungibility, and rival goods

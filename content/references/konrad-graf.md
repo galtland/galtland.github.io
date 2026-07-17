@@ -35,6 +35,8 @@ Graf reads Bitcoin through both Austrian action theory and a libertarian propert
 - [[unforgeable-costliness|Unforgeable Costliness]] - the monetary primitive behind bitcoin's rival, scarce units
 - [[cypherpunk|Cypherpunk]] - the technical-political setting for Bitcoin and crypto-anarchic property questions
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his ownability analysis as a sidestep in the Bitcoin regression-theorem debate
+
 ## Sources
 
 - [Are Bitcoins Ownable? Property Rights, IP Wrongs, and Legal-Theory Implications](https://www.konradsgraf.com/s/AreBitcoinsOwnableBookFreePDF5Nov2015.pdf) - Graf's 5 November 2015 book edition: action-based property theory, key-vs-coin distinction, UTXOs as rival goods, trespass by hacking, double spending, brain wallets, fungibility, and IP limits

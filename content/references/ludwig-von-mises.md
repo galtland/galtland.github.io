@@ -105,6 +105,8 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[economics-in-one-lesson|Economics in One Lesson]]
 - [[henry-hazlitt|Henry Hazlitt]]
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his regression theorem as the premise of the contested Bitcoin application
+
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - the central treatise

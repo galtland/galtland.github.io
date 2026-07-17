@@ -70,6 +70,8 @@ The confidence level is medium. Szabo's account is influential and fits Austrian
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - Szabo's collectibles frame as the defender's non-monetary first layer for Bitcoin
+
 ## Sources
 
 - [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/library/shelling-out/) - Szabo's account of prehistoric collectibles, their attributes, and their role in wealth transfer

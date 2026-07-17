@@ -67,6 +67,8 @@ The book's structure is clear, but its adoption is uncertain. It is best treated
 - [[hard-money|Hard Money]] - Money whose supply is hard to expand; the bridge concept linking Mises on sound money to Ammous's hardness-based monetary economics
 - [[saifedean-ammous|Saifedean Ammous]] - Author reference for Saifedean Ammous, the economist whose Bitcoin Standard, Fiat Standard, and Principles of Economics give this wiki its explicitly Austrian
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - Ammous's regression-theorem restatement, drawn on in the Bitcoin debate
+
 ## Sources
 
 - [[saifedean-ammous|Saifedean Ammous]] - the author

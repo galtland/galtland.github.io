@@ -42,6 +42,8 @@ Menger is the source node for the Austrian theory of money the wiki builds on re
 - [[principles-of-economics-menger|Principles of Economics (Menger)]] - Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, never a property inherent in the good
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the saleableness ancestry both camps reason from
+
 ## Sources
 
 - [On the Origins of Money (Full Text)](https://mises.org/library/origins-money) - Menger's 1892 essay (trans. C.A. Foley): saleableness, the genesis of media of exchange, and the precious metals as money

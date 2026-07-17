@@ -70,6 +70,8 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[economics-in-one-lesson|Economics in One Lesson]]
 - [[henry-hazlitt|Henry Hazlitt]]
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the corollary at issue in the Bitcoin regression-theorem debate
+
 ## Sources
 
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - full Scholar's Edition PDF as a wiki-ingestable aggregate

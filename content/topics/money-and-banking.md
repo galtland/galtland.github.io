@@ -67,6 +67,8 @@ New to this hub? Read these five, in order:
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]]
 - [[mises-on-credit-expansion|Mises on Credit Expansion]]
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - whether Bitcoin satisfies the regression theorem
+
 ## Sources
 
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) - Mises's founding text of Austrian monetary theory: the regression theorem and the proto-business-cycle statement

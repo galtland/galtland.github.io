@@ -118,6 +118,8 @@ New to this hub? Read these five, in order:
 - [[henry-hazlitt|Henry Hazlitt]]
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the intra-Austrian dispute over Bitcoin and the regression theorem
+
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - the central treatise of the modern Austrian school

@@ -77,6 +77,8 @@ The book is influential in Bitcoin circles, but its interpretive claims should n
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - Ammous's collectible/network-value grounding, the defender's answer to the objection
+
 ## Sources
 
 - [[saifedean-ammous|Saifedean Ammous]] - the author

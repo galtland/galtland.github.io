@@ -897,6 +897,8 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 - [[free-software|Free Software]]
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the Austrian dispute over whether Bitcoin satisfies Mises's regression theorem
+
 ## Sources
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi's whitepaper: peer-to-peer electronic cash, the double-spending problem, the proof-of-work timestamp chain and longest-chain rule, one-CPU-one-vote consensus, the honest-majority assumption and attacker-catch-up calculation, the coinbase incentive, Simplified Payment Verification, and the Section 10 privacy model
@@ -2417,6 +2419,82 @@ From the egalitarian side, the strongest replies are that the veil of ignorance 
 
 ---
 
+## Does Bitcoin Satisfy the Regression Theorem?
+URL: /concepts/does-bitcoin-satisfy-the-regression-theorem
+Category: concept
+
+# Does Bitcoin Satisfy the Regression Theorem?
+
+> [[regression-theorem|Mises's regression theorem]] holds that a good can only become money if it *already* had exchange value from some non-monetary use. [[bitcoin|Bitcoin]] had no industrial or commodity use of the kind gold has, yet it grew from nothing into a widely held money — which is why it is the theorem's most-argued modern test case. This page states the challenge and the three main responses — the skeptic's literal reading, the defender's "some first non-monetary demand" reading, and a property-theory sidestep — and takes no side. The dispute is real and unresolved; what both camps can accept is that the theorem is an *entry* claim, and Bitcoin's hardness stands on its own whichever way it goes.
+
+## The challenge
+
+The theorem's payload is a hard corollary, stated by [[ludwig-von-mises|Ludwig von Mises]] in [[human-action|Human Action]]:
+
+> ...no good can be employed for the function of a medium of exchange which at the very beginning of its use for this purpose did not have exchange value on account of other employments.
+>
+> — [[ludwig-von-mises|Ludwig von Mises]], [[human-action|Human Action]]
+
+Gold satisfies this easily: it was prized as ornament and industrial metal long before it circulated as coin, so its monetary value has a non-monetary starting point to regress to. Bitcoin appears not to. It is a purely digital token with no ornamental or industrial employment; on 3 January 2009 it existed only as a running protocol. If a thing with no prior non-monetary use nonetheless became a medium of exchange, then either the theorem is false, or Bitcoin is not money in Mises's sense — or the premise, *that Bitcoin had no prior non-monetary value*, is wrong. Each of these is a way the case has been read.
+
+## The skeptic reading: a literal counterexample
+
+The straightforward Austrian objection takes the corollary at face value. Money, on the theorem, must trace back to a good valued for consumption or use. Bitcoin has no such use to trace back to; therefore, on the strict criterion, it either cannot be sound money or exposes a limit of the theorem. Read literally, the corollary tells against Bitcoin: its early history supplies no non-monetary prior use of the kind Mises required. On this reading the burden is on the defender to name the non-monetary value that Bitcoin had *before* anyone accepted it in exchange — and to show it was value for something other than the expectation of future exchange, which would beg the question.
+
+## The defender reading: some first demand, not an industrial one
+
+The defenders' move is to read the corollary as requiring merely *some* first non-monetary demand — a reason to hold the good other than to trade it onward — not specifically an *industrial* or *ornamental* one. And they argue Bitcoin had it. In its first months Bitcoin was not yet a medium of exchange; it was a curiosity held by a handful of cryptographers for its novelty, its ideological payload (a censorship-resistant, non-state settlement network), and the technical interest of running it. [[the-bitcoin-standard|The Bitcoin Standard]] records that in those months early coins "began to acquire the status of collectibles, albeit in digital form" before the first market price was ever set. On this reading that collectible-and-ideological demand is the non-monetary first layer, and the regress terminates there rather than in a metal's industrial use.
+
+[[nick-szabo|Nick Szabo]] supplies the theoretical version of that first layer. His [[shelling-out|Shelling Out]] account of prehistoric collectibles — valued as durable, costly, hard-to-forge tokens long before coinage — is exactly the category the defender assigns Bitcoin: a digital collectible whose early worth was non-monetary, from which monetary demand later grew.
+
+[[saifedean-ammous|Saifedean Ammous]] carries the Mengerian–Misesian apparatus into the Bitcoin case. In [[principles-of-economics-ammous|Principles of Economics]] he restates the theorem as an account of how monetary demand accretes onto a market good — the theorem explained "how a normal market good can develop into a monetary good when it acquires monetary demand, thus raising its value and increasing its salability" — and he treats Bitcoin's rise as a market phenomenon of the very kind Menger and Mises describe:
+
+> Another powerful refutation of the statist theories of money comes from the emergence of bitcoin, which in the last 14 years has grown from nothing to become one of the world’s 20 largest currencies, all without a single legal authority promoting or decreeing its use.
+>
+> — [[saifedean-ammous|Saifedean Ammous]], [[principles-of-economics-ammous|Principles of Economics]]
+
+For Ammous the pre-monetary layer is exactly that early collectible and network value, together with Bitcoin's strict supply schedule. The [[unforgeable-costliness|unforgeable costliness]] of proof-of-work then explains why the token could *hold* saleability across time once monetary demand arrived, but it is the early non-monetary demand, not the mining cost, that the defender offers as the regress terminus.
+
+## The sidestep: ownable property, not prior value
+
+A third line questions whether the regression theorem is even the right lens. [[konrad-graf|Konrad Graf]], in [[are-bitcoins-ownable|Are Bitcoins Ownable?]], analyzes Bitcoin as ownable digital property through rivalrous, UTXO-level control and a digital-commodity framing, without making the regress the primary anchor of its monetary status. If Bitcoin's economic standing can be established on property-theoretic and empirical grounds, then whether it fits the historical entry-condition of the regression theorem becomes a narrower question about the theorem's scope rather than a verdict on Bitcoin.
+
+## Why it may not decide much
+
+Both camps can agree on a deflationary point that limits the stakes. The regression theorem, as Mises insisted, is an *entry* or *existence* theorem — it "merely explains how a new kind of media of exchange can come into use and remain in use" — not an account of the daily determination of money's value. It is a claim about how the chain of purchasing power must have *begun*, not a law that governs a monetary good's present standing. Bitcoin's monetary properties that people actually trade on — its strict supply schedule, its saleability across space and scale, and the [[unforgeable-costliness|unforgeable costliness]] securing it — are established by its design and its market, and hold whether or not the historical regress is judged to terminate cleanly. So a skeptic can doubt that Bitcoin fits the strict corollary while still granting it is [[hard-money|hard money]] on other grounds, and a defender can win the regress point without that settling Bitcoin's day-to-day value. The contested question is real, but narrower than it first looks.
+
+## Where it stands
+
+The dispute turns on a genuine ambiguity in the theorem itself: does "exchange value on account of other employments" mean value from *industrial or consumption* use specifically, or value from *any* demand that is not the anticipation of future exchange? Read strictly, Bitcoin looks like a counterexample; read loosely, its early collectible-and-ideological demand satisfies the requirement and the theorem survives intact. The strict reading and the loose reading each have a claim on Mises's words, the primary texts do not obviously decide between them, and this page records the dispute rather than resolving it — confidence is medium. A narrower point follows from Mises's own text whichever way the case is scored: the [[regression-theorem|regression theorem]] is an entry/existence claim, and the hardness criterion it scaffolds can be evaluated separately from it.
+
+## See Also
+
+- [[regression-theorem|The Regression Theorem]] - the parent theory this page's contested application belongs to
+- [[bitcoin|Bitcoin]] - the money whose monetary standing the debate concerns
+- [[hard-money|Hard Money]] - the sound-money concept the theorem scaffolds; carries the summary this page expands
+- [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's collectible/network-value grounding of Bitcoin's monetization
+- [[principles-of-economics-ammous|Principles of Economics]] - Ammous's restatement of the regression theorem and the Bitcoin-as-market-money argument
+- [[shelling-out|Shelling Out]] - Szabo's collectibles frame, the defender's non-monetary first layer
+- [[nick-szabo|Nick Szabo]] - author of the saleableness-to-collectibles-to-digital-scarcity lineage
+- [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - Graf's property-theoretic analysis that sidesteps the regress
+- [[konrad-graf|Konrad Graf]] - author of the ownability/digital-commodity angle
+- [[unforgeable-costliness|Unforgeable Costliness]] - why proof-of-work lets the token hold saleability across time once monetized
+- [[ludwig-von-mises|Ludwig von Mises]] - author of the theorem and its corollary
+- [[human-action|Human Action]] - the corollary and the entry-not-daily-determination limit
+- [[carl-menger|Carl Menger]] - the saleableness ancestry both camps reason from
+- [[austrian-economics|Austrian Economics]] - the school whose monetary theory the dispute lives inside
+- [[money-and-banking|Money and Banking]] - the wiki's money hub
+
+## Sources
+
+- [Human Action (Full Text)](https://cdn.mises.org/human_action.epub) - Mises's corollary that no good can serve as a medium of exchange without prior non-monetary exchange value, and the statement that the theorem explains only the entry of a new money, not its daily determination
+- [The Bitcoin Standard (Full Text Aggregate)](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - Ammous's history of Bitcoin's early months, in which coins "began to acquire the status of collectibles, albeit in digital form" before the first market price, and the salability-across-time framing of hardness
+- [Principles of Economics (Full Text)](https://archive.org/details/principles-of-economics_202409) - Ammous's restatement of the regression theorem as monetary demand accreting onto a market good, and Bitcoin's stateless emergence as a refutation of statist money theories
+- [Shelling Out (Full Text)](https://nakamotoinstitute.org/library/shelling-out/) - Szabo's collectibles account — durable, costly, hard-to-forge tokens valued before coinage — the defender's non-monetary first layer for Bitcoin
+- [Are Bitcoins Ownable? (Full Text)](https://www.konradsgraf.com/s/AreBitcoinsOwnableBookFreePDF5Nov2015.pdf) - Graf's action-based property analysis treating Bitcoin as ownable, rivalrous digital property — the sidestep of the regression theorem
+
+---
+
 ## Does Private Property Require the State?
 URL: /concepts/does-private-property-require-the-state
 Category: concept
@@ -3750,7 +3828,7 @@ The recurring failure mode across the sequence is technology-driven debasement. 
 
 Mises's regression theorem in [[the-theory-of-money-and-credit|TMC]] provides the theoretical scaffolding hardness sits on. The theorem holds that money's present purchasing power must trace back through past purchasing powers to a moment when the underlying good had non-monetary value. Hardness matters in that chain because it determines whether the good can sustain its monetary use as the chain extends: a soft good loses purchasing power and falls out of monetary service. [[joseph-t-salerno|Joseph T. Salerno]]'s [[money-sound-and-unsound|Money, Sound and Unsound]] brings this Mengerian-Misesian apparatus forward into present monetary debate, including the [[the-true-money-supply-salerno-1987|True Money Supply]] framework for measuring the actual stock of money.
 
-Saifedean in *The Bitcoin Standard* argues that Bitcoin's regression-theorem grounding comes from its early collectible/network value combined with strict supply limitation — not from proof-of-work input cost in isolation. Some Austrian critics dispute that this satisfies Mises's original requirement of a non-monetary prior use. [[konrad-graf|Konrad Graf]] in [[are-bitcoins-ownable|Are Bitcoins Ownable?]] approaches the same family of questions from a different angle: he argues that Bitcoin can be treated as ownable property through rivalness, UTXO-level control, and digital-commodity analysis without making the regression theorem the primary anchor. The regression-theorem application to Bitcoin is therefore the genuinely contested sub-question; the underlying hardness criterion stands independently.
+Saifedean in *The Bitcoin Standard* argues that Bitcoin's regression-theorem grounding comes from its early collectible/network value combined with strict supply limitation — not from proof-of-work input cost in isolation. Some Austrian critics dispute that this satisfies Mises's original requirement of a non-monetary prior use. [[konrad-graf|Konrad Graf]] in [[are-bitcoins-ownable|Are Bitcoins Ownable?]] approaches the same family of questions from a different angle: he argues that Bitcoin can be treated as ownable property through rivalness, UTXO-level control, and digital-commodity analysis without making the regression theorem the primary anchor. The regression-theorem application to Bitcoin is therefore the genuinely contested sub-question; the underlying hardness criterion stands independently. That debate — skeptic reading, defender reading, and Graf's property-theory sidestep — is treated in full in [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]].
 
 ## Boundaries
 
@@ -3777,6 +3855,8 @@ Hard money is a *property of a money*, not a complete monetary system or institu
 **Further:** [[cypherpunk|Cypherpunk]] · [[intellectual-property|Intellectual Property]] · [[parallel-economy|The Parallel Economy]] · [[digital-cash-history|Lessons from Digital-Cash History]] · [[ecash|Ecash and Chaumian Mints]] · [[franciscos-money-speech|Francisco's Money Speech]] · [[denationalisation-of-money|Denationalisation of Money]] · [[ideal-money|Ideal Money]] · [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] · [[the-cybereconomy|The Cybereconomy]] · [[school-of-salamanca|School of Salamanca]] · [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] · [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] · [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] · [[capitalism-and-freedom|Capitalism and Freedom]] · [[milton-friedman|Milton Friedman]] · [[bit-gold|Bit Gold]] · [[carl-menger|Carl Menger]] · [[federal-reserve|Federal Reserve]] · [[bitcoin|Bitcoin]] · [[b-money|b-money]] · [[john-nash|John Nash]] · [[spontaneous-order|Spontaneous Order]] · [[cantillon-effect|The Cantillon Effect]] · [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] · [[deflation|Deflation]] · [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] · [[fungibility|Fungibility]] · [[self-custody|Self-Custody]] · [[21-lessons|21 Lessons]] · [[regression-theorem|The Regression Theorem]] · [[gold-standard|The Gold Standard]] · [[money-and-banking|Money and Banking]]
 - [[taxation|Taxation]]
 - [[inflation|Inflation]]
+
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the dedicated article on the contested regression-theorem application to Bitcoin
 
 ## Sources
 
@@ -7565,13 +7645,9 @@ This is the theoretical scaffolding beneath [[hard-money|Hard Money]] and the br
 
 ## The Contested Bitcoin Bridge
 
-[[bitcoin|Bitcoin]] is where the theorem stops being settled doctrine and becomes a live dispute — and this page takes no side. On its face Bitcoin looks like a counterexample: it had no industrial or commodity use, yet it became a medium of exchange. Two readings compete.
+[[bitcoin|Bitcoin]] is where the theorem stops being settled doctrine and becomes a live dispute. On its face it looks like a counterexample — it had no industrial or commodity use, yet it became a medium of exchange — and Austrians split on what that means. Skeptics apply the corollary literally: a money with no prior non-monetary value either is not money on Mises's criterion or marks a limit of the theorem. Defenders answer that the theorem requires only *some* first non-monetary demand, not an industrial one, and that Bitcoin's early life as a collectible carrying ideological and practical value to cypherpunks supplied it.
 
-**The skeptics.** Some Austrians read Bitcoin as either violating the theorem or failing its test — a thing that became money without a prior non-monetary value therefore is not, on Mises's criterion, true money, or else demonstrates the theorem's limits.
-
-**The defenders.** Others argue the theorem requires only *some* first non-monetary demand, not necessarily an *industrial* one, and that Bitcoin plausibly had it: a novel technology and collectible carrying ideological, speculative, and practical value to cypherpunks — a censorship-resistant payment rail — before it circulated as money. On this reading Szabo's collectibles frame supplies the missing first layer, and the regress terminates in that early non-monetary demand rather than in a metal's industrial use.
-
-Both readings are held by serious people and neither is obviously decisive; confidence here is medium. The important structural point, echoed in the hard-money article, is that the Bitcoin application is the genuinely contested sub-question — the underlying theorem, and the hardness criterion it supports, stand independently of how that particular case resolves.
+The debate has its own article — [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] — which lays out the skeptic reading, the defender reading (Ammous, Szabo), and a property-theory sidestep (Graf). The structural point holds whichever way it resolves: the theorem is an entry/existence claim, and the hardness criterion it scaffolds does not depend on how the Bitcoin case is scored. Confidence here is medium.
 
 ## See Also
 
@@ -7583,6 +7659,7 @@ Both readings are held by serious people and neither is obviously decisive; conf
 - [[hard-money|Hard Money]] - the sound-money concept the theorem scaffolds; source of the "contested sub-question" framing
 - [[unforgeable-costliness|Unforgeable Costliness]] - the digital-money primitive downstream of the saleableness lineage
 - [[bitcoin|Bitcoin]] - the contested application: a money with no industrial prior use
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the dedicated article on the contested Bitcoin application (skeptic, defender, and property-theory readings)
 - [[the-bitcoin-standard|The Bitcoin Standard]] - a modern Bitcoin-as-hard-money argument downstream of the theorem
 - [[denationalisation-of-money|Denationalisation of Money]] - the regression-theorem objection to launching a new private currency unit with no prior value
 - [[joseph-t-salerno|Joseph T. Salerno]] - carries the Mengerian-Misesian monetary apparatus into modern debate
@@ -8501,6 +8578,8 @@ The confidence level is medium. Szabo's account is influential and fits Austrian
 - [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
+
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - Szabo's collectibles frame as the defender's non-monetary first layer for Bitcoin
 
 ## Sources
 
@@ -10042,6 +10121,8 @@ Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; 
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - why proof-of-work lets Bitcoin hold saleability once monetized, in the regression debate
+
 ## Sources
 
 - [Shelling Out](https://nakamotoinstitute.org/library/shelling-out/) - Szabo on collectible attributes, prehistoric wealth transfer, and unforgeable costliness
@@ -11002,6 +11083,8 @@ Graf's tentative answer is that bitcoins appear ownable because they are control
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 - [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - Graf's property-theoretic sidestep of the regression theorem
+
 ## Sources
 
 - [Are Bitcoins Ownable?](https://www.konradsgraf.com/s/AreBitcoinsOwnableBookFreePDF5Nov2015.pdf) - Graf's paper on action-based property theory, bitcoin ownability, trespass by hacking, double spending, brain wallets, fungibility, and rival goods
@@ -11752,6 +11835,8 @@ Menger is the source node for the Austrian theory of money the wiki builds on re
 - [[karl-marx|Karl Marx]] - Author of Capital (1867) and the labor theory of value — value as socially necessary labour-time embodied in goods; the principal foil to the Austrian subjective theory of value.
 - [[principles-of-economics-menger|Principles of Economics (Menger)]] - Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, never a property inherent in the good
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
+
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the saleableness ancestry both camps reason from
 
 ## Sources
 
@@ -13543,6 +13628,8 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[economics-in-one-lesson|Economics in One Lesson]]
 - [[henry-hazlitt|Henry Hazlitt]]
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the corollary at issue in the Bitcoin regression-theorem debate
+
 ## Sources
 
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - full Scholar's Edition PDF as a wiki-ingestable aggregate
@@ -14155,6 +14242,8 @@ Graf reads Bitcoin through both Austrian action theory and a libertarian propert
 - [[unforgeable-costliness|Unforgeable Costliness]] - the monetary primitive behind bitcoin's rival, scarce units
 - [[cypherpunk|Cypherpunk]] - the technical-political setting for Bitcoin and crypto-anarchic property questions
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his ownability analysis as a sidestep in the Bitcoin regression-theorem debate
+
 ## Sources
 
 - [Are Bitcoins Ownable? Property Rights, IP Wrongs, and Legal-Theory Implications](https://www.konradsgraf.com/s/AreBitcoinsOwnableBookFreePDF5Nov2015.pdf) - Graf's 5 November 2015 book edition: action-based property theory, key-vs-coin distinction, UTXOs as rival goods, trespass by hacking, double spending, brain wallets, fungibility, and IP limits
@@ -14350,6 +14439,8 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 - [[economics-in-one-lesson|Economics in One Lesson]]
 - [[henry-hazlitt|Henry Hazlitt]]
+
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his regression theorem as the premise of the contested Bitcoin application
 
 ## Sources
 
@@ -15049,6 +15140,8 @@ That places Szabo near [[market-anarchism-and-private-law|Market Anarchism and P
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - Pseudonymous author of the 2008 Bitcoin whitepaper. The work is well-documented; identity claims are deliberately treated as low-confidence.
 - [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), former Intel senior scientist and founding cypherpunk; author of the Crypto Anarchist Manifesto (1988) and Cyphernomicon (1994).
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his collectibles frame supplies the defender's answer to the objection
+
 ## Sources
 
 - [Smart Contracts](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html) - 1994 contract-as-protocol concept, digital cash, and smart property
@@ -15632,6 +15725,8 @@ The book's structure is clear, but its adoption is uncertain. It is best treated
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - defense and law-order themes adjacent to Chapters 16-17
 - [[hard-money|Hard Money]] - Money whose supply is hard to expand; the bridge concept linking Mises on sound money to Ammous's hardness-based monetary economics
 - [[saifedean-ammous|Saifedean Ammous]] - Author reference for Saifedean Ammous, the economist whose Bitcoin Standard, Fiat Standard, and Principles of Economics give this wiki its explicitly Austrian
+
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - Ammous's regression-theorem restatement, drawn on in the Bitcoin debate
 
 ## Sources
 
@@ -16448,6 +16543,8 @@ The book is influential in Bitcoin circles, but its interpretive claims should n
 - [[21-lessons|21 Lessons]] - Gigi's book of 21 lessons from the Bitcoin rabbit hole — seven philosophical, seven economic, seven technological — ending where the movement began: cypherpunks write code.
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - Ammous's collectible/network-value grounding, the defender's answer to the objection
 
 ## Sources
 
@@ -19516,6 +19613,8 @@ New to this hub? Read these five, in order:
 - [[henry-hazlitt|Henry Hazlitt]]
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the intra-Austrian dispute over Bitcoin and the regression theorem
+
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - the central treatise of the modern Austrian school
@@ -19911,6 +20010,8 @@ New to this hub? Read these five, in order:
 - [[privacy-and-cryptography|Privacy and Cryptography]]
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]]
 - [[mises-on-credit-expansion|Mises on Credit Expansion]]
+
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - whether Bitcoin satisfies the regression theorem
 
 ## Sources
 

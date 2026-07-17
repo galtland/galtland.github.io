@@ -73,6 +73,8 @@ That places Szabo near [[market-anarchism-and-private-law|Market Anarchism and P
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - Pseudonymous author of the 2008 Bitcoin whitepaper. The work is well-documented; identity claims are deliberately treated as low-confidence.
 - [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), former Intel senior scientist and founding cypherpunk; author of the Crypto Anarchist Manifesto (1988) and Cyphernomicon (1994).
 
+- [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his collectibles frame supplies the defender's answer to the objection
+
 ## Sources
 
 - [Smart Contracts](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html) - 1994 contract-as-protocol concept, digital cash, and smart property
