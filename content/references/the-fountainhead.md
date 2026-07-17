@@ -14,7 +14,7 @@ short: "Rand's 1943 individualist novel of the uncompromising architect Howard R
 
 # The Fountainhead
 
-> [[the-fountainhead|The Fountainhead]] is [[ayn-rand|Ayn Rand]]'s ([Ayn Rand](ayn-rand.md)) 1943 novel about Howard Roark, an architect who would rather see his buildings unbuilt than see them altered by others. Across its four parts, Rand uses Roark and the men around him to dramatize what she presents as the fundamental human choice between independence and dependence — between the creator who works from his own judgment and the "second-hander" who lives through the opinions of others. It is the book that brought Rand a mass readership and the first sustained statement of the ethics she would later name [[objectivism|Objectivism]].
+> [[the-fountainhead|The Fountainhead]] is [[ayn-rand|Ayn Rand]]'s 1943 novel about Howard Roark, an architect who would rather see his buildings unbuilt than see them altered by others. Across its four parts, Rand uses Roark and the men around him to dramatize what she presents as the fundamental human choice between independence and dependence — between the creator who works from his own judgment and the "second-hander" who lives through the opinions of others. It is the book that brought Rand a mass readership and the first sustained statement of the ethics she would later name [[objectivism|Objectivism]].
 
 ## Howard Roark and the premise of independent creation
 

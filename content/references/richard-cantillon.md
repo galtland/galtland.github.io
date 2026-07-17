@@ -18,7 +18,7 @@ confidence: medium
 
 ## Place in This Wiki
 
-Cantillon was an Irish-French banker and merchant who made — and kept — a fortune through John Law's Mississippi scheme, whose collapse he foresaw. His one surviving work, the *Essai sur la Nature du Commerce en Général* (written around 1730, published 1755), is reconstructed for this wiki through [[murray-n-rothbard|Rothbard]]'s ([Murray N. Rothbard](murray-n-rothbard.md)) [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]], which devotes a chapter to him as "the founding father of modern economics."
+Cantillon was an Irish-French banker and merchant who made — and kept — a fortune through John Law's Mississippi scheme, whose collapse he foresaw. His one surviving work, the *Essai sur la Nature du Commerce en Général* (written around 1730, published 1755), is reconstructed for this wiki through [[murray-n-rothbard|Rothbard]]'s [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]], which devotes a chapter to him as "the founding father of modern economics."
 
 The wiki uses one strand of that chapter: Cantillon's demonstration that money is *not neutral*. Against the naive quantity theory, he showed that new money enters at particular points and raises prices step by step, in an order that redistributes real wealth toward those who receive it first — the analysis the [[cantillon-effect|Cantillon effect]] draws on. He stands in the pre-Austrian, subjective-value lineage the wiki traces from the Salamancans through Turgot, and his credit-and-interest analysis is, in Rothbard's reading, an early anticipation of [[austrian-business-cycle-theory|Austrian business cycle theory]].
 

@@ -14,7 +14,7 @@ short: "The Austrian case that IP monopolies are illegitimate: property rights r
 
 # Intellectual Property
 
-> Within the scarcity-based property theory the wiki uses, **intellectual property** (patents, copyrights) is not property at all but a state-granted monopoly privilege. The argument, stated most directly by Stephan Kinsella and grounded in [[murray-n-rothbard|Rothbard]]'s ([Murray N. Rothbard](../references/murray-n-rothbard.md)) property theory, runs: property rights exist to resolve conflicts over *scarce* (rivalrous) resources; information content is non-rivalrous; therefore information content cannot be owned, and enforcing "ownership" of it means controlling how others use their own physical property.
+> Within the scarcity-based property theory the wiki uses, **intellectual property** (patents, copyrights) is not property at all but a state-granted monopoly privilege. The argument, stated most directly by Stephan Kinsella and grounded in [[murray-n-rothbard|Rothbard]]'s property theory, runs: property rights exist to resolve conflicts over *scarce* (rivalrous) resources; information content is non-rivalrous; therefore information content cannot be owned, and enforcing "ownership" of it means controlling how others use their own physical property.
 
 ## Scarcity as the Ground of Property
 

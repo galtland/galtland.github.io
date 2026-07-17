@@ -14,7 +14,7 @@ confidence: medium
 
 # Anarchy, State, and Utopia
 
-> *Anarchy, State, and Utopia* (1974) is [[robert-nozick|Robert Nozick]]'s ([Robert Nozick](robert-nozick.md)) defense of the libertarian minimal state — the most influential statement of [[minarchism|minarchism]] in academic political philosophy, and the libertarian counterweight to Rawls's *A Theory of Justice*.
+> *Anarchy, State, and Utopia* (1974) is [[robert-nozick|Robert Nozick]]'s defense of the libertarian minimal state — the most influential statement of [[minarchism|minarchism]] in academic political philosophy, and the libertarian counterweight to Rawls's *A Theory of Justice*.
 
 ## The three parts
 

@@ -23,7 +23,7 @@ Every other rule of property presupposes an answer to this one. The [[title-tran
 
 ## Locke's labor-mixing
 
-The classic statement is [[john-locke|Locke]]'s ([John Locke](../references/john-locke.md)) in the [[the-second-treatise-of-government|Second Treatise of Government]]. Beginning from self-ownership — "The labour of his body, and the work of his hands, we may say, are properly his" — Locke argues that when a person removes something from its natural state, he "hath mixed his labour with, and joined to it something that is his own, and thereby makes it his property." Picking the acorn, tilling the field, drawing the water: the labor that is already yours is annexed to the unowned thing, and the thing becomes yours. Locke attaches a now-famous condition — the **Lockean proviso** — that this holds "at least where there is enough, and as good, left in common for others."
+The classic statement is [[john-locke|Locke]]'s in the [[the-second-treatise-of-government|Second Treatise of Government]]. Beginning from self-ownership — "The labour of his body, and the work of his hands, we may say, are properly his" — Locke argues that when a person removes something from its natural state, he "hath mixed his labour with, and joined to it something that is his own, and thereby makes it his property." Picking the acorn, tilling the field, drawing the water: the labor that is already yours is annexed to the unowned thing, and the thing becomes yours. Locke attaches a now-famous condition — the **Lockean proviso** — that this holds "at least where there is enough, and as good, left in common for others."
 
 ## Rothbard: first-use-first-own
 
