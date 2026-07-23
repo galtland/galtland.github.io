@@ -75,6 +75,8 @@ This concept is separated from totalitarianism because it is a precondition rath
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[iron-law-of-oligarchy|The Iron Law of Oligarchy]]
+
 ## Sources
 
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - chapters 10 and 13 for masses, isolation, loneliness, uprootedness, superfluousness, and totalitarian mobilization

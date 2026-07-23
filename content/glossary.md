@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (348 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (352 entries).
 
 ## #
 
@@ -180,6 +180,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Inflation](/concepts/inflation)** — In the Austrian sense, an increase in the money supply — of which rising prices are the symptom. Never neutral (the Cantillon effect makes it a hidden tax); at the limit it becomes the crack-up boom.
 - **[Inflation and Unemployment](/references/inflation-and-unemployment)** — Friedman's 1976 Nobel lecture: no lasting trade-off between inflation and unemployment, the natural rate, and the vertical long-run Phillips curve — the monetarist core the Austrians answer on method.
 - **[Intellectual Property](/concepts/intellectual-property)** — The Austrian case that IP monopolies are illegitimate: property rights resolve conflict over rivalrous resources, and information is not rivalrous.
+- **[The Iron Law of Oligarchy](/concepts/iron-law-of-oligarchy)** — Robert Michels's thesis that every organization, however democratic in aim, inevitably develops a ruling minority that emancipates itself from the mass — 'Who says organization, says oligarchy.
 
 ## J
 
@@ -235,6 +236,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Michel Foucault](/references/michel-foucault)** — Non-libertarian genealogist of discipline, surveillance, biopower, population, and modern power, included here as a foil and analytic resource.
 - **[Milton Friedman](/references/milton-friedman)** — Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism, author of Capitalism and Freedom — the free-market ally the wiki's Austrians part with over money and method.
 - **[Minarchism](/concepts/minarchism)** — The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
+- **[The Minority Rule](/concepts/minority-rule)** — Nassim Taleb's claim that an intransigent minority of three to four percent, one that will not deviate while the majority is indifferent, can drag an entire population to its preference.
 - **[Mises and Hayek Dehomogenized](/references/mises-and-hayek-dehomogenized)** — Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
 - **[Mises on Capital Consumption](/concepts/mises-on-capital-consumption)** — Mises's *Liberalism* claim that 'antiliberal policy is a policy of capital consumption' — present abundance bought by drawing down the productive stock that would fund future production.
 - **[Mises on Credit Expansion](/concepts/mises-on-credit-expansion)** — Mises's claim that credit expansion drops the gross market interest rate below its time-preference level, falsifying calculation and making unrealizable projects look profitable.
@@ -251,6 +253,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 
 ## N
 
+- **[Nassim Nicholas Taleb](/references/nassim-taleb)** — Probabilist and essayist (b. 1960) whose Incerto — Skin in the Game, Antifragile, The Black Swan — supplies the wiki with the minority rule and a risk-based case for decentralization.
 - **[Nationalism and State Formation](/concepts/nationalism-and-state-formation)** — Tilly's treatment of nationalism as both ruler-driven identification with the state and minority claims to separate statehood.
 - **[Natural Law](/topics/natural-law)** — The wiki's natural-law hub: reason-knowable justice above positive law, traced from Aristotle and Cicero through Aquinas, Grotius, and Locke to Spooner and Rothbard's rights-based libertarianism.
 - **[Natural Law and Natural Order](/concepts/natural-law-and-natural-order)** — The doctrine of objective, reason-knowable justice above positive law — from Aristotle and Aquinas down to Spooner, Rothbard, and Hoppe — foundation of libertarianism's natural-rights branch.
@@ -322,6 +325,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Ring Signatures](/concepts/ring-signatures)** — A privacy signature primitive: prove one key in a set signed, without revealing which key; CryptoNote uses it to hide senders.
 - **[The Rise of the Social](/concepts/the-rise-of-the-social)** — Arendt's diagnosis that the modern 'social' realm blurs public and private into collective household administration, crowding out genuine public action.
 - **[The Road to Serfdom](/references/road-to-serfdom)** — Hayek's 1944 warning that central economic planning destroys the rule of law and leads to authoritarian rule.
+- **[Robert Michels](/references/robert-michels)** — German-Italian sociologist (1876–1936) whose Political Parties (1911) formulated the iron law of oligarchy.
 - **[Robert Nozick](/references/robert-nozick)** — American philosopher (1938–2002) whose Anarchy, State, and Utopia is the landmark academic defense of the libertarian minimal state.
 - **[The Role of Monetary Policy](/references/the-role-of-monetary-policy)** — Friedman's 1968 monetarist address: the limits of monetary policy, the natural rate, and the steady money-growth rule — the Chicago account of the cycle the Austrians dispute.
 - **[Rothbard on Fed-Induced Booms](/concepts/rothbard-on-fed-induced-boom)** — Rothbard's claim: the boom-bust cycle is generated by bank credit expansion, driven by central banks like the Fed, which lowers loan rates, inducing entrepreneurial errors and capital malinvestment.

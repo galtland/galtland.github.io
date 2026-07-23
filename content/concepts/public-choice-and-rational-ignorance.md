@@ -64,6 +64,8 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 - [[james-buchanan|James Buchanan]]
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
+- [[iron-law-of-oligarchy|The Iron Law of Oligarchy]]
+- [[robert-michels|Robert Michels]]
 
 ## Sources
 

@@ -4,7 +4,7 @@ title: "Authors & Works"
 
 # Authors & Works
 
-An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (66 authors, 107 works).
+An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (68 authors, 107 works).
 
 ## A
 
@@ -155,6 +155,7 @@ An index of every author, thinker, and organization in the wiki, each with the w
 
 ## N
 
+- **[Nassim Nicholas Taleb](/references/nassim-taleb)**
 - **[Nick Szabo](/references/nick-szabo)**
 
 ## P
@@ -166,6 +167,7 @@ An index of every author, thinker, and organization in the wiki, each with the w
 ## R
 
 - **[Richard Cantillon](/references/richard-cantillon)**
+- **[Robert Michels](/references/robert-michels)**
 - **[Robert Nozick](/references/robert-nozick)**
   - [Anarchy, State, and Utopia](/references/anarchy-state-and-utopia)
 

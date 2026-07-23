@@ -55,6 +55,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 - [[john-perry-barlow|John Perry Barlow]]
 - [[secession|Secession]]
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
+- [[nassim-taleb|Nassim Nicholas Taleb]]
 
 ## Sources
 

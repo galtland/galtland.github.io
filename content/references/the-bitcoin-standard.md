@@ -18,7 +18,7 @@ short: "Ammous's 2018 hard-money case for Bitcoin, now represented by a full-tex
 
 ## Bibliographic Status
 
-The source for this reference is the 2026-05-28 full-text raw ingest of *The Bitcoin Standard: The Decentralized Alternative to Central Banking*. The raw file identifies the book as a 2018 John Wiley & Sons publication with a foreword by Nassim Nicholas Taleb and notes that it supersedes the 2026-05-27 metadata stub.
+The source for this reference is the 2026-05-28 full-text raw ingest of *The Bitcoin Standard: The Decentralized Alternative to Central Banking*. The raw file identifies the book as a 2018 John Wiley & Sons publication with a foreword by [[nassim-taleb|Nassim Nicholas Taleb]] and notes that it supersedes the 2026-05-27 metadata stub.
 
 Confidence is high for the book's existence, publication details in the raw text, and chapter structure. Confidence is medium for broader claims about whether Ammous's interpretations are accepted across Austrian economics, monetary history, or Bitcoin scholarship.
 

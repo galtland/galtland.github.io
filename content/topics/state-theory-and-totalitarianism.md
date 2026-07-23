@@ -52,6 +52,7 @@ New to this hub? Read these five, in order:
 
 ## See Also
 
+- [[iron-law-of-oligarchy|The Iron Law of Oligarchy]] - Michels's elite-theory law: every organization concentrates power in a self-perpetuating minority
 - [[state-power-and-intervention|State Power and Intervention]] - the main libertarian state-power article
 - [[evolution-of-the-state|Evolution of the State]] - conquest origin, persistence, and regime-change layers
 - [[oppenheimer-on-conquest|Oppenheimer on Conquest]] - the state as institutionalized conquest

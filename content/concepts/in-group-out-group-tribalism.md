@@ -56,6 +56,7 @@ Sumner is a non-libertarian descriptive sociologist; like Tilly and Arendt elsew
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
+- [[minority-rule|The Minority Rule]]
 
 ## Sources
 
