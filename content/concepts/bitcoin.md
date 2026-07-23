@@ -138,6 +138,7 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 - [[free-software|Free Software]]
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the Austrian dispute over whether Bitcoin satisfies Mises's regression theorem
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

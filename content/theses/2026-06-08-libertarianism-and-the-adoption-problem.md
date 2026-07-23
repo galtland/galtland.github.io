@@ -154,6 +154,7 @@ Liberty does not win by out-uniting nationalism on its own ground; it cannot. If
 - [[cypherpunk|Cypherpunk]] - The wiki's Austrian-libertarian reading of cypherpunk: strong cryptography, anonymous protocols, and verifiable scarcity replacing trusted intermediaries with verifiable rules
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

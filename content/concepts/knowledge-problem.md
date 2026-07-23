@@ -68,6 +68,7 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

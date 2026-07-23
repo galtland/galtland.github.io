@@ -107,6 +107,8 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his regression theorem as the premise of the contested Bitcoin application
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - the central treatise

@@ -45,6 +45,8 @@ This should not be turned into libertarian doctrine. Arendt does not infer marke
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with this distinction
 - [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - reciprocal link.
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - OCR extraction from the Monoskop scan of *Crises of the Republic*

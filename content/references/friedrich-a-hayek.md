@@ -81,6 +81,8 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - political application of the critique of planning

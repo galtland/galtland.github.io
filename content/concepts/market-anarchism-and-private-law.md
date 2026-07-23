@@ -75,6 +75,8 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - enforcement without a monopoly, the constructive reply to the claim that property requires the state
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Market for Liberty (Full Text Aggregate)](https://cdn.mises.org/the_market_for_liberty_2.epub) - most detailed institutional sketch of private courts, defense, insurance, and title

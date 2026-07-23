@@ -93,6 +93,7 @@ The wiki's position is that Bitcoin is real individual sovereignty and no collec
 - [[murray-n-rothbard|Murray N. Rothbard]] - Reference guide to Rothbard's place in this wiki as system-builder, economist, anti-state theorist, and movement strategist.
 - [[samuel-edward-konkin-iii|Samuel Edward Konkin III]] - Short author reference for Samuel Edward Konkin III, the market-anarchist theorist who founded agorism and counter-economics and wrote the New Libertarian Manifesto.
 - [[william-rees-mogg|William Rees-Mogg]] - Short author reference for Lord William Rees-Mogg as represented by *The Sovereign Individual*: a British journalist and public figure
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

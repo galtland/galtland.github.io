@@ -54,6 +54,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 - [[john-perry-barlow|John Perry Barlow]]
 - [[secession|Secession]]
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

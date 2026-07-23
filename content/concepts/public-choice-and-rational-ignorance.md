@@ -63,6 +63,7 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 - [[james-buchanan|James Buchanan]]
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

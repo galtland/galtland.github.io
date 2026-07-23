@@ -92,6 +92,8 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Hashcash: A Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) - proof-of-work cost-function design, especially Sections 3, 4, and 6

@@ -78,6 +78,7 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the calculation argument as the reply that holds whoever enforces property
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

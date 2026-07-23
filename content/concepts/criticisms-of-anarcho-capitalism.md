@@ -73,6 +73,7 @@ None of these objections is decisively refuted, and none decisively refutes the 
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the prior, conceptual objection — that property is constituted by state violence — answered before these empirical ones
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

@@ -62,6 +62,8 @@ Finney was describing pre-1861 American private banknotes, then speculating "tha
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[your-secret-right-to-cash|Your Secret Right to Cash]] - Van Valkenburgh's 2017 essay: cash silently guaranteed uncensorable, private payment — a 'secret right' nobody defended because physics enforced it, until electronic money removed it.
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 15 §15.10 on Chaumian ecash applied to Bitcoin, Cashu single-operator mints, Fedimint federated custody, and the privacy-versus-custody tradeoff

@@ -51,6 +51,7 @@ Spontaneous order is the positive half of the Austrian case for liberty: where t
 - [[adam-smith|Adam Smith]]
 - [[the-wealth-of-nations|The Wealth of Nations]]
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

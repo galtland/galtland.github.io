@@ -109,6 +109,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the objection that property is nothing but a state-enforced entitlement, stated at full strength and answered
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

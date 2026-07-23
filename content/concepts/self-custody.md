@@ -47,6 +47,8 @@ The custody gap is the strongest empirical point in the critique of crypto's pol
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 - [[financial-surveillance|Financial Surveillance]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - value moving "without going through a financial institution" — the removed intermediary that custody either keeps out or lets back in

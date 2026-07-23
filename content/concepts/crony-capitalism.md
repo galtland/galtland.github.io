@@ -85,6 +85,7 @@ There is also a genuine boundary problem: in a heavily regulated economy almost 
 - [[james-buchanan|James Buchanan]]
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the state-shaped property the communist critique rightly targets, conceded and distinguished from property as such
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

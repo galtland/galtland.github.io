@@ -113,6 +113,8 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's major economic treatise as a full-text aggregate

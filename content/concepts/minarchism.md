@@ -62,6 +62,7 @@ Most of this corpus argues from the anarcho-capitalist side; minarchism is the p
 - [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 - [[secession|Secession]]
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

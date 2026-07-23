@@ -60,6 +60,8 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[secession|Secession]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive DjVu OCR aggregate with provenance and rights note

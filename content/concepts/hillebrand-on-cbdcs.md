@@ -63,6 +63,8 @@ CBDCs are the newest instrument in the [[money-and-banking|money-and-banking]] h
 - [[privacy-and-cryptography|Privacy and Cryptography]]
 - [[financial-surveillance|Financial Surveillance]]
 
+
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy: Economic Logic in Cypherpunk Implementation](https://towardsliberty.com/pop) — Ch. 10 §10.5 "Central Bank Digital Currencies as Total Intervention" (autistic/binary/triangular mapping; the programmability catalogue; the "not sound money" verdict). CBDC-design specifics (retail/wholesale, account/token, direct-liability structure, the proponents' efficiency/inclusion case, the digital-euro and e-CNY landscape) are widely documented common knowledge, not drawn from this source.

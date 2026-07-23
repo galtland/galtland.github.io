@@ -65,6 +65,8 @@ The parallel economy is the cypherpunk-implementation cousin of **agorism / coun
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 21 "Building the Parallel Economy" (with chs. 2 and 10 on convergence and the observation loop)

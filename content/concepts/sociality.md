@@ -79,6 +79,7 @@ The negative core of sociality is the point of contact with that later tradition
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition into which sociality fits as Pufendorf's distinctive contribution
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the modern compressed statement of the rule sociality's non-injury core supports
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's sharpening of the Pufendorfian apparatus into equal natural rights
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 

@@ -75,6 +75,7 @@ Forced integration is the propertarian limit-case of freedom of association: it 
 - [[political-means-and-economic-means|Political Means and Economic Means]] - the coercion-vs-voluntary distinction beneath it
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the private-law order Hoppe's remedy appeals to
 - [[open-borders|Open Borders]] - Walter Block's non-aggression-axiom case that peaceful migration is not aggression, so that immigration restriction is the coercive act — the libertarian counter to forced integration.
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
 ## Sources
 
