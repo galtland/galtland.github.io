@@ -4,10 +4,10 @@ volatility: warm
 category: concept
 created: 2026-05-05
 updated: 2026-06-25
-verified: 2026-06-25
+verified: 2026-07-23
 tags: [hayek, knowledge-problem, central-planning, spontaneous-order, austrian-economics]
 aliases: [Use of Knowledge in Society, Hayekian Knowledge Problem, Dispersed Knowledge]
-confidence: medium
+confidence: high
 summary: "Hayek's argument that the knowledge needed to coordinate an economy is dispersed, often tacit, and time-and-place-specific, so the price system — not a central planner — is what puts it to use."
 short: "Hayek's argument that economic knowledge is dispersed and tacit, so the price system, not a central planner, is what puts it to use."
 ---

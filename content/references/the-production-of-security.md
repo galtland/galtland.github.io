@@ -4,10 +4,10 @@ volatility: warm
 category: reference
 created: 2026-05-06
 updated: 2026-06-26
-verified: 2026-06-26
+verified: 2026-07-23
 tags: [molinari, market-anarchism, private-security, classical-liberalism, private-law, evolution-of-the-state]
 aliases: [De la production de la sécurité, Molinari's Production of Security]
-confidence: medium
+confidence: high
 summary: "Reference guide to Molinari's 1849 essay — the founding text of the classical-liberal case for private, competitive production of security, and the principal nineteenth-century predecessor to modern market-anarchist thought."
 short: "Molinari's 1849 essay founding the classical-liberal case for private, competitive production of security - the root of market anarchism."
 ---

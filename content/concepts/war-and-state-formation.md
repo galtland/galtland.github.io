@@ -4,10 +4,10 @@ volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-06-09
-verified: 2026-06-09
+verified: 2026-07-23
 tags: [war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, organized-crime, evolution-of-the-state, political-means, historical-sociology, totalitarianism, non-libertarian]
 aliases: [war made the state and the state made war, states as protection rackets, Tilly state formation, capital coercion typology]
-confidence: medium
+confidence: high
 summary: "Tilly's historical-sociological thesis that European war-making, extraction, coercive consolidation, capital, and interstate competition jointly produced the national state. The article now rests on the expanded 1990/1992 book ingest plus Tilly's 1985 organized-crime essay for the protection-racket formulation."
 short: "Tilly's thesis that European war-making, extraction, and interstate competition coercively forged the national state, the ruler as protection racketeer writ large."
 ---

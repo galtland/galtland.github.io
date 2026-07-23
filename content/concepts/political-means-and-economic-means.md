@@ -4,10 +4,10 @@ volatility: warm
 category: concept
 created: 2026-05-10
 updated: 2026-06-09
-verified: 2026-06-09
+verified: 2026-07-23
 tags: [political-means, economic-means, state, exploitation, production, exchange, nonaggression, war-and-state-formation]
 aliases: [economic means, political means, Oppenheimer distinction, production versus predation]
-confidence: medium
+confidence: high
 summary: "Oppenheimer's distinction between the economic means of production-and-voluntary-exchange and the political means of coercive appropriation, later adopted by Nock, Rothbard, and Hoppe and empirically illuminated by Tilly's capital/coercion account of European state formation."
 short: "Oppenheimer's distinction between voluntary production-and-exchange and coercive appropriation, adopted by Nock, Rothbard, and Hoppe."
 ---

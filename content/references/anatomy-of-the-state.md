@@ -4,10 +4,10 @@ volatility: warm
 category: reference
 created: 2026-04-25
 updated: 2026-06-09
-verified: 2026-06-09
+verified: 2026-07-23
 tags: [rothbard, state, anti-statism, political-theory, political-means, evolution-of-the-state]
 aliases: [Anatomy]
-confidence: medium
+confidence: high
 summary: "Reference guide to Rothbard's concise anti-state essay on political monopoly, ideological camouflage, and the conflict between state power and social power."
 short: "Rothbard's concise essay unmasking the state as political monopoly wrapped in ideological camouflage, opposed to voluntary social power."
 ---

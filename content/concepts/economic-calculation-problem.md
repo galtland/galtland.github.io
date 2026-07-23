@@ -4,10 +4,10 @@ volatility: warm
 category: concept
 created: 2026-05-05
 updated: 2026-06-18
-verified: 2026-06-18
+verified: 2026-07-23
 tags: [calculation-problem, socialism, austrian-economics, central-planning]
 aliases: [Calculation Problem, Mises's Calculation Argument, Socialist Calculation Debate, Socialist Calculation]
-confidence: medium
+confidence: high
 summary: "The Misesian argument that a socialist commonwealth without private ownership of capital goods cannot perform the economic calculations needed to allocate resources rationally."
 short: "Mises's argument that a socialist commonwealth without private ownership of capital goods cannot rationally calculate how to allocate resources."
 ---
