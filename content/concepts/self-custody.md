@@ -48,6 +48,7 @@ The custody gap is the strongest empirical point in the critique of crypto's pol
 - [[financial-surveillance|Financial Surveillance]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 

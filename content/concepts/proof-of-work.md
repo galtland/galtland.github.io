@@ -93,6 +93,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 

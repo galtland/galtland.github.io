@@ -82,6 +82,7 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 

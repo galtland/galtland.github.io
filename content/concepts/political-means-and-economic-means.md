@@ -112,6 +112,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - uses this distinction to answer the communist claim that private property requires the state
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 

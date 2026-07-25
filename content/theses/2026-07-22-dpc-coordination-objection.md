@@ -220,6 +220,7 @@ What can be said plainly is narrower. His first and third claims are conceded he
 - [[crony-capitalism|Crony Capitalism]] - the value-capture-over-value-creation phenomenon, conceded in full
 - [[jurisdictional-competition|Jurisdictional Competition]] - the position his competing-gangs argument restates from game theory
 - [[minarchism|Minarchism]] - the narrowest reading of his OS-kernel formulation, wider in his 2022 posts
+- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - the companion thesis on what protocol design can and cannot do about collective coordination
 
 ## Sources
 

@@ -79,8 +79,9 @@ It should be held with appropriate hedging. The framework is a powerful *descrip
 - [[the-cybereconomy|The Cybereconomy]] - the diffusion-side economy the defense-favoring shift is said to produce
 - [[jurisdictional-competition|Jurisdictional Competition]] - the exit dynamic that a falling cost of defense and mobility unlocks
 - [[timothy-c-may|Timothy C. May]] - cypherpunk author of the crypto-as-defensive-weapon framing
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - megapolitics, the logic of violence, and the Information-Age diffusion thesis

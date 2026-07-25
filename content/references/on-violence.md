@@ -46,6 +46,7 @@ This should not be turned into libertarian doctrine. Arendt does not infer marke
 - [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - reciprocal link.
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 

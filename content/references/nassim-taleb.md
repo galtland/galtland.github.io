@@ -37,7 +37,6 @@ Taleb is not a member of the tradition this wiki maps, and the divergences matte
 ## See Also
 
 - [[minority-rule|The Minority Rule]] - his central contribution to the corpus, and the mechanism behind "the most intolerant win"
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection]] - the thesis that turns on his minority rule
 - [[jurisdictional-competition|Jurisdictional Competition]] - the decentralization conclusion his skin-in-the-game argument converges on
 
 ## Sources

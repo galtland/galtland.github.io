@@ -56,6 +56,7 @@ In the texts themselves, both are put forward as programs to be built rather tha
 - [[secession|Secession]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 

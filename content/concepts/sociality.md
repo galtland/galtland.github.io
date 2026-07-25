@@ -79,8 +79,9 @@ The negative core of sociality is the point of contact with that later tradition
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition into which sociality fits as Pufendorf's distinctive contribution
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the modern compressed statement of the rule sociality's non-injury core supports
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's sharpening of the Pufendorfian apparatus into equal natural rights
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Pufendorf, The Whole Duty of Man (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - Book I, Chapter III for the fundamental law of nature and the anthropological diagnosis of human weakness and dangerousness (Barbeyrac's note to the chapter, not Pufendorf's main text, supplies the three grand principles — religion, self-love, sociability — paired with the duties toward God, self, and neighbour); Chapters VI–VIII for the absolute duties of not injuring (with the catalog of crimes and the rule of reparation), natural equality, and mutual humanity, plus the further duties of truthful discourse, promise-keeping, contract, and property as a human institution; the perfect/imperfect distinction; and Book II on the natural state, civil society, and the civil sovereign — in Andrew Tooke's English translation (Liberty Fund OLL clean eBook text of the Tooke edition; the fundamental maxim "every man ought, as much as in him lies, to preserve and promote society" is now quoted verbatim)

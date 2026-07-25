@@ -81,8 +81,9 @@ The theory is deceptively consequential. It reshapes contract law around a singl
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's Chapter 19: the right to contract as derived from property, the title-transfer theory credited to Williamson Evers, enforceability as implicit theft, the unenforceability of mere promises, the fraud and debt cases, the alienability limit, and the penal/performance bond as remedy

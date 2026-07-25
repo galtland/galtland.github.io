@@ -898,8 +898,9 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 - [[free-software|Free Software]]
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the Austrian dispute over whether Bitcoin satisfies Mises's regression theorem
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi's whitepaper: peer-to-peer electronic cash, the double-spending problem, the proof-of-work timestamp chain and longest-chain rule, one-CPU-one-vote consensus, the honest-majority assumption and attacker-catch-up calculation, the coinbase incentive, Simplified Payment Verification, and the Section 10 privacy model
@@ -2641,6 +2642,7 @@ Finney was describing pre-1861 American private banknotes, then speculating "tha
 - [[your-secret-right-to-cash|Your Secret Right to Cash]] - Van Valkenburgh's 2017 essay: cash silently guaranteed uncensorable, private payment — a 'secret right' nobody defended because physics enforced it, until electronic money removed it.
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -4363,7 +4365,6 @@ Sumner is a non-libertarian descriptive sociologist; like Tilly and Arendt elsew
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[minority-rule|The Minority Rule]]
 
 ## Sources
@@ -4989,6 +4990,7 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - enforcement without a monopoly, the constructive reply to the claim that property requires the state
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -5189,8 +5191,9 @@ Confidence is low. Megapolitics is a sweeping single-source theory of all of his
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 2 ("A Crash Course in Megapolitics," the four factors, the Lane epigraph) and Chapter 6 ("The Megapolitics of the Information Age")
@@ -5843,6 +5846,7 @@ This concept helps prevent a flattened state critique. Nationalism can legitimat
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -6353,8 +6357,9 @@ It should be held with appropriate hedging. The framework is a powerful *descrip
 - [[the-cybereconomy|The Cybereconomy]] - the diffusion-side economy the defense-favoring shift is said to produce
 - [[jurisdictional-competition|Jurisdictional Competition]] - the exit dynamic that a falling cost of defense and mobility unlocks
 - [[timothy-c-may|Timothy C. May]] - cypherpunk author of the crypto-as-defensive-weapon framing
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - megapolitics, the logic of violence, and the Information-Age diffusion thesis
@@ -6666,6 +6671,7 @@ The parallel economy is the cypherpunk-implementation cousin of **agorism / coun
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -6885,6 +6891,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[taxation|Taxation]]
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - uses this distinction to answer the communist claim that private property requires the state
+
 
 
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
@@ -7438,6 +7445,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -7502,10 +7510,11 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 - [[james-buchanan|James Buchanan]]
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[iron-law-of-oligarchy|The Iron Law of Oligarchy]]
 - [[robert-michels|Robert Michels]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) - Shughart's entry on rational ignorance, the logic of collective action, and government failure
@@ -8503,6 +8512,7 @@ In the texts themselves, both are put forward as programs to be built rather tha
 - [[secession|Secession]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -8594,6 +8604,7 @@ The custody gap is the strongest empirical point in the critique of crypto's pol
 - [[fungibility|Fungibility]] - The property that any one unit of a money is interchangeable with any other — a requirement of sound money that a transparent ledger puts under pressure, and that privacy technology exists to restore.
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 - [[financial-surveillance|Financial Surveillance]]
+
 
 
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
@@ -8995,8 +9006,9 @@ The negative core of sociality is the point of contact with that later tradition
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition into which sociality fits as Pufendorf's distinctive contribution
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the modern compressed statement of the rule sociality's non-injury core supports
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's sharpening of the Pufendorfian apparatus into equal natural rights
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Pufendorf, The Whole Duty of Man (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - Book I, Chapter III for the fundamental law of nature and the anthropological diagnosis of human weakness and dangerousness (Barbeyrac's note to the chapter, not Pufendorf's main text, supplies the three grand principles — religion, self-love, sociability — paired with the duties toward God, self, and neighbour); Chapters VI–VIII for the absolute duties of not injuring (with the catalog of crimes and the rule of reparation), natural equality, and mutual humanity, plus the further duties of truthful discourse, promise-keeping, contract, and property as a human institution; the perfect/imperfect distinction; and Book II on the natural state, civil society, and the civil sovereign — in Andrew Tooke's English translation (Liberty Fund OLL clean eBook text of the Tooke edition; the fundamental maxim "every man ought, as much as in him lies, to preserve and promote society" is now quoted verbatim)
@@ -9898,8 +9910,9 @@ The theory is deceptively consequential. It reshapes contract law around a singl
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's Chapter 19: the right to contract as derived from property, the title-transfer theory credited to Williamson Evers, enforceability as implicit theft, the unenforceability of mere promises, the fraud and debt cases, the alienability limit, and the penal/performance bond as remedy
@@ -11905,6 +11918,7 @@ This is the headline text of the Chicago counterpoint in [[austrian-economics-vs
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -12655,6 +12669,7 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 - [[secession|Secession]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -13295,6 +13310,7 @@ The wiki draws on two strands of his work. From [[the-seen-and-the-unseen|“Tha
 - [[henry-hazlitt|Henry Hazlitt]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -13374,6 +13390,7 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
+
 
 
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
@@ -13516,6 +13533,7 @@ Her value for this wiki is comparative. Arendt converges with libertarian source
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -13593,8 +13611,9 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[secession|Secession]]
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - main full-text source for Hoppe's property-theoretic contrast between capitalism and socialism
@@ -14606,6 +14625,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his regression theorem as the premise of the contested Bitcoin application
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -14891,6 +14911,7 @@ Confidence is medium. The substance of Friedman's monetary and classical-liberal
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -15154,6 +15175,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -15196,7 +15218,6 @@ Taleb is not a member of the tradition this wiki maps, and the divergences matte
 ## See Also
 
 - [[minority-rule|The Minority Rule]] - his central contribution to the corpus, and the mechanism behind "the most intolerant win"
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection]] - the thesis that turns on his minority rule
 - [[jurisdictional-competition|Jurisdictional Competition]] - the decentralization conclusion his skin-in-the-game argument converges on
 
 ## Sources
@@ -15530,6 +15551,7 @@ This should not be turned into libertarian doctrine. Arendt does not infer marke
 - [[banality-of-evil|Banality of Evil]] - participant-side Arendt concept
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with this distinction
 - [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - reciprocal link.
+
 
 
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
@@ -16133,7 +16155,6 @@ Michels is cited for his diagnosis, not his conclusions. A onetime revolutionary
 
 - [[iron-law-of-oligarchy|The Iron Law of Oligarchy]] - his central contribution, and the mechanism in full
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - the economic route to the same conclusion about elite persistence
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection]] - the thesis that engages his law through dpc's "Bitcoin is not exempt"
 
 ## Sources
 
@@ -16164,6 +16185,7 @@ He occupies a precise position in the libertarian field. Against the individuali
 - [[ayn-rand|Ayn Rand]] - the other major modern statement of the rights-protecting minimal state
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
+
 
 
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
@@ -16258,6 +16280,7 @@ He is not a libertarian: he emphasized duty over rights and defended strong sove
 - [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]] - the work present in this wiki
 - [[sociality|Sociality]] - Pufendorf's foundational law of nature: because man is needy yet prone to harm, every person must so behave that others have no just cause to injure him
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
+
 
 
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
@@ -17911,6 +17934,7 @@ Confidence is medium: the book can be summarized faithfully and directly from th
 - [[secession|Secession]]
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
@@ -18194,7 +18218,6 @@ Pufendorf is the bridge the natural-law lineage needs. He receives the seculariz
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's rights theory downstream of Pufendorf
 
 
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Pufendorf, The Whole Duty of Man (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - Book I (the law of nature and sociality; duties to God, self, and others) and Book II (the state, sovereignty, and the law of nations); Tooke English translation, Internet Archive OCR

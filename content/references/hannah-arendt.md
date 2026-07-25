@@ -73,6 +73,7 @@ Her value for this wiki is comparative. Arendt converges with libertarian source
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 

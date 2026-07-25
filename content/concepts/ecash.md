@@ -63,6 +63,7 @@ Finney was describing pre-1861 American private banknotes, then speculating "tha
 - [[your-secret-right-to-cash|Your Secret Right to Cash]] - Van Valkenburgh's 2017 essay: cash silently guaranteed uncensorable, private payment — a 'secret right' nobody defended because physics enforced it, until electronic money removed it.
 
 
+
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 

@@ -38,7 +38,6 @@ Michels is cited for his diagnosis, not his conclusions. A onetime revolutionary
 
 - [[iron-law-of-oligarchy|The Iron Law of Oligarchy]] - his central contribution, and the mechanism in full
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - the economic route to the same conclusion about elite persistence
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection]] - the thesis that engages his law through dpc's "Bitcoin is not exempt"
 
 ## Sources
 

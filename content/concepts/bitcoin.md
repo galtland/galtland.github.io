@@ -138,8 +138,9 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 - [[free-software|Free Software]]
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the Austrian dispute over whether Bitcoin satisfies Mises's regression theorem
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 
+
+- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi's whitepaper: peer-to-peer electronic cash, the double-spending problem, the proof-of-work timestamp chain and longest-chain rule, one-CPU-one-vote consensus, the honest-majority assumption and attacker-catch-up calculation, the coinbase incentive, Simplified Payment Verification, and the Section 10 privacy model
