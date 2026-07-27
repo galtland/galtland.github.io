@@ -52,6 +52,7 @@ Argumentation ethics is one of the most ambitious justificatory arguments in the
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the rival route to grounding libertarian rights
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
+- [[ethics-vs-morality|Ethics vs Morality]]
 
 ## Sources
 

@@ -37,6 +37,7 @@ Aristotle is the **root** of the lineage, not a libertarian: his ethics is one o
 - [[aristotle-politics|Politics]] - the companion work applying the same teleology to the city
 - [[aquinas-treatise-on-law|Treatise on Law]] - Aquinas's natural-law synthesis, which leans heavily on "the Philosopher"
 - [[cicero-de-re-publica|De Re Publica]] - Cicero's "right reason," the next stage downstream of Aristotle's natural justice
+- [[ethics-vs-morality|Ethics vs Morality]]
 
 ## Sources
 

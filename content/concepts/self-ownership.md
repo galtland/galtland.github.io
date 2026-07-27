@@ -57,6 +57,7 @@ Self-ownership is powerful precisely because so much rides on one premise, which
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the axiom used to show property is prior to the state, not its creature
+- [[ethics-vs-morality|Ethics vs Morality]]
 
 ## Sources
 

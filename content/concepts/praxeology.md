@@ -95,6 +95,7 @@ Both are modern *applications* rather than claims Mises himself made: the wiki t
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
+- [[ethics-vs-morality|Ethics vs Morality]]
 
 ## Sources
 
