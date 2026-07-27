@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (353 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (355 entries).
 
 ## #
 
@@ -146,6 +146,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 
 ## G
 
+- **[G. W. F. Hegel](/references/g-w-f-hegel)** — The Hegel of the Philosophy of Right: Abstract Right, Morality, Ethical Observance — and the claim that freedom becomes actual only inside institutions.
 - **[Galt's Speech](/concepts/galts-speech)** — The ~60-page radio address near the end of Atlas Shrugged — the systematic statement of Rand's Objectivism and the novel's philosophical climax.
 - **[The General Theory of Employment, Interest and Money](/references/the-general-theory)** — Keynes's 1936 General Theory: effective demand, the multiplier, liquidity preference, and the case for managing aggregate demand — the foundational Keynesian text and the Austrian critique's target.
 - **[Georgism and the Land-Value Tax](/concepts/georgism)** — Henry George's single-tax proposal on land's unimproved value — and the Austro-libertarian critique that land is legitimately owned, speculation useful, and the tax would misallocate sites.
@@ -290,6 +291,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Peer-to-Peer and the BitTorrent Lineage](/concepts/peer-to-peer)** — No-central-node architecture: the Napster → Gnutella → BitTorrent lineage proved decentralized distribution survives enforcement — the direct ancestor of Bitcoin's *peer-to-peer electronic cash*.
 - **[PGP and the Crypto Wars](/concepts/pgp-and-the-crypto-wars)** — PGP as routine strong encryption, and the 1990s fight over export controls, key escrow, code as speech, and mass-surveillance economics.
 - **[Phil Zimmermann](/references/phil-zimmermann)** — Creator of PGP and a central Crypto Wars figure. This pass draws on Zimmermann's own PGP essay plus the 1990s Crypto Wars dossier, but is not a full biography, so detail remains medium confidence.
+- **[Philosophy of Right](/references/philosophy-of-right)** — Hegel's 1820 compendium of political philosophy in Dyde's 1896 translation: abstract right, morality, and ethical observance, ending in the state as the actuality of freedom.
 - **[Political Means and Economic Means](/concepts/political-means-and-economic-means)** — Oppenheimer's distinction between voluntary production-and-exchange and coercive appropriation, adopted by Nock, Rothbard, and Hoppe.
 - **[Political Theology](/references/political-theology)** — Schmitt's work defining sovereignty as the power to decide on the exception.
 - **[Politics (Aristotle)](/references/aristotle-politics)** — Aristotle's Politics: the polis and man's political nature as natural; includes the natural-slavery doctrine libertarians reject.

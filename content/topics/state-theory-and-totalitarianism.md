@@ -83,6 +83,7 @@ New to this hub? Read these five, in order:
 - [[the-concept-of-the-political|The Concept of the Political]] - Schmitt's work centered on the friend/enemy criterion and its critique of liberal depoliticization.
 - [[start-here|Start Here]]
 - [[council-system|Council System]]
+- [[philosophy-of-right|Philosophy of Right]]
 
 ## Sources
 

@@ -4,7 +4,7 @@ title: "Authors & Works"
 
 # Authors & Works
 
-An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (68 authors, 107 works).
+An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (69 authors, 108 works).
 
 ## A
 
@@ -73,6 +73,11 @@ An index of every author, thinker, and organization in the wiki, each with the w
 - **[Franz Oppenheimer](/references/franz-oppenheimer)**
   - [The State](/references/oppenheimer-the-state)
 - **[Frédéric Bastiat](/references/frederic-bastiat)**
+
+## G
+
+- **[G. W. F. Hegel](/references/g-w-f-hegel)**
+  - [Philosophy of Right](/references/philosophy-of-right)
 
 ## H
 

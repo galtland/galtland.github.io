@@ -38,7 +38,7 @@ The honest caveat is that the division of labour is a convention of use, not a f
 
 ## Hegel: Moralität and Sittlichkeit
 
-G. W. F. Hegel's *Philosophy of Right* (1820) supplies a particularly explicit technical version of the contrast, and does so by open stipulation. In the note dividing the work he writes:
+[[g-w-f-hegel|G. W. F. Hegel]]'s [[philosophy-of-right|Philosophy of Right]] (1820) supplies a particularly explicit technical version of the contrast, and does so by open stipulation. In the note dividing the work he writes:
 
 > Morality and ethical observance, which are usually supposed to mean the same thing, are here taken in essentially different meanings. Meanwhile even imaginative thought seems to make a distinction between them.
 >
@@ -121,6 +121,8 @@ What survives every choice of vocabulary is the question the two words are used 
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's systematic natural-law ethic
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - the interchangeable morals-or-ethics usage and the demand for ethics as a cognitive discipline
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - the cognitive theory of ethics and the a priori defense of nonaggression
+- [[g-w-f-hegel|G. W. F. Hegel]]
+- [[philosophy-of-right|Philosophy of Right]]
 
 ## Sources
 

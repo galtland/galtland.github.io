@@ -2763,7 +2763,7 @@ The honest caveat is that the division of labour is a convention of use, not a f
 
 ## Hegel: Moralität and Sittlichkeit
 
-G. W. F. Hegel's *Philosophy of Right* (1820) supplies a particularly explicit technical version of the contrast, and does so by open stipulation. In the note dividing the work he writes:
+[[g-w-f-hegel|G. W. F. Hegel]]'s [[philosophy-of-right|Philosophy of Right]] (1820) supplies a particularly explicit technical version of the contrast, and does so by open stipulation. In the note dividing the work he writes:
 
 > Morality and ethical observance, which are usually supposed to mean the same thing, are here taken in essentially different meanings. Meanwhile even imaginative thought seems to make a distinction between them.
 >
@@ -2846,6 +2846,8 @@ What survives every choice of vocabulary is the question the two words are used 
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's systematic natural-law ethic
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - the interchangeable morals-or-ethics usage and the demand for ethics as a cognitive discipline
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - the cognitive theory of ethics and the a priori defense of nonaggression
+- [[g-w-f-hegel|G. W. F. Hegel]]
+- [[philosophy-of-right|Philosophy of Right]]
 
 ## Sources
 
@@ -10974,6 +10976,7 @@ Smith is the classical-liberal foundation nearly every school in the wiki's [[sc
 - [[subjective-value-vs-the-labor-theory-of-value|Subjective Value vs the Labor Theory of Value]] - where the Austrians correct him
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's critical placement of Smith
 - [[schools-of-economics|Schools of Economics]] - the classical root of the schools that follow
+- [[g-w-f-hegel|G. W. F. Hegel]]
 
 ## Sources
 
@@ -13531,6 +13534,200 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 
 ---
 
+## G. W. F. Hegel
+URL: /references/g-w-f-hegel
+Category: reference
+
+# G. W. F. Hegel
+
+> G. W. F. Hegel is the political philosopher of the [[philosophy-of-right|Philosophy of Right]], a book that refuses to let freedom mean what an isolated individual possesses. Its architecture runs Abstract Right → Morality → Ethical Observance, and its governing claim is that the moral standpoint — duty done for duty's sake, conscience answering to itself — is a real achievement that is nonetheless empty until it passes into the concrete order of family, civic community, and state. Freedom, on this account, is not what institutions leave alone; it is what institutions make actual.
+
+This page describes Hegel only as one work presents him. It is grounded in a single source — the *Philosophy of Right*, in S. W. Dyde's 1896 translation — and it attempts neither a biography nor a survey of the wider system. That system is repeatedly gestured at in the text: the *Phänomenologie des Geistes* is cited for fuller treatments, the *Logic* is presupposed for the method of transition between stages, and Dyde's translator's preface stresses that the book belongs to a whole unfolded elsewhere. None of those works is in this wiki's corpus, and nothing about them is asserted here. Of Hegel's life the source establishes essentially one fact: he signed the book's preface "Berlin, June 25th, 1820".
+
+## One Work, in One Translation
+
+Two features of the source govern everything below.
+
+The first is the translation. This page uses the German terms *Moralität* and *Sittlichkeit* as the standard scholarly labels for Hegel's two spheres; they are not supplied by the English source, which is Dyde's, and which names those spheres **morality** and **"ethical observance"** / **"the ethical system"** — the contents page titles the third part ETHICAL OBSERVANCE, the body heading reads THE ETHICAL SYSTEM. Dyde does use the ordinary phrase *ethical life* in running prose, but it is not his rendering of the technical term. A quotation must be checked against the edition it is credited to; everything quoted here is credited to Dyde and checked against Dyde. His rendering of the book's most-quoted sentence reads "What is rational is real ; And what is real is rational". Every quotation on this page is taken from Dyde and checked against the scan; where the OCR is damaged the passage is paraphrased rather than quoted.
+
+The second is that the book is layered, and the layers do not carry equal authority. Dyde's own preface sets them out: "the present work is in form made up of three elements, the paragraphs proper, the notes and the additions". The numbered paragraphs are the compendium Hegel published for his lecture audience; the Notes are his own expansions, written for the printed edition to take in "cognate or conflicting ideas" and answer positions current at the time. The Additions are different in kind — "After these notes by Hegel are frequently found Additions made by students of Hegel from his oral lectures and comments". Dyde credits the editors with casting "a welcome light upon the text" while warning in the same breath that they are "mere additions, not even supervised by Hegel". Additions are consequently labelled as such wherever they are quoted here, and are never presented as Hegel's own text. They are often the most vivid passages in the book, which is precisely why the distinction matters.
+
+## Philosophy Comprehends Its Own Time
+
+The Preface states a method, and it is a restrictive one. Hegel denies that political philosophy invents a state, corrects one, or supplies a blueprint for a better one. Its business is comprehension of what already exists:
+
+> This treatise, in so far as it contains a political science, is nothing more than an attempt to conceive of and present the state as in itself rational. As a philosophic writing it must be on its guard against constructing a state as it ought to be.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+Behind that stands the identity claim the Preface prints as a display line, which gives the whole method its warrant — the rational is not a standard held over reality from outside, because reality is where the rational has come to exist:
+
+> What is rational is real ; And what is real is rational.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+The claim is not that every transient occurrence is rational: Hegel's Preface identifies the rational with the substance realizing itself in an external form, distinguished from the accidents and appearances that surround it. From the identity he draws two consequences that shape the argument of the book. First, philosophy is dated: "As for the individual, every one is a son of his time ; so philosophy also is its time apprehended in thoughts", and it is as foolish to fancy that any philosophy can transcend its present world as to think a person could leap out of their own era. A theory that "transgresses its time" and builds a world as it ought to be has, he says, an existence only "in the unstable element of opinion". Second, philosophy is *late* — the celebrated closing image is not a boast about insight but a limit on it:
+
+> Only one word more concerning the desire to teach the world what it ought to be. For such a purpose philosophy at least always comes too late. Philosophy, as the thought of the world, does not appear until reality has completed its formative process, and made itself ready. History thus corroborates the teaching of the conception that only in the maturity of reality does the ideal appear as counterpart to the real, apprehends the real world in its substance, and shapes it into an intellectual kingdom. When philosophy paints its grey in grey, one form of life has become old, and by means of grey it cannot be rejuvenated, but only known. The owl of Minerva takes its flight only when the shades of night are gathering.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+"To apprehend what is is the task of philosophy", he writes, describing his own discipline as "an inquisition into the rational, and therefore the apprehension of the real and present". Read against this method, the book's apparent endorsements are meant as descriptions of what is already rational in the modern institutional world, not as recommendations addressed to a legislator — a claim about what philosophy can do rather than an externally imposed blueprint.
+
+## The Architecture of Right
+
+"Right" in this book is far wider than law. Its home is the free will, and its scope is the whole of what freedom produces:
+
+> The territory of right is in general the spiritual, and its more definite place and origin is the will, which is free. Thus freedom constitutes the substance and essential character of the will, and the system of right is the kingdom of actualized freedom.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+An Addition compiled from the lectures spells out the range: right here covers "not only civil right, which is the usual significance of the word, but also morality, ethical observance and world-history".
+
+The work is divided in three, following the stages of the free will's development, and the Division of the Work (§ 33) doubles as the book's table of contents. **Abstract Right** takes the will "direct or immediate", its conception "personality", its embodiment "a direct external thing" — property, contract, and wrong. **Morality** is the will "passing out of external reality" and turning back into itself: subjective individuality, standing opposed to the universal. **Ethical Observance** is the "unity and truth of these two abstract elements", where freedom "exists as real substance, which is quite as much actuality and necessity as it is subjective will", and it in turn unfolds as family, civic community, and state.
+
+The sequence is conceptual rather than chronological — Hegel does not claim that isolated property-holders historically preceded families or states. It is a demonstration: each earlier stage is shown to be one-sided when taken alone, and to pass over into the next by its own insufficiency. An Addition to §32 says that in the course of the exposition "the abstract forms reveal themselves not as self-subsistent but as untrue". This is why the book cannot be quarried for a doctrine of abstract right or of moral conscience without the qualification the later parts impose.
+
+### Abstract Right
+
+Abstract right is the sphere of the person as bare rights-bearer. Personality "implies, in general, a capacity to possess rights", and the whole content of this stage is compressed into one command: "Its mandate is : Be a person and respect others as persons." Because the person is here considered without interests, purposes, or well-being, the sphere yields only prohibitions. "Because of this abstract character of right the only rule which is unconditionally its own is merely the negative principle not to injure personality or anything which of necessity belongs to it", Hegel writes; the positive form of command has, in the last resort, a prohibition as its basis.
+
+Property is the first stage's substance, and Hegel takes it seriously as freedom's first foothold: possession appears at first a mere means of satisfying wants, "but it is really the first embodiment of freedom and an independent end". The embodiment must be private — "Since property makes objective my personal individual will, it is rightly described as a private possession" — and weighing Roman collective landholding against individual ownership, his Note rules that "Private possession is the more reasonable, and, even at the expense of other rights, must win the victory". He counts it a wrong done to the person that Plato's Republic would deny him property.
+
+That negative structure is nevertheless what Hegel treats as incomplete rather than as the foundation of political life. Abstract right is "only a possibility", "only a permission or indication of legal power" — a real but thin determination of freedom, which the argument then leaves behind by way of contract, wrong, crime, and punishment for the sphere where purpose and intention first count.
+
+## Morality: The Right of the Subject
+
+*Moralität* in this book is not a community's prevailing code. It is the standpoint of the individual will turned back upon itself — the will considered no longer in its abstract or implicit existence but in its existence for itself — the move that converts a person into a subject. Here for the first time it matters what the agent meant, and an action must issue from the agent's purpose, be known under an intention, and answer to the good as the agent understands it. "In right, taken strictly, nothing depends upon my purpose or intention", an Addition observes, and continues: "The question of the selfdetermination, impulse, or purpose of the will arises for the first time in morality."
+
+Hegel treats this as a genuine and specifically modern gain, and he defends its rights firmly. "The right to admit nothing, which I do not regard as reasonable, is the highest right of the subject." Conscience is described as a sanctuary: "Conscience, as the unity of the subject's will with the absolute, is a holy place which it would be sacrilege to assault." He credits Kantian moral philosophy with establishing the ground of duty — an Addition records that "we exalted the standpoint of the Kantian philosophy, in so far as it nobly insists that duty should accord with reason" — and he reads the inward turn historically, as what happens "at epochs such as that of Socrates, the Stoics, etc., when the accepted ethical principles could not satisfy the better will". When the visible world has become untrue to freedom, the will seeks in inner life the harmony the actual world has lost.
+
+Its characteristic grammar is the *ought*. Because the subjective will is not yet identical with its own conception, "the moral standpoint is the standpoint of relation, of obligation or requirement". And at its purest the standpoint is solitary: conscience, an Addition says, is "the deepest internal solitude, from which both limit and the external have wholly disappeared", where "my thought is for me the only thing that is binding".
+
+## Why the Moral Standpoint Cannot Stand Alone
+
+Hegel's objection is not that the moral standpoint is wrong but that it is formal — it supplies no content, and therefore cannot by itself say what is to be done. Duty in the abstract "contains no such end", so the question *What is duty?* receives no answer from duty itself. Applied to Kant, the charge is that a criterion consisting only in freedom from self-contradiction can generate nothing:
+
+> It is important to be clear that the pure unconditioned self- direction of the will is the root of duty. This doctrine of volition attained to a firm basis and startingpoint first of all in the Kantian philosophy through the thought of the infinite autonomy of the will (§ 133). Tet if this merely moral standpoint does not pass into the conception of the ethical system, this philosophical acquisition is reduced to empty formalism, and moral science is converted into mere rhetoric about duty for duty's sake. From such a position can be derived no inherent doctrine of duties.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+The worked example is property, and it is worth stating exactly because it is often reported loosely. Hegel does not claim the universalization test endorses theft. He claims it is idle without a prior institutional content: "The rule that there should be no private property contains of itself no contradiction", and only "if it is really fixed and assumed that private property and human life should exist and be respected, is it a contradiction to commit theft or murder". The principle is general — "There can be no contradiction except of something that exists or of a content, which is assumed to be a fixed principle" — so the test presupposes the very institutions it is supposed to certify. An Addition puts the point in four words: "Where there is nothing, there can be no contradiction."
+
+The same emptiness afflicts conscience once it is separated from an objective content. Conscience asserts the subject's right to know from within what is right and good, and to recognize no command merely because it is externally given; but its authority depends on what it wills. Hegel distinguishes *true* conscience — which he defines as the disposition to desire what is absolutely good, and which has fixed rules and objective duties — from the merely *formal* conscience considered at this stage:
+
+> The objective system of rules and duties and the union of them with the subjective consciousness appear first in the sphere of ethical observance. But at the formal standpoint of morality, conscience is devoid of objective content. It is merely an infinite certitude of itself and is formal and abstract.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+The same inward certainty can accompany good, error, or evil, so a conscience that certifies itself by appealing to itself has, on Hegel's account, abandoned the very thing it claims to be:
+
+> Conscience is therefore subject to the judgment whether it is true or not, and its appeal merely to itself is directly opposed to what it wills to be, the rule, that is, of a reasonable absolutely valid way of acting.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+Whether a given conscience is what conscience ought to be, he adds, "can be ascertained only by an examination of the contents of the intended good". Hegel then tracks what happens when pure self-certitude keeps its authority and drops the content: a will that "determines solely out of itself what is good" can as easily make a principle of its own particularity, which "is evil"; from there the long note on the moral forms of evil descends through hypocrisy, probability (where any authority that yields a good reason quiets the conscience), good intention, conviction, and finally irony — the standpoint of the subject for whom "It is not the subject-matter which is excellent, but I am the excellent thing, and am master of law and fact", a posture that "makes vain the whole ethical content of right, duty, and law". Morality and evil, he says, have a common root in a self-certitude that exists for itself and decides for itself.
+
+Neither pole survives alone. "The good and conscience, when each is raised into a separate totality, are void of all definiteness, and yet claim to be made definite", and their concrete identity "is completed only in the ethical system". An Addition states the symmetry plainly: "In right is wanting the element of subjectivity, and in morality is wanting the objective, so that neither by itself has any actuality", so that morality, like formal right, "is also an abstraction, whose truth is reached only in ethical observance". The correction runs in both directions: ethical observance does not suppress subjectivity but is charged with uniting objective duties with the individual's own knowing and willing, and an order that left no room for subjective recognition would forfeit the freedom morality introduced.
+
+## Moralität and Sittlichkeit
+
+This split between *Moralität* and *Sittlichkeit* is Hegel's main contribution to this wiki's vocabulary, and he flags it as a stipulation rather than a discovery about language:
+
+> Morality and ethical observance, which are usually supposed to mean the same thing, are here taken in essentially different meanings.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+He concedes that the words are twins by origin — "morality and ethics have the same meaning according to their etymology" — but takes the philosopher's licence to use "these different words" "for different conceptions". The same note names the opposing usage: "In the usage of Kant the preference is given to the term morality", whose practical principles limit themselves wholly to that standpoint, "making impossible the standpoint of ethical observance, and indeed expressly destroying and abolishing it".
+
+In Dyde's English, what the term names is norm-as-practised — not moral theory, not private conviction, and not merely whatever habits happen to prevail, but an objective order whose laws and duties have definite content and whose members recognize that order as their own rational substance. The wider terminological landscape, and a comparison with natural-rights accounts, appears in [[ethics-vs-morality|Ethics vs Morality]].
+
+## Ethical Observance: Freedom as a Present World
+
+*Sittlichkeit* is not a further standpoint but an achieved world. It is the living good, and — in the formulation that defines the third part — "the conception of freedom developed into a present world, and also into the nature of self-consciousness". Its content is not supplied by any individual's reflection but by institutions with their own laws and standing: this ethical reality "has an absolute authority or force, infinitely more sure than that of natural objects".
+
+Its medium is custom, in the sense Dyde's text gives the word:
+
+> The ethical, when simply identical with the reality of individuals, appears as a generally adopted mode of action, or an observance. This is the custom, which as a second nature has been substituted for the original and merely natural will, and has become the very soul, meaning, and reality of one's daily life. It is the living spirit actualized as a world ; by this actualization does the substance of spirit exist as spirit.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+Three features of this order do the philosophical work.
+
+**The institutions are not foreign to the person living in them.** Their laws confront the individual as objective and binding, and yet "In them he feels that he is himself, and in them, too, he lives as in an element indistinguishable from himself" — a relation Hegel says is more direct even than faith or trust. It is on this basis that ethical questions become answerable at all: "What a man ought to do, or what duties he should fulfil in order to be virtuous, is in an ethical community not hard to say. He has to do nothing except what is presented, expressed and recognized in his established relations."
+
+**Duty is redescribed as liberation rather than limitation.** This is the hinge of the whole argument. Duty appears as a restriction only on undetermined subjectivity and abstract freedom; measured against the real thing, "in point of fact the individual finds in duty liberation", freed from natural impulse, from dependence on moral permission, and from an indefinite subjectivity that never issues in action. "In duty the individual freely enters upon a liberty that is substantive." An Addition adds the corollary that duty limits not freedom itself but only the abstraction of freedom — which is to say, servitude.
+
+**Right and duty cease to be held by different parties.** In abstract right one person holds the right and another the corresponding duty; in the ethical order they coincide — "By virtue of the ethical fabric man has rights, so far as he has duties, and duties so far as he has rights." The Addition's inference is stark: "The slave can have no duties, but only the free man."
+
+What follows for the individual is stated without softening. Substantive ethical reality "attains its right, and this right receives its due, when the individual in his private will and conscience drops his self-assertion and antagonism to the ethical" — and, in a further Addition, individuals are "merely accidental" in relation to the ethical order, which alone is steadfast. The upbringing that produces such a person is not withdrawal from society: to a father asking the best way to raise his son, Hegel reports a Pythagorean answering, "Make him a citizen of a state which has good laws."
+
+## The Institutions: Family, Civic Community, State
+
+Ethical observance exists in three institutional forms, each the correction of the last.
+
+**The family** is the ethical in its natural, felt immediacy: "The family is the direct substantive reality of spirit. The unity of the family is one of feeling, the feeling of love." Marriage, family property, and the education of children give that unity an objective form, and within it the category abstract right began from is suspended: "Hence, in the family we are not independent persons but members." Family rights surface as rights only when the unity dissolves — children are educated into independent personality, the household separates into a plurality of families, and on separation the members receive in external form, as money, maintenance, or education, what was previously theirs by position.
+
+**The civic community** — Dyde's term for the sphere of self-dependent persons — is the sphere those self-dependent persons then enter, held together by need rather than by love. It is "an association of members or independent individuals in a formal universality", "occasioned by needs, and is preserved by the law, which secures one's person and property, and by an external system for private and common interests". An Addition calls it "the realm of difference, intermediate between the family and the state", and says that in it "every one is an end to himself ; all others are for him nothing". Mutual satisfaction arises anyway, because the self-seeking end is conditioned in its realization by the universal, producing "a system of mutual dependence, a system which interweaves the subsistence, happiness, and rights of the individual with the subsistence, happiness, and right of all". Hegel organizes the sphere into the system of wants, the administration of justice, and provision through the police and the corporation. His name for the resulting order is deliberately deflationary: "This system we may in the first instance call the external state, the state which satisfies one's needs, and meets the requirements of the understanding." He identifies the new science that studies it, naming [[adam-smith|Smith]], Say, and Ricardo as its authors, and an Addition credits that science with finding "laws in a mass of accidents".
+
+He also does not idealize it. Given free rein, particularity destroys itself in its own extravagance, and "In these conflicts and complexities the civic community affords a spectacle of excess, misery, and physical and social corruption." The book's account of poverty is blunt about the mechanism: "When a large number of people sink below the standard of living regarded as essential for the members of society, and lose that sense of right, rectitude, and honour which is derived from self-support, a pauper class arises, and wealth accumulates disproportionately in the hands of a few." Nor is direct maintenance of the poor a remedy Hegel accepts, since subsistence assured without work "would be contrary both to the principle of the civic community and to the feeling its members have of independence and honour". These strains expose the civic community's incompleteness; the corporation, whose end is universal, supplies the transition to the third stage. An Addition warns that the civic community "has frequently been taken for the state", although "the state does not arise until we reach the third stage".
+
+## The State as the Actuality of Freedom
+
+The third section opens with the identification that everything has been built toward: "The state is the realized ethical idea or ethical spirit." It is a will that has become articulate and self-knowing — "the will which thinks and knows itself, and carries out what it knows, and in so far as it knows" — finding "in ethical custom its direct and unreflected existence" and its reflected existence in the self-consciousness of citizens. Its claim on the individual is correspondingly total:
+
+> This substantive unity is its own motive and absolute end. In this end freedom attains its highest right. This end has the highest right over the individual, whose highest duty in turn is to be a member of the state.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+Hegel then explicitly refuses the alternative account, and this passage is the sharpest statement in the book of what he is denying:
+
+> Were the state to be considered as exchangeable with the civic society, and were its decisive features to be regarded as the security and protection of property and personal freedom, the interest of the individual as such would be the ultimate purpose of the social union. It would then be at one's option to be a member of the state. — But the state has a totally different relation to the individual.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+Security of person and property is thus not denied — it is relocated. It belongs to the "external state" of the civic community, one stage below. Contract theory receives the same treatment: Hegel credits Rousseau with grounding the state in will rather than in force or divine authority, but holds that he conceived the will only in the limited form of the individual will, so that union becomes a contract "based upon caprice, opinion, and optional, explicit consent" — and he reads the Terror as what followed when abstractions of that kind attained power, ending "in scenes of tragic cruelty and horror". He is equally hostile in the other direction, devoting a long note to ridiculing Karl Ludwig von Haller's doctrine that the rule of the stronger is the eternal ordinance of God, and identifying hatred of law as the mark by which fanaticism reveals itself.
+
+What the state is supposed to accomplish is a union that preserves both terms rather than sacrificing one:
+
+> The state is the embodiment of concrete freedom. In this concrete freedom, personal individuality and its particular interests, as found in the family and civic community, have their complete development. In this concrete freedom, too, the rights of personal individuality receive adequate recognition.
+>
+> — G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+Neither is the universal completed without particular interest and will, nor do individuals live merely for their own concern. Concrete freedom is thus neither the absorption of individuals into an undifferentiated whole nor the independence of private persons from every universal obligation, and Hegel regards this conjunction of universality and developed particularity as the strength of the modern state. Three further features follow. Institutions, not sentiment, are the load-bearing element: they "are the steadfast basis of the state" and "the foundation-stones of public freedom, because in them particular freedom becomes realized in a rational form". The state is on one side "an external necessity" over the family and civic community, whose laws are subordinate to it, and on the other their "indwelling end" — so that, exactly as within ethical observance generally, duties toward it and rights within it are the same relation seen from two sides. And patriotism is defined not as readiness for exceptional sacrifice but as ordinary trust: "the assurance which stands on truth, and the will which has become a custom", a result of institutions rather than their source.
+
+The Additions push these formulations to their most quoted extremes — including "The state is the march of God in the world" — which is precisely the reason to note that they are student records rather than Hegel's text:
+
+> The state as a completed reality is the ethical whole and the actualization of freedom. It is the absolute purpose of reason that freedom should be actualized.
+>
+> — Addition (compiled from student lecture records), in G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+They also carry the qualifications that make the doctrine less monolithic than it sounds. "It has often been said that the end of the state is the happiness of the citizens. That is indeed true", one Addition allows, and if subjective aims go unsatisfied "the state stands upon an insecure footing". Another concedes that a state may violate right principles and be defective in many ways, that it exists "in the sphere of caprice, accident, and error", and that "The state is not a work of art" — the argument being that its essential moments are present nonetheless, as life is present in a sick or criminal man. The philosophical idea of the state is not, in short, a blanket vindication of every government that happens to exist. And the mechanism holding the whole together is described not as coercion but as habituated confidence — the security of walking safely at night, a second nature so complete that no one reflects on the institutions producing it:
+
+> Often it is imagined that force holds the state together, but the binding cord is nothing else than the deep-seated feeling of order, which is possessed by all.
+>
+> — Addition (compiled from student lecture records), in G. W. F. Hegel, [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
+
+## The Definition Hegel Names and Rejects
+
+Hegel does not merely propose his own definition of the state; he names a rival one and rejects it, and the disagreement is over the definition itself. The proposition that the state's "decisive features" are "the security and protection of property and personal freedom" is the position he names and rejects; the proposition that membership would then be "at one's option" is the consequence he rejects. Rather than treating protection of person and property as what the state is for, Hegel treats the state as the institution in which individual rights first acquire actuality, and assigns the protective functions to a subordinate sphere — the civic community, the "external state", which he regards as necessary but as one-sided taken by itself.
+
+Two further consequences follow from the same architecture. First, an appeal to individual conscience against an established order is for Hegel the formal standpoint whose authority he has already argued is self-undermining when it appeals to nothing but itself. Second, the direction of justification is inverted: rather than deriving legitimate institutions from prior individual rights, Hegel derives the actuality of rights from institutions, holding that "a theory of duties, which keeps to the logical settlement of its own inherent material" is "found only in the state".
+
+What makes the rejection worth documenting is that it does not proceed from alien premises. Hegel's argument travels through private property as freedom's first embodiment, the dignity of individual conscience, and freedom as the substance of right — and still arrives at the state as freedom's actuality. A comparison with natural-rights accounts appears in [[ethics-vs-morality|Ethics vs Morality]], where both sides are sourced. This page reports what Hegel argues; it does not adjudicate the quarrel.
+
+## See Also
+
+- [[philosophy-of-right|Philosophy of Right]] - the single work this page rests on, in Dyde's 1896 translation
+- [[ethics-vs-morality|Ethics vs Morality]] - the Moralität/Sittlichkeit distinction set against the wider ethics/morality vocabulary
+- [[adam-smith|Adam Smith]] - named by Hegel as an author of the new science describing the civic community
+
+## Sources
+
+- [Hegel's Philosophy of Right (Full Text, Dyde translation)](https://archive.org/details/cu31924014578979) - S. W. Dyde's 1896 translation, an OCR scan of the Cornell copy; quotations taken from Dyde's wording rather than a later rendering, checked against the scan, with damaged spans paraphrased rather than quoted, and Additions labelled as such. The translator's preface on the book's three layers; the author's preface on method, the rational and the real, and the owl of Minerva, signed Berlin, June 25th, 1820; the introduction and its division of the work; the First Part on abstract right and property; the Second Part on morality, the critique of Kantian formalism, and conscience; the Third Part on ethical observance, custom as second nature, duty as liberation, the family, the civic community and its poverty, and the state
+
+---
+
 ## Hal Finney
 URL: /references/hal-finney
 Category: reference
@@ -15884,6 +16081,190 @@ The author reference is therefore intentionally narrow: Zimmermann matters here 
 
 - [Why I Wrote PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html) - Zimmermann's essay on PGP, privacy, trapdoor proposals, CALEA, Clipper, export controls, and the case for routine strong encryption
 - [1990s Crypto Wars Dossier](https://web.archive.org/web/20011127065037id_/http://www.eff.org/Privacy/Clipper/) - EFF/Gilmore case material; source for the three-year DOJ export investigation, its early-1996 end, and Zimmermann's later ZRTP/Silent Circle work
+
+---
+
+## Philosophy of Right
+URL: /references/philosophy-of-right
+Category: reference
+
+# Philosophy of Right
+
+> The *Philosophy of Right* is [[g-w-f-hegel|G. W. F. Hegel]]'s philosophy of law, morals, society, and politics set out as one continuous argument rather than as a series of separate topics. It moves in three stages — from the bare right of a person over external things, through the inward standpoint of moral conscience, to the concrete institutions of family, civic community, and state — and it is the principal statement of the technical distinction between *Moralität* and *Sittlichkeit*, which this wiki's translator renders as morality and ethical observance. Its conclusion is that the state is the realized ethical idea and the sphere in which freedom becomes actual — and it explicitly names and rejects the rival definition of the state as the protection of person and property.
+
+## What the Book Is
+
+The book originated as a compendium for the author's lecture hearers and was enlarged for publication. Its stated occasion is practical: the need to place in his hearers' hands a guide to the lectures the author was giving on the subject. Printing it for the public created an opportunity to say in writing what lecturing would otherwise have said aloud, and so, in the Preface's account, "Thus the notes are enlarged in order to include cognate or conflicting ideas, further consequences of the theory advocated, and the like." The result keeps a compendium's skeleton — numbered paragraphs laying out the essential phases of a subject in order — while carrying far more commentary than a compendium usually would. It is also, as Dyde's translator's preface stresses, "really only one part of a system": one stage of a larger philosophy, worked out here at full length.
+
+What separates it from an ordinary compendium is announced immediately: "This treatise differs from the ordinary compendium mainly in its method of procedure." The method is speculative, in the sense that each stage is shown to generate the next out of its own incompleteness rather than being classified alongside it under convenient headings. The formal demonstration of that method is left offstage — it belongs to Hegel's logic, not to this book — but the shape is claimed for the whole: "the work as a whole, and also the construction of the parts, rest upon the logical spirit."
+
+That method sets the book's subject much wider than law in the ordinary juridical sense. Positive jurisprudence asks which laws are valid in a given state; the philosophy of right asks how a form of right follows from the conception of freedom and what place it occupies in the whole. Property, contract, crime, responsibility, intention, conscience, marriage, economic interdependence, public administration, constitutional government, international law, and world-history all appear as progressively more concrete forms in which freedom exists. An Addition compiled from the lectures glosses the title in just this way, taking right to cover not only civil right — the word's usual significance — but morality, ethical observance, and world-history as well.
+
+The sequence is therefore conceptual rather than chronological. Property is treated before the family because it is a more abstract realization of freedom, not because the book claims that property came first in history. Each stage exposes the incompleteness of the one before it while preserving it inside a more concrete order.
+
+By the book's own table of contents the parts run: Abstract Right §§ 34–104, Morality §§ 105–141, and Ethical Observance §§ 142–360, after an Introduction at §§ 1–33. More than half the work is spent on the third part, and more than a quarter on the state alone.
+
+## The Preface and Its Method
+
+The Preface, signed at Berlin on June 25th, 1820, is the book's most widely discussed stretch. It is polemical where the body is technical, and it is aimed at a specific target: the view that a philosophy of the state should invent a state. Against that it sets a strict limit on what the discipline can do — "Philosophy cannot teach the state what it should be, but only how it, the ethical universe, is to be known" — and warns that philosophy "must be on its guard against constructing a state as it ought to be". It then describes the book accordingly: "This treatise, in so far as it contains a political science, is nothing more than an attempt to conceive of and present the state as in itself rational."
+
+That limit rests on the Preface's most quoted line, which in this translation reads:
+
+> What is rational is real ; And what is real is rational.
+>
+> — [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896), Preface
+
+Read with the sentences around it, the claim is methodological before it is political. To apprehend what is, the Preface says, is the task of philosophy; a theory that transgresses its time and builds a world as it ought to be exists only in the unstable element of opinion. The *real* at stake is the rational substance of the present rather than every transient occurrence, and the Introduction is explicit that an institution can be historically explicable and still be unreasonable and void of right. Every thinker is bounded the same way: "every one is a son of his time ; so philosophy also is its time apprehended in thoughts".
+
+The polemic has a named enemy. Against philosophies that ground right in feeling, intuition, and private conviction, the Preface offers a diagnostic test — "But its peculiar mark, found on its very forehead, is its hatred of law" — and treats the reduction of law to a shackle on feeling as the common signature of the doctrines it rejects.
+
+The consequence for anyone who wants philosophy to issue instructions is drawn in the closing paragraph. Philosophy does not appear until reality has completed its formative process; "For such a purpose philosophy at least always comes too late."
+
+> When philosophy paints its grey in grey, one form of life has become old, and by means of grey it cannot be rejuvenated, but only known. The owl of Minerva takes its flight only when the shades of night are gathering.
+>
+> — [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896), Preface
+
+Comprehension after the fact, not prescription in advance: the whole book is built to that specification.
+
+## The Layered Text: Paragraphs, Notes, Additions
+
+Any quotation from this book has to name which of three layers it comes from, because the three carry different authority. The translator's preface states the structure plainly: "the present work is in form made up of three elements, the paragraphs proper, the notes and the additions."
+
+- **The numbered paragraphs** are the book as originally issued — the compact main exposition.
+- **The Notes** are Hegel's own expansions, added to qualify, defend, and apply the numbered propositions. The polemics against Kant, Fries, Rousseau, and Haller live here, and so does most of the technical vocabulary.
+- **The Additions** are passages printed after an `Addition. —` marker in the posthumous enlarged edition prepared by the editor Eduard Gans. Dyde describes them as "Additions made by students of Hegel from his oral lectures and comments", credits the editors that they "usually cast a welcome light upon the text", and warns in the same breath that they are "not even supervised by Hegel".
+
+The Additions are the most quotable part of the book — vivid, concrete, aphoristic — and they are the layer furthest from the author's hand. They are evidence of how Hegel lectured, not sentences from the book he published, and several of the lines the work is famous for sit under an Addition marker rather than in a paragraph or Note. Every Addition quoted on this page is labelled as one. The distinction also affects continuity: because an Addition can run long, a new numbered paragraph normally picks up from the closing sentences of the preceding paragraph or Note rather than from the Addition that intervenes. Dyde's own stated policy across all three layers was minimal interference — "The object of the translator is to let Hegel speak at large for himself."
+
+## The Three-Part Movement
+
+Paragraph 33 divides the work by stages in the development of the free will. The will taken immediately, whose embodiment is an external thing, gives the sphere of abstract or formal right. The will that turns back out of external reality into itself, standing as subjective individuality against the universal, gives the sphere of morality. Their unity is the third sphere, ethical observance, whose substance is in turn threefold: the natural spirit of the family, the civic community, and the state — and, beyond the individual state, the relations between national spirits and world-history.
+
+The Note to that paragraph is where the book's single most consequential terminological decision is announced:
+
+> Morality and ethical observance, which are usually supposed to mean the same thing, are here taken in essentially different meanings. Meanwhile even imaginative thought seems to make a distinction between them.
+>
+> — [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896), § 33, Note
+
+Three things are done at once. The distinction is conceded to be a stipulation rather than a discovery about the words: the same Note grants that "morality and ethics have the same meaning according to their etymology", and claims only that "these different words may be used for different conceptions". It is aimed at a named opponent — "In the usage of Kant the preference is given to the term morality" — whose practical philosophy is said to confine itself to that standpoint and thereby to foreclose the third sphere. And it fixes the ranking that governs everything after it: an Addition to the same paragraph holds that morality, like formal right, is an abstraction whose truth is reached only in ethical observance. *Morality* names the inwardly self-determining individual will; *ethical observance* names freedom made objective in shared laws, duties, customs, and institutions. The pair is treated at length in [[ethics-vs-morality|Ethics vs Morality]].
+
+## First Part: Abstract Right (§§ 34–104)
+
+Abstract right is the thinnest relation the book recognizes: persons, external things, and the claims persons make on things and on each other in that bare capacity. Personality is the capacity to hold rights at all, and the whole sphere is compressed into one command — "Be a person and respect others as persons."
+
+**Property** comes first because a free will needs an external sphere in which to be free: "A person must give to his freedom an external sphere, in order that he may reach the completeness implied in the idea." Property is therefore treated not as a device for satisfying wants but as the first objective existence of personality; an Addition to § 41 puts the point sharply, locating the reasonableness of property not in the satisfaction of need but in the superseding of the merely subjective phase of personality. The section works through possession, use, and relinquishment, and property is private because it embodies an individual will — alienable where its object is genuinely external to personality, and not where it is not.
+
+**Contract** arises when property is considered as containing another will besides mine: distinct owners recognize one another, and two separate wills form one common will while remaining independent persons. The limit of that construction is stated flatly and matters for everything that follows — the will formed by contract is the work of the two interested parties, so it is common but not universal. On that basis the Note to § 75 refuses two familiar extensions. "Marriage does not come under the conception of contract." And neither does the state, whether the compact is imagined between all citizens or between citizens and their ruler — a refusal the Note treats as consequential: "The introduction of the relations of contract and private property into the functions of the state has produced the greatest confusion both in the law and in real life."
+
+**Wrong** closes the part in three grades: unpremeditated or civil wrong, fraud, and violence and crime. Civil litigation still recognizes right as its arbiter; fraud preserves the appearance of right while manipulating it; crime attacks right as right. Compensation restores an injured external interest, while punishment annuls the crime and reasserts the validity of right — and, crucially, punishment is derived neither from deterrence nor from social protection but from the criminal's own act, which sets up a universal law he has thereby recognized:
+
+> The injury which the criminal experiences is inherently just because it expresses his own inherent will, is a visible proof of his freedom and is his right.
+>
+> — [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896), § 100
+
+Private revenge cannot complete this task, since it remains the act of an interested subjective will and generates a further injury in its turn. Because right at this level is only a permission or an indication of legal power, "the only rule which is unconditionally its own is merely the negative principle not to injure personality or anything which of necessity belongs to it" — the commands of abstract right are fundamentally prohibitions. Crime and the justice that answers it push the argument past the individual will, and the will turns back upon itself: the abstract person becomes a subject whose knowledge, purpose, and responsibility now matter.
+
+## Second Part: Morality (§§ 105–141)
+
+Morality is the standpoint of the will turned back on itself, where purpose, intention, and conscience first count for anything. An Addition to § 106 puts the boundary crisply: in right strictly taken nothing depends on my purpose or intention, and the question of the self-determination, impulse, or purpose of the will arises for the first time in morality. The part runs through purpose and responsibility, intention and well-being, and the good and conscience.
+
+**Purpose and responsibility.** An agent is answerable for the alteration he knowingly produces in the world. Because an action enters a network of external circumstances, not every remote consequence belongs equally to the agent's purpose; the moral right of knowledge limits imputation to what the will understood and intended, while still holding the agent to the consequences intrinsic to the deed's own character.
+
+**Intention and well-being.** Intention concerns the more universal significance under which the agent understands what he did. The action also has a particular end bound up with the agent's own well-being and, because acting relates one will to others, with the well-being of others. The account refuses both a view confined to bare external conduct and one confined to private inward purpose.
+
+**The good and conscience.** The good gathers abstract right, well-being, and subjective willing into a universal end. Because the subjective will at this stage is not yet identical with its own conception, the whole sphere has a characteristic grammar — the ought: "the moral standpoint is the standpoint of relation, of obligation or requirement".
+
+Conscience is the sphere's summit and its problem. Subjectivity turned back into itself, determining and judging out of itself, is conscience, and the book grants it real dignity, treating it as a holy place it would be sacrilege to assault and reading its historical appearance — at epochs such as that of Socrates and the Stoics — as what happens when established ethical principles can no longer satisfy the better will. An Addition to § 136 states the claim conscience makes at its purest:
+
+> But conscience is aware of itself as thought, and knows that my thought is for me the only thing that is binding.
+>
+> — Addition (compiled from student lecture records), in [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896), § 136
+
+That is also the limit. True conscience desires what is absolutely good and therefore has fixed rules, but those rules are not available at this standpoint, since "The objective system of rules and duties and the union of them with the subjective consciousness appear first in the sphere of ethical observance." What remains is form without content: "But at the formal standpoint of morality, conscience is devoid of objective content. It is merely an infinite certitude of itself and is formal and abstract." A self-certitude that decides everything out of itself is, on this account, the common root of both morality and evil, which is why the Note to § 137 holds that the state cannot recognize conscience in its merely subjective form, and why the long Note to § 140 catalogues the shapes the collapse takes: hypocrisy, probability, good intention, conviction, and irony.
+
+So neither of the first two parts stands alone. An Addition to § 141 states the balance: "In right is wanting the element of subjectivity, and in morality is wanting the objective, so that neither by itself has any actuality." The transition paragraph itself is explicit that "the concrete identity of the good and the subjective will, the truth of these two, is completed only in the ethical system".
+
+## Third Part: Ethical Observance (§§ 142–360)
+
+The third part is not another standpoint but an achieved world — freedom embodied in an objective social order and recognized as their own by the individuals who live in it. Its opening paragraph gives the definition:
+
+> The ethical system is thus the conception of freedom developed into a present world, and also into the nature of self-consciousness.
+>
+> — [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896), § 142
+
+What makes that rational order actual in individual life is habitual practice. Paragraph 151 is the book's account of how an ethical order actually exists in people:
+
+> The ethical, when simply identical with the reality of individuals, appears as a generally adopted mode of action, or an observance. This is the custom, which as a second nature has been substituted for the original and merely natural will, and has become the very soul, meaning, and reality of one's daily life.
+>
+> — [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896), § 151
+
+Custom here is not a statistical regularity but a second nature — the habitual presence of an ethical order in ordinary conduct — and the Addition to the paragraph accordingly calls pedagogy the art of making men ethical, converting a first nature into a second, spiritual one until the spiritual becomes a habit. The formula is a Pythagorean's reply, quoted in the Note to § 153, to a father asking how best to bring up his son: "Make him a citizen of a state which has good laws."
+
+The order so constituted has an authority the Note to § 146 calls infinitely higher than that of natural things, and yet, per § 147, it is not foreign to the individual, who feels himself in it as in an element indistinguishable from himself. Duty on this account limits caprice but is not a limit on freedom: it is the entrance to a substantive freedom, releasing the individual from natural impulse and from a moral subjectivity unable to realize itself. Right and duty fuse — "By virtue of the ethical fabric man has rights, so far as he has duties, and duties so far as he has rights" — and the substance then unfolds through three institutions.
+
+### The Family (§§ 158–181)
+
+The family is the direct and natural form of the ethical substance: "The family is the direct substantive reality of spirit. The unity of the family is one of feeling, the feeling of love." Its members do not confront one another as contracting parties — "Hence, in the family we are not independent persons but members" — and marriage is accordingly not reducible to a contract between self-sufficient persons, since it transforms natural attachment into an ethical union, entered by free consent and publicly recognized. The treatment runs through marriage, family means, and the education of children and the disruption of the family. The family requires common and durable property for its support; the account also assigns sharply differentiated domestic and public roles to the sexes. It ends by dissolving: children are raised toward independent personality, and at maturity what was theirs by position becomes theirs externally, as money, maintenance, or education, while the immediate unity breaks up into new families.
+
+### The Civic Community (§§ 182–256)
+
+The civic community — Dyde's term for the sphere of self-dependent persons — is what the family's dissolution produces: a realm of private persons pursuing their own interests, held together by mutual need. An Addition places it as the realm of difference, intermediate between the family and the state. Paragraph 183 gives the resulting system a name that matters for everything the book later says about politics: mutual dependence interweaves the subsistence, happiness, and rights of each with those of all, and "This system we may in the first instance call the external state, the state which satisfies one's needs, and meets the requirements of the understanding."
+
+It has three divisions:
+
+1. **The system of wants** organizes the multiplication of needs, labour, exchange, wealth, and the classes or estates. Private work satisfies the wants of others along with one's own. This is where the book engages political economy directly: the Note to § 189 credits Smith, Say, and Ricardo with finding simple regulating principles in a mass of particulars. It is also where the same interdependence is said to produce specialization, insecurity, and inequality — § 185 says the civic community affords a spectacle of excess, misery, and physical and social corruption, and § 244 describes a pauper class forming as people sink below the standard regarded as essential while wealth accumulates in few hands.
+2. **The administration of justice** makes abstract right positive as publicly known law, protecting person and property through legislation, courts, and recognized procedure. Universality does real work here: the Note to § 209 holds that "Man must be accounted a universal being, not because he is a Jew, Catholic, Protestant, German, or Italian, but because he is a man."
+3. **The police and the corporation** address the interests and contingencies that isolated private action cannot secure. Police carries the broad sense of public supervision and provision for common conditions, while the corporation organizes a trade or occupation into a recognized association that protects its members and gives their particular work a social standing.
+
+The civic community is not yet the state, and an Addition remarks that it has frequently been taken for one — on the book's terms, the standing mistake of every theory that identifies the state with an apparatus of security. Its universality remains tied to the protection and mediation of particular interests.
+
+### The State (§§ 257–360)
+
+The Third Section opens with the claim the book is known for: "The state is the realized ethical idea or ethical spirit." Paragraph 258 draws the consequence for the individual:
+
+> This substantive unity is its own motive and absolute end. In this end freedom attains its highest right. This end has the highest right over the individual, whose highest duty in turn is to be a member of the state.
+>
+> — [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896), § 258
+
+Paragraph 260 states the modern form of the claim — "The state is the embodiment of concrete freedom" — and grounds it in a specific balance: the modern state lets subjectivity develop to the extreme of personal particularity and still carries it back into a substantive unity, so that concrete freedom preserves personal individuality and particular interest rather than erasing them, while placing both inside a universal institutional order. An Addition supplies the book's most-quoted and most-contested phrase for the result, that "The state is the march of God in the world", and states the thesis in the plainest terms the record offers:
+
+> The state as a completed reality is the ethical whole and the actualization of freedom. It is the absolute purpose of reason that freedom should be actualized.
+>
+> — Addition (compiled from student lecture records), in [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896), § 258
+
+The Note to § 258 fights on two fronts. Against the contract tradition it credits Rousseau with locating the state's principle in will, but faults him for conceiving that will as the individual's, which turns the union into a contract based on caprice, opinion, and explicit consent — and it traces the consequences of that abstraction to the Terror. Against Karl Ludwig von Haller's *Restauration der Staatswissenschaft* it rejects with equal force the doctrine that the rule of the stronger is the natural order, mocking Haller's hostility to law and constitutions at length.
+
+The part is organized as constitutional law — the constitution proper, differentiating the functions of prince, executive, and legislature within a constitutional monarchy, followed by foreign polity — then international law, then world-history. Externally the state confronts other states as an independent individual; international law governs relations among sovereign wills but has no superior authority able to guarantee compliance. World-history supplies the final horizon in which particular states and national spirits are judged, closing the system where the Introduction began, with the right of the world-spirit as the highest right of all: "The history of the world is the world's court of judgment."
+
+## A Note on Translations
+
+**This page quotes S. W. Dyde's translation of 1896 (London: George Bell and Sons), which is in the public domain; the raw text behind it is an OCR scan of the Cornell University Library copy.** This page uses the German terms *Moralität*, *Sittlichkeit*, and *bürgerliche Gesellschaft* as the standard scholarly labels for the book's spheres; they are not supplied by the English source. Dyde's own labels for them are **morality**, **ethical observance** (and, for the third part's heading, **the ethical system**), and **the civic community**; he writes "What is rational is real ; And what is real is rational". He does use the ordinary phrase *ethical life* in running prose, but it is not his label for the third sphere. A quotation must be checked against the edition it is credited to; everything quoted here is credited to Dyde and checked against Dyde. The editions cannot be quoted interchangeably: a quotation checked against one will not verify against the other, and a familiar-sounding phrase is the usual sign that the wrong edition has been quoted. The scan itself carries the ordinary hazards of OCR — dropped and substituted letters, and paragraph numbers occasionally misread — so the spans quoted here were verified character by character, and damaged passages were paraphrased instead of quoted.
+
+## Why the Book Matters Here
+
+The *Philosophy of Right* states a rival to any account that defines the state by the protection of person and property — and states it at full strength rather than in caricature.
+
+The disagreement is not about whether property and contract are real. Hegel gives them the whole first part and derives property from personality itself. It is about their rank. Abstract right, in this architecture, is the first and thinnest stage — a sphere of permissions and prohibitions whose only unconditional rule is negative — and it has no actuality on its own. The protective association appears here under a different name and a lower rank: the external state, the state that satisfies wants. The Note to § 258 then says exactly what is being refused:
+
+> Were the state to be considered as exchangeable with the civic society, and were its decisive features to be regarded as the security and protection of property and personal freedom, the interest of the individual as such would be the ultimate purpose of the social union. It would then be at one's option to be a member of the state.
+>
+> — [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896), § 258, Note
+
+That sentence is the hinge. The security-and-protection definition of the state, and the optional membership Hegel says would follow from it, are exactly what he sets out to deny; the book names them in order to deny them, and the denial is consistent — the contractual state was already ruled out back in the first part, at the Note to § 75.
+
+This book therefore sits opposite much of what is gathered under [[state-theory-and-totalitarianism|State Theory and Totalitarianism]], and the difference is worth stating plainly rather than arguing here. On Hegel's account the state is the realized ethical idea in which freedom becomes actual, and to which the individual's highest duty is owed; formal conscience, taken by itself, is a sphere devoid of objective content whose truth arrives only when it is embodied in institutions. A comparison with accounts that instead make conscience or reason the tribunal before which institutions are judged appears in [[ethics-vs-morality|Ethics vs Morality]], which cites sources on both sides.
+
+Two features of the book are worth carrying away independently of that quarrel. The first is its vocabulary: the *Moralität*/*Sittlichkeit* distinction remains a useful vocabulary for naming the difference between what an individual conscience concludes and what a community actually practises and institutionalizes — a distinction that remains useful whatever one concludes about the book's argument. The second is its method, which confines a philosophy of the state to apprehending what is rather than prescribing what ought to be. That limit is the source of the book's claim to authority and the reason it is read as a work of reconciliation with the present rather than a programme for changing it.
+
+## See Also
+
+- [[g-w-f-hegel|G. W. F. Hegel]] - author reference
+- [[ethics-vs-morality|Ethics vs Morality]] - the concept article built on this book's stipulated split between *Moralität* and *Sittlichkeit*, set beside the Greek and Latin etymologies
+- [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - the wiki's theories of the state, to which this book's account is the direct inversion
+
+## Sources
+
+- [Hegel's Philosophy of Right (Full Text, Dyde translation)](https://archive.org/details/cu31924014578979) - S. W. Dyde's 1896 public-domain translation (London: George Bell and Sons), from the archive.org scan of the Cornell University Library copy, OCR text. Supplies the translator's preface on the three layers of the text and on Gans's enlarged edition; the author's Preface of June 25th, 1820 on method, the rational and the real, and the owl of Minerva; § 33 and its Note on the division of the work and the morality/ethical-observance distinction; §§ 36–41, 72–75, 100 on abstract right, property, contract, and punishment; §§ 105–141 on the moral standpoint, conscience, and the transition; §§ 142, 146–155 on the ethical system and custom as second nature; §§ 158–161 on the family; §§ 182–189, 209, 244 on the civic community; §§ 257–260 and the Note to § 258 on the state; § 340 on world-history
 
 ---
 
@@ -20856,6 +21237,7 @@ New to this hub? Read these five, in order:
 - [[the-concept-of-the-political|The Concept of the Political]] - Schmitt's work centered on the friend/enemy criterion and its critique of liberal depoliticization.
 - [[start-here|Start Here]]
 - [[council-system|Council System]]
+- [[philosophy-of-right|Philosophy of Right]]
 
 ## Sources
 

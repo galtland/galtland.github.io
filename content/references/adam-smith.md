@@ -36,6 +36,7 @@ Smith is the classical-liberal foundation nearly every school in the wiki's [[sc
 - [[subjective-value-vs-the-labor-theory-of-value|Subjective Value vs the Labor Theory of Value]] - where the Austrians correct him
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's critical placement of Smith
 - [[schools-of-economics|Schools of Economics]] - the classical root of the schools that follow
+- [[g-w-f-hegel|G. W. F. Hegel]]
 
 ## Sources
 
