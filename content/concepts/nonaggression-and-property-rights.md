@@ -111,7 +111,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the objection that property is nothing but a state-enforced entitlement, stated at full strength and answered
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[ethics-vs-morality|Ethics vs Morality]]
-
+- [[left-and-right|Left and Right]] - the principle all three answers to the spectrum question defend
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - states and applies the anti-aggression axiom across many domains

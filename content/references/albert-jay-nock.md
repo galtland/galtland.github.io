@@ -43,6 +43,8 @@ Nock is a hinge between [[oppenheimer-the-state|The State]] and [[anatomy-of-the
 
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
+- [[left-and-right|Left and Right]] - Nock’s drift from the extreme left to the conservative label, as Rothbard’s worked example
+- [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - the essay that uses Nock as its worked case of a radical refiled on the right
 ## Sources
 
 - [Our Enemy, the State](https://famguardian.org/Publications/OurEnemyTheState/OurEnemyTheState-byAlbertJKnock.pdf) - full-text aggregate and Frank Chodorov preface

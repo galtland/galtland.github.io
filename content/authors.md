@@ -4,7 +4,7 @@ title: "Authors & Works"
 
 # Authors & Works
 
-An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (69 authors, 108 works).
+An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (69 authors, 109 works).
 
 ## A
 
@@ -228,6 +228,7 @@ Works, papers, and documents not catalogued under a single author page — co-au
 - [Farewell to Westphalia](/references/farewell-to-westphalia)
 - [Fog of CryptoWar](/references/fog-of-cryptowar)
 - [The Law](/references/the-law)
+- [Left and Right: The Prospects for Liberty](/references/left-and-right-the-prospects-for-liberty)
 - [Let's Abolish Government](/references/lets-abolish-government)
 - [The Lightning Network Paper](/references/the-lightning-network-paper)
 - [The Market for Liberty](/references/the-market-for-liberty)

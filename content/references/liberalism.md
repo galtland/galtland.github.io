@@ -52,7 +52,7 @@ This book is the political-philosophy companion to [[socialism|Socialism]] (1922
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
-
+- [[left-and-right|Left and Right]] - its record of the capture of the word liberal, in the spectrum debate
 ## Sources
 
 - [Liberalism: In the Classical Tradition (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition.epub) - full PDF as a wiki-ingestable aggregate

@@ -63,6 +63,7 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 
 
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
+- [[left-and-right|Left and Right]] - its argument that democracy turned the Right into statists, in the spectrum debate
 ## Sources
 
 - [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - full-text Internet Archive DjVu OCR aggregate with provenance and rights note

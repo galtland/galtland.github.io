@@ -114,6 +114,8 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 
 
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
+- [[left-and-right|Left and Right]] - the axis the libertarian objection to left and right points toward instead
+- [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - the essay arguing the left-right axis misreports where the liberal tradition began
 ## Sources
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - original political/economic means distinction and state definition

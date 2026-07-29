@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (355 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (357 entries).
 
 ## #
 
@@ -210,6 +210,8 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 
 - **[Late-Twentieth-Century State Forms](/concepts/late-twentieth-century-state-forms)** — Tilly's extension of European state-formation theory to late-twentieth-century military rule, postcolonial states, and the limits of exporting Europe's path.
 - **[The Law](/references/the-law)** — Bastiat's essay defining law as the collective right to self-defense, and legal plunder as its perversion into legalized theft.
+- **[Left and Right](/concepts/left-and-right)** — Is libertarianism right-wing? The tradition gives three answers — Hayek: neither; Rothbard: originally Left; Hoppe: properly Right — and the disagreement is live.
+- **[Left and Right: The Prospects for Liberty](/references/left-and-right-the-prospects-for-liberty)** — Rothbard's 1965 essay arguing that classical liberalism was the original Left, conservatism the reaction against it, and the modern spectrum an artifact of a scrambled map.
 - **[Lessons from Digital-Cash History](/concepts/digital-cash-history)** — Why pre-Bitcoin digital monies like DigiCash, e-gold, and Liberty Reserve failed: each had a central point of failure the state or market could eliminate, which Bitcoin escaped.
 - **[Let's Abolish Government](/references/lets-abolish-government)** — Rothbard-curated Spooner collection on constitutional illegitimacy, jury nullification, slavery, and radical anti-state dissent.
 - **[Liberalism](/references/liberalism)** — Mises's short 1927 statement of classical-liberal political economy: private property, peace, free trade, and a strictly limited state.

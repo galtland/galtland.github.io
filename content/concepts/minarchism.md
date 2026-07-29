@@ -63,7 +63,7 @@ Most of this corpus argues from the anarcho-capitalist side; minarchism is the p
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 - [[secession|Secession]]
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
-
+- [[left-and-right|Left and Right]] - the spectrum question that the in-family debate over the state cuts across
 ## Sources
 
 - [The Virtue of Selfishness (Full Text Aggregate)](https://archive.org/details/the-virtue-of-selfishness-ayn-rand) - Ayn Rand's “The Nature of Government”: the rights-protecting purpose of the state, government as a dangerous legal monopoly on force, and the rejection of "competing governments"

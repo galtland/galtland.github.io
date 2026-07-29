@@ -87,7 +87,7 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 - [[ethics-vs-morality|Ethics vs Morality]]
-
+- [[left-and-right|Left and Right]] - Hoppe’s natural-order conservatism and its claim on the Right
 ## Sources
 
 - [Aristotle, Nicomachean Ethics (Full Text)](https://www.gutenberg.org/ebooks/8438) - Book V, natural vs. conventional justice

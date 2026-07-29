@@ -84,6 +84,7 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 
 
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
+- [[left-and-right|Left and Right]] - his triangle against the line, and the objection that conservatives ask who wields power
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - political application of the critique of planning

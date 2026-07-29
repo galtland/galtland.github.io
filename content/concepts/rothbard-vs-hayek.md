@@ -58,6 +58,7 @@ The popular framing of *two Mises disciples with different economic ideas* is ha
 
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+- [[left-and-right|Left and Right]] - the same two thinkers disagreeing about the political spectrum
 ## Sources
 
 - [Mises and Hayek Dehomogenized (Salerno 1993)](https://mises.org/library/mises-and-hayek-dehomogenized) - the two-paradigm argument (Mises/Böhm-Bawerk vs Hayek/Wieser-Kirzner)

@@ -54,7 +54,7 @@ Spontaneous order is the positive half of the Austrian case for liberty: where t
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[minority-rule|The Minority Rule]]
 - [[iron-law-of-oligarchy|The Iron Law of Oligarchy]]
-
+- [[left-and-right|Left and Right]] - the grown-institutions insight Hayek credits to conservative thinkers
 ## Sources
 
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Hayek's “Individualism: True and False” (the Ferguson phrase and the Scottish-Enlightenment tradition) and “Economics and Knowledge” / “The Use of Knowledge in Society” (dispersed knowledge and the spontaneous interaction of dispersed minds)

@@ -46,7 +46,8 @@ This book works as the bridge between Rothbard the economist and Rothbard the po
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
-
+- [[left-and-right|Left and Right]] - its Old Right claim and the leftist-on-some-issues consistency argument
+- [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - the earlier essay whose Left genealogy this manifesto sits in tension with
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - full aggregated source used for this reference article

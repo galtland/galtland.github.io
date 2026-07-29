@@ -137,7 +137,7 @@ New to this hub? Read these five, in order:
 - [[natural-law|Natural Law]]
 - [[objectivism-and-rand|Objectivism and Ayn Rand]]
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
-
+- [[left-and-right|Left and Right]] - where the tradition sits on the left-right map, and why it disputes the map
 ## Sources
 
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - Rothbard's full-book overview of doctrine, applications, and strategy

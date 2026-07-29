@@ -69,7 +69,7 @@ The confidence level is low because this is a single-source, contested framework
 - [[privacy-and-cryptography|Privacy and Cryptography]] - topic map for resistant systems, Bitcoin, and cyber control
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
-
+- [[left-and-right|Left and Right]] - rule-based authority examined as such, the question the left-right line cannot register
 ## Sources
 
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - chapters 4-6 for abstract power, software-defined authority, proof-of-work, and strategic-security claims
