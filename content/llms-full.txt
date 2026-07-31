@@ -12387,6 +12387,8 @@ Schmitt is not a libertarian and should not be normalized as one. His critique o
 - [[michel-foucault|Michel Foucault]] - another non-libertarian power critic added with this batch
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with exception language
 
+
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]] - newsroom thesis backlink
 ## Sources
 
 - [Political Theology](https://platypus1917.org/wp-content/uploads/Political-Theology_-Four-Chapte-Carl-Schmitt.pdf) - Schwab translation, University of Chicago Press edition extraction
@@ -20650,142 +20652,128 @@ Category: thesis
 
 # Is Milei's Government Libertarian?
 
-> Argentina's government has cut spending, deregulated at speed, and posted the largest one-year gain in the 2026 Index of Economic Freedom — while keeping the central bank, restoring an income tax, borrowing from the IMF and the US Treasury, and governing through a declared emergency. The question is what that combination is called.
+> Argentina's government has cut spending, deregulated at speed, and posted the largest one-year gain in the 2026 Index of Economic Freedom — while keeping the central bank, restoring an income tax, borrowing from the IMF and the US Treasury, and launching much of the programme through a declared emergency. The question is what that combination is called.
 
-The question is nearly always asked about a man, and asked that way it cannot be answered. Whether [[javier-milei|Javier Milei]] sincerely holds the doctrine he cites is unknowable from outside his head, and the answer would not change a single Argentine's tax bill. Asked about policies, the question becomes decidable — and the tradition Milei names has already supplied the test.
+Asked about the man, the question cannot be answered. Whether [[javier-milei|Javier Milei]] sincerely holds the doctrine he cites is unknowable from outside his head, and the answer would not change a single Argentine's tax bill. Ryan McMaken, sifting Milei commentary at the Mises Institute, made that the condition of saying anything useful:
 
-[[murray-n-rothbard|Murray Rothbard]] set it out in the strategy chapter of [[for-a-new-liberty|For a New Liberty]], for exactly this case: a partial measure, enacted by a state, that falls short of the goal.
-
-> How, then, can we know whether any halfway measure or transitional demand should be hailed as a step forward or condemned as an opportunistic betrayal? There are two vitally important criteria for answering this crucial question: (1) that, whatever the transitional demands, the ultimate end of liberty be always held aloft as the desired goal; and (2) that no steps or means ever explicitly or implicitly contradict the ultimate goal.
->
-> — [[murray-n-rothbard|Murray Rothbard]], [[for-a-new-liberty|For a New Liberty]]
-
-Run the Milei government through both criteria and the result is lopsided in an informative way. It passes the first more visibly than any government of the last century. It fails the second repeatedly, and the failures are not stylistic — they are new impositions that the same programme created. That combination has a name, and the name is not *libertarian government*. It is a liberalizing state.
-
-## Judge the Policies, Not the Man
-
-The methodological point is not a dodge. Ryan McMaken, editing the flood of Milei commentary at the Mises Institute in 2024, made it the condition of saying anything useful at all:
-
-> What should interest us, however, is what Milei actually does and what specific policies he supports or rejects. We don't know—and we are unlikely to find out—what he actually believes.
+> What should interest us, however, is what Milei actually does and what specific policies he supports or rejects. We don’t know—and we are unlikely to find out—what he actually believes.
 >
 > — Ryan McMaken, “We Can Praise Milei's Policies without Praising the Man”
 
-This matters because both of the loud answers cheat in the same direction. The claim that Milei *is* a libertarian and the claim that he is a fake both convert a policy record into a fact about a personality, which is the one thing no one outside Buenos Aires can check. The record is public. It is also long enough now — more than two and a half years, from the December 2023 inauguration to the deregulation votes of mid-2026 — to be scored rather than forecast.
+Asked about policies, the question becomes decidable — and the tradition Milei names supplied the test long ago. [[murray-n-rothbard|Murray Rothbard]] set it out in the strategy chapter of [[for-a-new-liberty|For a New Liberty]], for exactly this case — a partial measure, enacted by a state, that falls short of the goal:
 
-One more clarification before scoring. Asked where a policy sits, [[left-and-right|the left-right axis]] records which way power is being pushed, not how far it may extend. A government can push hard in the direction of liberty from a starting point so statist that the destination remains far inside the territory the tradition calls unfree. Direction and extent are separate measurements, and most of the argument about Milei is two camps each reporting one of them.
+> There are two vitally important criteria for answering this crucial question: (1) that, whatever the transitional demands, the ultimate end of liberty be always held aloft as the desired goal; and (2) that no steps or means ever explicitly or implicitly contradict the ultimate goal.
+>
+> — [[murray-n-rothbard|Murray Rothbard]], [[for-a-new-liberty|For a New Liberty]]
+
+One distinction does most of the work below. [[left-and-right|The left-right axis]] records which way power is pushed, not how far it extends — and most of the argument about Milei is two camps each reporting one of those measurements. The record is public, and after more than two and a half years it can be scored rather than forecast.
 
 ## Criterion One: The Goal Held Aloft
 
-On Rothbard's first criterion the government does not merely pass, it is close to a limiting case. Milei states the maximal position in his own voice:
+On the first criterion the government passes about as clearly as an officeholder can. Milei states the maximal position in his own voice:
 
 > Strictly speaking, I am an anarcho-capitalist. I despise the state government. I despise violence.
 >
 > — [[javier-milei|Javier Milei]], interviewed by Lex Fridman, “Lex Fridman Podcast #453” (19 November 2024)
 
-And then states the transitional one, in the same conversation, without pretending it is the goal:
+And states the transitional one in the same conversation, without pretending it is the goal:
 
-> Now, real life poses a whole lot of restraints, and some of those you can lift, and those restrictions and others you can't. So in real life, I am a minarchist. I advocate for minimizing state size. I try to remove as many regulations as possible.
+> So in real life, I am a minarchist. I advocate for minimizing state size. I try to remove as many regulations as possible.
 >
 > — [[javier-milei|Javier Milei]], interviewed by Lex Fridman, “Lex Fridman Podcast #453” (19 November 2024)
 
-That is the structure Rothbard's criterion asks for: an ultimate end named, and the present programme presented as a way station toward it rather than as the destination. [[minarchism|Minarchism]] is not the corpus's own position — the market-anarchist argument is that even the night-watchman state is an unjust coercive monopoly — but a head of state who publicly ranks anarcho-capitalism above his own office is holding the banner about as high as the office allows.
+That is the structure the criterion asks for: an ultimate end named, and the present programme offered as a way station rather than a destination. [[minarchism|Minarchism]] is not the position argued for here — the market-anarchist case holds even the night-watchman state to be an unjust coercive monopoly — but a head of state who publicly ranks anarcho-capitalism above his own office is holding the banner about as high as the office allows.
 
-The record backs the rhetoric on the deregulation front, which is the part of the programme most often underweighted. Ian Vásquez's account for Cato records roughly two deregulations per day through the first year, ministries cut from eighteen to eight, about a hundred secretariats and sub-secretariats abolished, and a Ministry of Deregulation whose stated brief was to increase freedom rather than to make the state more efficient — asking of each rule whether the state should be involved at all. The sectoral results are the kind of thing [[price-controls|price-control analysis]] predicts on repeal: rental supply up sharply and rents down after decontrol, import-licensing repeal followed by double-digit price falls in clothing and appliances, satellite internet permitted into regions that had none. This wiki has already scored one of those episodes on the merits in [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 rent decontrol]], and the verdict there was endorsement.
+The deregulation record backs the rhetoric. Ian Vásquez's account for Cato reports roughly two deregulations per day through the first year, ministries cut from eighteen to eight, and about a hundred secretariats and sub-secretariats abolished by a Ministry of Deregulation whose brief was to ask of each rule whether the state should be involved at all. The sectoral results are what [[price-controls|price-control analysis]] predicts on repeal: rental supply up sharply and rents down after decontrol — an episode scored on its own terms in [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol]], verdict: endorsement — import-licensing repeal followed by a 20 percent fall in clothing prices and 35 percent in appliances, satellite internet reaching regions that had none.
 
-Nor did the drive stop when the emergency delegations lapsed. In February 2026 the labour-market reform cleared the Senate 42–28 after passing the lower house 135–115 — relaxed hiring rules, changes to severance and vacation, minimum-service requirements during strikes, salaries payable in foreign currency. In May 2026 the Chamber of Deputies passed the *Ley Hojarasca*, repealing more than sixty norms the government considers obsolete, 138–96 with nine abstentions. Heritage's 2026 Index scores Argentina's improvement at 3.2 points, the largest gain of any country in that year's Index.
-
-Anyone who wants to deny that this is a real liberalization is arguing with the ledger.
+Nor did the drive stop when the emergency delegations lapsed. In February 2026 the labour-market reform cleared the Senate 42–28 after passing the lower house 135–115: relaxed hiring rules, working arrangements of up to twelve hours a day managed through time accounts, more predictable severance, and limits on the right to strike in critical-infrastructure sectors. In May 2026 the Chamber of Deputies passed the *Ley Hojarasca*, repealing more than sixty norms the government considers obsolete, 138–96 with nine abstentions.
 
 ## Criterion Two: Where the Means Contradict the End
 
-Rothbard's second criterion is the demanding one, and it is demanding on purpose: a step that reduces state power on one front while adding it on another does not net out to a smaller state, because the new imposition is a fresh act of aggression that the old one does not license. Four classes of contradiction show up in the record.
+The second criterion is demanding on purpose: a new imposition is a fresh act of aggression, and cuts elsewhere do not license it. Five contradictions show up in the record.
 
 ### The Tax Ledger
 
-Rothbard's rule for taxes is explicit and admits no offsetting:
+Rothbard's rule for taxes admits no offsetting:
 
-> The libertarian looks forward to eventual abolition of taxes. It is perfectly legitimate for him, as a strategic measure in that desired direction, to push for a drastic reduction or repeal of the income tax. But the libertarian must never support any new tax or tax increase.
+> The libertarian looks forward to eventual abolition of taxes. ... But the libertarian must never support any new tax or tax increase.
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[for-a-new-liberty|For a New Liberty]]
 
-The Argentine fact-checking outlet Chequeado's ledger through late 2025 counts more than nineteen taxes eliminated or reduced: the PAIS tax on foreign-currency purchases ended, export duties on farm goods cut, tariffs on capital goods and textiles reduced, internal taxes on cars removed, Bienes Personales and Monotributo lightened. Against that it records the 2024 fiscal package restoring the fourth category of the income tax on wages — a levy Congress had eliminated in 2023 — the lapse of the *Compre sin IVA* rebate, and successive increases in the liquid-fuels and carbon-dioxide taxes. Oscar Grau, writing from the Hoppean side in mid-2024, recorded the same pattern as it was happening: taxes raised on fuels and foreign-currency purchases, an income-tax category slated for restoration.
+The Argentine fact-checking outlet Chequeado counts more than nineteen taxes eliminated or reduced through late 2025: the PAIS tax on foreign-currency purchases ended, export duties on farm goods cut, tariffs on capital goods and textiles reduced, internal taxes on cars removed. Against that, the 2024 fiscal package restored the fourth category of the income tax on wages — a levy Congress had eliminated in 2023 — the *Compre sin IVA* rebate lapsed, and the liquid-fuels and carbon-dioxide taxes were raised repeatedly. Oscar Grau logged the same pattern from the Hoppean side as it happened, in mid-2024.
 
-The net direction is down; the composition is exactly what Rothbard's rule forbids. And the level that remains is the part rhetoric cannot reach: Heritage puts Argentina's tax burden at 27.8 percent of GDP with top personal and corporate rates of 35 percent, three-year average government spending at 35.4 percent of GDP, and public debt at 84.7 percent. [[taxation|Taxation]] is the institution around which this corpus's theory of the state turns, and on that institution the Argentine state remains substantially intact. Chequeado notes what has not moved at all: VAT, the cheque tax, and social-security contributions — the largest sources of the take.
+The net direction is down; the composition is what the rule forbids. And the level that remains is the part rhetoric cannot reach. Heritage puts the tax burden at 27.8 percent of GDP with top personal and corporate rates of 35 percent, three-year average government spending at 35.4 percent of GDP, and public debt at 84.7 percent. Chequeado notes what has not moved at all: VAT, the cheque tax, and social-security contributions — the largest sources of the take. [[taxation|Taxation]] is the institution the libertarian theory of the state turns on, and it remains substantially intact.
 
 ### The Money
 
-This is the load-bearing failure, because it is the promise that made Milei legible as an Austrian in the first place. He still states the goal correctly:
+This is the load-bearing failure, because it is the promise that marked Milei as an Austrian in the first place. He still states the goal correctly:
 
-> Let's see, let's break it down. Let's say, if you review all my statements, I talk about currency competition. I'm not strictly talking about dollarization, I'm talking about currency competition and eliminating the central bank.
+> I’m not strictly talking about dollarization, I’m talking about currency competition and eliminating the central bank.
 >
 > — [[javier-milei|Javier Milei]], interviewed by Lex Fridman, “Lex Fridman Podcast #453” (19 November 2024)
 
-The central bank has not been eliminated. It has been re-tooled and given more to do. Maurice Obstfeld's account of the successive frameworks — maxi-devaluation and a 2-percent crawling peg, then a 1-percent crawl, then the April 2025 band, then a band widening at lagged inflation from January 2026 — describes an institution actively administering the price of money, buying reserves and defending a corridor. His judgment on where the pesos to buy those reserves come from is the part that matters here:
+The central bank has not been eliminated. It remains active and has been repeatedly re-tooled. Maurice Obstfeld's account of the successive frameworks — maxi-devaluation and a 2 percent crawling peg, then a 1 percent crawl, then the April 2025 band, then a band widening at lagged inflation from January 2026 — describes an institution administering the price of money, buying reserves and defending a corridor. Where the pesos for those reserves come from is the part that matters:
 
 > While balanced public accounts are an immense achievement, the government likely will have to run surpluses going forward to accumulate foreign exchange reserves, and these are most likely to be financed by purchases of dollars with pesos—that is, monetary financing.
 >
 > — Maurice Obstfeld, “Argentina's fragile monetary framework risks renewed volatility”
 
-Heritage scores monetary freedom at 28.9, Argentina's weakest component by a wide margin — the self-declared Austrian's worst mark is in money.
+Heritage scores monetary freedom at 28.9, Argentina's weakest component by a wide margin: the lowest mark falls on the one institution Milei named as the target.
 
-Two further points sharpen this beyond a missed promise. First, the argument Milei gave for keeping the bank is not an Austrian one. Kristoffer Mousten Hansen, working through Milei's reply to [[hans-hermann-hoppe|Hoppe]], traces it to the last-period problem plus the asset-backing theory of money defended by Juan Ramón Rallo — a modern real-bills doctrine — and concludes:
+Two points sharpen this. First, the argument given for keeping the bank is not an Austrian one. Kristoffer Mousten Hansen, working through Milei's reply to [[hans-hermann-hoppe|Hoppe]], traces it to the asset-backing theory of money defended by Juan Ramón Rallo — a modern real-bills doctrine — and concludes that "Milei is no Austrian."
 
-> But Milei is no Austrian, and that he resorted to name-calling and quack theories in response to Hoppe's calm critique suggests that he is not much of an economist either.
->
-> — Kristoffer Mousten Hansen, “Hoppe versus Milei on Central Banking: Breaking Down the Differences”
-
-Second, part of the fiscal achievement was financed by the very tax the programme exists to abolish. In the Austrian usage this wiki adopts, [[inflation|inflation]] is the expansion of money and credit, and its distributional effect is a transfer from those who receive the new money last. Claudia Zilla's account of the first surplus attributes it primarily to the absence of inflationary adjustment to pensions and annuities, which fell around 29 percent in real terms year-on-year by May 2024, and to an 83 percent cut in capital expenditure. Cutting a legislated obligation is a policy choice a libertarian can defend; letting inflation erode it is using the inflation tax to balance the books. The books balanced. The mechanism was the one under indictment.
+Second, part of the first surplus came from letting inflation shrink obligations rather than from repealing them. Claudia Zilla attributes it primarily to the absence of inflationary adjustment to pensions and annuities, which fell around 29 percent in real terms year-on-year by May 2024, and to an 83 percent cut in capital expenditure. In the Austrian usage, [[inflation|inflation]] is the expansion of money and credit, and its burden falls on whoever meets the new prices last. A state whose obligations are fixed in nominal terms sits on the other side of that transfer. Cutting a legislated obligation is a choice a libertarian can defend; letting the currency do it is collecting on the tax the programme was elected to end.
 
 ### The Debt
 
-Faced with an inherited creditor stack, the government took a 48-month, $20 billion IMF Extended Fund Facility in April 2025 with $12 billion up front, and in October 2025 a $20 billion US Treasury swap accompanied by direct intervention in the Buenos Aires foreign-exchange market. Geoffrey Lawrence's defence of the swap for Reason is the strongest version of the case for it: a swap is a loan and not a gift, and it buys time for reforms that would make Argentina creditworthy on market terms. That case is about solvency, not about liberty. Grau's objection is the one this corpus's frame generates:
+Faced with inherited debts, the government took a 48-month, $20 billion IMF Extended Fund Facility in April 2025 with $12 billion up front, and in October 2025 a $20 billion US Treasury swap accompanied by direct intervention in the Buenos Aires foreign-exchange market. Geoffrey Lawrence's defence for Reason is the strongest case for it: a swap is a loan, not a gift, and it buys time for the reforms that would make Argentina creditworthy on market terms. That case is about solvency, not liberty. Grau's objection is the one the Rothbardian frame generates:
 
-> Instead of repudiating State debt, he went to the IMF and decided to let the long-suffering Argentinians pay for foreigners and foreign investment funds that had been stupid enough to buy debt obligations issued by previous administrations of the Argentine government.
+> Instead of repudiating State debt, he went to the IMF and decided to let the long-suffering Argentinians pay for foreigners and foreign investment funds ...
 >
 > — Oscar Grau, “A Hoppean Dissection of Javier Milei”
 
-Public debt is a claim on future taxation. Refinancing it enlarges and extends that claim; repudiating it extinguishes the claim on people who never consented to it. Whatever one concludes about the prudence of default, the chosen path binds Argentine taxpayers harder and adds a dependence on two foreign public creditors — which is a new constraint on the polity's freedom of action, not a removed one. Estefanía Pozzo's assessment of the 2026 outlook puts the political reading of it bluntly:
+Public debt is a claim on future taxation. Official refinancing preserves and extends that claim; repudiation extinguishes it for people who never consented to it. The chosen path adds a dependence on two foreign public creditors — a new constraint on the polity's freedom of action, not a removed one. Estefanía Pozzo's reading of the 2026 outlook is blunt about the gap:
 
-> President Javier Milei is a unique figure in Argentine economic history — not necessarily due to his libertarian roots, which are more declarative than substantive in his financial decisions, but because he has enacted a policy of fiscal austerity and still remained popular enough to win the midterm elections by a landslide.
+> President Javier Milei is a unique figure in Argentine economic history — not necessarily due to his libertarian roots, which are more declarative than substantive in his financial decisions ...
 >
 > — Estefanía Pozzo, “Milei's economy in 2026: between macroeconomic consolidation and politics”
 
 ### The Method
 
-The subtlest contradiction is procedural, and it is the one a libertarian reading is best equipped to see. The programme was launched by DNU 70/2023, a decree declaring a state of public emergency across the economy, finance, taxation, administration, social security, tariffs, health and social affairs, and by *Ley Bases*, which delegated further decree authority to the executive for a year. The Ministry of Deregulation ran against a countdown clock because its power was borrowed emergency power.
+The subtlest contradiction is procedural. The programme was launched by DNU 70/2023, a decree declaring a public emergency across the economy, finance, taxation, administration, social security, tariffs, health and social affairs — an emergency that ran to the end of 2025 — and by *Ley Bases*, which delegated further decree authority to the executive for a year. The Ministry of Deregulation ran against a countdown clock because its power was borrowed emergency power.
 
-[[state-of-exception|The state of exception]] is Schmitt's name for exactly this instrument: the authority to decide when normal rules are suspended. Using it to deregulate does not domesticate it. The prerogative that repealed a hundred rules by decree is the prerogative that can impose a hundred, and it survives in the office after the occupant who used it benignly is gone. [[hayek-on-rule-of-law|Hayek's account of the rule of law]] makes the same distinction from the other direction: liberty under law is government bound by fixed, pre-announced rules, and discretionary administration is the form planning takes — the form does not change its character when the discretion is exercised in a market-liberal direction. A libertarian gain that exists as a revocable executive act has not been secured; it has been rented. The February 2026 labour reform and the May 2026 *Ley Hojarasca*, passed as legislation by a Congress the October 2025 midterms reshaped, are on firmer ground precisely because they are not decrees.
+[[state-of-exception|The state of exception]] is [[carl-schmitt|Schmitt]]'s name for that instrument: the authority to decide when normal rules are suspended. Using it to deregulate does not domesticate it — the prerogative that repealed a hundred rules by decree can impose a hundred, and it outlives the occupant who used it benignly. [[hayek-on-rule-of-law|Hayek's rule-of-law argument]] reaches the same place from the other side: discretionary administration is the form planning takes, whichever direction the discretion runs. A gain that exists as a revocable executive act has not been secured; it has been rented. The 2026 labour reform and *Ley Hojarasca*, carried as legislation by the Congress the October 2025 midterms reshaped, stand on firmer ground.
 
-### New Powers Taken
+### Powers Added
 
-A liberalizing government that only ever subtracts would be hard to fault under criterion two. This one has also added. In July 2026 the government issued a Decree of Necessity and Urgency amending the immigration law to permit barring entry to, or expelling, foreigners who incite or disseminate messages of hatred, discrimination or violence against the Argentine people, or who insult national symbols — with a carve-out stated in the decree for constitutionally protected political, academic and civic criticism. Whatever one's position on migration levels, this is a new discretionary state power over speech and over the movement of persons, created by decree, and it sits directly against the [[open-borders|open-borders]] analysis in which the state's immigration barrier, rather than entry to a consenting owner, is the invasive act. Protecting the dignity of national symbols is not a property right.
+A government that only ever subtracted would be hard to fault here. This one has also added. In July 2026 a Decree of Necessity and Urgency amended the immigration law to permit barring entry to, or expelling, foreigners who incite or disseminate messages of hatred, discrimination or violence against the Argentine people, or who insult national symbols — with a carve-out stated in the decree for constitutionally protected political, academic and civic criticism. Whatever one's position on migration levels, that is a new discretionary power over speech and movement, created by decree. On the [[open-borders|open-borders]] analysis, the state's barrier rather than entry to a consenting owner is the invasive act; protecting the dignity of national symbols is not a property right.
 
-Foreign policy is the other addition. [[non-interventionism|Non-interventionism]] is not an optional garnish on the libertarian position but Rothbard's derivation from the non-aggression axiom: inter-state war aggresses first against the warring state's own taxpayers. Zilla documents the turn — a declared new doctrine of strategic alignment with the United States, accession to the Ukraine Defence Contact Group, the Israel-policy reversal, BRICS entry refused. McMaken's judgment that outside domestic fiscal and monetary policy Milei is largely indistinguishable from other mainstream Latin American heads of state, and displays no particular affinity for anti-interventionist foreign policy, is the plainest statement of what that costs the libertarian claim.
+Foreign policy is a second divergence. [[non-interventionism|Non-interventionism]] is not a garnish on the libertarian position but Rothbard's derivation from the non-aggression axiom: inter-state war aggresses first against the warring state's own taxpayers. Zilla documents the turn — a declared doctrine of strategic alignment with the United States, accession to the Ukraine Defence Contact Group, the Israel-policy reversal, BRICS entry refused. McMaken states the cost plainly: outside domestic fiscal and monetary policy, Milei is largely indistinguishable from other mainstream Latin American heads of state and shows no affinity for anti-interventionism.
 
-Security is a third area where the state grew: Al Jazeera's reporting notes the security budget was substantially increased even as ministries closed. Under [[minarchism|minarchism]] that is coherent — protection is the one function the night-watchman keeps. It is worth naming anyway, because "the state shrank" is not what happened; the state was re-proportioned toward the functions this administration believes a state should have.
+Third, security: Al Jazeera reports the security budget rose substantially even as ministries closed. Coherent under [[minarchism|minarchism]] — protection is the function the night-watchman keeps — but the state did not simply shrink; it was re-proportioned toward the functions this administration thinks a state should have.
 
 ## The Honest Scoreboard
 
-Both of the following are true, and each is usually deployed to suppress the other.
+Both of the following are true.
 
-Argentina is markedly freer than the country Milei inherited. Inflation fell from 211 percent in 2023 to around 31.5 percent by late 2025 on official figures. GDP grew 2.3 percent year-on-year in the first quarter of 2026 on record private consumption, with exports up 9.8 percent. Poverty, after spiking early, has fallen well below the level bequeathed by the previous government. The deregulation is real, large, and in several markets measurable in prices.
+Argentina is markedly freer than the country Milei inherited. Inflation fell from 211 percent in 2023 to around 31.5 percent by late 2025 on official figures. GDP grew 2.3 percent year-on-year in the first quarter of 2026 on record private consumption, with exports up 9.8 percent. Poverty, after spiking early, has fallen well below the level bequeathed by the previous government.
 
-Argentina is also, on the same measurement, *mostly unfree*: 57.4 points, 106th of the countries ranked in the 2026 Index. Investment fell 11.6 percent year-on-year in the same quarter that consumption set a record. The adjustment's distribution is contested and partly documented — social spending down 17 percent between late 2023 and 2025 on one analysis, disability benefits lost by more than 110,000 people, homelessness in Buenos Aires up around 57 percent, pensioners and students repeatedly in the streets. Swapnarka Arnan's charge that a liberty-claiming government has restricted rights in practice, and Zilla's verdict that the government's policies exhibit an authoritarian spirit, are the sharpest versions of the objection; both are worth reading against the deregulation ledger rather than instead of it. A federal investigation into the president's February 2025 promotion of the LIBRA token remains open, with no charges filed against him at the time of writing — relevant to the anti-*casta* claim rather than to the policy record, but not nothing when the pitch is that this government is different in kind.
+Argentina is also, on the same measurement, *mostly unfree*: 57.4 points, 106th of the countries ranked in the 2026 Index. In the quarter consumption set a record, investment fell 11.6 percent year-on-year. The adjustment's distribution is contested and partly documented — social spending down 17 percent between late 2023 and 2025 on one analysis, disability benefits lost by more than 110,000 people, homelessness in Buenos Aires up around 57 percent, pensioners and students repeatedly in the streets. Swapnarka Arnan's charge that a liberty-claiming government has restricted rights, and Zilla's verdict of an authoritarian spirit, are the sharpest objections; read them against the deregulation ledger rather than instead of it. A federal investigation into the president's February 2025 promotion of the LIBRA token remains open, with no charges filed against him — relevant to the anti-*casta* pitch rather than to the policy record.
 
-The reconciliation is the distinction made earlier: the direction of travel is strongly toward liberty; the distance still to travel is most of the way. A government can be the best liberalizing administration of its generation and still be a state that taxes 27.8 percent of national output, prints the money, and rules substantially by decree.
+The direction of travel is strongly toward liberty; the distance still to travel is most of it.
 
 ## What Would Settle It
 
-Because the question keeps being re-litigated on vibes, it is worth naming what would move it. Four markers are checkable within a term:
+Four markers, each checkable within a term:
 
-- **Money.** Closing the BCRA, or stripping the peso of its legal privileges so that currency competition is real rather than promised. The stated goal is elimination; the observable trend is an active monetary authority with a widening band and a reserve-purchase programme.
-- **Taxes.** A net repeal that is not offset — a large tax abolished without a new or increased one appearing elsewhere in the same package. That is Rothbard's rule stated as a test.
-- **Emergency power.** Whether delegated decree authority is allowed to lapse and reforms are carried as legislation, or renewed. The 2026 congressional route is the encouraging sign; a fresh delegation would be the discouraging one.
+- **Money.** Closing the BCRA, or stripping the peso of its legal privileges so that currency competition is real rather than promised.
+- **Taxes.** A large tax abolished without a new or increased one appearing elsewhere in the same package. That is Rothbard's rule stated as a test.
+- **Emergency power.** Whether further reforms are carried as legislation, or delegated decree authority is revived.
 - **Debt.** Whether the next stress is met with another official facility or with a restructuring that stops charging Argentine taxpayers for creditors' bets.
 
-Rothbard's rule cuts against the sectarian answer as hard as against the credulous one. He condemned refusing to credit real advances as its own liquidationism: rejecting every step short of the goal renders the goal unreachable. Philipp Bagus, defending the compromises, makes the practical version of that case — a labour reform of this kind had not passed in fifty years, and it is fair to say go faster without pretending nothing moved.
+Rothbard's rule cuts against the sectarian answer as hard as against the credulous one: rejecting every step short of the goal renders the goal unreachable. Philipp Bagus, defending the compromises, makes the practical version — a labour reform of this kind had not passed in fifty years, and it is fair to say go faster without pretending nothing moved.
 
-So: not a libertarian government. A government that has cut, deregulated and decontrolled further and faster than any elected administration in decades, while retaining the central bank, keeping most of the tax state, deepening the public-debt claim on its citizens, taking new powers over speech and movement, and doing much of its work through the exception rather than the law. Praise the cuts, name the offsets, and keep the ultimate end aloft — which is precisely what the criterion asks of the observer, and not only of the government.
+So: not a libertarian government. A government that has cut, deregulated and decontrolled hard enough to post the largest single-year gain in the 2026 Index, while retaining the central bank, keeping most of the tax state, deepening the public-debt claim on its citizens, taking new powers over speech and movement, and doing much of its work through the exception rather than the law. Praise the cuts, name the offsets, and keep the ultimate end aloft — which is what the criterion asks of the observer, and not only of the government.
 
 ## See Also
 
