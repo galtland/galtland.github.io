@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (357 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (359 entries).
 
 ## #
 
@@ -183,12 +183,14 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Inflation and Unemployment](/references/inflation-and-unemployment)** — Friedman's 1976 Nobel lecture: no lasting trade-off between inflation and unemployment, the natural rate, and the vertical long-run Phillips curve — the monetarist core the Austrians answer on method.
 - **[Intellectual Property](/concepts/intellectual-property)** — The Austrian case that IP monopolies are illegitimate: property rights resolve conflict over rivalrous resources, and information is not rivalrous.
 - **[The Iron Law of Oligarchy](/concepts/iron-law-of-oligarchy)** — Robert Michels's thesis that every organization, however democratic in aim, inevitably develops a ruling minority that emancipates itself from the mass — 'Who says organization, says oligarchy.
+- **[Is Milei's Government Libertarian?](/theses/2026-07-31-is-mileis-government-libertarian)** — Milei's government passes Rothbard's first test for transitional measures — the goal is held aloft — and fails the second on taxes, money, debt and emergency power: liberalizing, not libertarian.
 
 ## J
 
 - **[James Buchanan](/references/james-buchanan)** — Economist (1919–2013), Nobel 1986; co-founder with Gordon Tullock of public choice and constitutional economics. The Calculus of Consent (1962) applied the economics of self-interest to politics.
 - **[James Dale Davidson](/references/james-dale-davidson)** — American venture capitalist and newsletter publisher who co-authored The Sovereign Individual with Lord William Rees-Mogg, forecasting the nation-state's decline.
 - **[Jason Lowery](/references/jason-lowery)** — US Space Force officer and MIT fellow whose Softwar analyzes Bitcoin as electro-cyber power projection and national-security infrastructure.
+- **[Javier Milei](/references/javier-milei)** — Argentine president since December 2023, self-described anarcho-capitalist in principle and minarchist in practice; the tradition's first head-of-state test case.
 - **[John Locke](/references/john-locke)** — English philosopher (1632-1704) whose Second Treatise of Government founded modern natural-rights theory: pre-political rights, consent, and the right of revolution.
 - **[John Maynard Keynes](/references/john-maynard-keynes)** — John Maynard Keynes (1883-1946), founder of modern macroeconomics; author of The General Theory (1936) — the Keynesian counterpoint to the wiki's Austrian sources.
 - **[John Nash](/references/john-nash)** — Mathematician and Nobel laureate whose Ideal Money lectures converge, from outside the Austrian tradition, on this wiki's hard-money critique of discretionary fiat.

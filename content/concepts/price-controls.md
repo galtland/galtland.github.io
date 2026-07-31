@@ -156,6 +156,7 @@ The general lesson is therefore not that a price control is always loudly chaoti
 - [[power-and-market|Power and Market]] — full-text source
 - [[liberalism|Liberalism]] — full-text source
 - [[economics-in-one-lesson|Economics in One Lesson]]
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
 
 ## Sources
 

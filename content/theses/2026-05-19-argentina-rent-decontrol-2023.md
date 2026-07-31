@@ -80,6 +80,8 @@ This is an endorsement of fit, not a full empirical decomposition of Argentina's
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
 - [[human-action|Human Action]] - Reference guide to Mises's praxeological treatise (1949 / Scholar's Edition 1998), the foundational text of modern Austrian economics and the immediate intellectual ancestor of Rothbard's Man
 - [[libertarianism|Libertarianism]] - Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, Tilly's protection-racket sociology
+- [[javier-milei|Javier Milei]]
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
 
 ## Sources
 

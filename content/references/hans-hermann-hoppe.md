@@ -79,6 +79,9 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - his case that libertarians must be conservatives, in the spectrum debate
+- [[javier-milei|Javier Milei]]
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
+
 ## Sources
 
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - main full-text source for Hoppe's property-theoretic contrast between capitalism and socialism

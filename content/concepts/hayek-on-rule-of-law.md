@@ -49,6 +49,7 @@ Hayek's foreseeability condition sits at the level of [[state-power-and-interven
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not the result of human design: order that emerges without a designer.
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
 
 ## Sources
 

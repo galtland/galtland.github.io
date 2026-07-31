@@ -119,6 +119,8 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[ethics-vs-morality|Ethics vs Morality]]
 - [[left-and-right|Left and Right]] - his reversed genealogy placing classical liberalism on the original Left
 - [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - his 1965 essay placing classical liberalism on the original Left
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
+
 ## Sources
 
 - [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's major economic treatise as a full-text aggregate

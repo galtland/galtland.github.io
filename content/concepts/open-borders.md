@@ -67,6 +67,7 @@ Open borders is the [[nonaggression-and-property-rights|nonaggression]] traditio
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the axiom Block applies to immigration
 - [[political-means-and-economic-means|Political Means and Economic Means]] - the coercion-versus-consent distinction the dispute rests on
 - [[free-trade-and-comparative-advantage|Free Trade and Comparative Advantage]] - The economic case for free trade: by comparative advantage, even a party worse at producing everything gains by specializing where it is relatively best and trading
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
 
 ## Sources
 

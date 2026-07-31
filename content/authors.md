@@ -4,7 +4,7 @@ title: "Authors & Works"
 
 # Authors & Works
 
-An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (69 authors, 109 works).
+An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (70 authors, 109 works).
 
 ## A
 
@@ -105,6 +105,7 @@ An index of every author, thinker, and organization in the wiki, each with the w
   - [The Sovereign Individual](/references/the-sovereign-individual)
 - **[Jason Lowery](/references/jason-lowery)**
   - [Softwar](/references/softwar)
+- **[Javier Milei](/references/javier-milei)**
 - **[John Locke](/references/john-locke)**
   - [Second Treatise of Government](/references/the-second-treatise-of-government)
 - **[John Maynard Keynes](/references/john-maynard-keynes)**

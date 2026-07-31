@@ -185,6 +185,7 @@ What survives all three is the negative result they converge on. If the line mea
 - [[liberalism|Liberalism]] - the statement of the classical programme whose name was taken
 - [[albert-jay-nock|Albert Jay Nock]] - the worked case of a radical who accepted the conservative label
 - [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - the 1965 essay supplying the originally-Left answer set out here
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
 
 ## Sources
 

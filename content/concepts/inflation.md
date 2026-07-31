@@ -51,3 +51,5 @@ Inflation is the hinge of the wiki's [[money-and-banking|money-and-banking]] arc
 - [[hard-money|Hard Money]] - the inexpandable money that is the cure
 - [[federal-reserve|Federal Reserve]] - the institution that makes monetary expansion permanent
 - [[regression-theorem|The Regression Theorem]] - the limit even an inflating issuer cannot cross
+- [[javier-milei|Javier Milei]]
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]

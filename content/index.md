@@ -4,12 +4,12 @@
 
 **New here? → [Start Here](topics/start-here.md)** — a plain-language tour of the whole wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to read next. No background assumed.
 
-Last updated: 2026-07-25
+Last updated: 2026-07-31
 
 ## Statistics
 
-- Sources: 191 raw documents (+ 4 news-lens items)
-- Articles: 358 compiled wiki articles (161 concepts, 178 references, 9 theses, 10 topics)
+- Sources: 211 raw documents (+ 4 news-lens items)
+- Articles: 360 compiled wiki articles (161 concepts, 179 references, 10 theses, 10 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-26
 - Last lint: 2026-06-26
@@ -33,6 +33,8 @@ Last updated: 2026-07-25
 - [Theses](theses/)
 
 ## Recent Changes
+
+- 2026-07-31: thesis -- added `2026-07-31-is-mileis-government-libertarian`; regenerated newsroom indexes and backlinks.
 
 - 2026-07-23: thesis -- added `2026-07-22-dpc-coordination-objection`; regenerated newsroom indexes and backlinks.
 

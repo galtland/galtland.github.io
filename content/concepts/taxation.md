@@ -52,3 +52,4 @@ Taxation is where the wiki's [[state-power-and-intervention|theory of the state]
 - [[hard-money|Hard Money]] - the response to inflation as a hidden tax
 - [[state-power-and-intervention|State Power and Intervention]] - the broader theory of state coercion taxation anchors
 - [[inflation|Inflation]]
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]

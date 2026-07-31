@@ -54,6 +54,9 @@ This is the *normative* libertarian argument (who may justly use force), distinc
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 - [[left-and-right|Left and Right]] - how the same anti-war position was coded left in one decade and right in the next
 - [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - Rothbard’s claim that anti-war opinion was originally a left-wing tradition
+- [[javier-milei|Javier Milei]]
+- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
+
 ## Sources
 
 - [War, Peace, and the State](https://mises.org/library/war-peace-and-state) - Rothbard's 1963 essay; the non-aggression axiom applied to war, the taxpayer-aggression argument, and the non-intervention objective
