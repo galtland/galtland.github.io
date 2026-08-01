@@ -36,7 +36,7 @@ Its first recommendation was blunt — "The government should end its Section 21
 >
 > — Privacy and Civil Liberties Oversight Board, *Report on the Telephone Records Program Conducted under Section 215 of the USA PATRIOT Act* (23 January 2014)
 
-The Board's deepest point was structural: "permitting the government to routinely collect the calling records of the entire nation fundamentally shifts the balance of power between the state and its citizens." Snowden's less diplomatic summary of the same findings, delivered to the European Parliament, was that "the greatest success the program had ever produced was discovering a taxi driver in the United States transferring $8,500 dollars to Somalia in 2007."
+The Board's deepest point was structural: "permitting the government to routinely collect the calling records of the entire nation fundamentally shifts the balance of power between the state and its citizens." Snowden's less diplomatic summary of the same findings, delivered to the European Parliament, was that "the greatest success the program had ever produced was discovering a taxi driver in the United States transferring \$8,500 dollars to Somalia in 2007."
 
 Then, in May 2015, the Second Circuit held in *ACLU v. Clapper* that "the bulk telephone metadata program is not authorized by § 215." The government's theory — that every American's records are "relevant" to counterterrorism because the database must exist before it can be searched — did not survive its first contact with an adversarial court:
 
