@@ -74,7 +74,14 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       DescriptionWithFallbacks(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Latex/KaTeX intentionally DISABLED. This wiki contains no mathematics —
+      // no $$ blocks, no \frac, nothing — but it writes about money constantly,
+      // and the plugin treats any two `$` in a paragraph as an inline math span:
+      // "$20 billion ... with $12 billion" rendered as "20billion...with12", and
+      // concepts/gold-standard.md silently lost the 1934 $20.67 -> $35 devaluation
+      // for months. Source pages now escape currency as \$ (enforced by the
+      // dollar-math gate in galtland-wiki-index), so this plugin is pure downside
+      // here. Re-enable ONLY together with a policy for currency symbols.
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
