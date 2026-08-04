@@ -9102,13 +9102,13 @@ Category: concept
 
 # Silk Road
 
-> Silk Road was the darknet marketplace that ran from 2011 to 2013, the first large economy denominated in [[bitcoin|Bitcoin]] and the first working proof that a market could operate beyond a government's practical reach. It is the wiki's central case study in [[crypto-anarchy|crypto anarchy]] — both what the program can do and where it breaks.
+> Silk Road was the darknet marketplace that ran from 2011 to 2013, and a Bitcoin-denominated economy large enough to measure: a 2012 crawl by Carnegie Mellon's Nicolas Christin found a few hundred sellers and monthly revenue around USD 1.2 million, growing. It ran for two and a half years before a government reached it — which is the case study's point in both directions. It is the wiki's central case study in [[crypto-anarchy|crypto anarchy]] — both what the program can do and where it breaks.
 
-## The first crypto-anarchy economy
+## A crypto-anarchy economy in practice
 
-Silk Road assembled three existing technologies into something new. It was reachable only as a Tor hidden service, so neither buyers, sellers, nor the server could be easily located; it settled in Bitcoin, so payments needed no bank willing to process them; and it replaced the state's contract enforcement with pseudonymous reputation, buyer reviews, and an escrow system that held funds until delivery. The result was a functioning marketplace — mostly for drugs, and with categories the site itself refused, such as anything whose purpose was to harm — that no jurisdiction could simply order shut.
+Silk Road assembled three existing technologies into something new. It was reachable only as a Tor hidden service, so neither buyers, sellers, nor the server could be easily located; it settled in Bitcoin, so payments needed no bank willing to process them; and it replaced the state's contract enforcement with pseudonymous reputation, buyer reviews, and an escrow system that held funds until delivery. The result was a functioning marketplace — mostly for drugs, and with categories the site itself refused: its sellers' guide barred anything "who's (sic) purpose is to harm or defraud", naming stolen data, counterfeit currency and assassinations — weapons only from 4 March 2012, when they were moved to a sister site — that no jurisdiction could simply order shut.
 
-This was the scenario [[timothy-c-may|Tim May]] had sketched in the crypto-anarchist vision a quarter-century earlier: anonymous networks plus untraceable digital cash making certain kinds of regulation unenforceable. Silk Road was also, in practice, Bitcoin's first *killer app* — the first place where Bitcoin was demanded for what it uniquely did rather than held as a curiosity, giving the young currency a real economy and a censorship-resistance stress test at the same time.
+This was the scenario [[timothy-c-may|Tim May]] had sketched in the crypto-anarchist vision a quarter-century earlier: anonymous networks plus untraceable digital cash making certain kinds of regulation unenforceable. It also gave Bitcoin a measured economy: a place where the currency was demanded for what it uniquely did rather than held as a curiosity, and a censorship-resistance stress test at the same time.
 
 ## Ross Ulbricht and the libertarian frame
 
@@ -9120,7 +9120,7 @@ The FBI seized Silk Road in October 2013 and arrested Ulbricht; he was convicted
 
 ## Aftermath
 
-The market proved far more resilient than any single site. Successors appeared almost immediately, and the darknet-market ecosystem persisted through repeated takedowns — evidence for the crypto-anarchist claim that you cannot arrest a protocol. The other durable consequence was argumentative rather than commercial: because Bitcoin's traceability had convicted, the episode became a standing case for [[fungibility|fungibility]] as a monetary requirement rather than a feature — the property [[monero|Monero]] makes mandatory rather than optional. Silk Road sits in the [[digital-cash-history|digital-cash history]] as the moment crypto-anarchy stopped being a manifesto and became an operating economy — briefly, illegally, and instructively.
+The market proved far more resilient than any single site. Successors appeared almost immediately, and the darknet-market ecosystem persisted through repeated takedowns — evidence for the crypto-anarchist claim that you cannot arrest a protocol. The other durable consequence was argumentative rather than commercial: because a public ledger is evidence rather than cover, the episode became a standing case for [[fungibility|fungibility]] as a monetary requirement rather than a feature — the property [[monero|Monero]] makes mandatory rather than optional. Silk Road sits in the [[digital-cash-history|digital-cash history]] as the moment crypto-anarchy stopped being a manifesto and became an operating economy — briefly, illegally, and instructively.
 
 ## Place in This Wiki
 
@@ -9128,17 +9128,19 @@ The wiki holds Silk Road at *medium* confidence — not on the facts, which are 
 
 ## See Also
 
-- [[crypto-anarchy|Crypto Anarchy]] - the thesis Silk Road first demonstrated in practice
+- [[crypto-anarchy|Crypto Anarchy]] - the thesis Silk Road demonstrated in practice
 - [[bitcoin|Bitcoin]] - the money Silk Road ran on, and the ledger that helped convict its founder
 - [[digital-cash-history|Digital Cash History]] - the lineage this episode belongs to
 - [[censorship-resistance|Censorship Resistance]] - the property the market had at the protocol layer but lost at the endpoints
-- [[monero|Monero]] - the default-private money later markets moved to after the traceability lesson
+- [[monero|Monero]] - the money that makes mandatory the fungibility Silk Road's fall turned into an argument
 - [[fungibility|Fungibility]] - the monetary property Silk Road's fall made an argument for
 - [[timothy-c-may|Timothy C. May]] - author of the crypto-anarchist vision Silk Road realized
 - [[the-cybereconomy|The Cybereconomy]] - the borderless-market idea Silk Road briefly instantiated
 
 ## Sources
 
+- [Traveling the Silk Road: A Measurement Analysis of a Large Anonymous Online Marketplace](https://arxiv.org/abs/1207.7139) - Christin's crawl: sellers, revenue, growth, and the sellers' guide
+- [Collected Quotations of the Dread Pirate Roberts](https://www.forbes.com/sites/andygreenberg/2013/04/29/collected-quotations-of-the-dread-pirate-roberts-founder-of-the-drug-site-silk-road-and-radical-libertarian/) - Ulbricht describing his own project, in his forum posts
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - the takedown narrative: identifiable promotional accounts, the server-location leak, and the arrest
 - [The "He Said, She Said" of How the FBI Found Silk Road's Servers](https://arstechnica.com/tech-policy/2014/10/the-he-said-she-said-of-how-the-fbi-found-silk-roads-servers/) - the FBI's CAPTCHA account of how the server was located, and the technical dispute over it
 

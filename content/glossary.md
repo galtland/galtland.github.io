@@ -365,7 +365,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Shelling Out](/concepts/shelling-out)** — Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money with the properties later required by money.
 - **[Signal Double Ratchet](/references/signal-double-ratchet)** — Signal's messaging ratchet: per-message symmetric keys plus DH ratchet turns for forward secrecy and post-compromise recovery.
 - **[Signal X3DH](/references/signal-x3dh)** — Signal's asynchronous key-agreement spec: identity keys, signed prekeys, one-time prekeys, and 3-4 DH values to start a secure session.
-- **[Silk Road](/concepts/silk-road)** — The 2011–2013 Tor-and-Bitcoin darknet market: the first working demonstration of crypto-anarchy — and, in its takedown, the lesson that Bitcoin is pseudonymous, not anonymous.
+- **[Silk Road](/concepts/silk-road)** — The 2011–2013 Tor-and-Bitcoin darknet market: a working demonstration of crypto-anarchy — and, in its takedown, the lesson that Bitcoin is pseudonymous, not anonymous.
 - **[Smart Contracts](/concepts/smart-contracts)** — Szabo's broad 1994 idea that contract terms can be embedded in protocols, reducing fraud, enforcement costs, and dependence on intermediaries.
 - **[The Snowden Disclosures](/concepts/snowden-disclosures)** — June 2013: bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own courts, and answered by the demand to encrypt the network.
 - **[Socialism](/references/socialism)** — Mises's 1922 book-length critique of socialism, expanding his 1920 economic-calculation argument and launching the socialist-calculation debate.
