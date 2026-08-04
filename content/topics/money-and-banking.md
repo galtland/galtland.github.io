@@ -3,7 +3,7 @@ title: "Money and Banking"
 volatility: warm
 category: topic
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-08-04
 verified: 2026-07-15
 tags: [money, banking, monetary-theory, sound-money, gold-standard, fiat, austrian-economics, business-cycle, central-banking, bitcoin, cbdc, hard-money]
 aliases: [money and banking, monetary theory, sound money, money hub]
@@ -52,6 +52,8 @@ New to this hub? Read these five, in order:
 
 ## See Also
 
+- [[barry-eichengreen|Barry Eichengreen]] - the economic historian whose interwar case the Austrian account has to answer
+- [[golden-fetters|Golden Fetters]] - his 1992 book, held here through Salerno's quotation of its own summary
 - [[austrian-economics|Austrian Economics]] - the sibling hub supplying the method (praxeology, calculation, capital theory) this monetary thread applies
 - [[cypherpunk|Cypherpunk]] - shares the digital-money nodes (Bitcoin, Monero, self-custody), read there as tools of exit
 - [[regression-theorem|The Regression Theorem]] - the Menger-to-Mises bridge from money's origin to its value

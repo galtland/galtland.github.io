@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (359 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (361 entries).
 
 ## #
 
@@ -41,6 +41,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 
 - **[b-money](/references/b-money)** — Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed transfers, and bonded contracts — a precursor to Bitcoin that left the consensus problem open.
 - **[Banality of Evil](/concepts/banality-of-evil)** — Arendt's thesis that Eichmann's evil was not demonic depth but bureaucratic compliance, cliche, and an inability to think from another's standpoint.
+- **[Barry Eichengreen](/references/barry-eichengreen)** — Economic historian whose Golden Fetters supplies the standard case against the interwar gold standard; present here as the opposition, quoted through Salerno.
 - **[Bernstein v. United States (1999)](/references/bernstein-v-united-states-1999)** — The influential but later withdrawn, non-precedential 1999 Ninth Circuit opinion treating encryption source code as speech and striking export licensing as unconstitutional prior restraint.
 - **[Biopower](/concepts/biopower)** — Foucault's concept of modern power directed at life itself — population, health, birth, death, security — shifting sovereignty's 'take life or let live' into the biopolitical 'make live and let die.
 - **[Bit Gold](/references/bit-gold)** — Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
@@ -151,6 +152,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[The General Theory of Employment, Interest and Money](/references/the-general-theory)** — Keynes's 1936 General Theory: effective demand, the multiplier, liquidity preference, and the case for managing aggregate demand — the foundational Keynesian text and the Austrian critique's target.
 - **[Georgism and the Land-Value Tax](/concepts/georgism)** — Henry George's single-tax proposal on land's unimproved value — and the Austro-libertarian critique that land is legitimately owned, speculation useful, and the tax would misallocate sites.
 - **[The Gold Standard](/concepts/gold-standard)** — Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+- **[Golden Fetters](/references/golden-fetters)** — Eichengreen's 1992 case that the interwar gold standard transmitted and magnified the Depression; held here via Salerno's quotation of its author's own summary.
 - **[Government Provision and the Conservation Appeal](/concepts/government-provision-and-the-conservation-appeal)** — Where the state supplies a utility and runs conservation campaigns, the appeal signals a compulsory monopoly pricing output below market-clearing — Rothbard's diagnosis of the NY water shortage.
 - **[Great Depression](/concepts/great-depression)** — The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 - **[The Gulag Archipelago](/references/the-gulag-archipelago)** — Solzhenitsyn's documentary-literary indictment of the Soviet camp system, the definitive eyewitness case against totalitarian terror.
@@ -365,7 +367,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Signal X3DH](/references/signal-x3dh)** — Signal's asynchronous key-agreement spec: identity keys, signed prekeys, one-time prekeys, and 3-4 DH values to start a secure session.
 - **[Silk Road](/concepts/silk-road)** — The 2011–2013 Tor-and-Bitcoin darknet market: the first working demonstration of crypto-anarchy — and, in its takedown, the lesson that Bitcoin is pseudonymous, not anonymous.
 - **[Smart Contracts](/concepts/smart-contracts)** — Szabo's broad 1994 idea that contract terms can be embedded in protocols, reducing fraud, enforcement costs, and dependence on intermediaries.
-- **[The Snowden Disclosures](/concepts/snowden-disclosures)** — June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own courts, and answered by encryption-by-default.
+- **[The Snowden Disclosures](/concepts/snowden-disclosures)** — June 2013: bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own courts, and answered by the demand to encrypt the network.
 - **[Socialism](/references/socialism)** — Mises's 1922 book-length critique of socialism, expanding his 1920 economic-calculation argument and launching the socialist-calculation debate.
 - **[Sociality](/concepts/sociality)** — Pufendorf's foundational law of nature: man is needy yet prone to harm, so each must behave so others have no just cause to injure him — root of the duties of non-injury, equality, and contract.
 - **[Society Must Be Defended](/references/society-must-be-defended)** — Foucault's 1975-1976 lectures on war, sovereignty, disciplinary power, biopower, population, and state racism.

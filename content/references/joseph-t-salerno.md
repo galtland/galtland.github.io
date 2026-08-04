@@ -3,7 +3,7 @@ title: "Joseph T. Salerno"
 volatility: warm
 category: reference
 created: 2026-05-27
-updated: 2026-06-26
+updated: 2026-08-04
 verified: 2026-06-26
 tags: [salerno, austrian-economics, monetary-theory, tms, mises-institute, pure-time-preference]
 aliases: [Joseph Salerno, Salerno]
@@ -58,6 +58,8 @@ The 1993 paper is explicit about what the dehomogenization argument does *not* c
 - [[americas-great-depression|America's Great Depression]] — Rothbard's broad money-supply argument that TMS formalizes
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+- [[barry-eichengreen|Barry Eichengreen]]
+- [[golden-fetters|Golden Fetters]]
 
 ## Sources
 

@@ -4,7 +4,7 @@ title: "Authors & Works"
 
 # Authors & Works
 
-An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (70 authors, 109 works).
+An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (72 authors, 109 works).
 
 ## A
 
@@ -28,6 +28,7 @@ An index of every author, thinker, and organization in the wiki, each with the w
 ## B
 
 - **[b-money](/references/b-money)**
+- **[Barry Eichengreen](/references/barry-eichengreen)**
 - **[Bit Gold](/references/bit-gold)**
 
 ## C
@@ -78,6 +79,7 @@ An index of every author, thinker, and organization in the wiki, each with the w
 
 - **[G. W. F. Hegel](/references/g-w-f-hegel)**
   - [Philosophy of Right](/references/philosophy-of-right)
+- **[Golden Fetters](/references/golden-fetters)**
 
 ## H
 

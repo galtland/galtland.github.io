@@ -2262,16 +2262,16 @@ Category: concept
 
 ## The Six Cases
 
-- **DigiCash (1989–1998).** [[david-chaum|David Chaum]]'s company implemented his [[blind-signatures-for-untraceable-payments|blind-signature]] ecash. The cryptography worked, but the venture failed commercially (too early for e-commerce; required conservative bank partners; reportedly spurned Microsoft/Visa offers). Its deeper flaw was architectural: tokens were **warehouse receipts** — claims on dollars held by a bank — so it could never escape the banking system it aimed to bypass. When the company failed, the receipts became claims on nothing.
-- **e-gold (1996–2009).** Douglas Jackson's gold-backed digital currency reached billions in annual volume and millions of accounts with minimal KYC. In 2007 the U.S. indicted it for unlicensed money transmission and money-laundering conspiracy; it was shut down and Jackson pleaded guilty. Same warehouse-receipt architecture as DigiCash — but here the **state**, not the market, exploited the single custodian. The gold still existed; the institution that honored claims did not.
-- **Liberty Dollar (1998–2011).** Bernard von NotHaus's silver/gold medallions and certificates aimed to be actual circulating currency competing with [[federal-reserve|Federal Reserve]] notes (peak circulation ~\$20M). After a 2007 FBI raid, NotHaus was convicted in 2011 of counterfeiting and fraud — controversially, since the medallions did not resemble U.S. currency. Lesson: **physical** alternative money draws even more direct state opposition, and provocative anti-Fed marketing raised the prosecutorial target.
+- **DigiCash (1989–1998).** [[david-chaum|David Chaum]]'s company implemented his [[blind-signatures-for-untraceable-payments|blind-signature]] ecash. The cryptography worked, but the venture failed commercially (too early for e-commerce; required conservative bank partners; reportedly spurned Microsoft/Visa offers). Its deeper flaw was architectural: tokens were **warehouse receipts** — claims on dollars held by a bank — so it could never escape the banking system it aimed to bypass. The source describes the dependence from both ends — balances as claims on DigiCash Inc., and tokens as warehouse receipts on dollars held by issuing banks — and either way the holder's position rests on an institution that can fail, which is precisely the dependence the design set out to escape.
+- **e-gold (1996–2009).** Douglas Jackson's gold-backed digital currency reached billions in annual volume and millions of accounts with minimal KYC. In 2007 the U.S. indicted it for unlicensed money transmission and money-laundering conspiracy; it was shut down and Jackson pleaded guilty. Same warehouse-receipt architecture as DigiCash — but here the **state**, not the market, exploited the single custodian. The gold still existed; what stopped was the issuer's freedom to honour claims against it. As the source frames the general case, an issuer can "fail, be shut down, refuse redemption, or be compelled by authorities to freeze accounts" — and the holder's position depends on which of those happens.
+- **Liberty Dollar (1998–2011).** Bernard von NotHaus's silver/gold medallions and certificates aimed to be actual circulating currency competing with [[federal-reserve|Federal Reserve]] notes (peak circulation ~\$20M). After a 2007 FBI raid, NotHaus was convicted in 2011 of counterfeiting and fraud — controversially, since the medallions did not *closely* resemble U.S. currency; prosecutors argued that denominating them in "dollars" and borrowing familiar monetary language was enough. Lesson: **physical** alternative money draws even more direct state opposition, and the provocative anti-Fed marketing may have increased prosecutorial attention.
 - **Liberty Reserve (2006–2013).** Arthur Budovsky's Costa Rica–based, privacy-focused digital currency processed ~\$6B for ~1M users with minimal KYC. In 2013 U.S. authorities (with Costa Rican cooperation) shut it down; Budovsky was extradited and sentenced to 20 years. Lesson: **jurisdictional arbitrage has limits** — offshore incorporation delays but does not prevent prosecution of a centralized operator. (Note: entirely unrelated to Liberty Dollar despite the name.)
-- **Silk Road (2011–2013).** [[silk-road|Ross Ulbricht]]'s Tor-and-Bitcoin darknet marketplace proved anonymous commerce works at scale — anonymous reputation and escrow included. It fell not because Tor or Bitcoin broke, but through **operational-security failures**: early forum posts tying his identity to the project, a server IP leak via a misconfigured CAPTCHA, and arrest while logged into the admin panel. (In a notable twist, two investigating federal agents were later convicted of stealing bitcoin during the case.)
+- **Silk Road (2011–2013).** [[silk-road|Ross Ulbricht]]'s Tor-and-Bitcoin darknet marketplace proved anonymous commerce works at scale — anonymous reputation and escrow included. It fell through **operational-security failures** rather than any demonstrated break in Tor or Bitcoin: early promotional posts from identifiable accounts that investigators later connected to him, and arrest while logged into the admin panel. How the server itself was located was contested — the FBI attributed it to a misconfigured CAPTCHA, an account the Berkeley computer scientist Nicholas Weaver judged "full of holes". (In a notable twist, two investigating federal agents were later convicted of stealing bitcoin during the case.)
 - **Tornado Cash (2019– ).** A decentralized Ethereum mixer implemented as **immutable smart contracts** — no company, CEO, or server to seize. In August 2022 OFAC designated Tornado Cash and listed its smart-contract *addresses* as blocked property — a move [[max-hillebrand|Hillebrand]] reads as sanctioning software itself rather than a person or entity. The contracts kept running. The Fifth Circuit ruled in November 2024 that immutable smart contracts lacking ownership are not "property" OFAC can sanction under IEEPA, and Treasury delisted it in March 2025 — yet the **developers** were still prosecuted (Roman Storm convicted of the money-transmission charge in August 2025, jury deadlocked on the graver counts).
 
 ## The Patterns
 
-What **failed** is consistent: **centralization** created a targetable point (DigiCash's bankruptcy, e-gold/Liberty Reserve's prosecutions, Liberty Dollar's raid, Silk Road's single operator); **[[trusted-third-parties-as-security-holes|trusted third parties]]** ([Trusted Third Parties as Security Holes](trusted-third-parties-as-security-holes.md)) were the security holes whose trust was eventually betrayed or destroyed; **poor OPSEC** defeated sound technology; and **business models dependent on state-tolerant infrastructure** (banks, payment processors) were vulnerable to pressure on that infrastructure. The money-substitute cases also illustrate the [[hard-money|money-proper-versus-money-substitute]] distinction: a claim on someone else's reserves dies with the claim-honoring institution.
+What **failed** is consistent: **centralization** created a targetable point (DigiCash's bankruptcy, e-gold/Liberty Reserve's prosecutions, Liberty Dollar's raid, Silk Road's single operator); **[[trusted-third-parties-as-security-holes|trusted third parties]]** ([Trusted Third Parties as Security Holes](trusted-third-parties-as-security-holes.md)) were the security holes whose trust was eventually betrayed or destroyed; **poor OPSEC** defeated sound technology; and **business models dependent on state-tolerant infrastructure** (banks, payment processors) were vulnerable to pressure on that infrastructure. The money-substitute cases also illustrate the [[hard-money|money-proper-versus-money-substitute]] distinction: a claim on someone else's reserves is only ever as good as the institution standing behind it, and what becomes of it is that institution's to decide or the state's.
 
 What **succeeded** is the inverse, and Bitcoin embodies it: decentralization with no entity to shut down, open source enabling trust through verification rather than reputation, economic incentives that sustain development, and conceptual clarity that enables adoption. Tornado Cash marks the live frontier: full decentralization protected the *protocol* but not the *people* — the state adapted by prosecuting builders. The implication Hillebrand draws for the [[parallel-economy|parallel economy]] is sobering: future privacy tools may need not just decentralized architecture but anonymous development and a clean separation between writing software and operating a service.
 
@@ -2294,6 +2294,8 @@ What **succeeded** is the inverse, and Bitcoin embodies it: decentralization wit
 - [[silk-road|Silk Road]]
 
 ## Sources
+
+- [The "He Said, She Said" of How the FBI Found Silk Road's Servers](https://arstechnica.com/tech-policy/2014/10/the-he-said-she-said-of-how-the-fbi-found-silk-roads-servers/) - contemporary reporting on the FBI's CAPTCHA account and the dispute over it
 
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 18 "Lessons from History": DigiCash, e-gold, Liberty Dollar, Liberty Reserve, Silk Road, and Tornado Cash, with the success/failure pattern analysis
 
@@ -3688,7 +3690,7 @@ Category: concept
 
 ## What the Gold Standard Is
 
-A gold standard is a monetary system in which the unit of account is a fixed weight of gold and paper claims are redeemable in that metal — though by whom varies, and that variation is most of the history below: a classical standard redeems for the ordinary holder on demand, while under Bretton Woods only foreign central banks could present dollars for gold. Its discipline lives in convertibility, though not as an accounting identity: banks under a gold standard do issue claims beyond the metal they hold — [[ludwig-von-mises|Mises]] calls those uncovered claims fiduciary media, and their issue is [[fractional-reserve-banking|fractional-reserve banking]] whether the reserve is gold or anything else. What redeemability supplies is a *drain*: an issuer that expands faster than its rivals sees its claims presented for metal it does not have, so over-issue is punished rather than impossible. [[ludwig-von-mises|Ludwig von Mises]] put the identity at its starkest in [[human-action|Human Action]]: "Under the gold standard gold is money and money is gold." The paper is a warehouse receipt; the money is the metal behind it.
+A gold standard is a monetary system in which the unit of account is a fixed weight of gold and paper claims are redeemable in that metal — though by whom varies, and that variation is most of the history below: a classical standard redeems for the ordinary holder on demand, while under Bretton Woods only foreign central banks could present dollars for gold. Its discipline lives in convertibility, though not as an accounting identity: banks under a gold standard do issue claims beyond the metal they hold — [[ludwig-von-mises|Mises]] calls those uncovered claims fiduciary media, and their issue is [[fractional-reserve-banking|fractional-reserve banking]] whether the reserve is gold or anything else. What redeemability supplies is a *drain*: an issuer that expands faster than its rivals sees its claims presented for metal it does not have, so over-issue is punished rather than impossible. [[ludwig-von-mises|Ludwig von Mises]] put the identity at its starkest in [[human-action|Human Action]]: "Under the gold standard gold is money and money is gold." A *fully covered* claim is a warehouse receipt in that sense; an uncovered one is not, and the whole of the argument below turns on which kind is circulating.
 
 The gold standard is therefore the historical instantiation of [[hard-money|hard money]] — money whose supply is costly and slow to expand — and the practical terminus of Mises's [[regression-theorem|regression theorem]]: a monetary good whose present value traces back through an unbroken chain to gold's ancient non-monetary worth. This page is the hub for that history; the theory of hardness and the regress live on those pages.
 
@@ -3704,7 +3706,7 @@ The classical standard did not collapse; it was disassembled in stages, each shi
 
 **1913–1918.** The United States created the [[federal-reserve|Federal Reserve]] in 1913, and the outbreak of the First World War the next year set the pattern for the century: belligerent governments suspended or strained convertibility and financed wartime deficits through monetary expansion, opening a gap between the volume of paper claims and the gold beneath them.
 
-**1933.** Facing the deflationary wreckage of the early Depression, the U.S. government treated gold's restraint as the problem rather than prior inflation. In Ammous's account, President Roosevelt "issued an executive order banning the private ownership of gold," forcing Americans to sell their holdings to the U.S. Treasury at \$20.67 per ounce. He then revalued the dollar from \$20.67 to \$35 per ounce — a devaluation of roughly 41% against gold — after the population had already been stripped of the metal.
+**1933.** Facing the deflationary wreckage of the early Depression, the U.S. government treated gold's restraint as the problem rather than prior inflation. In Ammous's account, President Roosevelt "issued an executive order banning the private ownership of gold," forcing Americans to sell their holdings to the U.S. Treasury at \$20.67 per ounce. He then revalued the dollar from \$20.67 to \$35 per ounce — a devaluation of roughly 41% against gold — after the population had already been stripped of the metal. The devaluation was also more staged than Ammous's account implies: the Federal Reserve's own history puts the return to stability at the Gold Reserve Act of January 1934, with the preceding phase running through the RFC's programme of buying gold at rising prices rather than a single fixed peg. And Ammous's phrasing is broader than the order: Executive Order 6102 prohibited *hoarding* — the withdrawal and withholding of gold from "the recognized and customary channels of trade" — and required delivery to a Federal Reserve Bank or any member bank rather than to the Treasury, exempting four categories: gold for legitimate industrial, professional or artistic use; up to \$100 in coin and certificates per person, plus coins "having a recognized special value to collectors of rare and unusual coins"; gold held for foreign governments, foreign central banks or the Bank for International Settlements; and gold "licensed for other proper transactions (not involving hoarding)".
 
 **1944.** At Bretton Woods the survivors built a dollar-gold *exchange* standard. Other currencies were pegged to the dollar, and only the dollar was convertible to gold — and only for foreign central banks, through what was called the gold-exchange window. Ordinary Americans remained barred from owning it. In theory the world still ran on gold; in practice the discipline now depended on U.S. restraint that did not come.
 
@@ -3728,7 +3730,13 @@ The case against gold deserves a fair hearing, and it comes from free-market eco
 
 **The Chicago critique.** [[milton-friedman|Milton Friedman]], in [[capitalism-and-freedom|Capitalism and Freedom]], argued that a genuine automatic gold standard is a historical fiction. His concession is conditional, and the conditions are the point: "an honest-to-goodness gold standard, in which 100 per cent of the money in a country consisted literally of gold" would guarantee against governmental tinkering only if it "were widely backed by the public at large, imbued with the mythology of a gold standard and with the belief that it is immoral and improper for government to interfere with its operation". Absent that, he insists, such a system "has historically never proved feasible" because "commodity standards have tended to become mixed standards involving extensive intervention by the state." Almost no one who claims to want a gold standard, he adds, actually wants that fully metallic version rather than a central-bank-managed one. He added a resource objection — digging metal out of one hole to bury it in another is a real cost a paper claim avoids — and preferred a fixed monetary-growth *rule* to a metallic anchor. Crucially, Friedman and Schwartz blamed the Depression not on commodity money but on the Fed's mismanagement, letting the quantity of money collapse by a third during the 1929–33 contraction. Where the Austrians and the Chicago school genuinely part company on money is mapped in [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]].
 
-**The "golden fetters" thesis.** The mainstream historical verdict runs harder still: the reconstructed interwar gold-exchange standard forced deficit countries into deflation and transmitted the Depression across borders, so that nations tended to recover in the order they abandoned gold. On this view the standard was not a passive victim of bad policy but an active mechanism of contagion — the analysis Rothbard's own [[americas-great-depression|America's Great Depression]] contests from the other direction.
+**The "golden fetters" thesis.** The mainstream verdict runs harder still. [[joseph-t-salerno|Salerno]] quotes Eichengreen's own summary of the thesis in order to argue against it.
+
+> The gold standard of the 1920s set the stage for the Depression of the 1930s by heightening the fragility of the international financial system. The gold standard was the mechanism transmitting the destabilizing impulse from the United States to the rest of the world. The gold standard magnified that initial destabilizing shock. ...
+>
+> — [[barry-eichengreen|Barry Eichengreen]], [[golden-fetters|Golden Fetters]], as quoted in [[joseph-t-salerno|Salerno]], [[money-sound-and-unsound|Money, Sound and Unsound]]
+
+On that reading nations recovered in the order they abandoned gold — and the Federal Reserve's own history reports the timing from the American side, calling Eichengreen and Sachs's 1985 work perhaps the most persuasive research on the question and reporting that recovery in the United States and most of the world's leading industrial nations began when they suspended gold and reflated.
 
 **The Austrian rejoinder.** Mises answered in advance that the interwar failures indicted the *managed* standard, not gold: "Of course, the gold standard cannot work if governments are eager to sabotage its operations." A gold-exchange system stuffed with fiduciary claims and steered by central banks, he held, is not the classical standard but its counterfeit; the deflation was the hangover from prior inflation, not the metal's fault.
 
@@ -3761,8 +3769,14 @@ Whether *digital gold* truly succeeds gold is contested, and it reopens the very
 - [[ideal-money|Ideal Money]] - Nash's non-commodity route to stable-value money
 - [[austrian-economics|Austrian Economics]] - the school whose monetary tradition frames the case for gold
 - [[money-and-banking|Money and Banking]] - The wiki's money hub: the Austrian theory of money from Menger and Mises through sound money, banking and the business cycle, the fiat system and CBDCs, to Bitcoin as digital hard money.
+- [[barry-eichengreen|Barry Eichengreen]]
+- [[golden-fetters|Golden Fetters]]
 
 ## Sources
+
+- [Money, Sound and Unsound](https://mises.org/library/book/money-sound-and-unsound) - Salerno quoting Eichengreen's summary of *Golden Fetters* in the course of rebutting it
+- [Executive Order 6102 — Forbidding the Hoarding of Gold Coin, Gold Bullion and Gold Certificates](https://www.presidency.ucsb.edu/documents/executive-order-6102-forbidding-the-hoarding-gold-coin-gold-bullion-and-gold-certificates) - the order's own text: the hoarding definition, the delivery destination, and the four exemptions
+- [Roosevelt's Gold Program (Federal Reserve History)](https://www.federalreservehistory.org/essays/roosevelts-gold-program) - the Fed's account of the 1933-34 phases and the scholarship on recovery after suspension and reflation
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - Mises on the definition of the gold standard, its "main excellence," and the rejoinder that only a sabotaged standard fails.
 - [The Bitcoin Standard (Full Text Aggregate)](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - Ammous on the historical arc (1933 gold ban, Bretton Woods, the 1971 default) and Bitcoin as digital gold. The \$20.67→\$35 devaluation, the 1913 Federal Reserve creation, and the 1944/1971 dates are drawn from this narrative (Ammous's text misnames the 1914-era war as WWII at one point; the 1914 Fed inflation is WWI-era and is stated as such here).
@@ -9102,7 +9116,7 @@ The site was created and run by Ross Ulbricht under the pseudonym **Dread Pirate
 
 ## The takedown and its lesson
 
-The FBI seized Silk Road in October 2013 and arrested Ulbricht; in 2015 he was convicted and given a double life sentence without parole, commuted only by a presidential pardon in 2025. The technically important point is *how* it fell. The cryptography was never broken. Ulbricht was caught through ordinary investigative work and his own operational-security failures — an early forum post tying his real name to the site, a server-configuration leak, and above all the fact that **Bitcoin is pseudonymous, not anonymous**: its public ledger records every transaction forever, so once an identity is attached to an address, [[bitcoin|chain analysis]] can walk the graph. Silk Road thus taught the movement its sharpest practical lesson — that a transparent ledger is a surveillance tool as much as a payment one, and that [[censorship-resistance|censorship resistance]] at the protocol layer is undone by carelessness at the endpoints.
+The FBI seized Silk Road in October 2013 and arrested Ulbricht; he was convicted and given two life sentences plus forty years, ended by a full and unconditional pardon in 2025. The technically important point is *how* it fell. The cryptography was never broken. Ulbricht was caught through ordinary investigative work and his own operational-security failures — early promotional posts from identifiable accounts that investigators later connected to him, and arrest while logged in as the administrator. What the fall taught the movement is a separate point from how it happened: **Bitcoin is pseudonymous, not anonymous** — its public ledger records every transaction forever, so once an identity is attached to an address, [[bitcoin|chain analysis]] can walk the graph. That is its sharpest practical lesson — that a transparent ledger is a surveillance tool as much as a payment one, and that [[censorship-resistance|censorship resistance]] at the protocol layer is undone by carelessness at the endpoints. How the server itself was located is a separate and unsettled question: the government attributed it to a misconfigured CAPTCHA, and the Berkeley computer scientist Nicholas Weaver called that account "full of holes".
 
 ## Aftermath
 
@@ -9122,6 +9136,11 @@ The wiki holds Silk Road at *medium* confidence — not on the facts, which are 
 - [[fungibility|Fungibility]] - the monetary property Silk Road's fall made an argument for
 - [[timothy-c-may|Timothy C. May]] - author of the crypto-anarchist vision Silk Road realized
 - [[the-cybereconomy|The Cybereconomy]] - the borderless-market idea Silk Road briefly instantiated
+
+## Sources
+
+- [The Praxeology of Privacy](https://towardsliberty.com/pop) - the takedown narrative: identifiable promotional accounts, the server-location leak, and the arrest
+- [The "He Said, She Said" of How the FBI Found Silk Road's Servers](https://arstechnica.com/tech-policy/2014/10/the-he-said-she-said-of-how-the-fbi-found-silk-roads-servers/) - the FBI's CAPTCHA account of how the server was located, and the technical dispute over it
 
 ---
 
@@ -9202,13 +9221,13 @@ Category: concept
 
 # The Snowden Disclosures
 
-> [[snowden-disclosures|The Snowden Disclosures]] are the hinge event of modern privacy politics. On 5 June 2013 *The Guardian* published a secret court order compelling Verizon to deliver its customers' calling records — everyone's, every day — to the NSA, the first in a cascade of documents provided by contractor Edward Snowden showing that suspicionless, population-scale surveillance was not a paranoid hypothesis but standing policy. What followed is nearly unique in the history of the surveillance state: the executive's own review board found the flagship program legally baseless and operationally near-worthless, a federal appeals court held it exceeded the statute, and Congress ended it. And the remedy the cypherpunks had prescribed two decades earlier — encryption everywhere, by default — became the deployed architecture of the internet, setting the stage for the next war.
+> [[snowden-disclosures|The Snowden Disclosures]] are the hinge event of modern privacy politics. On 5 June 2013 *The Guardian* published a secret court order compelling Verizon to deliver its customers' calling records — everyone's, every day — to the NSA, the first in a cascade of documents provided by contractor Edward Snowden showing that suspicionless, population-scale surveillance was not a paranoid hypothesis but standing policy. What followed is nearly unique in the history of the surveillance state: a majority of the executive's own review board found the flagship program legally baseless and operationally near-worthless, a federal appeals court held it exceeded the statute, and Congress ended it. And the remedy the cypherpunks had prescribed two decades earlier — encryption everywhere, by default — became the demand that shaped the fight that followed.
 
 ## What Was Revealed
 
 The first document was a Foreign Intelligence Surveillance Court order directing Verizon to produce "on an ongoing daily basis . . . all call detail records or ‘telephony metadata’ created by Verizon for communications (i) between the United States and abroad; or (ii) wholly within the United States, including local telephone calls." The government soon confirmed that the order was one 90-day slice of a program running since May 2006 — renewed 41 times by the secret court — resting on Section 215 of the PATRIOT Act, which authorizes orders for "tangible things" "relevant to an authorized investigation." The Privacy and Civil Liberties Oversight Board's January 2014 report remains the authoritative public description: "the NSA collects telephone call records or metadata — but not the content of phone conversations — covering the calls of most Americans on an ongoing basis," aggregated into a government database, retained for five years, and queried by chaining "hops" outward from suspect numbers.
 
-A second revelation concerned content. Under Section 702 of the FISA Amendments Act, "the government collects the content of electronic communications, including phone calls and emails, where the targets are reasonably believed to be non-U.S. persons located outside the United States" — sweeping in Americans who talk to, or are mistaken for, foreign targets. Early reports called this collection PRISM, though PCLOB's Section 215 report calls the label imprecise, describing PRISM as "actually the database in which such communications are compiled" — later official accounts, including PCLOB's own Section 702 report, instead describe it as a collection method whose output is stored. The scale question did not survive the government's own confirmations: what PCLOB called "the government's ongoing collection of virtually all telephone records of every American" stopped being deniable, and the argument had to move from *whether* to *lawful*.
+A second revelation concerned content. Under Section 702 of the FISA Amendments Act, "the government collects the content of electronic communications, including phone calls and emails, where the targets are reasonably believed to be non-U.S. persons located outside the United States" — sweeping in Americans who talk to, or are mistaken for, foreign targets. Early reports called this collection PRISM, though PCLOB's Section 215 report calls the label imprecise, describing PRISM as "actually the database in which such communications are compiled". The scale question did not survive the government's own confirmations: what PCLOB called "the government's ongoing collection of virtually all telephone records of every American" stopped being deniable, and the argument had to move from *whether* to *lawful*.
 
 ## The Official Reckoning
 
@@ -9226,7 +9245,7 @@ Its first recommendation was blunt — "The government should end its Section 21
 
 The Board's deepest point was structural: "permitting the government to routinely collect the calling records of the entire nation fundamentally shifts the balance of power between the state and its citizens." Snowden's less diplomatic summary of the same findings, delivered to the European Parliament, was that "the greatest success the program had ever produced was discovering a taxi driver in the United States transferring \$8,500 dollars to Somalia in 2007."
 
-Then, in May 2015, the Second Circuit held in *ACLU v. Clapper* that "the bulk telephone metadata program is not authorized by § 215." The government's theory — that every American's records are "relevant" to counterterrorism because the database must exist before it can be searched — did not survive its first contact with an adversarial court:
+Then, in May 2015, the Second Circuit held in *ACLU v. Clapper* that "the bulk telephone metadata program is not authorized by § 215." The government's theory — that every American's records are "relevant" to counterterrorism because the database must exist before it can be searched — won in the district court, which dismissed the case and held the statutory claims would fail on the merits anyway, and then collapsed on appeal:
 
 > "We agree with appellants that such an expansive concept of 'relevance' is unprecedented and unwarranted."
 >
@@ -9252,11 +9271,11 @@ For the movement chronicled in [[cypherpunk|Cypherpunk]] and [[privacy-and-crypt
 >
 > — Edward Snowden, "Testimony to the European Parliament LIBE Committee" (7 March 2014)
 
-"Mass surveillance, passive surveillance, relies upon unencrypted or weakly encrypted communications at the global network level" — so encrypt the network. That is largely what happened. After 2013, default device encryption, mainstream end-to-end messaging, and encrypted transport moved from activist tooling toward shipping defaults — the shift Snowden prescribed and the industry, under public pressure, delivered: [[censorship-resistance|Censorship Resistance]]'s quieter twin, surveillance resistance, deployed as product. The state's counterattack on that wave — Going Dark, Apple v. FBI, liability levers, chat control — is the subject of [[crypto-wars-2|Crypto Wars 2]]; the first war over civilian cryptography is told in [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]]. The disclosures are the reason there was a second.
+"Mass surveillance, passive surveillance, relies upon unencrypted or weakly encrypted communications at the global network level" — so encrypt the network. Whether governments could compel an exception to that became the second crypto war, traced in [[crypto-wars-2|Crypto Wars 2]].
 
 ## Contested Ground
 
-What the record establishes should not be overclaimed in either direction. Snowden violated secrecy law and disclosed classified programs on his own authority; the espionage-law view holds that clearance-holders do not get a unilateral declassification veto, whatever the outcome, and a Parliament questioner put the harm case — endangered lives, hampered counterterrorism — to him directly. His answer was that "no specific evidence has ever been offered, by any government, that even a single life has been put at risk…". That is a claim about the absence of offered evidence, not a settled adjudication; the justification of the disclosures finally rests on the political judgment that the public's claim to know what was being done to it outweighed the laws he broke.
+What the record establishes should not be overclaimed in either direction. The Board itself was not unanimous: Rachel Brand and Elisebeth Collins Cook filed separate statements, Brand writing that she disagreed "with much of the Report’s discussion and some of its recommendations" — and Cook adding that on her own reading the program "fits within a permissible reading" of FISA and that she disagreed "with the Board’s analysis of the efficacy of the program" — so the statutory, constitutional and limited-value conclusions quoted above are a majority's, not an agency's single voice. Snowden violated secrecy law and disclosed classified programs on his own authority; the espionage-law view holds that clearance-holders do not get a unilateral declassification veto, whatever the outcome, and a Parliament questioner put the harm case — endangered lives, hampered counterterrorism — to him directly. His answer was that "no specific evidence has ever been offered, by any government, that even a single life has been put at risk…". That is a claim about the absence of offered evidence, not a settled adjudication; the justification of the disclosures finally rests on the political judgment that the public's claim to know what was being done to it outweighed the laws he broke.
 
 Nor did the documents prove a Stasi. PCLOB, naming the danger that bulk data "will be misused to harass, blackmail, or intimidate", was careful to add that "the Board has seen no evidence suggesting that anything of the sort is occurring at the NSA." The Second Circuit ruled on statutory grounds and never reached the Constitution; PCLOB found constitutional "concerns", not violations. The libertarian case the disclosures actually support is therefore structural rather than lurid: a state quietly built the standing capability to map every citizen's associations, on a legal theory its own reviewers judged nonviable, with counterterrorism results its own reviewers judged near-nil — and kept it secret. Why it was classified is not something the record here establishes; what the Second Circuit did find is that the theory could not survive the scrutiny it eventually got, because Congress had never authorised the program in the unmistakable terms such a power would require. The abuse is the architecture.
 
@@ -9264,7 +9283,7 @@ Nor did the documents prove a Stasi. PCLOB, naming the danger that bulk data "wi
 
 - [[cypherpunk|Cypherpunk]] - the movement whose 1990s threat model the documents confirmed
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the topic hub: surveillance, its costs, and the cryptographic response
-- [[crypto-wars-2|Crypto Wars 2]] - Going Dark: the state's campaign against the post-2013 encryption-by-default wave
+- [[crypto-wars-2|Crypto Wars 2]] - Going Dark: the state's campaign for lawful access to encrypted communications
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - Crypto War 1: how civilian cryptography became legal to ship
 - [[of-cypherpunks-and-sousveillance|Of Cypherpunks and Sousveillance]] - Snowden and WikiLeaks as the cypherpunk counter-move: watching the watchers
 - [[surveillance-capitalism|Surveillance Capitalism]] - the commercial dragnet whose infrastructure state collection rides on
@@ -11851,6 +11870,44 @@ b-money sits one rung before [[bitcoin|Bitcoin]] in the [[proof-of-work|proof-of
 
 ---
 
+## Barry Eichengreen
+URL: /references/barry-eichengreen
+Category: reference
+
+# Barry Eichengreen
+
+> Barry Eichengreen enters this wiki as a cited opponent, not a member of its tradition. His account of the interwar gold standard is the mainstream verdict that Austrian monetary writing has to answer, and the corpus holds it in the form his critics quote.
+
+## Who He Is
+
+Barry Eichengreen is an American economic historian of money and international finance, working in the Keynesian tradition. [[joseph-t-salerno|Salerno]] classes him among the economists whose books elaborate the case against the gold standard, alongside the monetarist argument he treats separately.
+
+His 1992 [[golden-fetters|Golden Fetters]] is the work at issue: the argument that the reconstructed interwar gold-exchange standard transmitted the American shock to the rest of the world, magnified it, and blocked the policy responses that might have offset it — so that recovery arrived, country by country, in the order countries left gold.
+
+## How This Corpus Holds Him
+
+Through his opponent. Salerno quotes Eichengreen's own summary of the book at length in order to argue against it, which is why the thesis can be stated here in Eichengreen's words rather than paraphrased. The quotation and its use appear in [[gold-standard|The Gold Standard]].
+
+That is a deliberate arrangement rather than a gap. A corpus that only ever quoted its own side would leave its central monetary claim looking unopposed; the strongest version of the counter-argument is worth carrying in the original.
+
+## Where the Disagreement Sits
+
+The dispute is not primarily about the facts of 1929–1933 but about what the gold standard was doing in them. Eichengreen reads the metal as the transmission channel and the binding constraint. The Austrian reply, developed across [[money-and-banking|Money and Banking]], locates the cause in the prior credit expansion the gold-exchange standard permitted — so that the constraint Eichengreen faults is the point, and what failed was the attempt to have a gold standard and an elastic currency at once.
+
+## See Also
+
+- [[golden-fetters|Golden Fetters]] - the 1992 book this reference exists for
+- [[gold-standard|The Gold Standard]] - where his thesis is quoted and answered
+- [[joseph-t-salerno|Joseph T. Salerno]] - the Austrian economist who quotes him in order to rebut him
+- [[money-sound-and-unsound|Money, Sound and Unsound]] - the volume carrying that quotation
+- [[money-and-banking|Money and Banking]]
+
+## Sources
+
+- [Money, Sound and Unsound](https://mises.org/library/book/money-sound-and-unsound) - Salerno quoting Eichengreen's summary of *Golden Fetters* while arguing against it
+
+---
+
 ## Bernstein v. United States (1999)
 URL: /references/bernstein-v-united-states-1999
 Category: reference
@@ -13947,6 +14004,40 @@ What makes the rejection worth documenting is that it does not proceed from alie
 
 ---
 
+## Golden Fetters
+URL: /references/golden-fetters
+Category: reference
+
+# Golden Fetters
+
+> *Golden Fetters* is the book the Austrian case on the interwar gold standard has to answer. This wiki does not hold the text, but it holds the argument in its author's words — because the Austrian economist who quotes it thought it worth stating fully before disputing it.
+
+## The Argument
+
+[[barry-eichengreen|Eichengreen]] published *Golden Fetters: The Gold Standard and [[great-depression|the Great Depression]], 1919–1939* in 1992. Its claim runs in four moves, as he summarises them: the 1920s gold standard set the stage for the 1930s by making the international financial system fragile; it was the mechanism transmitting the destabilising impulse outward from the United States; it magnified the initial shock; and it was the principal obstacle to the offsetting action that might have arrested the collapse. From that follows the observation most often cited from the book — that countries began to recover roughly in the order they left gold.
+
+The quotation itself, with its attribution, appears in [[gold-standard|The Gold Standard]].
+
+## Why It Is Here
+
+[[joseph-t-salerno|Salerno]] names it as one of two recent books elaborating the arguments against the gold standard — the Keynesian case, set beside the monetarist one — and quotes Eichengreen's summary at length in [[money-sound-and-unsound|Money, Sound and Unsound]] before answering it.
+
+The Austrian answer does not dispute that the interwar arrangement failed. It disputes what failed: on that reading the gold-exchange standard of the 1920s was already a compromise that let central banks pyramid credit on foreign-exchange reserves, so the collapse indicts the compromise rather than the metal. What Eichengreen calls a fetter is, in this tradition, the constraint whose absence caused the boom.
+
+## See Also
+
+- [[barry-eichengreen|Barry Eichengreen]] - the author, and how this corpus holds him
+- [[gold-standard|The Gold Standard]] - where the thesis is quoted and answered
+- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's volume, the source of the quotation
+- [[joseph-t-salerno|Joseph T. Salerno]] - the economist who states the thesis before rebutting it
+- [[money-and-banking|Money and Banking]]
+
+## Sources
+
+- [Money, Sound and Unsound](https://mises.org/library/book/money-sound-and-unsound) - Salerno quoting Eichengreen's own summary of the book's argument
+
+---
+
 ## Hal Finney
 URL: /references/hal-finney
 Category: reference
@@ -14858,6 +14949,8 @@ The 1993 paper is explicit about what the dehomogenization argument does *not* c
 - [[americas-great-depression|America's Great Depression]] — Rothbard's broad money-supply argument that TMS formalizes
 - [[regression-theorem|The Regression Theorem]] - Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+- [[barry-eichengreen|Barry Eichengreen]]
+- [[golden-fetters|Golden Fetters]]
 
 ## Sources
 
@@ -15691,6 +15784,8 @@ The article's confidence is high because the raw source preserves the table of c
 - [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
 - [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+- [[barry-eichengreen|Barry Eichengreen]]
+- [[golden-fetters|Golden Fetters]]
 
 ## Sources
 
@@ -21315,6 +21410,8 @@ New to this hub? Read these five, in order:
 
 ## See Also
 
+- [[barry-eichengreen|Barry Eichengreen]] - the economic historian whose interwar case the Austrian account has to answer
+- [[golden-fetters|Golden Fetters]] - his 1992 book, held here through Salerno's quotation of its own summary
 - [[austrian-economics|Austrian Economics]] - the sibling hub supplying the method (praxeology, calculation, capital theory) this monetary thread applies
 - [[cypherpunk|Cypherpunk]] - shares the digital-money nodes (Bitcoin, Monero, self-custody), read there as tools of exit
 - [[regression-theorem|The Regression Theorem]] - the Menger-to-Mises bridge from money's origin to its value

@@ -3,7 +3,7 @@ title: "Money, Sound and Unsound"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-04
 verified: 2026-06-18
 tags: [salerno, sound-money, austrian-economics, monetary-theory, gold-standard, tms, inflation, deflation, business-cycle]
 aliases: [Money Sound and Unsound, MSU, Salerno collected essays]
@@ -57,6 +57,8 @@ The article's confidence is high because the raw source preserves the table of c
 - [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
 - [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+- [[barry-eichengreen|Barry Eichengreen]]
+- [[golden-fetters|Golden Fetters]]
 
 ## Sources
 

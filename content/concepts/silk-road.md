@@ -4,12 +4,12 @@ volatility: warm
 category: concept
 compiled-from: conversation
 created: 2026-07-16
-updated: 2026-07-16
-verified: 2026-07-16
+updated: 2026-08-03
+verified: 2026-08-03
 confidence: medium
 tags: [silk-road, ross-ulbricht, bitcoin, crypto-anarchy, darknet, censorship-resistance, monero, agorism]
 aliases: [Silk Road, Ross Ulbricht, Dread Pirate Roberts, darknet market]
-summary: "Silk Road was the darknet marketplace that ran from 2011 to 2013 as the first large-scale economy built on Bitcoin — an anonymous market reachable only over Tor, with payment in Bitcoin and reputation-and-escrow standing in for the state's enforcement of contracts. It was the first working demonstration of crypto-anarchy's central claim: that cryptography and pseudonymous digital cash could sustain commerce beyond any government's practical reach. Its founder, Ross Ulbricht (the pseudonymous 'Dread Pirate Roberts'), framed it in explicitly libertarian and agorist terms, as a market that let willing adults transact — largely in drugs — without a coercive intermediary. Its 2013 takedown and Ulbricht's double-life sentence (commuted by a 2025 pardon) taught the opposite lesson from what its users assumed: Bitcoin is pseudonymous, not anonymous, and chain analysis plus operational-security mistakes, not a broken cipher, brought it down. The episode is the wiki's clearest case study in both the power and the limits of the cypherpunk program."
+summary: "Silk Road was the darknet marketplace that ran from 2011 to 2013 as the first large-scale economy built on Bitcoin — an anonymous market reachable only over Tor, with payment in Bitcoin and reputation-and-escrow standing in for the state's enforcement of contracts. It was the first working demonstration of crypto-anarchy's central claim: that cryptography and pseudonymous digital cash could sustain commerce beyond any government's practical reach. Its founder, Ross Ulbricht (the pseudonymous 'Dread Pirate Roberts'), framed it in explicitly libertarian and agorist terms, as a market that let willing adults transact — largely in drugs — without a coercive intermediary. Its 2013 takedown and Ulbricht's double-life sentence (ended by a full pardon in 2025) taught the opposite lesson from what its users assumed: Bitcoin is pseudonymous, not anonymous, and operational-security mistakes, not a broken cipher, brought it down — and the pseudonymity of the ledger is the lesson it left behind. The episode is the wiki's clearest case study in both the power and the limits of the cypherpunk program."
 short: "The 2011–2013 Tor-and-Bitcoin darknet market: the first working demonstration of crypto-anarchy — and, in its takedown, the lesson that Bitcoin is pseudonymous, not anonymous."
 ---
 
@@ -29,7 +29,7 @@ The site was created and run by Ross Ulbricht under the pseudonym **Dread Pirate
 
 ## The takedown and its lesson
 
-The FBI seized Silk Road in October 2013 and arrested Ulbricht; in 2015 he was convicted and given a double life sentence without parole, commuted only by a presidential pardon in 2025. The technically important point is *how* it fell. The cryptography was never broken. Ulbricht was caught through ordinary investigative work and his own operational-security failures — an early forum post tying his real name to the site, a server-configuration leak, and above all the fact that **Bitcoin is pseudonymous, not anonymous**: its public ledger records every transaction forever, so once an identity is attached to an address, [[bitcoin|chain analysis]] can walk the graph. Silk Road thus taught the movement its sharpest practical lesson — that a transparent ledger is a surveillance tool as much as a payment one, and that [[censorship-resistance|censorship resistance]] at the protocol layer is undone by carelessness at the endpoints.
+The FBI seized Silk Road in October 2013 and arrested Ulbricht; he was convicted and given two life sentences plus forty years, ended by a full and unconditional pardon in 2025. The technically important point is *how* it fell. The cryptography was never broken. Ulbricht was caught through ordinary investigative work and his own operational-security failures — early promotional posts from identifiable accounts that investigators later connected to him, and arrest while logged in as the administrator. What the fall taught the movement is a separate point from how it happened: **Bitcoin is pseudonymous, not anonymous** — its public ledger records every transaction forever, so once an identity is attached to an address, [[bitcoin|chain analysis]] can walk the graph. That is its sharpest practical lesson — that a transparent ledger is a surveillance tool as much as a payment one, and that [[censorship-resistance|censorship resistance]] at the protocol layer is undone by carelessness at the endpoints. How the server itself was located is a separate and unsettled question: the government attributed it to a misconfigured CAPTCHA, and the Berkeley computer scientist Nicholas Weaver called that account "full of holes".
 
 ## Aftermath
 
@@ -49,3 +49,8 @@ The wiki holds Silk Road at *medium* confidence — not on the facts, which are 
 - [[fungibility|Fungibility]] - the monetary property Silk Road's fall made an argument for
 - [[timothy-c-may|Timothy C. May]] - author of the crypto-anarchist vision Silk Road realized
 - [[the-cybereconomy|The Cybereconomy]] - the borderless-market idea Silk Road briefly instantiated
+
+## Sources
+
+- [The Praxeology of Privacy](https://towardsliberty.com/pop) - the takedown narrative: identifiable promotional accounts, the server-location leak, and the arrest
+- [The "He Said, She Said" of How the FBI Found Silk Road's Servers](https://arstechnica.com/tech-policy/2014/10/the-he-said-she-said-of-how-the-fbi-found-silk-roads-servers/) - the FBI's CAPTCHA account of how the server was located, and the technical dispute over it
