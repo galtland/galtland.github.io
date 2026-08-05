@@ -33,7 +33,7 @@ The FBI seized Silk Road in October 2013 and arrested Ulbricht; he was convicted
 
 ## Aftermath
 
-The market proved far more resilient than any single site. Successors appeared almost immediately, and the darknet-market ecosystem persisted through repeated takedowns — evidence for the crypto-anarchist claim that you cannot arrest a protocol. The other durable consequence was argumentative rather than commercial: because a public ledger is evidence rather than cover, the episode became a standing case for [[fungibility|fungibility]] as a monetary requirement rather than a feature — the property [[monero|Monero]] makes mandatory rather than optional. Silk Road sits in the [[digital-cash-history|digital-cash history]] as the moment crypto-anarchy stopped being a manifesto and became an operating economy — briefly, illegally, and instructively.
+The market proved far more resilient than any single site. Successors appeared almost immediately, and the darknet-market ecosystem persisted through repeated takedowns — evidence for the crypto-anarchist claim that you cannot arrest a protocol. The other durable consequence was argumentative rather than commercial: because a public ledger is evidence rather than cover, the episode became a standing case for [[fungibility|fungibility]] as a monetary requirement rather than a feature — the property that [[monero|Monero]] was later built to make mandatory rather than optional. Silk Road sits in the [[digital-cash-history|digital-cash history]] as the moment crypto-anarchy stopped being a manifesto and became an operating economy — briefly, illegally, and instructively.
 
 ## Place in This Wiki
 
