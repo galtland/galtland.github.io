@@ -3,7 +3,7 @@ title: "F. A. Hayek"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [hayek, austrian-economics, classical-liberalism, knowledge-problem, business-cycle]
 aliases: [Hayek, Friedrich Hayek, F. A. Hayek]
@@ -18,7 +18,7 @@ short: "Second pillar of mature Austrian economics: knowledge-problem theorist, 
 
 ## Main Works Present Here
 
-- [[road-to-serfdom|The Road to Serfdom]] (1944) is the political-philosophical statement: comprehensive economic planning is incompatible with personal liberty because it requires the planners to impose a single ranking of social ends on a population whose members have their own. The wiki holds the IEA Readers' Digest condensation bundled with the 1949 essay *The Intellectuals and Socialism*.
+- [[road-to-serfdom|The Road to Serfdom]] (1944) is the political-philosophical statement: comprehensive economic planning is incompatible with personal liberty because it requires the planners to impose a single ranking of social ends on a population whose members have their own. The text cited here is the IEA Readers' Digest condensation, bundled with the 1949 essay *The Intellectuals and Socialism*.
 - [[individualism-and-economic-order|Individualism and Economic Order]] (1948) is the theoretical companion: it contains "The Use of Knowledge in Society" — the canonical statement of the [[knowledge-problem|knowledge problem]] — together with "Economics and Knowledge", "The Meaning of Competition", and the three "Socialist Calculation" essays.
 - [[prices-and-production|Prices and Production and Other Works]] is the Mises Institute's collected edition of Hayek's monetary and business-cycle writings (1929–1939) — the core texts of [[austrian-business-cycle-theory|Austrian business-cycle theory]].
 

@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 compiled-from: conversation
 created: 2026-07-16
-updated: 2026-08-04
+updated: 2026-08-05
 verified: 2026-08-03
 confidence: medium
 tags: [silk-road, ross-ulbricht, bitcoin, crypto-anarchy, darknet, censorship-resistance, monero, agorism]
@@ -37,7 +37,7 @@ The market proved far more resilient than any single site. Successors appeared a
 
 ## Place in This Wiki
 
-The wiki holds Silk Road at *medium* confidence — not on the facts, which are well documented, but as a normative example: it is genuinely a demonstration of the cypherpunk thesis and genuinely entangled with hard questions about drugs, harm, and the limits of the victimless-crime frame. It belongs to the corpus as the concrete instance of what [[the-cybereconomy|the cybereconomy]] and [[crypto-anarchy|crypto anarchy]] look like when they leave the page — and as the case that taught the movement the difference between pseudonymity and anonymity.
+The facts here are well documented; what stays contested is the normative reading. Silk Road is genuinely a demonstration of the cypherpunk thesis and genuinely entangled with hard questions about drugs, harm, and the limits of the victimless-crime frame. It is the concrete instance of what [[the-cybereconomy|the cybereconomy]] and [[crypto-anarchy|crypto anarchy]] look like when they leave the page — and as the case that taught the movement the difference between pseudonymity and anonymity.
 
 ## See Also
 

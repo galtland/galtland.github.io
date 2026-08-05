@@ -3,7 +3,7 @@ title: "War Making and State Making as Organized Crime"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [charles-tilly, state, war-and-state-formation, protection-racket, organized-crime, historical-sociology, coercion, extraction, non-libertarian]
 aliases: [War Making and State Making, State Making as Organized Crime, Tilly 1985, protection rackets with legitimacy]
@@ -24,7 +24,7 @@ The canonical citation remains the Cambridge University Press volume. The mirror
 
 ## Provenance and Rights
 
-This is a commercially copyrighted Cambridge University Press chapter. The wiki holds the full text for personal-research / fair-use purposes from an independent PDF mirror. Citation-grade quotation should be checked against the printed Cambridge volume or another authorized copy.
+This is a commercially copyrighted Cambridge University Press chapter. The full text is cited for personal-research / fair-use purposes from an independent PDF mirror. Citation-grade quotation should be checked against the printed Cambridge volume or another authorized copy.
 
 ## What the Essay Argues
 

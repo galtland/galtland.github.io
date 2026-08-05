@@ -3,7 +3,7 @@ title: "Barry Eichengreen"
 volatility: cold
 category: reference
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-05
 verified: 2026-08-04
 tags: [barry-eichengreen, golden-fetters, gold-standard, great-depression, economic-history, keynesian, non-libertarian, critic]
 aliases: [Eichengreen, Barry Eichengreen]
@@ -22,9 +22,9 @@ Barry Eichengreen is an American economic historian of money and international f
 
 His 1992 [[golden-fetters|Golden Fetters]] is the work at issue: the argument that the reconstructed interwar gold-exchange standard transmitted the American shock to the rest of the world, magnified it, and blocked the policy responses that might have offset it — so that recovery arrived, country by country, in the order countries left gold.
 
-## How This Corpus Holds Him
+## Held Through His Opponent
 
-Through his opponent. Salerno quotes Eichengreen's own summary of the book at length in order to argue against it, which is why the thesis can be stated here in Eichengreen's words rather than paraphrased. The quotation and its use appear in [[gold-standard|The Gold Standard]].
+Eichengreen reaches these pages through the economist arguing against him. Salerno quotes Eichengreen's own summary of the book at length in order to argue against it, which is why the thesis can be stated here in Eichengreen's words rather than paraphrased. The quotation and its use appear in [[gold-standard|The Gold Standard]].
 
 That is a deliberate arrangement rather than a gap. A corpus that only ever quoted its own side would leave its central monetary claim looking unopposed; the strongest version of the counter-argument is worth carrying in the original.
 

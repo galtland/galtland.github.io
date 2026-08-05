@@ -6375,7 +6375,7 @@ The Tannehills' [[the-market-for-liberty|The Market for Liberty]] pushes the sam
 
 ## Three Defenses: Natural Rights, Argumentation, and Consequences
 
-The wiki holds three distinct defenses of this normative core. [[the-ethics-of-liberty|Rothbard's The Ethics of Liberty]] is the **natural-rights** defense — self-ownership and property in unowned things appropriated through use are derived from a natural-law foundation. [[liberalism|Mises's Liberalism]] is the **consequentialist/utilitarian** defense — Mises explicitly declines natural-rights argument and grounds the case for liberty in the prosperity that property and exchange make possible. [[hans-hermann-hoppe|Hoppe]] adds a third, distinct from both: an **argumentation-ethics** defense that treats self-ownership and property as presuppositions any disputant must concede simply by arguing, so that denying them is a performative contradiction. The three reach overlapping conclusions but answer the *why* differently — on grounds of justice, of results, or of the preconditions of rational discourse.
+Three distinct defenses of this normative core stand behind it. [[the-ethics-of-liberty|Rothbard's The Ethics of Liberty]] is the **natural-rights** defense — self-ownership and property in unowned things appropriated through use are derived from a natural-law foundation. [[liberalism|Mises's Liberalism]] is the **consequentialist/utilitarian** defense — Mises explicitly declines natural-rights argument and grounds the case for liberty in the prosperity that property and exchange make possible. [[hans-hermann-hoppe|Hoppe]] adds a third, distinct from both: an **argumentation-ethics** defense that treats self-ownership and property as presuppositions any disputant must concede simply by arguing, so that denying them is a performative contradiction. The three reach overlapping conclusions but answer the *why* differently — on grounds of justice, of results, or of the preconditions of rational discourse.
 
 The natural-rights defense is itself the terminus of a long classical lineage, now mapped in [[natural-law-and-natural-order|Natural Law and Natural Order]]: self-ownership and property-by-use descend from [[aristotle|Aristotle]]'s natural justice, [[cicero|Cicero]]'s right reason, [[thomas-aquinas|Aquinas]]'s natural law, and [[hugo-grotius|Grotius]]'s secularization, and most directly from [[the-second-treatise-of-government|Locke's]] account of property — "every man has a property in his own person," extended to the world by mixing his labour — which this article's homesteading principle restates.
 
@@ -8898,7 +8898,7 @@ The classical image of secession is territorial: a province raises a new flag. T
 
 ## Where it is contested
 
-Secession carries historical baggage: in the United States it is bound to the Confederacy and the defense of slavery, and elsewhere to ethnic partition and its violence. The libertarian reply is that the *principle* is neutral on what one secedes toward — a right to leave is not an endorsement of the seceding party's aims, and the same principle that would have let a slave secede from a master is the one the Confederacy abused. The sharper objection is the regress itself: a right of secession with no natural stopping point seems to dissolve every political unit into individuals, which critics read as a reductio. Libertarians tend to read it instead as the honest conclusion — that legitimate association is voluntary all the way down. The wiki holds the concept at *medium* confidence: the exit-disciplines-states logic is strong, while the claim that unlimited secession is workable at scale is genuinely open.
+Secession carries historical baggage: in the United States it is bound to the Confederacy and the defense of slavery, and elsewhere to ethnic partition and its violence. The libertarian reply is that the *principle* is neutral on what one secedes toward — a right to leave is not an endorsement of the seceding party's aims, and the same principle that would have let a slave secede from a master is the one the Confederacy abused. The sharper objection is the regress itself: a right of secession with no natural stopping point seems to dissolve every political unit into individuals, which critics read as a reductio. Libertarians tend to read it instead as the honest conclusion — that legitimate association is voluntary all the way down. The confidence here is uneven: the exit-disciplines-states logic is strong, while the claim that unlimited secession is workable at scale is genuinely open.
 
 ## Place in This Wiki
 
@@ -9124,7 +9124,7 @@ The market proved far more resilient than any single site. Successors appeared a
 
 ## Place in This Wiki
 
-The wiki holds Silk Road at *medium* confidence — not on the facts, which are well documented, but as a normative example: it is genuinely a demonstration of the cypherpunk thesis and genuinely entangled with hard questions about drugs, harm, and the limits of the victimless-crime frame. It belongs to the corpus as the concrete instance of what [[the-cybereconomy|the cybereconomy]] and [[crypto-anarchy|crypto anarchy]] look like when they leave the page — and as the case that taught the movement the difference between pseudonymity and anonymity.
+The facts here are well documented; what stays contested is the normative reading. Silk Road is genuinely a demonstration of the cypherpunk thesis and genuinely entangled with hard questions about drugs, harm, and the limits of the victimless-crime frame. It is the concrete instance of what [[the-cybereconomy|the cybereconomy]] and [[crypto-anarchy|crypto anarchy]] look like when they leave the page — and as the case that taught the movement the difference between pseudonymity and anonymity.
 
 ## See Also
 
@@ -11886,9 +11886,9 @@ Barry Eichengreen is an American economic historian of money and international f
 
 His 1992 [[golden-fetters|Golden Fetters]] is the work at issue: the argument that the reconstructed interwar gold-exchange standard transmitted the American shock to the rest of the world, magnified it, and blocked the policy responses that might have offset it — so that recovery arrived, country by country, in the order countries left gold.
 
-## How This Corpus Holds Him
+## Held Through His Opponent
 
-Through his opponent. Salerno quotes Eichengreen's own summary of the book at length in order to argue against it, which is why the thesis can be stated here in Eichengreen's words rather than paraphrased. The quotation and its use appear in [[gold-standard|The Gold Standard]].
+Eichengreen reaches these pages through the economist arguing against him. Salerno quotes Eichengreen's own summary of the book at length in order to argue against it, which is why the thesis can be stated here in Eichengreen's words rather than paraphrased. The quotation and its use appear in [[gold-standard|The Gold Standard]].
 
 That is a deliberate arrangement rather than a gap. A corpus that only ever quoted its own side would leave its central monetary claim looking unopposed; the strongest version of the counter-argument is worth carrying in the original.
 
@@ -12778,7 +12778,7 @@ Category: reference
 
 # The Cypherpunks Mailing List
 
-> [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] was the forum — founded by [[eric-hughes|Eric Hughes]], [[timothy-c-may|Tim May]], and John Gilmore in 1992 — where the cypherpunk movement worked out its program in public: build privacy with deployed code rather than petition for it. The wiki holds a curated subset of roughly thirty posts (1992–2009) tracing one continuous line from anonymous remailers and Chaumian digital cash, through the Clipper and key-escrow fights, to [[hashcash|Hashcash]], b-money, and the bridge to the cryptography mailing list where [[bitcoin-whitepaper|Bitcoin]] was announced.
+> [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] was the forum — founded by [[eric-hughes|Eric Hughes]], [[timothy-c-may|Tim May]], and John Gilmore in 1992 — where the cypherpunk movement worked out its program in public: build privacy with deployed code rather than petition for it. What is cited here is a curated subset of roughly thirty posts (1992–2009) tracing one continuous line from anonymous remailers and Chaumian digital cash, through the Clipper and key-escrow fights, to [[hashcash|Hashcash]], b-money, and the bridge to the cryptography mailing list where [[bitcoin-whitepaper|Bitcoin]] was announced.
 
 ## Text Status
 
@@ -13737,7 +13737,7 @@ Category: reference
 
 ## Main Works Present Here
 
-- [[road-to-serfdom|The Road to Serfdom]] (1944) is the political-philosophical statement: comprehensive economic planning is incompatible with personal liberty because it requires the planners to impose a single ranking of social ends on a population whose members have their own. The wiki holds the IEA Readers' Digest condensation bundled with the 1949 essay *The Intellectuals and Socialism*.
+- [[road-to-serfdom|The Road to Serfdom]] (1944) is the political-philosophical statement: comprehensive economic planning is incompatible with personal liberty because it requires the planners to impose a single ranking of social ends on a population whose members have their own. The text cited here is the IEA Readers' Digest condensation, bundled with the 1949 essay *The Intellectuals and Socialism*.
 - [[individualism-and-economic-order|Individualism and Economic Order]] (1948) is the theoretical companion: it contains "The Use of Knowledge in Society" — the canonical statement of the [[knowledge-problem|knowledge problem]] — together with "Economics and Knowledge", "The Meaning of Competition", and the three "Socialist Calculation" essays.
 - [[prices-and-production|Prices and Production and Other Works]] is the Mises Institute's collected edition of Hayek's monetary and business-cycle writings (1929–1939) — the core texts of [[austrian-business-cycle-theory|Austrian business-cycle theory]].
 
@@ -14012,7 +14012,7 @@ Category: reference
 
 # Golden Fetters
 
-> *Golden Fetters* is the book the Austrian case on the interwar gold standard has to answer. This wiki does not hold the text, but it holds the argument in its author's words — because the Austrian economist who quotes it thought it worth stating fully before disputing it.
+> *Golden Fetters* is the book the Austrian case on the interwar gold standard has to answer. The text itself is not here; the argument is, in its author's words — because the Austrian economist who quotes it thought it worth stating fully before disputing it.
 
 ## The Argument
 
@@ -14028,7 +14028,7 @@ The Austrian answer does not dispute that the interwar arrangement failed. It di
 
 ## See Also
 
-- [[barry-eichengreen|Barry Eichengreen]] - the author, and how this corpus holds him
+- [[barry-eichengreen|Barry Eichengreen]] - the author, and the route by which he is cited here
 - [[gold-standard|The Gold Standard]] - where the thesis is quoted and answered
 - [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's volume, the source of the quotation
 - [[joseph-t-salerno|Joseph T. Salerno]] - the economist who states the thesis before rebutting it
@@ -19567,7 +19567,7 @@ The canonical citation remains the Cambridge University Press volume. The mirror
 
 ## Provenance and Rights
 
-This is a commercially copyrighted Cambridge University Press chapter. The wiki holds the full text for personal-research / fair-use purposes from an independent PDF mirror. Citation-grade quotation should be checked against the printed Cambridge volume or another authorized copy.
+This is a commercially copyrighted Cambridge University Press chapter. The full text is cited for personal-research / fair-use purposes from an independent PDF mirror. Citation-grade quotation should be checked against the printed Cambridge volume or another authorized copy.
 
 ## What the Essay Argues
 

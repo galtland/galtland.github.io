@@ -3,7 +3,7 @@ title: "Golden Fetters"
 volatility: cold
 category: reference
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-05
 verified: 2026-08-04
 tags: [golden-fetters, barry-eichengreen, gold-standard, great-depression, interwar, economic-history, non-libertarian, critic]
 aliases: [Golden Fetters, "Golden Fetters: The Gold Standard and the Great Depression, 1919-1939"]
@@ -14,7 +14,7 @@ short: "Eichengreen's 1992 case that the interwar gold standard transmitted and 
 
 # Golden Fetters
 
-> *Golden Fetters* is the book the Austrian case on the interwar gold standard has to answer. This wiki does not hold the text, but it holds the argument in its author's words — because the Austrian economist who quotes it thought it worth stating fully before disputing it.
+> *Golden Fetters* is the book the Austrian case on the interwar gold standard has to answer. The text itself is not here; the argument is, in its author's words — because the Austrian economist who quotes it thought it worth stating fully before disputing it.
 
 ## The Argument
 
@@ -30,7 +30,7 @@ The Austrian answer does not dispute that the interwar arrangement failed. It di
 
 ## See Also
 
-- [[barry-eichengreen|Barry Eichengreen]] - the author, and how this corpus holds him
+- [[barry-eichengreen|Barry Eichengreen]] - the author, and the route by which he is cited here
 - [[gold-standard|The Gold Standard]] - where the thesis is quoted and answered
 - [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's volume, the source of the quotation
 - [[joseph-t-salerno|Joseph T. Salerno]] - the economist who states the thesis before rebutting it

@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 compiled-from: conversation
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-08-05
 verified: 2026-07-16
 confidence: medium
 tags: [secession, self-determination, exit, decentralization, jurisdictional-competition, hoppe, network-state]
@@ -35,7 +35,7 @@ The classical image of secession is territorial: a province raises a new flag. T
 
 ## Where it is contested
 
-Secession carries historical baggage: in the United States it is bound to the Confederacy and the defense of slavery, and elsewhere to ethnic partition and its violence. The libertarian reply is that the *principle* is neutral on what one secedes toward — a right to leave is not an endorsement of the seceding party's aims, and the same principle that would have let a slave secede from a master is the one the Confederacy abused. The sharper objection is the regress itself: a right of secession with no natural stopping point seems to dissolve every political unit into individuals, which critics read as a reductio. Libertarians tend to read it instead as the honest conclusion — that legitimate association is voluntary all the way down. The wiki holds the concept at *medium* confidence: the exit-disciplines-states logic is strong, while the claim that unlimited secession is workable at scale is genuinely open.
+Secession carries historical baggage: in the United States it is bound to the Confederacy and the defense of slavery, and elsewhere to ethnic partition and its violence. The libertarian reply is that the *principle* is neutral on what one secedes toward — a right to leave is not an endorsement of the seceding party's aims, and the same principle that would have let a slave secede from a master is the one the Confederacy abused. The sharper objection is the regress itself: a right of secession with no natural stopping point seems to dissolve every political unit into individuals, which critics read as a reductio. Libertarians tend to read it instead as the honest conclusion — that legitimate association is voluntary all the way down. The confidence here is uneven: the exit-disciplines-states logic is strong, while the claim that unlimited secession is workable at scale is genuinely open.
 
 ## Place in This Wiki
 

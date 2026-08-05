@@ -3,7 +3,7 @@ title: "The Cypherpunks Mailing List"
 volatility: cold
 category: reference
 created: 2026-05-29
-updated: 2026-06-26
+updated: 2026-08-05
 verified: 2026-06-26
 confidence: high
 tags: [cypherpunk, cypherpunks-mailing-list, tim-may, eric-hughes, hal-finney, adam-back, wei-dai, crypto-wars, digital-cash, remailers, proof-of-work, b-money, hashcash, history, primary-source]
@@ -14,7 +14,7 @@ short: "The 1992-2009 forum where anonymous remailers, digital cash, and crypto-
 
 # The Cypherpunks Mailing List
 
-> [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] was the forum — founded by [[eric-hughes|Eric Hughes]], [[timothy-c-may|Tim May]], and John Gilmore in 1992 — where the cypherpunk movement worked out its program in public: build privacy with deployed code rather than petition for it. The wiki holds a curated subset of roughly thirty posts (1992–2009) tracing one continuous line from anonymous remailers and Chaumian digital cash, through the Clipper and key-escrow fights, to [[hashcash|Hashcash]], b-money, and the bridge to the cryptography mailing list where [[bitcoin-whitepaper|Bitcoin]] was announced.
+> [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] was the forum — founded by [[eric-hughes|Eric Hughes]], [[timothy-c-may|Tim May]], and John Gilmore in 1992 — where the cypherpunk movement worked out its program in public: build privacy with deployed code rather than petition for it. What is cited here is a curated subset of roughly thirty posts (1992–2009) tracing one continuous line from anonymous remailers and Chaumian digital cash, through the Clipper and key-escrow fights, to [[hashcash|Hashcash]], b-money, and the bridge to the cryptography mailing list where [[bitcoin-whitepaper|Bitcoin]] was announced.
 
 ## Text Status
 

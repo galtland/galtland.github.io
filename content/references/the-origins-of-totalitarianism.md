@@ -3,12 +3,12 @@ title: "The Origins of Totalitarianism"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-09
+updated: 2026-08-05
 verified: 2026-06-09
 tags: [hannah-arendt, totalitarianism, antisemitism, imperialism, nazism, stalinism, mass-society, ideology, terror, political-philosophy, commercially-published, non-libertarian]
 aliases: [Origins of Totalitarianism, Arendt Origins]
 confidence: medium
-summary: "Reference guide to Hannah Arendt's 1951 study of antisemitism, imperialism, mass society, ideology, terror, and totalitarianism as a novel form of government. The wiki holds a full-text Internet Archive OCR ingest of the 1973 Harvest / Harcourt edition under commercial-copyright provenance."
+summary: "Reference guide to Hannah Arendt's 1951 study of antisemitism, imperialism, mass society, ideology, terror, and totalitarianism as a novel form of government. The edition cited here is a full-text Internet Archive OCR ingest of the 1973 Harvest / Harcourt edition under commercial-copyright provenance."
 short: "Arendt's 1951 study tracing antisemitism and imperialism into totalitarianism as a wholly new form of rule built on terror and ideology."
 ---
 
