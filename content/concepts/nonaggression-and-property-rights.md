@@ -22,7 +22,7 @@ short: "The corpus's normative core: self-ownership, property, and the rule agai
 
 ## Why Property Is Part of the Rule
 
-[[hans-hermann-hoppe|Hoppe]]'s [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] make the property side explicit. Bodies, goods, land, and contracts are scarce means, so peaceful coexistence requires rules identifying who may control what. Aggression is then defined as invasion of those rightful control boundaries. In that framework, property is not an optional add-on to liberty. It is the way liberty becomes administrable in a world of scarcity.
+[[hans-hermann-hoppe|Hoppe]]'s [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] and [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] make the property side explicit. Bodies, goods and land are scarce means, and contracts are the agreements that govern their transfer, so peaceful coexistence requires rules identifying who may control what. Aggression is then defined as invasion of those rightful control boundaries. In that framework, property is not an optional add-on to liberty. It is the way liberty becomes administrable in a world of scarcity.
 
 ## Historical Grounding
 
@@ -42,7 +42,7 @@ The Tannehills' [[the-market-for-liberty|The Market for Liberty]] pushes the sam
 
 Three distinct defenses of this normative core stand behind it. [[the-ethics-of-liberty|Rothbard's The Ethics of Liberty]] is the **natural-rights** defense — self-ownership and property in unowned things appropriated through use are derived from a natural-law foundation. [[liberalism|Mises's Liberalism]] is the **consequentialist/utilitarian** defense — Mises explicitly declines natural-rights argument and grounds the case for liberty in the prosperity that property and exchange make possible. [[hans-hermann-hoppe|Hoppe]] adds a third, distinct from both: an **argumentation-ethics** defense that treats self-ownership and property as presuppositions any disputant must concede simply by arguing, so that denying them is a performative contradiction. The three reach overlapping conclusions but answer the *why* differently — on grounds of justice, of results, or of the preconditions of rational discourse.
 
-The natural-rights defense is itself the terminus of a long classical lineage, now mapped in [[natural-law-and-natural-order|Natural Law and Natural Order]]: self-ownership and property-by-use descend from [[aristotle|Aristotle]]'s natural justice, [[cicero|Cicero]]'s right reason, [[thomas-aquinas|Aquinas]]'s natural law, and [[hugo-grotius|Grotius]]'s secularization, and most directly from [[the-second-treatise-of-government|Locke's]] account of property — "every man has a property in his own person", extended to the world by mixing his labour — which this article's homesteading principle restates.
+The natural-rights defense is itself the terminus of a long classical lineage, now mapped in [[natural-law-and-natural-order|Natural Law and Natural Order]]: self-ownership and property-by-use descend from [[aristotle|Aristotle]]'s natural justice, [[cicero|Cicero]]'s right reason, [[thomas-aquinas|Aquinas]]'s natural law, and [[hugo-grotius|Grotius]]'s secularization, and most directly from [[the-second-treatise-of-government|Locke's]] account of property — "every man has a property in his own person", extended to the world by mixing his labour — which this article's homesteading principle draws on, though not whole. Locke attaches a condition the principle as used here does not carry: appropriation by labour holds "at least where there is enough, and as good, left in common for others."
 
 ## See Also
 
@@ -71,18 +71,18 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source with property, violence, and civilization chapters
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin ownership
-- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
-- [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
+- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be fully covered by reserves, since issuing claims beyond them violates property rights
+- [[power-and-market|Power and Market]] - Rothbard's 1970 companion to Man, Economy, and State, developing the typology of intervention and the critique of taxation
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
-- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism
-- [[atlas-shrugged|Atlas Shrugged]] - Rand's 1957 novel staging a strike of the world's productive minds as a defense of reason and
+- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism as its political corollary
+- [[atlas-shrugged|Atlas Shrugged]] - Rand's 1957 novel staging a strike of the world's productive minds as a defense of reason and rational self-interest
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's 1966 collection defending laissez-faire capitalism as the only moral system.
-- [[the-virtue-of-selfishness|The Virtue of Selfishness]] - Rand's 1964 essay collection stating the Objectivist ethics of rational self-interest and its
+- [[the-virtue-of-selfishness|The Virtue of Selfishness]] - Rand's 1964 essay collection stating the Objectivist ethics of rational self-interest and its account of rights
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
 - [[non-interventionism|Non-Interventionism]] - the foreign-policy application of the nonaggression axiom
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical lineage behind the natural-rights defense
-- [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's labour-mixing property account restated by the homesteading principle
-- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
+- [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's labour-mixing account of property, the classical source the homesteading principle draws on
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival goods
 - [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
 - [[walter-block|Walter Block]] - Author reference for Walter Block, the Austro-libertarian economist whose 'full alienability' thesis is this wiki's principal internal-libertarian dissent from the inalienability-of-the-will answer
 - [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]] - Work reference for Walter Block's Journal of Libertarian Studies article (17:2, 2003), the principal libertarian argument against inalienability. Reasoning from self-ownership
@@ -91,7 +91,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[open-borders|Open Borders]] - Walter Block's non-aggression-axiom case that peaceful migration is not aggression, so that immigration restriction is the coercive act — the libertarian counter to forced integration.
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud, and nothing further
 - [[robert-nozick|Robert Nozick]] - American philosopher (1938–2002) whose Anarchy, State, and Utopia is the landmark academic defense of the libertarian minimal state.
 - [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] - Robert Nozick's 1974 book — the landmark academic defense of the libertarian minimal state, the entitlement theory of justice, and the case against patterned distribution.
 - [[start-here|Start Here]] - A plain-language front door to the wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to start reading — no background assumed.
@@ -104,7 +104,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[georgism|Georgism and the Land-Value Tax]] - Henry George's proposal to fund government by a single tax on the unimproved value of land — and the Austro-libertarian critique that land is legitimately owned, speculation is useful
-- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
+- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency rather than natural rights
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 
@@ -114,6 +114,8 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[left-and-right|Left and Right]] - the principle all three answers to the spectrum question defend
 ## Sources
 
+- [Second Treatise of Government](https://www.gutenberg.org/ebooks/7370) - the property-in-one's-person passage the self-ownership premise rests on
+- [De Re Publica](https://www.gutenberg.org/ebooks/54161) - the "right reason" formulation the natural-law genealogy runs through
 - [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - states and applies the anti-aggression axiom across many domains
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - extends property and contract into political economy and public goods
 - [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - defines capitalism, socialism, and aggression in property terms

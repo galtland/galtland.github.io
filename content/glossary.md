@@ -88,7 +88,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[CryptoNote Whitepaper](/references/cryptonote-whitepaper)** — The 2013 CryptoNote paper behind Monero: ring signatures, one-time keys, and memory-bound proof of work for private electronic cash.
 - **[The Cybereconomy](/concepts/the-cybereconomy)** — Davidson and Rees-Mogg's forecast of an untaxable, borderless online economy settled in encrypted, denationalized 'cybercash' — a striking pre-Bitcoin description of cryptocurrency.
 - **[Cypherpunk](/topics/cypherpunk)** — The wiki's Austrian-libertarian cypherpunk reading: cryptography, anonymous protocols, and verifiable scarcity replace trusted intermediaries with verifiable rules — one thread, not the full movement.
-- **[The Cypherpunks Mailing List](/references/cypherpunks-mailing-list)** — The 1992-2009 forum where anonymous remailers, digital cash, and crypto-anarchism were argued into being, feeding directly into Bitcoin's 2008 debut.
+- **[The Cypherpunks Mailing List](/references/cypherpunks-mailing-list)** — The forum, founded 1992, where anonymous remailers, digital cash, and crypto-anarchism were argued into being, and where Hashcash — credited by name in the 2008 Bitcoin announcement — was proposed.
 
 ## D
 
