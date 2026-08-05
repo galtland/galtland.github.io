@@ -3,7 +3,7 @@ title: "Privacy and Cryptography"
 volatility: warm
 category: topic
 created: 2026-05-10
-updated: 2026-07-15
+updated: 2026-08-05
 verified: 2026-07-15
 tags: [privacy, cryptography, cypherpunk, bitcoin, surveillance, austrian-economics, power-projection, national-security]
 aliases: [cypherpunk privacy, privacy technology, cryptographic privacy]
@@ -80,7 +80,7 @@ New to this hub? Read these five, in order:
 - [[security-without-identification|Security Without Identification]] - Chaum's broader transaction-systems program
 - [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - low-latency anonymous-communication design
 - [[proof-of-work|Proof of Work]] - Hashcash-to-Bitcoin cost-function lineage
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verification, DoS throttling, and the direct Bitcoin citation lineage.
 - [[smart-contracts|Smart Contracts]] - Szabo's contract-as-protocol concept for reducing intermediary dependence
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - protocol-design rule for minimizing trusted intermediaries
 - [[timothy-c-may|Timothy C. May]] - crypto-anarchy anchor author

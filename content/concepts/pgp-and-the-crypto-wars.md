@@ -3,7 +3,7 @@ title: "PGP and the Crypto Wars"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-06-26
+updated: 2026-08-05
 verified: 2026-06-26
 tags: [pgp, crypto-wars, privacy, public-key-cryptography, cypherpunk, export-controls, key-escrow, surveillance]
 aliases: [PGP, Pretty Good Privacy, Crypto Wars, strong encryption]
@@ -57,10 +57,10 @@ This is why the essay belongs in the [[cypherpunk|Cypherpunk]] thread. The civil
 - [[state-power-and-intervention|State Power and Intervention]] - intervention frame for export controls, wiretap mandates, and key escrow
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong encryption and privacy tools
 - [[cypherpunk|Cypherpunk]] - movement context for PGP as civil-liberties infrastructure
-- [[new-directions-in-cryptography|New Directions in Cryptography]] - Diffie and Hellman's 1976 breakthrough: public keys, key exchange, and digital signatures
+- [[new-directions-in-cryptography|New Directions in Cryptography]] - Diffie and Hellman's 1976 breakthrough: public keys, key exchange, and digital signatures for secure communication without prior shared secrets.
 - [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token that the payer later unblinds to spend
 - [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper on digital pseudonyms and card-computer credentials
-- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits, directory servers, exit policies, congestion control, and hidden services.
 - [[code-as-speech|Code as Speech]] - Bernstein legal thesis that encryption source code can be protected expression
 - [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] - Clipper-era government-access proposal resisted alongside PGP export controls
 - [[bernstein-v-united-states-1999|Bernstein v. United States (1999)]] - the withdrawn Ninth Circuit panel opinion on code-as-speech from the same Crypto Wars episode (persuasive history, not binding precedent)

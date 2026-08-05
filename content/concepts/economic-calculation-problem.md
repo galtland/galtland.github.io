@@ -3,7 +3,7 @@ title: "Economic Calculation Problem"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-07-23
 tags: [calculation-problem, socialism, austrian-economics, central-planning]
 aliases: [Calculation Problem, Mises's Calculation Argument, Socialist Calculation Debate, Socialist Calculation]
@@ -54,13 +54,13 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - application of calculation concerns to politicized fiat credit allocation
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source connecting fiat incentives to price, science, fuel, and policy distortions
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source for the capitalism and calculation chapter
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
-- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 - [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
 
 
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 

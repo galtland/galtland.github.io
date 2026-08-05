@@ -3,7 +3,7 @@ title: "The Virtue of Selfishness"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [ayn-rand, the-virtue-of-selfishness, objectivism, ethics, rational-self-interest, altruism, individual-rights, nathaniel-branden]
 aliases: [The Virtue of Selfishness, Objectivist ethics, rational selfishness]
@@ -55,7 +55,7 @@ This is **minarchism**, and it should not be confused with [[market-anarchism-an
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - the companion politics volume
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the wiki's parallel rights framework, reached by a different route
 - [[the-fountainhead|The Fountainhead]] - Rand's 1943 individualist novel of the uncompromising architect Howard Roark.
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 
 ## Sources

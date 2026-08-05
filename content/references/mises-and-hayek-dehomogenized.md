@@ -3,7 +3,7 @@ title: "Mises and Hayek Dehomogenized"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [salerno, mises, hayek, austrian-economics, socialist-calculation, market-process, monetary-calculation, knowledge-problem]
 aliases: [Mises Hayek Dehomogenized, Dehomogenized, Salerno 1993]
@@ -50,7 +50,7 @@ The article's confidence is high as a report of Salerno's own argument. Its broa
 - [[knowledge-problem|Knowledge Problem]] - Hayekian dispersed-knowledge argument
 - [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek collection containing the knowledge-problem essays
 - [[socialism|Socialism]] - Mises's original socialist-calculation argument
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 

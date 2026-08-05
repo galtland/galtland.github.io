@@ -3,7 +3,7 @@ title: "Cypherpunk"
 volatility: warm
 category: topic
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [cypherpunk, crypto-anarchy, cryptography, bitcoin, privacy, proof-of-work, austrian-economics, libertarianism]
 aliases: [cypherpunks, crypto-anarchism, cypherpunk movement]
@@ -103,7 +103,7 @@ New to this hub? Read these five, in order:
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[the-sovereign-individual|The Sovereign Individual]] - 1997 forecast prefiguring cryptographic escape and denationalized digital money
@@ -111,7 +111,7 @@ New to this hub? Read these five, in order:
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
 - [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
-- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival, UTXO-specified goods, not IP-style patterns.
 - [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
 - [[moxie-marlinspike|Moxie Marlinspike]] - Cryptographer behind Signal; co-author with Trevor Perrin of the X3DH and Double Ratchet specs that define modern end-to-end encrypted messaging.
 - [[trevor-perrin|Trevor Perrin]] - Cryptographer, co-author with Moxie Marlinspike of Signal's X3DH and Double Ratchet specs — the key-agreement and ratcheting core of modern end-to-end encrypted messaging.

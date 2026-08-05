@@ -3,7 +3,7 @@ title: "The Economics and Ethics of Private Property"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-06-09
+updated: 2026-08-05
 verified: 2026-06-09
 tags: [hoppe, property-rights, austrian-economics, taxation]
 aliases: [Economics and Ethics of Private Property]
@@ -50,8 +50,8 @@ The underlying passage is Chapter 2 of the full text, [“The Economics and Soci
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise that EEPP quotes directly (TMC p. 268) when defending the present-good/future-good distinction against critics who would blur it
 
 
-- [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 - [[ethics-vs-morality|Ethics vs Morality]]
 

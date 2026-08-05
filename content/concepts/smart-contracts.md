@@ -3,7 +3,7 @@ title: "Smart Contracts"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [cypherpunk, smart-contracts, contracts, cryptography, protocols, digital-cash]
 aliases: [smart contract, smart property, computerized transaction protocols]
@@ -68,7 +68,7 @@ The confidence level is medium because the article synthesizes one short 1994 es
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - legal-theory paper that places Szabo's smart-contract work in the crypto-anarchic law context
 - [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper on HTLC-routed, off-chain payment channels settled on Bitcoin
 - [[crypto-anarchy|Crypto Anarchy]] - Tim May's thesis that strong cryptography enables zones of voluntary exchange outside state control
-- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money
+- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money with the properties later required by money.
 - [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), founding cypherpunk and author of the Crypto Anarchist Manifesto
 - [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft

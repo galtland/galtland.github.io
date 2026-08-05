@@ -3,7 +3,7 @@ title: "Unforgeable Costliness"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [money, bitcoin, nick-szabo, saifedean-ammous, proof-of-work, stock-to-flow, regression-theorem, austrian-economics]
 aliases: [unforgeable costliness, costly scarcity, costly-to-create money]
@@ -65,9 +65,9 @@ Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; 
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's hardness and stock-to-flow source
 - [[hal-finney|Hal Finney]] - RPOW implementer who explicitly linked reusable proof of work to Szabo's Bit Gold
 - [[cypherpunk|Cypherpunk]] - political and technical milieu for digital hard-money designs
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public
-- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
-- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verification, DoS throttling, and the direct Bitcoin citation lineage.
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed through Venice, mobile capital, Islamic finance, and programmable money.
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through speculative attacks against weak fiat currencies.
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
@@ -75,7 +75,7 @@ Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; 
 - [[ideal-money|Ideal Money]] - Nash's managed-index alternative that the market-chosen route answers
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
-- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival, UTXO-specified goods, not IP-style patterns.
 - [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts

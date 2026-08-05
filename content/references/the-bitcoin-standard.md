@@ -3,7 +3,7 @@ title: "The Bitcoin Standard"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [saifedean-ammous, bitcoin, sound-money, austrian-economics, monetary-history, central-banking, stock-to-flow, cypherpunk]
 aliases: [Bitcoin Standard, The Bitcoin Standard: The Decentralized Alternative to Central Banking]
@@ -62,13 +62,13 @@ The book is influential in Bitcoin circles, but its interpretive claims should n
 - [[austrian-economics|Austrian Economics]] - school of thought Ammous uses explicitly
 - [[cypherpunk|Cypherpunk]] - movement context for Bitcoin as non-state digital money
 - [[lightning-network|Lightning Network]] - second-layer scaling design relevant to the book's Bitcoin questions
-- [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's Fiat Standard frame: fiat as debt-based monetary engineering, with central
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public
-- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's
-- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
-- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's Fiat Standard frame: fiat as debt-based monetary engineering, with central banks as protocol nodes and Bitcoin as the comparative alternative.
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verification, DoS throttling, and the direct Bitcoin citation lineage.
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's blockchain as settlement and dispute backstop.
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed through Venice, mobile capital, Islamic finance, and programmable money.
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through speculative attacks against weak fiat currencies.
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money, Rothbard on commodity money, Szabo on unforgeable costliness, and Saifedean on stock-to-flow.
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[saifedean-ammous|Saifedean Ammous]] - Author reference for Saifedean Ammous, the economist whose Bitcoin Standard, Fiat Standard, and Principles of Economics give this wiki its explicitly Austrian

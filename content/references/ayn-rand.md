@@ -3,7 +3,7 @@ title: "Ayn Rand"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-09
+updated: 2026-08-05
 verified: 2026-06-09
 tags: [ayn-rand, objectivism, capitalism, individualism, rational-self-interest, novelist-philosopher, romantic-realism]
 aliases: [Rand, Alisa Rosenbaum, Ayn Rand author]
@@ -48,14 +48,14 @@ But she was not an Austrian economist and did not present economic theory in Mis
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, with a gold-versus-fiat warning that aligns with Austrian sound-money even as its value theory differs.
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[robert-nozick|Robert Nozick]] - American philosopher (1938–2002) whose Anarchy, State, and Utopia is the landmark academic defense of the libertarian minimal state.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[galts-speech|Galt's Speech]] - The ~60-page radio address near the end of Atlas Shrugged — the complete, systematic statement of Rand's Objectivism and the novel's philosophical climax.
 - [[ragnar-danneskjold|Ragnar Danneskjöld]] - Rand's philosopher-pirate in Atlas Shrugged and his deliberate inversion of the Robin Hood myth — an attack on the idea that need, not achievement, is the source of rights.
 - [[reardens-trial-speech|Rearden's Trial Speech]] - Hank Rearden's defense at his trial in Atlas Shrugged: he refuses to grant the court the moral sanction to judge him for producing — a compact dramatization of the withdrawn sanction of the victim.
-- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
+- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 - [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 
 ## Sources

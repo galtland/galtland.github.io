@@ -3,7 +3,7 @@ title: "The Theory of Money and Credit"
 volatility: warm
 category: reference
 created: 2026-05-09
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [mises, austrian-economics, monetary-theory, money-and-banking, credit, regression-theorem, business-cycle, ludwig-von-mises]
 aliases: [Theory of Money and Credit, TMC, Theorie des Geldes und der Umlaufsmittel]
@@ -71,9 +71,9 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 
 - [[unforgeable-costliness|Unforgeable Costliness]] - bridge concept applying the regression theorem to costly collectibles, Bit Gold, and Bitcoin
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's Austrian monetary-history reading of hardness and Bitcoin
-- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate
-- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate designed to measure the medium of exchange better than M1 or M2.
+- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian sound-money, TMS, gold-standard, and cycle-theory work.
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money, Rothbard on commodity money, Szabo on unforgeable costliness, and Saifedean on stock-to-flow.
 - [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is determined by
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its

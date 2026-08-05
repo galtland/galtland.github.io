@@ -3,7 +3,7 @@ title: "The Politics of Obedience"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [de-la-boetie, consent, state, strategy, evolution-of-the-state]
 aliases: [The Discourse of Voluntary Servitude, Politics of Obedience]
@@ -49,7 +49,7 @@ It also complements [[evolution-of-the-state|Evolution of the State]]. [[franz-o
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the exit strategy that operationalizes withdrawal of consent
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
-- [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility
+- [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility that nationalism mobilizes.
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[reardens-trial-speech|Rearden's Trial Speech]] - Hank Rearden's defense at his trial in Atlas Shrugged: he refuses to grant the court the moral sanction to judge him for producing — a compact dramatization of the withdrawn sanction of the victim.

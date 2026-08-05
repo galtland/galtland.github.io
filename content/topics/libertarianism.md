@@ -3,7 +3,7 @@ title: "Libertarianism"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-07-15
+updated: 2026-08-05
 verified: 2026-07-15
 tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [libertarian thought, liberty tradition]
@@ -124,7 +124,7 @@ New to this hub? Read these five, in order:
 
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
-- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism
+- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism — grounding a pro-capitalism case on ethics and epistemology rather than on praxeology.
 - [[anthem|Anthem]] - Rand's 1938 anti-collectivist novella about a future that erased the word "I"
 - [[atlas-shrugged|Atlas Shrugged]] - Rand's 1957 novel staging a strike of the world's productive minds as a defense of reason and laissez-faire capitalism
 - [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged.

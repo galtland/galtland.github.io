@@ -3,7 +3,7 @@ title: "Praxeology of Privacy"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-06-26
+updated: 2026-08-05
 verified: 2026-06-26
 tags: [privacy, praxeology, action-axiom, austrian-economics, property-rights, surveillance, bitcoin, power-projection]
 aliases: [privacy praxeology, privacy as selective disclosure, privacy as structural feature of action]
@@ -73,7 +73,7 @@ In Hillebrand's framework, surveillance attacks the observation stage of the adv
 
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - implementation-era case for routine encryption as selective disclosure
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator whose essay gives the Crypto Wars privacy argument
-- [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers
+- [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers, untraceable communication, payments, and credentials against dossier society.
 - [[ring-signatures|Ring Signatures]] - transaction-privacy primitive for selective disclosure in digital cash
 - [[zk-snarks|zk-SNARKs]] - zero-knowledge proof primitive for shielded payment disclosure
 - [[forward-secrecy|Forward Secrecy]] - encrypted-communication property that limits retrospective surveillance

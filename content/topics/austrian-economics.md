@@ -3,7 +3,7 @@ title: "Austrian Economics"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [austrian-economics, economics, praxeology, intervention, calculation-problem, knowledge-problem, business-cycle]
 aliases: [Austrian School, Austrian School of Economics]
@@ -94,12 +94,12 @@ New to this hub? Read these five, in order:
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[power-and-market|Power and Market]] - Rothbard's Power and Market (1970), the standalone companion to Man, Economy, and State
-- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism
+- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism — grounding a pro-capitalism case on ethics and epistemology rather than on praxeology.
 - [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged.
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's 1966 collection defending laissez-faire capitalism as the only moral system.
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[school-of-salamanca|School of Salamanca]] - the proto-Austrian scholastic prehistory of the school
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's Austrian history of pre-Smith economics

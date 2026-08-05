@@ -107,7 +107,7 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the stateless institutional endpoint
 - [[the-politics-of-obedience|The Politics of Obedience]] - the withdrawal-of-consent diagnosis agorism operationalizes
 - [[libertarianism|Libertarianism]] - the doctrine whose strategy question agorism answers
-- [[new-libertarian-manifesto|New Libertarian Manifesto]] - Konkin's 1980 founding statement of agorism
+- [[new-libertarian-manifesto|New Libertarian Manifesto]] - Konkin's 1980 founding statement of agorism: build the counter-economy until voluntary exchange displaces the state.
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Rosenberg's novel of the Free Souls building the counter-economy in fiction
 - [[paul-rosenberg|Paul Rosenberg]] - author of that crypto-anarchist / agorist novel
 
@@ -117,7 +117,7 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
-- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
+- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 
 ## Sources
 
@@ -292,7 +292,7 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's debt-as-money frame for fiat credit expansion
 - [[the-fiat-standard|The Fiat Standard]] - companion book applying fiat mining and credit expansion to the post-1971 monetary system
 - [[principles-of-economics-ammous|Principles of Economics]] - Ammous textbook section on monetary expansion and business cycles
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money, Rothbard on commodity money, Szabo on unforgeable costliness, and Saifedean on stock-to-flow.
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components
@@ -2088,7 +2088,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - Zimmermann-centered implementation and policy fight over strong encryption
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator whose work made crypto-anarchic privacy tools practical for ordinary users
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - legal-theory paper testing crypto-anarchic transaction security against property law
-- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits, directory servers, exit policies, congestion control, and hidden services.
 - [[bitcoin-whitepaper|Bitcoin Whitepaper]] - Satoshi's 2008 paper: peer-to-peer electronic cash combining digital signatures and proof of work
 - [[satoshi-nakamoto|Satoshi Nakamoto]] - pseudonymous author of the 2008 Bitcoin whitepaper and first Bitcoin software release
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
@@ -2700,13 +2700,13 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - application of calculation concerns to politicized fiat credit allocation
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source connecting fiat incentives to price, science, fuel, and policy distortions
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source for the capitalism and calculation chapter
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
-- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 - [[power-and-market|Power and Market]] - Reference guide to Rothbard's Power and Market (1970) — the standalone companion to
 
 
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 
@@ -3099,7 +3099,7 @@ Confidence is medium. The article can describe Ammous's framing with high confid
 - [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through a speculative attack on weak currencies
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[ideal-money|Ideal Money]] - Nash's game-theoretic version of the managed-inflation critique
 
 
@@ -4058,7 +4058,7 @@ The argument scales upward. Hayek's analysis of *national* planning carries over
 
 
 
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 
 ## Sources
@@ -4376,11 +4376,11 @@ It is also not the same as narrow banking, sovereign-money proposals, or central
 
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - fiat debt-issuance frame adjacent to the reserve-banking debate
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source criticizing fractional-reserve and debt-based fiat money
-- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate
+- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate designed to measure the medium of exchange better than M1 or M2.
 - [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian sound-money work
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link back to depositors
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs. the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.
@@ -4883,13 +4883,13 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - sibling Hayek focused article on the political-philosophical companion to the epistemic argument
 
 
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
-- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 
 
 - [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 
@@ -5243,7 +5243,7 @@ The tradeoff is therefore not between blockchain and no blockchain. It is whethe
 - [[hal-finney|Hal Finney]] - RPOW and early Bitcoin participant whose work sits upstream of payment-channel scaling
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Saifedean's monetary reading of Bitcoin, including second-layer scaling concerns
 - [[the-fiat-standard|The Fiat Standard]] - later Ammous source with a dedicated Bitcoin scaling chapter
-- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed through Venice, mobile capital, Islamic finance, and programmable money.
 - [[coinjoin|CoinJoin and PayJoin]] - two Bitcoin base-layer privacy techniques: CoinJoin merges many users' inputs into one transaction to break address linkage; PayJoin disguises which input is the sender's
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
@@ -5308,7 +5308,7 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Paul Rosenberg's crypto-anarchist novel (2007): the Free Souls build an untraceable online free-market society beyond state control — the Crypto Anarchist's Bible.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[robert-nozick|Robert Nozick]] - American philosopher (1938–2002) whose Anarchy, State, and Utopia is the landmark academic defense of the libertarian minimal state.
 - [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] - Robert Nozick's 1974 book — the landmark academic defense of the libertarian minimal state, the entitlement theory of justice, and the case against patterned distribution.
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
@@ -7116,10 +7116,10 @@ This is why the essay belongs in the [[cypherpunk|Cypherpunk]] thread. The civil
 - [[state-power-and-intervention|State Power and Intervention]] - intervention frame for export controls, wiretap mandates, and key escrow
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong encryption and privacy tools
 - [[cypherpunk|Cypherpunk]] - movement context for PGP as civil-liberties infrastructure
-- [[new-directions-in-cryptography|New Directions in Cryptography]] - Diffie and Hellman's 1976 breakthrough: public keys, key exchange, and digital signatures
+- [[new-directions-in-cryptography|New Directions in Cryptography]] - Diffie and Hellman's 1976 breakthrough: public keys, key exchange, and digital signatures for secure communication without prior shared secrets.
 - [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token that the payer later unblinds to spend
 - [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper on digital pseudonyms and card-computer credentials
-- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits, directory servers, exit policies, congestion control, and hidden services.
 - [[code-as-speech|Code as Speech]] - Bernstein legal thesis that encryption source code can be protected expression
 - [[key-escrow-and-clipper-chip|Key Escrow and Clipper Chip]] - Clipper-era government-access proposal resisted alongside PGP export controls
 - [[bernstein-v-united-states-1999|Bernstein v. United States (1999)]] - the withdrawn Ninth Circuit panel opinion on code-as-speech from the same Crypto Wars episode (persuasive history, not binding precedent)
@@ -7472,7 +7472,7 @@ In Hillebrand's framework, surveillance attacks the observation stage of the adv
 
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - implementation-era case for routine encryption as selective disclosure
 - [[phil-zimmermann|Phil Zimmermann]] - PGP creator whose essay gives the Crypto Wars privacy argument
-- [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers
+- [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers, untraceable communication, payments, and credentials against dossier society.
 - [[ring-signatures|Ring Signatures]] - transaction-privacy primitive for selective disclosure in digital cash
 - [[zk-snarks|zk-SNARKs]] - zero-knowledge proof primitive for shielded payment disclosure
 - [[forward-secrecy|Forward Secrecy]] - encrypted-communication property that limits retrospective surveillance
@@ -7697,7 +7697,7 @@ This concept is narrower than [[market-anarchism-and-private-law|Market Anarchis
 - [[the-market-for-liberty|The Market for Liberty]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - Molinari's 1849 essay; founding text of the private-security argument
 - [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's proliferating jurisdictions and "sovereignty services" as a market for protection
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 
@@ -7778,7 +7778,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin paper proposing a memory-bound proof-of-work function
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[crypto-anarchy|Crypto Anarchy]] - Tim May's thesis that strong cryptography enables zones of voluntary exchange outside state control
-- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money
+- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money with the properties later required by money.
 - [[smart-contracts|Smart Contracts]] - Szabo's broad 1994 idea that contract terms can be embedded in protocols, reducing enforcement cost
 - [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), founding cypherpunk and author of the Crypto Anarchist Manifesto
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
@@ -9213,7 +9213,7 @@ The confidence level is medium because the article synthesizes one short 1994 es
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - legal-theory paper that places Szabo's smart-contract work in the crypto-anarchic law context
 - [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper on HTLC-routed, off-chain payment channels settled on Bitcoin
 - [[crypto-anarchy|Crypto Anarchy]] - Tim May's thesis that strong cryptography enables zones of voluntary exchange outside state control
-- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money
+- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money with the properties later required by money.
 - [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), founding cypherpunk and author of the Crypto Anarchist Manifesto
 - [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
@@ -9633,7 +9633,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
-- [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility
+- [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility that nationalism mobilizes.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[taxation|Taxation]]
@@ -9701,9 +9701,9 @@ This is descriptive development economics, not anarcho-capitalist political theo
 
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
-- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
+- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 
 ## Sources
 
@@ -10547,8 +10547,8 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[lightning-network|Lightning Network]] - non-custodial scaling design that avoids payment hubs as trusted custodians
 - [[hal-finney|Hal Finney]] - RPOW and early Bitcoin participant working in the anti-trusted-third-party lineage
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper on Bitcoin, legal remedies, and protocol limits without trusted reversal authorities
-- [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token, the payer unblinds
-- [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers
+- [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token, the payer unblinds it, and later deposit cannot be linked to withdrawal.
+- [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers, untraceable communication, payments, and credentials against dossier society.
 - [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper on HTLC-routed, off-chain payment channels settled on Bitcoin
 - [[zk-snarks|zk-SNARKs]] - privacy primitive whose early deployments raise a trusted-setup trade-off
 - [[forward-secrecy|Forward Secrecy]] - key-management property that limits damage from later key compromise
@@ -10633,9 +10633,9 @@ Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; 
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's hardness and stock-to-flow source
 - [[hal-finney|Hal Finney]] - RPOW implementer who explicitly linked reusable proof of work to Szabo's Bit Gold
 - [[cypherpunk|Cypherpunk]] - political and technical milieu for digital hard-money designs
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public
-- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
-- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verification, DoS throttling, and the direct Bitcoin citation lineage.
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed through Venice, mobile capital, Islamic finance, and programmable money.
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through speculative attacks against weak fiat currencies.
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
@@ -10643,7 +10643,7 @@ Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; 
 - [[ideal-money|Ideal Money]] - Nash's managed-index alternative that the market-chosen route answers
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
-- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival, UTXO-specified goods, not IP-style patterns.
 - [[carl-menger|Carl Menger]] - Founder of the Austrian School (marginal utility, 1871) whose 1892 origin-of-money essay derives money as a spontaneous order arising from the differing saleableness of goods
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
@@ -11347,7 +11347,7 @@ The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 page
 - [[prices-and-production|Prices and Production]] - Hayek's monetary and capital-theoretic foundation
 - [[for-a-new-liberty|For a New Liberty]] - movement-facing summary of the same business-cycle argument
 - [[state-power-and-intervention|State Power and Intervention]] - the policy critique this book historicizes
-- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate
+- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate designed to measure the medium of exchange better than M1 or M2.
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components
 - [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] - Rothbard's claim that the boom-bust cycle is generated by bank credit expansion
@@ -11616,7 +11616,7 @@ Graf's tentative answer is that bitcoins appear ownable because they are control
 - [[austrian-economics|Austrian Economics]] - Misesian action-theory background for Graf's jurisprudence
 - [[cypherpunk|Cypherpunk]] - technical-political setting for Bitcoin and crypto-anarchic property questions
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
-- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival, UTXO-specified goods, not IP-style patterns.
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - Graf's property-theoretic sidestep of the regression theorem
 
@@ -11792,14 +11792,14 @@ But she was not an Austrian economist and did not present economic theory in Mis
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, with a gold-versus-fiat warning that aligns with Austrian sound-money even as its value theory differs.
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[robert-nozick|Robert Nozick]] - American philosopher (1938–2002) whose Anarchy, State, and Utopia is the landmark academic defense of the libertarian minimal state.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[galts-speech|Galt's Speech]] - The ~60-page radio address near the end of Atlas Shrugged — the complete, systematic statement of Rand's Objectivism and the novel's philosophical climax.
 - [[ragnar-danneskjold|Ragnar Danneskjöld]] - Rand's philosopher-pirate in Atlas Shrugged and his deliberate inversion of the Robin Hood myth — an attack on the idea that need, not achievement, is the source of rights.
 - [[reardens-trial-speech|Rearden's Trial Speech]] - Hank Rearden's defense at his trial in Atlas Shrugged: he refuses to grant the court the moral sanction to judge him for producing — a compact dramatization of the withdrawn sanction of the victim.
-- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
+- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 - [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 
 ## Sources
@@ -13143,7 +13143,7 @@ These criticisms do not all land the same way against Bitcoin, whose cryptograph
 - [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno on the Mises/Hayek divergence underlying the monetary disagreement
 - [[austrian-economics|Austrian Economics]] - the school within which the proposal is debated
 - [[cypherpunk|Cypherpunk]] - the movement that adopted "denationalization of money" as a goal
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[the-sovereign-individual|The Sovereign Individual]] - 1997 forecast that "encrypted cybercash" would realize Hayek's currency-competition logic
 - [[the-cybereconomy|The Cybereconomy]] - the borderless digital-money domain framed as fulfilling denationalization
 - [[school-of-salamanca|School of Salamanca]] - the scholastic anti-debasement and quantity-theory forerunners of monetary competition
@@ -13795,8 +13795,8 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - focused author-on-topic article drawn from the "Planning vs. the Rule of Law" chapter of [[road-to-serfdom|The Road to Serfdom]]
 
 
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 
@@ -14098,7 +14098,7 @@ The post's tone matters for confidence. It is not a detached biography; it is Fi
 - [[unforgeable-costliness|Unforgeable Costliness]] - bridge concept for RPOW, Bit Gold, and Bitcoin
 - [[cypherpunk|Cypherpunk]] - movement context for Finney's remailer, RPOW, and Bitcoin work
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong cryptography and privacy-preserving tools
-- [[lightning-network|Lightning Network]] - Bitcoin second-layer payment channels: off-chain routed payments enforced by HTLCs
+- [[lightning-network|Lightning Network]] - Bitcoin second-layer payment channels: off-chain routed payments enforced by HTLCs, with the blockchain reserved for settlement and disputes.
 - [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function: non-interactive, publicly verifiable tokens that impose a real computational cost; the basis Finney built on for RPOW
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
@@ -14442,7 +14442,7 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is determined by
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its
-- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 
 
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: Price-Control Analysis]] - newsroom thesis backlink
@@ -14536,9 +14536,9 @@ In this volume Hayek explicitly takes up the question Mises had pressed: whether
 - [[road-to-serfdom|The Road to Serfdom]] - political application of the same argument
 - [[prices-and-production|Prices and Production]] - Hayek's monetary-theoretic companion volume
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis using the knowledge-problem layer to read the post-repeal supply response
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 
 ## Sources
@@ -15677,7 +15677,7 @@ Confidence is medium. The substance of Friedman's monetary and classical-liberal
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
-- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
+- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
@@ -15734,7 +15734,7 @@ The article's confidence is high as a report of Salerno's own argument. Its broa
 - [[knowledge-problem|Knowledge Problem]] - Hayekian dispersed-knowledge argument
 - [[individualism-and-economic-order|Individualism and Economic Order]] - Hayek collection containing the knowledge-problem essays
 - [[socialism|Socialism]] - Mises's original socialist-calculation argument
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 
@@ -15945,7 +15945,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
-- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
+- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 
 
 
@@ -17078,7 +17078,7 @@ This book is the popular front of Hayek's critique of central planning. Its theo
 
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
 
 ## Sources
@@ -17520,7 +17520,7 @@ The current raw source is the Mises Institute's PDF edition (600 pages), extract
 - [[state-power-and-intervention|State Power and Intervention]] - state coercion as a special case of destructionism
 - [[liberalism|Liberalism]] - related work in this corpus
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis grounded in the 1922 calculation framework this book opens
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the calculation argument invoked as the reply that holds whoever enforces property
 
@@ -17766,13 +17766,13 @@ The book is influential in Bitcoin circles, but its interpretive claims should n
 - [[austrian-economics|Austrian Economics]] - school of thought Ammous uses explicitly
 - [[cypherpunk|Cypherpunk]] - movement context for Bitcoin as non-state digital money
 - [[lightning-network|Lightning Network]] - second-layer scaling design relevant to the book's Bitcoin questions
-- [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's Fiat Standard frame: fiat as debt-based monetary engineering, with central
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public
-- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's
-- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
-- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's Fiat Standard frame: fiat as debt-based monetary engineering, with central banks as protocol nodes and Bitcoin as the comparative alternative.
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verification, DoS throttling, and the direct Bitcoin citation lineage.
+- [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep Bitcoin's blockchain as settlement and dispute backstop.
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed through Venice, mobile capital, Islamic finance, and programmable money.
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through speculative attacks against weak fiat currencies.
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money, Rothbard on commodity money, Szabo on unforgeable costliness, and Saifedean on stock-to-flow.
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[saifedean-ammous|Saifedean Ammous]] - Author reference for Saifedean Ammous, the economist whose Bitcoin Standard, Fiat Standard, and Principles of Economics give this wiki its explicitly Austrian
@@ -17924,8 +17924,8 @@ The underlying passage is Chapter 2 of the full text, [“The Economics and Soci
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise that EEPP quotes directly (TMC p. 268) when defending the present-good/future-good distinction against critics who would blur it
 
 
-- [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori argument that anyone who argues at all has already presupposed self-ownership and the non-aggression principle, so that denying them is self-refuting.
 - [[ethics-vs-morality|Ethics vs Morality]]
 
@@ -18045,9 +18045,9 @@ The book is best handled as Ammous's synthesis. It is valuable for its internal 
 - [[hundred-percent-reserve-banking|Hundred Percent Reserve Banking]] - reserve-banking debate adjacent to the book's anti-fractional-reserve claims
 - [[cypherpunk|Cypherpunk]] - Bitcoin exit context for the book's fiat-vs-Bitcoin conclusion
 - [[lightning-network|Lightning Network]] - second-layer scaling design relevant to the book's Bitcoin scaling chapter
-- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
-- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed through Venice, mobile capital, Islamic finance, and programmable money.
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through speculative attacks against weak fiat currencies.
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money, Rothbard on commodity money, Szabo on unforgeable costliness, and Saifedean on stock-to-flow.
 - [[saifedean-ammous|Saifedean Ammous]] - Author reference for Saifedean Ammous, the economist whose Bitcoin Standard, Fiat Standard, and Principles of Economics give this wiki its explicitly Austrian
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
@@ -18412,10 +18412,10 @@ The 100%-reserve-banking position the wiki adopts in [[hundred-percent-reserve-b
 - [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] — Salerno paper that cites this book's broad money-supply criterion
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] — the position the book most accessibly defends
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] — the measurement framework whose Rothbardian basis is this book
-- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian sound-money, TMS, gold-standard, and cycle-theory work.
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money, Rothbard on commodity money, Szabo on unforgeable costliness, and Saifedean on stock-to-flow.
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[fractional-reserve-banking|Fractional-Reserve Banking and Free Banking]] - Fractional-reserve banking — lending out money that depositors can demand back at any moment — and the live Austrian dispute over whether it is inherent fraud (Rothbard) or a legitimate market
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 
@@ -18525,7 +18525,7 @@ It also complements [[evolution-of-the-state|Evolution of the State]]. [[franz-o
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the exit strategy that operationalizes withdrawal of consent
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
-- [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility
+- [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility that nationalism mobilizes.
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[reardens-trial-speech|Rearden's Trial Speech]] - Hank Rearden's defense at his trial in Atlas Shrugged: he refuses to grant the court the moral sanction to judge him for producing — a compact dramatization of the withdrawn sanction of the victim.
@@ -18613,7 +18613,7 @@ The book also rejects a simple "information is property" view. Its property-righ
 - [[austrian-economics|Austrian Economics]] - broader economic framework Hillebrand applies to privacy and cypherpunk implementation
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - argumentation-ethics lineage used by Hillebrand
 - [[ludwig-von-mises|Ludwig von Mises]] - source of the action axiom and praxeological method
-- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits, directory servers, exit policies, congestion control, and hidden services.
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
@@ -18725,7 +18725,7 @@ For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the cou
 - [[democracy-the-god-that-failed|Democracy: The God That Failed]] - Hoppe's regime-comparison book points toward a private-law alternative
 - [[murray-n-rothbard|Murray N. Rothbard]] - author of the 1977 preface; principal modern heir to Molinari's argument
 - [[libertarianism|Libertarianism]] - broader doctrinal context
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - Molinari's market-supplied enforcement as the reply to the claim that private property requires the state
@@ -18970,9 +18970,9 @@ The book also stands as the immediate Austrian background to [[friedrich-a-hayek
 
 - [[unforgeable-costliness|Unforgeable Costliness]] - bridge concept applying the regression theorem to costly collectibles, Bit Gold, and Bitcoin
 - [[the-bitcoin-standard|The Bitcoin Standard]] - Ammous's Austrian monetary-history reading of hardness and Bitcoin
-- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate
-- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate designed to measure the medium of exchange better than M1 or M2.
+- [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian sound-money, TMS, gold-standard, and cycle-theory work.
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money, Rothbard on commodity money, Szabo on unforgeable costliness, and Saifedean on stock-to-flow.
 - [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is determined by
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its
@@ -19089,7 +19089,7 @@ This is **minarchism**, and it should not be confused with [[market-anarchism-an
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - the companion politics volume
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the wiki's parallel rights framework, reached by a different route
 - [[the-fountainhead|The Fountainhead]] - Rand's 1943 individualist novel of the uncompromising architect Howard Roark.
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[objectivism-and-rand|Objectivism and Ayn Rand]] - The wiki's Ayn Rand hub: Objectivism as a fellow-traveler of libertarianism — reason, rational self-interest, and laissez-faire capitalism
 
 ## Sources
@@ -21010,12 +21010,12 @@ New to this hub? Read these five, in order:
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - action-based property-theory application to Bitcoin
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[power-and-market|Power and Market]] - Rothbard's Power and Market (1970), the standalone companion to Man, Economy, and State
-- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism
+- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism — grounding a pro-capitalism case on ethics and epistemology rather than on praxeology.
 - [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged.
 - [[capitalism-the-unknown-ideal|Capitalism: The Unknown Ideal]] - Rand's 1966 collection defending laissez-faire capitalism as the only moral system.
 - [[franciscos-money-speech|Francisco's Money Speech]] - Rand's set-piece moral defense of money: a tool of exchange grounded in production and trade, plus a gold-versus-fiat sound-money warning
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[school-of-salamanca|School of Salamanca]] - the proto-Austrian scholastic prehistory of the school
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's Austrian history of pre-Smith economics
@@ -21167,7 +21167,7 @@ New to this hub? Read these five, in order:
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[nostr|Nostr]] - the decentralized identity and social protocol built on relays and signed events
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[the-sovereign-individual|The Sovereign Individual]] - 1997 forecast prefiguring cryptographic escape and denationalized digital money
@@ -21175,7 +21175,7 @@ New to this hub? Read these five, in order:
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.
 - [[david-chaum|David Chaum]] - Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
-- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival, UTXO-specified goods, not IP-style patterns.
 - [[wei-dai|Wei Dai]] - Cypherpunk who proposed b-money (1998), the pseudonymous digital-money design with proof-of-work issuance and deposit-backed contracts that the Bitcoin whitepaper explicitly cites.
 - [[moxie-marlinspike|Moxie Marlinspike]] - Cryptographer behind Signal; co-author with Trevor Perrin of the X3DH and Double Ratchet specs that define modern end-to-end encrypted messaging.
 - [[trevor-perrin|Trevor Perrin]] - Cryptographer, co-author with Moxie Marlinspike of Signal's X3DH and Double Ratchet specs — the key-agreement and ratcheting core of modern end-to-end encrypted messaging.
@@ -21336,7 +21336,7 @@ New to this hub? Read these five, in order:
 
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
-- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism
+- [[objectivism|Objectivism]] - Rand's system — objective reality, reason, rational self-interest, and laissez-faire capitalism — grounding a pro-capitalism case on ethics and epistemology rather than on praxeology.
 - [[anthem|Anthem]] - Rand's 1938 anti-collectivist novella about a future that erased the word "I"
 - [[atlas-shrugged|Atlas Shrugged]] - Rand's 1957 novel staging a strike of the world's productive minds as a defense of reason and laissez-faire capitalism
 - [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged.
@@ -21652,7 +21652,7 @@ New to this hub? Read these five, in order:
 - [[security-without-identification|Security Without Identification]] - Chaum's broader transaction-systems program
 - [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - low-latency anonymous-communication design
 - [[proof-of-work|Proof of Work]] - Hashcash-to-Bitcoin cost-function lineage
-- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper
+- [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function paper: non-interactive tokens, public verification, DoS throttling, and the direct Bitcoin citation lineage.
 - [[smart-contracts|Smart Contracts]] - Szabo's contract-as-protocol concept for reducing intermediary dependence
 - [[trusted-third-parties-as-security-holes|Trusted Third Parties as Security Holes]] - protocol-design rule for minimizing trusted intermediaries
 - [[timothy-c-may|Timothy C. May]] - crypto-anarchy anchor author
@@ -21843,7 +21843,7 @@ New to this hub? Read these five, in order:
 - [[war-and-state-formation|War and State Formation]] - the coercion-and-capital account of European states
 - [[carl-schmitt|Carl Schmitt]] - sovereignty, the exception, and the friend/enemy distinction
 - [[state-of-exception|State of Exception]] - Schmitt's sovereignty concept
-- [[friend-enemy-distinction|Friend/Enemy Distinction]] - Schmitt's criterion of the political
+- [[friend-enemy-distinction|Friend/Enemy Distinction]] - Schmitt's criterion of the political: the public distinction between friend and enemy as the highest-intensity form of association and dissociation.
 - [[michel-foucault|Michel Foucault]] - discipline, surveillance, and biopower
 - [[disciplinary-power|Disciplinary Power]] - Foucault's power that trains bodies
 - [[biopower|Biopower]] - Foucault's power over life and population

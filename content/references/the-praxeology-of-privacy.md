@@ -3,7 +3,7 @@ title: "The Praxeology of Privacy"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [max-hillebrand, privacy, praxeology, austrian-economics, bitcoin, cypherpunk, cryptography, property-rights, power-projection]
 aliases: [Economic Logic in Cypherpunk Implementation, PoP]
@@ -56,7 +56,7 @@ The book also rejects a simple "information is property" view. Its property-righ
 - [[austrian-economics|Austrian Economics]] - broader economic framework Hillebrand applies to privacy and cypherpunk implementation
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - argumentation-ethics lineage used by Hillebrand
 - [[ludwig-von-mises|Ludwig von Mises]] - source of the action axiom and praxeological method
-- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits
+- [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - The 2004 Tor design paper: low-latency onion routing with telescoping circuits, directory servers, exit policies, congestion control, and hidden services.
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools

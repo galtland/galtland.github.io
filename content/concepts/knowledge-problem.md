@@ -3,7 +3,7 @@ title: "Knowledge Problem"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-06-25
+updated: 2026-08-05
 verified: 2026-07-23
 tags: [hayek, knowledge-problem, central-planning, spontaneous-order, austrian-economics]
 aliases: [Use of Knowledge in Society, Hayekian Knowledge Problem, Dispersed Knowledge]
@@ -46,13 +46,13 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - sibling Hayek focused article on the political-philosophical companion to the epistemic argument
 
 
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
-- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 
 
 - [[surveillance-capitalism|Surveillance Capitalism]] - Zuboff's term for the business model that treats human experience as free raw
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 
 

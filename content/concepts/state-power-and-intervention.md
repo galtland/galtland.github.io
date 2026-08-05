@@ -3,7 +3,7 @@ title: "State Power and Intervention"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-06-09
+updated: 2026-08-05
 verified: 2026-06-09
 tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [state intervention, interventionism]
@@ -171,7 +171,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
-- [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility
+- [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility that nationalism mobilizes.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[taxation|Taxation]]

@@ -3,7 +3,7 @@ title: "Stateless Somalia"
 volatility: warm
 category: concept
 created: 2026-06-07
-updated: 2026-06-26
+updated: 2026-08-05
 verified: 2026-06-26
 tags: [peter-leeson, somalia, anarchy, statelessness, anarcho-capitalism, predatory-state, public-goods, development-economics]
 summary: "Leeson's empirical finding that post-1991 stateless Somalia outperformed its predatory predecessor government on nearly all of 18 welfare indicators — the canonical case that anarchy can beat a sufficiently predatory state."
@@ -42,9 +42,9 @@ This is descriptive development economics, not anarcho-capitalist political theo
 
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
-- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
+- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 
 ## Sources
 

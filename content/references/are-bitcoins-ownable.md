@@ -3,7 +3,7 @@ title: "Are Bitcoins Ownable?"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [konrad-graf, bitcoin, property-rights, legal-theory, intellectual-property, austrian-economics, cypherpunk, rival-goods]
 aliases: [Are Bitcoins Ownable, Are Bitcoins Ownable? Property Rights IP Wrongs and Legal-Theory Implications, bitcoin ownability]
@@ -61,7 +61,7 @@ Graf's tentative answer is that bitcoins appear ownable because they are control
 - [[austrian-economics|Austrian Economics]] - Misesian action-theory background for Graf's jurisprudence
 - [[cypherpunk|Cypherpunk]] - technical-political setting for Bitcoin and crypto-anarchic property questions
 - [[intellectual-property|Intellectual Property]] - The scarcity-based Austrian critique of intellectual property (Kinsella, Rothbard)
-- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival
+- [[konrad-graf|Konrad Graf]] - Austrian theorist who applied action-based property theory to Bitcoin, distinguishing key-control from coin-ownership and treating bitcoins as rival, UTXO-specified goods, not IP-style patterns.
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - Graf's property-theoretic sidestep of the regression theorem
 

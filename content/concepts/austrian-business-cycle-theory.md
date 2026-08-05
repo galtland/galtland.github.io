@@ -3,7 +3,7 @@ title: "Austrian Business Cycle Theory"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-07-23
 tags: [business-cycle, austrian-economics, monetary-theory, capital-theory, great-depression]
 aliases: [ABCT, Austrian Theory of the Business Cycle, Hayek-Mises Business Cycle Theory]
@@ -61,7 +61,7 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - Ammous's debt-as-money frame for fiat credit expansion
 - [[the-fiat-standard|The Fiat Standard]] - companion book applying fiat mining and credit expansion to the post-1971 monetary system
 - [[principles-of-economics-ammous|Principles of Economics]] - Ammous textbook section on monetary expansion and business cycles
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money, Rothbard on commodity money, Szabo on unforgeable costliness, and Saifedean on stock-to-flow.
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
 - [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
 - [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components

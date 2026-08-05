@@ -3,7 +3,7 @@ title: "Denationalisation of Money"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-26
+updated: 2026-08-05
 verified: 2026-06-26
 tags: [hayek, denationalisation-of-money, competing-currencies, currency-competition, free-banking, sound-money, monetary-theory, austrian-economics, bitcoin]
 aliases: [Denationalisation of Money, Denationalization of Money, The Argument Refined, competing currencies, currency competition, free trade in money]
@@ -61,7 +61,7 @@ These criticisms do not all land the same way against Bitcoin, whose cryptograph
 - [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno on the Mises/Hayek divergence underlying the monetary disagreement
 - [[austrian-economics|Austrian Economics]] - the school within which the proposal is debated
 - [[cypherpunk|Cypherpunk]] - the movement that adopted "denationalization of money" as a goal
-- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous
+- [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[the-sovereign-individual|The Sovereign Individual]] - 1997 forecast that "encrypted cybercash" would realize Hayek's currency-competition logic
 - [[the-cybereconomy|The Cybereconomy]] - the borderless digital-money domain framed as fulfilling denationalization
 - [[school-of-salamanca|School of Salamanca]] - the scholastic anti-debasement and quantity-theory forerunners of monetary competition

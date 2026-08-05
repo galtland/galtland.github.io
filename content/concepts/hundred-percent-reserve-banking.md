@@ -3,7 +3,7 @@ title: "100% Reserve Banking"
 volatility: warm
 category: concept
 created: 2026-05-25
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [rothbard, banking, fiduciary-media, sound-money, fractional-reserves, property-rights, money]
 summary: "The Rothbardian case for 100%-reserve banking: issuing money substitutes beyond the stock of specie is inflation and pseudo-warehouse-receipt fraud; full reserves remove the first stage of the credit-expansion cycle."
@@ -64,11 +64,11 @@ It is also not the same as narrow banking, sovereign-money proposals, or central
 
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - fiat debt-issuance frame adjacent to the reserve-banking debate
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source criticizing fractional-reserve and debt-based fiat money
-- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate
+- [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate designed to measure the medium of exchange better than M1 or M2.
 - [[money-sound-and-unsound|Money, Sound and Unsound]] - Salerno's 2010 collected monetary essays: the one-volume entry point to his Austrian sound-money work
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[ecash|Ecash and Chaumian Mints]] - Chaumian ecash applied to Bitcoin: a mint issues blind-signed tokens it cannot link back to depositors
-- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete
+- [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs. the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.

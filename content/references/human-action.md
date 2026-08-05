@@ -3,7 +3,7 @@ title: "Human Action"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-09
+updated: 2026-08-05
 verified: 2026-06-09
 tags: [mises, austrian-economics, praxeology, economics]
 aliases: [Human Action, Mises's Treatise, Nationalökonomie]
@@ -51,7 +51,7 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is determined by
 - [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
 - [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its
-- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create
+- [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 
 
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: Price-Control Analysis]] - newsroom thesis backlink

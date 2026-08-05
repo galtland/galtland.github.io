@@ -3,7 +3,7 @@ title: "State Theory and Totalitarianism"
 volatility: warm
 category: topic
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-08-05
 verified: 2026-07-15
 tags: [state-theory, totalitarianism, sovereignty, power, conquest, war-and-state-formation, carl-schmitt, michel-foucault, hannah-arendt, charles-tilly, franz-oppenheimer, biopower, state-of-exception]
 aliases: [state theory, totalitarianism, critiques of sovereignty and power, sovereignty and power, state power critiques]
@@ -61,7 +61,7 @@ New to this hub? Read these five, in order:
 - [[war-and-state-formation|War and State Formation]] - the coercion-and-capital account of European states
 - [[carl-schmitt|Carl Schmitt]] - sovereignty, the exception, and the friend/enemy distinction
 - [[state-of-exception|State of Exception]] - Schmitt's sovereignty concept
-- [[friend-enemy-distinction|Friend/Enemy Distinction]] - Schmitt's criterion of the political
+- [[friend-enemy-distinction|Friend/Enemy Distinction]] - Schmitt's criterion of the political: the public distinction between friend and enemy as the highest-intensity form of association and dissociation.
 - [[michel-foucault|Michel Foucault]] - discipline, surveillance, and biopower
 - [[disciplinary-power|Disciplinary Power]] - Foucault's power that trains bodies
 - [[biopower|Biopower]] - Foucault's power over life and population

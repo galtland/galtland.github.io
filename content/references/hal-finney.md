@@ -3,7 +3,7 @@ title: "Hal Finney"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [hal-finney, bitcoin, rpow, proof-of-work, pgp, cypherpunk, digital-cash, satoshi-nakamoto]
 aliases: [Harold Thomas Finney II, Hal, RPOW creator, first Bitcoin receiver]
@@ -58,7 +58,7 @@ The post's tone matters for confidence. It is not a detached biography; it is Fi
 - [[unforgeable-costliness|Unforgeable Costliness]] - bridge concept for RPOW, Bit Gold, and Bitcoin
 - [[cypherpunk|Cypherpunk]] - movement context for Finney's remailer, RPOW, and Bitcoin work
 - [[privacy-and-cryptography|Privacy and Cryptography]] - broader topic map for strong cryptography and privacy-preserving tools
-- [[lightning-network|Lightning Network]] - Bitcoin second-layer payment channels: off-chain routed payments enforced by HTLCs
+- [[lightning-network|Lightning Network]] - Bitcoin second-layer payment channels: off-chain routed payments enforced by HTLCs, with the blockchain reserved for settlement and disputes.
 - [[hashcash|Hashcash]] - Adam Back's proof-of-work cost-function: non-interactive, publicly verifiable tokens that impose a real computational cost; the basis Finney built on for RPOW
 - [[bit-gold|Bit Gold]] - Nick Szabo's 2005 proposal for digital money made of unforgeably costly, timestamped proof-of-work strings tracked in a distributed title registry — the closest uncited precursor to Bitcoin's design.
 - [[adam-back|Adam Back]] - Cryptographer who created Hashcash, the proof-of-work cost function cited by the Bitcoin whitepaper — the abuse-pricing primitive that became Bitcoin's mining and consensus mechanism.

@@ -3,7 +3,7 @@ title: "The Fiat Standard"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [saifedean-ammous, fiat-money, bitcoin, central-banking, debt, austrian-economics, capital-consumption, cypherpunk]
 aliases: [Fiat Standard, The Fiat Standard: The Debt Slavery Alternative to Human Civilization]
@@ -60,9 +60,9 @@ The book is best handled as Ammous's synthesis. It is valuable for its internal 
 - [[hundred-percent-reserve-banking|Hundred Percent Reserve Banking]] - reserve-banking debate adjacent to the book's anti-fractional-reserve claims
 - [[cypherpunk|Cypherpunk]] - Bitcoin exit context for the book's fiat-vs-Bitcoin conclusion
 - [[lightning-network|Lightning Network]] - second-layer scaling design relevant to the book's Bitcoin scaling chapter
-- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed
-- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through
-- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound
+- [[bitcoin-is-venice|Bitcoin Is Venice]] - Farrington's 2021 essay: Bitcoin as civilizational exit from fiat finance, framed through Venice, mobile capital, Islamic finance, and programmable money.
+- [[speculative-attack|Speculative Attack]] - Rochard's 2014 hyperbitcoinization thesis: Bitcoin adoption may accelerate through speculative attacks against weak fiat currencies.
+- [[hard-money|Hard Money]] - Money whose supply is hard to expand. The bridge concept between Mises on sound money, Rothbard on commodity money, Szabo on unforgeable costliness, and Saifedean on stock-to-flow.
 - [[saifedean-ammous|Saifedean Ammous]] - Author reference for Saifedean Ammous, the economist whose Bitcoin Standard, Fiat Standard, and Principles of Economics give this wiki its explicitly Austrian
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 

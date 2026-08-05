@@ -3,7 +3,7 @@ title: "Proof of Work"
 volatility: cold
 category: concept
 created: 2026-05-27
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [bitcoin, proof-of-work, hashcash, bit-gold, satoshi-nakamoto, cypherpunk]
 aliases: [PoW, proof-of-work, hash-based proof of work, cost function]
@@ -75,7 +75,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[cryptonote-whitepaper|CryptoNote Whitepaper]] - privacy-coin paper proposing a memory-bound proof-of-work function
 - [[hard-money|Hard Money]] - money whose supply is hard to expand; the bridge from Mises on sound money to Bitcoin's hardness
 - [[crypto-anarchy|Crypto Anarchy]] - Tim May's thesis that strong cryptography enables zones of voluntary exchange outside state control
-- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money
+- [[shelling-out|Shelling Out]] - Szabo's account of shell beads, necklaces, and other prehistoric collectibles as proto-money with the properties later required by money.
 - [[smart-contracts|Smart Contracts]] - Szabo's broad 1994 idea that contract terms can be embedded in protocols, reducing enforcement cost
 - [[timothy-c-may|Timothy C. May]] - Tim May (1951-2018), founding cypherpunk and author of the Crypto Anarchist Manifesto
 - [[cypherpunks-mailing-list|The Cypherpunks Mailing List]] - the 1992-2009 Bay Area-founded forum where the cypherpunk program was argued out in public

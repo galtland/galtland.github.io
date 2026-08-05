@@ -3,7 +3,7 @@ title: "Trusted Third Parties as Security Holes"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [cypherpunk, security, cryptography, trusted-third-parties, protocols, intermediaries]
 aliases: [Trusted Third Parties Are Security Holes, TTP security holes, TTP minimization]
@@ -65,8 +65,8 @@ The confidence level is medium because the article applies Szabo's single essay 
 - [[lightning-network|Lightning Network]] - non-custodial scaling design that avoids payment hubs as trusted custodians
 - [[hal-finney|Hal Finney]] - RPOW and early Bitcoin participant working in the anti-trusted-third-party lineage
 - [[are-bitcoins-ownable|Are Bitcoins Ownable?]] - property-theory paper on Bitcoin, legal remedies, and protocol limits without trusted reversal authorities
-- [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token, the payer unblinds
-- [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers
+- [[blind-signatures-for-untraceable-payments|Blind Signatures for Untraceable Payments]] - Chaum's 1982 blind-signature paper: a bank signs a blinded token, the payer unblinds it, and later deposit cannot be linked to withdrawal.
+- [[security-without-identification|Security Without Identification]] - Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card computers, untraceable communication, payments, and credentials against dossier society.
 - [[the-lightning-network-paper|The Lightning Network Paper]] - Poon and Dryja's Lightning paper on HTLC-routed, off-chain payment channels settled on Bitcoin
 - [[zk-snarks|zk-SNARKs]] - privacy primitive whose early deployments raise a trusted-setup trade-off
 - [[forward-secrecy|Forward Secrecy]] - key-management property that limits damage from later key compromise

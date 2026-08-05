@@ -3,7 +3,7 @@ title: "Agorism and Counter-Economics"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [samuel-edward-konkin, agorism, counter-economics, strategy, anarchism, black-market, grey-market, parallel-economy, libertarianism]
 summary: "Konkin's 1980 agorist strategy: grow the counter-economy — all peaceful exchange the state forbids, taxes, or regulates — until voluntary trade displaces the state. The strategy-by-exit answer to libertarian adoption, requiring no change in human nature; the ancestor of the cypherpunk parallel economy."
@@ -43,7 +43,7 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the stateless institutional endpoint
 - [[the-politics-of-obedience|The Politics of Obedience]] - the withdrawal-of-consent diagnosis agorism operationalizes
 - [[libertarianism|Libertarianism]] - the doctrine whose strategy question agorism answers
-- [[new-libertarian-manifesto|New Libertarian Manifesto]] - Konkin's 1980 founding statement of agorism
+- [[new-libertarian-manifesto|New Libertarian Manifesto]] - Konkin's 1980 founding statement of agorism: build the counter-economy until voluntary exchange displaces the state.
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Rosenberg's novel of the Free Souls building the counter-economy in fiction
 - [[paul-rosenberg|Paul Rosenberg]] - author of that crypto-anarchist / agorist novel
 
@@ -53,7 +53,7 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
-- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son
+- [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 
 ## Sources
 

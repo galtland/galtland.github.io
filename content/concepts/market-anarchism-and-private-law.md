@@ -3,7 +3,7 @@ title: "Market Anarchism and Private Law"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-06-09
+updated: 2026-08-05
 verified: 2026-06-09
 tags: [market-anarchism, private-law, arbitration, defense-agencies, classical-liberalism]
 aliases: [anarcho-capitalism, private law society, market provision of law]
@@ -61,7 +61,7 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Paul Rosenberg's crypto-anarchist novel (2007): the Free Souls build an untraceable online free-market society beyond state control — the Crypto Anarchist's Bible.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud
+- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[robert-nozick|Robert Nozick]] - American philosopher (1938–2002) whose Anarchy, State, and Utopia is the landmark academic defense of the libertarian minimal state.
 - [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] - Robert Nozick's 1974 book — the landmark academic defense of the libertarian minimal state, the entitlement theory of justice, and the case against patterned distribution.
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
