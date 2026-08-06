@@ -3,7 +3,7 @@ title: "Time Preference and the Theory of Interest"
 volatility: cold
 category: concept
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-08-05
 verified: 2026-06-15
 tags: [austrian-economics, interest, time-preference, agio-theory, capital-theory, eugen-von-bohm-bawerk, roundaboutness]
 aliases: [time preference, agio theory of interest, theory of interest, originary interest]
@@ -54,3 +54,8 @@ Time preference is the hinge between capital theory and the business cycle. If t
 - [[the-general-theory|The General Theory of Employment, Interest and Money]] - Keynes's 1936 General Theory: effective demand, the multiplier, liquidity preference, and the case for managing aggregate demand — the foundational Keynesian text and the Austrian critique's target.
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
+
+## Sources
+
+- [The Positive Theory of Capital (Econlib Clean Full Text)](https://www.econlib.org/library/BohmBawerk/bbPTC.html) - Clean, proofread Library of Economics and Liberty (Econlib) edition of Böhm-Bawerk's The Positive Theory of Capital (William Smart translation)
+- [Capital and Interest: A Critical History of Economical Theory (Full Text Aggregate)](https://cdn.mises.org/Capital%20and%20Interest%20Eugen%20von%20Bohm-Bawerk_4.epub) - William Smart's 1890 translation of Bohm-Bawerk's Geschichte und Kritik der Kapitalzins-Theorien: the critical history of interest theories

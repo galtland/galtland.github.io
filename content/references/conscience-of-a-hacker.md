@@ -3,7 +3,7 @@ title: "The Conscience of a Hacker"
 volatility: cold
 category: reference
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-05
 verified: 2026-07-08
 tags: [loyd-blankenship, the-mentor, hacker-manifesto, phrack, hacker-ethic, curiosity, cypherpunk, censorship]
 aliases: [The Conscience of a Hacker, Hacker Manifesto, The Hacker Manifesto]
@@ -34,3 +34,7 @@ The manifesto predates the [[cypherpunk|cypherpunk]] movement by half a decade, 
 
 - [[cypherpunk|Cypherpunk]] - the movement that inherited the hacker ethic
 - [[code-as-speech|Code as Speech]] - the legal-political descendant of "my crime is that of curiosity"
+
+## Sources
+
+- [The Conscience of a Hacker](https://www.cypherpunkbooks.com/book/the-conscience-of-a-hacker) - Loyd Blankenship's 1986 'Hacker Manifesto' from Phrack — 'My crime is that of curiosity'

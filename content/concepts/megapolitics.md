@@ -3,7 +3,7 @@ title: "Megapolitics"
 volatility: cold
 category: concept
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-05
 verified: 2026-06-09
 tags: [megapolitics, james-dale-davidson, william-rees-mogg, sovereign-individual, logic-of-violence, state-formation, power-projection, information-age, non-libertarian]
 aliases: [megapolitics, megapolitical, logic of violence, the logic of violence, costs and rewards of violence]
@@ -60,3 +60,4 @@ Confidence is low. Megapolitics is a sweeping single-source theory of all of his
 ## Sources
 
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 2 ("A Crash Course in Megapolitics," the four factors, the Lane epigraph) and Chapter 6 ("The Megapolitics of the Information Age")
+- [Coercion, Capital, and European States, AD 990–1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly's 1990

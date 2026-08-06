@@ -54,3 +54,4 @@ For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the cou
 
 - [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - full Mises Institute 2009 PDF as a wiki-ingestable aggregate
 - [The Production of Security](https://mises.org/library/book/production-security) - Mises library page metadata and descriptive framing
+- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - Full text of Rothbard's For a New Liberty: The Libertarian Manifesto

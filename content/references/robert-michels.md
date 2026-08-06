@@ -3,7 +3,7 @@ title: "Robert Michels"
 volatility: cold
 category: reference
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-05
 verified: 2026-07-23
 tags: [robert-michels, iron-law-of-oligarchy, political-parties, elite-theory, sociology, oligarchy, mosca, pareto, max-weber, syndicalism]
 aliases: [Robert Michels, Michels, Roberto Michels]
@@ -42,3 +42,4 @@ Michels is cited for his diagnosis, not his conclusions. A onetime revolutionary
 ## Sources
 
 - **Political Parties (Full Text)** - the 1915 English translation; the iron-law formulation and the structural argument this page draws on
+- [dpc (@dpc_pw) — X Corpus, Ideological Extract (2022–2026)](https://x.com/dpc_pw) - Citable extract from a 3,769-post archive of @dpc_pw (Apr 2022 – Jul 2026), a Rust/Bitcoin/Fedimint developer who publicly self-describes as an ex-libertarian

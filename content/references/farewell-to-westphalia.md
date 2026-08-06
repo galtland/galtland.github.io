@@ -3,7 +3,7 @@ title: "Farewell to Westphalia"
 volatility: warm
 category: reference
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-05
 verified: 2026-07-08
 tags: [jarrad-hope, peter-ludlow, crypto-sovereignty, nation-state, westphalia, network-state, blockchain-governance, daos, exit, cypherpunk]
 aliases: [Farewell to Westphalia, Crypto Sovereignty and Post-Nation-State Governance]
@@ -37,3 +37,7 @@ The book supplies the missing middle between the wiki's cypherpunk lineage and i
 - [[crypto-anarchy|Crypto Anarchy]] - the cypherpunk root extended to governance
 - [[softwar|Softwar]] - the conflict-theory frame of chapter 13
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
+
+## Sources
+
+- [Farewell to Westphalia: Crypto-Sovereignty and the Future of the Nation-State](https://www.cypherpunkbooks.com/book/farewell-to-westphalia) - Jarrad Hope and Peter Ludlow's book-length argument that cryptographic networks erode the Westphalian nation-state's monopoly on sovereignty

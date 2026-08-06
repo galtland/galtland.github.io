@@ -3,7 +3,7 @@ title: "Capital and Interest: A Critical History of Economical Theory"
 volatility: cold
 category: reference
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-08-05
 verified: 2026-06-15
 tags: [eugen-von-bohm-bawerk, austrian-economics, capital-theory, interest, history-of-economic-thought, exploitation-theory]
 aliases: [Capital and Interest, History and Critique of Interest Theories, Kapital und Kapitalzins]
@@ -33,3 +33,7 @@ It is the historical and polemical companion to [[the-positive-theory-of-capital
 - [[the-positive-theory-of-capital|The Positive Theory of Capital]] - the constructive companion volume
 - [[time-preference-and-interest|Time Preference and the Theory of Interest]] - the theory this history clears the ground for
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
+
+## Sources
+
+- [Capital and Interest: A Critical History of Economical Theory (Full Text Aggregate)](https://cdn.mises.org/Capital%20and%20Interest%20Eugen%20von%20Bohm-Bawerk_4.epub) - William Smart's 1890 translation of Bohm-Bawerk's Geschichte und Kritik der Kapitalzins-Theorien: the critical history of interest theories

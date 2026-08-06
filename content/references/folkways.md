@@ -3,7 +3,7 @@ title: "Folkways"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-08-05
 verified: 2026-06-14
 tags: [william-graham-sumner, folkways, ethnocentrism, in-group, out-group, we-group, tribalism, sociology]
 aliases: [Folkways, Folkways Sumner]
@@ -29,3 +29,7 @@ Folkways supplies the demand-side half of the wiki's account of why nationalism 
 - [[william-graham-sumner|William Graham Sumner]] - the author
 - [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - the concept node this work anchors
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+
+## Sources
+
+- [Folkways: We-Group, Out-Group, and Ethnocentrism (extract)](https://www.gutenberg.org/ebooks/24253) - Focused extract (secs 13-15) from W. G. Sumner's Folkways (1906): the we-group/out-group distinction and ethnocentrism

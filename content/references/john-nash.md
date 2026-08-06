@@ -3,7 +3,7 @@ title: "John Nash"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-08-05
 verified: 2026-06-14
 tags: [john-nash, ideal-money, monetary-theory, inflation, sound-money, game-theory, non-libertarian]
 aliases: [John Nash, John F. Nash, John F. Nash Jr., John Nash Jr.]
@@ -35,3 +35,7 @@ Nash anchors the non-Austrian wing of [[ideal-money|Ideal Money]]: a mathematici
 - [[ideal-money-and-asymptotically-ideal-money|Ideal Money and Asymptotically Ideal Money]] - his lecture present in the wiki
 - [[ideal-money|Ideal Money]] - the concept whose non-Austrian wing Nash anchors
 - [[hard-money|Hard Money]] - the sound-money lineage the wiki reads Nash alongside
+
+## Sources
+
+- [Ideal Money and Asymptotically Ideal Money](https://www.cypherpunkbooks.com/book/ideal-money-and-asymptotically-ideal-money) - John F. Nash's Ideal Money lectures: inflation-targeting fiat as a Keynesian evasion, and an asymptotically ideal money disciplined by an index of prices

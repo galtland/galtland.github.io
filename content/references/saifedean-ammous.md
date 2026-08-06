@@ -3,7 +3,7 @@ title: "Saifedean Ammous"
 volatility: warm
 category: reference
 created: 2026-06-14
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [saifedean-ammous, bitcoin, hard-money, stock-to-flow, fiat, sound-money, austrian-economics, monetary-theory]
 aliases: [Ammous, Saifedean, Saifedean Ammous]
@@ -39,3 +39,9 @@ Ammous is a load-bearing modern source for the monetary thread, not a node in th
 - [[principles-of-economics-ammous|Principles of Economics]] - 2023; the Austrian textbook
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
+
+## Sources
+
+- [The Bitcoin Standard (Full Text Aggregate)](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - Full text of Saifedean Ammous's *The Bitcoin Standard: The Decentralized Alternative to Central Banking*
+- [The Fiat Standard (Full Text Aggregate)](https://archive.org/details/the-fiat-standard-the-debt-slavery-alternative-to-human-civilization_202409) - Full text of Saifedean Ammous's *The Fiat Standard: The Debt Slavery Alternative to Human Civilization* (2021)
+- [Principles of Economics (Full Text Aggregate)](https://archive.org/details/principles-of-economics_202409) - Full text of Saifedean Ammous's *Principles of Economics* (2023, ISBN 979-8-9879755-1-0) as scanned and uploaded to Internet Archive

@@ -3,7 +3,7 @@ title: "Étienne de la Boétie"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [etienne-de-la-boetie, voluntary-servitude, consent, obedience, tyranny, withdrawal, classical-canon]
 aliases: [La Boétie, La Boetie, Etienne de la Boetie, Étienne de la Boétie, de la Boétie, de la Boetie]
@@ -34,3 +34,7 @@ La Boétie anchors the **withdrawal** route in the strategy debate and the conse
 
 - [[the-politics-of-obedience|The Politics of Obedience]] - his Discourse of Voluntary Servitude, the work present in this wiki
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+
+## Sources
+
+- [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - Consolidated full-text ingest of Mises Institute's online edition of The Politics of Obedience: The Discourse of Voluntary Servitude

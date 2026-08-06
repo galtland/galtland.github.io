@@ -3,7 +3,7 @@ title: "The Positive Theory of Capital"
 volatility: cold
 category: reference
 created: 2026-06-15
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [eugen-von-bohm-bawerk, austrian-economics, capital-theory, time-preference, interest, roundaboutness, structure-of-production, agio-theory]
 aliases: [Positive Theory of Capital, Positive Theorie des Kapitales]
@@ -33,3 +33,7 @@ This is the primary source behind the wiki's [[capital|Capital]] concept and the
 - [[capital|Capital]] - the concept this book grounds
 - [[time-preference-and-interest|Time Preference and the Theory of Interest]] - the agio theory set out here
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the time-structure-of-production foundation it carries forward
+
+## Sources
+
+- [The Positive Theory of Capital (Econlib Clean Full Text)](https://www.econlib.org/library/BohmBawerk/bbPTC.html) - Clean, proofread Library of Economics and Liberty (Econlib) edition of Böhm-Bawerk's The Positive Theory of Capital (William Smart translation)

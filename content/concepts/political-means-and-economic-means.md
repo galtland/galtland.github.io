@@ -3,7 +3,7 @@ title: "Political Means and Economic Means"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-06-09
+updated: 2026-08-05
 verified: 2026-07-23
 tags: [political-means, economic-means, state, exploitation, production, exchange, nonaggression, war-and-state-formation]
 aliases: [economic means, political means, Oppenheimer distinction, production versus predation]
@@ -124,3 +124,4 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - Rothbard's explicit Oppenheimer citation and state definition
 - [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's economic restatement of the distinction in intervention theory
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial Tilly source for capital/coercion paths, war finance, taxation, and state formation
+- [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - Major Jason Lowery's 2023 MIT SDM thesis arguing that Bitcoin should be understood not as peer-to-peer cash but as an electro-cyber security technology

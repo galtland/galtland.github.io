@@ -3,7 +3,7 @@ title: "Crypto Wars 2"
 volatility: hot
 category: concept
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-08-05
 verified: 2026-07-11
 tags: [crypto-wars, going-dark, encryption, apple-fbi, earn-it, chat-control, client-side-scanning, all-writs-act, backdoors, cypherpunk, surveillance]
 aliases: [Crypto Wars 2, the second crypto war, Crypto War 2, Going Dark]
@@ -81,3 +81,12 @@ Every episode above fits the menu. Apple was ordered to turn its signing key —
 - [[snowden-disclosures|The Snowden Disclosures]] - June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own reviewers and courts
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 - [[privacy-and-cryptography|Privacy and Cryptography]] - Topic map of the wiki's privacy-and-cryptography thread: Austrian privacy theory, state surveillance, Bitcoin, and parallel-economy tools.
+
+## Sources
+
+- [Fog of CryptoWar](https://www.cypherpunkbooks.com/book/fog-of-cryptowar) - Jonathan 'smuggler' Logan's 2017 essay on the renewed crypto wars: why backdoor and key-escrow demands recur, the asymmetry between surveillance and privacy
+- [Order Compelling Apple, Inc. to Assist Agents in Search (C.D. Cal., 16 February 2016)](https://assets.documentcloud.org/documents/2714001/SB-Shooter-Order-Compelling-Apple-Asst-iPhone.pdf) - Magistrate Judge Sheri Pym's ex parte order
+- [A Message to Our Customers (Apple, 16 February 2016)](https://www.apple.com/customer-letter/) - Tim Cook's open letter opposing the FBI's demand (via an All Writs Act order in the San Bernardino case) that Apple build a signed iOS version defeating iPhone
+- [EARN IT Act of 2020 (S. 3398, 116th Congress) — bill text](https://www.govinfo.gov/content/pkg/BILLS-116s3398is/html/BILLS-116s3398is.htm) - Full text of S
+- [EU CSAM Regulation Proposal — 'Chat Control' (COM(2022) 209 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52022PC0209) - Full text of COM(2022) 209 final (11 May 2022): the EU proposal 'laying down rules to prevent and combat child sexual abuse' — universally known as Chat Control
+- [EU Digital Euro Regulation Proposal (COM(2023) 369 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0369) - EU legislative proposal COM(2023) 369 final, tabled 28 June 2023, establishing the digital euro as a direct ECB liability distributed through a two-tier

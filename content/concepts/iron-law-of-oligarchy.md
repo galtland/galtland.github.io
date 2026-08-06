@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-05
 verified: 2026-07-23
 tags: [robert-michels, iron-law-of-oligarchy, oligarchy, elite-theory, political-parties, organization, democracy, directors-and-directed, mass-apathy, irreducible-power]
 aliases: [The Iron Law of Oligarchy, iron law of oligarchy, Michels's iron law, who says organization says oligarchy, oligarchical tendency, elite theory of organization]
@@ -60,3 +60,4 @@ Michels called it a *law*, and the word oversells a strong tendency. The claim i
 ## Sources
 
 - **Political Parties: The Iron Law of Oligarchy (Selected Passages)** - Michels's formulation of the law, the organization-implies-oligarchy passage, and the technical-impossibility-of-mass-rule argument
+- [dpc (@dpc_pw) — X Corpus, Ideological Extract (2022–2026)](https://x.com/dpc_pw) - Citable extract from a 3,769-post archive of @dpc_pw (Apr 2022 – Jul 2026), a Rust/Bitcoin/Fedimint developer who publicly self-describes as an ex-libertarian

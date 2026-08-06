@@ -3,7 +3,7 @@ title: "Meditations on Cypherpunk Nightmares"
 volatility: cold
 category: reference
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-05
 verified: 2026-07-08
 tags: [michael-goldstein, cypherpunk, crypto-anarchy, stoicism, privacy, information-markets, opsec, bitcoin]
 aliases: [Meditations on Cypherpunk Nightmares, cypherpunk nightmares]
@@ -35,3 +35,7 @@ Most of the wiki's cypherpunk corpus argues that [[crypto-anarchy|crypto anarchy
 - [[timothy-c-may|Timothy C. May]] - the manifesto this essay meditates on
 - [[crypto-anarchy|Crypto Anarchy]] - the concept whose dark side the essay confronts
 - [[cypherpunk|Cypherpunk]] - the movement and its ethic
+
+## Sources
+
+- [Meditations on Cypherpunk Nightmares](https://www.cypherpunkbooks.com/book/meditations-on-cypherpunk-nightmares) - Michael Goldstein's 2014 essay weighing the cypherpunk dream against its nightmares

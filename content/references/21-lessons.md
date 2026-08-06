@@ -3,7 +3,7 @@ title: "21 Lessons"
 volatility: cold
 category: reference
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-05
 verified: 2026-07-08
 tags: [gigi, bitcoin, cypherpunk, sound-money, hard-money, time-preference, privacy, proof-of-work, philosophy]
 aliases: [21 Lessons, "21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole"]
@@ -35,3 +35,7 @@ This is the corpus's best single on-ramp from curiosity to the wiki's two main t
 - [[the-bitcoin-standard|The Bitcoin Standard]] - the long-form economics behind chapter 2's lessons
 - [[hard-money|Hard Money]] - the monetary concept the book popularises
 - [[cypherpunk|Cypherpunk]] - the tradition chapter 3 initiates readers into
+
+## Sources
+
+- [21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole](https://www.cypherpunkbooks.com/book/21-lessons) - Gigi's book of reflections on what Bitcoin teaches about money, time, energy, language, and sovereignty

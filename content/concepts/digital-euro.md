@@ -3,7 +3,7 @@ title: "Digital Euro"
 volatility: hot
 category: concept
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-05
 verified: 2026-07-08
 tags: [digital-euro, cbdc, ecb, holding-cap, programmable-money, two-tier-cbdc, financial-surveillance, legal-tender, european-union]
 aliases: [Digital Euro, digital euro, EU CBDC, COM(2023) 369]
@@ -34,3 +34,7 @@ The project's status is live politics: trilogue ongoing, ECB assumption of adopt
 - [[your-secret-right-to-cash|Your Secret Right to Cash]] - what the "digital complement to cash" does not replicate
 - [[censorship-resistance|Censorship Resistance]] - the property at stake in centralised settlement
 - [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.
+
+## Sources
+
+- [EU Digital Euro Regulation Proposal (COM(2023) 369 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0369) - EU legislative proposal COM(2023) 369 final, tabled 28 June 2023, establishing the digital euro as a direct ECB liability distributed through a two-tier

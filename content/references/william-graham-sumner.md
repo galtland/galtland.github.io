@@ -3,7 +3,7 @@ title: "William Graham Sumner"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-08-05
 verified: 2026-06-14
 tags: [william-graham-sumner, ethnocentrism, in-group, out-group, folkways, classical-liberalism, sociology, non-libertarian]
 aliases: [Sumner, William Graham Sumner, W. G. Sumner]
@@ -34,3 +34,7 @@ Sumner is a citation anchor for [[in-group-out-group-tribalism|In-Group/Out-Grou
 
 - [[folkways|Folkways]] - the 1906 work whose we-group/out-group and ethnocentrism passages this wiki cites
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+
+## Sources
+
+- [Folkways: We-Group, Out-Group, and Ethnocentrism (extract)](https://www.gutenberg.org/ebooks/24253) - Focused extract (secs 13-15) from W. G. Sumner's Folkways (1906): the we-group/out-group distinction and ethnocentrism

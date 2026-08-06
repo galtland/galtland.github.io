@@ -3,7 +3,7 @@ title: "The Coordination Objection: A Reply to an Ex-Libertarian"
 volatility: warm
 type: thesis
 created: 2026-07-22
-updated: 2026-07-25
+updated: 2026-08-05
 verified: 2026-07-25
 stance: reframe
 verdict: perimeter-and-power-objections-land-on-conceded-ground-the-halal-kosher-remedy-has-the-shape-of-the-traditions-own-unbuilt-piece-and-the-holistic-optimizer-sits-hardest-against-his-irreducible-power-premise
@@ -227,3 +227,11 @@ What can be said plainly is narrower. His first and third claims are conceded he
 - [dpc (@dpc_pw) — X Corpus, Ideological Extract (2022–2026)](https://x.com/dpc_pw) - verbatim ideological extract from a 3,769-post archive of @dpc_pw (Apr 2022 – Jul 2026, 194 ideological posts): the September 2022 exit declaration and caste question, the objective-function critique from 2022 through the June 2026 Chinese-model post, the May 2024 halal/kosher coordination remedy, the irreducibility-of-power posts from 2023 to 2026, the February 2026 recantation, and the countervailing pro-capitalism, competing-gangs, usury, and space-faring-Amish posts a fair reading requires
 - [dpc (@dpc_pw) — Recovered 2022 Tweets (Wayback)](https://x.com/dpc_pw ; recovered via the Wayback Machine (web.archive.org) from archived twitter.com/dpc_pw/status/ snapshots) - his 2022 posts, recovered from the Wayback Machine: the 12 July 2022 coercive-government answer to Moloch, the selective-protectionism and capital-vs-labor posts, the recovered continuation of the 30 July 2022 cybernetic-capitalism thread, and the usury and "taxes would be 0%" posts that place his interventionist strand as early as 2022
 - [dpc (@dpc_pw) — Recovered 2024–2026 Tweets (Syndication)](https://x.com/dpc_pw ; recovered via X's public syndication endpoint (cdn.syndication.twimg.com/tweet-result) by tweet ID) - his posts from 2024 to 2026 absent from the earlier archive: almost entirely engineering, with the November 2024 post on productive wealth and the August 2025 "freedom of computing" post as its only politically substantive content
+- **Anarchy, State, and Utopia (Full Text Aggregate)** - Robert Nozick's 1974 Anarchy, State, and Utopia: the landmark academic statement of libertarian minarchism
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Full text of Rothbard's The Ethics of Liberty
+- [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Hoppe's 2001 collection of thirteen essays arguing that the historical transition from monarchy to democracy systematically raised social time preference
+- **Capitalism and Freedom (Full Text)** - Milton Friedman's 1962 Capitalism and Freedom
+- [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - OCR ingest of Hannah Arendt's On Violence, extracted from the Monoskop scan of Crises of the Republic; distinguishes power, strength, force, authority
+- [The Whole Duty of Man According to the Law of Nature (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - Pufendorf's De Officio Hominis et Civis (Latin 1673), in Andrew Tooke's English 'Whole Duty of Man According to the Law of Nature'
+- [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Consolidated full-text ingest of the Mises Institute PDF edition of Individualism and Economic Order, extracted from the 282-page PDF
+- [Socialism: An Economic and Sociological Analysis (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - Consolidated full text of Ludwig von Mises's Socialism: An Economic and Sociological Analysis

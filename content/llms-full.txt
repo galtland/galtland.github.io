@@ -2200,6 +2200,15 @@ Every episode above fits the menu. Apple was ordered to turn its signing key —
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 - [[privacy-and-cryptography|Privacy and Cryptography]] - Topic map of the wiki's privacy-and-cryptography thread: Austrian privacy theory, state surveillance, Bitcoin, and parallel-economy tools.
 
+## Sources
+
+- [Fog of CryptoWar](https://www.cypherpunkbooks.com/book/fog-of-cryptowar) - Jonathan 'smuggler' Logan's 2017 essay on the renewed crypto wars: why backdoor and key-escrow demands recur, the asymmetry between surveillance and privacy
+- [Order Compelling Apple, Inc. to Assist Agents in Search (C.D. Cal., 16 February 2016)](https://assets.documentcloud.org/documents/2714001/SB-Shooter-Order-Compelling-Apple-Asst-iPhone.pdf) - Magistrate Judge Sheri Pym's ex parte order
+- [A Message to Our Customers (Apple, 16 February 2016)](https://www.apple.com/customer-letter/) - Tim Cook's open letter opposing the FBI's demand (via an All Writs Act order in the San Bernardino case) that Apple build a signed iOS version defeating iPhone
+- [EARN IT Act of 2020 (S. 3398, 116th Congress) — bill text](https://www.govinfo.gov/content/pkg/BILLS-116s3398is/html/BILLS-116s3398is.htm) - Full text of S
+- [EU CSAM Regulation Proposal — 'Chat Control' (COM(2022) 209 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52022PC0209) - Full text of COM(2022) 209 final (11 May 2022): the EU proposal 'laying down rules to prevent and combat child sexual abuse' — universally known as Chat Control
+- [EU Digital Euro Regulation Proposal (COM(2023) 369 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0369) - EU legislative proposal COM(2023) 369 final, tabled 28 June 2023, establishing the digital euro as a direct ECB liability distributed through a two-tier
+
 ---
 
 ## Deflation
@@ -2327,6 +2336,10 @@ The project's status is live politics: trilogue ongoing, ECB assumption of adopt
 - [[your-secret-right-to-cash|Your Secret Right to Cash]] - what the "digital complement to cash" does not replicate
 - [[censorship-resistance|Censorship Resistance]] - the property at stake in centralised settlement
 - [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.
+
+## Sources
+
+- [EU Digital Euro Regulation Proposal (COM(2023) 369 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0369) - EU legislative proposal COM(2023) 369 final, tabled 28 June 2023, establishing the digital euro as a direct ECB liability distributed through a two-tier
 
 ---
 
@@ -4726,6 +4739,7 @@ Michels called it a *law*, and the word oversells a strong tendency. The claim i
 ## Sources
 
 - **Political Parties: The Iron Law of Oligarchy (Selected Passages)** - Michels's formulation of the law, the organization-implies-oligarchy passage, and the technical-impossibility-of-mass-rule argument
+- [dpc (@dpc_pw) — X Corpus, Ideological Extract (2022–2026)](https://x.com/dpc_pw) - Citable extract from a 3,769-post archive of @dpc_pw (Apr 2022 – Jul 2026), a Rust/Bitcoin/Fedimint developer who publicly self-describes as an ex-libertarian
 
 ---
 
@@ -5531,6 +5545,7 @@ Confidence is low. Megapolitics is a sweeping single-source theory of all of his
 ## Sources
 
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 2 ("A Crash Course in Megapolitics," the four factors, the Lane epigraph) and Chapter 6 ("The Megapolitics of the Information Age")
+- [Coercion, Capital, and European States, AD 990–1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly's 1990
 
 ---
 
@@ -6285,6 +6300,7 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [Pufendorf, The Whole Duty of Man (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - Book I, the law of nature grounded in sociality
 - [The Declaration of Independence (Full Text)](https://www.gutenberg.org/ebooks/1) - the 1776 statement of unalienable rights, consent, and revolution
 - [Paine, Rights of Man (Full Text)](https://www.gutenberg.org/ebooks/3742) - natural rights vs. Burke; no generation binds the next
+- [The Law (Full Text Aggregate)](https://mises.org/online-book/law) - Consolidated full-text ingest of Mises Institute's online edition of The Law, aggregated from 1 reading-order pages
 
 ---
 
@@ -7252,6 +7268,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - Rothbard's explicit Oppenheimer citation and state definition
 - [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's economic restatement of the distinction in intervention theory
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - partial Tilly source for capital/coercion paths, war finance, taxation, and state formation
+- [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - Major Jason Lowery's 2023 MIT SDM thesis arguing that Bitcoin should be understood not as peer-to-peer cash but as an electro-cyber security technology
 
 ---
 
@@ -9298,6 +9315,12 @@ Nor did the documents prove a Stasi. PCLOB, naming the danger that bulk data "wi
 - [[surveillance-capitalism|Surveillance Capitalism]] - the commercial dragnet whose infrastructure state collection rides on
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
 
+## Sources
+
+- [PCLOB Report on the Telephone Records Program (Section 215) and FISC Operations](https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf) - The Privacy and Civil Liberties Oversight Board's 23 January 2014 report on the NSA's bulk telephone-records program conducted under Section 215 of the USA
+- [ACLU v. Clapper, 785 F.3d 787 (2d Cir. 2015) — opinion](https://www.govinfo.gov/content/pkg/USCOURTS-ca2-14-00042/pdf/USCOURTS-ca2-14-00042-0.pdf) - The Second Circuit's 7 May 2015 opinion (Lynch, J.) holding that the NSA's bulk telephone-metadata program exceeded the authority granted by Section 215
+- [Edward Snowden — Testimony to the European Parliament LIBE Committee (7 March 2014)](https://www.europarl.europa.eu/document/activities/cont/201403/20140307ATT80674/20140307ATT80674EN.pdf) - Snowden's written testimony to the European Parliament's LIBE committee inquiry on mass surveillance (7 March 2014): his account of why he disclosed
+
 ---
 
 ## Sociality
@@ -10202,6 +10225,11 @@ Time preference is the hinge between capital theory and the business cycle. If t
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] - Two free-market schools, one fault line: Friedman's rule-bound managed money against Mises and Rothbard's claim that managing money at all is the disease
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
 
+## Sources
+
+- [The Positive Theory of Capital (Econlib Clean Full Text)](https://www.econlib.org/library/BohmBawerk/bbPTC.html) - Clean, proofread Library of Economics and Liberty (Econlib) edition of Böhm-Bawerk's The Positive Theory of Capital (William Smart translation)
+- [Capital and Interest: A Critical History of Economical Theory (Full Text Aggregate)](https://cdn.mises.org/Capital%20and%20Interest%20Eugen%20von%20Bohm-Bawerk_4.epub) - William Smart's 1890 translation of Bohm-Bawerk's Geschichte und Kritik der Kapitalzins-Theorien: the critical history of interest theories
+
 ---
 
 ## The Title-Transfer Theory of Contract
@@ -10330,6 +10358,10 @@ This is [[crypto-anarchy|Crypto Anarchy]] compiled into routing, and it is why T
 - [[jurisdictional-competition|Jurisdictional Competition]] - inter-jurisdictional arbitrage, which a Tor circuit performs at the level of individual relays
 - [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - the 2004 design paper and full technical walkthrough
 
+## Sources
+
+- [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf) - Roger Dingledine, Nick Mathewson, and Paul Syverson present Tor as a practical second-generation onion-routing network for low-latency anonymous TCP communication
+
 ---
 
 ## Total Domination
@@ -10388,6 +10420,10 @@ This is a non-libertarian diagnostic category. Arendt does not derive market ana
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - primary Arendt source for total domination, camps, ideology, and terror
 - [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - participant-side companion source
 - [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - abridged Soviet camp-system documentation
+- [The Gulag Archipelago, Volume I: Parts I-II](https://archive.org/download/the-gulag-archipelago-vol-1-i-ii-solzhenitsyn/The-Gulag-Archipelago__vol1__I-II__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume I of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts I-II: the machinery of arrest, interrogation
+- [The Gulag Archipelago, Volume II: Parts III-IV](https://archive.org/download/the-gulag-archipelago-vol-2-iii-iv-solzhenitsyn/The-Gulag-Archipelago__vol2__III-IV__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume II of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts III-IV
+- [The Gulag Archipelago, Volume III: Parts V-VII](https://archive.org/download/the-gulag-archipelago-vol-3-v-vii-solzhenitsyn/The-Gulag-Archipelago__vol3__V-VII__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume III of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts V-VII: katorga, exile, Stalin's death
+- [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - OCR ingest of Hannah Arendt's On Violence, extracted from the Monoskop scan of Crises of the Republic; distinguishes power, strength, force, authority
 
 ---
 
@@ -10487,6 +10523,10 @@ The useful synthesis is limited: libertarian sources explain why state monopoly 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek comparison point for central planning, rule of law, and arbitrary power
 - [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - Rothbardian state-power comparator
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly comparison point for coercion-intensive state formation that should not be collapsed into totalitarianism
+- [The Gulag Archipelago, Volume I: Parts I-II](https://archive.org/download/the-gulag-archipelago-vol-1-i-ii-solzhenitsyn/The-Gulag-Archipelago__vol1__I-II__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume I of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts I-II: the machinery of arrest, interrogation
+- [The Gulag Archipelago, Volume II: Parts III-IV](https://archive.org/download/the-gulag-archipelago-vol-2-iii-iv-solzhenitsyn/The-Gulag-Archipelago__vol2__III-IV__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume II of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts III-IV
+- [The Gulag Archipelago, Volume III: Parts V-VII](https://archive.org/download/the-gulag-archipelago-vol-3-v-vii-solzhenitsyn/The-Gulag-Archipelago__vol3__V-VII__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume III of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts V-VII: katorga, exile, Stalin's death
+- [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - OCR ingest of Hannah Arendt's On Violence, extracted from the Monoskop scan of Crises of the Republic; distinguishes power, strength, force, authority
 
 ---
 
@@ -11049,6 +11089,10 @@ This is the corpus's best single on-ramp from curiosity to the wiki's two main t
 - [[the-bitcoin-standard|The Bitcoin Standard]] - the long-form economics behind chapter 2's lessons
 - [[hard-money|Hard Money]] - the monetary concept the book popularises
 - [[cypherpunk|Cypherpunk]] - the tradition chapter 3 initiates readers into
+
+## Sources
+
+- [21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole](https://www.cypherpunkbooks.com/book/21-lessons) - Gigi's book of reflections on what Bitcoin teaches about money, time, energy, language, and sovereignty
 
 ---
 
@@ -12287,6 +12331,10 @@ It is the historical and polemical companion to [[the-positive-theory-of-capital
 - [[time-preference-and-interest|Time Preference and the Theory of Interest]] - the theory this history clears the ground for
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
 
+## Sources
+
+- [Capital and Interest: A Critical History of Economical Theory (Full Text Aggregate)](https://cdn.mises.org/Capital%20and%20Interest%20Eugen%20von%20Bohm-Bawerk_4.epub) - William Smart's 1890 translation of Bohm-Bawerk's Geschichte und Kritik der Kapitalzins-Theorien: the critical history of interest theories
+
 ---
 
 ## Capitalism and Freedom
@@ -12719,6 +12767,10 @@ The manifesto predates the [[cypherpunk|cypherpunk]] movement by half a decade, 
 
 - [[cypherpunk|Cypherpunk]] - the movement that inherited the hacker ethic
 - [[code-as-speech|Code as Speech]] - the legal-political descendant of "my crime is that of curiosity"
+
+## Sources
+
+- [The Conscience of a Hacker](https://www.cypherpunkbooks.com/book/the-conscience-of-a-hacker) - Loyd Blankenship's 1986 'Hacker Manifesto' from Phrack — 'My crime is that of curiosity'
 
 ---
 
@@ -13473,6 +13525,10 @@ La Boétie anchors the **withdrawal** route in the strategy debate and the conse
 - [[the-politics-of-obedience|The Politics of Obedience]] - his Discourse of Voluntary Servitude, the work present in this wiki
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 
+## Sources
+
+- [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - Consolidated full-text ingest of Mises Institute's online edition of The Politics of Obedience: The Discourse of Voluntary Servitude
+
 ---
 
 ## Eugen von Böhm-Bawerk
@@ -13516,6 +13572,12 @@ Böhm-Bawerk is a lineage node: he is the origin of the capital-and-interest the
 - [[karl-marx|Karl Marx]] - Author of Capital (1867) and the labor theory of value — value as socially necessary labour-time embodied in goods; the principal foil to the Austrian subjective theory of value.
 - [[principles-of-economics-menger|Principles of Economics (Menger)]] - Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, never a property inherent in the good
 
+## Sources
+
+- [The Positive Theory of Capital (Econlib Clean Full Text)](https://www.econlib.org/library/BohmBawerk/bbPTC.html) - Clean, proofread Library of Economics and Liberty (Econlib) edition of Böhm-Bawerk's The Positive Theory of Capital (William Smart translation)
+- [Capital and Interest: A Critical History of Economical Theory (Full Text Aggregate)](https://cdn.mises.org/Capital%20and%20Interest%20Eugen%20von%20Bohm-Bawerk_4.epub) - William Smart's 1890 translation of Bohm-Bawerk's Geschichte und Kritik der Kapitalzins-Theorien: the critical history of interest theories
+- [Karl Marx and the Close of His System (Full Text Aggregate)](https://cdn.mises.org/Karl%20Marx%20and%20the%20Close%20of%20His%20System.epub) - Alice Macdonald's 1898 translation of Bohm-Bawerk's Zum Abschluss des Marxschen Systems (1896)
+
 ---
 
 ## Farewell to Westphalia
@@ -13548,6 +13610,10 @@ The book supplies the missing middle between the wiki's cypherpunk lineage and i
 - [[softwar|Softwar]] - the conflict-theory frame of chapter 13
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
 
+## Sources
+
+- [Farewell to Westphalia: Crypto-Sovereignty and the Future of the Nation-State](https://www.cypherpunkbooks.com/book/farewell-to-westphalia) - Jarrad Hope and Peter Ludlow's book-length argument that cryptographic networks erode the Westphalian nation-state's monopoly on sovereignty
+
 ---
 
 ## Fog of CryptoWar
@@ -13579,6 +13645,10 @@ This is the wiki's primary source on [[crypto-wars-2|Crypto War 2]] and the corr
 - [[censorship-resistance|Censorship Resistance]] - the property whose practical limits the essay stress-tests
 - [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.
 
+## Sources
+
+- [Fog of CryptoWar](https://www.cypherpunkbooks.com/book/fog-of-cryptowar) - Jonathan 'smuggler' Logan's 2017 essay on the renewed crypto wars: why backdoor and key-escrow demands recur, the asymmetry between surveillance and privacy
+
 ---
 
 ## Folkways
@@ -13602,6 +13672,10 @@ Folkways supplies the demand-side half of the wiki's account of why nationalism 
 - [[william-graham-sumner|William Graham Sumner]] - the author
 - [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - the concept node this work anchors
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+
+## Sources
+
+- [Folkways: We-Group, Out-Group, and Ethnocentrism (extract)](https://www.gutenberg.org/ebooks/24253) - Focused extract (secs 13-15) from W. G. Sumner's Folkways (1906): the we-group/out-group distinction and ethnocentrism
 
 ---
 
@@ -14491,6 +14565,10 @@ This lecture is the wiki's evidence that the case against discretionary fiat inf
 - [[john-nash|John Nash]] - the author
 - [[ideal-money|Ideal Money]] - the concept node this lecture anchors from the non-Austrian side
 
+## Sources
+
+- [Ideal Money and Asymptotically Ideal Money](https://www.cypherpunkbooks.com/book/ideal-money-and-asymptotically-ideal-money) - John F. Nash's Ideal Money lectures: inflation-targeting fiat as a Keynesian evasion, and an asymptotically ideal money disciplined by an index of prices
+
 ---
 
 ## Individualism and Economic Order
@@ -14860,6 +14938,10 @@ Nash anchors the non-Austrian wing of [[ideal-money|Ideal Money]]: a mathematici
 - [[ideal-money|Ideal Money]] - the concept whose non-Austrian wing Nash anchors
 - [[hard-money|Hard Money]] - the sound-money lineage the wiki reads Nash alongside
 
+## Sources
+
+- [Ideal Money and Asymptotically Ideal Money](https://www.cypherpunkbooks.com/book/ideal-money-and-asymptotically-ideal-money) - John F. Nash's Ideal Money lectures: inflation-targeting fiat as a Keynesian evasion, and an asymptotically ideal money disciplined by an index of prices
+
 ---
 
 ## John Perry Barlow
@@ -15107,6 +15189,10 @@ This is the wiki's primary source for the Austrian critique of Marxian economics
 - [[das-kapital|Capital]] - Marx's 1867 magnum opus. Chapter 1 grounds value in abstract human labour and socially necessary labour-time — the objective labor theory of value the Austrians reject.
 - [[karl-marx|Karl Marx]] - Author of Capital (1867) and the labor theory of value — value as socially necessary labour-time embodied in goods; the principal foil to the Austrian subjective theory of value.
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
+
+## Sources
+
+- [Karl Marx and the Close of His System (Full Text Aggregate)](https://cdn.mises.org/Karl%20Marx%20and%20the%20Close%20of%20His%20System.epub) - Alice Macdonald's 1898 translation of Bohm-Bawerk's Zum Abschluss des Marxschen Systems (1896)
 
 ---
 
@@ -15592,6 +15678,10 @@ Most of the wiki's cypherpunk corpus argues that [[crypto-anarchy|crypto anarchy
 - [[crypto-anarchy|Crypto Anarchy]] - the concept whose dark side the essay confronts
 - [[cypherpunk|Cypherpunk]] - the movement and its ethic
 
+## Sources
+
+- [Meditations on Cypherpunk Nightmares](https://www.cypherpunkbooks.com/book/meditations-on-cypherpunk-nightmares) - Michael Goldstein's 2014 essay weighing the cypherpunk dream against its nightmares
+
 ---
 
 ## Michel Foucault
@@ -15964,6 +16054,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [The Politics of Obedience: The Discourse of Voluntary Servitude (Full Text Aggregate)](https://mises.org/online-book/politics-obedience-discourse-voluntary-servitude) - Étienne de La Boétie's discourse on withdrawn consent; an anti-state predecessor in the tradition Rothbard worked within (the raw is the discourse text, by La Boétie)
 - [Let's Abolish Government (Full Text Extract)](https://cdn.mises.org/Lets%20Abolish%20Government_2.pdf) - a Lysander Spooner collection (No Treason; A Letter to Grover Cleveland); an anti-state predecessor in Rothbard's lineage (the raw is Spooner's text)
 - [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) - canonical Austrian reading of 1929–1933 and the historical application of his economic framework
+- [Economic Thought Before Adam Smith (Full Text)](https://cdn.mises.org/Austrian%20Perspective%20on%20the%20History%20of%20Economic%20Thought_1.epub) - Full text of Rothbard's Economic Thought Before Adam Smith
 
 ---
 
@@ -16001,6 +16092,7 @@ Taleb is not a member of the tradition this wiki maps, and the divergences matte
 ## Sources
 
 - [The Most Intolerant Wins: The Dominance of the Stubborn Minority (Full Text)](https://fooledbyrandomness.com/minority.pdf ; SHA-256 fe281343bc73d4a6b6b2180b5786d99fdcefc1e14508f28158fabb8579accd37 ; preliminary-draft chapter of Skin in the Game (Random House, 2018), 8 pp.) - the *Skin in the Game* chapter this page cites for the minority rule and the one courage quote; the wider skin-in-the-game and localism material is attributed in prose to *Antifragile* and *Skin in the Game*
+- [dpc (@dpc_pw) — X Corpus, Ideological Extract (2022–2026)](https://x.com/dpc_pw) - Citable extract from a 3,769-post archive of @dpc_pw (Apr 2022 – Jul 2026), a Rust/Bitcoin/Fedimint developer who publicly self-describes as an ex-libertarian
 
 ---
 
@@ -16078,6 +16170,10 @@ This is the wiki's canonical source for the **exit** route in the strategy debat
 
 - [[samuel-edward-konkin-iii|Samuel Edward Konkin III]] - the author
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the concept node this work anchors
+
+## Sources
+
+- [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto) - Samuel Edward Konkin III's 1980 founding statement of agorism: the strategy of building the counter-economy
 
 ---
 
@@ -16226,6 +16322,11 @@ The sequence Article 3 → Wales 2% → 3.5% by 2032 is the cleanest documentary
 - [[anatomy-of-the-state|Anatomy of the State]] - the ratchet dynamic in Rothbard's terms
 - [[war-and-state-formation|War and State Formation]] - the historical thread these documents extend
 
+## Sources
+
+- [The North Atlantic Treaty (1949)](https://www.nato.int/cps/en/natolive/official_texts_17120.htm) - Founding treaty of the North Atlantic Treaty Organization, signed in Washington on 4 April 1949 by twelve states
+- [Wales Summit Declaration (5 September 2014)](https://www.nato.int/cps/en/natohq/official_texts_112964.htm) - NATO heads-of-state declaration issued in Wales on 5 September 2014, in the wake of Russia's intervention in Ukraine
+
 ---
 
 ## Of Cypherpunks and Sousveillance
@@ -16251,6 +16352,10 @@ This is the corpus's only academic treatment of the [[cypherpunk|cypherpunk]] mo
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - the wiki's own account of the same war
 - [[snowden-disclosures|The Snowden Disclosures]] - June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own reviewers and courts
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
+
+## Sources
+
+- [Of Cypherpunks and Sousveillance](https://www.cypherpunkbooks.com/book/of-cypherpunks-and-sousveillance) - Patrick D
 
 ---
 
@@ -17122,6 +17227,7 @@ Michels is cited for his diagnosis, not his conclusions. A onetime revolutionary
 ## Sources
 
 - **Political Parties (Full Text)** - the 1915 English translation; the iron-law formulation and the structural argument this page draws on
+- [dpc (@dpc_pw) — X Corpus, Ideological Extract (2022–2026)](https://x.com/dpc_pw) - Citable extract from a 3,769-post archive of @dpc_pw (Apr 2022 – Jul 2026), a Rust/Bitcoin/Fedimint developer who publicly self-describes as an ex-libertarian
 
 ---
 
@@ -17190,6 +17296,12 @@ Ammous is a load-bearing modern source for the monetary thread, not a node in th
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 
+## Sources
+
+- [The Bitcoin Standard (Full Text Aggregate)](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - Full text of Saifedean Ammous's *The Bitcoin Standard: The Decentralized Alternative to Central Banking*
+- [The Fiat Standard (Full Text Aggregate)](https://archive.org/details/the-fiat-standard-the-debt-slavery-alternative-to-human-civilization_202409) - Full text of Saifedean Ammous's *The Fiat Standard: The Debt Slavery Alternative to Human Civilization* (2021)
+- [Principles of Economics (Full Text Aggregate)](https://archive.org/details/principles-of-economics_202409) - Full text of Saifedean Ammous's *Principles of Economics* (2023, ISBN 979-8-9879755-1-0) as scanned and uploaded to Internet Archive
+
 ---
 
 ## Samuel Edward Konkin III
@@ -17221,6 +17333,10 @@ Konkin anchors [[agorism-and-counter-economics|Agorism and Counter-Economics]] a
 - [[parallel-economy|The Parallel Economy]] - the counter-economic exit route his program feeds
 - [[paul-rosenberg|Paul Rosenberg]] - Engineer, privacy entrepreneur, and writer; author of A Lodging of Wayfaring Men (2007) and Production Versus Plunder; co-founder of Cryptohippie.
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
+
+## Sources
+
+- [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto) - Samuel Edward Konkin III's 1980 founding statement of agorism: the strategy of building the counter-economy
 
 ---
 
@@ -18563,6 +18679,10 @@ This is the primary source behind the wiki's [[capital|Capital]] concept and the
 - [[time-preference-and-interest|Time Preference and the Theory of Interest]] - the agio theory set out here
 - [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - the time-structure-of-production foundation it carries forward
 
+## Sources
+
+- [The Positive Theory of Capital (Econlib Clean Full Text)](https://www.econlib.org/library/BohmBawerk/bbPTC.html) - Clean, proofread Library of Economics and Liberty (Econlib) edition of Böhm-Bawerk's The Positive Theory of Capital (William Smart translation)
+
 ---
 
 ## The Praxeology of Privacy
@@ -18734,6 +18854,7 @@ For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the cou
 
 - [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - full Mises Institute 2009 PDF as a wiki-ingestable aggregate
 - [The Production of Security](https://mises.org/library/book/production-security) - Mises library page metadata and descriptive framing
+- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - Full text of Rothbard's For a New Liberty: The Libertarian Manifesto
 
 ---
 
@@ -19734,6 +19855,10 @@ Shughart is a citation anchor, not a tradition node: the encyclopedia entry give
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[james-buchanan|James Buchanan]]
 
+## Sources
+
+- [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) - Econlib's Concise Encyclopedia entry on public choice (Shughart): the application of economics to political decision-making
+
 ---
 
 ## William Graham Sumner
@@ -19762,6 +19887,10 @@ Sumner is a citation anchor for [[in-group-out-group-tribalism|In-Group/Out-Grou
 
 - [[folkways|Folkways]] - the 1906 work whose we-group/out-group and ethnocentrism passages this wiki cites
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
+
+## Sources
+
+- [Folkways: We-Group, Out-Group, and Ethnocentrism (extract)](https://www.gutenberg.org/ebooks/24253) - Focused extract (secs 13-15) from W. G. Sumner's Folkways (1906): the we-group/out-group distinction and ethnocentrism
 
 ---
 
@@ -19826,6 +19955,10 @@ This is the wiki's cleanest statement of what is actually at stake in the war on
 - [[praxeology-of-privacy|The Praxeology of Privacy]] - the action-theoretic companion argument
 - [[ecash|eCash]] - the first engineering attempt to rebuild cash's secret right electronically
 - [[digital-euro|Digital Euro]] - The EU's retail CBDC project: a direct ECB liability with legal-tender status, bank-intermediated access, an ECB-set holding cap
+
+## Sources
+
+- [Your Secret Right to Cash](https://www.cypherpunkbooks.com/book/your-secret-right-to-cash) - Peter Van Valkenburgh argues that physical cash quietly guaranteed uncensorable, private transactions as a 'secret right' we never had to defend
 
 ---
 

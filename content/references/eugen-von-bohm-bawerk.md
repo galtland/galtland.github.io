@@ -3,7 +3,7 @@ title: "Eugen von Böhm-Bawerk"
 volatility: cold
 category: reference
 created: 2026-06-15
-updated: 2026-06-18
+updated: 2026-08-05
 verified: 2026-06-18
 tags: [eugen-von-bohm-bawerk, austrian-economics, capital-theory, time-preference, interest, roundaboutness, classical-canon]
 aliases: [Böhm-Bawerk, Bohm-Bawerk, Eugen von Böhm-Bawerk, Eugen Böhm von Bawerk, Böhm-Bawerkian]
@@ -48,3 +48,9 @@ Böhm-Bawerk is a lineage node: he is the origin of the capital-and-interest the
 - [[das-kapital|Capital]] - Marx's 1867 magnum opus. Chapter 1 grounds value in abstract human labour and socially necessary labour-time — the objective labor theory of value the Austrians reject.
 - [[karl-marx|Karl Marx]] - Author of Capital (1867) and the labor theory of value — value as socially necessary labour-time embodied in goods; the principal foil to the Austrian subjective theory of value.
 - [[principles-of-economics-menger|Principles of Economics (Menger)]] - Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, never a property inherent in the good
+
+## Sources
+
+- [The Positive Theory of Capital (Econlib Clean Full Text)](https://www.econlib.org/library/BohmBawerk/bbPTC.html) - Clean, proofread Library of Economics and Liberty (Econlib) edition of Böhm-Bawerk's The Positive Theory of Capital (William Smart translation)
+- [Capital and Interest: A Critical History of Economical Theory (Full Text Aggregate)](https://cdn.mises.org/Capital%20and%20Interest%20Eugen%20von%20Bohm-Bawerk_4.epub) - William Smart's 1890 translation of Bohm-Bawerk's Geschichte und Kritik der Kapitalzins-Theorien: the critical history of interest theories
+- [Karl Marx and the Close of His System (Full Text Aggregate)](https://cdn.mises.org/Karl%20Marx%20and%20the%20Close%20of%20His%20System.epub) - Alice Macdonald's 1898 translation of Bohm-Bawerk's Zum Abschluss des Marxschen Systems (1896)

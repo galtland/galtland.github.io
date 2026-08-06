@@ -3,7 +3,7 @@ title: "Samuel Edward Konkin III"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-08-05
 verified: 2026-06-14
 tags: [samuel-edward-konkin, agorism, counter-economics, market-anarchism, left-libertarian, strategy, libertarianism]
 aliases: [Konkin, Samuel Edward Konkin III, Samuel Konkin, SEK3]
@@ -37,3 +37,7 @@ Konkin anchors [[agorism-and-counter-economics|Agorism and Counter-Economics]] a
 - [[parallel-economy|The Parallel Economy]] - the counter-economic exit route his program feeds
 - [[paul-rosenberg|Paul Rosenberg]] - Engineer, privacy entrepreneur, and writer; author of A Lodging of Wayfaring Men (2007) and Production Versus Plunder; co-founder of Cryptohippie.
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
+
+## Sources
+
+- [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto) - Samuel Edward Konkin III's 1980 founding statement of agorism: the strategy of building the counter-economy

@@ -3,7 +3,7 @@ title: "Ideal Money and Asymptotically Ideal Money"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-08-05
 verified: 2026-06-14
 tags: [john-nash, ideal-money, monetary-theory, inflation, sound-money, hard-money, central-banking]
 aliases: [Ideal Money, Ideal Money and Asymptotically Ideal Money, Asymptotically Ideal Money]
@@ -28,3 +28,7 @@ This lecture is the wiki's evidence that the case against discretionary fiat inf
 
 - [[john-nash|John Nash]] - the author
 - [[ideal-money|Ideal Money]] - the concept node this lecture anchors from the non-Austrian side
+
+## Sources
+
+- [Ideal Money and Asymptotically Ideal Money](https://www.cypherpunkbooks.com/book/ideal-money-and-asymptotically-ideal-money) - John F. Nash's Ideal Money lectures: inflation-targeting fiat as a Keynesian evasion, and an asymptotically ideal money disciplined by an index of prices

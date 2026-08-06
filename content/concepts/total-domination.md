@@ -3,7 +3,7 @@ title: "Total Domination"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-05-31
+updated: 2026-08-05
 verified: 2026-05-31
 tags: [total-domination, hannah-arendt, totalitarianism, gulag, concentration-camps, ideology, terror, mass-society, non-libertarian]
 aliases: [total domination, totalitarian domination, domination not extraction]
@@ -64,3 +64,7 @@ This is a non-libertarian diagnostic category. Arendt does not derive market ana
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - primary Arendt source for total domination, camps, ideology, and terror
 - [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - participant-side companion source
 - [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - abridged Soviet camp-system documentation
+- [The Gulag Archipelago, Volume I: Parts I-II](https://archive.org/download/the-gulag-archipelago-vol-1-i-ii-solzhenitsyn/The-Gulag-Archipelago__vol1__I-II__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume I of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts I-II: the machinery of arrest, interrogation
+- [The Gulag Archipelago, Volume II: Parts III-IV](https://archive.org/download/the-gulag-archipelago-vol-2-iii-iv-solzhenitsyn/The-Gulag-Archipelago__vol2__III-IV__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume II of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts III-IV
+- [The Gulag Archipelago, Volume III: Parts V-VII](https://archive.org/download/the-gulag-archipelago-vol-3-v-vii-solzhenitsyn/The-Gulag-Archipelago__vol3__V-VII__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume III of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts V-VII: katorga, exile, Stalin's death
+- [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - OCR ingest of Hannah Arendt's On Violence, extracted from the Monoskop scan of Crises of the Republic; distinguishes power, strength, force, authority

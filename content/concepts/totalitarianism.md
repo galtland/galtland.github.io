@@ -3,7 +3,7 @@ title: "Totalitarianism"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-06-09
+updated: 2026-08-05
 verified: 2026-06-09
 tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, stalinism, gulag, total-domination, banality-of-evil, state, central-planning, evolution-of-the-state, non-libertarian]
 aliases: [totalitarian rule, ideology and terror]
@@ -104,3 +104,7 @@ The useful synthesis is limited: libertarian sources explain why state monopoly 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - Hayek comparison point for central planning, rule of law, and arbitrary power
 - [Anatomy of the State (Full Text Aggregate)](https://cdn.mises.org/Anatomy%20of%20the%20State.epub) - Rothbardian state-power comparator
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly comparison point for coercion-intensive state formation that should not be collapsed into totalitarianism
+- [The Gulag Archipelago, Volume I: Parts I-II](https://archive.org/download/the-gulag-archipelago-vol-1-i-ii-solzhenitsyn/The-Gulag-Archipelago__vol1__I-II__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume I of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts I-II: the machinery of arrest, interrogation
+- [The Gulag Archipelago, Volume II: Parts III-IV](https://archive.org/download/the-gulag-archipelago-vol-2-iii-iv-solzhenitsyn/The-Gulag-Archipelago__vol2__III-IV__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume II of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts III-IV
+- [The Gulag Archipelago, Volume III: Parts V-VII](https://archive.org/download/the-gulag-archipelago-vol-3-v-vii-solzhenitsyn/The-Gulag-Archipelago__vol3__V-VII__Solzhenitsyn_djvu.txt) - Unabridged OCR ingest of Volume III of Aleksandr Solzhenitsyn's The Gulag Archipelago, covering Parts V-VII: katorga, exile, Stalin's death
+- [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - OCR ingest of Hannah Arendt's On Violence, extracted from the Monoskop scan of Crises of the Republic; distinguishes power, strength, force, authority

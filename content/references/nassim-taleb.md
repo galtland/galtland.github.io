@@ -3,7 +3,7 @@ title: "Nassim Nicholas Taleb"
 volatility: cold
 category: reference
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-05
 verified: 2026-07-23
 tags: [nassim-taleb, minority-rule, skin-in-the-game, antifragile, incerto, complex-systems, decentralization, localism, risk, via-negativa, lindy-effect]
 aliases: [Nassim Nicholas Taleb, Nassim Taleb, Taleb, N. N. Taleb, NNT]
@@ -42,3 +42,4 @@ Taleb is not a member of the tradition this wiki maps, and the divergences matte
 ## Sources
 
 - [The Most Intolerant Wins: The Dominance of the Stubborn Minority (Full Text)](https://fooledbyrandomness.com/minority.pdf ; SHA-256 fe281343bc73d4a6b6b2180b5786d99fdcefc1e14508f28158fabb8579accd37 ; preliminary-draft chapter of Skin in the Game (Random House, 2018), 8 pp.) - the *Skin in the Game* chapter this page cites for the minority rule and the one courage quote; the wider skin-in-the-game and localism material is attributed in prose to *Antifragile* and *Skin in the Game*
+- [dpc (@dpc_pw) — X Corpus, Ideological Extract (2022–2026)](https://x.com/dpc_pw) - Citable extract from a 3,769-post archive of @dpc_pw (Apr 2022 – Jul 2026), a Rust/Bitcoin/Fedimint developer who publicly self-describes as an ex-libertarian

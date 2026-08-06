@@ -3,7 +3,7 @@ title: "Natural Law and Natural Order"
 volatility: cold
 category: concept
 created: 2026-06-09
-updated: 2026-06-25
+updated: 2026-08-05
 verified: 2026-06-25
 tags: [natural-law, natural-order, natural-rights, natural-justice, classical-canon, aristotle, cicero, thomas-aquinas, hugo-grotius, john-locke, lysander-spooner, rothbard, hoppe, jusnaturalism, classical-liberalism, libertarianism]
 aliases: [natural law, natural order, natural rights, natural justice, jus naturale, lex naturalis, the law of nature, jusnaturalism]
@@ -102,3 +102,4 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [Pufendorf, The Whole Duty of Man (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - Book I, the law of nature grounded in sociality
 - [The Declaration of Independence (Full Text)](https://www.gutenberg.org/ebooks/1) - the 1776 statement of unalienable rights, consent, and revolution
 - [Paine, Rights of Man (Full Text)](https://www.gutenberg.org/ebooks/3742) - natural rights vs. Burke; no generation binds the next
+- [The Law (Full Text Aggregate)](https://mises.org/online-book/law) - Consolidated full-text ingest of Mises Institute's online edition of The Law, aggregated from 1 reading-order pages

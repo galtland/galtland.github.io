@@ -3,7 +3,7 @@ title: "The Snowden Disclosures"
 volatility: warm
 category: concept
 created: 2026-07-11
-updated: 2026-08-03
+updated: 2026-08-05
 verified: 2026-08-03
 tags: [snowden, nsa, section-215, bulk-collection, mass-surveillance, fisa, pclob, aclu-v-clapper, usa-freedom-act, whistleblowing, cypherpunk, privacy]
 aliases: [The Snowden Disclosures, Snowden disclosures, Snowden revelations, Edward Snowden, 2013 disclosures]
@@ -81,3 +81,9 @@ Nor did the documents prove a Stasi. PCLOB, naming the danger that bulk data "wi
 - [[of-cypherpunks-and-sousveillance|Of Cypherpunks and Sousveillance]] - Snowden and WikiLeaks as the cypherpunk counter-move: watching the watchers
 - [[surveillance-capitalism|Surveillance Capitalism]] - the commercial dragnet whose infrastructure state collection rides on
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
+
+## Sources
+
+- [PCLOB Report on the Telephone Records Program (Section 215) and FISC Operations](https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf) - The Privacy and Civil Liberties Oversight Board's 23 January 2014 report on the NSA's bulk telephone-records program conducted under Section 215 of the USA
+- [ACLU v. Clapper, 785 F.3d 787 (2d Cir. 2015) — opinion](https://www.govinfo.gov/content/pkg/USCOURTS-ca2-14-00042/pdf/USCOURTS-ca2-14-00042-0.pdf) - The Second Circuit's 7 May 2015 opinion (Lynch, J.) holding that the NSA's bulk telephone-metadata program exceeded the authority granted by Section 215
+- [Edward Snowden — Testimony to the European Parliament LIBE Committee (7 March 2014)](https://www.europarl.europa.eu/document/activities/cont/201403/20140307ATT80674/20140307ATT80674EN.pdf) - Snowden's written testimony to the European Parliament's LIBE committee inquiry on mass surveillance (7 March 2014): his account of why he disclosed

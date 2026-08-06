@@ -3,7 +3,7 @@ title: "The North Atlantic Treaty"
 volatility: warm
 category: reference
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-05
 verified: 2026-07-08
 tags: [nato, treaties, defense-spending, article-3, article-5, collective-defense, ratchet, primary-source]
 aliases: [The North Atlantic Treaty, North Atlantic Treaty, NATO treaty, Washington Treaty, Wales Summit Declaration]
@@ -37,3 +37,8 @@ The sequence Article 3 → Wales 2% → 3.5% by 2032 is the cleanest documentary
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - the analytic frame for alliance-set spending floors
 - [[anatomy-of-the-state|Anatomy of the State]] - the ratchet dynamic in Rothbard's terms
 - [[war-and-state-formation|War and State Formation]] - the historical thread these documents extend
+
+## Sources
+
+- [The North Atlantic Treaty (1949)](https://www.nato.int/cps/en/natolive/official_texts_17120.htm) - Founding treaty of the North Atlantic Treaty Organization, signed in Washington on 4 April 1949 by twelve states
+- [Wales Summit Declaration (5 September 2014)](https://www.nato.int/cps/en/natohq/official_texts_112964.htm) - NATO heads-of-state declaration issued in Wales on 5 September 2014, in the wake of Russia's intervention in Ukraine

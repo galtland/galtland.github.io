@@ -3,7 +3,7 @@ title: "Fog of CryptoWar"
 volatility: cold
 category: reference
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-05
 verified: 2026-07-08
 tags: [jonathan-logan, smuggler, crypto-wars, going-dark, encryption, key-escrow, lawful-hacking, backdoors, surveillance, cypherpunk, opsec]
 aliases: [Fog of CryptoWar, Fog of Crypto War]
@@ -36,3 +36,7 @@ This is the wiki's primary source on [[crypto-wars-2|Crypto War 2]] and the corr
 - [[cypherpunk|Cypherpunk]] - the movement whose strategy the essay redirects
 - [[censorship-resistance|Censorship Resistance]] - the property whose practical limits the essay stress-tests
 - [[crypto-wars-2|Crypto Wars 2]] - The second state campaign for plaintext (2010s–present): not banning encryption but compelling vendors — signed attack code, liability levers, detection orders — at the platform chokepoints.
+
+## Sources
+
+- [Fog of CryptoWar](https://www.cypherpunkbooks.com/book/fog-of-cryptowar) - Jonathan 'smuggler' Logan's 2017 essay on the renewed crypto wars: why backdoor and key-escrow demands recur, the asymmetry between surveillance and privacy

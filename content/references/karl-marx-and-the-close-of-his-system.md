@@ -3,7 +3,7 @@ title: "Karl Marx and the Close of His System"
 volatility: cold
 category: reference
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-08-05
 verified: 2026-06-15
 tags: [eugen-von-bohm-bawerk, austrian-economics, karl-marx, marxism, labor-theory-of-value, value-theory, critique]
 aliases: [Karl Marx and the Close of His System, Zum Abschluss des Marxschen Systems]
@@ -34,3 +34,7 @@ This is the wiki's primary source for the Austrian critique of Marxian economics
 - [[das-kapital|Capital]] - Marx's 1867 magnum opus. Chapter 1 grounds value in abstract human labour and socially necessary labour-time — the objective labor theory of value the Austrians reject.
 - [[karl-marx|Karl Marx]] - Author of Capital (1867) and the labor theory of value — value as socially necessary labour-time embodied in goods; the principal foil to the Austrian subjective theory of value.
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
+
+## Sources
+
+- [Karl Marx and the Close of His System (Full Text Aggregate)](https://cdn.mises.org/Karl%20Marx%20and%20the%20Close%20of%20His%20System.epub) - Alice Macdonald's 1898 translation of Bohm-Bawerk's Zum Abschluss des Marxschen Systems (1896)

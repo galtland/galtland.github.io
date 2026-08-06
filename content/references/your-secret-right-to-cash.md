@@ -3,7 +3,7 @@ title: "Your Secret Right to Cash"
 volatility: cold
 category: reference
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-05
 verified: 2026-07-08
 tags: [peter-van-valkenburgh, cash, financial-privacy, censorship-resistance, surveillance, secret-rights, consequentialism, war-on-cash]
 aliases: [Your Secret Right to Cash, secret right to cash, secret rights]
@@ -36,3 +36,7 @@ This is the wiki's cleanest statement of what is actually at stake in the war on
 - [[praxeology-of-privacy|The Praxeology of Privacy]] - the action-theoretic companion argument
 - [[ecash|eCash]] - the first engineering attempt to rebuild cash's secret right electronically
 - [[digital-euro|Digital Euro]] - The EU's retail CBDC project: a direct ECB liability with legal-tender status, bank-intermediated access, an ECB-set holding cap
+
+## Sources
+
+- [Your Secret Right to Cash](https://www.cypherpunkbooks.com/book/your-secret-right-to-cash) - Peter Van Valkenburgh argues that physical cash quietly guaranteed uncensorable, private transactions as a 'secret right' we never had to defend

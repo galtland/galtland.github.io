@@ -3,7 +3,7 @@ title: "Tor"
 volatility: warm
 category: concept
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-08-05
 verified: 2026-07-13
 tags: [tor, onion-routing, anonymity, censorship-resistance, hidden-services, exit-nodes, jurisdictional-arbitrage, cypherpunk, privacy]
 aliases: [Tor, The Onion Router, onion routing, onion services, hidden services]
@@ -51,3 +51,7 @@ This is [[crypto-anarchy|Crypto Anarchy]] compiled into routing, and it is why T
 - [[crypto-wars-2|Crypto Wars 2]] - the chokepoint conflict in which Tor is the tool the usual pressure points cannot easily reach
 - [[jurisdictional-competition|Jurisdictional Competition]] - inter-jurisdictional arbitrage, which a Tor circuit performs at the level of individual relays
 - [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]] - the 2004 design paper and full technical walkthrough
+
+## Sources
+
+- [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf) - Roger Dingledine, Nick Mathewson, and Paul Syverson present Tor as a practical second-generation onion-routing network for low-latency anonymous TCP communication

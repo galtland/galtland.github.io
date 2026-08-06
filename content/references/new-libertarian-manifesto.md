@@ -3,7 +3,7 @@ title: "New Libertarian Manifesto"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-08-05
 verified: 2026-06-14
 tags: [samuel-edward-konkin, agorism, counter-economics, market-anarchism, strategy, black-market, parallel-economy]
 aliases: [New Libertarian Manifesto, NLM]
@@ -28,3 +28,7 @@ This is the wiki's canonical source for the **exit** route in the strategy debat
 
 - [[samuel-edward-konkin-iii|Samuel Edward Konkin III]] - the author
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the concept node this work anchors
+
+## Sources
+
+- [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto) - Samuel Edward Konkin III's 1980 founding statement of agorism: the strategy of building the counter-economy

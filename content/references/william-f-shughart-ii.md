@@ -3,7 +3,7 @@ title: "William F. Shughart II"
 volatility: cold
 category: reference
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-08-05
 verified: 2026-06-13
 tags: [william-f-shughart-ii, public-choice, rational-ignorance, collective-action, rent-seeking, government-failure, economics]
 aliases: [Shughart, William F. Shughart, William Shughart, William F. Shughart II]
@@ -42,3 +42,7 @@ Shughart is a citation anchor, not a tradition node: the encyclopedia entry give
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[james-buchanan|James Buchanan]]
+
+## Sources
+
+- [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) - Econlib's Concise Encyclopedia entry on public choice (Shughart): the application of economics to political decision-making
