@@ -3,7 +3,7 @@ title: "America's Great Depression"
 volatility: warm
 category: reference
 created: 2026-05-06
-updated: 2026-08-05
+updated: 2026-08-07
 verified: 2026-06-18
 tags: [rothbard, great-depression, austrian-economics, business-cycle, economic-history, hoover, monetary-history]
 aliases: [AGD, America's Great Depression, Rothbard on the Depression]
@@ -18,17 +18,17 @@ short: "Rothbard's 1963 Austrian Business Cycle Theory account of the 1929 crash
 
 ## What the Book Argues
 
-The theoretical Part I is a compact restatement of the Mises-Hayek business-cycle framework: credit expansion by the banking system pushes the interest rate below the rate at which voluntary saving and time-preference would equilibrate, entrepreneurs are induced into capital-intensive investments that the underlying real savings cannot sustain, and the bust is the corrective phase in which the malinvestments are liquidated. Rothbard then defends this account against alternative explanations of the cycle (Keynesian, monetarist, secular stagnation, over-indebtedness, under-consumption) before turning to the historical chapters.
+The theoretical Part I is a compact restatement of the Mises-Hayek business-cycle framework: credit expansion by the banking system pushes the interest rate below the rate at which voluntary saving and time-preference would equilibrate, entrepreneurs are induced into capital-intensive investments that the underlying real savings cannot sustain, and the bust is the corrective phase in which the malinvestments are liquidated. Rothbard then defends this account against alternative explanations of the cycle — Keynesian criticisms in their own chapter, then general overproduction, underconsumption, the acceleration principle, Hansen's dearth-of-investment-opportunities thesis, Schumpeter's business-cycle theory, qualitative credit doctrines, and overoptimism/overpessimism before turning to the historical chapters.
 
 Parts II–III argue that the 1920s were a period of substantial credit inflation engineered by the [[federal-reserve|Federal Reserve]] under Benjamin Strong, that the inflation produced the predictable structural distortions, and that the 1929 crash was the inevitable correction. Rothbard's most distinctive historical claim is then about Hoover. He documents that Hoover (a) pressured business to maintain wage rates after the crash, blocking the wage adjustment that would normally clear labor markets in a depression, (b) launched a substantial public-works program, (c) supported farm price-support schemes, (d) restricted immigration, and (e) attempted credit expansion to "reflate" the economy. In Rothbard's reading, this was the launch of the modern interventionist policy regime, and the 1929–1932 record illustrates the consequences.
 
 ## Why It Matters in This Wiki
 
-This is the wiki's primary historical-empirical application of [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. The theory itself is set out in Hayek's [[prices-and-production|Prices and Production]] and integrated into Mises's [[human-action|Human Action]]; [[americas-great-depression|America's Great Depression]] is what it looks like applied to a single, world-historical episode. The book also fills a gap in the wiki's Rothbard corpus: until now Rothbard appeared as economist ([[man-economy-and-state|Man, Economy, and State]]), political theorist ([[for-a-new-liberty|For a New Liberty]]), and ethicist ([[the-ethics-of-liberty|The Ethics of Liberty]]), but not as economic historian. The book is also the source for the standard Austrian retort to the Hoover-did-nothing reading of 1929–1932 that Keynesian and progressive narratives rest on.
+This is the wiki's primary historical-empirical application of [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. The theory itself is set out in Hayek's [[prices-and-production|Prices and Production]] and integrated into Mises's [[human-action|Human Action]]; [[americas-great-depression|America's Great Depression]] is what it looks like applied to a single, world-historical episode. The book also fills a gap in the wiki's Rothbard corpus: until now Rothbard appeared as economist ([[man-economy-and-state|Man, Economy, and State]]), political theorist ([[for-a-new-liberty|For a New Liberty]]), and ethicist ([[the-ethics-of-liberty|The Ethics of Liberty]]), but not as economic historian. The book is also the source for the standard Austrian retort to the Hoover-did-nothing reading of 1929–1932 — a reading Rothbard sets himself against; how far it actually characterises Keynesian or progressive scholarship is not something the cited sources establish.
 
 ## Scope of the Full-Text Ingest
 
-The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 pages. The volume contains Paul Johnson's introduction to the fifth edition (2000) and Rothbard's own introductions to the first (1963), 2nd (1972), 3rd (1975), and 4th (1983) editions, plus the three-part text and bibliography. (Rothbard died in 1995, so the 2000 introduction is Johnson's, not his.) Each of Rothbard's successive introductions adds his commentary on the inflationary recessions of the 1970s and early 1980s, treating them as further confirmations of the framework.
+The current raw source is the official Mises Institute EPUB, re-extracted 2026-06-17, which superseded the earlier PDF extraction. The volume contains Paul Johnson's introduction to the fifth edition (2000) and Rothbard's own introductions to the first (1963), 2nd (1972), 3rd (1975), and 4th (1983) editions, plus the three-part text, the appendix on government and the national product, and the index. (Rothbard died in 1995, so the 2000 introduction is Johnson's, not his.) Each of Rothbard's successive introductions adds his commentary on the downturn current when he wrote it — the 1969-71 inflationary recession for the second edition, the 1973-75 inflationary depression for the third, and a contraction he judged at least as severe for the fourth — treating them as further confirmations of the framework.
 
 ## Relation to Other Texts in This Wiki
 
@@ -45,11 +45,11 @@ The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 page
 - [[for-a-new-liberty|For a New Liberty]] - movement-facing summary of the same business-cycle argument
 - [[state-power-and-intervention|State Power and Intervention]] - the policy critique this book historicizes
 - [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate designed to measure the medium of exchange better than M1 or M2.
-- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
-- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components
+- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be fully covered by money proper in reserve
+- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: why M2's time-deposit and money-fund components misstate the medium of exchange
 - [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] - Rothbard's claim that the boom-bust cycle is generated by bank credit expansion
-- [[joseph-t-salerno|Joseph T. Salerno]] - Austrian-school monetary economist in the Mises-Rothbard tradition; Professor of
-- [[the-mystery-of-banking|The Mystery of Banking]] - Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, banking, and
+- [[joseph-t-salerno|Joseph T. Salerno]] - Austrian-school monetary economist in the Mises-Rothbard tradition, known for formalizing the True Money Supply
+- [[the-mystery-of-banking|The Mystery of Banking]] - Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, banking, and central banking, making the popular case for 100% reserves
 
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
@@ -63,5 +63,5 @@ The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 page
 
 ## Sources
 
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) - full Mises Institute 5th-edition PDF as a wiki-ingestable aggregate
-- [America's Great Depression](https://mises.org/library/book/americas-great-depression) - Mises library page metadata and descriptive framing
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) - full Mises Institute EPUB edition as a wiki-ingestable aggregate
+- [America's Great Depression](https://mises.org/library/book/americas-great-depression) - Mises library page metadata and descriptive framing for the volume

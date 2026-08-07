@@ -3,34 +3,34 @@ title: "Eugen von Böhm-Bawerk"
 volatility: cold
 category: reference
 created: 2026-06-15
-updated: 2026-08-05
+updated: 2026-08-07
 verified: 2026-06-18
 tags: [eugen-von-bohm-bawerk, austrian-economics, capital-theory, time-preference, interest, roundaboutness, classical-canon]
 aliases: [Böhm-Bawerk, Bohm-Bawerk, Eugen von Böhm-Bawerk, Eugen Böhm von Bawerk, Böhm-Bawerkian]
 confidence: medium
-summary: "Author reference for Eugen von Böhm-Bawerk, the second-generation Austrian economist whose capital-and-interest theory — roundabout production, time preference, and capital as reducible to land, labor, and time — is the lineage Mises and Rothbard carry into this wiki's capital concept."
+summary: "Author reference for Eugen von Böhm-Bawerk, the second-generation Austrian economist whose capital-and-interest theory — roundabout production, time preference, and capital as reducible to land and labour applied over time — is the lineage Mises and Rothbard carry into this wiki's capital concept."
 short: "Second-generation Austrian economist whose capital-and-interest theory of roundabout production and time preference feeds directly into Mises and Rothbard."
 ---
 
 # Eugen von Böhm-Bawerk
 
-> Böhm-Bawerk enters this wiki as the source of the Austrian theory of capital and interest: that production is roundabout, that interest is the agio (premium) on present over future goods rooted in time preference, and that capital is no independent creative force but reducible to land, labor, and time. Mises and Rothbard inherit and restate this line.
+> Böhm-Bawerk enters this wiki as the source of the Austrian theory of capital and interest: that production is roundabout, that interest is the agio (premium) on present over future goods rooted in time preference, and that capital is no independent creative force but the product of land and labour applied over time. Mises and Rothbard inherit and restate this line.
 
 ## Biographical Frame
 
-Eugen von Böhm-Bawerk (1851-1914) was an Austrian economist, a student of [[carl-menger|Carl Menger]] and — with Friedrich von Wieser — a founder of the second generation of the [[austrian-economics|Austrian School]]. He served three terms as Austria's finance minister and taught the seminar that trained [[ludwig-von-mises|Ludwig von Mises]]. His major works are *Capital and Interest* and *The Positive Theory of Capital*, and he is also known for the critique [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]], which attacked the labor theory of value.
+Eugen von Böhm-Bawerk (1851-1914) was an Austrian economist who built on [[carl-menger|Carl Menger]]'s marginalism and was — with Friedrich von Wieser — a founder of the second generation of the [[austrian-economics|Austrian School]]. He served three terms as Austria's finance minister and taught the seminar that trained [[ludwig-von-mises|Ludwig von Mises]]. His major works are *Capital and Interest* and *The Positive Theory of Capital*, and he is also known for the critique [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]], which attacked the labor theory of value.
 
 His enduring contributions are the **roundabout** structure of production (more productive methods take more time and require capital to bridge the wait), the **time-preference / agio** theory of interest (interest arises because present goods are valued above future goods), and the insistence that capital is a produced, dependent factor — the seeds of the [[capital|capital]] account this wiki draws from Rothbard.
 
 ## Works Present Here
 
-All three of his major works are ingested as full-text sources — *The Positive Theory of Capital* as a clean, verbatim-quotable Econlib edition, the other two as uncorrected scans (confirm wording before quoting):
+Three of his works are ingested as full-text sources — *The Positive Theory of Capital* as a clean, verbatim-quotable Econlib edition, the other two as clean Mises Institute EPUB re-extractions that superseded the earlier Internet Archive OCR scans:
 
 - [[the-positive-theory-of-capital|The Positive Theory of Capital]] (Smart trans.) — capital, the roundabout structure of production, and the agio/time-preference theory of interest.
 - [[capital-and-interest|Capital and Interest]] (Smart, 1890) — the critical history of interest theories, Vol. I of *Kapital und Kapitalzins*.
-- [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]] (1898) — the critique of Marx's labor theory of value.
+- [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]] (1896; Macdonald trans. 1898) — the critique of Marx's labor theory of value.
 
-His theory is also carried second-hand by [[murray-n-rothbard|Rothbard]] in [[man-economy-and-state|Man, Economy, and State]], which credits Böhm-Bawerk for the reducibility of capital to land, labor, and time and borrows his stone-throwing analogy for capital's dependent role.
+His theory is also carried second-hand by [[murray-n-rothbard|Rothbard]] in [[man-economy-and-state|Man, Economy, and State]], which credits Böhm-Bawerk for the reducibility of capital to land and labour applied over time and borrows his stone-throwing analogy for capital's dependent role.
 
 ## Place in This Wiki
 
@@ -51,6 +51,7 @@ Böhm-Bawerk is a lineage node: he is the origin of the capital-and-interest the
 
 ## Sources
 
+- [Man, Economy, and State (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's restatement of the capital theory, including the passage crediting Böhm-Bawerk and the stone-throwing analogy this page refers to
 - [The Positive Theory of Capital (Econlib Clean Full Text)](https://www.econlib.org/library/BohmBawerk/bbPTC.html) - Clean, proofread Library of Economics and Liberty (Econlib) edition of Böhm-Bawerk's The Positive Theory of Capital (William Smart translation)
 - [Capital and Interest: A Critical History of Economical Theory (Full Text Aggregate)](https://cdn.mises.org/Capital%20and%20Interest%20Eugen%20von%20Bohm-Bawerk_4.epub) - William Smart's 1890 translation of Bohm-Bawerk's Geschichte und Kritik der Kapitalzins-Theorien: the critical history of interest theories
 - [Karl Marx and the Close of His System (Full Text Aggregate)](https://cdn.mises.org/Karl%20Marx%20and%20the%20Close%20of%20His%20System.epub) - Alice Macdonald's 1898 translation of Bohm-Bawerk's Zum Abschluss des Marxschen Systems (1896)

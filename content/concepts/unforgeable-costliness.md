@@ -3,7 +3,7 @@ title: "Unforgeable Costliness"
 volatility: warm
 category: concept
 created: 2026-05-28
-updated: 2026-08-06
+updated: 2026-08-07
 verified: 2026-06-18
 tags: [money, bitcoin, nick-szabo, saifedean-ammous, proof-of-work, stock-to-flow, regression-theorem, austrian-economics]
 aliases: [unforgeable costliness, costly scarcity, costly-to-create money]
@@ -52,7 +52,7 @@ Bitcoin's distinctive claim is that computational costliness, capped issuance, p
 
 ## Limits
 
-Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; Ammous supplies the parallel hardness and stock-to-flow vocabulary rather than the phrase itself, and the Misesian regression link is explicit enough to support the bridge. The limits are interpretive: "unforgeable costliness" is a useful editorial primitive, not a complete theory of money by itself. A medium can be costly and still fail if it is not liquid, divisible, recognizable, secure, or socially adopted.
+Confidence is medium. The phrase "unforgeably costly" is directly Szabo's; Ammous supplies the parallel hardness and stock-to-flow vocabulary rather than the phrase itself, and the Misesian regression link is explicit enough to support the bridge. The limits are interpretive: "unforgeable costliness" is a useful editorial primitive, not a complete theory of money by itself. A medium can be costly and still fail if it is not liquid, divisible, recognizable, secure, or socially adopted.
 
 ## See Also
 

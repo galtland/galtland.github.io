@@ -3,7 +3,7 @@ title: "Proof of Work"
 volatility: cold
 category: concept
 created: 2026-05-27
-updated: 2026-08-05
+updated: 2026-08-07
 verified: 2026-06-18
 tags: [bitcoin, proof-of-work, hashcash, bit-gold, satoshi-nakamoto, cypherpunk]
 aliases: [PoW, proof-of-work, hash-based proof of work, cost function]
@@ -20,7 +20,7 @@ short: "A publicly verifiable cost function used first to meter access to networ
 
 [[adam-back|Adam Back]]'s [[hashcash|Hashcash]] paper formalizes proof of work as a denial-of-service countermeasure. The problem is asymmetry: sending email, posting to a remailer, or opening network connections can be cheap for the attacker and costly for the recipient. Hashcash changes the price of access. A sender must compute a token tied to the service name and challenge; the receiver can verify it with little work.
 
-Section 3 of the Hashcash paper defines it as non-interactive, publicly auditable, and trapdoor-free. The work is probabilistic: the sender searches for a value that makes a hash meet a target, while the receiver checks the result. Section 4 extends the idea to interactive settings where a server can issue challenges and raise the work factor under load. Section 6 lists later applications, including remailer abuse resistance, Usenet flooding, and [[wei-dai|Wei Dai]]'s b-money.
+Section 3 of the Hashcash paper defines it as non-interactive, publicly auditable, and trapdoor-free. The work is probabilistic: the sender searches for a value that makes a hash meet a target, while the receiver checks the result. Section 4 extends the idea to interactive settings where a server can issue challenges and raise the work factor under load. Remailer DoS throttling and email-spam deterrence were the two applications proposed from the start; Section 7 collects the ones developed after publication, including hashcash-cookies, Usenet flooding via mail2news networks, and [[wei-dai|Wei Dai]]'s b-money.
 
 Hashcash was not designed as money in its first use. It was a metering device. But that metering device had a monetary shape: scarce because costly, cheap to assay, and portable as a digital proof.
 
@@ -44,7 +44,7 @@ This makes proof of work a direct answer to [[trusted-third-parties-as-security-
 
 ## Power Projection
 
-[[jason-lowery|Lowery]]'s [[softwar|Softwar]] and [[power-projection|Power Projection]] give proof of work a national-security frame. In that reading, Bitcoin projects physical power into cyberspace by making control over ledger history depend on energy expenditure and hardware competition. This article does not need Lowery's full strategic thesis to define proof of work, but the connection is important: proof of work is not merely "math." It is a conversion of physical resources into a public ordering signal.
+[[jason-lowery|Lowery]]'s [[softwar|Softwar]] and [[power-projection|Power Projection]] give proof of work a national-security frame. In that reading, Bitcoin projects physical power into cyberspace by making control over ledger history depend on energy expenditure and hardware competition. This article does not need Lowery's full strategic thesis to define proof of work, but the connection is important: proof of work is not merely "math". It is a conversion of physical resources into a public ordering signal.
 
 The lineage is high confidence. Back's Hashcash is explicitly cited in Section 4 and reference [6] of the Bitcoin whitepaper. Szabo's Bit Gold uses proof of work, timestamping, and a title registry in a form that plainly anticipates parts of Bitcoin's design, even though Bitcoin's whitepaper cites b-money rather than Bit Gold.
 
@@ -97,6 +97,7 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
-- [Hashcash: A Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) - proof-of-work cost-function design, especially Sections 3, 4, and 6
+- [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - Lowery's thesis reading proof of work as physical power projection — the source for the Power Projection section
+- [Hashcash: A Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) - proof-of-work cost-function design, especially Sections 3, 4, and 7
 - [Bit Gold](https://nakamotoinstitute.org/library/bit-gold/) - Szabo's costly digital strings, timestamping, and title-registry proposal
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi's proof-of-work timestamp network, longest-chain rule, incentives, and security calculations

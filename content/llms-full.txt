@@ -2136,7 +2136,7 @@ Category: concept
 
 ## Going Dark: The Demand Survives Its Defeat
 
-Crypto War 1 — the fight recorded in [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] — closed with strong cryptography legal to publish and ship: export controls were relaxed, key escrow was abandoned, and the [[code-as-speech|Code as Speech]] litigation made prior restraint of encryption source code constitutionally radioactive. What changed in the 2010s was deployment. After the 2013 Snowden disclosures, device encryption and end-to-end messaging moved from activist tooling to shipping defaults on billions of phones — and the FBI and DOJ answered with the Going Dark frame: warrants that issue but return only ciphertext. The San Bernardino attack of December 2015 gave the frame its flagship case, and officials converged across jurisdictions — a UK Home Secretary, in Logan's collection of specimens, declared that "End-2-End encryption is completely unacceptable."
+Crypto War 1 — the fight recorded in [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] — closed with strong cryptography legal to publish and ship: export controls were relaxed, key escrow was abandoned, and the [[code-as-speech|Code as Speech]] litigation made prior restraint of encryption source code constitutionally radioactive. What changed in the 2010s was deployment. After the 2013 Snowden disclosures, device encryption and end-to-end messaging moved from activist tooling to shipping defaults on billions of phones — and the FBI and DOJ answered with the Going Dark frame: warrants that issue but return only ciphertext. The San Bernardino attack of December 2015 gave the frame its flagship case, and officials converged across jurisdictions — a UK Home Secretary who appears in Logan's collection of specimens, in his rendering, declaring "End-2-End encryption is completely unacceptable" — the wording is Logan's; this wiki holds no transcript of the remark itself.
 
 The contested point deserves its due: law enforcement is not wrong that strong default encryption changes investigations — a locked phone or end-to-end messenger can defeat a warrant in a way earlier carrier-mediated systems did not. The libertarian and cypherpunk objection is that every proposed remedy changes the security architecture for everyone; and the politically strongest cases for access — terrorism, child exploitation — are precisely the cases most useful for normalizing general-purpose access machinery.
 
@@ -2156,25 +2156,27 @@ On 16 February 2016, a federal magistrate, acting ex parte under the All Writs A
 >
 > — Tim Cook, "A Message to Our Customers"
 
-Such a tool, Cook wrote, "would be the equivalent of a master key, capable of opening hundreds of millions of locks". And he named the legal vector: "Rather than asking for legislative action through Congress, the FBI is proposing an unprecedented use of the All Writs Act of 1789 to justify an expansion of its authority."
+Cook reached for an analogy to say what such a tool amounts to: "In the physical world, it would be the equivalent of a master key, capable of opening hundreds of millions of locks — from restaurants and banks to stores and homes." And he named the legal vector: "Rather than asking for legislative action through Congress, the FBI is proposing an unprecedented use of the All Writs Act of 1789 to justify an expansion of its authority."
 
 The case never resolved. On 28 March 2016 the order was vacated as moot after the FBI obtained access to the phone through a third party. No precedent was set; the gap was closed by the exploit market instead — lawful hacking, one of Logan's predicted routes.
 
 ## EARN IT: The Lever That Never Names Encryption
 
-The EARN IT Act (S. 3398, 116th Congress, introduced March 2020) is the legislative version of the same maneuver. Its visible machinery is child-protection process: a 19-member National Commission on Online Child Sexual Exploitation Prevention, chaired by the Attorney General, develops "recommended best practices" that providers "may choose to implement". The compulsion sits one section over. Section 6 — *Earning Immunity* — strips Section 230 protection from providers for CSAM claims, exposing them to state prosecution and civil suits under a recklessness standard, unless the provider certifies compliance with the commission's practices or has implemented "reasonable measures". The word encryption appears nowhere in the bill; its rule of construction even disclaims requiring providers to "search, screen, or scan" for the material at all.
+The EARN IT Act was introduced in 2020 as S. 3398 and never became law; it died in the 116th Congress and has been reintroduced since. What follows describes the bill's mechanism, not operative statute.
+
+The EARN IT Act (S. 3398, 116th Congress, introduced March 2020) is the legislative version of the same maneuver. Its visible machinery is child-protection process: a 19-member National Commission on Online Child Sexual Exploitation Prevention, chaired by the Attorney General, develops "recommended best practices" that providers "may choose to implement". The compulsion sits one section over. Section 6 — *Earning Immunity* — strips Section 230 protection from providers for CSAM claims, exposing them to state prosecution and to civil suits in which the bill substitutes a recklessness standard for the statute's knowledge requirement, unless the provider certifies compliance with the commission's practices — which bind only once Congress enacts a bill containing them under the expedited procedures the Act sets up — or has implemented "reasonable measures". The word encryption appears nowhere in the bill; its rule of construction even disclaims requiring providers to "search, screen, or scan" for the material at all.
 
 That double absence is the contention. On its face nothing forbids end-to-end encryption — the bill's defenders say exactly that. The critics' reading, and this wiki's, is structural: a provider whose encryption blinds it to user content is a provider a plaintiff can call reckless, and the body defining diligence is chaired by the government's chief demander of plaintext; the bill assembles an encryption mandate entirely from liability exposure, deniable at every joint. Immunity is no longer a right; it is earned — and the price-setter wants plaintext.
 
 ## Chat Control: Conscripting the Endpoint
 
-The EU built the same machine from regulatory parts. COM(2022) 209 final (11 May 2022), "laying down rules to prevent and combat child sexual abuse" — universally, Chat Control — creates detection orders: on a finding of "significant risk", an authority can require a hosting or interpersonal-communications provider to install and operate technologies detecting known and new CSAM and grooming, against indicator databases run by a new EU Centre. The proposal insists the obligation is technology-neutral — measures apply "regardless of the technologies used by the providers concerned", precisely to "remain technologically neutral, and avoid circumvention of the detection obligations" — and, in the same recital, praises what it declines to exempt:
+The EU proposed the same machine from regulatory parts. COM(2022) 209 final (11 May 2022), "laying down rules to prevent and combat child sexual abuse" — universally, Chat Control — creates detection orders: a "significant risk" finding is the trigger, though the proposal states that "the finding of such a significant risk should in itself be insufficient to justify the issuance of a detection order" and requires that the reasons for the order "outweigh negative consequences for the rights and legitimate interests of all parties affected, having regard in particular to the need to ensure a fair balance between the fundamental rights of those parties". Where that balance is struck, a judicial or independent administrative authority can require a hosting or interpersonal-communications provider to install and operate technologies detecting known and new CSAM, against indicator databases run by a new EU Centre. Grooming detection is narrower: Article 7(7) reaches only providers that qualify as interpersonal-communications services. The proposal insists the obligation is technology-neutral — measures apply "regardless of the technologies used by the providers concerned", precisely to "remain technologically neutral, and avoid circumvention of the detection obligations" — and, in the same recital, praises what it declines to exempt:
 
 > "That includes the use of end-to-end encryption technology, which is an important tool to guarantee the security and confidentiality of the communications of users, including those of children."
 >
 > — European Commission, *COM(2022) 209 final*, recital 26
 
-An end-to-end encrypted service has no middle where detection can happen. The structural inference — this wiki's reading, and the core of the proposal's public controversy — is that a provider under a detection order must scan on the device, before encryption (client-side scanning), or stop encrypting end to end. The proposal never draws that conclusion itself, though it concedes that grooming detection "requires automatically scanning through texts in interpersonal communications". The drafting pattern will be familiar from the [[digital-euro|Digital Euro]]: a solemn assurance about one use of the machine — encryption is "an important tool"; the digital euro "should not be programmable money" — atop an architecture whose mandates the assurance cannot survive.
+An end-to-end encrypted service has no middle where detection can happen. The structural inference — this wiki's reading, and the core of the proposal's public controversy — is that a provider under a detection order must scan on the device, before encryption (client-side scanning), or stop encrypting end to end. The proposal never draws that conclusion itself, though it concedes that grooming detection "requires automatically scanning through texts in interpersonal communications". The drafting pattern will be familiar from the [[digital-euro|Digital Euro]]: a solemn assurance about one use of the machine — encryption is "an important tool"; the digital euro "should not be programmable money" — atop an architecture whose conditional-payment machinery could enable exactly that, which is what makes the prohibition a legal promise about a technical capability rather than the absence of one.
 
 ## The Fog: Why the Banning-Math Argument Loses
 
@@ -2205,9 +2207,9 @@ Every episode above fits the menu. Apple was ordered to turn its signing key —
 - [Fog of CryptoWar](https://www.cypherpunkbooks.com/book/fog-of-cryptowar) - Jonathan 'smuggler' Logan's 2017 essay on the renewed crypto wars: why backdoor and key-escrow demands recur, the asymmetry between surveillance and privacy
 - [Order Compelling Apple, Inc. to Assist Agents in Search (C.D. Cal., 16 February 2016)](https://assets.documentcloud.org/documents/2714001/SB-Shooter-Order-Compelling-Apple-Asst-iPhone.pdf) - Magistrate Judge Sheri Pym's ex parte order
 - [A Message to Our Customers (Apple, 16 February 2016)](https://www.apple.com/customer-letter/) - Tim Cook's open letter opposing the FBI's demand (via an All Writs Act order in the San Bernardino case) that Apple build a signed iOS version defeating iPhone
-- [EARN IT Act of 2020 (S. 3398, 116th Congress) — bill text](https://www.govinfo.gov/content/pkg/BILLS-116s3398is/html/BILLS-116s3398is.htm) - Full text of S
+- [EARN IT Act of 2020 (S. 3398, 116th Congress) — bill text](https://www.govinfo.gov/content/pkg/BILLS-116s3398is/html/BILLS-116s3398is.htm) - Full text of S. 3398 (116th Congress, introduced March 2020): the EARN IT Act, conditioning Section 230 immunity for CSAM claims on compliance with commission best practices
 - [EU CSAM Regulation Proposal — 'Chat Control' (COM(2022) 209 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52022PC0209) - Full text of COM(2022) 209 final (11 May 2022): the EU proposal 'laying down rules to prevent and combat child sexual abuse' — universally known as Chat Control
-- [EU Digital Euro Regulation Proposal (COM(2023) 369 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0369) - EU legislative proposal COM(2023) 369 final, tabled 28 June 2023, establishing the digital euro as a direct ECB liability distributed through a two-tier
+- [EU Digital Euro Regulation Proposal (COM(2023) 369 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0369) - EU legislative proposal COM(2023) 369 final, tabled 28 June 2023, establishing the digital euro as a direct ECB liability distributed through a two-tier architecture in which credit institutions and other payment service providers handle distribution
 
 ---
 
@@ -7740,7 +7742,7 @@ Category: concept
 
 [[adam-back|Adam Back]]'s [[hashcash|Hashcash]] paper formalizes proof of work as a denial-of-service countermeasure. The problem is asymmetry: sending email, posting to a remailer, or opening network connections can be cheap for the attacker and costly for the recipient. Hashcash changes the price of access. A sender must compute a token tied to the service name and challenge; the receiver can verify it with little work.
 
-Section 3 of the Hashcash paper defines it as non-interactive, publicly auditable, and trapdoor-free. The work is probabilistic: the sender searches for a value that makes a hash meet a target, while the receiver checks the result. Section 4 extends the idea to interactive settings where a server can issue challenges and raise the work factor under load. Section 6 lists later applications, including remailer abuse resistance, Usenet flooding, and [[wei-dai|Wei Dai]]'s b-money.
+Section 3 of the Hashcash paper defines it as non-interactive, publicly auditable, and trapdoor-free. The work is probabilistic: the sender searches for a value that makes a hash meet a target, while the receiver checks the result. Section 4 extends the idea to interactive settings where a server can issue challenges and raise the work factor under load. Remailer DoS throttling and email-spam deterrence were the two applications proposed from the start; Section 7 collects the ones developed after publication, including hashcash-cookies, Usenet flooding via mail2news networks, and [[wei-dai|Wei Dai]]'s b-money.
 
 Hashcash was not designed as money in its first use. It was a metering device. But that metering device had a monetary shape: scarce because costly, cheap to assay, and portable as a digital proof.
 
@@ -7764,7 +7766,7 @@ This makes proof of work a direct answer to [[trusted-third-parties-as-security-
 
 ## Power Projection
 
-[[jason-lowery|Lowery]]'s [[softwar|Softwar]] and [[power-projection|Power Projection]] give proof of work a national-security frame. In that reading, Bitcoin projects physical power into cyberspace by making control over ledger history depend on energy expenditure and hardware competition. This article does not need Lowery's full strategic thesis to define proof of work, but the connection is important: proof of work is not merely "math." It is a conversion of physical resources into a public ordering signal.
+[[jason-lowery|Lowery]]'s [[softwar|Softwar]] and [[power-projection|Power Projection]] give proof of work a national-security frame. In that reading, Bitcoin projects physical power into cyberspace by making control over ledger history depend on energy expenditure and hardware competition. This article does not need Lowery's full strategic thesis to define proof of work, but the connection is important: proof of work is not merely "math". It is a conversion of physical resources into a public ordering signal.
 
 The lineage is high confidence. Back's Hashcash is explicitly cited in Section 4 and reference [6] of the Bitcoin whitepaper. Szabo's Bit Gold uses proof of work, timestamping, and a title registry in a form that plainly anticipates parts of Bitcoin's design, even though Bitcoin's whitepaper cites b-money rather than Bit Gold.
 
@@ -7817,7 +7819,8 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
-- [Hashcash: A Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) - proof-of-work cost-function design, especially Sections 3, 4, and 6
+- [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - Lowery's thesis reading proof of work as physical power projection — the source for the Power Projection section
+- [Hashcash: A Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) - proof-of-work cost-function design, especially Sections 3, 4, and 7
 - [Bit Gold](https://nakamotoinstitute.org/library/bit-gold/) - Szabo's costly digital strings, timestamping, and title-registry proposal
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi's proof-of-work timestamp network, longest-chain rule, incentives, and security calculations
 
@@ -10660,7 +10663,7 @@ Bitcoin's distinctive claim is that computational costliness, capped issuance, p
 
 ## Limits
 
-Confidence is medium-high. The phrase "unforgeably costly" is directly Szabo's; Ammous supplies the parallel hardness and stock-to-flow vocabulary rather than the phrase itself, and the Misesian regression link is explicit enough to support the bridge. The limits are interpretive: "unforgeable costliness" is a useful editorial primitive, not a complete theory of money by itself. A medium can be costly and still fail if it is not liquid, divisible, recognizable, secure, or socially adopted.
+Confidence is medium. The phrase "unforgeably costly" is directly Szabo's; Ammous supplies the parallel hardness and stock-to-flow vocabulary rather than the phrase itself, and the Misesian regression link is explicit enough to support the bridge. The limits are interpretive: "unforgeable costliness" is a useful editorial primitive, not a complete theory of money by itself. A medium can be costly and still fail if it is not liquid, divisible, recognizable, secure, or socially adopted.
 
 ## See Also
 
@@ -11365,17 +11368,17 @@ Category: reference
 
 ## What the Book Argues
 
-The theoretical Part I is a compact restatement of the Mises-Hayek business-cycle framework: credit expansion by the banking system pushes the interest rate below the rate at which voluntary saving and time-preference would equilibrate, entrepreneurs are induced into capital-intensive investments that the underlying real savings cannot sustain, and the bust is the corrective phase in which the malinvestments are liquidated. Rothbard then defends this account against alternative explanations of the cycle (Keynesian, monetarist, secular stagnation, over-indebtedness, under-consumption) before turning to the historical chapters.
+The theoretical Part I is a compact restatement of the Mises-Hayek business-cycle framework: credit expansion by the banking system pushes the interest rate below the rate at which voluntary saving and time-preference would equilibrate, entrepreneurs are induced into capital-intensive investments that the underlying real savings cannot sustain, and the bust is the corrective phase in which the malinvestments are liquidated. Rothbard then defends this account against alternative explanations of the cycle — Keynesian criticisms in their own chapter, then general overproduction, underconsumption, the acceleration principle, Hansen's dearth-of-investment-opportunities thesis, Schumpeter's business-cycle theory, qualitative credit doctrines, and overoptimism/overpessimism before turning to the historical chapters.
 
 Parts II–III argue that the 1920s were a period of substantial credit inflation engineered by the [[federal-reserve|Federal Reserve]] under Benjamin Strong, that the inflation produced the predictable structural distortions, and that the 1929 crash was the inevitable correction. Rothbard's most distinctive historical claim is then about Hoover. He documents that Hoover (a) pressured business to maintain wage rates after the crash, blocking the wage adjustment that would normally clear labor markets in a depression, (b) launched a substantial public-works program, (c) supported farm price-support schemes, (d) restricted immigration, and (e) attempted credit expansion to "reflate" the economy. In Rothbard's reading, this was the launch of the modern interventionist policy regime, and the 1929–1932 record illustrates the consequences.
 
 ## Why It Matters in This Wiki
 
-This is the wiki's primary historical-empirical application of [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. The theory itself is set out in Hayek's [[prices-and-production|Prices and Production]] and integrated into Mises's [[human-action|Human Action]]; [[americas-great-depression|America's Great Depression]] is what it looks like applied to a single, world-historical episode. The book also fills a gap in the wiki's Rothbard corpus: until now Rothbard appeared as economist ([[man-economy-and-state|Man, Economy, and State]]), political theorist ([[for-a-new-liberty|For a New Liberty]]), and ethicist ([[the-ethics-of-liberty|The Ethics of Liberty]]), but not as economic historian. The book is also the source for the standard Austrian retort to the Hoover-did-nothing reading of 1929–1932 that Keynesian and progressive narratives rest on.
+This is the wiki's primary historical-empirical application of [[austrian-business-cycle-theory|Austrian Business Cycle Theory]]. The theory itself is set out in Hayek's [[prices-and-production|Prices and Production]] and integrated into Mises's [[human-action|Human Action]]; [[americas-great-depression|America's Great Depression]] is what it looks like applied to a single, world-historical episode. The book also fills a gap in the wiki's Rothbard corpus: until now Rothbard appeared as economist ([[man-economy-and-state|Man, Economy, and State]]), political theorist ([[for-a-new-liberty|For a New Liberty]]), and ethicist ([[the-ethics-of-liberty|The Ethics of Liberty]]), but not as economic historian. The book is also the source for the standard Austrian retort to the Hoover-did-nothing reading of 1929–1932 — a reading Rothbard sets himself against; how far it actually characterises Keynesian or progressive scholarship is not something the cited sources establish.
 
 ## Scope of the Full-Text Ingest
 
-The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 pages. The volume contains Paul Johnson's introduction to the fifth edition (2000) and Rothbard's own introductions to the first (1963), 2nd (1972), 3rd (1975), and 4th (1983) editions, plus the three-part text and bibliography. (Rothbard died in 1995, so the 2000 introduction is Johnson's, not his.) Each of Rothbard's successive introductions adds his commentary on the inflationary recessions of the 1970s and early 1980s, treating them as further confirmations of the framework.
+The current raw source is the official Mises Institute EPUB, re-extracted 2026-06-17, which superseded the earlier PDF extraction. The volume contains Paul Johnson's introduction to the fifth edition (2000) and Rothbard's own introductions to the first (1963), 2nd (1972), 3rd (1975), and 4th (1983) editions, plus the three-part text, the appendix on government and the national product, and the index. (Rothbard died in 1995, so the 2000 introduction is Johnson's, not his.) Each of Rothbard's successive introductions adds his commentary on the downturn current when he wrote it — the 1969-71 inflationary recession for the second edition, the 1973-75 inflationary depression for the third, and a contraction he judged at least as severe for the fourth — treating them as further confirmations of the framework.
 
 ## Relation to Other Texts in This Wiki
 
@@ -11392,11 +11395,11 @@ The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 page
 - [[for-a-new-liberty|For a New Liberty]] - movement-facing summary of the same business-cycle argument
 - [[state-power-and-intervention|State Power and Intervention]] - the policy critique this book historicizes
 - [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] - Salerno's 1987 TMS paper: a component-by-component Austrian money-supply aggregate designed to measure the medium of exchange better than M1 or M2.
-- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be
-- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: M2's time-deposit and money-fund components
+- [[hundred-percent-reserve-banking|100% Reserve Banking]] - Rothbardian normative position that demand deposits and bank-issued notes must be fully covered by money proper in reserve
+- [[monetary-aggregates-and-credit-expansion|Monetary Aggregates and Credit Expansion]] - Austrian-monetary-theory measurement: why M2's time-deposit and money-fund components misstate the medium of exchange
 - [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] - Rothbard's claim that the boom-bust cycle is generated by bank credit expansion
-- [[joseph-t-salerno|Joseph T. Salerno]] - Austrian-school monetary economist in the Mises-Rothbard tradition; Professor of
-- [[the-mystery-of-banking|The Mystery of Banking]] - Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, banking, and
+- [[joseph-t-salerno|Joseph T. Salerno]] - Austrian-school monetary economist in the Mises-Rothbard tradition, known for formalizing the True Money Supply
+- [[the-mystery-of-banking|The Mystery of Banking]] - Rothbard's 1983 (2nd ed 2008) book-length popular treatment of money, banking, and central banking, making the popular case for 100% reserves
 
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Rate Hold: ABCT and the Knowledge Problem]] - newsroom thesis backlink
@@ -11410,8 +11413,8 @@ The current raw source is the Mises Institute's 5th-edition PDF (2000), 411 page
 
 ## Sources
 
-- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) - full Mises Institute 5th-edition PDF as a wiki-ingestable aggregate
-- [America's Great Depression](https://mises.org/library/book/americas-great-depression) - Mises library page metadata and descriptive framing
+- [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) - full Mises Institute EPUB edition as a wiki-ingestable aggregate
+- [America's Great Depression](https://mises.org/library/book/americas-great-depression) - Mises library page metadata and descriptive framing for the volume
 
 ---
 
@@ -13537,23 +13540,23 @@ Category: reference
 
 # Eugen von Böhm-Bawerk
 
-> Böhm-Bawerk enters this wiki as the source of the Austrian theory of capital and interest: that production is roundabout, that interest is the agio (premium) on present over future goods rooted in time preference, and that capital is no independent creative force but reducible to land, labor, and time. Mises and Rothbard inherit and restate this line.
+> Böhm-Bawerk enters this wiki as the source of the Austrian theory of capital and interest: that production is roundabout, that interest is the agio (premium) on present over future goods rooted in time preference, and that capital is no independent creative force but the product of land and labour applied over time. Mises and Rothbard inherit and restate this line.
 
 ## Biographical Frame
 
-Eugen von Böhm-Bawerk (1851-1914) was an Austrian economist, a student of [[carl-menger|Carl Menger]] and — with Friedrich von Wieser — a founder of the second generation of the [[austrian-economics|Austrian School]]. He served three terms as Austria's finance minister and taught the seminar that trained [[ludwig-von-mises|Ludwig von Mises]]. His major works are *Capital and Interest* and *The Positive Theory of Capital*, and he is also known for the critique [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]], which attacked the labor theory of value.
+Eugen von Böhm-Bawerk (1851-1914) was an Austrian economist who built on [[carl-menger|Carl Menger]]'s marginalism and was — with Friedrich von Wieser — a founder of the second generation of the [[austrian-economics|Austrian School]]. He served three terms as Austria's finance minister and taught the seminar that trained [[ludwig-von-mises|Ludwig von Mises]]. His major works are *Capital and Interest* and *The Positive Theory of Capital*, and he is also known for the critique [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]], which attacked the labor theory of value.
 
 His enduring contributions are the **roundabout** structure of production (more productive methods take more time and require capital to bridge the wait), the **time-preference / agio** theory of interest (interest arises because present goods are valued above future goods), and the insistence that capital is a produced, dependent factor — the seeds of the [[capital|capital]] account this wiki draws from Rothbard.
 
 ## Works Present Here
 
-All three of his major works are ingested as full-text sources — *The Positive Theory of Capital* as a clean, verbatim-quotable Econlib edition, the other two as uncorrected scans (confirm wording before quoting):
+Three of his works are ingested as full-text sources — *The Positive Theory of Capital* as a clean, verbatim-quotable Econlib edition, the other two as clean Mises Institute EPUB re-extractions that superseded the earlier Internet Archive OCR scans:
 
 - [[the-positive-theory-of-capital|The Positive Theory of Capital]] (Smart trans.) — capital, the roundabout structure of production, and the agio/time-preference theory of interest.
 - [[capital-and-interest|Capital and Interest]] (Smart, 1890) — the critical history of interest theories, Vol. I of *Kapital und Kapitalzins*.
-- [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]] (1898) — the critique of Marx's labor theory of value.
+- [[karl-marx-and-the-close-of-his-system|Karl Marx and the Close of His System]] (1896; Macdonald trans. 1898) — the critique of Marx's labor theory of value.
 
-His theory is also carried second-hand by [[murray-n-rothbard|Rothbard]] in [[man-economy-and-state|Man, Economy, and State]], which credits Böhm-Bawerk for the reducibility of capital to land, labor, and time and borrows his stone-throwing analogy for capital's dependent role.
+His theory is also carried second-hand by [[murray-n-rothbard|Rothbard]] in [[man-economy-and-state|Man, Economy, and State]], which credits Böhm-Bawerk for the reducibility of capital to land and labour applied over time and borrows his stone-throwing analogy for capital's dependent role.
 
 ## Place in This Wiki
 
@@ -13574,6 +13577,7 @@ Böhm-Bawerk is a lineage node: he is the origin of the capital-and-interest the
 
 ## Sources
 
+- [Man, Economy, and State (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) - Rothbard's restatement of the capital theory, including the passage crediting Böhm-Bawerk and the stone-throwing analogy this page refers to
 - [The Positive Theory of Capital (Econlib Clean Full Text)](https://www.econlib.org/library/BohmBawerk/bbPTC.html) - Clean, proofread Library of Economics and Liberty (Econlib) edition of Böhm-Bawerk's The Positive Theory of Capital (William Smart translation)
 - [Capital and Interest: A Critical History of Economical Theory (Full Text Aggregate)](https://cdn.mises.org/Capital%20and%20Interest%20Eugen%20von%20Bohm-Bawerk_4.epub) - William Smart's 1890 translation of Bohm-Bawerk's Geschichte und Kritik der Kapitalzins-Theorien: the critical history of interest theories
 - [Karl Marx and the Close of His System (Full Text Aggregate)](https://cdn.mises.org/Karl%20Marx%20and%20the%20Close%20of%20His%20System.epub) - Alice Macdonald's 1898 translation of Bohm-Bawerk's Zum Abschluss des Marxschen Systems (1896)
@@ -16335,15 +16339,15 @@ Category: reference
 
 # Of Cypherpunks and Sousveillance
 
-> [[of-cypherpunks-and-sousveillance|Of Cypherpunks and Sousveillance]] is Patrick D. Anderson's 2022 *Surveillance & Society* paper arguing that the cypherpunk movement's contribution to surveillance theory has been overlooked by the academy. Its lens is the movement's own two-sided norm: "privacy for the weak, transparency for the powerful" — cryptography defends the first half, and a distinctive practice of *sousveillance* (watching the watchers) enforces the second.
+> [[of-cypherpunks-and-sousveillance|Of Cypherpunks and Sousveillance]] is Patrick D. Anderson's 2022 *Surveillance & Society* paper arguing that the cypherpunk movement's contribution to surveillance theory has been overlooked by the academy. Its lens is a two-sided norm — "privacy for the weak, transparency for the powerful" — which Anderson draws from "the most prolific third-generation cypherpunk authors" rather than from the movement entire — cryptography defends the first half, and a distinctive practice of *sousveillance* (watching the watchers) enforces the second.
 
 ## What the Paper Argues
 
-Anderson reconstructs cypherpunk philosophy as two complementary pairs. Normatively: privacy for individuals, transparency for institutions — not a contradiction but a single principle about power, since privacy and transparency "only take on meaning in the context of power relations". Epistemologically: a hands-on data activism that is both re-active (defending privacy with crypto, per [[eric-hughes|Eric Hughes]]'s manifesto definition of privacy as "the power to selectively reveal oneself to the world") and pro-active (forcing transparency on the powerful). The historical throughline runs from the movement's founding — organized in reaction to 1991 legislation demanding that systems "permit the government to obtain the plaintext contents of voice, data, and other communications" — through the Crypto War tactic of "intentionally and repeatedly provoking state backlash by finding and distributing classified government documents about cryptology", to the court victory establishing that code is speech. WikiLeaks serves as the case study of mature "cypherpunk sousveillance": transparency activism aimed at altering information flows at the systemic level, against surveillance institutions like the NSA and Google.
+Anderson reconstructs cypherpunk philosophy as two complementary pairs. Normatively: privacy for individuals, transparency for institutions — not a contradiction but a single principle about power, since surveillance and transparency "only take on meaning in the context of power relations". Epistemologically: a hands-on data activism that is both re-active (defending privacy with crypto, per [[eric-hughes|Eric Hughes]]'s manifesto definition of privacy as "the power to selectively reveal oneself to the world") and pro-active (forcing transparency on the powerful). The historical throughline runs from the movement's founding — organized in reaction to 1991 legislation demanding that systems "permit the government to obtain the plaintext contents of voice, data, and other communications when appropriately authorized by law" — through the Crypto War tactic of "intentionally and repeatedly provoking state backlash by finding and distributing classified government documents about cryptology", to the court victory establishing that code is speech. WikiLeaks serves as the case study of mature "cypherpunk sousveillance": transparency activism aimed at altering information flows at the systemic level, against surveillance institutions like the NSA and Google.
 
 ## Why It Matters in This Wiki
 
-This is the corpus's only academic treatment of the [[cypherpunk|cypherpunk]] movement as political theory, and it names the half of the program the wiki's privacy material can under-emphasize: the *offensive* transparency practice that complements defensive cryptography. Its Crypto War narrative independently corroborates the [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] account — including the [[code-as-speech|code-as-speech]] ruling that ended it — from the surveillance-studies side, and "privacy for the weak, transparency for the powerful" gives the wiki a citable formulation for why cypherpunks are not hypocrites when they both encrypt and leak.
+This is the corpus's only academic treatment of the [[cypherpunk|cypherpunk]] movement as political theory, and it names the half of the program the wiki's privacy material can under-emphasize: the *offensive* transparency practice that complements defensive cryptography. Its Crypto War narrative independently corroborates the [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] account — including the [[code-as-speech|code-as-speech]] litigation that helped force its end — from the surveillance-studies side, and "privacy for the weak, transparency for the powerful" gives the wiki a citable formulation for why cypherpunks are not hypocrites when they both encrypt and leak.
 
 ## See Also
 
@@ -16351,11 +16355,11 @@ This is the corpus's only academic treatment of the [[cypherpunk|cypherpunk]] mo
 - [[code-as-speech|Code as Speech]] - the constitutional ruling in the paper's Crypto War account
 - [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] - the wiki's own account of the same war
 - [[snowden-disclosures|The Snowden Disclosures]] - June 2013: the hinge event of modern privacy politics — bulk suspicionless surveillance confirmed by the state's own documents, condemned by its own reviewers and courts
-- [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
+- [[julian-assange|Julian Assange]] - Founder of WikiLeaks, and the third-generation cypherpunk Anderson contrasts with first-generation figures like May; his 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
 
 ## Sources
 
-- [Of Cypherpunks and Sousveillance](https://www.cypherpunkbooks.com/book/of-cypherpunks-and-sousveillance) - Patrick D
+- [Of Cypherpunks and Sousveillance](https://www.cypherpunkbooks.com/book/of-cypherpunks-and-sousveillance) - Patrick D. Anderson's 2022 study of cypherpunk ethics and the movement's overlooked practice of sousveillance
 
 ---
 
