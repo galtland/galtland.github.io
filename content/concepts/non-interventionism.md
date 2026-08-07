@@ -3,7 +3,7 @@ title: "Non-Interventionism"
 volatility: warm
 category: concept
 created: 2026-06-07
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [murray-rothbard, non-interventionism, war, foreign-policy, nonaggression, just-war, anti-war, blowback]
 summary: "Rothbard's derivation of the libertarian foreign-policy stance from the non-aggression axiom: inter-State war aggresses against the State's own taxpayers, and modern war almost always kills innocents too, so no State can wage it justly; the objective is to pressure States not to launch wars and, once at war, to sue for peace."
@@ -22,7 +22,7 @@ Run that rule through to its conclusion and inter-State war is condemned on two 
 
 ## Why no State can wage war justly
 
-A state, in Rothbard's definition, is "a group of people who have managed to acquire a virtual monopoly of the use of violence throughout a given territorial area," funded by compulsory taxation. That funding base is the first problem: war is paid for by coercing the State's own subjects, so every State war means "increased aggression against the State's own taxpayers." The second problem is the battlefield: modern inter-State war cannot be confined to aggressors but kills the innocent on the other side. A government may *assert* it is defending its citizens, but [[nonaggression-and-property-rights|Nonaggression and Property Rights]] makes defense derivative of an actual aggression against a person or property — not of the word "defense," and not of an act that itself aggresses against taxpayers and foreign innocents to carry it out.
+A state, in Rothbard's definition, is "a group of people who have managed to acquire a virtual monopoly of the use of violence throughout a given territorial area", funded by compulsory taxation. That funding base is the first problem: war is paid for by coercing the State's own subjects, so every State war means "increased aggression against the State's own taxpayers". The second problem is the battlefield: modern inter-State war cannot be confined to aggressors but kills the innocent on the other side. A government may *assert* it is defending its citizens, but [[nonaggression-and-property-rights|Nonaggression and Property Rights]] makes defense derivative of an actual aggression against a person or property — not of the word "defense," and not of an act that itself aggresses against taxpayers and foreign innocents to carry it out.
 
 This is the foreign-policy edge of [[political-means-and-economic-means|Political Means and Economic Means]]: war is the political means operating across borders, financed by extraction at home.
 

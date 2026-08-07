@@ -3,7 +3,7 @@ title: "Austrian Economics vs Keynesianism"
 volatility: cold
 category: concept
 created: 2026-06-16
-updated: 2026-06-26
+updated: 2026-08-06
 verified: 2026-06-26
 confidence: high
 tags: [austrian-economics, keynesianism, business-cycle, monetary-theory, credit-expansion, malinvestment, capital-theory, interest-rates, effective-demand, unemployment, wage-rates, full-employment, great-depression, macroeconomics, methodology]
@@ -24,7 +24,7 @@ short: "Why Hayek and Rothbard hold that the Keynesian cure is the Austrian dise
 >
 > — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
-The cause of the shortfall is deficient effective demand. Because of what he called the "fundamental psychological law" that men "increase their consumption as their income increases, but not by as much as the increase in their income," income that is saved drains out of the circular flow unless investment takes it up — and investment, governed by volatile expectations of profit, may not. Output and employment can therefore be chronically demand-constrained, and the State must close the gap.
+The cause of the shortfall is deficient effective demand. Because of what he called the "fundamental psychological law" that men "increase their consumption as their income increases, but not by as much as the increase in their income", income that is saved drains out of the circular flow unless investment takes it up — and investment, governed by volatile expectations of profit, may not. Output and employment can therefore be chronically demand-constrained, and the State must close the gap.
 
 The Austrian school — [[friedrich-a-hayek|Hayek]], extending the "Wicksell-Mises theory" he inherited from [[ludwig-von-mises|Ludwig von Mises]], and [[murray-n-rothbard|Murray Rothbard]] after — reads the same slump in reverse. The depression is not a shortfall of demand to be topped up; it is the liquidation of a boom that should never have happened. The interesting fight is therefore not over how much to intervene. It is over what the bust *is*.
 
@@ -36,7 +36,7 @@ The quarrel is not with a caricature: a fair treatment has to grant Keynes his s
 >
 > — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
-Keynes offered the buried-banknotes scheme as an intentionally absurd second-best — he noted at once that it would be "more sensible to build houses." The logic is that in a deep slump even useless activity beats idleness, because it sets the multiplier in motion. The disease being treated is insufficient spending *as such*. That premise is exactly what the Austrians deny.
+Keynes offered the buried-banknotes scheme as an intentionally absurd second-best — he noted at once that it would be "more sensible to build houses". The logic is that in a deep slump even useless activity beats idleness, because it sets the multiplier in motion. The disease being treated is insufficient spending *as such*. That premise is exactly what the Austrians deny.
 
 But the remedies went well beyond emergency spending. Keynes wanted the rate of interest driven down until capital ceased to be scarce — "the euthanasia of the rentier" — on the ground that "Interest to-day rewards no genuine sacrifice, any more than does the rent of land." He judged that the "outstanding faults of the economic society in which we live are its failure to provide for full employment and its arbitrary and inequitable distribution of wealth and incomes", and held that investment, governed by "animal spirits" rather than exact calculation, was too unstable to leave to private hands. The conclusion is the programme's load-bearing sentence:
 
@@ -60,13 +60,13 @@ So the bust is not the catastrophe; it is the correction. Rothbard states the in
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[americas-great-depression|America's Great Depression]]
 
-This reverses the sign on Keynes's central variable. Where Keynes treated saving as the leak that drains demand and employment, the Austrians treat it as the fuel of recovery: "more saving and less consumption would speed recovery," Rothbard wrote — the precise opposite of the stimulus reflex.
+This reverses the sign on Keynes's central variable. Where Keynes treated saving as the leak that drains demand and employment, the Austrians treat it as the fuel of recovery: "more saving and less consumption would speed recovery", Rothbard wrote — the precise opposite of the stimulus reflex.
 
 ## The strong form: the remedy is the disease
 
 Here the two systems become not merely different but contradictory. If the boom is *caused* by credit expansion and suppressed interest, then meeting the bust with more credit and lower rates does not cure the depression — it re-commits the original error on a larger scale. Hayek said so without hedging:
 
-> "To combat the depression by a forced credit expansion is to attempt to cure the evil by the very means which brought it about; because we are suffering from a misdirection of production, we want to create further misdirection."
+> "To combat the depression by a forced credit expansion is to attempt to cure the evil by the very means which brought it about; because we are suffering from a misdirection of production, we want to create further misdirection".
 >
 > — [[friedrich-a-hayek|F. A. Hayek]], *Monetary Theory and the Trade Cycle*, in [[prices-and-production|Prices and Production and Other Works]]
 

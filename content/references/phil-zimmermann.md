@@ -3,7 +3,7 @@ title: "Phil Zimmermann"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-08-06
 verified: 2026-05-30
 tags: [phil-zimmermann, pgp, public-key-cryptography, crypto-wars, privacy, cypherpunk, export-controls]
 aliases: [Philip R. Zimmermann, Phil Zimmerman, PGP creator]
@@ -14,7 +14,7 @@ short: "Creator of PGP and a central Crypto Wars figure. This pass draws on Zimm
 
 # Phil Zimmermann
 
-> [[phil-zimmermann|Phil Zimmermann]] is the creator of PGP, the strong-encryption program released in 1991 and defended in his essay "Why I Wrote PGP." In this source base, he appears as an engineer-advocate for routine cryptographic privacy during the 1990s Crypto Wars.
+> [[phil-zimmermann|Phil Zimmermann]] is the creator of PGP, the strong-encryption program released in 1991 and defended in his essay "Why I Wrote PGP". In this source base, he appears as an engineer-advocate for routine cryptographic privacy during the 1990s Crypto Wars.
 
 ## What the Source Establishes
 

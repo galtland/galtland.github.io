@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-06-28
-updated: 2026-06-29
+updated: 2026-08-06
 verified: 2026-06-29
 tags: [minarchism, minimal-state, night-watchman-state, ayn-rand, robert-nozick, limited-government, anarcho-capitalism, classical-liberalism, competing-governments]
 aliases: [Minarchism, minarchism, minimal state, night-watchman state, limited government, minarchist]
@@ -48,7 +48,7 @@ Most of this corpus argues from the anarcho-capitalist side; minarchism is the p
 ## See Also
 
 - [[ayn-rand|Ayn Rand]] - the canonical modern statement of the rights-protecting minimal state
-- [[the-virtue-of-selfishness|The Virtue of Selfishness]] - “The Nature of Government,” the source text
+- [[the-virtue-of-selfishness|The Virtue of Selfishness]] - “The Nature of Government”, the source text
 - [[robert-nozick|Robert Nozick]] - the philosopher who gave minarchism its academic statement
 - [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] - Nozick's 1974 book: the minimal state, entitlement theory, and Wilt Chamberlain
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the anarcho-capitalist alternative minarchism rejects

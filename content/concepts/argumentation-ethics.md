@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-06-28
-updated: 2026-06-28
+updated: 2026-08-06
 verified: 2026-06-28
 tags: [hans-hermann-hoppe, argumentation-ethics, self-ownership, non-aggression-axiom, praxeology, a-priori, discourse-ethics, libertarian-ethics, murray-rothbard]
 aliases: [Argumentation Ethics, argumentation ethics, the a priori of argumentation, Hoppe's argumentation ethics]
@@ -56,4 +56,4 @@ Argumentation ethics is one of the most ambitious justificatory arguments in the
 
 ## Sources
 
-- [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Hoppe's “On the Ultimate Justification of the Ethics of Private Property,” the a priori of argumentation, the derivation of self-ownership/nonaggression/property, and the appendix of replies to critics
+- [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Hoppe's “On the Ultimate Justification of the Ethics of Private Property”, the a priori of argumentation, the derivation of self-ownership/nonaggression/property, and the appendix of replies to critics

@@ -3,7 +3,7 @@ title: "The Gold Standard"
 volatility: warm
 category: concept
 created: 2026-07-15
-updated: 2026-08-03
+updated: 2026-08-06
 verified: 2026-08-03
 tags: [gold-standard, hard-money, sound-money, mises, ammous, friedman, monetary-history, bretton-woods, federal-reserve, fiat, bitcoin, austrian-economics, regression-theorem]
 aliases: [gold standard, the gold standard, classical gold standard, gold-exchange standard, gold coin standard]
@@ -106,6 +106,6 @@ Whether *digital gold* truly succeeds gold is contested, and it reopens the very
 - [Executive Order 6102 — Forbidding the Hoarding of Gold Coin, Gold Bullion and Gold Certificates](https://www.presidency.ucsb.edu/documents/executive-order-6102-forbidding-the-hoarding-gold-coin-gold-bullion-and-gold-certificates) - the order's own text: the hoarding definition, the delivery destination, and the four exemptions
 - [Roosevelt's Gold Program (Federal Reserve History)](https://www.federalreservehistory.org/essays/roosevelts-gold-program) - the Fed's account of the 1933-34 phases and the scholarship on recovery after suspension and reflation
 
-- [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - Mises on the definition of the gold standard, its "main excellence," and the rejoinder that only a sabotaged standard fails.
+- [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - Mises on the definition of the gold standard, its "main excellence", and the rejoinder that only a sabotaged standard fails.
 - [The Bitcoin Standard (Full Text Aggregate)](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - Ammous on the historical arc (1933 gold ban, Bretton Woods, the 1971 default) and Bitcoin as digital gold. The \$20.67→\$35 devaluation, the 1913 Federal Reserve creation, and the 1944/1971 dates are drawn from this narrative (Ammous's text misnames the 1914-era war as WWII at one point; the 1914 Fed inflation is WWI-era and is stated as such here).
 - **Friedman, Capitalism and Freedom (Full Text)** - the Chicago critique: why a full automatic gold standard "has historically never proved feasible" and drifts into state-managed mixed standards.

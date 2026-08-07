@@ -78,7 +78,7 @@ Category: concept
 
 # Agorism and Counter-Economics
 
-Agorism is the strategy half of the libertarian question — not *what* a free society is but *how* to get there. Samuel Edward Konkin III's *New Libertarian Manifesto* answers it without asking people to become better than they are: the program works, in his words, with "no change in human nature needed."
+Agorism is the strategy half of the libertarian question — not *what* a free society is but *how* to get there. Samuel Edward Konkin III's *New Libertarian Manifesto* answers it without asking people to become better than they are: the program works, in his words, with "no change in human nature needed".
 
 ## Counter-economics as the means
 
@@ -235,7 +235,7 @@ Argumentation ethics is one of the most ambitious justificatory arguments in the
 
 ## Sources
 
-- [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Hoppe's “On the Ultimate Justification of the Ethics of Private Property,” the a priori of argumentation, the derivation of self-ownership/nonaggression/property, and the appendix of replies to critics
+- [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Hoppe's “On the Ultimate Justification of the Ethics of Private Property”, the a priori of argumentation, the derivation of self-ownership/nonaggression/property, and the appendix of replies to critics
 
 ---
 
@@ -341,7 +341,7 @@ Category: concept
 >
 > — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
-The cause of the shortfall is deficient effective demand. Because of what he called the "fundamental psychological law" that men "increase their consumption as their income increases, but not by as much as the increase in their income," income that is saved drains out of the circular flow unless investment takes it up — and investment, governed by volatile expectations of profit, may not. Output and employment can therefore be chronically demand-constrained, and the State must close the gap.
+The cause of the shortfall is deficient effective demand. Because of what he called the "fundamental psychological law" that men "increase their consumption as their income increases, but not by as much as the increase in their income", income that is saved drains out of the circular flow unless investment takes it up — and investment, governed by volatile expectations of profit, may not. Output and employment can therefore be chronically demand-constrained, and the State must close the gap.
 
 The Austrian school — [[friedrich-a-hayek|Hayek]], extending the "Wicksell-Mises theory" he inherited from [[ludwig-von-mises|Ludwig von Mises]], and [[murray-n-rothbard|Murray Rothbard]] after — reads the same slump in reverse. The depression is not a shortfall of demand to be topped up; it is the liquidation of a boom that should never have happened. The interesting fight is therefore not over how much to intervene. It is over what the bust *is*.
 
@@ -353,7 +353,7 @@ The quarrel is not with a caricature: a fair treatment has to grant Keynes his s
 >
 > — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
-Keynes offered the buried-banknotes scheme as an intentionally absurd second-best — he noted at once that it would be "more sensible to build houses." The logic is that in a deep slump even useless activity beats idleness, because it sets the multiplier in motion. The disease being treated is insufficient spending *as such*. That premise is exactly what the Austrians deny.
+Keynes offered the buried-banknotes scheme as an intentionally absurd second-best — he noted at once that it would be "more sensible to build houses". The logic is that in a deep slump even useless activity beats idleness, because it sets the multiplier in motion. The disease being treated is insufficient spending *as such*. That premise is exactly what the Austrians deny.
 
 But the remedies went well beyond emergency spending. Keynes wanted the rate of interest driven down until capital ceased to be scarce — "the euthanasia of the rentier" — on the ground that "Interest to-day rewards no genuine sacrifice, any more than does the rent of land." He judged that the "outstanding faults of the economic society in which we live are its failure to provide for full employment and its arbitrary and inequitable distribution of wealth and incomes", and held that investment, governed by "animal spirits" rather than exact calculation, was too unstable to leave to private hands. The conclusion is the programme's load-bearing sentence:
 
@@ -377,13 +377,13 @@ So the bust is not the catastrophe; it is the correction. Rothbard states the in
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[americas-great-depression|America's Great Depression]]
 
-This reverses the sign on Keynes's central variable. Where Keynes treated saving as the leak that drains demand and employment, the Austrians treat it as the fuel of recovery: "more saving and less consumption would speed recovery," Rothbard wrote — the precise opposite of the stimulus reflex.
+This reverses the sign on Keynes's central variable. Where Keynes treated saving as the leak that drains demand and employment, the Austrians treat it as the fuel of recovery: "more saving and less consumption would speed recovery", Rothbard wrote — the precise opposite of the stimulus reflex.
 
 ## The strong form: the remedy is the disease
 
 Here the two systems become not merely different but contradictory. If the boom is *caused* by credit expansion and suppressed interest, then meeting the bust with more credit and lower rates does not cure the depression — it re-commits the original error on a larger scale. Hayek said so without hedging:
 
-> "To combat the depression by a forced credit expansion is to attempt to cure the evil by the very means which brought it about; because we are suffering from a misdirection of production, we want to create further misdirection."
+> "To combat the depression by a forced credit expansion is to attempt to cure the evil by the very means which brought it about; because we are suffering from a misdirection of production, we want to create further misdirection".
 >
 > — [[friedrich-a-hayek|F. A. Hayek]], *Monetary Theory and the Trade Cycle*, in [[prices-and-production|Prices and Production and Other Works]]
 
@@ -1544,7 +1544,7 @@ For Arendt the councils are not advisory committees or interest groups; they are
 
 ## Foundation vs Liberation: Why the Councils Are Always Lost
 
-The recurrence and the failure have the same root. The revolutionary tradition, Arendt argues, prized **liberation** — freedom *from* the old regime, tyranny, and want — over **foundation**, the positive task of constituting durable public spaces in which freedom can be exercised. Once liberation was won, the councils looked to the professional revolutionaries like leftover machinery rather than the point of the whole enterprise, and were disbanded as threats to the new central power. They were never given a constitutional home. Arendt's constitutional road not taken is Jefferson's **ward system** — his "elementary republics," meant to give every citizen a small, tangible arena of action so that the republic would rest on participation rather than only on periodic voting. Her tone throughout is sympathetic but candid: she recovers the council experience as real and repeatedly proven, without offering a worked-out institutional blueprint for making it last.
+The recurrence and the failure have the same root. The revolutionary tradition, Arendt argues, prized **liberation** — freedom *from* the old regime, tyranny, and want — over **foundation**, the positive task of constituting durable public spaces in which freedom can be exercised. Once liberation was won, the councils looked to the professional revolutionaries like leftover machinery rather than the point of the whole enterprise, and were disbanded as threats to the new central power. They were never given a constitutional home. Arendt's constitutional road not taken is Jefferson's **ward system** — his "elementary republics", meant to give every citizen a small, tangible arena of action so that the republic would rest on participation rather than only on periodic voting. Her tone throughout is sympathetic but candid: she recovers the council experience as real and repeatedly proven, without offering a worked-out institutional blueprint for making it last.
 
 ## The Historical Instances
 
@@ -1583,7 +1583,7 @@ The structural definition is stated definitionally in two sources: Mises's [[the
 
 ## The Core Definition
 
-The canonical Austrian statement is Mises's, in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] (1912; 1953 Yale edition, p. 268), Part Three Ch. I "The Business of Banking," in the section "Deposits as the Origin of Circulation Credit." Discussing whether a redeemable money-deposit qualifies as credit, Mises pauses to give the underlying definition:
+The canonical Austrian statement is Mises's, in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] (1912; 1953 Yale edition, p. 268), Part Three Ch. I "The Business of Banking", in the section "Deposits as the Origin of Circulation Credit". Discussing whether a redeemable money-deposit qualifies as credit, Mises pauses to give the underlying definition:
 
 > "If credit in the economic sense means the exchange of a present good or a present service against a future good or a future service, then it is hardly possible to include the transactions in question under the conception of credit."
 >
@@ -1599,7 +1599,7 @@ Mises restates the definition in slightly different language earlier in the same
 
 Notice the scope here. Mises explicitly classifies "purchase on credit" — any sale where seller-delivery and buyer-payment occur at different times — as a credit transaction, alongside lending. The structural definition is not a niche financial category; it is the generic frame for any transaction with delivery–payment separation.
 
-Rothbard restates the definition in [[man-economy-and-state|Man, Economy, and State]], Ch. 2 "Direct Exchange," §11 "Types of Exchangeable Goods":
+Rothbard restates the definition in [[man-economy-and-state|Man, Economy, and State]], Ch. 2 "Direct Exchange", §11 "Types of Exchangeable Goods":
 
 > "In a credit transaction, a present good is exchanged for a future good, or rather, a claim on a future good."
 >
@@ -1607,21 +1607,21 @@ Rothbard restates the definition in [[man-economy-and-state|Man, Economy, and St
 
 A few paragraphs later in the same section, Rothbard names the diagnostic feature that distinguishes credit from a present-good exchange:
 
-> "A credit exchange sets up an unfinished payment on the part of the debtor."
+> "A credit exchange sets up an unfinished payment on the part of the debtor".
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[man-economy-and-state|Man, Economy, and State]]
 
-The contrast with cash is then drawn out in MES Ch. 6, "Production: The Rate of Interest and Its Determination," §2 "The Determination of the Pure Rate of Interest: The Time Market":
+The contrast with cash is then drawn out in MES Ch. 6, "Production: The Rate of Interest and Its Determination", §2 "The Determination of the Pure Rate of Interest: The Time Market":
 
-> "When a man buys a suit for cash, he transfers money in exchange for the suit. The transaction is finished. In a credit transaction he receives simply a written I.O.U., or note, entitling him to claim a certain amount of money at a future date. The transaction remains to be completed in the future."
+> "When a man buys a suit for cash, he transfers money in exchange for the suit. The transaction is finished. In a credit transaction he receives simply a written I.O.U., or note, entitling him to claim a certain amount of money at a future date. The transaction remains to be completed in the future".
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[man-economy-and-state|Man, Economy, and State]]
 
 So Rothbard's diagnostic is whether the transaction is **finished at the moment of delivery**. If yes, it is cash. If one side still owes payment, it is credit. The receiver of the present good is the **debtor**; the deliverer holding the unfinished claim is the **creditor**. Rothbard's diagnostic is the operational form of Mises's structural definition — they are the same criterion, stated as definition by Mises in 1912 and re-stated as test by Rothbard in 1962.
 
-Mises retains the same definition in his later [[human-action|Human Action]] (1949). In Ch. XX "Interest, Credit Expansion, and the Trade Cycle" (Scholar's Edition pp. 536–537), he treats credit transactions and deferred payments as one category — "other classes of credit transactions and deferred payments" — and his analysis of monetary changes runs through their effects on "all species of deferred payments," i.e. all outstanding credit relationships, whether or not they are styled as loans. He elsewhere asserts (Ch. XX) that "every grant of credit is a speculative entrepreneurial venture, the success or failure of which is uncertain" — a claim that only makes sense on the present-for-future-good reading, since uncertainty enters precisely *because* the future payment is not yet in hand. Where TMC introduced the structural definition, [[human-action|Human Action]] embeds it in the wider praxeological framework and pairs it with the commodity-credit / circulation-credit distinction (Ch. XVII) that becomes central to Austrian Business Cycle Theory.
+Mises retains the same definition in his later [[human-action|Human Action]] (1949). In Ch. XX "Interest, Credit Expansion, and the Trade Cycle" (Scholar's Edition pp. 536–537), he treats credit transactions and deferred payments as one category — "other classes of credit transactions and deferred payments" — and his analysis of monetary changes runs through their effects on "all species of deferred payments", i.e. all outstanding credit relationships, whether or not they are styled as loans. He elsewhere asserts (Ch. XX) that "every grant of credit is a speculative entrepreneurial venture, the success or failure of which is uncertain" — a claim that only makes sense on the present-for-future-good reading, since uncertainty enters precisely *because* the future payment is not yet in hand. Where TMC introduced the structural definition, [[human-action|Human Action]] embeds it in the wider praxeological framework and pairs it with the commodity-credit / circulation-credit distinction (Ch. XVII) that becomes central to Austrian Business Cycle Theory.
 
-[[hans-hermann-hoppe|Hoppe]] gives the same picture in [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]], in his essay on banking, money, and the state. His characterisation of bank lending is built directly on the present-good/future-good split: the public "saved more so as to make a larger fund of present goods available to investors in exchange for their promise of a return of future goods," and the question of whether bank credit is **commodity credit** or **circulation credit** turns on whether real present goods were sacrificed by a creditor in the first place. Hoppe also defends the present/future distinction explicitly against critics who would blur it, insisting that "no one, at any time, can act with anything except present goods" and that the difference between present and future goods is "not a matter of degree but rather one of substance." Hoppe explicitly cites TMC p. 268 — the very passage above — when making this argument; the Austrian framework is, on his reading, continuous from 1912.
+[[hans-hermann-hoppe|Hoppe]] gives the same picture in [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]], in his essay on banking, money, and the state. His characterisation of bank lending is built directly on the present-good/future-good split: the public "saved more so as to make a larger fund of present goods available to investors in exchange for their promise of a return of future goods," and the question of whether bank credit is **commodity credit** or **circulation credit** turns on whether real present goods were sacrificed by a creditor in the first place. Hoppe also defends the present/future distinction explicitly against critics who would blur it, insisting that "no one, at any time, can act with anything except present goods" and that the difference between present and future goods is "not a matter of degree but rather one of substance". Hoppe explicitly cites TMC p. 268 — the very passage above — when making this argument; the Austrian framework is, on his reading, continuous from 1912.
 
 ## Why This Definition Is Wider Than Folk Usage
 
@@ -1638,7 +1638,7 @@ That width is a feature, not a quirk. The whole Austrian theory of interest is b
 
 The wiki's sources name several common forms of this kind of credit beyond the bank loan. Hayek, in [[prices-and-production|Prices and Production]] — specifically [[prices-and-production|Prices and Production]] (the 1931/1935 essay), at p. 290 of the Mises Institute collected edition — discusses **book credit** as one of "a number of other forms of commercial credit":
 
-> "[B]ook credit is simultaneously introduced in a number of successive stages of production in the place of cash payments, and so on. The characteristic peculiarity of these forms of credit is that they spring up without being subject to any central control."
+> "[B]ook credit is simultaneously introduced in a number of successive stages of production in the place of cash payments, and so on. The characteristic peculiarity of these forms of credit is that they spring up without being subject to any central control …"
 >
 > — [[friedrich-a-hayek|F. A. Hayek]], [[prices-and-production|Prices and Production and Other Works]]
 
@@ -1666,7 +1666,7 @@ This is also why Mises insists on treating the entire universe of deferred payme
 
 ## Worked Example: The Utility Bill
 
-Apply the definition to a customer who consumes water through the month and is billed at the end. The utility delivers a present good in real time — water consumed as it flows. The customer owes payment only at month-end. During the cycle, the customer's obligation is exactly Rothbard's "unfinished payment on the part of the debtor." On this framework:
+Apply the definition to a customer who consumes water through the month and is billed at the end. The utility delivers a present good in real time — water consumed as it flows. The customer owes payment only at month-end. During the cycle, the customer's obligation is exactly Rothbard's "unfinished payment on the part of the debtor". On this framework:
 
 - The **utility is the creditor**.
 - The **customer is the debtor**.
@@ -1755,7 +1755,7 @@ Mises's distinction between **commodity credit** (credit granted out of real sav
 
 ## Sources
 
-- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) — Mises's canonical 1912 statement of the structural definition (Part Three Ch. I "The Business of Banking," section "Deposits as the Origin of Circulation Credit," p. 268 of the Yale 1953 edition), the depositor passage that uses the definition to exclude deposits-against-redeemable-claims from the conception of credit (same page), and the earlier classification of "purchase on credit" as a credit transaction alongside lending (Part One Ch. I §3 "The 'Secondary' Functions of Money," p. ~35)
+- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) — Mises's canonical 1912 statement of the structural definition (Part Three Ch. I "The Business of Banking," section "Deposits as the Origin of Circulation Credit", p. 268 of the Yale 1953 edition), the depositor passage that uses the definition to exclude deposits-against-redeemable-claims from the conception of credit (same page), and the earlier classification of "purchase on credit" as a credit transaction alongside lending (Part One Ch. I §3 "The 'Secondary' Functions of Money", p. ~35)
 - [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) — Rothbard's restatement of the present-for-future-good definition (Ch. 2 §11 "Types of Exchangeable Goods"), the cash-vs-credit *is the transaction finished?* diagnostic (Ch. 6 §2 "The Determination of the Pure Rate of Interest: The Time Market"), the debtor–creditor structure, the monthly-billing A-and-B example (Ch. 11 "Money and Its Purchasing Power", clearing under "Secular Influences on the Demand for Money"), the explicit commodity-vs-circulation-credit distinction (Ch. 11), and the distinction between credit transactions and ordinary production-side time exchanges (Ch. 6 §2)
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) — Mises's pairing of "credit transactions and deferred payments" as a single category (Ch. XX "Interest, Credit Expansion, and the Trade Cycle", Scholar's Edition pp. 536–537), the "every grant of credit is a speculative entrepreneurial venture" passage (Ch. XX), the "sword of Damocles" line on government interference with deferred payments (Ch. XX p. 537), and the underlying commodity-vs-circulation-credit distinction (Ch. XVII "Indirect Exchange") that ABCT later builds on
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) — Hoppe's parallel formulation in present-good/future-good language ("the public has not saved more, and accordingly, the additional amount of credit granted by the bank does not represent commodity credit … but it is fiduciary or circulation credit"), defence of the present/future-good distinction as one of substance not degree, and a directly quoted passage from Mises's 1912 [[the-theory-of-money-and-credit|The Theory of Money and Credit]] (p. 268) on redeemable money-substitutes as present goods
@@ -3243,8 +3243,8 @@ Forced integration is the propertarian limit-case of freedom of association: it 
 
 ## Sources
 
-- [Democracy: The God That Failed (Full Text)](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Chapter 7, "On Free Immigration and Forced Integration," and the right-to-exclusion argument
-- **Capitalism and Freedom (Full Text)** - Chapter VII, "Capitalism and Discrimination," and the segregation-in-schooling discussion
+- [Democracy: The God That Failed (Full Text)](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Chapter 7, "On Free Immigration and Forced Integration", and the right-to-exclusion argument
+- **Capitalism and Freedom (Full Text)** - Chapter VII, "Capitalism and Discrimination", and the segregation-in-schooling discussion
 
 ---
 
@@ -3367,7 +3367,7 @@ Category: concept
 
 # Francisco's Money Speech
 
-> [[franciscos-money-speech|Francisco's Money Speech]] is the monologue delivered by Francisco d'Anconia in [[atlas-shrugged|Atlas Shrugged]] (Part Two, ch. 2, "The Aristocracy of Pull"). Answering a guest's casual "money is the root of all evil," Francisco delivers [[ayn-rand|Ayn Rand]]'s most concentrated moral defense of money: it is a tool of exchange that presupposes production, a claim upon the effort of others, the code of the trader, and the barometer of a society's virtue.
+> [[franciscos-money-speech|Francisco's Money Speech]] is the monologue delivered by Francisco d'Anconia in [[atlas-shrugged|Atlas Shrugged]] (Part Two, ch. 2, "The Aristocracy of Pull"). Answering a guest's casual "money is the root of all evil", Francisco delivers [[ayn-rand|Ayn Rand]]'s most concentrated moral defense of money: it is a tool of exchange that presupposes production, a claim upon the effort of others, the code of the trader, and the barometer of a society's virtue.
 
 ## The Setting
 
@@ -3405,7 +3405,7 @@ When trade is "done, not by consent, but by compulsion", and "money is flowing t
 
 ## Relation to the Wiki's Money Concepts
 
-The speech's *conclusion* converges with Austrian sound-money: production-backed, hard, gold-anchored money versus fiat that is "a mortgage on wealth that does not exist." That anti-debasement warning sits naturally beside [[hard-money|Hard Money]], [[unforgeable-costliness|Unforgeable Costliness]], and the fiat critique in [[fiat-as-engineered-system|Fiat as Engineered System]].
+The speech's *conclusion* converges with Austrian sound-money: production-backed, hard, gold-anchored money versus fiat that is "a mortgage on wealth that does not exist". That anti-debasement warning sits naturally beside [[hard-money|Hard Money]], [[unforgeable-costliness|Unforgeable Costliness]], and the fiat critique in [[fiat-as-engineered-system|Fiat as Engineered System]].
 
 But the *grounding* differs, and the difference is worth stating. Francisco speaks of gold as "an objective value," reflecting Rand's **objective theory of value** — value as set by the relation of a thing to the rational requirements of human life. Austrian monetary theory, by contrast, rests on the **subjective theory of value**: [[the-theory-of-money-and-credit|Mises]] traces money's purchasing power to the subjective valuations of individuals via the regression theorem, not to an objective standard. So the speech reaches an Austrian-compatible sound-money conclusion by a non-Austrian route. It is a moral and rhetorical set-piece, not a technical monetary analysis, and the calibration note that applies to all of Rand's work applies here: it is presented as Rand's argument, persuasive within her frame, not as settled economics.
 
@@ -3529,7 +3529,7 @@ Category: concept
 
 In [[the-concept-of-the-political|The Concept of the Political]], [[carl-schmitt|Schmitt]] argues that the political has its own criterion just as morality distinguishes good/evil and aesthetics distinguishes beautiful/ugly. The political distinction is friend/enemy.
 
-The enemy here is public, not personal. Schmitt draws the distinction in the Latin: the political enemy is *hostis*, not *inimicus* — the public adversary of a collectivity, not someone one privately dislikes. On his account the enemy "need not be morally evil or aesthetically ugly," need not be an economic competitor, and "need not be hated personally"; he is simply the other, the stranger, with whom existential conflict remains possible. That is what keeps the criterion autonomous: it does not reduce to the moral good/evil or the economic profitable/unprofitable axis. Because Schmitt is analyzing collectivities capable of conflict, sacrifice, and war, the concept belongs near [[war-and-state-formation|War and State Formation]] but should not be collapsed into [[charles-tilly|Tilly]]'s historical sociology.
+The enemy here is public, not personal. Schmitt draws the distinction in the Latin: the political enemy is *hostis*, not *inimicus* — the public adversary of a collectivity, not someone one privately dislikes. On his account the enemy "need not be morally evil or aesthetically ugly", need not be an economic competitor, and "need not be hated personally"; he is simply the other, the stranger, with whom existential conflict remains possible. That is what keeps the criterion autonomous: it does not reduce to the moral good/evil or the economic profitable/unprofitable axis. Because Schmitt is analyzing collectivities capable of conflict, sacrifice, and war, the concept belongs near [[war-and-state-formation|War and State Formation]] but should not be collapsed into [[charles-tilly|Tilly]]'s historical sociology.
 
 ## Use in This Wiki
 
@@ -3664,13 +3664,13 @@ Henry George began from a paradox: material progress seemed to deepen poverty ra
 
 The Austro-libertarian answer, set out by [[murray-n-rothbard|Murray Rothbard]] in [[power-and-market|Power and Market]], attacks the single tax on both moral and economic grounds and treats it as a species of expropriation rather than a clever tax.
 
-Morally, Rothbard denies that site value is "unearned." Under the [[homesteading|homesteading]] principle at the base of [[nonaggression-and-property-rights|property rights]], land becomes legitimately owned when first mixed with labor, and thereafter a rise in its value is no different from any other correct forecast. He rejects "the moral argument that an increase in the value of ground land is an 'unearned increment' due to external causes," insisting that the owner who anticipates a site's future worth is doing exactly what every entrepreneur does; to penalize him "then all entrepreneurs must be penalized for their correct forecasting of future events." The Georgist attack on land *speculation* fails for the same reason: far from wickedly withholding land, "land speculation performs a useful social function" — it "puts land into the hands of the most knowledgeable and develops land at the rate desired by the consumers."
+Morally, Rothbard denies that site value is "unearned". Under the [[homesteading|homesteading]] principle at the base of [[nonaggression-and-property-rights|property rights]], land becomes legitimately owned when first mixed with labor, and thereafter a rise in its value is no different from any other correct forecast. He rejects "the moral argument that an increase in the value of ground land is an 'unearned increment' due to external causes", insisting that the owner who anticipates a site's future worth is doing exactly what every entrepreneur does; to penalize him "then all entrepreneurs must be penalized for their correct forecasting of future events." The Georgist attack on land *speculation* fails for the same reason: far from wickedly withholding land, "land speculation performs a useful social function" — it "puts land into the hands of the most knowledgeable and develops land at the rate desired by the consumers."
 
-Economically, Rothbard argues the scheme is self-defeating. The Georgists propose "a 100-percent annual tax on ground rents alone," but if the state siphons off all ground rent then owners have no reason to charge rent, ground rent falls toward zero, and — in his striking conclusion — the single tax, "far from supplying all the revenue of government, it would yield no revenue at all." Worse, by making scarce sites appear free it acts as a maximum-price control: the most productive locations are grabbed by first-comers and wasted rather than allocated by price to their highest use, producing misallocation and downtown overcrowding rather than the abundance George imagined.
+Economically, Rothbard argues the scheme is self-defeating. The Georgists propose "a 100-percent annual tax on ground rents alone", but if the state siphons off all ground rent then owners have no reason to charge rent, ground rent falls toward zero, and — in his striking conclusion — the single tax, "far from supplying all the revenue of government, it would yield no revenue at all". Worse, by making scarce sites appear free it acts as a maximum-price control: the most productive locations are grabbed by first-comers and wasted rather than allocated by price to their highest use, producing misallocation and downtown overcrowding rather than the abundance George imagined.
 
 ## The individualist-anarchist objection
 
-Georgism also drew fire from the *left* of the liberty tradition. Rothbard notes that the individualist anarchist Benjamin Tucker had already pointed out that the Georgist "equal rights" premise — every person's supposed claim to an aliquot share of the land — leads not to a single tax collected by the state but "logically... to each individual's right to appropriate his theoretical share of the value of everybody else's land," so that the state's collection of that value "becomes sheer robbery." This links the debate to [[mutualism|mutualism]], whose "occupancy and use" theory of land shares George's suspicion of absentee landlordism while, like the anarchists, denying the state any title to collect the rent — a reminder that hostility to landed privilege does not by itself imply a tax-funded state.
+Georgism also drew fire from the *left* of the liberty tradition. Rothbard notes that the individualist anarchist Benjamin Tucker had already pointed out that the Georgist "equal rights" premise — every person's supposed claim to an aliquot share of the land — leads not to a single tax collected by the state but "logically... to each individual's right to appropriate his theoretical share of the value of everybody else's land", so that the state's collection of that value "becomes sheer robbery". This links the debate to [[mutualism|mutualism]], whose "occupancy and use" theory of land shares George's suspicion of absentee landlordism while, like the anarchists, denying the state any title to collect the rent — a reminder that hostility to landed privilege does not by itself imply a tax-funded state.
 
 ## Where it is contested
 
@@ -3689,7 +3689,7 @@ Georgism is the rare interventionist proposal that keeps recruiting from within 
 
 ## Sources
 
-- [Power and Market: Government and the Economy (Full Text)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - Rothbard's moral and economic critique of the single tax: the "unearned increment," the social function of land speculation, the tax as a price control, its self-defeating revenue, and Tucker's individualist-anarchist objection to the Georgist premise
+- [Power and Market: Government and the Economy (Full Text)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - Rothbard's moral and economic critique of the single tax: the "unearned increment", the social function of land speculation, the tax as a price control, its self-defeating revenue, and Tucker's individualist-anarchist objection to the Georgist premise
 
 ---
 
@@ -3791,7 +3791,7 @@ Whether *digital gold* truly succeeds gold is contested, and it reopens the very
 - [Executive Order 6102 — Forbidding the Hoarding of Gold Coin, Gold Bullion and Gold Certificates](https://www.presidency.ucsb.edu/documents/executive-order-6102-forbidding-the-hoarding-gold-coin-gold-bullion-and-gold-certificates) - the order's own text: the hoarding definition, the delivery destination, and the four exemptions
 - [Roosevelt's Gold Program (Federal Reserve History)](https://www.federalreservehistory.org/essays/roosevelts-gold-program) - the Fed's account of the 1933-34 phases and the scholarship on recovery after suspension and reflation
 
-- [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - Mises on the definition of the gold standard, its "main excellence," and the rejoinder that only a sabotaged standard fails.
+- [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - Mises on the definition of the gold standard, its "main excellence", and the rejoinder that only a sabotaged standard fails.
 - [The Bitcoin Standard (Full Text Aggregate)](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - Ammous on the historical arc (1933 gold ban, Bretton Woods, the 1971 default) and Bitcoin as digital gold. The \$20.67→\$35 devaluation, the 1913 Federal Reserve creation, and the 1944/1971 dates are drawn from this narrative (Ammous's text misnames the 1914-era war as WWII at one point; the 1914 Fed inflation is WWI-era and is stated as such here).
 - **Friedman, Capitalism and Freedom (Full Text)** - the Chicago critique: why a full automatic gold standard "has historically never proved feasible" and drifts into state-managed mixed standards.
 
@@ -3895,8 +3895,8 @@ The result is a reversal of ordinary service logic. The supplier's failure appea
 
 ## Sources
 
-- Murray N. Rothbard, *For a New Liberty: The Libertarian Manifesto* — full text raw at [`topics/libertarian/raw/articles/2026-04-21-for-a-new-liberty-the-libertarian-manifesto-full-text.md`](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub). The "Power shortages and blackouts" paragraph on compulsory utility monopolies appears in Ch. 4 ("The Problems"); the "sourly urging" private/government contrast and the New York water "shortage" passage (with the "always to be blamed" gloss) appear in Ch. 10 ("The Public Sector, I: Government in Business"); the copper-conservation passage appears in Ch. 13 ("Conservation, Ecology, and Growth"), under the section "Conservation of Resources."
-- Murray N. Rothbard, *Power and Market: Government and the Economy* — full text raw at [`topics/libertarian/raw/articles/2026-05-16-power-and-market-government-and-economy-full-text.md`](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub). The maximum-price-control / artificial-shortage analysis and the "principles of maximum and minimum price control apply to all prices" general-applicability statement appear in Ch. 3 ("Triangular Intervention"), under "Price Control."
+- Murray N. Rothbard, *For a New Liberty: The Libertarian Manifesto* — full text raw at [`topics/libertarian/raw/articles/2026-04-21-for-a-new-liberty-the-libertarian-manifesto-full-text.md`](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub). The "Power shortages and blackouts" paragraph on compulsory utility monopolies appears in Ch. 4 ("The Problems"); the "sourly urging" private/government contrast and the New York water "shortage" passage (with the "always to be blamed" gloss) appear in Ch. 10 ("The Public Sector, I: Government in Business"); the copper-conservation passage appears in Ch. 13 ("Conservation, Ecology, and Growth"), under the section "Conservation of Resources".
+- Murray N. Rothbard, *Power and Market: Government and the Economy* — full text raw at [`topics/libertarian/raw/articles/2026-05-16-power-and-market-government-and-economy-full-text.md`](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub). The maximum-price-control / artificial-shortage analysis and the "principles of maximum and minimum price control apply to all prices" general-applicability statement appear in Ch. 3 ("Triangular Intervention"), under "Price Control".
 
 ---
 
@@ -4096,7 +4096,7 @@ Category: concept
 
 ## What the Argument Requires
 
-The passage is doing two things at once. The first is a definition: the rule of law is the foreseeability condition, not a generic appeal to "legality." A regime in which the legislature passes a statute empowering an agency to do whatever it pleases satisfies a thin formal-legality standard but does not satisfy Hayek's rule-of-law condition, because the citizen cannot foresee how the coercive power will be used. The second is a structural claim: planning of a substantive economic outcome cannot be reduced to general rules, because the planner must decide "how many pigs are to be raised or how many buses are to run, which coal-mines are to operate, or at what prices shoes are to be sold." Such decisions depend on circumstances of the moment and cannot be settled for long periods in advance. Discretion is therefore not an accident of bad implementation; it is intrinsic to substantive planning.
+The passage is doing two things at once. The first is a definition: the rule of law is the foreseeability condition, not a generic appeal to "legality." A regime in which the legislature passes a statute empowering an agency to do whatever it pleases satisfies a thin formal-legality standard but does not satisfy Hayek's rule-of-law condition, because the citizen cannot foresee how the coercive power will be used. The second is a structural claim: planning of a substantive economic outcome cannot be reduced to general rules, because the planner must decide "how many pigs are to be raised or how many buses are to run, which coal-mines are to operate, or at what prices shoes are to be sold". Such decisions depend on circumstances of the moment and cannot be settled for long periods in advance. Discretion is therefore not an accident of bad implementation; it is intrinsic to substantive planning.
 
 The corollary is the one [[road-to-serfdom|The Road to Serfdom]] is named for: once law becomes the legalization of substantive administrative discretion, the citizen's capacity to plan is replaced by dependence on the discretion of administrators, and the institutional habits of liberty erode. The argument is therefore institutional rather than merely procedural. The rule of law is the precondition under which private planning is possible; substantive planning destroys that precondition by construction, not by abuse.
 
@@ -4442,7 +4442,7 @@ This converges directly with [[fiat-as-engineered-system|Fiat as Engineered Syst
 
 ## "Asymptotically ideal money" — and the Austrian tension
 
-Nash's constructive proposal is where he parts company with the wiki's main tradition. He proposes approaching an *ideal* money — one of stable long-run value — **asymptotically**, by linking a currency to "an appropriate index" of value (drawn from internationally traded commodities, of which he notes gold and silver are only examples) rather than leaving it to central-bank discretion. He is scathing about the prevailing alternative, "inflation targeting," which he says lets officials *confess* that their currency is managed by a chosen, adjustable target. The aim is hard-money's: remove the issuer's discretion to inflate. But the mechanism is still a *managed index*, a technocratic peg — which the [[economic-calculation-problem|calculation]] and knowledge-problem critiques warn is itself a planning conceit: any chosen index is still an administered standard, not a market-discovered one. The Austrian preference is for money the market selects (see [[unforgeable-costliness|unforgeable costliness]] and the gold/Bitcoin lineage in [[hard-money|hard money]]), not a better-designed peg.
+Nash's constructive proposal is where he parts company with the wiki's main tradition. He proposes approaching an *ideal* money — one of stable long-run value — **asymptotically**, by linking a currency to "an appropriate index" of value (drawn from internationally traded commodities, of which he notes gold and silver are only examples) rather than leaving it to central-bank discretion. He is scathing about the prevailing alternative, "inflation targeting", which he says lets officials *confess* that their currency is managed by a chosen, adjustable target. The aim is hard-money's: remove the issuer's discretion to inflate. But the mechanism is still a *managed index*, a technocratic peg — which the [[economic-calculation-problem|calculation]] and knowledge-problem critiques warn is itself a planning conceit: any chosen index is still an administered standard, not a market-discovered one. The Austrian preference is for money the market selects (see [[unforgeable-costliness|unforgeable costliness]] and the gold/Bitcoin lineage in [[hard-money|hard money]]), not a better-designed peg.
 
 The convergence is therefore on the *diagnosis* (stable-value money is good; managed inflation is a defect) and a divergence on the *cure* (administered index vs. market-chosen hard money). That asymmetry — same destination, contested route — is exactly why Nash is worth citing: he shows the anti-inflation conclusion does not depend on Austrian premises.
 
@@ -4710,7 +4710,7 @@ He is careful about its status. This is offered as "the fundamental sociological
 
 The force of Michels's argument is that the causes are mechanical. Three reinforce one another.
 
-The first is the **technical impossibility of direct mass rule**. "The most formidable argument against the sovereignty of the masses is, however, derived from the mechanical and technical impossibility of its realization," Michels writes: a large body cannot deliberate, decide, or act as a body, so it must delegate. "The sovereign masses are altogether incapable of undertaking the most necessary resolutions." Delegation is not a betrayal of mass democracy but its precondition.
+The first is the **technical impossibility of direct mass rule**. "The most formidable argument against the sovereignty of the masses is, however, derived from the mechanical and technical impossibility of its realization", Michels writes: a large body cannot deliberate, decide, or act as a body, so it must delegate. "The sovereign masses are altogether incapable of undertaking the most necessary resolutions." Delegation is not a betrayal of mass democracy but its precondition.
 
 The second is the **entrenchment of the delegates**. Leadership demands continuity, specialized skill, and control of the organization's communications and funds; each of these is a resource the leaders accumulate and the members cannot easily reclaim. "As a result of organization, every party or professional union becomes divided into a minority of directors and a majority of directed", and the division, once established, is self-reinforcing — the directors set the agenda, groom their successors, and control the information on which any challenge would depend.
 
@@ -4757,7 +4757,7 @@ The argument is the political consequence of the [[the-cybereconomy|cybereconomy
 
 ## Lane's Three Modes of Control
 
-To explain why this matters, Davidson and Rees-Mogg borrow economic historian Frederic Lane's analysis of government as "an economic unit that sells protection." Lane distinguished three ways the protection-selling enterprise can be controlled, each with different incentives:
+To explain why this matters, Davidson and Rees-Mogg borrow economic historian Frederic Lane's analysis of government as "an economic unit that sells protection". Lane distinguished three ways the protection-selling enterprise can be controlled, each with different incentives:
 
 - **Proprietors** — a hereditary owner (a medieval lord, the Sultan of Brunei) who runs the territory to maximize profit. Proprietors cut costs but keep the price (tax) as high as their monopoly allows.
 - **Employees** — bureaucracies and political classes that run government for their own benefit. They favor maximizing size and employment, resist cost-cutting, and tend toward chronic deficits.
@@ -4794,7 +4794,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 
 ## Sources
 
-- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 1 ("treat populations ... more like customers"), Chapter 5 ("The Life and Death of the Nation-State," Lane's proprietors/employees/customers typology), and the "sovereignty services" passages
+- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 1 ("treat populations ... more like customers"), Chapter 5 ("The Life and Death of the Nation-State", Lane's proprietors/employees/customers typology), and the "sovereignty services" passages
 
 ---
 
@@ -5499,7 +5499,7 @@ Category: concept
 
 # Megapolitics
 
-> Megapolitics, in Davidson and Rees-Mogg's [[the-sovereign-individual|The Sovereign Individual]], is the study of the factors that set "the costs and rewards of projecting power." The claim is that beneath ordinary politics — elections, laws, ideologies — lies a deeper layer that determines what kind of government is even possible, by governing whether, where, and for whom violence pays.
+> Megapolitics, in Davidson and Rees-Mogg's [[the-sovereign-individual|The Sovereign Individual]], is the study of the factors that set "the costs and rewards of projecting power". The claim is that beneath ordinary politics — elections, laws, ideologies — lies a deeper layer that determines what kind of government is even possible, by governing whether, where, and for whom violence pays.
 
 ## The Logic of Violence
 
@@ -5512,7 +5512,7 @@ The authors take from economic historian Frederic C. Lane the observation that "
 
 ## Politics Within Megapolitical Boundaries
 
-The provocative move is the ordering of cause and effect. For Davidson and Rees-Mogg, "technological imperatives, not popular opinion, are the most important sources of change." Constitutions, ideologies, and democratic choices operate *inside* boundaries that megapolitics has already drawn; they do not set those boundaries. On this view the modern nation-state, with citizenship and mass politics, did not triumph because it was more just than feudalism — it triumphed because gunpowder, mass armies, and industrial production made large centralized organization the most efficient way to project power and extract taxes.
+The provocative move is the ordering of cause and effect. For Davidson and Rees-Mogg, "technological imperatives, not popular opinion, are the most important sources of change". Constitutions, ideologies, and democratic choices operate *inside* boundaries that megapolitics has already drawn; they do not set those boundaries. On this view the modern nation-state, with citizenship and mass politics, did not triumph because it was more just than feudalism — it triumphed because gunpowder, mass armies, and industrial production made large centralized organization the most efficient way to project power and extract taxes.
 
 The book's forecast then follows directly: the microprocessor reverses that efficiency. It raises the marginal productivity of individuals, makes wealth and talent mobile, and lets value flee into a [[the-cybereconomy|cybereconomy]] where force cannot profitably reach it. Falling returns to violence mean the nation-state can no longer command the resources it once did — hence [[jurisdictional-competition|jurisdictional competition]] and the rise of the Sovereign Individual.
 
@@ -5544,7 +5544,7 @@ Confidence is low. Megapolitics is a sweeping single-source theory of all of his
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
-- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 2 ("A Crash Course in Megapolitics," the four factors, the Lane epigraph) and Chapter 6 ("The Megapolitics of the Information Age")
+- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 2 ("A Crash Course in Megapolitics", the four factors, the Lane epigraph) and Chapter 6 ("The Megapolitics of the Information Age")
 - [Coercion, Capital, and European States, AD 990–1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly's 1990
 
 ---
@@ -5660,7 +5660,7 @@ Most of this corpus argues from the anarcho-capitalist side; minarchism is the p
 ## See Also
 
 - [[ayn-rand|Ayn Rand]] - the canonical modern statement of the rights-protecting minimal state
-- [[the-virtue-of-selfishness|The Virtue of Selfishness]] - “The Nature of Government,” the source text
+- [[the-virtue-of-selfishness|The Virtue of Selfishness]] - “The Nature of Government”, the source text
 - [[robert-nozick|Robert Nozick]] - the philosopher who gave minarchism its academic statement
 - [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] - Nozick's 1974 book: the minimal state, entitlement theory, and Wilt Chamberlain
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the anarcho-capitalist alternative minarchism rejects
@@ -5746,7 +5746,7 @@ Category: concept
 >
 > — [[ludwig-von-mises|Ludwig von Mises]], [[liberalism|Liberalism]], Part I §5.
 
-Mises is identifying a policy class, not a single instrument. The class includes the spending side as well as the tax side; what unifies it is the structural direction of the resource flow — from accumulated capital and future production toward present consumption and current transfer. In Mises's terms, the antiliberal demagogue offers "a relatively abundant momentary gratification" against "a relatively grievous disadvantage in the future," and represents the latter as hard-heartedness when it is in fact arithmetic.
+Mises is identifying a policy class, not a single instrument. The class includes the spending side as well as the tax side; what unifies it is the structural direction of the resource flow — from accumulated capital and future production toward present consumption and current transfer. In Mises's terms, the antiliberal demagogue offers "a relatively abundant momentary gratification" against "a relatively grievous disadvantage in the future", and represents the latter as hard-heartedness when it is in fact arithmetic.
 
 The praxeological argument is independent of any specific tax design. Capital is the stock of produced means of production accumulated by prior abstention from consumption; any policy that systematically diverts those means toward immediate consumption necessarily reduces the stock from which future production proceeds. The policy class operates regardless of whether the diversion runs through progressive income taxes, transfer payments, expropriation, or a direct tax on the capital stock itself. The specific instrument changes the incidence; the policy class predicts the direction.
 
@@ -5786,7 +5786,7 @@ Category: concept
 
 > "But now the drop in interest rates falsifies the businessman's calculation. Although the amount of capital goods available did not increase, the calculation employs figures which would be utilizable only if such an increase had taken place. The result of such calculations is therefore misleading. They make some projects appear profitable and realizable which a correct calculation, based on an interest rate not manipulated by credit expansion, would have shown as unrealizable."
 >
-> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]], Ch. XX "Interest, Credit Expansion, and the Trade Cycle," Scholar's Edition pp. 550–551.
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]], Ch. XX "Interest, Credit Expansion, and the Trade Cycle", Scholar's Edition pp. 550–551.
 
 Mises's mechanism is precise. Credit expansion is not a generic monetary stimulus; it is the issuance of additional fiduciary media offered on the loan market, which pushes the gross market rate of interest below the level at which voluntary saving and time preference would equilibrate it. "Credit expansion is present only if credit is granted by the issue of an additional amount of fiduciary media," he writes in [[human-action|Human Action]] Ch. XVII §11 (Scholar's Edition p. 431) — distinguishing it from the harmless re-lending of previously issued fiduciary media that old debtors have paid back.
 
@@ -6234,11 +6234,11 @@ The libertarian use of natural law is the endpoint of a long argument. This wiki
 
 **[[samuel-pufendorf|Pufendorf]] — sociality.** [[the-whole-duty-of-man|The Whole Duty of Man According to the Law of Nature]] (1673) is the systematizer between Grotius and Locke. Pufendorf grounds the *interpersonal* law of nature in one principle of human **sociality** — in Tooke's English, "every man ought, as much as in him lies, to preserve and promote society" — derived from man's neediness and his capacity to harm, and deduces the duties men owe one another from it (the duties toward God and self, he is careful to add, rest on their own foundations). This roots natural law in man's social nature rather than in contested metaphysics, and it is the deductive apparatus Locke read.
 
-**The School of Salamanca — the scholastic bridge.** Between Aquinas and [[john-locke|Locke]] stand the sixteenth-century Spanish scholastics mapped in [[school-of-salamanca|School of Salamanca]]. Vitoria carried Thomist natural law into the law of nations, while Suárez and Mariana developed consent and resistance theory — Suárez held that political power "by natural and divine law devolves solely on the people," and Mariana argued that subjects transferring power "from a state of nature to the king" reserved rights to themselves — anticipating Locke by decades. The same school, in [[murray-n-rothbard|Rothbard]]'s reading, were also proto-Austrian economists, tying natural law to subjective value and sound money.
+**The School of Salamanca — the scholastic bridge.** Between Aquinas and [[john-locke|Locke]] stand the sixteenth-century Spanish scholastics mapped in [[school-of-salamanca|School of Salamanca]]. Vitoria carried Thomist natural law into the law of nations, while Suárez and Mariana developed consent and resistance theory — Suárez held that political power "by natural and divine law devolves solely on the people", and Mariana argued that subjects transferring power "from a state of nature to the king" reserved rights to themselves — anticipating Locke by decades. The same school, in [[murray-n-rothbard|Rothbard]]'s reading, were also proto-Austrian economists, tying natural law to subjective value and sound money.
 
 **[[john-locke|Locke]] — natural rights.** The [[the-second-treatise-of-government|Second Treatise of Government]] (1689) is the hinge between natural law and modern liberty. The state of nature "has a law of nature to govern it... and reason, which is that law, teaches all mankind... that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions". Property arises pre-politically: "every man has a property in his own person", and by mixing his labour with the world he makes things his own. Government exists by consent to protect these rights, and forfeits its authority when it invades them — the right of revolution.
 
-**The political application — the [[declaration-of-independence|Declaration]] and [[rights-of-man|Paine]].** The tradition becomes practice in 1776. The Declaration of Independence states the Lockean syllogism as self-evident: that all men are created equal and endowed with "certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness," that "to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed," and that the people may "alter or to abolish" a government that becomes "destructive of these ends". [[thomas-paine|Thomas Paine]]'s *Rights of Man* (1791–92) carries the same premises into mass democratic politics against Burke, insisting that rights inhere in the living and that "every age and generation must be as free to act for itself in all cases as the age and generations which preceded it."
+**The political application — the [[declaration-of-independence|Declaration]] and [[rights-of-man|Paine]].** The tradition becomes practice in 1776. The Declaration of Independence states the Lockean syllogism as self-evident: that all men are created equal and endowed with "certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness", that "to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed," and that the people may "alter or to abolish" a government that becomes "destructive of these ends". [[thomas-paine|Thomas Paine]]'s *Rights of Man* (1791–92) carries the same premises into mass democratic politics against Burke, insisting that rights inhere in the living and that "every age and generation must be as free to act for itself in all cases as the age and generations which preceded it."
 
 **[[lysander-spooner|Spooner]] — the radical conclusion.** [[spooner-natural-law|Natural Law; or The Science of Justice]] (1882) pushes the tradition to its individualist-anarchist edge. Justice is "the science of mine and thine... of all a man's rights of person and property" — an exact, immutable natural science. From this Spooner concludes that "all human legislation" beyond the enforcement of natural justice is "an intrusion, an absurdity, an usurpation, and a crime."
 
@@ -6318,7 +6318,7 @@ Run that rule through to its conclusion and inter-State war is condemned on two 
 
 ## Why no State can wage war justly
 
-A state, in Rothbard's definition, is "a group of people who have managed to acquire a virtual monopoly of the use of violence throughout a given territorial area," funded by compulsory taxation. That funding base is the first problem: war is paid for by coercing the State's own subjects, so every State war means "increased aggression against the State's own taxpayers." The second problem is the battlefield: modern inter-State war cannot be confined to aggressors but kills the innocent on the other side. A government may *assert* it is defending its citizens, but [[nonaggression-and-property-rights|Nonaggression and Property Rights]] makes defense derivative of an actual aggression against a person or property — not of the word "defense," and not of an act that itself aggresses against taxpayers and foreign innocents to carry it out.
+A state, in Rothbard's definition, is "a group of people who have managed to acquire a virtual monopoly of the use of violence throughout a given territorial area", funded by compulsory taxation. That funding base is the first problem: war is paid for by coercing the State's own subjects, so every State war means "increased aggression against the State's own taxpayers". The second problem is the battlefield: modern inter-State war cannot be confined to aggressors but kills the innocent on the other side. A government may *assert* it is defending its citizens, but [[nonaggression-and-property-rights|Nonaggression and Property Rights]] makes defense derivative of an actual aggression against a person or property — not of the word "defense," and not of an act that itself aggresses against taxpayers and foreign innocents to carry it out.
 
 This is the foreign-policy edge of [[political-means-and-economic-means|Political Means and Economic Means]]: war is the political means operating across borders, financed by extraction at home.
 
@@ -6489,7 +6489,7 @@ Category: concept
 
 ## The Protocol
 
-Nostr is a protocol, not a platform. All content takes the form of **events**: signed JSON objects containing the content, a timestamp, the author's [[public-key-cryptography|public key]], a signature, and tags. An event is "nothing more than a signed text file," so it can be stored anywhere, sent over any channel, and processed by any software that can read JSON and verify signatures.
+Nostr is a protocol, not a platform. All content takes the form of **events**: signed JSON objects containing the content, a timestamp, the author's [[public-key-cryptography|public key]], a signature, and tags. An event is "nothing more than a signed text file", so it can be stored anywhere, sent over any channel, and processed by any software that can read JSON and verify signatures.
 
 The architecture separates three roles. **Users** hold private keys and sign events. **Clients** are the apps users interact with — they fetch events from relays, display them, and create new ones. **Relays** are servers that store and forward events; they do not authenticate users, they simply accept valid signed events. No relay is authoritative: a user connects to many relays, content is replicated across the ones they choose, and no single relay can censor a user because others can carry their content. Protocol evolution happens through **NIPs** (Nostr Implementation Possibilities) — optional extensions adopted voluntarily by clients and relays, "market discovery applied to protocol development."
 
@@ -6910,11 +6910,11 @@ Holding capacity, centralization, and regime constant, a smaller and more contig
 
 Sort contemporary and historical cases by capacity-and-regime rather than by size, and a consistent tendency appears — one that runs opposite to the size thesis.
 
-**Large, total-coercion states suppress crime *and* dissent.** China is the contemporary instance: it "maintains the largest and most sophisticated mass surveillance system in the world," a system folded into the party's goal of "stability maintenance" in order to "detect and prevent protest and dissent in the country" and to "suppress dissent both at home and abroad." That apparatus is built to suppress political dissent; a state able to monitor and pre-empt organized opposition that thoroughly is, by the same token, positioned to deny organized crime the room to operate against it — and it is one of the largest and most populous states on earth. The Soviet Union is the prior century's case: the [[totalitarianism|totalitarian]] project Solzhenitsyn documents in [[the-gulag-archipelago|The Gulag Archipelago]] left little room for autonomous organization of any kind, criminal or political, outside the state's reach. Vast size did not weaken these states' grip; centralization and the absence of rights constraints tightened it.
+**Large, total-coercion states suppress crime *and* dissent.** China is the contemporary instance: it "maintains the largest and most sophisticated mass surveillance system in the world", a system folded into the party's goal of "stability maintenance" in order to "detect and prevent protest and dissent in the country" and to "suppress dissent both at home and abroad". That apparatus is built to suppress political dissent; a state able to monitor and pre-empt organized opposition that thoroughly is, by the same token, positioned to deny organized crime the room to operate against it — and it is one of the largest and most populous states on earth. The Soviet Union is the prior century's case: the [[totalitarianism|totalitarian]] project Solzhenitsyn documents in [[the-gulag-archipelago|The Gulag Archipelago]] left little room for autonomous organization of any kind, criminal or political, outside the state's reach. Vast size did not weaken these states' grip; centralization and the absence of rights constraints tightened it.
 
 **Large, rights-constrained federal states coexist with entrenched organized crime.** Brazil — a large federal democracy — has not eliminated the Primeiro Comando da Capital; on the contrary, what began when the gang was "founded on August 31, 1993, by eight prisoners at Taubaté Penitentiary" grew into "Latin America's biggest drug gang," operating across the country from within the very prisons the state runs. Brazil has the *capacity* a total-coercion state has, but not the willingness to suspend rights and federal structure to use it that way. Same size class as the total-coercion states, opposite crime outcome — because the variable is regime and rights constraint, not territory. (The United States is the same type: a large, rights-constrained federation whose monopoly of sovereignty is uncontested but which does not attempt an El-Salvador-style elimination of crime.)
 
-**The small case is a regime case in disguise.** El Salvador is invoked as proof that smallness makes crackdowns possible, but what it actually did was change *regime behavior*: it "declared a state of emergency that suspended several constitutional rights and enabled the government to launch mass arrests of suspected gang members," producing "the highest incarceration rate in the world" with "two percent of El Salvador's adult population" incarcerated, alongside a sharp fall in killings — the government reported "496 homicides in 2022, a 56.8% decrease from 1,147 homicides in 2021," which the defense minister attributed to the crackdown. It sharply reduced gang control not by being small but by doing, on a small scale, what the total-coercion states do on a large one: govern by emergency coercion. And it paid the same price — "Human rights advocates have criticized the arrests as often arbitrary, based on a person's appearance or residence, and expressed concern that innocent people are being caught in the sweeps."
+**The small case is a regime case in disguise.** El Salvador is invoked as proof that smallness makes crackdowns possible, but what it actually did was change *regime behavior*: it "declared a state of emergency that suspended several constitutional rights and enabled the government to launch mass arrests of suspected gang members", producing "the highest incarceration rate in the world" with "two percent of El Salvador's adult population" incarcerated, alongside a sharp fall in killings — the government reported "496 homicides in 2022, a 56.8% decrease from 1,147 homicides in 2021", which the defense minister attributed to the crackdown. It sharply reduced gang control not by being small but by doing, on a small scale, what the total-coercion states do on a large one: govern by emergency coercion. And it paid the same price — "Human rights advocates have criticized the arrests as often arbitrary, based on a person's appearance or residence, and expressed concern that innocent people are being caught in the sweeps."
 
 ## Does Size Affect the Rights-Suspension Itself? Two Margins
 
@@ -6971,7 +6971,7 @@ The combined analysis cuts across the usual framing of the debate. It is neither
 - [Democracy: The God That Failed (Full Text Aggregate)](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) — Hoppe's Chapter 5 on smallness, exit, and jurisdictional competition as the limit on a state's exploitation of its own subjects
 - [Salvadoran Gang Crackdown (El Salvador, 2022– )](https://en.wikipedia.org/wiki/Salvadoran_gang_crackdown) — the State of Exception and suspension of rights, the scale of arrests and world-highest incarceration rate, the homicide decline, the human-rights-abuse allegations, and the multifactor explanation of effectiveness (English Wikipedia, tertiary/current-events)
 - [Primeiro Comando da Capital (PCC)](https://en.wikipedia.org/wiki/Primeiro_Comando_da_Capital) — the prison-born Brazilian syndicate, "Latin America's biggest drug gang," as the entrenched organized crime a large rights-constrained federal state has not eliminated (English Wikipedia, tertiary/current-events)
-- [Mass Surveillance in China](https://en.wikipedia.org/wiki/Mass_surveillance_in_China) — China's surveillance apparatus, "stability maintenance," and the suppression of protest and dissent, as the large total-coercion state whose capacity leaves little room for autonomous criminal or political organization (English Wikipedia, tertiary/current-events)
+- [Mass Surveillance in China](https://en.wikipedia.org/wiki/Mass_surveillance_in_China) — China's surveillance apparatus, "stability maintenance", and the suppression of protest and dissent, as the large total-coercion state whose capacity leaves little room for autonomous criminal or political organization (English Wikipedia, tertiary/current-events)
 - [The Gulag Archipelago (Full Text Aggregate)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) — Solzhenitsyn's account of the Soviet total-coercion apparatus, used here for the USSR as the prior-century case of a large centralized state that left no autonomous organization standing (OCR source; cited for the paraphrased claim, not quoted verbatim)
 
 ---
@@ -8362,7 +8362,7 @@ Category: concept
 
 > "In the purely free and unhampered market, there will be no cluster of errors, since trained entrepreneurs will not all make errors at the same time. The 'boom-bust' cycle is generated by monetary intervention in the market, specifically bank credit expansion to business."
 >
-> — [[murray-n-rothbard|Rothbard]], [[americas-great-depression|America's Great Depression]], Ch. 1 "The Positive Theory of the Cycle," pp. 10–11.
+> — [[murray-n-rothbard|Rothbard]], [[americas-great-depression|America's Great Depression]], Ch. 1 "The Positive Theory of the Cycle", pp. 10–11.
 
 Rothbard sharpens [[mises-on-credit-expansion|Mises]] on two points. First, the institutional source: "government is inherently inflationary because it has, over the centuries, acquired control over the monetary system… [it] has almost always triggered, encouraged, and directed the inflationary boom" ([[americas-great-depression|AGD]], p. 24). The [[federal-reserve|Federal Reserve]] is the specific American instance — Rothbard's [[americas-great-depression|America's Great Depression]] treats 1921–1929 as an extended Fed-engineered credit inflation whose 1929 collapse was the predictable corrective.
 
@@ -8457,13 +8457,13 @@ Category: concept
 
 > "In war, State power is pushed to its ultimate, and, under the slogans of 'defense' and 'emergency,' it can impose a tyranny upon the public such as might be openly resisted in time of peace. War thus provides many benefits to a State, and indeed every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society."
 >
-> — [[murray-n-rothbard|Murray N. Rothbard]], [[anatomy-of-the-state|Anatomy of the State]] (1974), "What the State Fears."
+> — [[murray-n-rothbard|Murray N. Rothbard]], [[anatomy-of-the-state|Anatomy of the State]] (1974), "What the State Fears".
 
 ## The Permanent-Burden Claim
 
 Rothbard's case in [[anatomy-of-the-state|Anatomy of the State]] is not the slogan that "war is the health of the State" — that is Randolph Bourne, whom Rothbard quotes — but the more specific historical claim: every modern war "has brought to the warring peoples a permanent legacy of increased State burdens upon society." The mechanism has two components. First, the slogans of "defense" and "emergency" suspend the resistance that comparable peacetime expansions would face. Second, the institutions built to wage the war — taxes, debt, conscription apparatus, surveillance, regulatory bodies, military-industrial procurement chains — survive the war that justified them. The bar for accepting state extension is lowered, the apparatus persists, and the new floor becomes the next baseline.
 
-The same chapter explains the demand side. Rothbard notes that the state has been "successful in recent centuries in instilling fear of other State rulers," so that "a war between rulers was converted into a war between peoples, with each people coming to the defense of its rulers in the erroneous belief that the rulers were defending them." The supply of "credible threats" required to justify the permanent-burden ratchet is endogenous: the state-system manufactures the demand for its own services.
+The same chapter explains the demand side. Rothbard notes that the state has been "successful in recent centuries in instilling fear of other State rulers", so that "a war between rulers was converted into a war between peoples, with each people coming to the defense of its rulers in the erroneous belief that the rulers were defending them." The supply of "credible threats" required to justify the permanent-burden ratchet is endogenous: the state-system manufactures the demand for its own services.
 
 ## Relation to the Wiki
 
@@ -8742,8 +8742,8 @@ The Salamancans revived Thomism in the "silver age" of scholasticism, against th
 
 The Salamancans carried [[aquinas-treatise-on-law|Aquinas's]] natural law forward and, strikingly, toward consent and resistance theory that anticipates [[the-second-treatise-of-government|Locke]]:
 
-- **Suárez** held that "political power by natural and divine law devolves solely on the people as a whole"; the sovereign's power "must necessarily be bestowed upon him by the consent of the community," and a manifest tyrant may be resisted and even killed (tyrannicide, hedged with restrictions).
-- **Mariana** went furthest. In *De Rege* (1599) he attacked absolutism and the divine right of kings, denounced past conquerors as tyrants "who acquired their power by injustice and robbery," and argued that in "transferring their original political power from a state of nature to the king, the people necessarily reserved important rights to themselves" — including the right to reclaim sovereignty, to tax, to veto laws, and to resist. He questioned whether the king owned his subjects' property and concluded that he did not.
+- **Suárez** held that "political power by natural and divine law devolves solely on the people as a whole"; the sovereign's power "must necessarily be bestowed upon him by the consent of the community", and a manifest tyrant may be resisted and even killed (tyrannicide, hedged with restrictions).
+- **Mariana** went furthest. In *De Rege* (1599) he attacked absolutism and the divine right of kings, denounced past conquerors as tyrants "who acquired their power by injustice and robbery", and argued that in "transferring their original political power from a state of nature to the king, the people necessarily reserved important rights to themselves" — including the right to reclaim sovereignty, to tax, to veto laws, and to resist. He questioned whether the king owned his subjects' property and concluded that he did not.
 - **Vitoria** applied natural law to the law of nations and the rights of the New World's indigenous peoples — the natural-law lineage that runs parallel to, and feeds, [[the-rights-of-war-and-peace|Grotius's]] founding of international law.
 
 ## The Proto-Austrian Side
@@ -8776,7 +8776,7 @@ The Salamancans are the wiki's clearest single bridge between its [[natural-law-
 
 ## Sources
 
-- [Rothbard, Economic Thought Before Adam Smith (Full Text)](https://cdn.mises.org/Austrian%20Perspective%20on%20the%20History%20of%20Economic%20Thought_1.epub) - Chapter 4, "The late Spanish scholastics," §§4.1–4.7 (Cajetan, the School of Salamanca, Vitoria, Molina, Suárez, and Mariana on natural rights, value, the just price, money, and debasement)
+- [Rothbard, Economic Thought Before Adam Smith (Full Text)](https://cdn.mises.org/Austrian%20Perspective%20on%20the%20History%20of%20Economic%20Thought_1.epub) - Chapter 4, "The late Spanish scholastics", §§4.1–4.7 (Cajetan, the School of Salamanca, Vitoria, Molina, Suárez, and Mariana on natural rights, value, the just price, money, and debasement)
 - [Mariana, A Treatise on the Alteration of Money (Bibliographic Stub)](https://mises.org/library/juan-de-mariana-and-modern-american-politics-money-salamanca-cervantes-jefferson-and) - primary-source stub for Mariana's anti-debasement argument (full English text copyright-restricted)
 
 ---
@@ -9696,7 +9696,7 @@ Category: concept
 
 # Stateless Somalia
 
-When Somalia's central government collapsed in 1991 it did not become a controlled experiment in liberty, but it did become the closest thing the modern record offers to a comparison of a population *under a predatory state* versus the *same population without one*. Peter Leeson's verdict from that comparison is blunt: the government "did more harm to its citizens than good," and its disappearance opened room for progress. This is the empirical counterweight to the intuition that any state, however bad, beats anarchy — and it is the case the wiki's war-and-state arguments point at when they call the state predatory rather than protective.
+When Somalia's central government collapsed in 1991 it did not become a controlled experiment in liberty, but it did become the closest thing the modern record offers to a comparison of a population *under a predatory state* versus the *same population without one*. Peter Leeson's verdict from that comparison is blunt: the government "did more harm to its citizens than good", and its disappearance opened room for progress. This is the empirical counterweight to the intuition that any state, however bad, beats anarchy — and it is the case the wiki's war-and-state arguments point at when they call the state predatory rather than protective.
 
 ## The finding
 
@@ -9704,7 +9704,7 @@ Leeson assembles eighteen welfare indicators that allow pre- and post-collapse c
 
 > on nearly all of 18 key indicators that allow pre- and post-stateless welfare comparisons, Somalis are better off under anarchy than they were under government.
 
-The mechanism he credits is not anarchy as magic but the *removal of predation*: with the extractive apparatus gone, he attributes the gains to renewed economic vibrancy and "public goods in the absence of a predatory state." Telecoms, livestock export, and money-transfer networks grew under customary law (*xeer*) and clan-based dispute resolution rather than statute.
+The mechanism he credits is not anarchy as magic but the *removal of predation*: with the extractive apparatus gone, he attributes the gains to renewed economic vibrancy and "public goods in the absence of a predatory state". Telecoms, livestock export, and money-transfer networks grew under customary law (*xeer*) and clan-based dispute resolution rather than statute.
 
 ## The conditional, stated plainly
 
@@ -9997,11 +9997,11 @@ Category: concept
 
 ## Escape From Territorial Taxation
 
-The cybereconomy is the economic half of the book's [[megapolitics|megapolitical]] argument. Taxation works because the state can locate, threaten, and seize physical wealth and physical persons inside its borders. The authors argue that when the highest-value work is informational — performed "anywhere" by anyone "with a portable computer and a satellite link" — and when the transactions themselves occur in an encrypted, placeless medium, the state's central lever stops working. Wealth acquires what they call financial "escape velocity." Governments that "attempt to charge too much as the price of domicile will merely drive away their best customers," which is the mechanism behind [[jurisdictional-competition|jurisdictional competition]].
+The cybereconomy is the economic half of the book's [[megapolitics|megapolitical]] argument. Taxation works because the state can locate, threaten, and seize physical wealth and physical persons inside its borders. The authors argue that when the highest-value work is informational — performed "anywhere" by anyone "with a portable computer and a satellite link" — and when the transactions themselves occur in an encrypted, placeless medium, the state's central lever stops working. Wealth acquires what they call financial "escape velocity." Governments that "attempt to charge too much as the price of domicile will merely drive away their best customers", which is the mechanism behind [[jurisdictional-competition|jurisdictional competition]].
 
 ## Cybercash
 
-The book's most concrete and most prescient forecast concerns money. Davidson and Rees-Mogg predicted that cybercommerce would "lead inevitably to cybermoney," a "new digital form of money" with a specific set of properties:
+The book's most concrete and most prescient forecast concerns money. Davidson and Rees-Mogg predicted that cybercommerce would "lead inevitably to cybermoney", a "new digital form of money" with a specific set of properties:
 
 - It would "consist of encrypted sequences of multihundred-digit prime numbers" — "unique, anonymous, and verifiable."
 - It would be "all but impossible to counterfeit" for "the fundamental mathematical reason that it is all but impossible to unravel the product of multihundred-digit prime numbers."
@@ -10036,7 +10036,7 @@ Confidence is medium. The cybercash prediction was substantially vindicated by t
 
 ## Sources
 
-- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 1 (the cybereconomy preview, "no cybertaxes and no cybergovernment") and Chapter 7 ("Transcending Locality," the "Cybercash" section, and the Hayek citation)
+- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 1 (the cybereconomy preview, "no cybertaxes and no cybergovernment") and Chapter 7 ("Transcending Locality", the "Cybercash" section, and the Hayek citation)
 
 ---
 
@@ -10086,7 +10086,7 @@ Category: concept
 
 ## The principle
 
-In his 1850 essay “That Which Is Seen, and That Which Is Not Seen,” Bastiat draws the distinction that gives the concept its name: an act produces one immediate, visible effect and a series of later effects that must be foreseen rather than seen. The difference between good and bad economics, he argues, is whether one reckons with both.
+In his 1850 essay “That Which Is Seen, and That Which Is Not Seen”, Bastiat draws the distinction that gives the concept its name: an act produces one immediate, visible effect and a series of later effects that must be foreseen rather than seen. The difference between good and bad economics, he argues, is whether one reckons with both.
 
 > …the one takes account of the visible effect; the other takes account both of the effects which are seen and also of those which it is necessary to foresee.
 >
@@ -10324,7 +10324,7 @@ Category: concept
 
 ## What Tor Is
 
-Tor — the name derives from "the onion router" — is a distributed overlay network for anonymizing everyday TCP traffic — web browsing, chat, SSH, and the like. A user's client builds a *circuit* through several volunteer-run relays and wraps each packet in nested layers of encryption, one per hop, so that each relay peels a single layer and forwards the rest. The entry relay sees the user but not the destination; the exit relay sees the destination but not the user; no relay in between sees either end. In the design paper's phrase, "each server only knows the adjacent servers in the circuit." The full mechanism — telescoping circuit construction, forward secrecy, directory servers, exit policies, rendezvous points — is documented in the 2004 paper by Roger Dingledine, Nick Mathewson, and Paul Syverson, cataloged here as [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]]; this page is about Tor as a living system and a political object, and defers the walkthrough to that reference.
+Tor — the name derives from "the onion router" — is a distributed overlay network for anonymizing everyday TCP traffic — web browsing, chat, SSH, and the like. A user's client builds a *circuit* through several volunteer-run relays and wraps each packet in nested layers of encryption, one per hop, so that each relay peels a single layer and forwards the rest. The entry relay sees the user but not the destination; the exit relay sees the destination but not the user; no relay in between sees either end. In the design paper's phrase, "each server only knows the adjacent servers in the circuit". The full mechanism — telescoping circuit construction, forward secrecy, directory servers, exit policies, rendezvous points — is documented in the 2004 paper by Roger Dingledine, Nick Mathewson, and Paul Syverson, cataloged here as [[tor-the-second-generation-onion-router|Tor: The Second-Generation Onion Router]]; this page is about Tor as a living system and a political object, and defers the walkthrough to that reference.
 
 The paper describes Tor as a "circuit-based low-latency anonymous" communication service, and every design choice is framed as a compromise among anonymity, usability, and efficiency. That framing is the key to the whole project. Tor deliberately does not try to win against the strongest imaginable attacker. "A global passive adversary is the most commonly assumed" threat in the anonymity literature, the authors note — and yet like all practical low-latency systems, Tor does not protect against one. An adversary who can watch both ends of a circuit can still correlate timing and volume and confirm who is talking to whom. Tor's stated goal is narrower and honest: deployable anonymity against a *realistic* adversary who sees only part of the network — a system people will actually run, not a theoretical ideal nobody deploys.
 
@@ -10336,7 +10336,7 @@ Tor is the low-latency heir to a lineage that begins with David Chaum's 1981 mix
 
 Three tensions define Tor as a political object, and none of them are settled.
 
-Exit nodes carry the network's liability. A relay's exit policy lets each operator advertise which destinations it will serve, because the paper's own deployability rule is that the design "must not place a heavy liability burden" on operators. But someone's traffic still leaves the network from a real machine with a real owner, and abuse complaints, police visits, and blocklists land on that owner. The authors are candid rather than triumphant here: "Exit abuse is a serious barrier to wide-scale Tor deployment", and although they stress that Tor enables no new *class* of abuse — the same attacks are available more cheaply elsewhere — they concede that "preventing abuse of open exit nodes is an unsolved problem" and will "probably remain an arms race." Because a network's reputation is itself a security property, abuse that drives operators and users away literally shrinks everyone's anonymity. Running an exit, in the paper's dry formulation, requires "volunteers who can tolerate some political heat."
+Exit nodes carry the network's liability. A relay's exit policy lets each operator advertise which destinations it will serve, because the paper's own deployability rule is that the design "must not place a heavy liability burden" on operators. But someone's traffic still leaves the network from a real machine with a real owner, and abuse complaints, police visits, and blocklists land on that owner. The authors are candid rather than triumphant here: "Exit abuse is a serious barrier to wide-scale Tor deployment", and although they stress that Tor enables no new *class* of abuse — the same attacks are available more cheaply elsewhere — they concede that "preventing abuse of open exit nodes is an unsolved problem" and will "probably remain an arms race". Because a network's reputation is itself a security property, abuse that drives operators and users away literally shrinks everyone's anonymity. Running an exit, in the paper's dry formulation, requires "volunteers who can tolerate some political heat."
 
 Then the funding paradox. Onion routing was invented at the U.S. Naval Research Laboratory, where Syverson worked, and the 2004 paper's own acknowledgments credit support from the Office of Naval Research and DARPA. The state built the thing the cypherpunks wanted, and the honest reading of that fact is contested, not settled. Suspicious observers treat government provenance as grounds to distrust the tool outright. The standard defense (an argument about the tool, not a claim in the paper) turns on the anonymity-set logic the paper does establish: a network hides each user among the others, so a funder that wants cover for *its own* traffic needs a crowd of unrelated users — which an open, widely used, source-auditable network supplies precisely by serving everyone else. Tor's threat model, which openly declines to defend against a global passive adversary, is also frank about what a signals-intelligence agency could still do to it. The tool is real; the provenance is real; the tension is permanent, and a page that pretended otherwise would be cheerleading.
 
@@ -10437,9 +10437,9 @@ Category: concept
 
 ## Arendt's Definition
 
-[[hannah-arendt|Arendt]]'s [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] is careful about categories. Tyranny lawlessly rules; dictatorship rules by emergency command and fear; authoritarianism rules through hierarchy and an ideology of order. Totalitarianism is different. Its characteristic vocabulary is "total domination," "law of movement," "everything is possible," and "organized loneliness."
+[[hannah-arendt|Arendt]]'s [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] is careful about categories. Tyranny lawlessly rules; dictatorship rules by emergency command and fear; authoritarianism rules through hierarchy and an ideology of order. Totalitarianism is different. Its characteristic vocabulary is "total domination," "law of movement", "everything is possible," and "organized loneliness".
 
-The core claim appears in Chapter 13, "Ideology and Terror." Totalitarian rule claims to obey the movement of Nature or History more directly than ordinary positive law can. Nazi rule treats race and Nature as the moving law. Stalinist rule treats class and History as the moving law. Terror then becomes the instrument for making that alleged motion real by eliminating the "objective enemy" selected by the ideology.
+The core claim appears in Chapter 13, "Ideology and Terror". Totalitarian rule claims to obey the movement of Nature or History more directly than ordinary positive law can. Nazi rule treats race and Nature as the moving law. Stalinist rule treats class and History as the moving law. Terror then becomes the instrument for making that alleged motion real by eliminating the "objective enemy" selected by the ideology.
 
 This is why totalitarianism is not merely a very severe state. It is a form of rule in which law, morality, factuality, and personal responsibility are dissolved into an ideological process. The subject is not asked only to obey. He is pressed into a movement that claims to know in advance what Nature or History requires.
 
@@ -10628,7 +10628,7 @@ Category: concept
 
 In [[shelling-out|Shelling Out]], [[nick-szabo|Nick Szabo]] argues that prehistoric collectibles worked because they were not arbitrary decorations. Shell beads, teeth, flints, jewelry, and precious objects could carry wealth because they were durable, portable, recognizable, and hard to fake.
 
-Szabo's key phrase is "unforgeably costly." A collectible that takes skill, time, rarity, or difficult acquisition to produce can become valuable because the cost is amortized over repeated wealth transfers. The object does not need to be useful like a tool every time it changes hands. Its function is to make transfer and settlement possible among parties who cannot rely entirely on memory, kinship, or trust.
+Szabo's key phrase is "unforgeably costly". A collectible that takes skill, time, rarity, or difficult acquisition to produce can become valuable because the cost is amortized over repeated wealth transfers. The object does not need to be useful like a tool every time it changes hands. Its function is to make transfer and settlement possible among parties who cannot rely entirely on memory, kinship, or trust.
 
 This is why the concept bridges anthropology to monetary theory. The same primitive appears in later money: a medium that can be produced cheaply on demand fails as a store of value because producers can dilute holders.
 
@@ -10854,7 +10854,7 @@ It should be said plainly that this is the most contested move in the chain. Cri
 
 ## The Market Alternative: The Penal Bond
 
-The theory also supplies the device a free society would actually use, and it is neither forced performance nor open-ended labor. Rothbard, following A.W.B. Simpson's history, points to the medieval **penal or performance bond**: the contractor "obligated himself to pay what was usually twice the sum he owed in case of failure to pay his debt or fulfill his contract," so that "the voluntarily contracted penalty served as an incentive for him to fulfill his contract." The obligation that bites on default is a *pre-agreed transfer of money* — alienable, and therefore enforceable — rather than a claim on the person.
+The theory also supplies the device a free society would actually use, and it is neither forced performance nor open-ended labor. Rothbard, following A.W.B. Simpson's history, points to the medieval **penal or performance bond**: the contractor "obligated himself to pay what was usually twice the sum he owed in case of failure to pay his debt or fulfill his contract", so that "the voluntarily contracted penalty served as an incentive for him to fulfill his contract." The obligation that bites on default is a *pre-agreed transfer of money* — alienable, and therefore enforceable — rather than a claim on the person.
 
 This is why a pure promise of personal performance cannot be enforced at all. Rothbard's movie-actor example makes the boundary vivid: an actor who agrees to appear and then does not cannot be forced to perform — "Certainly not, for that would be compulsory slavery" — and, absent a bond, cannot even be made to pay damages, since "he has committed no theft against the owners (or against anyone else), and therefore he cannot be forced to pay damages." If the parties want security, they must build it as a title: a penalty bond the actor signs in advance. The bond is thus how a free society handles *performance* promises without ever having to compel a person — it converts a personal obligation into a money title before the fact. A money loan is the case where that title already exists, which is why an unpaid loan is enforced not by a bond but by restitution: attachment of the debtor's property and income, with voluntary forgiveness as the only non-coercive release.
 
@@ -10905,7 +10905,7 @@ Category: concept
 
 ## The Core Thesis
 
-In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], Tilly's central claim is usually condensed as "war made the state, and the state made war." Chapter 3's title gives the compact version: "How War Made States, and Vice Versa."
+In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], Tilly's central claim is usually condensed as "war made the state, and the state made war." Chapter 3's title gives the compact version: "How War Made States, and Vice Versa".
 
 The mechanism is not mystical. Rulers who fought wars needed armies, navies, supplies, fortifications, credit, taxes, and compliant populations. To obtain those resources, they created or enlarged treasuries, tax offices, debt instruments, supply services, courts, police, conscription systems, and bargaining institutions. Those organizations then persisted beyond the immediate war and became part of the state apparatus.
 
@@ -10923,7 +10923,7 @@ The typology matters because it prevents a flat conquest-only account. Coercion 
 
 ## Protection Rackets
 
-The famous protection-racket formulation is now directly sourced through [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]. Tilly opens the essay by arguing that, if protection rackets are organized crime at its smoothest, war making and state making are "quintessential protection rackets with the advantage of legitimacy."
+The famous protection-racket formulation is now directly sourced through [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]. Tilly opens the essay by arguing that, if protection rackets are organized crime at its smoothest, war making and state making are "quintessential protection rackets with the advantage of legitimacy".
 
 The 1985 essay supplies the explicit organized-crime analogy and the four-part model: war making, state making, protection, and extraction. The later book [[coercion-capital-and-european-states|Coercion, Capital, and European States]] supplies the broader capital/coercion typology. Together they support a stronger version of the state/protection-racket convergence: rulers build protection organizations partly by monopolizing violence, suppressing rivals, selling protection, and extracting the means to do all three.
 
@@ -11578,7 +11578,7 @@ Aquinas defines law precisely (Q. 90): "an ordinance of reason for the common go
 
 He then distinguishes four kinds of law (QQ. 91–93):
 - **Eternal law** — God's rational governance of the whole created order.
-- **Natural law** — "the rational creature's participation of the eternal law," accessible to reason. Its first, self-evident precept (Q. 94) is that "good is to be done and pursued, and evil is to be avoided," from which all other natural precepts follow (preservation of life, family, knowledge of truth, life in society).
+- **Natural law** — "the rational creature's participation of the eternal law", accessible to reason. Its first, self-evident precept (Q. 94) is that "good is to be done and pursued, and evil is to be avoided", from which all other natural precepts follow (preservation of life, family, knowledge of truth, life in society).
 - **Human (positive) law** — the particular determinations that human legislators derive from natural law for their communities (QQ. 95–97).
 - **Divine law** — what is revealed (the Old and New Law, QQ. 98–108), exceeding what reason alone discovers.
 
@@ -11764,7 +11764,7 @@ The book is organized in three parts whose titles name the laws of Aristotelian 
 
 ## The Core Ideas It Dramatizes
 
-The plot is a vehicle for the philosophy laid out in [[objectivism|Objectivism]]. Reason is presented as man's only tool of survival, and **rational self-interest** as the proper moral purpose of a life — captured in the oath the strikers swear: "I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine." Rand's distinctive concept of **the sanction of the victim** holds that the productive enable their own exploitation by accepting the premise that their ability obligates them to others; the strike is simply the withdrawal of that consent. **"A is A"** restates [[aristotle|Aristotle]]'s law of identity as a moral demand to face facts without evasion. In Francisco's money speech, Rand inverts the proverb to argue money is "a tool of exchange" and "the barometer of a society's virtue," honestly earned wealth being a mark of merit rather than guilt. These threads are gathered into Galt's roughly sixty-page radio address ("This is John Galt speaking"), the longest single statement of Objectivism in fiction.
+The plot is a vehicle for the philosophy laid out in [[objectivism|Objectivism]]. Reason is presented as man's only tool of survival, and **rational self-interest** as the proper moral purpose of a life — captured in the oath the strikers swear: "I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine." Rand's distinctive concept of **the sanction of the victim** holds that the productive enable their own exploitation by accepting the premise that their ability obligates them to others; the strike is simply the withdrawal of that consent. **"A is A"** restates [[aristotle|Aristotle]]'s law of identity as a moral demand to face facts without evasion. In Francisco's money speech, Rand inverts the proverb to argue money is "a tool of exchange" and "the barometer of a society's virtue", honestly earned wealth being a mark of merit rather than guilt. These threads are gathered into Galt's roughly sixty-page radio address ("This is John Galt speaking"), the longest single statement of Objectivism in fiction.
 
 ## The Looters and the Aristocracy of Pull
 
@@ -12397,7 +12397,7 @@ Rand's framing argument is that capitalism was defeated intellectually before it
 
 ## "What Is Capitalism?" and the moral case from rights
 
-The opening essay (originally published in *The Objectivist Newsletter*, November–December 1965) supplies the definition the whole project turns on: "Capitalism is a social system based on the recognition of individual rights, including property rights, in which all property is privately owned." From this Rand derives that recognizing rights "entails the banishment of physical force from human relationships," that "no man or group may initiate the use of physical force against others," and that the government's "only function" is to protect rights by placing "the retaliatory use of force under objective control." She ties the system to her ethics by mapping it onto the branches of philosophy: "the four keystones of capitalism are: metaphysically, the requirements of man's nature and survival — epistemologically, reason — ethically, individual rights — politically, freedom." The essay's closing line states the book's animating charge directly: the "guiltiest men" are those who lack the courage to challenge altruism and instead try "to defend the only rational and moral system in mankind's history — capitalism — on any grounds other than rational and moral."
+The opening essay (originally published in *The Objectivist Newsletter*, November–December 1965) supplies the definition the whole project turns on: "Capitalism is a social system based on the recognition of individual rights, including property rights, in which all property is privately owned." From this Rand derives that recognizing rights "entails the banishment of physical force from human relationships", that "no man or group may initiate the use of physical force against others", and that the government's "only function" is to protect rights by placing "the retaliatory use of force under objective control". She ties the system to her ethics by mapping it onto the branches of philosophy: "the four keystones of capitalism are: metaphysically, the requirements of man's nature and survival — epistemologically, reason — ethically, individual rights — politically, freedom." The essay's closing line states the book's animating charge directly: the "guiltiest men" are those who lack the courage to challenge altruism and instead try "to defend the only rational and moral system in mankind's history — capitalism — on any grounds other than rational and moral."
 
 ## A multi-author collection
 
@@ -12604,9 +12604,9 @@ Category: reference
 
 ## The Argument of Book I
 
-Speaking in the dialogue, Marcus (Cicero) insists that law must be understood not from "the praetor's edict" or "the Twelve Tables" but "in the sublimest doctrines of philosophy." His thesis is that **law and justice are grounded in nature, not convention**:
+Speaking in the dialogue, Marcus (Cicero) insists that law must be understood not from "the praetor's edict" or "the Twelve Tables" but "in the sublimest doctrines of philosophy". His thesis is that **law and justice are grounded in nature, not convention**:
 
-- Reason is "the common property of God and man," and "this right reason is what we call Law." Because reason is shared, gods and men form "one immeasurable Commonwealth," and law is the same for all.
+- Reason is "the common property of God and man," and "this right reason is what we call Law". Because reason is shared, gods and men form "one immeasurable Commonwealth", and law is the same for all.
 - Therefore "man is born for justice, and that law and equity are not a mere establishment of opinion, but an institution of nature." Cicero explicitly condemns the view "that all things are necessarily just, which are established by the civil laws and the institutions of the people" — utility cannot be the measure of justice, for "nature herself is the foundation of justice."
 - "Law, which is nothing else than right reason enjoining what is good, and forbidding what is evil," precedes any written statute; an unjust enactment is not truly law at all.
 
@@ -12639,7 +12639,7 @@ Category: reference
 
 ## The Natural-Law Passage
 
-The work's enduring contribution is the definition of true law in Book III, preserved by Lactantius and rendered in this edition as: "There is indeed a law, right reason, which is in accordance with nature; existing in all, unchangeable, eternal." Cicero's law of nature is **universal** ("not one thing at Rome, and another thing at Athens"), **immutable** ("neither the people or the senate can absolve us from it"), and grounded in a divine and rational order rather than in human will. To act against it is to renounce oneself and become "false to his own nature."
+The work's enduring contribution is the definition of true law in Book III, preserved by Lactantius and rendered in this edition as: "There is indeed a law, right reason, which is in accordance with nature; existing in all, unchangeable, eternal." Cicero's law of nature is **universal** ("not one thing at Rome, and another thing at Athens"), **immutable** ("neither the people or the senate can absolve us from it"), and grounded in a divine and rational order rather than in human will. To act against it is to renounce oneself and become "false to his own nature".
 
 This is the tradition's most compact statement of its three signature claims: that genuine law is *discovered by reason*, that it is *binding above positive enactment*, and that it is *the same for all*. Every later figure in the lineage — [[thomas-aquinas|Aquinas]], [[hugo-grotius|Grotius]], [[john-locke|Locke]] — works variations on Cicero's formula.
 
@@ -12751,7 +12751,7 @@ Category: reference
 
 ## What the Manifesto Says
 
-The text is a monologue answering the adults who see only "Another one got caught today". Its speaker walks through the formation of a hacker — boredom in school, the discovery that a computer "does what I want it to," the door that opens onto the online world — punctuated by the refrain "They're all alike." The accusation is then reversed: the world that calls hackers criminals is the one that builds bombs and lies about it. The core of the ethic is its confession:
+The text is a monologue answering the adults who see only "Another one got caught today". Its speaker walks through the formation of a hacker — boredom in school, the discovery that a computer "does what I want it to", the door that opens onto the online world — punctuated by the refrain "They're all alike." The accusation is then reversed: the world that calls hackers criminals is the one that builds bombs and lies about it. The core of the ethic is its confession:
 
 > "Yes, I am a criminal. My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like. My crime is that of outsmarting you, something that you will never forgive me for."
 >
@@ -12990,7 +12990,7 @@ Category: reference
 
 ## Who He Is
 
-David Friedman is an American economist and legal scholar working in the price-theory tradition of the University of Chicago. He is the son of [[milton-friedman|Milton Friedman]], the Nobel monetarist and Chicago-school leader whom this wiki treats as the free-market ally its Austrians part with over money — and the disambiguation is load-bearing, because father and son sit on opposite sides of the state question. Milton was a classical liberal who wanted a smaller, rule-constrained government; David is an anarchist who wants none. *The Machinery of Freedom* is, fittingly, dedicated to his father alongside [[friedrich-a-hayek|Friedrich Hayek]] and Robert Heinlein — "from whom I learned."
+David Friedman is an American economist and legal scholar working in the price-theory tradition of the University of Chicago. He is the son of [[milton-friedman|Milton Friedman]], the Nobel monetarist and Chicago-school leader whom this wiki treats as the free-market ally its Austrians part with over money — and the disambiguation is load-bearing, because father and son sit on opposite sides of the state question. Milton was a classical liberal who wanted a smaller, rule-constrained government; David is an anarchist who wants none. *The Machinery of Freedom* is, fittingly, dedicated to his father alongside [[friedrich-a-hayek|Friedrich Hayek]] and Robert Heinlein — "from whom I learned".
 
 The book first appeared in 1973 and was expanded for a second edition whose new postscript carries his sharpest methodological statements. It is the founding text of consequentialist anarcho-capitalism, and Friedman has kept it freely available; the wiki's copy is the author-hosted full text.
 
@@ -13148,7 +13148,7 @@ Category: reference
 
 # Denationalisation of Money
 
-> [[denationalisation-of-money|Denationalisation of Money]] is [[friedrich-a-hayek|F. A. Hayek]]'s late monetary work — first published by the Institute of Economic Affairs in 1976 and expanded in 1978 as *The Argument Refined: An Analysis of the Theory and Practice of Concurrent Currencies*. Its thesis is radical: the state monopoly on issuing money should be abolished and replaced by "free trade in money," with private institutions competing to supply distinct currencies whose value the market keeps honest.
+> [[denationalisation-of-money|Denationalisation of Money]] is [[friedrich-a-hayek|F. A. Hayek]]'s late monetary work — first published by the Institute of Economic Affairs in 1976 and expanded in 1978 as *The Argument Refined: An Analysis of the Theory and Practice of Concurrent Currencies*. Its thesis is radical: the state monopoly on issuing money should be abolished and replaced by "free trade in money", with private institutions competing to supply distinct currencies whose value the market keeps honest.
 
 ## The Proposal
 
@@ -13368,7 +13368,7 @@ Category: reference
 
 # Eichmann in Jerusalem
 
-> [[eichmann-in-jerusalem|Eichmann in Jerusalem]] is [[hannah-arendt|Hannah Arendt]]'s report on Adolf Eichmann's trial and her source for the phrase "the banality of evil." It gives this wiki the ordinary-participant complement to Arendt's regime-level analysis of totalitarianism.
+> [[eichmann-in-jerusalem|Eichmann in Jerusalem]] is [[hannah-arendt|Hannah Arendt]]'s report on Adolf Eichmann's trial and her source for the phrase "the banality of evil". It gives this wiki the ordinary-participant complement to Arendt's regime-level analysis of totalitarianism.
 
 ## Text Status
 
@@ -13473,7 +13473,7 @@ Written in March 1993, the manifesto opens with the claim the whole cypherpunk p
 >
 > — [[eric-hughes|Eric Hughes]], "A Cypherpunk's Manifesto"
 
-From that definition follows the manifesto's central move, and the movement's break with mere advocacy: privacy in the electronic age will not be handed down by governments or granted by corporations, so those who want it must build it themselves. "We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy," Hughes writes — and the remedy is not persuasion but construction. He states it in the line that became the movement's motto: "Cypherpunks write code." The cypherpunks, he declares, "are dedicated to building anonymous systems," defending privacy with cryptography, anonymous mail forwarding, digital signatures, and electronic money.
+From that definition follows the manifesto's central move, and the movement's break with mere advocacy: privacy in the electronic age will not be handed down by governments or granted by corporations, so those who want it must build it themselves. "We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy", Hughes writes — and the remedy is not persuasion but construction. He states it in the line that became the movement's motto: "Cypherpunks write code." The cypherpunks, he declares, "are dedicated to building anonymous systems", defending privacy with cryptography, anonymous mail forwarding, digital signatures, and electronic money.
 
 ## Co-Founder of the Cypherpunks
 
@@ -13805,7 +13805,7 @@ The wiki draws on two strands of his work. From [[the-seen-and-the-unseen|“Tha
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
-- [Essays on Political Economy (Full Text Aggregate)](https://www.gutenberg.org/ebooks/15962 (Project Gutenberg); public-domain 19th-century English translation; SHA-256 1b4ca6a2ae3370f35f4e76b87721342ca79214e4d090becfaf6cbb7b2aed0e12) - Bastiat's essays, including “That Which Is Seen, and That Which Is Not Seen” and “The Law,” the basis for this profile
+- [Essays on Political Economy (Full Text Aggregate)](https://www.gutenberg.org/ebooks/15962 (Project Gutenberg); public-domain 19th-century English translation; SHA-256 1b4ca6a2ae3370f35f4e76b87721342ca79214e4d090becfaf6cbb7b2aed0e12) - Bastiat's essays, including “That Which Is Seen, and That Which Is Not Seen” and “The Law”, the basis for this profile
 
 ---
 
@@ -14138,7 +14138,7 @@ Confidence is medium. The posts are direct primary materials for Finney's own st
 
 ## PGP and Cypherpunk Path
 
-In "Bitcoin and Me," Finney says he worked on an early version of PGP with [[phil-zimmermann|Phil Zimmermann]], became one of the first PGP Corporation hires, and participated in the Cypherpunks. He also says he ran the first cryptographically based anonymous remailer.
+In "Bitcoin and Me", Finney says he worked on an early version of PGP with [[phil-zimmermann|Phil Zimmermann]], became one of the first PGP Corporation hires, and participated in the Cypherpunks. He also says he ran the first cryptographically based anonymous remailer.
 
 That makes Finney a bridge between [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] and Bitcoin. He moved from strong-encryption tools and remailers into proof-of-work money and peer-to-peer digital cash.
 
@@ -14152,7 +14152,7 @@ The RPOW page explicitly invokes [[nick-szabo|Nick Szabo]]'s Bit Gold and descri
 
 Finney's November 2008 post calls Bitcoin promising and immediately recognizes its reliance on honest CPU power outweighing attackers. He also links it to Szabo's Bit Gold and asks practical questions about block validation, transaction handling, double spending, and process specification.
 
-In "Bitcoin and Me," Finney says he downloaded the first release, was likely the first person besides Satoshi to run Bitcoin, mined an early block, received the first Bitcoin transaction of ten coins from [[satoshi-nakamoto|Satoshi Nakamoto]], and exchanged bug reports with Satoshi.
+In "Bitcoin and Me", Finney says he downloaded the first release, was likely the first person besides Satoshi to run Bitcoin, mined an early block, received the first Bitcoin transaction of ten coins from [[satoshi-nakamoto|Satoshi Nakamoto]], and exchanged bug reports with Satoshi.
 
 ## ALS and Final Work
 
@@ -14184,7 +14184,7 @@ The post's tone matters for confidence. It is not a detached biography; it is Fi
 
 ## Sources
 
-- [Hal Finney Early Bitcoin Corpus](https://bitcointalk.org/index.php?topic=155054.0) - aggregate source for "Bitcoin and Me," RPOW, the 2008 cryptography-list Bitcoin response, and "Running bitcoin"
+- [Hal Finney Early Bitcoin Corpus](https://bitcointalk.org/index.php?topic=155054.0) - aggregate source for "Bitcoin and Me", RPOW, the 2008 cryptography-list Bitcoin response, and "Running bitcoin"
 
 ---
 
@@ -14356,7 +14356,7 @@ Category: reference
 
 # Hashcash
 
-> [[hashcash|Hashcash]] is [[adam-back|Adam Back]]'s 2002 paper "Hashcash: A Denial of Service Counter-Measure," formalizing the proof-of-work cost function first proposed in 1997 for throttling spam, remailer abuse, and denial-of-service attacks.
+> [[hashcash|Hashcash]] is [[adam-back|Adam Back]]'s 2002 paper "Hashcash: A Denial of Service Counter-Measure", formalizing the proof-of-work cost function first proposed in 1997 for throttling spam, remailer abuse, and denial-of-service attacks.
 
 ## Cost Function Design
 
@@ -14590,7 +14590,7 @@ The volume gathers twelve essays. The ones that matter most for this wiki are:
 - **The three "Socialist Calculation" essays** — Hayek's contributions to the debate [[ludwig-von-mises|Mises]] opened in [[socialism|Socialism]], reframing the impossibility argument in terms of the knowledge problem and replying to Lange and Lerner's "market socialism" reply to Mises.
 - **The Ricardo Effect (*Profits, Interest and Investment*)** — applying the same framework to capital structure and the boom-and-bust cycle.
 
-The remaining essays — among them "The Facts of the Social Sciences," "Free Enterprise and Competitive Order," "A Commodity Reserve Currency," and *The Economic Conditions of Interstate Federalism* — round out the volume but are less central to the wiki's calculation/knowledge thread.
+The remaining essays — among them "The Facts of the Social Sciences", "Free Enterprise and Competitive Order," "A Commodity Reserve Currency", and *The Economic Conditions of Interstate Federalism* — round out the volume but are less central to the wiki's calculation/knowledge thread.
 
 ## Why It Matters in This Wiki
 
@@ -15660,7 +15660,7 @@ Category: reference
 
 ## What the Essay Argues
 
-Goldstein starts from May's Crypto Anarchist Manifesto and draws out two lessons: all information will be on the market, and the market will exist whether you like it or not — "by will, I mean already," citing WikiLeaks, [[snowden-disclosures|Edward Snowden]], and the first Bitcoin-denominated leak markets. The practical corollary is stark:
+Goldstein starts from May's Crypto Anarchist Manifesto and draws out two lessons: all information will be on the market, and the market will exist whether you like it or not — "by will, I mean already", citing WikiLeaks, [[snowden-disclosures|Edward Snowden]], and the first Bitcoin-denominated leak markets. The practical corollary is stark:
 
 > "I would recommend that anyone alive in 2014 not only assume that their secrets will be leaked, but live as though they have already been leaked."
 >
@@ -16267,7 +16267,7 @@ Category: reference
 
 In Book V Aristotle divides "political justice" into two kinds: "natural and conventional; the former being that which has everywhere the same force and does not depend upon being received or not; the latter being that which originally may be this way or that indifferently" until fixed by enactment (his examples: the price of a ransom, which animals to sacrifice). 
 
-Aristotle answers the skeptic who says *all* justice is merely conventional — because the just "is seen to change" from place to place — by insisting that "even amongst ourselves there is somewhat existing by nature," distinguishable in principle from what is merely enacted. This is the seed of the entire tradition: the claim that beneath the variety of human laws there is a standard *by nature* against which they can be measured. [[cicero|Cicero]], [[thomas-aquinas|Aquinas]], and the Scholastics all build on this distinction.
+Aristotle answers the skeptic who says *all* justice is merely conventional — because the just "is seen to change" from place to place — by insisting that "even amongst ourselves there is somewhat existing by nature", distinguishable in principle from what is merely enacted. This is the seed of the entire tradition: the claim that beneath the variety of human laws there is a standard *by nature* against which they can be measured. [[cicero|Cicero]], [[thomas-aquinas|Aquinas]], and the Scholastics all build on this distinction.
 
 ## The Teleological Frame
 
@@ -16283,7 +16283,7 @@ Aristotle is the **root** of the lineage, not a libertarian: his ethics is one o
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition this text roots
 - [[aristotle-politics|Politics]] - the companion work applying the same teleology to the city
 - [[aquinas-treatise-on-law|Treatise on Law]] - Aquinas's natural-law synthesis, which leans heavily on "the Philosopher"
-- [[cicero-de-re-publica|De Re Publica]] - Cicero's "right reason," the next stage downstream of Aristotle's natural justice
+- [[cicero-de-re-publica|De Re Publica]] - Cicero's "right reason", the next stage downstream of Aristotle's natural justice
 - [[ethics-vs-morality|Ethics vs Morality]]
 
 ## Sources
@@ -16594,7 +16594,7 @@ Category: reference
 
 # Phil Zimmermann
 
-> [[phil-zimmermann|Phil Zimmermann]] is the creator of PGP, the strong-encryption program released in 1991 and defended in his essay "Why I Wrote PGP." In this source base, he appears as an engineer-advocate for routine cryptographic privacy during the 1990s Crypto Wars.
+> [[phil-zimmermann|Phil Zimmermann]] is the creator of PGP, the strong-encryption program released in 1991 and defended in his essay "Why I Wrote PGP". In this source base, he appears as an engineer-advocate for routine cryptographic privacy during the 1990s Crypto Wars.
 
 ## What the Source Establishes
 
@@ -16984,7 +16984,7 @@ Confidence is high for the structure because the table of contents and introduct
 
 The book has eighteen chapters in five parts.
 
-Part I, "Fundamentals," covers human action, value, and time. Ammous introduces the Misesian action frame, subjective value, marginal utility, opportunity cost, and time preference.
+Part I, "Fundamentals", covers human action, value, and time. Ammous introduces the Misesian action frame, subjective value, marginal utility, opportunity cost, and time preference.
 
 Part II, "Economy," covers labor, property, capital, technology, and energy and power. This section treats individual economizing actions and the goods or tools that let people extend production through time.
 
@@ -17155,7 +17155,7 @@ This is the wiki's first Hayek text and the most famous classical-liberal book o
 
 ## Scope of the Full-Text Ingest
 
-The Mises Institute's free PDF is the 1999 Institute of Economic Affairs (IEA) edition. It contains the **Readers' Digest condensation** of [[road-to-serfdom|The Road to Serfdom]] (a much-shortened version Hayek himself approved) bundled with Hayek's 1949 essay *The Intellectuals and Socialism*. The condensation preserves the core argument but omits much of the original 1944 book's historical and German material. The wiki therefore has Hayek's argument in its compressed form together with his important essay on how ideas spread from academic specialists to the general public via "second-hand dealers in ideas." A full unabridged ingest would require a different source.
+The Mises Institute's free PDF is the 1999 Institute of Economic Affairs (IEA) edition. It contains the **Readers' Digest condensation** of [[road-to-serfdom|The Road to Serfdom]] (a much-shortened version Hayek himself approved) bundled with Hayek's 1949 essay *The Intellectuals and Socialism*. The condensation preserves the core argument but omits much of the original 1944 book's historical and German material. The wiki therefore has Hayek's argument in its compressed form together with his important essay on how ideas spread from academic specialists to the general public via "second-hand dealers in ideas". A full unabridged ingest would require a different source.
 
 ## Relation to Hayek's Other Texts
 
@@ -17379,7 +17379,7 @@ Category: reference
 
 ## What Is Known Here
 
-The primary raw source for this entry is the whitepaper itself. It gives the author name "Satoshi Nakamoto," the email address used on the paper, and the title *Bitcoin: A Peer-to-Peer Electronic Cash System*. The curated cypherpunks-list subset adds one further public act: Satoshi's announcement, dated 8 January 2009, that the first Bitcoin software release (v0.1) was available — moving the design from paper to running code. Neither source provides a biography, nationality, institutional affiliation, or legal identity. For that reason, this article treats Satoshi primarily as an authorial handle attached to a public design and its first implementation.
+The primary raw source for this entry is the whitepaper itself. It gives the author name "Satoshi Nakamoto", the email address used on the paper, and the title *Bitcoin: A Peer-to-Peer Electronic Cash System*. The curated cypherpunks-list subset adds one further public act: Satoshi's announcement, dated 8 January 2009, that the first Bitcoin software release (v0.1) was available — moving the design from paper to running code. Neither source provides a biography, nationality, institutional affiliation, or legal identity. For that reason, this article treats Satoshi primarily as an authorial handle attached to a public design and its first implementation.
 
 The confidence level is medium because two kinds of claims are being kept separate. The paper's contents, design sections, and cited references are high-confidence primary-source facts. Claims about the person or group behind the pseudonym are low-confidence unless supported by independent primary material, which is not part of this entry's source base.
 
@@ -17441,7 +17441,7 @@ Category: reference
 
 # Security Without Identification
 
-> [[security-without-identification|Security Without Identification]] is [[david-chaum|David Chaum]]'s 1985 Communications of the ACM paper "Security Without Identification: Transaction Systems to Make Big Brother Obsolete."
+> [[security-without-identification|Security Without Identification]] is [[david-chaum|David Chaum]]'s 1985 Communications of the ACM paper "Security Without Identification: Transaction Systems to Make Big Brother Obsolete".
 
 ## Dossier Society
 
@@ -18131,7 +18131,7 @@ Part I, "Fiat Money," covers the introduction, the never-ending bank holiday, fi
 
 Part II, "Fiat Life," applies the mechanism to everyday and institutional domains: fiat life, fiat food, fiat science, fiat fuels, fiat states, and fiat cost-benefit analysis. This is the book's most controversial section because it reads food, fuel, family, education, science, and development policy through monetary incentives.
 
-Part III, "The Fiat Liquidator," turns to Bitcoin: why Bitcoin fixes this, Bitcoin scaling, Bitcoin banking, Bitcoin and energy markets, Bitcoin cost-benefit analysis, and whether Bitcoin can fix this.
+Part III, "The Fiat Liquidator", turns to Bitcoin: why Bitcoin fixes this, Bitcoin scaling, Bitcoin banking, Bitcoin and energy markets, Bitcoin cost-benefit analysis, and whether Bitcoin can fix this.
 
 ## Engineering Specification
 
@@ -18409,7 +18409,7 @@ Category: reference
 
 # The Lightning Network Paper
 
-> [[the-lightning-network-paper|The Lightning Network Paper]] is Joseph Poon and Tadge Dryja's 2016 draft "The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments."
+> [[the-lightning-network-paper|The Lightning Network Paper]] is Joseph Poon and Tadge Dryja's 2016 draft "The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments".
 
 ## Scaling Problem
 
@@ -18566,7 +18566,7 @@ The OCR is searchable and substantively complete, but it should not be treated a
 
 The book has three large movements. Part One treats modern antisemitism as a secular political phenomenon rather than as a simple continuation of medieval religious Jew-hatred. Part Two treats imperialism, race-thinking, bureaucracy, the pan-movements, statelessness, and the breakdown of the nation-state. Part Three gives the totalitarian thesis proper: mass society, totalitarian movements, propaganda, organization, secret police, concentration camps, ideology, and terror.
 
-The most important contribution for this wiki is Chapter 13, "Ideology and Terror: A Novel Form of Government." There Arendt argues that totalitarianism is not just harsher tyranny, despotism, dictatorship, or authoritarianism. It replaces positive law with the alleged movement of Nature or History, uses terror to make that movement real, and aims beyond obedience toward [[totalitarianism|total domination]].
+The most important contribution for this wiki is Chapter 13, "Ideology and Terror: A Novel Form of Government". There Arendt argues that totalitarianism is not just harsher tyranny, despotism, dictatorship, or authoritarianism. It replaces positive law with the alleged movement of Nature or History, uses terror to make that movement real, and aims beyond obedience toward [[totalitarianism|total domination]].
 
 ## Place in This Wiki
 
@@ -19169,21 +19169,21 @@ Category: reference
 
 # The Virtue of Selfishness
 
-> [[the-virtue-of-selfishness|The Virtue of Selfishness]] is [[ayn-rand|Ayn Rand]]'s 1964 collection of nineteen essays — most by Rand, several by Nathaniel Branden — that states in non-fiction form the ethics dramatized in [[atlas-shrugged|Atlas Shrugged]]. Subtitled "A New Concept of Egoism," it argues that rational self-interest is a moral ideal, not a vice: that man's own life is the standard of value, that reason is his means of survival, and that altruism — the demand that man exist for the sake of others — is a "morality of death." Its later essays carry the ethics into politics, defending individual rights and a strictly limited, voluntarily financed government.
+> [[the-virtue-of-selfishness|The Virtue of Selfishness]] is [[ayn-rand|Ayn Rand]]'s 1964 collection of nineteen essays — most by Rand, several by Nathaniel Branden — that states in non-fiction form the ethics dramatized in [[atlas-shrugged|Atlas Shrugged]]. Subtitled "A New Concept of Egoism", it argues that rational self-interest is a moral ideal, not a vice: that man's own life is the standard of value, that reason is his means of survival, and that altruism — the demand that man exist for the sake of others — is a "morality of death." Its later essays carry the ethics into politics, defending individual rights and a strictly limited, voluntarily financed government.
 
-The volume gathers pieces that first appeared in *The Objectivist Newsletter* (the lone exception being the opening lecture, "The Objectivist Ethics"). Rand wrote most of the book; Branden contributed several essays, including "Mental Health versus Mysticism and Self-Sacrifice," "The Psychology of Pleasure," "Isn't Everyone Selfish?," and "Counterfeit Individualism." (A 1970 postscript notes Branden was "no longer associated" with Rand or her philosophy.) The ethics throughout is presented as Rand's argument.
+The volume gathers pieces that first appeared in *The Objectivist Newsletter* (the lone exception being the opening lecture, "The Objectivist Ethics"). Rand wrote most of the book; Branden contributed several essays, including "Mental Health versus Mysticism and Self-Sacrifice", "The Psychology of Pleasure", "Isn't Everyone Selfish?," and "Counterfeit Individualism". (A 1970 postscript notes Branden was "no longer associated" with Rand or her philosophy.) The ethics throughout is presented as Rand's argument.
 
 ## The Central Thesis: Redefining "Selfishness"
 
 Rand's provocation begins with the title. She uses *selfishness* in what she calls "its exact and purest sense" — "concern with one's own interests" — and insists this is not what is conventionally meant by the word. Crucially, rational self-interest is *not* predation. Rand explicitly disavows the "Nietzschean egoist" who holds that any action is good if intended for one's own benefit; the satisfaction of one's own irrational whims is no more a moral criterion than the satisfaction of others'. "Morality is not a contest of whims." A man's actual self-interest must be discovered and validated by rational principle, not asserted by desire.
 
-The decisive moral line, she argues, is not between serving oneself and serving others but between the producer and the looter: "There is a fundamental moral difference between a man who sees his self-interest in production and a man who sees it in robbery." The evil of the robber lies not in pursuing his interest but in *what* he counts as his interest — survival "on a subhuman level." On this view, the conventional smear of selfishness conflates the self-supporting producer with the parasite, and so "permits no concept of a self-respecting, self-supporting man" who neither sacrifices himself nor others.
+The decisive moral line, she argues, is not between serving oneself and serving others but between the producer and the looter: "There is a fundamental moral difference between a man who sees his self-interest in production and a man who sees it in robbery." The evil of the robber lies not in pursuing his interest but in *what* he counts as his interest — survival "on a subhuman level". On this view, the conventional smear of selfishness conflates the self-supporting producer with the parasite, and so "permits no concept of a self-respecting, self-supporting man" who neither sacrifices himself nor others.
 
 ## "The Objectivist Ethics": Life as the Standard, Reason as the Means
 
 The book's foundational lecture argues that values are not arbitrary: the very concept of value presupposes a living entity facing the alternative of life or death. From this, "the standard of value of the Objectivist ethics — the standard by which one judges what is good or evil — is man's life, or: that which is required for man's survival qua man." Not momentary physical survival, but the full lifespan of a rational being.
 
-Because "reason is man's basic means of survival," the good is "that which is proper to the life of a rational being." The two essentials of the human method of survival are *thinking* and *productive work*; man who tries to live by force or by mindless imitation lives as a parasite on those who think. Rand names three cardinal values — **Reason, Purpose, Self-Esteem** — with three corresponding virtues — **Rationality, Productiveness, Pride**. Each man's own life is the ethical purpose of his existence, "that ultimate value, that end in itself."
+Because "reason is man's basic means of survival," the good is "that which is proper to the life of a rational being". The two essentials of the human method of survival are *thinking* and *productive work*; man who tries to live by force or by mindless imitation lives as a parasite on those who think. Rand names three cardinal values — **Reason, Purpose, Self-Esteem** — with three corresponding virtues — **Rationality, Productiveness, Pride**. Each man's own life is the ethical purpose of his existence, "that ultimate value, that end in itself".
 
 ## The Critique of Altruism and Self-Sacrifice
 
@@ -19195,7 +19195,7 @@ The shorter essays press this on specific fronts. "The Ethics of Emergencies" ar
 
 The book's basic political principle follows directly from the ethics: "no man may initiate the use of physical force against others." Force may be used "only in retaliation and only against those who initiate its use." In "Man's Rights," Rand calls individual rights the "link between the moral code of a man and the legal code of a society" and grounds them in man's nature rather than divine or legislative grant; without property rights, she holds, no other rights are possible. "Collectivized 'Rights'" attacks the notion that groups possess rights the individual does not.
 
-"The Nature of Government" argues that because the retaliatory use of force cannot be safely "left at the discretion of individual citizens" (which would degenerate into gang rule and private vendettas), men need a government to place force "under objective control." Government is therefore defined by its **monopoly on the legal use of physical force**, which is exactly why it must be "rigidly defined, delimited and circumscribed." Its only proper purpose is to protect rights — narrowly, the police, the armed forces, and the law courts.
+"The Nature of Government" argues that because the retaliatory use of force cannot be safely "left at the discretion of individual citizens" (which would degenerate into gang rule and private vendettas), men need a government to place force "under objective control". Government is therefore defined by its **monopoly on the legal use of physical force**, which is exactly why it must be "rigidly defined, delimited and circumscribed". Its only proper purpose is to protect rights — narrowly, the police, the armed forces, and the law courts.
 
 This is **minarchism**, and it should not be confused with [[market-anarchism-and-private-law|anarcho-capitalism]]: Rand insists a single, constitutionally limited government is necessary and rejects competing private defense agencies. "Government Financing in a Free Society" completes the picture by arguing that since taxation is itself an initiation of force, a fully free society's government would be financed *voluntarily* — for instance, by a fee to make contracts legally enforceable, or a government lottery — though she treats the specific method as premature until government is first reduced to its proper functions. The closing essay, "Racism," condemns racism as "the lowest, most crudely primitive form of collectivism."
 
@@ -19700,7 +19700,7 @@ This is a commercially copyrighted Cambridge University Press chapter. The full 
 
 ## What the Essay Argues
 
-Tilly opens with the direct analogy: if protection rackets represent organized crime at its smoothest, then war making and state making are "quintessential protection rackets with the advantage of legitimacy." The point is not that every state official is personally a criminal. It is that the activities that made European states - monopoly of coercion, suppression of rivals, sale of protection, and extraction of resources - occupy the same analytical continuum as banditry, piracy, gang rivalry, and policing.
+Tilly opens with the direct analogy: if protection rackets represent organized crime at its smoothest, then war making and state making are "quintessential protection rackets with the advantage of legitimacy". The point is not that every state official is personally a criminal. It is that the activities that made European states - monopoly of coercion, suppression of rivals, sale of protection, and extraction of resources - occupy the same analytical continuum as banditry, piracy, gang rivalry, and policing.
 
 The formal framework separates four state activities:
 
@@ -20038,7 +20038,7 @@ Sentence 1 finds its sharpest single-sentence support in [[war-making-and-state-
 
 The parasite framing is figurative but is used technically inside this corpus. The upstream source is [[oppenheimer-the-state|Oppenheimer]], who defines the state as *"an organization of the political means"* — the political means being uncompensated appropriation by force, contrasted with the economic means of production and voluntary exchange. [[anatomy-of-the-state|Anatomy of the State]] inherits the distinction and applies it directly: the political means is "**parasitic**, for instead of adding to production, it subtracts from it… the systematization of the predatory process over a given territory." The state, in this construction, "provides a legal, orderly, systematic channel for the predation of private property; it renders certain, secure, and relatively 'peaceful' the lifeline of the parasitic caste in society." Tilly, working from a non-libertarian discipline, reaches a similar functional picture by analogy rather than by definition.
 
-The symbiosis-disguise layer is what [[state-power-and-intervention|State Power and Intervention]] calls "ideological camouflage." Rothbard puts it directly: *"ideological support being vital to the State, it must unceasingly try to impress the public with its 'legitimacy,' to distinguish its activities from those of mere brigands."* [[the-law|Bastiat]] names the technique: *"the conversion of the law into an instrument of plunder."* [[the-politics-of-obedience|La Boetie]] supplies the persistence mechanism — domination depends on routine cooperation, habit, and withdrawn consent, not just force.
+The symbiosis-disguise layer is what [[state-power-and-intervention|State Power and Intervention]] calls "ideological camouflage". Rothbard puts it directly: *"ideological support being vital to the State, it must unceasingly try to impress the public with its 'legitimacy,' to distinguish its activities from those of mere brigands."* [[the-law|Bastiat]] names the technique: *"the conversion of the law into an instrument of plunder."* [[the-politics-of-obedience|La Boetie]] supplies the persistence mechanism — domination depends on routine cooperation, habit, and withdrawn consent, not just force.
 
 Sibling sources sharpen the deception layer. [[war-making-and-state-making-as-organized-crime|Tilly's 1985 essay]] gives the framing its compactest historical-sociological grounding: *"Someone who produces both the danger and, at a price, the shield against it is a racketeer."* [[coercion-capital-and-european-states|Coercion, Capital, and European States]] carries the larger trajectory across cities, citizens, nationalism, national-state lineages, and twentieth-century soldiers — all integrated into the coercion/capital story. [[thus-spake-zarathustra-the-new-idol|Nietzsche]] compresses the deception in one line: *"'I, the state, am the people.' It is a lie!"* [[biopower|Foucault's biopower]] supplies an adjacent non-libertarian description rather than another disguise-layer claim: modern political power operates through population-level mechanisms — public health, social insurance, security, welfare administration, life statistics. Foucault frames this as a productive, *care-coded* mode of power rather than as parasitic disguise. A libertarian application of his description (reading care-coded administration as further texture on how modern states extend reach under sympathetic language) goes beyond Foucault's own claim and is recorded here as application, not as his position.
 
@@ -20362,7 +20362,7 @@ Category: thesis
 >
 > — News post, 2026-06-04
 
-Calling a ceasefire "shooting in a more moderate manner" does not merely loosen a definition. It changes what the word is allowed to do. In ordinary political language, a ceasefire should mark the point at which wartime excuses begin losing force. In this report, the word is applied while CBS describes U.S. "self-defense strikes," an Iranian "retaliatory attack," casualties in Kuwait, and a separate Israel-Lebanon ceasefire that is also described as fragile. The charitable reading is that Trump is describing a hard diplomatic reality: formal pauses often coexist with sporadic violence. The Rothbard-Tilly answer is that this realism has an institutional cost. If peace means administered violence, [[rothbard-on-war-and-the-state|Rothbard on War and the State]] explains why the defense/emergency ratchet remains open, while [[tilly-on-protection-rackets|Tilly on Protection Rackets]] explains how threat creation and threat reduction can become the same state service. The consequence is linguistic demobilization without institutional demobilization: the firing slows, but the apparatus keeps its claim to obedience, money, and discretion.
+Calling a ceasefire "shooting in a more moderate manner" does not merely loosen a definition. It changes what the word is allowed to do. In ordinary political language, a ceasefire should mark the point at which wartime excuses begin losing force. In this report, the word is applied while CBS describes U.S. "self-defense strikes", an Iranian "retaliatory attack", casualties in Kuwait, and a separate Israel-Lebanon ceasefire that is also described as fragile. The charitable reading is that Trump is describing a hard diplomatic reality: formal pauses often coexist with sporadic violence. The Rothbard-Tilly answer is that this realism has an institutional cost. If peace means administered violence, [[rothbard-on-war-and-the-state|Rothbard on War and the State]] explains why the defense/emergency ratchet remains open, while [[tilly-on-protection-rackets|Tilly on Protection Rackets]] explains how threat creation and threat reduction can become the same state service. The consequence is linguistic demobilization without institutional demobilization: the firing slows, but the apparatus keeps its claim to obedience, money, and discretion.
 
 ## The Boundary Peace Is Supposed To Draw
 
@@ -20455,7 +20455,7 @@ Category: thesis
 >
 > — News post, 2026-06-07
 
-Read the report from its final line backward. Twenty years after a war launched to topple the Union of Islamic Courts, the fighting has not ended — "more countries than ever before have troops deployed in Somalia." A campaign sold as the removal of a danger has left, two decades on, troops from more countries in it than when it began, a country-wide insurgency grown from what the article can only call the courts' "military youth wing," and a shopkeeper who fired on troops "street by street" before he had finished secondary school. The pull is to read this as a morality play about one faction's purity and another's malice; the sharper reading is structural, and Charles Tilly named the structure first.
+Read the report from its final line backward. Twenty years after a war launched to topple the Union of Islamic Courts, the fighting has not ended — "more countries than ever before have troops deployed in Somalia." A campaign sold as the removal of a danger has left, two decades on, troops from more countries in it than when it began, a country-wide insurgency grown from what the article can only call the courts' "military youth wing", and a shopkeeper who fired on troops "street by street" before he had finished secondary school. The pull is to read this as a morality play about one faction's purity and another's malice; the sharper reading is structural, and Charles Tilly named the structure first.
 
 ## The racketeer test
 
@@ -20471,7 +20471,7 @@ The test that follows is the load-bearing part, and it is exacting: not whether 
 >
 > — [[charles-tilly|Tilly]], [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]
 
-That Tilly is a historical sociologist and no libertarian — a point [[war-and-state-formation|War and State Formation]] is careful to keep in view — only sharpens the convergence: the racketeer clause is offered as plain description, and it describes the sequence the BBC lays out almost line for line. The Union of Islamic Courts had "brought a measure of stability after years of warlord rule." Its youth wing, al-Shabab, existed — but as a wing, not the country-wide insurgency the world would later name. Then, "to topple the courts just six months after they had taken over," thousands of Ethiopian troops invaded under American drones, and in the war that followed "al-Shabab and allied groups (the Muqawama, 'Resistance') united to fight it." The entrenched armed movement that now justifies a standing foreign deployment is, on the report's own chronology, in large part a consequence of the intervention meant to remove it. Tilly's clause does not require the threat to be fictional, only that it be the protector's own product — and by that measure the permanent presence has the structure of the racket: it charges for reducing a danger its first act helped call into being.
+That Tilly is a historical sociologist and no libertarian — a point [[war-and-state-formation|War and State Formation]] is careful to keep in view — only sharpens the convergence: the racketeer clause is offered as plain description, and it describes the sequence the BBC lays out almost line for line. The Union of Islamic Courts had "brought a measure of stability after years of warlord rule". Its youth wing, al-Shabab, existed — but as a wing, not the country-wide insurgency the world would later name. Then, "to topple the courts just six months after they had taken over", thousands of Ethiopian troops invaded under American drones, and in the war that followed "al-Shabab and allied groups (the Muqawama, 'Resistance') united to fight it." The entrenched armed movement that now justifies a standing foreign deployment is, on the report's own chronology, in large part a consequence of the intervention meant to remove it. Tilly's clause does not require the threat to be fictional, only that it be the protector's own product — and by that measure the permanent presence has the structure of the racket: it charges for reducing a danger its first act helped call into being.
 
 ## War power and its permanent legacy
 

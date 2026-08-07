@@ -3,7 +3,7 @@ title: "The Conscience of a Hacker"
 volatility: cold
 category: reference
 created: 2026-07-08
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-07-08
 tags: [loyd-blankenship, the-mentor, hacker-manifesto, phrack, hacker-ethic, curiosity, cypherpunk, censorship]
 aliases: [The Conscience of a Hacker, Hacker Manifesto, The Hacker Manifesto]
@@ -18,7 +18,7 @@ summary: "Reference guide to 'The Conscience of a Hacker' (1986), written by Loy
 
 ## What the Manifesto Says
 
-The text is a monologue answering the adults who see only "Another one got caught today". Its speaker walks through the formation of a hacker — boredom in school, the discovery that a computer "does what I want it to," the door that opens onto the online world — punctuated by the refrain "They're all alike." The accusation is then reversed: the world that calls hackers criminals is the one that builds bombs and lies about it. The core of the ethic is its confession:
+The text is a monologue answering the adults who see only "Another one got caught today". Its speaker walks through the formation of a hacker — boredom in school, the discovery that a computer "does what I want it to", the door that opens onto the online world — punctuated by the refrain "They're all alike." The accusation is then reversed: the world that calls hackers criminals is the one that builds bombs and lies about it. The core of the ethic is its confession:
 
 > "Yes, I am a criminal. My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like. My crime is that of outsmarting you, something that you will never forgive me for."
 >

@@ -3,7 +3,7 @@ title: "Hayek on the Rule of Law"
 volatility: warm
 category: concept
 created: 2026-05-17
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [hayek, rule-of-law, central-planning, classical-liberalism, arbitrary-government, discretion]
 summary: "Hayek's account of the rule of law as government bound by fixed, pre-announced rules, and his argument that comprehensive planning requires the opposite — discretionary administration — making the two mutually exclusive."
@@ -24,7 +24,7 @@ confidence: medium
 
 ## What the Argument Requires
 
-The passage is doing two things at once. The first is a definition: the rule of law is the foreseeability condition, not a generic appeal to "legality." A regime in which the legislature passes a statute empowering an agency to do whatever it pleases satisfies a thin formal-legality standard but does not satisfy Hayek's rule-of-law condition, because the citizen cannot foresee how the coercive power will be used. The second is a structural claim: planning of a substantive economic outcome cannot be reduced to general rules, because the planner must decide "how many pigs are to be raised or how many buses are to run, which coal-mines are to operate, or at what prices shoes are to be sold." Such decisions depend on circumstances of the moment and cannot be settled for long periods in advance. Discretion is therefore not an accident of bad implementation; it is intrinsic to substantive planning.
+The passage is doing two things at once. The first is a definition: the rule of law is the foreseeability condition, not a generic appeal to "legality." A regime in which the legislature passes a statute empowering an agency to do whatever it pleases satisfies a thin formal-legality standard but does not satisfy Hayek's rule-of-law condition, because the citizen cannot foresee how the coercive power will be used. The second is a structural claim: planning of a substantive economic outcome cannot be reduced to general rules, because the planner must decide "how many pigs are to be raised or how many buses are to run, which coal-mines are to operate, or at what prices shoes are to be sold". Such decisions depend on circumstances of the moment and cannot be settled for long periods in advance. Discretion is therefore not an accident of bad implementation; it is intrinsic to substantive planning.
 
 The corollary is the one [[road-to-serfdom|The Road to Serfdom]] is named for: once law becomes the legalization of substantive administrative discretion, the citizen's capacity to plan is replaced by dependence on the discretion of administrators, and the institutional habits of liberty erode. The argument is therefore institutional rather than merely procedural. The rule of law is the precondition under which private planning is possible; substantive planning destroys that precondition by construction, not by abuse.
 

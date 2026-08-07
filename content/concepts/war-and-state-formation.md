@@ -3,7 +3,7 @@ title: "War and State Formation"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-07-23
 tags: [war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, organized-crime, evolution-of-the-state, political-means, historical-sociology, totalitarianism, non-libertarian]
 aliases: [war made the state and the state made war, states as protection rackets, Tilly state formation, capital coercion typology]
@@ -18,7 +18,7 @@ short: "Tilly's thesis that European war-making, extraction, and interstate comp
 
 ## The Core Thesis
 
-In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], Tilly's central claim is usually condensed as "war made the state, and the state made war." Chapter 3's title gives the compact version: "How War Made States, and Vice Versa."
+In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], Tilly's central claim is usually condensed as "war made the state, and the state made war." Chapter 3's title gives the compact version: "How War Made States, and Vice Versa".
 
 The mechanism is not mystical. Rulers who fought wars needed armies, navies, supplies, fortifications, credit, taxes, and compliant populations. To obtain those resources, they created or enlarged treasuries, tax offices, debt instruments, supply services, courts, police, conscription systems, and bargaining institutions. Those organizations then persisted beyond the immediate war and became part of the state apparatus.
 
@@ -36,7 +36,7 @@ The typology matters because it prevents a flat conquest-only account. Coercion 
 
 ## Protection Rackets
 
-The famous protection-racket formulation is now directly sourced through [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]. Tilly opens the essay by arguing that, if protection rackets are organized crime at its smoothest, war making and state making are "quintessential protection rackets with the advantage of legitimacy."
+The famous protection-racket formulation is now directly sourced through [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]. Tilly opens the essay by arguing that, if protection rackets are organized crime at its smoothest, war making and state making are "quintessential protection rackets with the advantage of legitimacy".
 
 The 1985 essay supplies the explicit organized-crime analogy and the four-part model: war making, state making, protection, and extraction. The later book [[coercion-capital-and-european-states|Coercion, Capital, and European States]] supplies the broader capital/coercion typology. Together they support a stronger version of the state/protection-racket convergence: rulers build protection organizations partly by monopolizing violence, suppressing rivals, selling protection, and extracting the means to do all three.
 

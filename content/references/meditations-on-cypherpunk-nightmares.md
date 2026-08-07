@@ -3,7 +3,7 @@ title: "Meditations on Cypherpunk Nightmares"
 volatility: cold
 category: reference
 created: 2026-07-08
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-07-08
 tags: [michael-goldstein, cypherpunk, crypto-anarchy, stoicism, privacy, information-markets, opsec, bitcoin]
 aliases: [Meditations on Cypherpunk Nightmares, cypherpunk nightmares]
@@ -18,7 +18,7 @@ summary: "Reference guide to Michael Goldstein's 'Meditations on Cypherpunk Nigh
 
 ## What the Essay Argues
 
-Goldstein starts from May's Crypto Anarchist Manifesto and draws out two lessons: all information will be on the market, and the market will exist whether you like it or not — "by will, I mean already," citing WikiLeaks, [[snowden-disclosures|Edward Snowden]], and the first Bitcoin-denominated leak markets. The practical corollary is stark:
+Goldstein starts from May's Crypto Anarchist Manifesto and draws out two lessons: all information will be on the market, and the market will exist whether you like it or not — "by will, I mean already", citing WikiLeaks, [[snowden-disclosures|Edward Snowden]], and the first Bitcoin-denominated leak markets. The practical corollary is stark:
 
 > "I would recommend that anyone alive in 2014 not only assume that their secrets will be leaked, but live as though they have already been leaked."
 >

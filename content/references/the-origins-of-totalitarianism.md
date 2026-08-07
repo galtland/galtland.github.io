@@ -3,7 +3,7 @@ title: "The Origins of Totalitarianism"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [hannah-arendt, totalitarianism, antisemitism, imperialism, nazism, stalinism, mass-society, ideology, terror, political-philosophy, commercially-published, non-libertarian]
 aliases: [Origins of Totalitarianism, Arendt Origins]
@@ -32,7 +32,7 @@ The OCR is searchable and substantively complete, but it should not be treated a
 
 The book has three large movements. Part One treats modern antisemitism as a secular political phenomenon rather than as a simple continuation of medieval religious Jew-hatred. Part Two treats imperialism, race-thinking, bureaucracy, the pan-movements, statelessness, and the breakdown of the nation-state. Part Three gives the totalitarian thesis proper: mass society, totalitarian movements, propaganda, organization, secret police, concentration camps, ideology, and terror.
 
-The most important contribution for this wiki is Chapter 13, "Ideology and Terror: A Novel Form of Government." There Arendt argues that totalitarianism is not just harsher tyranny, despotism, dictatorship, or authoritarianism. It replaces positive law with the alleged movement of Nature or History, uses terror to make that movement real, and aims beyond obedience toward [[totalitarianism|total domination]].
+The most important contribution for this wiki is Chapter 13, "Ideology and Terror: A Novel Form of Government". There Arendt argues that totalitarianism is not just harsher tyranny, despotism, dictatorship, or authoritarianism. It replaces positive law with the alleged movement of Nature or History, uses terror to make that movement real, and aims beyond obedience toward [[totalitarianism|total domination]].
 
 ## Place in This Wiki
 

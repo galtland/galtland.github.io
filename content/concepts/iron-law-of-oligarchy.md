@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-23
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-07-23
 tags: [robert-michels, iron-law-of-oligarchy, oligarchy, elite-theory, political-parties, organization, democracy, directors-and-directed, mass-apathy, irreducible-power]
 aliases: [The Iron Law of Oligarchy, iron law of oligarchy, Michels's iron law, who says organization says oligarchy, oligarchical tendency, elite theory of organization]
@@ -31,7 +31,7 @@ He is careful about its status. This is offered as "the fundamental sociological
 
 The force of Michels's argument is that the causes are mechanical. Three reinforce one another.
 
-The first is the **technical impossibility of direct mass rule**. "The most formidable argument against the sovereignty of the masses is, however, derived from the mechanical and technical impossibility of its realization," Michels writes: a large body cannot deliberate, decide, or act as a body, so it must delegate. "The sovereign masses are altogether incapable of undertaking the most necessary resolutions." Delegation is not a betrayal of mass democracy but its precondition.
+The first is the **technical impossibility of direct mass rule**. "The most formidable argument against the sovereignty of the masses is, however, derived from the mechanical and technical impossibility of its realization", Michels writes: a large body cannot deliberate, decide, or act as a body, so it must delegate. "The sovereign masses are altogether incapable of undertaking the most necessary resolutions." Delegation is not a betrayal of mass democracy but its precondition.
 
 The second is the **entrenchment of the delegates**. Leadership demands continuity, specialized skill, and control of the organization's communications and funds; each of these is a resource the leaders accumulate and the members cannot easily reclaim. "As a result of organization, every party or professional union becomes divided into a minority of directors and a majority of directed", and the division, once established, is self-reinforcing — the directors set the agenda, groom their successors, and control the information on which any challenge would depend.
 

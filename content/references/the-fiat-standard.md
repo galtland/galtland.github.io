@@ -3,7 +3,7 @@ title: "The Fiat Standard"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-06-18
 tags: [saifedean-ammous, fiat-money, bitcoin, central-banking, debt, austrian-economics, capital-consumption, cypherpunk]
 aliases: [Fiat Standard, The Fiat Standard: The Debt Slavery Alternative to Human Civilization]
@@ -30,7 +30,7 @@ Part I, "Fiat Money," covers the introduction, the never-ending bank holiday, fi
 
 Part II, "Fiat Life," applies the mechanism to everyday and institutional domains: fiat life, fiat food, fiat science, fiat fuels, fiat states, and fiat cost-benefit analysis. This is the book's most controversial section because it reads food, fuel, family, education, science, and development policy through monetary incentives.
 
-Part III, "The Fiat Liquidator," turns to Bitcoin: why Bitcoin fixes this, Bitcoin scaling, Bitcoin banking, Bitcoin and energy markets, Bitcoin cost-benefit analysis, and whether Bitcoin can fix this.
+Part III, "The Fiat Liquidator", turns to Bitcoin: why Bitcoin fixes this, Bitcoin scaling, Bitcoin banking, Bitcoin and energy markets, Bitcoin cost-benefit analysis, and whether Bitcoin can fix this.
 
 ## Engineering Specification
 

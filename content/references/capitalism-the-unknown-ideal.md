@@ -3,7 +3,7 @@ title: "Capitalism: The Unknown Ideal"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-26
+updated: 2026-08-06
 verified: 2026-06-26
 tags: [ayn-rand, capitalism-the-unknown-ideal, objectivism, capitalism, laissez-faire, political-economy, alan-greenspan, nathaniel-branden]
 aliases: [Capitalism The Unknown Ideal, What Is Capitalism]
@@ -22,7 +22,7 @@ Rand's framing argument is that capitalism was defeated intellectually before it
 
 ## "What Is Capitalism?" and the moral case from rights
 
-The opening essay (originally published in *The Objectivist Newsletter*, November–December 1965) supplies the definition the whole project turns on: "Capitalism is a social system based on the recognition of individual rights, including property rights, in which all property is privately owned." From this Rand derives that recognizing rights "entails the banishment of physical force from human relationships," that "no man or group may initiate the use of physical force against others," and that the government's "only function" is to protect rights by placing "the retaliatory use of force under objective control." She ties the system to her ethics by mapping it onto the branches of philosophy: "the four keystones of capitalism are: metaphysically, the requirements of man's nature and survival — epistemologically, reason — ethically, individual rights — politically, freedom." The essay's closing line states the book's animating charge directly: the "guiltiest men" are those who lack the courage to challenge altruism and instead try "to defend the only rational and moral system in mankind's history — capitalism — on any grounds other than rational and moral."
+The opening essay (originally published in *The Objectivist Newsletter*, November–December 1965) supplies the definition the whole project turns on: "Capitalism is a social system based on the recognition of individual rights, including property rights, in which all property is privately owned." From this Rand derives that recognizing rights "entails the banishment of physical force from human relationships", that "no man or group may initiate the use of physical force against others", and that the government's "only function" is to protect rights by placing "the retaliatory use of force under objective control". She ties the system to her ethics by mapping it onto the branches of philosophy: "the four keystones of capitalism are: metaphysically, the requirements of man's nature and survival — epistemologically, reason — ethically, individual rights — politically, freedom." The essay's closing line states the book's animating charge directly: the "guiltiest men" are those who lack the courage to challenge altruism and instead try "to defend the only rational and moral system in mankind's history — capitalism — on any grounds other than rational and moral."
 
 ## A multi-author collection
 

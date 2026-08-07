@@ -3,7 +3,7 @@ title: "Francisco's Money Speech"
 volatility: cold
 category: concept
 created: 2026-05-31
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [ayn-rand, atlas-shrugged, objectivism, money, sound-money, gold, fiat, trader-principle, production]
 aliases: [the money speech, money is a tool of exchange, Francisco d'Anconia money speech, root of all evil money]
@@ -14,7 +14,7 @@ short: "Rand's set-piece moral defense of money: a tool of exchange grounded in 
 
 # Francisco's Money Speech
 
-> [[franciscos-money-speech|Francisco's Money Speech]] is the monologue delivered by Francisco d'Anconia in [[atlas-shrugged|Atlas Shrugged]] (Part Two, ch. 2, "The Aristocracy of Pull"). Answering a guest's casual "money is the root of all evil," Francisco delivers [[ayn-rand|Ayn Rand]]'s most concentrated moral defense of money: it is a tool of exchange that presupposes production, a claim upon the effort of others, the code of the trader, and the barometer of a society's virtue.
+> [[franciscos-money-speech|Francisco's Money Speech]] is the monologue delivered by Francisco d'Anconia in [[atlas-shrugged|Atlas Shrugged]] (Part Two, ch. 2, "The Aristocracy of Pull"). Answering a guest's casual "money is the root of all evil", Francisco delivers [[ayn-rand|Ayn Rand]]'s most concentrated moral defense of money: it is a tool of exchange that presupposes production, a claim upon the effort of others, the code of the trader, and the barometer of a society's virtue.
 
 ## The Setting
 
@@ -52,7 +52,7 @@ When trade is "done, not by consent, but by compulsion", and "money is flowing t
 
 ## Relation to the Wiki's Money Concepts
 
-The speech's *conclusion* converges with Austrian sound-money: production-backed, hard, gold-anchored money versus fiat that is "a mortgage on wealth that does not exist." That anti-debasement warning sits naturally beside [[hard-money|Hard Money]], [[unforgeable-costliness|Unforgeable Costliness]], and the fiat critique in [[fiat-as-engineered-system|Fiat as Engineered System]].
+The speech's *conclusion* converges with Austrian sound-money: production-backed, hard, gold-anchored money versus fiat that is "a mortgage on wealth that does not exist". That anti-debasement warning sits naturally beside [[hard-money|Hard Money]], [[unforgeable-costliness|Unforgeable Costliness]], and the fiat critique in [[fiat-as-engineered-system|Fiat as Engineered System]].
 
 But the *grounding* differs, and the difference is worth stating. Francisco speaks of gold as "an objective value," reflecting Rand's **objective theory of value** — value as set by the relation of a thing to the rational requirements of human life. Austrian monetary theory, by contrast, rests on the **subjective theory of value**: [[the-theory-of-money-and-credit|Mises]] traces money's purchasing power to the subjective valuations of individuals via the regression theorem, not to an objective standard. So the speech reaches an Austrian-compatible sound-money conclusion by a non-Austrian route. It is a moral and rhetorical set-piece, not a technical monetary analysis, and the calibration note that applies to all of Rand's work applies here: it is presented as Rand's argument, persuasive within her frame, not as settled economics.
 

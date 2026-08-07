@@ -3,7 +3,7 @@ title: "Hashcash"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-06
 verified: 2026-06-18
 tags: [hashcash, adam-back, proof-of-work, cypherpunk, bitcoin, spam, denial-of-service, cryptography]
 aliases: [Hashcash paper, Hashcash: A Denial of Service Counter-Measure, Adam Back Hashcash]
@@ -14,7 +14,7 @@ short: "Adam Back's proof-of-work cost-function paper: non-interactive tokens, p
 
 # Hashcash
 
-> [[hashcash|Hashcash]] is [[adam-back|Adam Back]]'s 2002 paper "Hashcash: A Denial of Service Counter-Measure," formalizing the proof-of-work cost function first proposed in 1997 for throttling spam, remailer abuse, and denial-of-service attacks.
+> [[hashcash|Hashcash]] is [[adam-back|Adam Back]]'s 2002 paper "Hashcash: A Denial of Service Counter-Measure", formalizing the proof-of-work cost function first proposed in 1997 for throttling spam, remailer abuse, and denial-of-service attacks.
 
 ## Cost Function Design
 

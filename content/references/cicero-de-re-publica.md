@@ -3,7 +3,7 @@ title: "De Re Publica (The Republic of Cicero)"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [cicero, natural-law, natural-rights, classical-canon, stoicism, de-re-publica, roman-law, right-reason, justice, mixed-constitution]
 aliases: [De Re Publica, On the Commonwealth, The Republic of Cicero, De Republica]
@@ -18,7 +18,7 @@ short: "Cicero's dialogue transmitting Stoic natural law as 'right reason in acc
 
 ## The Natural-Law Passage
 
-The work's enduring contribution is the definition of true law in Book III, preserved by Lactantius and rendered in this edition as: "There is indeed a law, right reason, which is in accordance with nature; existing in all, unchangeable, eternal." Cicero's law of nature is **universal** ("not one thing at Rome, and another thing at Athens"), **immutable** ("neither the people or the senate can absolve us from it"), and grounded in a divine and rational order rather than in human will. To act against it is to renounce oneself and become "false to his own nature."
+The work's enduring contribution is the definition of true law in Book III, preserved by Lactantius and rendered in this edition as: "There is indeed a law, right reason, which is in accordance with nature; existing in all, unchangeable, eternal." Cicero's law of nature is **universal** ("not one thing at Rome, and another thing at Athens"), **immutable** ("neither the people or the senate can absolve us from it"), and grounded in a divine and rational order rather than in human will. To act against it is to renounce oneself and become "false to his own nature".
 
 This is the tradition's most compact statement of its three signature claims: that genuine law is *discovered by reason*, that it is *binding above positive enactment*, and that it is *the same for all*. Every later figure in the lineage — [[thomas-aquinas|Aquinas]], [[hugo-grotius|Grotius]], [[john-locke|Locke]] — works variations on Cicero's formula.
 

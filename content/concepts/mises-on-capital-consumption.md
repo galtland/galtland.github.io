@@ -3,7 +3,7 @@ title: "Mises on Capital Consumption"
 volatility: warm
 category: concept
 created: 2026-05-18
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [mises, capital-consumption, antiliberal-policy, liberalism, taxation, redistribution]
 summary: "Mises's claim that antiliberal policy is a policy of capital consumption — providing for the present at the expense of the future by drawing down the productive stock that funds future output."
@@ -18,7 +18,7 @@ short: "Mises's *Liberalism* claim that 'antiliberal policy is a policy of capit
 >
 > — [[ludwig-von-mises|Ludwig von Mises]], [[liberalism|Liberalism]], Part I §5.
 
-Mises is identifying a policy class, not a single instrument. The class includes the spending side as well as the tax side; what unifies it is the structural direction of the resource flow — from accumulated capital and future production toward present consumption and current transfer. In Mises's terms, the antiliberal demagogue offers "a relatively abundant momentary gratification" against "a relatively grievous disadvantage in the future," and represents the latter as hard-heartedness when it is in fact arithmetic.
+Mises is identifying a policy class, not a single instrument. The class includes the spending side as well as the tax side; what unifies it is the structural direction of the resource flow — from accumulated capital and future production toward present consumption and current transfer. In Mises's terms, the antiliberal demagogue offers "a relatively abundant momentary gratification" against "a relatively grievous disadvantage in the future", and represents the latter as hard-heartedness when it is in fact arithmetic.
 
 The praxeological argument is independent of any specific tax design. Capital is the stock of produced means of production accumulated by prior abstention from consumption; any policy that systematically diverts those means toward immediate consumption necessarily reduces the stock from which future production proceeds. The policy class operates regardless of whether the diversion runs through progressive income taxes, transfer payments, expropriation, or a direct tax on the capital stock itself. The specific instrument changes the incidence; the policy class predicts the direction.
 

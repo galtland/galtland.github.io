@@ -4,7 +4,7 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-06-04
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [thesis, ceasefire, war-and-state, state-power, protection-racket, political-means, us-iran, kuwait, israel-lebanon, trump]
 aliases: [Trump ceasefire moderate shooting, June 2026 ceasefire remark, moderate shooting ceasefire]
@@ -25,7 +25,7 @@ short: "Reads Trump's 'moderate shooting' ceasefire remark as a war-and-state ca
 >
 > — News post, 2026-06-04
 
-Calling a ceasefire "shooting in a more moderate manner" does not merely loosen a definition. It changes what the word is allowed to do. In ordinary political language, a ceasefire should mark the point at which wartime excuses begin losing force. In this report, the word is applied while CBS describes U.S. "self-defense strikes," an Iranian "retaliatory attack," casualties in Kuwait, and a separate Israel-Lebanon ceasefire that is also described as fragile. The charitable reading is that Trump is describing a hard diplomatic reality: formal pauses often coexist with sporadic violence. The Rothbard-Tilly answer is that this realism has an institutional cost. If peace means administered violence, [[rothbard-on-war-and-the-state|Rothbard on War and the State]] explains why the defense/emergency ratchet remains open, while [[tilly-on-protection-rackets|Tilly on Protection Rackets]] explains how threat creation and threat reduction can become the same state service. The consequence is linguistic demobilization without institutional demobilization: the firing slows, but the apparatus keeps its claim to obedience, money, and discretion.
+Calling a ceasefire "shooting in a more moderate manner" does not merely loosen a definition. It changes what the word is allowed to do. In ordinary political language, a ceasefire should mark the point at which wartime excuses begin losing force. In this report, the word is applied while CBS describes U.S. "self-defense strikes", an Iranian "retaliatory attack", casualties in Kuwait, and a separate Israel-Lebanon ceasefire that is also described as fragile. The charitable reading is that Trump is describing a hard diplomatic reality: formal pauses often coexist with sporadic violence. The Rothbard-Tilly answer is that this realism has an institutional cost. If peace means administered violence, [[rothbard-on-war-and-the-state|Rothbard on War and the State]] explains why the defense/emergency ratchet remains open, while [[tilly-on-protection-rackets|Tilly on Protection Rackets]] explains how threat creation and threat reduction can become the same state service. The consequence is linguistic demobilization without institutional demobilization: the firing slows, but the apparatus keeps its claim to obedience, money, and discretion.
 
 ## The Boundary Peace Is Supposed To Draw
 

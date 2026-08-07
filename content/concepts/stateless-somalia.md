@@ -3,7 +3,7 @@ title: "Stateless Somalia"
 volatility: warm
 category: concept
 created: 2026-06-07
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-06-26
 tags: [peter-leeson, somalia, anarchy, statelessness, anarcho-capitalism, predatory-state, public-goods, development-economics]
 summary: "Leeson's empirical finding that post-1991 stateless Somalia outperformed its predatory predecessor government on nearly all of 18 welfare indicators — the canonical case that anarchy can beat a sufficiently predatory state."
@@ -14,7 +14,7 @@ short: "Leeson's 2007 finding that Somalis were better off on nearly all of 18 w
 
 # Stateless Somalia
 
-When Somalia's central government collapsed in 1991 it did not become a controlled experiment in liberty, but it did become the closest thing the modern record offers to a comparison of a population *under a predatory state* versus the *same population without one*. Peter Leeson's verdict from that comparison is blunt: the government "did more harm to its citizens than good," and its disappearance opened room for progress. This is the empirical counterweight to the intuition that any state, however bad, beats anarchy — and it is the case the wiki's war-and-state arguments point at when they call the state predatory rather than protective.
+When Somalia's central government collapsed in 1991 it did not become a controlled experiment in liberty, but it did become the closest thing the modern record offers to a comparison of a population *under a predatory state* versus the *same population without one*. Peter Leeson's verdict from that comparison is blunt: the government "did more harm to its citizens than good", and its disappearance opened room for progress. This is the empirical counterweight to the intuition that any state, however bad, beats anarchy — and it is the case the wiki's war-and-state arguments point at when they call the state predatory rather than protective.
 
 ## The finding
 
@@ -22,7 +22,7 @@ Leeson assembles eighteen welfare indicators that allow pre- and post-collapse c
 
 > on nearly all of 18 key indicators that allow pre- and post-stateless welfare comparisons, Somalis are better off under anarchy than they were under government.
 
-The mechanism he credits is not anarchy as magic but the *removal of predation*: with the extractive apparatus gone, he attributes the gains to renewed economic vibrancy and "public goods in the absence of a predatory state." Telecoms, livestock export, and money-transfer networks grew under customary law (*xeer*) and clan-based dispute resolution rather than statute.
+The mechanism he credits is not anarchy as magic but the *removal of predation*: with the extractive apparatus gone, he attributes the gains to renewed economic vibrancy and "public goods in the absence of a predatory state". Telecoms, livestock export, and money-transfer networks grew under customary law (*xeer*) and clan-based dispute resolution rather than statute.
 
 ## The conditional, stated plainly
 

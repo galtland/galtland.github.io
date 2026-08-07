@@ -3,7 +3,7 @@ title: "Hal Finney"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-06-18
 tags: [hal-finney, bitcoin, rpow, proof-of-work, pgp, cypherpunk, digital-cash, satoshi-nakamoto]
 aliases: [Harold Thomas Finney II, Hal, RPOW creator, first Bitcoin receiver]
@@ -24,7 +24,7 @@ Confidence is medium. The posts are direct primary materials for Finney's own st
 
 ## PGP and Cypherpunk Path
 
-In "Bitcoin and Me," Finney says he worked on an early version of PGP with [[phil-zimmermann|Phil Zimmermann]], became one of the first PGP Corporation hires, and participated in the Cypherpunks. He also says he ran the first cryptographically based anonymous remailer.
+In "Bitcoin and Me", Finney says he worked on an early version of PGP with [[phil-zimmermann|Phil Zimmermann]], became one of the first PGP Corporation hires, and participated in the Cypherpunks. He also says he ran the first cryptographically based anonymous remailer.
 
 That makes Finney a bridge between [[pgp-and-the-crypto-wars|PGP and the Crypto Wars]] and Bitcoin. He moved from strong-encryption tools and remailers into proof-of-work money and peer-to-peer digital cash.
 
@@ -38,7 +38,7 @@ The RPOW page explicitly invokes [[nick-szabo|Nick Szabo]]'s Bit Gold and descri
 
 Finney's November 2008 post calls Bitcoin promising and immediately recognizes its reliance on honest CPU power outweighing attackers. He also links it to Szabo's Bit Gold and asks practical questions about block validation, transaction handling, double spending, and process specification.
 
-In "Bitcoin and Me," Finney says he downloaded the first release, was likely the first person besides Satoshi to run Bitcoin, mined an early block, received the first Bitcoin transaction of ten coins from [[satoshi-nakamoto|Satoshi Nakamoto]], and exchanged bug reports with Satoshi.
+In "Bitcoin and Me", Finney says he downloaded the first release, was likely the first person besides Satoshi to run Bitcoin, mined an early block, received the first Bitcoin transaction of ten coins from [[satoshi-nakamoto|Satoshi Nakamoto]], and exchanged bug reports with Satoshi.
 
 ## ALS and Final Work
 
@@ -70,4 +70,4 @@ The post's tone matters for confidence. It is not a detached biography; it is Fi
 
 ## Sources
 
-- [Hal Finney Early Bitcoin Corpus](https://bitcointalk.org/index.php?topic=155054.0) - aggregate source for "Bitcoin and Me," RPOW, the 2008 cryptography-list Bitcoin response, and "Running bitcoin"
+- [Hal Finney Early Bitcoin Corpus](https://bitcointalk.org/index.php?topic=155054.0) - aggregate source for "Bitcoin and Me", RPOW, the 2008 cryptography-list Bitcoin response, and "Running bitcoin"

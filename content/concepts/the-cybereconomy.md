@@ -3,7 +3,7 @@ title: "The Cybereconomy"
 volatility: warm
 category: concept
 created: 2026-06-09
-updated: 2026-06-18
+updated: 2026-08-06
 verified: 2026-06-18
 tags: [cybereconomy, cybercash, cybermoney, digital-money, james-dale-davidson, william-rees-mogg, sovereign-individual, information-age, denationalized-money, cypherpunk]
 aliases: [cybereconomy, cybercash, cybermoney, the cybereconomy, digital cash]
@@ -18,11 +18,11 @@ short: "Davidson and Rees-Mogg's forecast of an untaxable, borderless online eco
 
 ## Escape From Territorial Taxation
 
-The cybereconomy is the economic half of the book's [[megapolitics|megapolitical]] argument. Taxation works because the state can locate, threaten, and seize physical wealth and physical persons inside its borders. The authors argue that when the highest-value work is informational — performed "anywhere" by anyone "with a portable computer and a satellite link" — and when the transactions themselves occur in an encrypted, placeless medium, the state's central lever stops working. Wealth acquires what they call financial "escape velocity." Governments that "attempt to charge too much as the price of domicile will merely drive away their best customers," which is the mechanism behind [[jurisdictional-competition|jurisdictional competition]].
+The cybereconomy is the economic half of the book's [[megapolitics|megapolitical]] argument. Taxation works because the state can locate, threaten, and seize physical wealth and physical persons inside its borders. The authors argue that when the highest-value work is informational — performed "anywhere" by anyone "with a portable computer and a satellite link" — and when the transactions themselves occur in an encrypted, placeless medium, the state's central lever stops working. Wealth acquires what they call financial "escape velocity." Governments that "attempt to charge too much as the price of domicile will merely drive away their best customers", which is the mechanism behind [[jurisdictional-competition|jurisdictional competition]].
 
 ## Cybercash
 
-The book's most concrete and most prescient forecast concerns money. Davidson and Rees-Mogg predicted that cybercommerce would "lead inevitably to cybermoney," a "new digital form of money" with a specific set of properties:
+The book's most concrete and most prescient forecast concerns money. Davidson and Rees-Mogg predicted that cybercommerce would "lead inevitably to cybermoney", a "new digital form of money" with a specific set of properties:
 
 - It would "consist of encrypted sequences of multihundred-digit prime numbers" — "unique, anonymous, and verifiable."
 - It would be "all but impossible to counterfeit" for "the fundamental mathematical reason that it is all but impossible to unravel the product of multihundred-digit prime numbers."
@@ -57,4 +57,4 @@ Confidence is medium. The cybercash prediction was substantially vindicated by t
 
 ## Sources
 
-- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 1 (the cybereconomy preview, "no cybertaxes and no cybergovernment") and Chapter 7 ("Transcending Locality," the "Cybercash" section, and the Hayek citation)
+- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 1 (the cybereconomy preview, "no cybertaxes and no cybergovernment") and Chapter 7 ("Transcending Locality", the "Cybercash" section, and the Hayek citation)

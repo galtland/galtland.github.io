@@ -3,7 +3,7 @@ title: "Ideal Money"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [john-nash, ideal-money, monetary-theory, inflation, hard-money, gold-standard, central-banking, keynesianism, non-austrian]
 summary: "John Nash's argument that money should be a stable long-run standard of value — an 'ideal money' approached asymptotically by tying issuance to a stable index rather than central-bank discretion. A non-Austrian, game-theoretic convergence on the wiki's anti-inflation, hard-money conclusion, with a real methodological tension: Nash reaches it through a managed index, not market-chosen money."
@@ -42,7 +42,7 @@ This converges directly with [[fiat-as-engineered-system|Fiat as Engineered Syst
 
 ## "Asymptotically ideal money" — and the Austrian tension
 
-Nash's constructive proposal is where he parts company with the wiki's main tradition. He proposes approaching an *ideal* money — one of stable long-run value — **asymptotically**, by linking a currency to "an appropriate index" of value (drawn from internationally traded commodities, of which he notes gold and silver are only examples) rather than leaving it to central-bank discretion. He is scathing about the prevailing alternative, "inflation targeting," which he says lets officials *confess* that their currency is managed by a chosen, adjustable target. The aim is hard-money's: remove the issuer's discretion to inflate. But the mechanism is still a *managed index*, a technocratic peg — which the [[economic-calculation-problem|calculation]] and knowledge-problem critiques warn is itself a planning conceit: any chosen index is still an administered standard, not a market-discovered one. The Austrian preference is for money the market selects (see [[unforgeable-costliness|unforgeable costliness]] and the gold/Bitcoin lineage in [[hard-money|hard money]]), not a better-designed peg.
+Nash's constructive proposal is where he parts company with the wiki's main tradition. He proposes approaching an *ideal* money — one of stable long-run value — **asymptotically**, by linking a currency to "an appropriate index" of value (drawn from internationally traded commodities, of which he notes gold and silver are only examples) rather than leaving it to central-bank discretion. He is scathing about the prevailing alternative, "inflation targeting", which he says lets officials *confess* that their currency is managed by a chosen, adjustable target. The aim is hard-money's: remove the issuer's discretion to inflate. But the mechanism is still a *managed index*, a technocratic peg — which the [[economic-calculation-problem|calculation]] and knowledge-problem critiques warn is itself a planning conceit: any chosen index is still an administered standard, not a market-discovered one. The Austrian preference is for money the market selects (see [[unforgeable-costliness|unforgeable costliness]] and the gold/Bitcoin lineage in [[hard-money|hard money]]), not a better-designed peg.
 
 The convergence is therefore on the *diagnosis* (stable-value money is good; managed inflation is a defect) and a divergence on the *cure* (administered index vs. market-chosen hard money). That asymmetry — same destination, contested route — is exactly why Nash is worth citing: he shows the anti-inflation conclusion does not depend on Austrian premises.
 

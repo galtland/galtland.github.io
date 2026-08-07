@@ -3,7 +3,7 @@ title: "Agorism and Counter-Economics"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-06-18
 tags: [samuel-edward-konkin, agorism, counter-economics, strategy, anarchism, black-market, grey-market, parallel-economy, libertarianism]
 summary: "Konkin's 1980 agorist strategy: grow the counter-economy — all peaceful exchange the state forbids, taxes, or regulates — until voluntary trade displaces the state. The strategy-by-exit answer to libertarian adoption, requiring no change in human nature; the ancestor of the cypherpunk parallel economy."
@@ -14,7 +14,7 @@ short: "Konkin's strategy of growing the counter-economy — all peaceful exchan
 
 # Agorism and Counter-Economics
 
-Agorism is the strategy half of the libertarian question — not *what* a free society is but *how* to get there. Samuel Edward Konkin III's *New Libertarian Manifesto* answers it without asking people to become better than they are: the program works, in his words, with "no change in human nature needed."
+Agorism is the strategy half of the libertarian question — not *what* a free society is but *how* to get there. Samuel Edward Konkin III's *New Libertarian Manifesto* answers it without asking people to become better than they are: the program works, in his words, with "no change in human nature needed".
 
 ## Counter-economics as the means
 

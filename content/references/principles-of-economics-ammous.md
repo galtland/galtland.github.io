@@ -3,7 +3,7 @@ title: "Principles of Economics"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-06
 verified: 2026-06-18
 tags: [saifedean-ammous, economics, austrian-economics, textbook, human-action, property, money, civilization, bitcoin]
 aliases: [Ammous Principles of Economics, Saifedean Principles of Economics, Principles of Economics Ammous]
@@ -26,7 +26,7 @@ Confidence is high for the structure because the table of contents and introduct
 
 The book has eighteen chapters in five parts.
 
-Part I, "Fundamentals," covers human action, value, and time. Ammous introduces the Misesian action frame, subjective value, marginal utility, opportunity cost, and time preference.
+Part I, "Fundamentals", covers human action, value, and time. Ammous introduces the Misesian action frame, subjective value, marginal utility, opportunity cost, and time preference.
 
 Part II, "Economy," covers labor, property, capital, technology, and energy and power. This section treats individual economizing actions and the goods or tools that let people extend production through time.
 

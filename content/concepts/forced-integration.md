@@ -4,7 +4,7 @@ volatility: hot
 category: concept
 type: concept
 created: 2026-06-28
-updated: 2026-06-28
+updated: 2026-08-06
 verified: 2026-06-28
 tags: [hans-hermann-hoppe, forced-integration, freedom-of-association, private-property, discrimination, immigration, milton-friedman, covenant-communities, secession, non-libertarian-contested]
 aliases: [Forced Integration, forced integration, free immigration or forced integration]
@@ -80,5 +80,5 @@ Forced integration is the propertarian limit-case of freedom of association: it 
 
 ## Sources
 
-- [Democracy: The God That Failed (Full Text)](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Chapter 7, "On Free Immigration and Forced Integration," and the right-to-exclusion argument
-- **Capitalism and Freedom (Full Text)** - Chapter VII, "Capitalism and Discrimination," and the segregation-in-schooling discussion
+- [Democracy: The God That Failed (Full Text)](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Chapter 7, "On Free Immigration and Forced Integration", and the right-to-exclusion argument
+- **Capitalism and Freedom (Full Text)** - Chapter VII, "Capitalism and Discrimination", and the segregation-in-schooling discussion

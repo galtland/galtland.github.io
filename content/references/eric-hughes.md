@@ -3,7 +3,7 @@ title: "Eric Hughes"
 volatility: cold
 category: reference
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-08-06
 verified: 2026-07-16
 confidence: high
 tags: [eric-hughes, cypherpunk, cypherpunk-manifesto, privacy, cryptography, anonymity, crypto-anarchy]
@@ -24,7 +24,7 @@ Written in March 1993, the manifesto opens with the claim the whole cypherpunk p
 >
 > — [[eric-hughes|Eric Hughes]], "A Cypherpunk's Manifesto"
 
-From that definition follows the manifesto's central move, and the movement's break with mere advocacy: privacy in the electronic age will not be handed down by governments or granted by corporations, so those who want it must build it themselves. "We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy," Hughes writes — and the remedy is not persuasion but construction. He states it in the line that became the movement's motto: "Cypherpunks write code." The cypherpunks, he declares, "are dedicated to building anonymous systems," defending privacy with cryptography, anonymous mail forwarding, digital signatures, and electronic money.
+From that definition follows the manifesto's central move, and the movement's break with mere advocacy: privacy in the electronic age will not be handed down by governments or granted by corporations, so those who want it must build it themselves. "We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy", Hughes writes — and the remedy is not persuasion but construction. He states it in the line that became the movement's motto: "Cypherpunks write code." The cypherpunks, he declares, "are dedicated to building anonymous systems", defending privacy with cryptography, anonymous mail forwarding, digital signatures, and electronic money.
 
 ## Co-Founder of the Cypherpunks
 

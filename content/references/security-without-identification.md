@@ -3,7 +3,7 @@ title: "Security Without Identification"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-06-18
+updated: 2026-08-06
 verified: 2026-06-18
 tags: [david-chaum, pseudonymity, privacy, digital-cash, cryptography, surveillance, cypherpunk]
 aliases: [Security Without Identification: Transaction Systems to Make Big Brother Obsolete, Transaction Systems to Make Big Brother Obsolete, Chaum 1985]
@@ -14,7 +14,7 @@ short: "Chaum's 1985 privacy-infrastructure paper: digital pseudonyms, card comp
 
 # Security Without Identification
 
-> [[security-without-identification|Security Without Identification]] is [[david-chaum|David Chaum]]'s 1985 Communications of the ACM paper "Security Without Identification: Transaction Systems to Make Big Brother Obsolete."
+> [[security-without-identification|Security Without Identification]] is [[david-chaum|David Chaum]]'s 1985 Communications of the ACM paper "Security Without Identification: Transaction Systems to Make Big Brother Obsolete".
 
 ## Dossier Society
 

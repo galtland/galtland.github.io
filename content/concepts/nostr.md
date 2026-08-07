@@ -3,7 +3,7 @@ title: "Nostr"
 volatility: warm
 category: concept
 created: 2026-05-30
-updated: 2026-06-26
+updated: 2026-08-06
 verified: 2026-06-26
 confidence: high
 tags: [nostr, decentralized-social, cypherpunk, public-key-cryptography, identity, relays, censorship-resistance, lightning, privacy, fiatjaf]
@@ -18,7 +18,7 @@ short: "A minimal protocol where identity is a keypair and content is signed, re
 
 ## The Protocol
 
-Nostr is a protocol, not a platform. All content takes the form of **events**: signed JSON objects containing the content, a timestamp, the author's [[public-key-cryptography|public key]], a signature, and tags. An event is "nothing more than a signed text file," so it can be stored anywhere, sent over any channel, and processed by any software that can read JSON and verify signatures.
+Nostr is a protocol, not a platform. All content takes the form of **events**: signed JSON objects containing the content, a timestamp, the author's [[public-key-cryptography|public key]], a signature, and tags. An event is "nothing more than a signed text file", so it can be stored anywhere, sent over any channel, and processed by any software that can read JSON and verify signatures.
 
 The architecture separates three roles. **Users** hold private keys and sign events. **Clients** are the apps users interact with — they fetch events from relays, display them, and create new ones. **Relays** are servers that store and forward events; they do not authenticate users, they simply accept valid signed events. No relay is authoritative: a user connects to many relays, content is replicated across the ones they choose, and no single relay can censor a user because others can carry their content. Protocol evolution happens through **NIPs** (Nostr Implementation Possibilities) — optional extensions adopted voluntarily by clients and relays, "market discovery applied to protocol development."
 

@@ -3,7 +3,7 @@ title: "Council System"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-07-16
+updated: 2026-08-06
 verified: 2026-07-16
 tags: [hannah-arendt, council-system, revolution, public-freedom, self-government, republicanism]
 aliases: [council tradition, revolutionary councils, ward system]
@@ -22,7 +22,7 @@ For Arendt the councils are not advisory committees or interest groups; they are
 
 ## Foundation vs Liberation: Why the Councils Are Always Lost
 
-The recurrence and the failure have the same root. The revolutionary tradition, Arendt argues, prized **liberation** — freedom *from* the old regime, tyranny, and want — over **foundation**, the positive task of constituting durable public spaces in which freedom can be exercised. Once liberation was won, the councils looked to the professional revolutionaries like leftover machinery rather than the point of the whole enterprise, and were disbanded as threats to the new central power. They were never given a constitutional home. Arendt's constitutional road not taken is Jefferson's **ward system** — his "elementary republics," meant to give every citizen a small, tangible arena of action so that the republic would rest on participation rather than only on periodic voting. Her tone throughout is sympathetic but candid: she recovers the council experience as real and repeatedly proven, without offering a worked-out institutional blueprint for making it last.
+The recurrence and the failure have the same root. The revolutionary tradition, Arendt argues, prized **liberation** — freedom *from* the old regime, tyranny, and want — over **foundation**, the positive task of constituting durable public spaces in which freedom can be exercised. Once liberation was won, the councils looked to the professional revolutionaries like leftover machinery rather than the point of the whole enterprise, and were disbanded as threats to the new central power. They were never given a constitutional home. Arendt's constitutional road not taken is Jefferson's **ward system** — his "elementary republics", meant to give every citizen a small, tangible arena of action so that the republic would rest on participation rather than only on periodic voting. Her tone throughout is sympathetic but candid: she recovers the council experience as real and repeatedly proven, without offering a worked-out institutional blueprint for making it last.
 
 ## The Historical Instances
 

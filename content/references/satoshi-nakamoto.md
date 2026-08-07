@@ -3,7 +3,7 @@ title: "Satoshi Nakamoto"
 volatility: cold
 category: reference
 created: 2026-05-27
-updated: 2026-06-18
+updated: 2026-08-06
 verified: 2026-06-18
 tags: [satoshi-nakamoto, bitcoin, proof-of-work, digital-cash, cypherpunk, cryptography]
 aliases: [Satoshi, Nakamoto]
@@ -18,7 +18,7 @@ short: "Pseudonymous author of the 2008 Bitcoin whitepaper. The work is well-doc
 
 ## What Is Known Here
 
-The primary raw source for this entry is the whitepaper itself. It gives the author name "Satoshi Nakamoto," the email address used on the paper, and the title *Bitcoin: A Peer-to-Peer Electronic Cash System*. The curated cypherpunks-list subset adds one further public act: Satoshi's announcement, dated 8 January 2009, that the first Bitcoin software release (v0.1) was available — moving the design from paper to running code. Neither source provides a biography, nationality, institutional affiliation, or legal identity. For that reason, this article treats Satoshi primarily as an authorial handle attached to a public design and its first implementation.
+The primary raw source for this entry is the whitepaper itself. It gives the author name "Satoshi Nakamoto", the email address used on the paper, and the title *Bitcoin: A Peer-to-Peer Electronic Cash System*. The curated cypherpunks-list subset adds one further public act: Satoshi's announcement, dated 8 January 2009, that the first Bitcoin software release (v0.1) was available — moving the design from paper to running code. Neither source provides a biography, nationality, institutional affiliation, or legal identity. For that reason, this article treats Satoshi primarily as an authorial handle attached to a public design and its first implementation.
 
 The confidence level is medium because two kinds of claims are being kept separate. The paper's contents, design sections, and cited references are high-confidence primary-source facts. Claims about the person or group behind the pseudonym are low-confidence unless supported by independent primary material, which is not part of this entry's source base.
 

@@ -3,7 +3,7 @@ title: "War Making and State Making as Organized Crime"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-06-18
 tags: [charles-tilly, state, war-and-state-formation, protection-racket, organized-crime, historical-sociology, coercion, extraction, non-libertarian]
 aliases: [War Making and State Making, State Making as Organized Crime, Tilly 1985, protection rackets with legitimacy]
@@ -28,7 +28,7 @@ This is a commercially copyrighted Cambridge University Press chapter. The full 
 
 ## What the Essay Argues
 
-Tilly opens with the direct analogy: if protection rackets represent organized crime at its smoothest, then war making and state making are "quintessential protection rackets with the advantage of legitimacy." The point is not that every state official is personally a criminal. It is that the activities that made European states - monopoly of coercion, suppression of rivals, sale of protection, and extraction of resources - occupy the same analytical continuum as banditry, piracy, gang rivalry, and policing.
+Tilly opens with the direct analogy: if protection rackets represent organized crime at its smoothest, then war making and state making are "quintessential protection rackets with the advantage of legitimacy". The point is not that every state official is personally a criminal. It is that the activities that made European states - monopoly of coercion, suppression of rivals, sale of protection, and extraction of resources - occupy the same analytical continuum as banditry, piracy, gang rivalry, and policing.
 
 The formal framework separates four state activities:
 

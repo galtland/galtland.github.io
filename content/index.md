@@ -4,7 +4,7 @@
 
 **New here? → [Start Here](topics/start-here.md)** — a plain-language tour of the whole wiki: what Austrian economics, libertarianism, and cypherpunk mean, why they belong together, and where to read next. No background assumed.
 
-Last updated: 2026-08-06
+Last updated: 2026-08-07
 
 ## Statistics
 

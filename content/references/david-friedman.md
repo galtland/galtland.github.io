@@ -3,7 +3,7 @@ title: "David Friedman"
 volatility: warm
 category: reference
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-08-06
 verified: 2026-07-15
 tags: [david-friedman, machinery-of-freedom, anarcho-capitalism, consequentialism, utilitarian, private-law, protection-agencies, market-anarchism, chicago-school]
 aliases: [David Friedman, David D. Friedman, The Machinery of Freedom, Machinery of Freedom]
@@ -18,7 +18,7 @@ summary: "Author reference for David D. Friedman (b. 1945): the consequentialist
 
 ## Who He Is
 
-David Friedman is an American economist and legal scholar working in the price-theory tradition of the University of Chicago. He is the son of [[milton-friedman|Milton Friedman]], the Nobel monetarist and Chicago-school leader whom this wiki treats as the free-market ally its Austrians part with over money — and the disambiguation is load-bearing, because father and son sit on opposite sides of the state question. Milton was a classical liberal who wanted a smaller, rule-constrained government; David is an anarchist who wants none. *The Machinery of Freedom* is, fittingly, dedicated to his father alongside [[friedrich-a-hayek|Friedrich Hayek]] and Robert Heinlein — "from whom I learned."
+David Friedman is an American economist and legal scholar working in the price-theory tradition of the University of Chicago. He is the son of [[milton-friedman|Milton Friedman]], the Nobel monetarist and Chicago-school leader whom this wiki treats as the free-market ally its Austrians part with over money — and the disambiguation is load-bearing, because father and son sit on opposite sides of the state question. Milton was a classical liberal who wanted a smaller, rule-constrained government; David is an anarchist who wants none. *The Machinery of Freedom* is, fittingly, dedicated to his father alongside [[friedrich-a-hayek|Friedrich Hayek]] and Robert Heinlein — "from whom I learned".
 
 The book first appeared in 1973 and was expanded for a second edition whose new postscript carries his sharpest methodological statements. It is the founding text of consequentialist anarcho-capitalism, and Friedman has kept it freely available; the wiki's copy is the author-hosted full text.
 

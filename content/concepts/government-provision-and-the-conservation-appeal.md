@@ -3,7 +3,7 @@ title: "Government Provision and the Conservation Appeal"
 volatility: cold
 category: concept
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-08-06
 verified: 2026-06-21
 confidence: high
 tags: [rothbard, price-control, shortage, government-monopoly, conservation, water, electricity, public-utilities, austrian-economics, for-a-new-liberty, power-and-market]
@@ -106,5 +106,5 @@ The result is a reversal of ordinary service logic. The supplier's failure appea
 
 ## Sources
 
-- Murray N. Rothbard, *For a New Liberty: The Libertarian Manifesto* — full text raw at [`topics/libertarian/raw/articles/2026-04-21-for-a-new-liberty-the-libertarian-manifesto-full-text.md`](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub). The "Power shortages and blackouts" paragraph on compulsory utility monopolies appears in Ch. 4 ("The Problems"); the "sourly urging" private/government contrast and the New York water "shortage" passage (with the "always to be blamed" gloss) appear in Ch. 10 ("The Public Sector, I: Government in Business"); the copper-conservation passage appears in Ch. 13 ("Conservation, Ecology, and Growth"), under the section "Conservation of Resources."
-- Murray N. Rothbard, *Power and Market: Government and the Economy* — full text raw at [`topics/libertarian/raw/articles/2026-05-16-power-and-market-government-and-economy-full-text.md`](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub). The maximum-price-control / artificial-shortage analysis and the "principles of maximum and minimum price control apply to all prices" general-applicability statement appear in Ch. 3 ("Triangular Intervention"), under "Price Control."
+- Murray N. Rothbard, *For a New Liberty: The Libertarian Manifesto* — full text raw at [`topics/libertarian/raw/articles/2026-04-21-for-a-new-liberty-the-libertarian-manifesto-full-text.md`](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub). The "Power shortages and blackouts" paragraph on compulsory utility monopolies appears in Ch. 4 ("The Problems"); the "sourly urging" private/government contrast and the New York water "shortage" passage (with the "always to be blamed" gloss) appear in Ch. 10 ("The Public Sector, I: Government in Business"); the copper-conservation passage appears in Ch. 13 ("Conservation, Ecology, and Growth"), under the section "Conservation of Resources".
+- Murray N. Rothbard, *Power and Market: Government and the Economy* — full text raw at [`topics/libertarian/raw/articles/2026-05-16-power-and-market-government-and-economy-full-text.md`](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub). The maximum-price-control / artificial-shortage analysis and the "principles of maximum and minimum price control apply to all prices" general-applicability statement appear in Ch. 3 ("Triangular Intervention"), under "Price Control".

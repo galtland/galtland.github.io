@@ -3,7 +3,7 @@ title: "Nicomachean Ethics"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [aristotle, natural-law, natural-justice, classical-canon, nicomachean-ethics, virtue-ethics, justice, teleology, eudaimonia]
 aliases: [Nicomachean Ethics, Ethics, Nichomachean Ethics, Aristotle's Ethics]
@@ -20,7 +20,7 @@ short: "Aristotle's ethics; Book V's distinction between natural and conventiona
 
 In Book V Aristotle divides "political justice" into two kinds: "natural and conventional; the former being that which has everywhere the same force and does not depend upon being received or not; the latter being that which originally may be this way or that indifferently" until fixed by enactment (his examples: the price of a ransom, which animals to sacrifice). 
 
-Aristotle answers the skeptic who says *all* justice is merely conventional — because the just "is seen to change" from place to place — by insisting that "even amongst ourselves there is somewhat existing by nature," distinguishable in principle from what is merely enacted. This is the seed of the entire tradition: the claim that beneath the variety of human laws there is a standard *by nature* against which they can be measured. [[cicero|Cicero]], [[thomas-aquinas|Aquinas]], and the Scholastics all build on this distinction.
+Aristotle answers the skeptic who says *all* justice is merely conventional — because the just "is seen to change" from place to place — by insisting that "even amongst ourselves there is somewhat existing by nature", distinguishable in principle from what is merely enacted. This is the seed of the entire tradition: the claim that beneath the variety of human laws there is a standard *by nature* against which they can be measured. [[cicero|Cicero]], [[thomas-aquinas|Aquinas]], and the Scholastics all build on this distinction.
 
 ## The Teleological Frame
 
@@ -36,7 +36,7 @@ Aristotle is the **root** of the lineage, not a libertarian: his ethics is one o
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition this text roots
 - [[aristotle-politics|Politics]] - the companion work applying the same teleology to the city
 - [[aquinas-treatise-on-law|Treatise on Law]] - Aquinas's natural-law synthesis, which leans heavily on "the Philosopher"
-- [[cicero-de-re-publica|De Re Publica]] - Cicero's "right reason," the next stage downstream of Aristotle's natural justice
+- [[cicero-de-re-publica|De Re Publica]] - Cicero's "right reason", the next stage downstream of Aristotle's natural justice
 - [[ethics-vs-morality|Ethics vs Morality]]
 
 ## Sources

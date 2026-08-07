@@ -3,7 +3,7 @@ title: "The Road to Serfdom"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-06-26
 tags: [hayek, central-planning, totalitarianism, rule-of-law, classical-liberalism]
 aliases: [Road to Serfdom, RTS]
@@ -26,7 +26,7 @@ This is the wiki's first Hayek text and the most famous classical-liberal book o
 
 ## Scope of the Full-Text Ingest
 
-The Mises Institute's free PDF is the 1999 Institute of Economic Affairs (IEA) edition. It contains the **Readers' Digest condensation** of [[road-to-serfdom|The Road to Serfdom]] (a much-shortened version Hayek himself approved) bundled with Hayek's 1949 essay *The Intellectuals and Socialism*. The condensation preserves the core argument but omits much of the original 1944 book's historical and German material. The wiki therefore has Hayek's argument in its compressed form together with his important essay on how ideas spread from academic specialists to the general public via "second-hand dealers in ideas." A full unabridged ingest would require a different source.
+The Mises Institute's free PDF is the 1999 Institute of Economic Affairs (IEA) edition. It contains the **Readers' Digest condensation** of [[road-to-serfdom|The Road to Serfdom]] (a much-shortened version Hayek himself approved) bundled with Hayek's 1949 essay *The Intellectuals and Socialism*. The condensation preserves the core argument but omits much of the original 1944 book's historical and German material. The wiki therefore has Hayek's argument in its compressed form together with his important essay on how ideas spread from academic specialists to the general public via "second-hand dealers in ideas". A full unabridged ingest would require a different source.
 
 ## Relation to Hayek's Other Texts
 

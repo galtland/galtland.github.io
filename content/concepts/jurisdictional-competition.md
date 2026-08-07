@@ -3,7 +3,7 @@ title: "Jurisdictional Competition"
 volatility: warm
 category: concept
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [jurisdictional-competition, sovereignty-services, james-dale-davidson, william-rees-mogg, sovereign-individual, frederic-lane, nation-state, taxation, governments-as-firms]
 aliases: [jurisdictional competition, interjurisdictional competition, sovereignty services, governments as firms, citizens as customers, government controlled by its customers]
@@ -22,7 +22,7 @@ The argument is the political consequence of the [[the-cybereconomy|cybereconomy
 
 ## Lane's Three Modes of Control
 
-To explain why this matters, Davidson and Rees-Mogg borrow economic historian Frederic Lane's analysis of government as "an economic unit that sells protection." Lane distinguished three ways the protection-selling enterprise can be controlled, each with different incentives:
+To explain why this matters, Davidson and Rees-Mogg borrow economic historian Frederic Lane's analysis of government as "an economic unit that sells protection". Lane distinguished three ways the protection-selling enterprise can be controlled, each with different incentives:
 
 - **Proprietors** — a hereditary owner (a medieval lord, the Sultan of Brunei) who runs the territory to maximize profit. Proprietors cut costs but keep the price (tax) as high as their monopoly allows.
 - **Employees** — bureaucracies and political classes that run government for their own benefit. They favor maximizing size and employment, resist cost-cutting, and tend toward chronic deficits.
@@ -59,4 +59,4 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 
 ## Sources
 
-- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 1 ("treat populations ... more like customers"), Chapter 5 ("The Life and Death of the Nation-State," Lane's proprietors/employees/customers typology), and the "sovereignty services" passages
+- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 1 ("treat populations ... more like customers"), Chapter 5 ("The Life and Death of the Nation-State", Lane's proprietors/employees/customers typology), and the "sovereignty services" passages

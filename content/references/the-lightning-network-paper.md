@@ -3,7 +3,7 @@ title: "The Lightning Network Paper"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-08-06
 verified: 2026-05-30
 tags: [bitcoin, lightning-network, payment-channels, htlc, scalability, proof-of-work, cypherpunk]
 aliases: [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments, Lightning Network paper, Poon Dryja Lightning paper]
@@ -14,7 +14,7 @@ short: "Poon and Dryja's Lightning paper: HTLC-routed payment channels that keep
 
 # The Lightning Network Paper
 
-> [[the-lightning-network-paper|The Lightning Network Paper]] is Joseph Poon and Tadge Dryja's 2016 draft "The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments."
+> [[the-lightning-network-paper|The Lightning Network Paper]] is Joseph Poon and Tadge Dryja's 2016 draft "The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments".
 
 ## Scaling Problem
 

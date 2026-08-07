@@ -3,7 +3,7 @@ title: "Denationalisation of Money"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-06-26
 tags: [hayek, denationalisation-of-money, competing-currencies, currency-competition, free-banking, sound-money, monetary-theory, austrian-economics, bitcoin]
 aliases: [Denationalisation of Money, Denationalization of Money, The Argument Refined, competing currencies, currency competition, free trade in money]
@@ -14,7 +14,7 @@ short: "Hayek's case for abolishing the state money monopoly and letting private
 
 # Denationalisation of Money
 
-> [[denationalisation-of-money|Denationalisation of Money]] is [[friedrich-a-hayek|F. A. Hayek]]'s late monetary work — first published by the Institute of Economic Affairs in 1976 and expanded in 1978 as *The Argument Refined: An Analysis of the Theory and Practice of Concurrent Currencies*. Its thesis is radical: the state monopoly on issuing money should be abolished and replaced by "free trade in money," with private institutions competing to supply distinct currencies whose value the market keeps honest.
+> [[denationalisation-of-money|Denationalisation of Money]] is [[friedrich-a-hayek|F. A. Hayek]]'s late monetary work — first published by the Institute of Economic Affairs in 1976 and expanded in 1978 as *The Argument Refined: An Analysis of the Theory and Practice of Concurrent Currencies*. Its thesis is radical: the state monopoly on issuing money should be abolished and replaced by "free trade in money", with private institutions competing to supply distinct currencies whose value the market keeps honest.
 
 ## The Proposal
 

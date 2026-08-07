@@ -3,7 +3,7 @@ title: "Frédéric Bastiat"
 volatility: cold
 category: reference
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-08-06
 verified: 2026-07-01
 tags: [frederic-bastiat, french-liberal-school, classical-liberalism, free-trade, seen-and-unseen, broken-window-fallacy, legal-plunder, protectionism, economic-sophisms]
 aliases: [Frédéric Bastiat, Frederic Bastiat, Bastiat, Claude-Frédéric Bastiat]
@@ -37,4 +37,4 @@ The wiki draws on two strands of his work. From [[the-seen-and-the-unseen|“Tha
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
-- [Essays on Political Economy (Full Text Aggregate)](https://www.gutenberg.org/ebooks/15962 (Project Gutenberg); public-domain 19th-century English translation; SHA-256 1b4ca6a2ae3370f35f4e76b87721342ca79214e4d090becfaf6cbb7b2aed0e12) - Bastiat's essays, including “That Which Is Seen, and That Which Is Not Seen” and “The Law,” the basis for this profile
+- [Essays on Political Economy (Full Text Aggregate)](https://www.gutenberg.org/ebooks/15962 (Project Gutenberg); public-domain 19th-century English translation; SHA-256 1b4ca6a2ae3370f35f4e76b87721342ca79214e4d090becfaf6cbb7b2aed0e12) - Bastiat's essays, including “That Which Is Seen, and That Which Is Not Seen” and “The Law”, the basis for this profile

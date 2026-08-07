@@ -3,7 +3,7 @@ title: "Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract"
 volatility: cold
 category: concept
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-06
 verified: 2026-06-24
 confidence: high
 tags: [voluntary-slavery, contract, title-transfer, inalienability, debt, debt-bondage, self-ownership, restitution, penal-bond, murray-n-rothbard, walter-block, libertarian, austrian]
@@ -78,7 +78,7 @@ It should be said plainly that this is the most contested move in the chain. Cri
 
 ## The Market Alternative: The Penal Bond
 
-The theory also supplies the device a free society would actually use, and it is neither forced performance nor open-ended labor. Rothbard, following A.W.B. Simpson's history, points to the medieval **penal or performance bond**: the contractor "obligated himself to pay what was usually twice the sum he owed in case of failure to pay his debt or fulfill his contract," so that "the voluntarily contracted penalty served as an incentive for him to fulfill his contract." The obligation that bites on default is a *pre-agreed transfer of money* — alienable, and therefore enforceable — rather than a claim on the person.
+The theory also supplies the device a free society would actually use, and it is neither forced performance nor open-ended labor. Rothbard, following A.W.B. Simpson's history, points to the medieval **penal or performance bond**: the contractor "obligated himself to pay what was usually twice the sum he owed in case of failure to pay his debt or fulfill his contract", so that "the voluntarily contracted penalty served as an incentive for him to fulfill his contract." The obligation that bites on default is a *pre-agreed transfer of money* — alienable, and therefore enforceable — rather than a claim on the person.
 
 This is why a pure promise of personal performance cannot be enforced at all. Rothbard's movie-actor example makes the boundary vivid: an actor who agrees to appear and then does not cannot be forced to perform — "Certainly not, for that would be compulsory slavery" — and, absent a bond, cannot even be made to pay damages, since "he has committed no theft against the owners (or against anyone else), and therefore he cannot be forced to pay damages." If the parties want security, they must build it as a title: a penalty bond the actor signs in advance. The bond is thus how a free society handles *performance* promises without ever having to compel a person — it converts a personal obligation into a money title before the fact. A money loan is the case where that title already exists, which is why an unpaid loan is enforced not by a bond but by restitution: attachment of the debtor's property and income, with voluntary forgiveness as the only non-coercive release.
 

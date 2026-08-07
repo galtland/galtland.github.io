@@ -3,7 +3,7 @@ title: "Credit and Deferred Payment"
 volatility: warm
 category: concept
 created: 2026-05-09
-updated: 2026-06-26
+updated: 2026-08-06
 verified: 2026-06-26
 tags: [credit, time-preference, debtor-creditor, book-credit, austrian-economics, money-and-banking]
 aliases: [credit transaction, trade credit, book credit, commercial credit, deferred payment]
@@ -20,7 +20,7 @@ The structural definition is stated definitionally in two sources: Mises's [[the
 
 ## The Core Definition
 
-The canonical Austrian statement is Mises's, in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] (1912; 1953 Yale edition, p. 268), Part Three Ch. I "The Business of Banking," in the section "Deposits as the Origin of Circulation Credit." Discussing whether a redeemable money-deposit qualifies as credit, Mises pauses to give the underlying definition:
+The canonical Austrian statement is Mises's, in [[the-theory-of-money-and-credit|The Theory of Money and Credit]] (1912; 1953 Yale edition, p. 268), Part Three Ch. I "The Business of Banking", in the section "Deposits as the Origin of Circulation Credit". Discussing whether a redeemable money-deposit qualifies as credit, Mises pauses to give the underlying definition:
 
 > "If credit in the economic sense means the exchange of a present good or a present service against a future good or a future service, then it is hardly possible to include the transactions in question under the conception of credit."
 >
@@ -36,7 +36,7 @@ Mises restates the definition in slightly different language earlier in the same
 
 Notice the scope here. Mises explicitly classifies "purchase on credit" — any sale where seller-delivery and buyer-payment occur at different times — as a credit transaction, alongside lending. The structural definition is not a niche financial category; it is the generic frame for any transaction with delivery–payment separation.
 
-Rothbard restates the definition in [[man-economy-and-state|Man, Economy, and State]], Ch. 2 "Direct Exchange," §11 "Types of Exchangeable Goods":
+Rothbard restates the definition in [[man-economy-and-state|Man, Economy, and State]], Ch. 2 "Direct Exchange", §11 "Types of Exchangeable Goods":
 
 > "In a credit transaction, a present good is exchanged for a future good, or rather, a claim on a future good."
 >
@@ -44,21 +44,21 @@ Rothbard restates the definition in [[man-economy-and-state|Man, Economy, and St
 
 A few paragraphs later in the same section, Rothbard names the diagnostic feature that distinguishes credit from a present-good exchange:
 
-> "A credit exchange sets up an unfinished payment on the part of the debtor."
+> "A credit exchange sets up an unfinished payment on the part of the debtor".
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[man-economy-and-state|Man, Economy, and State]]
 
-The contrast with cash is then drawn out in MES Ch. 6, "Production: The Rate of Interest and Its Determination," §2 "The Determination of the Pure Rate of Interest: The Time Market":
+The contrast with cash is then drawn out in MES Ch. 6, "Production: The Rate of Interest and Its Determination", §2 "The Determination of the Pure Rate of Interest: The Time Market":
 
-> "When a man buys a suit for cash, he transfers money in exchange for the suit. The transaction is finished. In a credit transaction he receives simply a written I.O.U., or note, entitling him to claim a certain amount of money at a future date. The transaction remains to be completed in the future."
+> "When a man buys a suit for cash, he transfers money in exchange for the suit. The transaction is finished. In a credit transaction he receives simply a written I.O.U., or note, entitling him to claim a certain amount of money at a future date. The transaction remains to be completed in the future".
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[man-economy-and-state|Man, Economy, and State]]
 
 So Rothbard's diagnostic is whether the transaction is **finished at the moment of delivery**. If yes, it is cash. If one side still owes payment, it is credit. The receiver of the present good is the **debtor**; the deliverer holding the unfinished claim is the **creditor**. Rothbard's diagnostic is the operational form of Mises's structural definition — they are the same criterion, stated as definition by Mises in 1912 and re-stated as test by Rothbard in 1962.
 
-Mises retains the same definition in his later [[human-action|Human Action]] (1949). In Ch. XX "Interest, Credit Expansion, and the Trade Cycle" (Scholar's Edition pp. 536–537), he treats credit transactions and deferred payments as one category — "other classes of credit transactions and deferred payments" — and his analysis of monetary changes runs through their effects on "all species of deferred payments," i.e. all outstanding credit relationships, whether or not they are styled as loans. He elsewhere asserts (Ch. XX) that "every grant of credit is a speculative entrepreneurial venture, the success or failure of which is uncertain" — a claim that only makes sense on the present-for-future-good reading, since uncertainty enters precisely *because* the future payment is not yet in hand. Where TMC introduced the structural definition, [[human-action|Human Action]] embeds it in the wider praxeological framework and pairs it with the commodity-credit / circulation-credit distinction (Ch. XVII) that becomes central to Austrian Business Cycle Theory.
+Mises retains the same definition in his later [[human-action|Human Action]] (1949). In Ch. XX "Interest, Credit Expansion, and the Trade Cycle" (Scholar's Edition pp. 536–537), he treats credit transactions and deferred payments as one category — "other classes of credit transactions and deferred payments" — and his analysis of monetary changes runs through their effects on "all species of deferred payments", i.e. all outstanding credit relationships, whether or not they are styled as loans. He elsewhere asserts (Ch. XX) that "every grant of credit is a speculative entrepreneurial venture, the success or failure of which is uncertain" — a claim that only makes sense on the present-for-future-good reading, since uncertainty enters precisely *because* the future payment is not yet in hand. Where TMC introduced the structural definition, [[human-action|Human Action]] embeds it in the wider praxeological framework and pairs it with the commodity-credit / circulation-credit distinction (Ch. XVII) that becomes central to Austrian Business Cycle Theory.
 
-[[hans-hermann-hoppe|Hoppe]] gives the same picture in [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]], in his essay on banking, money, and the state. His characterisation of bank lending is built directly on the present-good/future-good split: the public "saved more so as to make a larger fund of present goods available to investors in exchange for their promise of a return of future goods," and the question of whether bank credit is **commodity credit** or **circulation credit** turns on whether real present goods were sacrificed by a creditor in the first place. Hoppe also defends the present/future distinction explicitly against critics who would blur it, insisting that "no one, at any time, can act with anything except present goods" and that the difference between present and future goods is "not a matter of degree but rather one of substance." Hoppe explicitly cites TMC p. 268 — the very passage above — when making this argument; the Austrian framework is, on his reading, continuous from 1912.
+[[hans-hermann-hoppe|Hoppe]] gives the same picture in [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]], in his essay on banking, money, and the state. His characterisation of bank lending is built directly on the present-good/future-good split: the public "saved more so as to make a larger fund of present goods available to investors in exchange for their promise of a return of future goods," and the question of whether bank credit is **commodity credit** or **circulation credit** turns on whether real present goods were sacrificed by a creditor in the first place. Hoppe also defends the present/future distinction explicitly against critics who would blur it, insisting that "no one, at any time, can act with anything except present goods" and that the difference between present and future goods is "not a matter of degree but rather one of substance". Hoppe explicitly cites TMC p. 268 — the very passage above — when making this argument; the Austrian framework is, on his reading, continuous from 1912.
 
 ## Why This Definition Is Wider Than Folk Usage
 
@@ -75,7 +75,7 @@ That width is a feature, not a quirk. The whole Austrian theory of interest is b
 
 The wiki's sources name several common forms of this kind of credit beyond the bank loan. Hayek, in [[prices-and-production|Prices and Production]] — specifically [[prices-and-production|Prices and Production]] (the 1931/1935 essay), at p. 290 of the Mises Institute collected edition — discusses **book credit** as one of "a number of other forms of commercial credit":
 
-> "[B]ook credit is simultaneously introduced in a number of successive stages of production in the place of cash payments, and so on. The characteristic peculiarity of these forms of credit is that they spring up without being subject to any central control."
+> "[B]ook credit is simultaneously introduced in a number of successive stages of production in the place of cash payments, and so on. The characteristic peculiarity of these forms of credit is that they spring up without being subject to any central control …"
 >
 > — [[friedrich-a-hayek|F. A. Hayek]], [[prices-and-production|Prices and Production and Other Works]]
 
@@ -103,7 +103,7 @@ This is also why Mises insists on treating the entire universe of deferred payme
 
 ## Worked Example: The Utility Bill
 
-Apply the definition to a customer who consumes water through the month and is billed at the end. The utility delivers a present good in real time — water consumed as it flows. The customer owes payment only at month-end. During the cycle, the customer's obligation is exactly Rothbard's "unfinished payment on the part of the debtor." On this framework:
+Apply the definition to a customer who consumes water through the month and is billed at the end. The utility delivers a present good in real time — water consumed as it flows. The customer owes payment only at month-end. During the cycle, the customer's obligation is exactly Rothbard's "unfinished payment on the part of the debtor". On this framework:
 
 - The **utility is the creditor**.
 - The **customer is the debtor**.
@@ -192,7 +192,7 @@ Mises's distinction between **commodity credit** (credit granted out of real sav
 
 ## Sources
 
-- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) — Mises's canonical 1912 statement of the structural definition (Part Three Ch. I "The Business of Banking," section "Deposits as the Origin of Circulation Credit," p. 268 of the Yale 1953 edition), the depositor passage that uses the definition to exclude deposits-against-redeemable-claims from the conception of credit (same page), and the earlier classification of "purchase on credit" as a credit transaction alongside lending (Part One Ch. I §3 "The 'Secondary' Functions of Money," p. ~35)
+- [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/The%20Theory%20Of%20Money%20And%20Credit%20-%20Ludwig%20von%20Mises.epub) — Mises's canonical 1912 statement of the structural definition (Part Three Ch. I "The Business of Banking," section "Deposits as the Origin of Circulation Credit", p. 268 of the Yale 1953 edition), the depositor passage that uses the definition to exclude deposits-against-redeemable-claims from the conception of credit (same page), and the earlier classification of "purchase on credit" as a credit transaction alongside lending (Part One Ch. I §3 "The 'Secondary' Functions of Money", p. ~35)
 - [Man, Economy, and State: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market.epub) — Rothbard's restatement of the present-for-future-good definition (Ch. 2 §11 "Types of Exchangeable Goods"), the cash-vs-credit *is the transaction finished?* diagnostic (Ch. 6 §2 "The Determination of the Pure Rate of Interest: The Time Market"), the debtor–creditor structure, the monthly-billing A-and-B example (Ch. 11 "Money and Its Purchasing Power", clearing under "Secular Influences on the Demand for Money"), the explicit commodity-vs-circulation-credit distinction (Ch. 11), and the distinction between credit transactions and ordinary production-side time exchanges (Ch. 6 §2)
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) — Mises's pairing of "credit transactions and deferred payments" as a single category (Ch. XX "Interest, Credit Expansion, and the Trade Cycle", Scholar's Edition pp. 536–537), the "every grant of credit is a speculative entrepreneurial venture" passage (Ch. XX), the "sword of Damocles" line on government interference with deferred payments (Ch. XX p. 537), and the underlying commodity-vs-circulation-credit distinction (Ch. XVII "Indirect Exchange") that ABCT later builds on
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) — Hoppe's parallel formulation in present-good/future-good language ("the public has not saved more, and accordingly, the additional amount of credit granted by the bank does not represent commodity credit … but it is fiduciary or circulation credit"), defence of the present/future-good distinction as one of substance not degree, and a directly quoted passage from Mises's 1912 [[the-theory-of-money-and-credit|The Theory of Money and Credit]] (p. 268) on redeemable money-substitutes as present goods

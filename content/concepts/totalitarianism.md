@@ -3,7 +3,7 @@ title: "Totalitarianism"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-08-05
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, stalinism, gulag, total-domination, banality-of-evil, state, central-planning, evolution-of-the-state, non-libertarian]
 aliases: [totalitarian rule, ideology and terror]
@@ -18,9 +18,9 @@ short: "Arendt's account of totalitarianism as a novel form of rule through ideo
 
 ## Arendt's Definition
 
-[[hannah-arendt|Arendt]]'s [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] is careful about categories. Tyranny lawlessly rules; dictatorship rules by emergency command and fear; authoritarianism rules through hierarchy and an ideology of order. Totalitarianism is different. Its characteristic vocabulary is "total domination," "law of movement," "everything is possible," and "organized loneliness."
+[[hannah-arendt|Arendt]]'s [[the-origins-of-totalitarianism|The Origins of Totalitarianism]] is careful about categories. Tyranny lawlessly rules; dictatorship rules by emergency command and fear; authoritarianism rules through hierarchy and an ideology of order. Totalitarianism is different. Its characteristic vocabulary is "total domination," "law of movement", "everything is possible," and "organized loneliness".
 
-The core claim appears in Chapter 13, "Ideology and Terror." Totalitarian rule claims to obey the movement of Nature or History more directly than ordinary positive law can. Nazi rule treats race and Nature as the moving law. Stalinist rule treats class and History as the moving law. Terror then becomes the instrument for making that alleged motion real by eliminating the "objective enemy" selected by the ideology.
+The core claim appears in Chapter 13, "Ideology and Terror". Totalitarian rule claims to obey the movement of Nature or History more directly than ordinary positive law can. Nazi rule treats race and Nature as the moving law. Stalinist rule treats class and History as the moving law. Terror then becomes the instrument for making that alleged motion real by eliminating the "objective enemy" selected by the ideology.
 
 This is why totalitarianism is not merely a very severe state. It is a form of rule in which law, morality, factuality, and personal responsibility are dissolved into an ideological process. The subject is not asked only to obey. He is pressed into a movement that claims to know in advance what Nature or History requires.
 

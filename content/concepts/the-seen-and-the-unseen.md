@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-08-06
 verified: 2026-07-01
 tags: [frederic-bastiat, seen-and-unseen, broken-window-fallacy, opportunity-cost, henry-hazlitt, protectionism, make-work, free-trade, classical-liberalism]
 aliases: [The Seen and the Unseen, that which is seen and that which is not seen, broken window fallacy, the broken window, opportunity cost, seen and unseen]
@@ -19,7 +19,7 @@ confidence: high
 
 ## The principle
 
-In his 1850 essay “That Which Is Seen, and That Which Is Not Seen,” Bastiat draws the distinction that gives the concept its name: an act produces one immediate, visible effect and a series of later effects that must be foreseen rather than seen. The difference between good and bad economics, he argues, is whether one reckons with both.
+In his 1850 essay “That Which Is Seen, and That Which Is Not Seen”, Bastiat draws the distinction that gives the concept its name: an act produces one immediate, visible effect and a series of later effects that must be foreseen rather than seen. The difference between good and bad economics, he argues, is whether one reckons with both.
 
 > …the one takes account of the visible effect; the other takes account both of the effects which are seen and also of those which it is necessary to foresee.
 >

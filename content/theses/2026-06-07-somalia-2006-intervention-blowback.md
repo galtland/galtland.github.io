@@ -4,7 +4,7 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-06-07
-updated: 2026-06-13
+updated: 2026-08-06
 verified: 2026-06-13
 tags: [thesis, somalia, foreign-intervention, child-soldiers, blowback, protection-racket, war-and-the-state, political-means]
 stance: contextualize
@@ -36,7 +36,7 @@ short: "A former child soldier's story tests Tilly's racketeer logic and Oppenhe
 >
 > — News post, 2026-06-07
 
-Read the report from its final line backward. Twenty years after a war launched to topple the Union of Islamic Courts, the fighting has not ended — "more countries than ever before have troops deployed in Somalia." A campaign sold as the removal of a danger has left, two decades on, troops from more countries in it than when it began, a country-wide insurgency grown from what the article can only call the courts' "military youth wing," and a shopkeeper who fired on troops "street by street" before he had finished secondary school. The pull is to read this as a morality play about one faction's purity and another's malice; the sharper reading is structural, and Charles Tilly named the structure first.
+Read the report from its final line backward. Twenty years after a war launched to topple the Union of Islamic Courts, the fighting has not ended — "more countries than ever before have troops deployed in Somalia." A campaign sold as the removal of a danger has left, two decades on, troops from more countries in it than when it began, a country-wide insurgency grown from what the article can only call the courts' "military youth wing", and a shopkeeper who fired on troops "street by street" before he had finished secondary school. The pull is to read this as a morality play about one faction's purity and another's malice; the sharper reading is structural, and Charles Tilly named the structure first.
 
 ## The racketeer test
 
@@ -52,7 +52,7 @@ The test that follows is the load-bearing part, and it is exacting: not whether 
 >
 > — [[charles-tilly|Tilly]], [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]
 
-That Tilly is a historical sociologist and no libertarian — a point [[war-and-state-formation|War and State Formation]] is careful to keep in view — only sharpens the convergence: the racketeer clause is offered as plain description, and it describes the sequence the BBC lays out almost line for line. The Union of Islamic Courts had "brought a measure of stability after years of warlord rule." Its youth wing, al-Shabab, existed — but as a wing, not the country-wide insurgency the world would later name. Then, "to topple the courts just six months after they had taken over," thousands of Ethiopian troops invaded under American drones, and in the war that followed "al-Shabab and allied groups (the Muqawama, 'Resistance') united to fight it." The entrenched armed movement that now justifies a standing foreign deployment is, on the report's own chronology, in large part a consequence of the intervention meant to remove it. Tilly's clause does not require the threat to be fictional, only that it be the protector's own product — and by that measure the permanent presence has the structure of the racket: it charges for reducing a danger its first act helped call into being.
+That Tilly is a historical sociologist and no libertarian — a point [[war-and-state-formation|War and State Formation]] is careful to keep in view — only sharpens the convergence: the racketeer clause is offered as plain description, and it describes the sequence the BBC lays out almost line for line. The Union of Islamic Courts had "brought a measure of stability after years of warlord rule". Its youth wing, al-Shabab, existed — but as a wing, not the country-wide insurgency the world would later name. Then, "to topple the courts just six months after they had taken over", thousands of Ethiopian troops invaded under American drones, and in the war that followed "al-Shabab and allied groups (the Muqawama, 'Resistance') united to fight it." The entrenched armed movement that now justifies a standing foreign deployment is, on the report's own chronology, in large part a consequence of the intervention meant to remove it. Tilly's clause does not require the threat to be fictional, only that it be the protector's own product — and by that measure the permanent presence has the structure of the racket: it charges for reducing a danger its first act helped call into being.
 
 ## War power and its permanent legacy
 

@@ -3,7 +3,7 @@ title: "School of Salamanca"
 volatility: cold
 category: concept
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-06
 verified: 2026-06-09
 tags: [school-of-salamanca, late-scholastics, natural-law, natural-rights, austrian-economics, proto-austrian, francisco-de-vitoria, juan-de-mariana, luis-de-molina, francisco-suarez, just-price, subjective-value, quantity-theory, sound-money, classical-canon, murray-n-rothbard]
 aliases: [School of Salamanca, Salamanca School, late Spanish scholastics, Spanish scholastics, Salamancans, late scholastics]
@@ -24,8 +24,8 @@ The Salamancans revived Thomism in the "silver age" of scholasticism, against th
 
 The Salamancans carried [[aquinas-treatise-on-law|Aquinas's]] natural law forward and, strikingly, toward consent and resistance theory that anticipates [[the-second-treatise-of-government|Locke]]:
 
-- **Suárez** held that "political power by natural and divine law devolves solely on the people as a whole"; the sovereign's power "must necessarily be bestowed upon him by the consent of the community," and a manifest tyrant may be resisted and even killed (tyrannicide, hedged with restrictions).
-- **Mariana** went furthest. In *De Rege* (1599) he attacked absolutism and the divine right of kings, denounced past conquerors as tyrants "who acquired their power by injustice and robbery," and argued that in "transferring their original political power from a state of nature to the king, the people necessarily reserved important rights to themselves" — including the right to reclaim sovereignty, to tax, to veto laws, and to resist. He questioned whether the king owned his subjects' property and concluded that he did not.
+- **Suárez** held that "political power by natural and divine law devolves solely on the people as a whole"; the sovereign's power "must necessarily be bestowed upon him by the consent of the community", and a manifest tyrant may be resisted and even killed (tyrannicide, hedged with restrictions).
+- **Mariana** went furthest. In *De Rege* (1599) he attacked absolutism and the divine right of kings, denounced past conquerors as tyrants "who acquired their power by injustice and robbery", and argued that in "transferring their original political power from a state of nature to the king, the people necessarily reserved important rights to themselves" — including the right to reclaim sovereignty, to tax, to veto laws, and to resist. He questioned whether the king owned his subjects' property and concluded that he did not.
 - **Vitoria** applied natural law to the law of nations and the rights of the New World's indigenous peoples — the natural-law lineage that runs parallel to, and feeds, [[the-rights-of-war-and-peace|Grotius's]] founding of international law.
 
 ## The Proto-Austrian Side
@@ -58,5 +58,5 @@ The Salamancans are the wiki's clearest single bridge between its [[natural-law-
 
 ## Sources
 
-- [Rothbard, Economic Thought Before Adam Smith (Full Text)](https://cdn.mises.org/Austrian%20Perspective%20on%20the%20History%20of%20Economic%20Thought_1.epub) - Chapter 4, "The late Spanish scholastics," §§4.1–4.7 (Cajetan, the School of Salamanca, Vitoria, Molina, Suárez, and Mariana on natural rights, value, the just price, money, and debasement)
+- [Rothbard, Economic Thought Before Adam Smith (Full Text)](https://cdn.mises.org/Austrian%20Perspective%20on%20the%20History%20of%20Economic%20Thought_1.epub) - Chapter 4, "The late Spanish scholastics", §§4.1–4.7 (Cajetan, the School of Salamanca, Vitoria, Molina, Suárez, and Mariana on natural rights, value, the just price, money, and debasement)
 - [Mariana, A Treatise on the Alteration of Money (Bibliographic Stub)](https://mises.org/library/juan-de-mariana-and-modern-american-politics-money-salamanca-cervantes-jefferson-and) - primary-source stub for Mariana's anti-debasement argument (full English text copyright-restricted)
