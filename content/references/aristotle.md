@@ -3,7 +3,7 @@ title: "Aristotle"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-07
 verified: 2026-06-09
 tags: [aristotle, natural-law, natural-justice, classical-canon, virtue-ethics, teleology, political-philosophy]
 aliases: [Aristotle, the Philosopher, the Stagirite]
@@ -18,9 +18,9 @@ short: "Greek philosopher whose Ethics and Politics root natural-law theory in h
 
 ## Place in This Wiki
 
-Aristotle is the foundational figure of the lineage, though not a member of it in spirit: he has a theory of natural *justice* and natural *teleology*, not of natural *rights*. The Ethics distinguishes natural justice ("that which has everywhere the same force") from the merely conventional; the Politics treats man as "by nature a political animal" and the polis as a natural community. Medieval and modern natural-law thinkers — above all [[aquinas-treatise-on-law|Aquinas]], for whom he is simply "the Philosopher" — build on this.
+Aristotle is the foundational figure of the lineage, though not a member of it in spirit: he has a theory of natural *justice* and natural *teleology*, not of natural *rights*. The Ethics distinguishes natural justice ("that which has everywhere the same force") from the merely conventional; the Politics treats man as "naturally a political animal" and the polis as a natural community. Medieval and modern natural-law thinkers — above all [[aquinas-treatise-on-law|Aquinas]], for whom he is simply "the Philosopher" — build on this.
 
-The wiki flags the limits honestly: Aristotle reaches *statist* conclusions (the polis as the highest good) and defends *natural slavery*, which the rights tradition repudiates. He is used here for the method and the natural/conventional distinction, not as an ally.
+The wiki flags the limits honestly: Aristotle reaches *statist* conclusions (the polis as the sovereign community, to which the individual is ordered) and defends *natural slavery*, which the rights tradition repudiates. He is used here for the method and the natural/conventional distinction, not as an ally.
 
 ## See Also
 

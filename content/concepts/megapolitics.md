@@ -3,7 +3,7 @@ title: "Megapolitics"
 volatility: cold
 category: concept
 created: 2026-06-09
-updated: 2026-08-06
+updated: 2026-08-07
 verified: 2026-06-09
 tags: [megapolitics, james-dale-davidson, william-rees-mogg, sovereign-individual, logic-of-violence, state-formation, power-projection, information-age, non-libertarian]
 aliases: [megapolitics, megapolitical, logic of violence, the logic of violence, costs and rewards of violence]
@@ -27,13 +27,13 @@ The authors take from economic historian Frederic C. Lane the observation that "
 
 ## Politics Within Megapolitical Boundaries
 
-The provocative move is the ordering of cause and effect. For Davidson and Rees-Mogg, "technological imperatives, not popular opinion, are the most important sources of change". Constitutions, ideologies, and democratic choices operate *inside* boundaries that megapolitics has already drawn; they do not set those boundaries. On this view the modern nation-state, with citizenship and mass politics, did not triumph because it was more just than feudalism — it triumphed because gunpowder, mass armies, and industrial production made large centralized organization the most efficient way to project power and extract taxes.
+The provocative move is the ordering of cause and effect. For Davidson and Rees-Mogg, "technological imperatives, not popular opinion, are the most important sources of change in today's world". Constitutions, ideologies, and democratic choices operate *inside* boundaries that megapolitics has already drawn; they do not set those boundaries. On this view the modern nation-state, with citizenship and mass politics, did not triumph because it was more just than feudalism — it triumphed because gunpowder, mass armies, and industrial production made large centralized organization the most efficient way to project power and extract taxes.
 
 The book's forecast then follows directly: the microprocessor reverses that efficiency. It raises the marginal productivity of individuals, makes wealth and talent mobile, and lets value flee into a [[the-cybereconomy|cybereconomy]] where force cannot profitably reach it. Falling returns to violence mean the nation-state can no longer command the resources it once did — hence [[jurisdictional-competition|jurisdictional competition]] and the rise of the Sovereign Individual.
 
 ## Relation to Other Frames in This Wiki
 
-Megapolitics is a cousin of several state-origin theories the wiki already maps, all of which root the state in coercion rather than consent. It echoes the conquest theory of [[evolution-of-the-state|the state's origin]] in [[franz-oppenheimer|Oppenheimer]] and [[albert-jay-nock|Nock]], and the "war made the state, and the state made war" thesis of [[war-and-state-formation|war and state formation]] and [[tilly-on-protection-rackets|Tilly's protection rackets]]. It most closely prefigures Jason [[jason-lowery|Lowery]]'s [[power-projection|power projection]]: both make "the cost of attack" the master variable, and both ask what happens to that cost when the contested terrain becomes cyberspace — though Lowery reaches a national-security conclusion where Davidson and Rees-Mogg reach a libertarian-flavored one.
+Megapolitics is a cousin of several state-origin theories the wiki already maps, all of which root the state in coercion rather than consent. It echoes the conquest theory of [[evolution-of-the-state|the state's origin]] in [[franz-oppenheimer|Oppenheimer]] and [[albert-jay-nock|Nock]], and the war-made-the-state thesis of [[war-and-state-formation|war and state formation]] and [[tilly-on-protection-rackets|Tilly's protection rackets]]. It most closely prefigures Jason [[jason-lowery|Lowery]]'s [[power-projection|power projection]]: both make "the cost of attack" the master variable, and both ask what happens to that cost when the contested terrain becomes cyberspace — though Lowery reaches a national-security conclusion where Davidson and Rees-Mogg reach a libertarian-flavored one.
 
 ## Limits
 
@@ -59,5 +59,5 @@ Confidence is low. Megapolitics is a sweeping single-source theory of all of his
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
-- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 2 ("A Crash Course in Megapolitics", the four factors, the Lane epigraph) and Chapter 6 ("The Megapolitics of the Information Age")
+- [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 2, "Megapolitical Transformations in Historic Perspective" (its "A Crash Course in Megapolitics" section, the four factors, the Lane epigraph) and Chapter 6 ("The Megapolitics of the Information Age")
 - [Coercion, Capital, and European States, AD 990–1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - Tilly's 1990

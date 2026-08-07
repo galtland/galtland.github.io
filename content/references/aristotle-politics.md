@@ -3,7 +3,7 @@ title: "Politics (Aristotle)"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-07
 verified: 2026-06-09
 tags: [aristotle, natural-law, classical-canon, politics, political-animal, polis, property, natural-slavery, justice, teleology]
 aliases: [Politics, Aristotle's Politics, Politics A Treatise on Government]
@@ -14,11 +14,11 @@ short: "Aristotle's Politics: the polis and man's political nature as natural; i
 
 # Politics (Aristotle)
 
-> [[aristotle-politics|The Politics]] is Aristotle's treatise on the city and its constitutions (c. 340 BC), the political application of the teleology developed in the [[nicomachean-ethics|Nicomachean Ethics]]. It supplies the [[natural-law-and-natural-order|natural-law]] tradition with its idea that political life and its institutions exist "by nature."
+> [[aristotle-politics|The Politics]] is Aristotle's treatise on the city and its constitutions (c. 340 BC), the political application of the teleology developed in the [[nicomachean-ethics|Nicomachean Ethics]]. It supplies the [[natural-law-and-natural-order|natural-law]] tradition with its idea that political life and its institutions arise by nature rather than by mere convention.
 
 ## Nature and the Polis
 
-Aristotle's signature claims are that man is "by nature a political animal" and that the polis itself exists "by nature" — it grows out of the household and the village as their completion, and is prior to the individual in the order of explanation because only within it can a human being achieve the good life. The city is not a mere convention or contract but the natural fulfillment of human sociality. Book I also analyzes the household, exchange, and the natural acquisition of **property** as prior, natural facts.
+Aristotle's signature claims are that man is "naturally a political animal" and that the city is "a natural production" — it grows out of the household and the village as their completion, and is prior to the individual in the order of explanation because only within it can a human being achieve the good life. The city is not a mere convention or contract but the natural fulfillment of human sociality. Book I also analyzes the household, exchange, and the natural acquisition of **property** as prior, natural facts.
 
 This naturalism is what later natural-law and natural-order theorists draw on: institutions of social cooperation can be understood as arising from human nature rather than from sovereign command — though Aristotle himself reaches a *statist* conclusion (the polis as the highest community), not the anti-statist one his method is later turned toward.
 

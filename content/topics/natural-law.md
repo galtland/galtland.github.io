@@ -3,13 +3,13 @@ title: "Natural Law"
 volatility: cold
 category: topic
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-08-07
 verified: 2026-07-15
 tags: [natural-law, natural-rights, natural-order, classical-canon, self-ownership, aristotle, cicero, aquinas, grotius, locke, spooner, rothbard]
 aliases: [natural law, natural rights, natural law tradition, natural law canon]
 confidence: medium
 short: "The wiki's natural-law hub: reason-knowable justice above positive law, traced from Aristotle and Cicero through Aquinas, Grotius, and Locke to Spooner and Rothbard's rights-based libertarianism."
-summary: "Topic map of this wiki's natural-law canon: the tradition holding that justice is objective and knowable by reason, standing above the positive law of any state. It traces the lineage from Aristotle's natural justice and Cicero's 'true law is right reason in agreement with nature,' through Aquinas's Treatise on Law, the secularizing turn in Grotius and Pufendorf, Locke's pre-political rights of life, liberty, and property, Spooner's turning of natural law against legislation itself, and into Rothbard's reconstruction of libertarian ethics on self-ownership and nonaggression. Natural law is the deep root of the wiki's natural-rights branch — the moral foundation Rothbard reactivates and that Mises's consequentialism deliberately declines — and it connects to the School of Salamanca, where natural-rights theory and proto-Austrian economics first met."
+summary: "Topic map of this wiki's natural-law canon: the tradition holding that justice is objective and knowable by reason, standing above the positive law of any state. It traces the lineage from Aristotle's natural justice and Cicero's law of right reason in accordance with nature, through Aquinas's Treatise on Law, the secularizing turn in Grotius and Pufendorf, Locke's pre-political rights of life, liberty, and property, Spooner's turning of natural law against legislation itself, and into Rothbard's reconstruction of libertarian ethics on self-ownership and nonaggression. Natural law is the deep root of the wiki's natural-rights branch — the moral foundation Rothbard reactivates and that Mises's consequentialism deliberately declines — and it connects to the School of Salamanca, where natural-rights theory and proto-Austrian economics first met."
 ---
 
 # Natural Law

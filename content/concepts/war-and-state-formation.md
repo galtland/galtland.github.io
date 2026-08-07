@@ -3,7 +3,7 @@ title: "War and State Formation"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-08-06
+updated: 2026-08-07
 verified: 2026-07-23
 tags: [war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, organized-crime, evolution-of-the-state, political-means, historical-sociology, totalitarianism, non-libertarian]
 aliases: [war made the state and the state made war, states as protection rackets, Tilly state formation, capital coercion typology]
@@ -18,7 +18,7 @@ short: "Tilly's thesis that European war-making, extraction, and interstate comp
 
 ## The Core Thesis
 
-In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], Tilly's central claim is usually condensed as "war made the state, and the state made war." Chapter 3's title gives the compact version: "How War Made States, and Vice Versa".
+In [[coercion-capital-and-european-states|Coercion, Capital, and European States]], Tilly's central claim is usually condensed into the formula war made the state, and the state made war — a phrasing that does not appear in this book, and is not quoted here as its words. Chapter 3's title gives the compact version: "How War Made States, and Vice Versa".
 
 The mechanism is not mystical. Rulers who fought wars needed armies, navies, supplies, fortifications, credit, taxes, and compliant populations. To obtain those resources, they created or enlarged treasuries, tax offices, debt instruments, supply services, courts, police, conscription systems, and bargaining institutions. Those organizations then persisted beyond the immediate war and became part of the state apparatus.
 
