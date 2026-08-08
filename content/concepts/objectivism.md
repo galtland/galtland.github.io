@@ -3,7 +3,7 @@ title: "Objectivism"
 volatility: cold
 category: concept
 created: 2026-05-31
-updated: 2026-06-09
+updated: 2026-08-07
 verified: 2026-06-09
 tags: [objectivism, ayn-rand, ethics, rational-self-interest, capitalism, individual-rights, epistemology, reason]
 aliases: [Objectivist philosophy, Rand's philosophy, Objectivist ethics]
@@ -20,7 +20,7 @@ short: "Rand's system — objective reality, reason, rational self-interest, and
 
 Rand presented Objectivism as an integrated hierarchy from metaphysics up to politics and aesthetics.
 
-**Metaphysics: objective reality.** Facts are what they are independent of anyone's wishes, feelings, or decrees — the axiom Rand compresses as "A is A," the title of Part Three of [[atlas-shrugged|Atlas Shrugged]]. Reality is not malleable to consciousness; wishing does not alter the facts an actor must deal with.
+**Metaphysics: objective reality.** Facts are what they are independent of anyone's wishes, feelings, or decrees — the axiom Rand compresses as "A is A", the title of Part Three of [[atlas-shrugged|Atlas Shrugged]]. Reality is not malleable to consciousness; wishing does not alter the facts an actor must deal with.
 
 **Epistemology: reason.** Knowledge is gained by reason applied to the evidence of the senses, organized into concepts. Rand rejects faith, instinct, and revelation as means of knowledge. Objectivism is militantly pro-reason and treats the abdication of reason as the root of both personal and political failure.
 

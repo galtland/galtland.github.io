@@ -3,7 +3,7 @@ title: "Money, Sound and Unsound"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-08-04
+updated: 2026-08-07
 verified: 2026-06-18
 tags: [salerno, sound-money, austrian-economics, monetary-theory, gold-standard, tms, inflation, deflation, business-cycle]
 aliases: [Money Sound and Unsound, MSU, Salerno collected essays]
@@ -24,7 +24,7 @@ The book is therefore not a single treatise, but it works as a single-volume map
 
 ## Four Core Parts Plus Commentary
 
-Part One, "Foundations of Monetary Theory," contains six chapters: John Law and Turgot as two traditions in monetary theory, Mises's monetary theory, [[the-true-money-supply-salerno-1987|The 'True' Money Supply]], a theory of money prices, international monetary theory, and a comment on Yeager.
+Part One, "Foundations of Monetary Theory", contains six chapters: John Law and Turgot as two traditions in monetary theory, Mises's monetary theory, [[the-true-money-supply-salerno-1987|The 'True' Money Supply]], a theory of money prices, international monetary theory, and a comment on Yeager.
 
 Part Two, "Inflation, Deflation and Depression," covers Austrian macroeconomic coordination, Mises on inflation and expectations, war finance, an Austrian taxonomy of deflation, and a response to Gordon Tullock's critique of Austrian depression theory. Part Three treats the gold standard, including the 100 percent gold proposal, true versus false gold standards, recent gold-standard proposals, and the international gold standard.
 

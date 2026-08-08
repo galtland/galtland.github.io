@@ -3,7 +3,7 @@ title: "The Virtue of Selfishness"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-08-06
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [ayn-rand, the-virtue-of-selfishness, objectivism, ethics, rational-self-interest, altruism, individual-rights, nathaniel-branden]
 aliases: [The Virtue of Selfishness, Objectivist ethics, rational selfishness]
@@ -32,7 +32,7 @@ Because "reason is man's basic means of survival," the good is "that which is pr
 
 ## The Critique of Altruism and Self-Sacrifice
 
-Rand treats altruism — the doctrine that "service to others is the only justification" of a man's existence — as the root error she is attacking. Under it, morality becomes a man's enemy: he can only lose, trapped between "cynicism, because they neither practice nor accept the altruist morality — guilt, because they dare not reject it." She argues that altruism reduces men to "sacrificial animals and profiteers-on-sacrifice, victims and parasites," and so makes a "benevolent co-existence among men" impossible.
+Rand treats altruism — the doctrine that "service to others is the only justification" of a man's existence — as the root error she is attacking. Under it, morality becomes a man's enemy: he can only lose, trapped between "cynicism, because they neither practice nor accept the altruist morality — guilt, because they dare not reject it." She argues that altruism reduces men to "sacrificial animals and profiteers-on-sacrifice, as victims and parasites", and so makes a "benevolent co-existence among men" impossible.
 
 The shorter essays press this on specific fronts. "The Ethics of Emergencies" argues that altruism corrupts ethics by treating life as a perpetual emergency of drowning men and burning buildings, when normal life is the proper context of morality. "The 'Conflicts' of Men's Interests" denies that the rational interests of producers genuinely clash. "Doesn't Life Require Compromise?" rejects the trading away of principle. "The Monument Builders" and "Collectivized Ethics" turn the critique on collectivism, arguing that statism is altruism enforced — society placed "above the moral law" as a "sovereign whim worshiper."
 
@@ -42,7 +42,7 @@ The book's basic political principle follows directly from the ethics: "no man m
 
 "The Nature of Government" argues that because the retaliatory use of force cannot be safely "left at the discretion of individual citizens" (which would degenerate into gang rule and private vendettas), men need a government to place force "under objective control". Government is therefore defined by its **monopoly on the legal use of physical force**, which is exactly why it must be "rigidly defined, delimited and circumscribed". Its only proper purpose is to protect rights — narrowly, the police, the armed forces, and the law courts.
 
-This is **minarchism**, and it should not be confused with [[market-anarchism-and-private-law|anarcho-capitalism]]: Rand insists a single, constitutionally limited government is necessary and rejects competing private defense agencies. "Government Financing in a Free Society" completes the picture by arguing that since taxation is itself an initiation of force, a fully free society's government would be financed *voluntarily* — for instance, by a fee to make contracts legally enforceable, or a government lottery — though she treats the specific method as premature until government is first reduced to its proper functions. The closing essay, "Racism," condemns racism as "the lowest, most crudely primitive form of collectivism."
+This is **minarchism**, and it should not be confused with [[market-anarchism-and-private-law|anarcho-capitalism]]: Rand insists a single, constitutionally limited government is necessary and rejects competing private defense agencies. "Government Financing in a Free Society" completes the picture by arguing that since taxation is itself an initiation of force, a fully free society's government would be financed *voluntarily* — for instance, by a fee to make contracts legally enforceable, or a government lottery — though she treats the specific method as premature until government is first reduced to its proper functions. The closing essay, "Racism", condemns racism as "the lowest, most crudely primitive form of collectivism."
 
 ## Relation to *Atlas Shrugged*
 

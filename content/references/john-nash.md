@@ -3,7 +3,7 @@ title: "John Nash"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-08-05
+updated: 2026-08-07
 verified: 2026-06-14
 tags: [john-nash, ideal-money, monetary-theory, inflation, sound-money, game-theory, non-libertarian]
 aliases: [John Nash, John F. Nash, John F. Nash Jr., John Nash Jr.]
@@ -18,7 +18,7 @@ short: "Mathematician and Nobel laureate whose Ideal Money lectures converge, fr
 
 ## Biographical Frame
 
-John Forbes Nash Jr. (1928-2015) was an American mathematician best known for his foundational work in game theory — the Nash equilibrium — for which he shared the 1994 Nobel Memorial Prize in Economic Sciences. Later in life he developed and lectured on a monetary proposal he called "ideal money."
+John Forbes Nash Jr. (1928-2015) was an American mathematician best known for his foundational work in game theory — the Nash equilibrium — for which he shared the 1994 Nobel Memorial Prize in Economic Sciences. Later in life he developed and lectured on a monetary proposal he called "ideal money".
 
 He is not a libertarian or Austrian theorist; the relevance here is purely the monetary argument, which lands near the wiki's sound-money position while resting on different premises.
 

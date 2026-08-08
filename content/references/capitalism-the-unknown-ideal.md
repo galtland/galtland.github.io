@@ -3,7 +3,7 @@ title: "Capitalism: The Unknown Ideal"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-08-06
+updated: 2026-08-07
 verified: 2026-06-26
 tags: [ayn-rand, capitalism-the-unknown-ideal, objectivism, capitalism, laissez-faire, political-economy, alan-greenspan, nathaniel-branden]
 aliases: [Capitalism The Unknown Ideal, What Is Capitalism]
@@ -18,7 +18,7 @@ short: "Rand's 1966 collection defending laissez-faire capitalism as the only mo
 
 ## The central thesis: capitalism as the unknown ideal
 
-Rand's framing argument is that capitalism was defeated intellectually before it was ever properly understood. In her account, political economy "came into prominence in the nineteenth century, in the era of philosophy's post-Kantian disintegration," and "implicitly, uncritically, and by default... accepted as its axioms the fundamental tenets of collectivism" — treating a "community's" or "nation's" resources as the given and man as merely "one of the factors of production." The defenders of capitalism, she contends, made the same error: they "regarded it as compatible with government controls... ignoring the meaning and implications of the concept of laissez-faire," so what actually existed in the nineteenth century "was not pure capitalism, but variously mixed economies." Because "controls necessitate and breed further controls," she argues it was "the statist element of the mixtures that wrecked them" while "the free, capitalist element... took the blame." The title's "unknown" points at this: capitalism has never been given a moral defense, only a practical one, and so was "damned from the start" under the prevailing morality of altruism.
+Rand's framing argument is that capitalism was defeated intellectually before it was ever properly understood. In her account, political economy "came into prominence in the nineteenth century, in the era of philosophy's post-Kantian disintegration," and "implicitly, uncritically, and by default... accepted as its axioms the fundamental tenets of collectivism" — treating a "community's" or "nation's" resources as the given and man as merely "one of the factors of production". The defenders of capitalism, she contends, made the same error: they "regarded it as compatible with government controls... ignoring the meaning and implications of the concept of laissez-faire," so what actually existed in the nineteenth century "was not pure capitalism, but variously mixed economies." Because "controls necessitate and breed further controls," she argues it was "the statist element of the mixtures that wrecked them" while "the free, capitalist element... took the blame." The title's "unknown" points at this: capitalism has never been given a moral defense, only a practical one, and so was "damned from the start" under the prevailing morality of altruism.
 
 ## "What Is Capitalism?" and the moral case from rights
 

@@ -3,7 +3,7 @@ title: "The Cybereconomy"
 volatility: warm
 category: concept
 created: 2026-06-09
-updated: 2026-08-06
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [cybereconomy, cybercash, cybermoney, digital-money, james-dale-davidson, william-rees-mogg, sovereign-individual, information-age, denationalized-money, cypherpunk]
 aliases: [cybereconomy, cybercash, cybermoney, the cybereconomy, digital cash]
@@ -24,10 +24,10 @@ The cybereconomy is the economic half of the book's [[megapolitics|megapolitical
 
 The book's most concrete and most prescient forecast concerns money. Davidson and Rees-Mogg predicted that cybercommerce would "lead inevitably to cybermoney", a "new digital form of money" with a specific set of properties:
 
-- It would "consist of encrypted sequences of multihundred-digit prime numbers" — "unique, anonymous, and verifiable."
+- It would "consist of encrypted sequences of multihundred-digit prime numbers" — "unique, anonymous, and verifiable".
 - It would be "all but impossible to counterfeit" for "the fundamental mathematical reason that it is all but impossible to unravel the product of multihundred-digit prime numbers."
 - It would be **denationalized** — issued and validated by private markets rather than states, so that holders "will no longer need to tolerate" inflation, since they could "easily shift out of any currency that appears in danger of depreciation."
-- It would likely be "defined in terms of grams or ounces of gold," a digital gold standard the authors expected to return control of money "to the owners of wealth ... rather than to nation-states."
+- It would likely be "defined in terms of grams or ounces of gold," a digital gold standard the authors expected to return control of money "to the owners of wealth ... rather than to nation-states".
 
 Writing in 1997, the authors explicitly framed this as the fulfillment of [[friedrich-a-hayek|Hayek]]'s case for competing currencies in [[denationalisation-of-money|Denationalisation of Money]]: "encrypted cybercash will bring Hayek's logic vividly to life." The description anticipates, more than a decade early, much of the design space later occupied by Bitcoin and the broader debate over [[hard-money|hard money]] — though, importantly, the authors imagined a gold-denominated digital money rather than the algorithmically-scarce, gold-free design Satoshi actually shipped.
 

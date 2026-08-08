@@ -6604,7 +6604,7 @@ Category: concept
 
 Rand presented Objectivism as an integrated hierarchy from metaphysics up to politics and aesthetics.
 
-**Metaphysics: objective reality.** Facts are what they are independent of anyone's wishes, feelings, or decrees — the axiom Rand compresses as "A is A," the title of Part Three of [[atlas-shrugged|Atlas Shrugged]]. Reality is not malleable to consciousness; wishing does not alter the facts an actor must deal with.
+**Metaphysics: objective reality.** Facts are what they are independent of anyone's wishes, feelings, or decrees — the axiom Rand compresses as "A is A", the title of Part Three of [[atlas-shrugged|Atlas Shrugged]]. Reality is not malleable to consciousness; wishing does not alter the facts an actor must deal with.
 
 **Epistemology: reason.** Knowledge is gained by reason applied to the evidence of the senses, organized into concepts. Rand rejects faith, instinct, and revelation as means of knowledge. Objectivism is militantly pro-reason and treats the abdication of reason as the root of both personal and political failure.
 
@@ -8272,7 +8272,7 @@ What most distinguishes the theory from ordinary criminal law is its priority on
 
 ## What it rejects
 
-The theory sets itself against the two rationales that dominate modern penology. **Deterrence** punishes an offender not for what he did but to influence *others*, treating him as a means to a social end — which, on a rights view, uses one man's suffering for the benefit of the public and can license punishing the innocent if it "works." **Rehabilitation** treats the criminal as a patient to be reformed by authorities for his own or society's good, dissolving the fixed link between the crime and its penalty. Both, in Rothbard's account, are incompatible with treating persons as self-owning ends. The theory also has no room for **victimless crime**: where there is no invaded victim, there is no crime to prosecute, which removes drug prohibition, sumptuary law, and the policing of consensual conduct from the domain of justice entirely.
+The theory sets itself against the two rationales that dominate modern penology. **Deterrence** punishes an offender not for what he did but to influence *others*, treating him as a means to a social end — which, on a rights view, uses one man's suffering for the benefit of the public and can license punishing the innocent if it "works". **Rehabilitation** treats the criminal as a patient to be reformed by authorities for his own or society's good, dissolving the fixed link between the crime and its penalty. Both, in Rothbard's account, are incompatible with treating persons as self-owning ends. The theory also has no room for **victimless crime**: where there is no invaded victim, there is no crime to prosecute, which removes drug prohibition, sumptuary law, and the policing of consensual conduct from the domain of justice entirely.
 
 ## Where it fits
 
@@ -9416,7 +9416,7 @@ Category: concept
 
 ## "The result of human action but not the result of human design"
 
-The phrase [[friedrich-a-hayek|Hayek]] borrows, in [[individualism-and-economic-order|Individualism and Economic Order]], comes from the Scottish Enlightenment. Adam Ferguson observed that institutions arise without a directing mind — that nations "stumble upon establishments, which are indeed the result of human action but not the result of human design." This is the seed of the whole tradition: between the things that are natural (independent of human action) and the things that are *designed* (the product of a planning mind) lies a vast third category — the things that are made by human action but by no one's intention. Hayek's claim is that "the spontaneous collaboration of free men often creates things which are greater than their individual minds can ever fully comprehend."
+The phrase [[friedrich-a-hayek|Hayek]] borrows, in [[individualism-and-economic-order|Individualism and Economic Order]], comes from the Scottish Enlightenment. Adam Ferguson observed that institutions arise without a directing mind — that nations "stumble upon establishments, which are indeed the result of human action but not the result of human design". This is the seed of the whole tradition: between the things that are natural (independent of human action) and the things that are *designed* (the product of a planning mind) lies a vast third category — the things that are made by human action but by no one's intention. Hayek's claim is that "the spontaneous collaboration of free men often creates things which are greater than their individual minds can ever fully comprehend."
 
 ## Dispersed knowledge and the price system
 
@@ -10006,10 +10006,10 @@ The cybereconomy is the economic half of the book's [[megapolitics|megapolitical
 
 The book's most concrete and most prescient forecast concerns money. Davidson and Rees-Mogg predicted that cybercommerce would "lead inevitably to cybermoney", a "new digital form of money" with a specific set of properties:
 
-- It would "consist of encrypted sequences of multihundred-digit prime numbers" — "unique, anonymous, and verifiable."
+- It would "consist of encrypted sequences of multihundred-digit prime numbers" — "unique, anonymous, and verifiable".
 - It would be "all but impossible to counterfeit" for "the fundamental mathematical reason that it is all but impossible to unravel the product of multihundred-digit prime numbers."
 - It would be **denationalized** — issued and validated by private markets rather than states, so that holders "will no longer need to tolerate" inflation, since they could "easily shift out of any currency that appears in danger of depreciation."
-- It would likely be "defined in terms of grams or ounces of gold," a digital gold standard the authors expected to return control of money "to the owners of wealth ... rather than to nation-states."
+- It would likely be "defined in terms of grams or ounces of gold," a digital gold standard the authors expected to return control of money "to the owners of wealth ... rather than to nation-states".
 
 Writing in 1997, the authors explicitly framed this as the fulfillment of [[friedrich-a-hayek|Hayek]]'s case for competing currencies in [[denationalisation-of-money|Denationalisation of Money]]: "encrypted cybercash will bring Hayek's logic vividly to life." The description anticipates, more than a decade early, much of the design space later occupied by Bitcoin and the broader debate over [[hard-money|hard money]] — though, importantly, the authors imagined a gold-denominated digital money rather than the algorithmically-scarce, gold-free design Satoshi actually shipped.
 
@@ -10545,7 +10545,7 @@ Category: concept
 
 Szabo's 2001 essay begins from commercial security: privacy, integrity, protection of property, and detection of breach. A security hole is any weakness that raises the risk of violating those goals. On that definition, a protocol that relies on a trusted third party has introduced a vulnerability into the design. The designer may still decide that the vulnerability is acceptable, but it must be named, costed, and minimized.
 
-This reframes "trust" as an engineering claim. In ordinary speech trust can mean well-informed reliance. In protocol design, Szabo argues that it often means "is vulnerable to." That substitution strips away the comfort word. A party who can certify, censor, reverse, disclose, freeze, reorder, or fail is not merely helping the protocol. It is also a target, bottleneck, and possible point of coercion.
+This reframes "trust" as an engineering claim. In ordinary speech trust can mean well-informed reliance. In protocol design, Szabo argues that it often means "is vulnerable to". That substitution strips away the comfort word. A party who can certify, censor, reverse, disclose, freeze, reorder, or fail is not merely helping the protocol. It is also a target, bottleneck, and possible point of coercion.
 
 ## Certificate Authorities and DNS
 
@@ -11543,7 +11543,7 @@ The narrator is born "with a curse" — a restless intelligence and a body talle
 
 ## The rediscovery of the ego as the novella's climax
 
-In the forest the couple finds a house surviving from the Unmentionable Times, full of books. Reading them, the narrator finally encounters and grasps the meaning of the word "I" — the moment Rand stages as the novella's emotional and philosophical climax: "And when I understood this word, the book fell from my hands, and I wept... I wept in deliverance and in pity for all mankind." Repudiating "the monster of 'We,' the word of serfdom," he declares the singular self a kind of god. He chooses a new name for himself — Prometheus, the bearer of light who was punished for bringing it to men — and names the Golden One Gaea. He resolves to build a new home where "each man will be free to exist for his own sake," and over its portal to carve the sacred word that ends the book: EGO.
+In the forest the couple finds a house surviving from the Unmentionable Times, full of books. Reading them, the narrator finally encounters and grasps the meaning of the word "I" — the moment Rand stages as the novella's emotional and philosophical climax: "And when I understood this word, the book fell from my hands, and I wept... I wept in deliverance and in pity for all mankind." Repudiating "the monster of 'We,' the word of serfdom," he declares the singular self a kind of god. He chooses a new name for himself — Prometheus, the bearer of light who was punished for bringing it to men — and names the Golden One Gaea. He resolves to build a new home where "each man will be free to exist for his own sake", and over its portal to carve the sacred word that ends the book: EGO.
 
 ## How it prefigures Rand's individualism
 
@@ -12396,7 +12396,7 @@ Category: reference
 
 ## The central thesis: capitalism as the unknown ideal
 
-Rand's framing argument is that capitalism was defeated intellectually before it was ever properly understood. In her account, political economy "came into prominence in the nineteenth century, in the era of philosophy's post-Kantian disintegration," and "implicitly, uncritically, and by default... accepted as its axioms the fundamental tenets of collectivism" — treating a "community's" or "nation's" resources as the given and man as merely "one of the factors of production." The defenders of capitalism, she contends, made the same error: they "regarded it as compatible with government controls... ignoring the meaning and implications of the concept of laissez-faire," so what actually existed in the nineteenth century "was not pure capitalism, but variously mixed economies." Because "controls necessitate and breed further controls," she argues it was "the statist element of the mixtures that wrecked them" while "the free, capitalist element... took the blame." The title's "unknown" points at this: capitalism has never been given a moral defense, only a practical one, and so was "damned from the start" under the prevailing morality of altruism.
+Rand's framing argument is that capitalism was defeated intellectually before it was ever properly understood. In her account, political economy "came into prominence in the nineteenth century, in the era of philosophy's post-Kantian disintegration," and "implicitly, uncritically, and by default... accepted as its axioms the fundamental tenets of collectivism" — treating a "community's" or "nation's" resources as the given and man as merely "one of the factors of production". The defenders of capitalism, she contends, made the same error: they "regarded it as compatible with government controls... ignoring the meaning and implications of the concept of laissez-faire," so what actually existed in the nineteenth century "was not pure capitalism, but variously mixed economies." Because "controls necessitate and breed further controls," she argues it was "the statist element of the mixtures that wrecked them" while "the free, capitalist element... took the blame." The title's "unknown" points at this: capitalism has never been given a moral defense, only a practical one, and so was "damned from the start" under the prevailing morality of altruism.
 
 ## "What Is Capitalism?" and the moral case from rights
 
@@ -14924,7 +14924,7 @@ Category: reference
 
 ## Biographical Frame
 
-John Forbes Nash Jr. (1928-2015) was an American mathematician best known for his foundational work in game theory — the Nash equilibrium — for which he shared the 1994 Nobel Memorial Prize in Economic Sciences. Later in life he developed and lectured on a monetary proposal he called "ideal money."
+John Forbes Nash Jr. (1928-2015) was an American mathematician best known for his foundational work in game theory — the Nash equilibrium — for which he shared the 1994 Nobel Memorial Prize in Economic Sciences. Later in life he developed and lectured on a monetary proposal he called "ideal money".
 
 He is not a libertarian or Austrian theorist; the relevance here is purely the monetary argument, which lands near the wiki's sound-money position while resting on different premises.
 
@@ -15855,7 +15855,7 @@ The book is therefore not a single treatise, but it works as a single-volume map
 
 ## Four Core Parts Plus Commentary
 
-Part One, "Foundations of Monetary Theory," contains six chapters: John Law and Turgot as two traditions in monetary theory, Mises's monetary theory, [[the-true-money-supply-salerno-1987|The 'True' Money Supply]], a theory of money prices, international monetary theory, and a comment on Yeager.
+Part One, "Foundations of Monetary Theory", contains six chapters: John Law and Turgot as two traditions in monetary theory, Mises's monetary theory, [[the-true-money-supply-salerno-1987|The 'True' Money Supply]], a theory of money prices, international monetary theory, and a comment on Yeager.
 
 Part Two, "Inflation, Deflation and Depression," covers Austrian macroeconomic coordination, Mises on inflation and expectations, war finance, an Austrian taxonomy of deflation, and a response to Gordon Tullock's critique of Austrian depression theory. Part Three treats the gold standard, including the 100 percent gold proposal, true versus false gold standards, recent gold-standard proposals, and the international gold standard.
 
@@ -18131,7 +18131,7 @@ Confidence is medium. The raw text supports the book's existence, table of conte
 
 The book is divided into three parts and eighteen chapters.
 
-Part I, "Fiat Money," covers the introduction, the never-ending bank holiday, fiat technology, fiat mining, fiat balances, and what fiat is good for. These chapters introduce the engineering frame, debt-as-money, central banks and licensed banks as network nodes, and salability across space.
+Part I, "Fiat Money", covers the introduction, the never-ending bank holiday, fiat technology, fiat mining, fiat balances, and what fiat is good for. These chapters introduce the engineering frame, debt-as-money, central banks and licensed banks as network nodes, and salability across space.
 
 Part II, "Fiat Life," applies the mechanism to everyday and institutional domains: fiat life, fiat food, fiat science, fiat fuels, fiat states, and fiat cost-benefit analysis. This is the book's most controversial section because it reads food, fuel, family, education, science, and development policy through monetary incentives.
 
@@ -18188,7 +18188,7 @@ Category: reference
 
 ## Howard Roark and the premise of independent creation
 
-The novel opens with Roark expelled from architecture school for refusing to design in the inherited classical styles his instructors demand. He goes on to take work, lose it, and turn down lucrative commissions rather than let clients or partners modify his buildings. In her introduction, Rand states that her purpose was "the projection of an ideal man... as an end in himself," and that "my purpose, first cause and prime mover is the portrayal of Howard Roark." Roark is built to embody a single premise Rand argues for throughout: that the act of creation is performed by an individual mind alone, that "no man can use his brain to think for another," and that what such a mind produces is therefore the creator's own. Roark's stubbornness is meant to read not as ego in the ordinary sense but as fidelity to his own standard of the work.
+The novel opens with Roark expelled from architecture school for refusing to design in the inherited classical styles his instructors demand. He goes on to take work, lose it, and turn down lucrative commissions rather than let clients or partners modify his buildings. In her introduction, Rand states that her purpose was "the projection of an ideal man... as an end in himself", and that "my purpose, first cause and prime mover is the portrayal of Howard Roark." Roark is built to embody a single premise Rand argues for throughout: that the act of creation is performed by an individual mind alone, that "no man can use his brain to think for another," and that what such a mind produces is therefore the creator's own. Roark's stubbornness is meant to read not as ego in the ordinary sense but as fidelity to his own standard of the work.
 
 ## The four-part structure named for its foils
 
@@ -18207,7 +18207,7 @@ Rand's organizing antithesis is between the creator and what she calls the secon
 
 ## Integrity and egoism as Rand frames them
 
-The novel argues for egoism as a moral ideal, not merely a description of behavior. In Roark's account the genuine egoist "is not the man who sacrifices others" but "the man who stands above the need of using others in any manner" — neither master nor servant. Rand ties personal worth directly to independence: "Independence is the only gauge of human virtue and value... There is no standard of personal dignity except independence." (In her later introduction she notes that the speech's word "egotist" should have read "egoist.") Proper dealings between people, on this view, are voluntary trades "by free, mutual consent to mutual advantage," and the only obligation one owes others is to leave them free — Roark reduces "the only statement of their proper relationship" to two words: "Hands off!" These are the ethical commitments Rand would later systematize under [[objectivism|Objectivism]] and state in non-fiction form.
+The novel argues for egoism as a moral ideal, not merely a description of behavior. In Roark's account the genuine egoist "is not the man who sacrifices others" but "the man who stands above the need of using others in any manner" — neither master nor servant. Rand ties personal worth directly to independence: "Independence is the only gauge of human virtue and value... There is no standard of personal dignity except independence." (In her later introduction she notes that the speech's word "egotist" should have read "egoist.") Proper dealings between people, on this view, are voluntary trades "by free, mutual consent to mutual advantage", and the only obligation one owes others is to leave them free — Roark reduces "the only statement of their proper relationship" to two words: "Hands off!" These are the ethical commitments Rand would later systematize under [[objectivism|Objectivism]] and state in non-fiction form.
 
 ## The Cortlandt trial and Roark's defense of the creator
 
@@ -18942,7 +18942,7 @@ Category: reference
 
 ## The Argument
 
-Locke begins not with the state but with the **state of nature**: a condition of "perfect freedom" and equality that is nonetheless not a state of license, because it "has a law of nature to govern it... and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions." Rights and obligations are thus prior to government, not created by it.
+Locke begins not with the state but with the **state of nature**: a condition of "perfect freedom" and equality that is nonetheless not a state of license, because it "has a law of nature to govern it... and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions". Rights and obligations are thus prior to government, not created by it.
 
 **Property** is the Treatise's most consequential move. Although the earth is given to mankind in common, "every man has a property in his own person: this no body has any right to but himself." By mixing the "labour of his body, and the work of his hands" with unowned nature, a person makes external things his own — property arises pre-politically and pre-consensually, subject to the early "Lockean provisos" (leave "enough, and as good" for others; do not let it spoil). This labour theory of acquisition is the direct ancestor of the libertarian homesteading principle.
 
@@ -18991,7 +18991,7 @@ Their central forecast is that the microprocessor inverts the trend of the indus
 ## What Follows From the Thesis
 
 - **The cybereconomy.** Davidson and Rees-Mogg predict that the highest-value commerce migrates into a borderless digital realm beyond the effective reach of territorial taxation. See [[the-cybereconomy|The Cybereconomy]].
-- **Denationalized digital money.** They forecast "cybercash" or "cybermoney": encrypted, anonymous, verifiable, all-but-uncounterfeitable money consisting of "encrypted sequences of multihundred-digit prime numbers," likely defined in grams of gold and outside state control. This is a striking anticipation, more than a decade early, of the design space later occupied by Bitcoin, and it explicitly invokes [[friedrich-a-hayek|Hayek]]'s case for currency competition (see [[denationalisation-of-money|Denationalisation of Money]]).
+- **Denationalized digital money.** They forecast "cybercash" or "cybermoney": encrypted, anonymous, verifiable, all-but-uncounterfeitable money consisting of "encrypted sequences of multihundred-digit prime numbers", likely defined in grams of gold and outside state control. This is a striking anticipation, more than a decade early, of the design space later occupied by Bitcoin, and it explicitly invokes [[friedrich-a-hayek|Hayek]]'s case for currency competition (see [[denationalisation-of-money|Denationalisation of Money]]).
 - **Jurisdictions as products.** With wealth mobile, governments "will ultimately have little choice but to treat populations in territories they serve more like customers, and less in the way that organized criminals treat the victims of a shakedown racket." See [[jurisdictional-competition|Jurisdictional Competition]].
 - **The Sovereign Individual.** The book's title names a predicted social type: a mobile, high-skill, denationalized person who achieves "financial escape velocity" from predatory taxation and enjoys a kind of "diplomatic immunity" from politics. The authors expect this liberation to be deeply unequal — a "cognitive elite" rises while the redistributive politics of the industrial mass society decays into what they call the twilight of democracy and a nationalist "new Luddite" reaction.
 
@@ -19122,7 +19122,7 @@ Category: reference
 
 # The 'True' Money Supply
 
-> [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] is [[joseph-t-salerno|Joseph T. Salerno]]'s 1987 paper "The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy." It turns [[murray-n-rothbard|Rothbard]]'s broad money-supply criterion into a concrete monetary aggregate for Austrian analysis.
+> [[the-true-money-supply-salerno-1987|The 'True' Money Supply]] is [[joseph-t-salerno|Joseph T. Salerno]]'s 1987 paper "The 'True' Money Supply: A Measure of the Supply of the Medium of Exchange in the U.S. Economy". It turns [[murray-n-rothbard|Rothbard]]'s broad money-supply criterion into a concrete monetary aggregate for Austrian analysis.
 
 ## Purpose
 
@@ -19191,7 +19191,7 @@ Because "reason is man's basic means of survival," the good is "that which is pr
 
 ## The Critique of Altruism and Self-Sacrifice
 
-Rand treats altruism — the doctrine that "service to others is the only justification" of a man's existence — as the root error she is attacking. Under it, morality becomes a man's enemy: he can only lose, trapped between "cynicism, because they neither practice nor accept the altruist morality — guilt, because they dare not reject it." She argues that altruism reduces men to "sacrificial animals and profiteers-on-sacrifice, victims and parasites," and so makes a "benevolent co-existence among men" impossible.
+Rand treats altruism — the doctrine that "service to others is the only justification" of a man's existence — as the root error she is attacking. Under it, morality becomes a man's enemy: he can only lose, trapped between "cynicism, because they neither practice nor accept the altruist morality — guilt, because they dare not reject it." She argues that altruism reduces men to "sacrificial animals and profiteers-on-sacrifice, as victims and parasites", and so makes a "benevolent co-existence among men" impossible.
 
 The shorter essays press this on specific fronts. "The Ethics of Emergencies" argues that altruism corrupts ethics by treating life as a perpetual emergency of drowning men and burning buildings, when normal life is the proper context of morality. "The 'Conflicts' of Men's Interests" denies that the rational interests of producers genuinely clash. "Doesn't Life Require Compromise?" rejects the trading away of principle. "The Monument Builders" and "Collectivized Ethics" turn the critique on collectivism, arguing that statism is altruism enforced — society placed "above the moral law" as a "sovereign whim worshiper."
 
@@ -19201,7 +19201,7 @@ The book's basic political principle follows directly from the ethics: "no man m
 
 "The Nature of Government" argues that because the retaliatory use of force cannot be safely "left at the discretion of individual citizens" (which would degenerate into gang rule and private vendettas), men need a government to place force "under objective control". Government is therefore defined by its **monopoly on the legal use of physical force**, which is exactly why it must be "rigidly defined, delimited and circumscribed". Its only proper purpose is to protect rights — narrowly, the police, the armed forces, and the law courts.
 
-This is **minarchism**, and it should not be confused with [[market-anarchism-and-private-law|anarcho-capitalism]]: Rand insists a single, constitutionally limited government is necessary and rejects competing private defense agencies. "Government Financing in a Free Society" completes the picture by arguing that since taxation is itself an initiation of force, a fully free society's government would be financed *voluntarily* — for instance, by a fee to make contracts legally enforceable, or a government lottery — though she treats the specific method as premature until government is first reduced to its proper functions. The closing essay, "Racism," condemns racism as "the lowest, most crudely primitive form of collectivism."
+This is **minarchism**, and it should not be confused with [[market-anarchism-and-private-law|anarcho-capitalism]]: Rand insists a single, constitutionally limited government is necessary and rejects competing private defense agencies. "Government Financing in a Free Society" completes the picture by arguing that since taxation is itself an initiation of force, a fully free society's government would be financed *voluntarily* — for instance, by a fee to make contracts legally enforceable, or a government lottery — though she treats the specific method as premature until government is first reduced to its proper functions. The closing essay, "Racism", condemns racism as "the lowest, most crudely primitive form of collectivism."
 
 ## Relation to *Atlas Shrugged*
 
@@ -20388,7 +20388,7 @@ CBS's "exchange of fire" phrasing describes reciprocity. Central Command's repor
 >
 > — [[charles-tilly|Charles Tilly]], [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]].
 
-The news does not require adjudicating every battlefield claim to make the mechanism visible. It reports U.S. strikes described as "self-defense" and an Iranian attack described by Iran as "retaliatory." The danger being moderated is therefore not presented as an external accident wholly outside state action. It is at least partly produced by the same interstate coercive sequence that then presents reduced violence as protection.
+The news does not require adjudicating every battlefield claim to make the mechanism visible. It reports U.S. strikes described as "self-defense" and an Iranian attack described by Iran as "retaliatory". The danger being moderated is therefore not presented as an external accident wholly outside state action. It is at least partly produced by the same interstate coercive sequence that then presents reduced violence as protection.
 
 That does not make Tilly a libertarian theorist. [[war-and-state-formation|War and State Formation]] treats his account as historical sociology, not as Rothbardian political theory. The qualification matters. Tilly's descriptive sequence still converges with the critique: war making requires extraction; extraction builds administrative and military capacity; protection claims bind clients to the coercive apparatus; and legitimacy distinguishes the state version from ordinary racketeering. A ceasefire label can lower the tempo inside that sequence. It does not end the sequence.
 

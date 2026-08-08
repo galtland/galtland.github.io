@@ -3,7 +3,7 @@ title: "The Fiat Standard"
 volatility: warm
 category: reference
 created: 2026-05-28
-updated: 2026-08-06
+updated: 2026-08-07
 verified: 2026-06-18
 tags: [saifedean-ammous, fiat-money, bitcoin, central-banking, debt, austrian-economics, capital-consumption, cypherpunk]
 aliases: [Fiat Standard, The Fiat Standard: The Debt Slavery Alternative to Human Civilization]
@@ -26,7 +26,7 @@ Confidence is medium. The raw text supports the book's existence, table of conte
 
 The book is divided into three parts and eighteen chapters.
 
-Part I, "Fiat Money," covers the introduction, the never-ending bank holiday, fiat technology, fiat mining, fiat balances, and what fiat is good for. These chapters introduce the engineering frame, debt-as-money, central banks and licensed banks as network nodes, and salability across space.
+Part I, "Fiat Money", covers the introduction, the never-ending bank holiday, fiat technology, fiat mining, fiat balances, and what fiat is good for. These chapters introduce the engineering frame, debt-as-money, central banks and licensed banks as network nodes, and salability across space.
 
 Part II, "Fiat Life," applies the mechanism to everyday and institutional domains: fiat life, fiat food, fiat science, fiat fuels, fiat states, and fiat cost-benefit analysis. This is the book's most controversial section because it reads food, fuel, family, education, science, and development policy through monetary incentives.
 

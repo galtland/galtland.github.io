@@ -3,7 +3,7 @@ title: "Second Treatise of Government"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-18
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [john-locke, natural-law, natural-rights, classical-canon, social-contract, property, state-of-nature, consent, right-of-revolution, classical-liberalism, second-treatise]
 aliases: [Second Treatise of Government, Second Treatise, Two Treatises of Government, An Essay Concerning the True Original Extent and End of Civil Government]
@@ -18,7 +18,7 @@ short: "Locke's 1689 founding text of natural-rights liberalism: law of nature, 
 
 ## The Argument
 
-Locke begins not with the state but with the **state of nature**: a condition of "perfect freedom" and equality that is nonetheless not a state of license, because it "has a law of nature to govern it... and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions." Rights and obligations are thus prior to government, not created by it.
+Locke begins not with the state but with the **state of nature**: a condition of "perfect freedom" and equality that is nonetheless not a state of license, because it "has a law of nature to govern it... and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions". Rights and obligations are thus prior to government, not created by it.
 
 **Property** is the Treatise's most consequential move. Although the earth is given to mankind in common, "every man has a property in his own person: this no body has any right to but himself." By mixing the "labour of his body, and the work of his hands" with unowned nature, a person makes external things his own — property arises pre-politically and pre-consensually, subject to the early "Lockean provisos" (leave "enough, and as good" for others; do not let it spoil). This labour theory of acquisition is the direct ancestor of the libertarian homesteading principle.
 

@@ -3,7 +3,7 @@ title: "The Fountainhead"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-26
+updated: 2026-08-08
 verified: 2026-06-26
 tags: [ayn-rand, the-fountainhead, objectivism, individualism, integrity, second-hander, novel, howard-roark]
 aliases: [The Fountainhead, Howard Roark, Roark's speech]
@@ -18,7 +18,7 @@ short: "Rand's 1943 individualist novel of the uncompromising architect Howard R
 
 ## Howard Roark and the premise of independent creation
 
-The novel opens with Roark expelled from architecture school for refusing to design in the inherited classical styles his instructors demand. He goes on to take work, lose it, and turn down lucrative commissions rather than let clients or partners modify his buildings. In her introduction, Rand states that her purpose was "the projection of an ideal man... as an end in himself," and that "my purpose, first cause and prime mover is the portrayal of Howard Roark." Roark is built to embody a single premise Rand argues for throughout: that the act of creation is performed by an individual mind alone, that "no man can use his brain to think for another," and that what such a mind produces is therefore the creator's own. Roark's stubbornness is meant to read not as ego in the ordinary sense but as fidelity to his own standard of the work.
+The novel opens with Roark expelled from architecture school for refusing to design in the inherited classical styles his instructors demand. He goes on to take work, lose it, and turn down lucrative commissions rather than let clients or partners modify his buildings. In her introduction, Rand states that her purpose was "the projection of an ideal man... as an end in himself", and that "my purpose, first cause and prime mover is the portrayal of Howard Roark." Roark is built to embody a single premise Rand argues for throughout: that the act of creation is performed by an individual mind alone, that "no man can use his brain to think for another," and that what such a mind produces is therefore the creator's own. Roark's stubbornness is meant to read not as ego in the ordinary sense but as fidelity to his own standard of the work.
 
 ## The four-part structure named for its foils
 
@@ -37,7 +37,7 @@ Rand's organizing antithesis is between the creator and what she calls the secon
 
 ## Integrity and egoism as Rand frames them
 
-The novel argues for egoism as a moral ideal, not merely a description of behavior. In Roark's account the genuine egoist "is not the man who sacrifices others" but "the man who stands above the need of using others in any manner" — neither master nor servant. Rand ties personal worth directly to independence: "Independence is the only gauge of human virtue and value... There is no standard of personal dignity except independence." (In her later introduction she notes that the speech's word "egotist" should have read "egoist.") Proper dealings between people, on this view, are voluntary trades "by free, mutual consent to mutual advantage," and the only obligation one owes others is to leave them free — Roark reduces "the only statement of their proper relationship" to two words: "Hands off!" These are the ethical commitments Rand would later systematize under [[objectivism|Objectivism]] and state in non-fiction form.
+The novel argues for egoism as a moral ideal, not merely a description of behavior. In Roark's account the genuine egoist "is not the man who sacrifices others" but "the man who stands above the need of using others in any manner" — neither master nor servant. Rand ties personal worth directly to independence: "Independence is the only gauge of human virtue and value... There is no standard of personal dignity except independence." (In her later introduction she notes that the speech's word "egotist" should have read "egoist.") Proper dealings between people, on this view, are voluntary trades "by free, mutual consent to mutual advantage", and the only obligation one owes others is to leave them free — Roark reduces "the only statement of their proper relationship" to two words: "Hands off!" These are the ethical commitments Rand would later systematize under [[objectivism|Objectivism]] and state in non-fiction form.
 
 ## The Cortlandt trial and Roark's defense of the creator
 

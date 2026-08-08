@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-06-28
-updated: 2026-06-28
+updated: 2026-08-07
 verified: 2026-06-28
 tags: [friedrich-hayek, spontaneous-order, catallaxy, knowledge-problem, emergence, adam-ferguson, scottish-enlightenment, dispersed-knowledge, price-system]
 aliases: [Spontaneous Order, spontaneous order, catallaxy, grown order, the results of human action but not of human design]
@@ -19,7 +19,7 @@ confidence: high
 
 ## "The result of human action but not the result of human design"
 
-The phrase [[friedrich-a-hayek|Hayek]] borrows, in [[individualism-and-economic-order|Individualism and Economic Order]], comes from the Scottish Enlightenment. Adam Ferguson observed that institutions arise without a directing mind — that nations "stumble upon establishments, which are indeed the result of human action but not the result of human design." This is the seed of the whole tradition: between the things that are natural (independent of human action) and the things that are *designed* (the product of a planning mind) lies a vast third category — the things that are made by human action but by no one's intention. Hayek's claim is that "the spontaneous collaboration of free men often creates things which are greater than their individual minds can ever fully comprehend."
+The phrase [[friedrich-a-hayek|Hayek]] borrows, in [[individualism-and-economic-order|Individualism and Economic Order]], comes from the Scottish Enlightenment. Adam Ferguson observed that institutions arise without a directing mind — that nations "stumble upon establishments, which are indeed the result of human action but not the result of human design". This is the seed of the whole tradition: between the things that are natural (independent of human action) and the things that are *designed* (the product of a planning mind) lies a vast third category — the things that are made by human action but by no one's intention. Hayek's claim is that "the spontaneous collaboration of free men often creates things which are greater than their individual minds can ever fully comprehend."
 
 ## Dispersed knowledge and the price system
 

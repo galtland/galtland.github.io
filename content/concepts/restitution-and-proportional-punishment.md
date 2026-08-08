@@ -4,7 +4,7 @@ volatility: cold
 category: concept
 type: concept
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-07
 verified: 2026-07-03
 tags: [restitution, punishment, proportionality, rothbard, ethics-of-liberty, lex-talionis, victims-rights, self-ownership, libertarian-law]
 aliases: [Restitution and Proportional Punishment, restitution, proportional punishment, lex talionis, let the punishment fit the crime, victims rights, two teeth for a tooth]
@@ -27,7 +27,7 @@ What most distinguishes the theory from ordinary criminal law is its priority on
 
 ## What it rejects
 
-The theory sets itself against the two rationales that dominate modern penology. **Deterrence** punishes an offender not for what he did but to influence *others*, treating him as a means to a social end — which, on a rights view, uses one man's suffering for the benefit of the public and can license punishing the innocent if it "works." **Rehabilitation** treats the criminal as a patient to be reformed by authorities for his own or society's good, dissolving the fixed link between the crime and its penalty. Both, in Rothbard's account, are incompatible with treating persons as self-owning ends. The theory also has no room for **victimless crime**: where there is no invaded victim, there is no crime to prosecute, which removes drug prohibition, sumptuary law, and the policing of consensual conduct from the domain of justice entirely.
+The theory sets itself against the two rationales that dominate modern penology. **Deterrence** punishes an offender not for what he did but to influence *others*, treating him as a means to a social end — which, on a rights view, uses one man's suffering for the benefit of the public and can license punishing the innocent if it "works". **Rehabilitation** treats the criminal as a patient to be reformed by authorities for his own or society's good, dissolving the fixed link between the crime and its penalty. Both, in Rothbard's account, are incompatible with treating persons as self-owning ends. The theory also has no room for **victimless crime**: where there is no invaded victim, there is no crime to prosecute, which removes drug prohibition, sumptuary law, and the policing of consensual conduct from the domain of justice entirely.
 
 ## Where it fits
 

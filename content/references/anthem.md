@@ -3,7 +3,7 @@ title: "Anthem"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-18
+updated: 2026-08-07
 verified: 2026-06-18
 tags: [ayn-rand, anthem, objectivism, individualism, collectivism, dystopia, novella, ego, public-domain]
 aliases: [Anthem, Equality 7-2521, the Unspeakable Word]
@@ -26,7 +26,7 @@ The narrator is born "with a curse" — a restless intelligence and a body talle
 
 ## The rediscovery of the ego as the novella's climax
 
-In the forest the couple finds a house surviving from the Unmentionable Times, full of books. Reading them, the narrator finally encounters and grasps the meaning of the word "I" — the moment Rand stages as the novella's emotional and philosophical climax: "And when I understood this word, the book fell from my hands, and I wept... I wept in deliverance and in pity for all mankind." Repudiating "the monster of 'We,' the word of serfdom," he declares the singular self a kind of god. He chooses a new name for himself — Prometheus, the bearer of light who was punished for bringing it to men — and names the Golden One Gaea. He resolves to build a new home where "each man will be free to exist for his own sake," and over its portal to carve the sacred word that ends the book: EGO.
+In the forest the couple finds a house surviving from the Unmentionable Times, full of books. Reading them, the narrator finally encounters and grasps the meaning of the word "I" — the moment Rand stages as the novella's emotional and philosophical climax: "And when I understood this word, the book fell from my hands, and I wept... I wept in deliverance and in pity for all mankind." Repudiating "the monster of 'We,' the word of serfdom," he declares the singular self a kind of god. He chooses a new name for himself — Prometheus, the bearer of light who was punished for bringing it to men — and names the Golden One Gaea. He resolves to build a new home where "each man will be free to exist for his own sake", and over its portal to carve the sacred word that ends the book: EGO.
 
 ## How it prefigures Rand's individualism
 

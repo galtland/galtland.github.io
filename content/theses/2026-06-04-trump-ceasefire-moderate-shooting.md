@@ -4,7 +4,7 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-06-04
-updated: 2026-08-06
+updated: 2026-08-07
 verified: 2026-06-09
 tags: [thesis, ceasefire, war-and-state, state-power, protection-racket, political-means, us-iran, kuwait, israel-lebanon, trump]
 aliases: [Trump ceasefire moderate shooting, June 2026 ceasefire remark, moderate shooting ceasefire]
@@ -47,7 +47,7 @@ CBS's "exchange of fire" phrasing describes reciprocity. Central Command's repor
 >
 > — [[charles-tilly|Charles Tilly]], [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]].
 
-The news does not require adjudicating every battlefield claim to make the mechanism visible. It reports U.S. strikes described as "self-defense" and an Iranian attack described by Iran as "retaliatory." The danger being moderated is therefore not presented as an external accident wholly outside state action. It is at least partly produced by the same interstate coercive sequence that then presents reduced violence as protection.
+The news does not require adjudicating every battlefield claim to make the mechanism visible. It reports U.S. strikes described as "self-defense" and an Iranian attack described by Iran as "retaliatory". The danger being moderated is therefore not presented as an external accident wholly outside state action. It is at least partly produced by the same interstate coercive sequence that then presents reduced violence as protection.
 
 That does not make Tilly a libertarian theorist. [[war-and-state-formation|War and State Formation]] treats his account as historical sociology, not as Rothbardian political theory. The qualification matters. Tilly's descriptive sequence still converges with the critique: war making requires extraction; extraction builds administrative and military capacity; protection claims bind clients to the coercive apparatus; and legitimacy distinguishes the state version from ordinary racketeering. A ceasefire label can lower the tempo inside that sequence. It does not end the sequence.
 

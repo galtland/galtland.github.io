@@ -3,7 +3,7 @@ title: "Trusted Third Parties as Security Holes"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-08-05
+updated: 2026-08-07
 verified: 2026-06-18
 tags: [cypherpunk, security, cryptography, trusted-third-parties, protocols, intermediaries]
 aliases: [Trusted Third Parties Are Security Holes, TTP security holes, TTP minimization]
@@ -20,7 +20,7 @@ short: "Szabo's thesis that trusted intermediaries are not neutral conveniences:
 
 Szabo's 2001 essay begins from commercial security: privacy, integrity, protection of property, and detection of breach. A security hole is any weakness that raises the risk of violating those goals. On that definition, a protocol that relies on a trusted third party has introduced a vulnerability into the design. The designer may still decide that the vulnerability is acceptable, but it must be named, costed, and minimized.
 
-This reframes "trust" as an engineering claim. In ordinary speech trust can mean well-informed reliance. In protocol design, Szabo argues that it often means "is vulnerable to." That substitution strips away the comfort word. A party who can certify, censor, reverse, disclose, freeze, reorder, or fail is not merely helping the protocol. It is also a target, bottleneck, and possible point of coercion.
+This reframes "trust" as an engineering claim. In ordinary speech trust can mean well-informed reliance. In protocol design, Szabo argues that it often means "is vulnerable to". That substitution strips away the comfort word. A party who can certify, censor, reverse, disclose, freeze, reorder, or fail is not merely helping the protocol. It is also a target, bottleneck, and possible point of coercion.
 
 ## Certificate Authorities and DNS
 
