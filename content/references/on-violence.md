@@ -3,7 +3,7 @@ title: "On Violence"
 volatility: warm
 category: reference
 created: 2026-05-12
-updated: 2026-05-30
+updated: 2026-08-08
 verified: 2026-05-30
 tags: [hannah-arendt, on-violence, violence, power, authority, force, political-philosophy, totalitarianism, commercially-published, non-libertarian]
 aliases: [Arendt On Violence, Power and Violence]
@@ -45,9 +45,6 @@ This should not be turned into libertarian doctrine. Arendt does not infer marke
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with this distinction
 - [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - reciprocal link.
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - OCR extraction from the Monoskop scan of *Crises of the Republic*

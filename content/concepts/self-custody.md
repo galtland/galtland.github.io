@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-08
 verified: 2026-07-03
 tags: [self-custody, private-keys, bitcoin, censorship-resistance, bearer-asset, custodial, not-your-keys, cypherpunk, hard-money]
 aliases: [Self-Custody, self custody, not your keys not your coins, private key custody, non-custodial, hold your own keys]
@@ -47,9 +47,6 @@ The custody gap is the strongest empirical point in the critique of crypto's pol
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 - [[financial-surveillance|Financial Surveillance]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - value moving "without going through a financial institution" — the removed intermediary that custody either keeps out or lets back in

@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-08
 verified: 2026-07-03
 tags: [seasteading, network-state, patri-friedman, balaji-srinivasan, jurisdictional-competition, exit, startup-societies, sovereign-individual, charter-cities, governance]
 aliases: [Seasteading, network state, network states, The Network State, startup societies, charter cities, exit over voice, Patri Friedman, Balaji Srinivasan]
@@ -55,9 +55,6 @@ In the texts themselves, both are put forward as programs to be built rather tha
 - [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
 - [[secession|Secession]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Davidson and Rees-Mogg on declining returns to violence, jurisdictional competition, the cybereconomy, and governments forced to treat populations "more like customers" than shakedown victims

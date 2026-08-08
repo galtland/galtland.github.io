@@ -3,7 +3,7 @@ title: "The Offense–Defense Balance of Technology"
 volatility: warm
 category: concept
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-08-08
 verified: 2026-06-27
 confidence: medium
 tags: [offense-defense, offense-defense-balance, returns-to-violence, megapolitics, the-sovereign-individual, softwar, jason-lowery, technology, state-formation, cryptography, proof-of-work, power-projection, cypherpunk, oppenheimer, tilly, predation, techno-determinism, libertarianism]
@@ -80,8 +80,6 @@ It should be held with appropriate hedging. The framework is a powerful *descrip
 - [[jurisdictional-competition|Jurisdictional Competition]] - the exit dynamic that a falling cost of defense and mobility unlocks
 - [[timothy-c-may|Timothy C. May]] - cypherpunk author of the crypto-as-defensive-weapon framing
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - megapolitics, the logic of violence, and the Information-Age diffusion thesis

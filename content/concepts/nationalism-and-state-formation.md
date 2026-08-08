@@ -3,7 +3,7 @@ title: "Nationalism and State Formation"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-05-31
+updated: 2026-08-08
 verified: 2026-05-31
 tags: [charles-tilly, nationalism, state-formation, citizenship, national-state, war-and-state-formation, non-libertarian]
 aliases: [nationalism and the state, national-state nationalism, minority nationalism]
@@ -37,11 +37,8 @@ This concept helps prevent a flattened state critique. Nationalism can legitimat
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - the we-group sentiment nationalism channels
 
-
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - expanded raw aggregate including nationalism material in Chapters 4 and 7

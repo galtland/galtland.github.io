@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (361 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (362 entries).
 
 ## #
 
@@ -77,6 +77,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[The Concept of the Political](/references/the-concept-of-the-political)** — Schmitt's work centered on the friend/enemy criterion and its critique of liberal depoliticization.
 - **[The Conscience of a Hacker](/references/conscience-of-a-hacker)** — Loyd Blankenship's 1986 Phrack manifesto — 'My crime is that of curiosity' — the founding statement of the hacker ethic that the cypherpunks inherited.
 - **[The Constitution of Liberty](/references/the-constitution-of-liberty)** — Hayek's 1960 statement of classical liberalism: liberty as the absence of arbitrary coercion, the case for freedom grounded in our ignorance, and the rule of law as its political form.
+- **[The Coordination Objection: A Reply to an Ex-Libertarian](/theses/2026-07-22-dpc-coordination-objection)** — An ex-libertarian's three objections answered at the level he holds them: two land on conceded ground, his remedy has the shape of the tradition's own unbuilt piece, and his 2026 optimizer turn reasserts a coercive-coordination role he also gave government in 2022, now against his own premise about power.
 - **[Council System](/concepts/council-system)** — Arendt's 'lost treasure': the directly participatory revolutionary council that recurs in every revolution and is crushed each time by parties and central administration.
 - **[Credit and Deferred Payment](/concepts/credit-and-deferred-payment)** — The Austrian definition of credit as exchanging a present good for a claim on a future good, from Mises's canonical statement through Rothbard's catallactic restatement.
 - **[Credit Expansion Dynamics](/concepts/credit-expansion-dynamics)** — Austrian credit-expansion mechanism: banks drop the loan rate, falsifying calculation and lengthening production until the boom ends — plus whether loan repayment nets expansion to zero.

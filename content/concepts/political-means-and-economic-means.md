@@ -3,7 +3,7 @@ title: "Political Means and Economic Means"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-08-05
+updated: 2026-08-08
 verified: 2026-07-23
 tags: [political-means, economic-means, state, exploitation, production, exchange, nonaggression, war-and-state-formation]
 aliases: [economic means, political means, Oppenheimer distinction, production versus predation]
@@ -68,7 +68,6 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis classifying a rent ceiling as use of the political means substituted for the economic means.
 
-
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] - Mises's *Liberalism* Part I §5 claim that antiliberal policy is a policy of capital consumption
 - [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its ultimate, leaving a permanent legacy of increased state burdens
@@ -77,9 +76,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Rosenberg's novel of producers building beyond the political means; the fiction counterpart to his *Production Versus Plunder*
 - [[paul-rosenberg|Paul Rosenberg]] - author whose production-versus-plunder reading of history applies the distinction
 
-
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
-
 
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 
@@ -111,9 +108,6 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - uses this distinction to answer the communist claim that private property requires the state
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - the axis the libertarian objection to left and right points toward instead
 - [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - the essay arguing the left-right axis misreports where the liberal tradition began
 ## Sources

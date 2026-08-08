@@ -3,7 +3,7 @@ title: "Public Choice and Rational Ignorance"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-06-12
+updated: 2026-08-08
 verified: 2026-06-12
 tags: [public-choice, james-buchanan, gordon-tullock, rational-ignorance, collective-action, special-interests, rent-seeking, government-failure, classical-liberalism]
 summary: "The public-choice diagnosis of why liberty is systematically under-supplied: rationally ignorant voters plus the logic of collective action (small concentrated interests out-organize the large diffuse public) make politics favor the few at the many's expense, regardless of who holds office."
@@ -54,7 +54,6 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[libertarianism|Libertarianism]] - the doctrine whose adoption problem this diagnoses
 - [[william-f-shughart-ii|William F. Shughart II]] - the author of the encyclopedia entry this concept draws its rational-ignorance and collective-action results from
 
-
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[jurisdictional-competition|Jurisdictional Competition]] - Lane's employee-controlled-government category matches the public-choice account of bureaucratic incentives
 
@@ -66,8 +65,6 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[iron-law-of-oligarchy|The Iron Law of Oligarchy]]
 - [[robert-michels|Robert Michels]]
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) - Shughart's entry on rational ignorance, the logic of collective action, and government failure

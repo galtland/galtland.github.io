@@ -3,7 +3,7 @@ title: "Robert Nozick"
 volatility: cold
 category: reference
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-08-08
 verified: 2026-06-29
 tags: [robert-nozick, minarchism, minimal-state, libertarianism, political-philosophy, entitlement-theory, distributive-justice, harvard, anarchy-state-and-utopia]
 aliases: [Robert Nozick, Nozick, Robert N. Nozick]
@@ -32,9 +32,6 @@ He occupies a precise position in the libertarian field. Against the individuali
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - **Anarchy, State, and Utopia (Full Text Aggregate)** - the basis for this profile (Basic Books, 1974; user-provided full text)

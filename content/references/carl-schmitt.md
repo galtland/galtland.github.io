@@ -3,7 +3,7 @@ title: "Carl Schmitt"
 volatility: warm
 category: reference
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-08
 verified: 2026-05-30
 tags: [carl-schmitt, sovereignty, state-of-exception, friend-enemy-distinction, political-theology, decisionism, non-libertarian]
 aliases: [Schmitt, Carl Schmitt political theory]
@@ -40,8 +40,6 @@ Schmitt is not a libertarian and should not be normalized as one. His critique o
 - [[michel-foucault|Michel Foucault]] - another non-libertarian power critic added with this batch
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with exception language
 
-
-- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]] - newsroom thesis backlink
 ## Sources
 
 - [Political Theology](https://platypus1917.org/wp-content/uploads/Political-Theology_-Four-Chapte-Carl-Schmitt.pdf) - Schwab translation, University of Chicago Press edition extraction

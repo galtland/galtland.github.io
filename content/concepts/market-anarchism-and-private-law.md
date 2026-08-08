@@ -3,7 +3,7 @@ title: "Market Anarchism and Private Law"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-08-05
+updated: 2026-08-08
 verified: 2026-06-09
 tags: [market-anarchism, private-law, arbitration, defense-agencies, classical-liberalism]
 aliases: [anarcho-capitalism, private law society, market provision of law]
@@ -75,9 +75,6 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - enforcement without a monopoly, the constructive reply to the claim that property requires the state
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - where this wiki’s own corner sits once the spectrum is set aside
 ## Sources
 

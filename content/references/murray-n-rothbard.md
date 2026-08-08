@@ -3,7 +3,7 @@ title: "Murray N. Rothbard"
 volatility: warm
 category: reference
 created: 2026-04-21
-updated: 2026-08-05
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [rothbard, libertarianism, austrian-economics, anti-statism, economic-history]
 aliases: [Murray Rothbard, Rothbard]
@@ -66,11 +66,9 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Rothbard's [[power-and-market|Power and Market]] triangular-intervention analysis
 
-
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's history of economic thought, Vol. 1
 - [[school-of-salamanca|School of Salamanca]] - the scholastics Rothbard frames as proto-Austrians
-
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Hold and Its Dissents: Administered Credit]] - newsroom thesis backlink
 
@@ -107,15 +105,11 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[richard-cantillon|Richard Cantillon]] - Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 
-
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[ethics-vs-morality|Ethics vs Morality]]
 - [[left-and-right|Left and Right]] - his reversed genealogy placing classical liberalism on the original Left
 - [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - his 1965 essay placing classical liberalism on the original Left

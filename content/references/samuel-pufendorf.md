@@ -3,7 +3,7 @@ title: "Samuel Pufendorf"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-08
 verified: 2026-06-09
 tags: [samuel-pufendorf, natural-law, natural-rights, classical-canon, sociality, law-of-nations, german-enlightenment, jurisprudence]
 aliases: [Samuel Pufendorf, Pufendorf, Samuel von Pufendorf, Freiherr von Pufendorf]
@@ -28,9 +28,6 @@ He is not a libertarian: he emphasized duty over rights and defended strong sove
 - [[sociality|Sociality]] - Pufendorf's foundational law of nature: because man is needy yet prone to harm, every person must so behave that others have no just cause to injure him
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Pufendorf, The Whole Duty of Man (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - the basis for this profile

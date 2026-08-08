@@ -900,8 +900,6 @@ The honest limits belong in the same breath. Bitcoin makes the monetary *base* p
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the Austrian dispute over whether Bitcoin satisfies Mises's regression theorem
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi's whitepaper: peer-to-peer electronic cash, the double-spending problem, the proof-of-work timestamp chain and longest-chain rule, one-CPU-one-vote consensus, the honest-majority assumption and attacker-catch-up calculation, the coinbase incentive, Simplified Payment Verification, and the Section 10 privacy model
@@ -2659,9 +2657,6 @@ Finney was describing pre-1861 American private banknotes, then speculating "tha
 - [[bitcoin|Bitcoin]] - Peer-to-peer electronic cash secured by proof-of-work, with a fixed 21-million-coin supply that makes it the first verifiably scarce digital good.
 - [[your-secret-right-to-cash|Your Secret Right to Cash]] - Van Valkenburgh's 2017 essay: cash silently guaranteed uncensorable, private payment — a 'secret right' nobody defended because physics enforced it, until electronic money removed it.
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 15 §15.10 on Chaumian ecash applied to Bitcoin, Cashu single-operator mints, Fedimint federated custody, and the privacy-versus-custody tradeoff
@@ -5338,9 +5333,6 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - enforcement without a monopoly, the constructive reply to the claim that property requires the state
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - where this wiki’s own corner sits once the spectrum is set aside
 ## Sources
 
@@ -5542,8 +5534,6 @@ Confidence is low. Megapolitics is a sweeping single-source theory of all of his
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Chapter 2, "Megapolitical Transformations in Historic Perspective" (its "A Crash Course in Megapolitics" section, the four factors, the Lane epigraph) and Chapter 6 ("The Megapolitics of the Information Age")
@@ -6197,11 +6187,8 @@ This concept helps prevent a flattened state critique. Nationalism can legitimat
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - the we-group sentiment nationalism channels
 
-
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Coercion, Capital, and European States, AD 990-1992](https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20%5BCh%201,3,6%5D.pdf) - expanded raw aggregate including nationalism material in Chapters 4 and 7
@@ -6722,8 +6709,6 @@ It should be held with appropriate hedging. The framework is a powerful *descrip
 - [[jurisdictional-competition|Jurisdictional Competition]] - the exit dynamic that a falling cost of defense and mobility unlocks
 - [[timothy-c-may|Timothy C. May]] - cypherpunk author of the crypto-as-defensive-weapon framing
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - megapolitics, the logic of violence, and the Information-Age diffusion thesis
@@ -7028,16 +7013,12 @@ The parallel economy is the cypherpunk-implementation cousin of **agorism / coun
 - [[nostr|Nostr]] - Nostr (Notes and Other Stuff Transmitted by Relays) is a minimal protocol where
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - Konkin's counter-economy that this cypherpunk stack implements
 
-
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[samuel-edward-konkin-iii|Samuel Edward Konkin III]] - Short author reference for Samuel Edward Konkin III, the market-anarchist theorist who founded agorism and counter-economics and wrote the New Libertarian Manifesto.
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 - [[self-custody|Self-Custody]] - Holding your own private keys — controlling your money directly rather than through a custodian. 'Not your keys, not your coins': the precondition for everything Bitcoin promises
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's ch. 21 "Building the Parallel Economy" (with chs. 2 and 10 on convergence and the observation loop)
@@ -7214,7 +7195,6 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis classifying a rent ceiling as use of the political means substituted for the economic means.
 
-
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] - Mises's *Liberalism* Part I §5 claim that antiliberal policy is a policy of capital consumption
 - [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its ultimate, leaving a permanent legacy of increased state burdens
@@ -7223,9 +7203,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Rosenberg's novel of producers building beyond the political means; the fiction counterpart to his *Production Versus Plunder*
 - [[paul-rosenberg|Paul Rosenberg]] - author whose production-versus-plunder reading of history applies the distinction
 
-
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
-
 
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 
@@ -7257,9 +7235,6 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - uses this distinction to answer the communist claim that private property requires the state
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - the axis the libertarian objection to left and right points toward instead
 - [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - the essay arguing the left-right axis misreports where the liberal tradition began
 ## Sources
@@ -7807,16 +7782,12 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 
-
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
 - [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - Lowery's thesis reading proof of work as physical power projection — the source for the Power Projection section
@@ -7872,7 +7843,6 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[libertarianism|Libertarianism]] - the doctrine whose adoption problem this diagnoses
 - [[william-f-shughart-ii|William F. Shughart II]] - the author of the encyclopedia entry this concept draws its rational-ignorance and collective-action results from
 
-
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[jurisdictional-competition|Jurisdictional Competition]] - Lane's employee-controlled-government category matches the public-choice account of bureaucratic incentives
 
@@ -7884,8 +7854,6 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[iron-law-of-oligarchy|The Iron Law of Oligarchy]]
 - [[robert-michels|Robert Michels]]
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Public Choice (Concise Encyclopedia of Economics)](https://www.econlib.org/library/Enc/PublicChoice.html) - Shughart's entry on rational ignorance, the logic of collective action, and government failure
@@ -8883,9 +8851,6 @@ In the texts themselves, both are put forward as programs to be built rather tha
 - [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
 - [[secession|Secession]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Davidson and Rees-Mogg on declining returns to violence, jurisdictional competition, the cybereconomy, and governments forced to treat populations "more like customers" than shakedown victims
@@ -8935,7 +8900,6 @@ Secession is the political-institutional face of the wiki's recurring theme that
 - [[the-sovereign-individual|The Sovereign Individual]] - individual jurisdictional arbitrage as one-person secession
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - where the secession regress ends: voluntary association all the way down
 - [[minarchism|Minarchism]] - the rival answer to how liberty is institutionally secured
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 
 ## Sources
 
@@ -8982,9 +8946,6 @@ The custody gap is the strongest empirical point in the critique of crypto's pol
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
 - [[financial-surveillance|Financial Surveillance]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - value moving "without going through a financial institution" — the removed intermediary that custody either keeps out or lets back in
@@ -9398,8 +9359,6 @@ The negative core of sociality is the point of contact with that later tradition
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the modern compressed statement of the rule sociality's non-injury core supports
 - [[the-second-treatise-of-government|Second Treatise of Government]] - Locke's sharpening of the Pufendorfian apparatus into equal natural rights
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Pufendorf, The Whole Duty of Man (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - Book I, Chapter III for the fundamental law of nature and the anthropological diagnosis of human weakness and dangerousness (Barbeyrac's note to the chapter, not Pufendorf's main text, supplies the three grand principles — religion, self-love, sociability — paired with the duties toward God, self, and neighbour); Chapters VI–VIII for the absolute duties of not injuring (with the catalog of crimes and the rule of reparation), natural equality, and mutual humanity, plus the further duties of truthful discourse, promise-keeping, contract, and property as a human institution; the perfect/imperfect distinction; and Book II on the natural state, civil society, and the civil sovereign — in Andrew Tooke's English translation (Liberty Fund OLL clean eBook text of the Tooke edition; the fundamental maxim "every man ought, as much as in him lies, to preserve and promote society" is now quoted verbatim)
@@ -10309,8 +10268,6 @@ The theory is deceptively consequential. It reshapes contract law around a singl
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard's Chapter 19: the right to contract as derived from property, the title-transfer theory credited to Williamson Evers, enforceability as implicit theft, the unenforceability of mere promises, the fraud and debt cases, the alienability limit, and the penal/performance bond as remedy
@@ -12377,9 +12334,6 @@ This is the headline text of the Chicago counterpoint in [[austrian-economics-vs
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - **Capitalism and Freedom (Full Text)** - Friedman's 1962 statement of Chicago classical liberalism; clean digital text from a user-provided PDF (© University of Chicago)
@@ -12504,8 +12458,6 @@ Schmitt is not a libertarian and should not be normalized as one. His critique o
 - [[michel-foucault|Michel Foucault]] - another non-libertarian power critic added with this batch
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with exception language
 
-
-- [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]] - newsroom thesis backlink
 ## Sources
 
 - [Political Theology](https://platypus1917.org/wp-content/uploads/Political-Theology_-Four-Chapte-Carl-Schmitt.pdf) - Schwab translation, University of Chicago Press edition extraction
@@ -13128,16 +13080,12 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 - [[mises-on-capital-consumption|Mises on Capital Consumption]] - focused Misesian sister article on antiliberal policy as capital consumption; Hoppe's caretaker / time-preference mechanism is one institutional route to capital-consumption policy
 - [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] - the book's central caretaker argument: a temporary democratic ruler maximizes current income at the expense of the state's capital value
 
-
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[secession|Secession]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - its argument that democracy turned the Right into statists, in the spectrum debate
 ## Sources
 
@@ -13804,9 +13752,6 @@ The wiki draws on two strands of his work. From [[the-seen-and-the-unseen|“Tha
 - [[economics-in-one-lesson|Economics in One Lesson]]
 - [[henry-hazlitt|Henry Hazlitt]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Essays on Political Economy (Full Text Aggregate)](https://www.gutenberg.org/ebooks/15962 (Project Gutenberg); public-domain 19th-century English translation; SHA-256 1b4ca6a2ae3370f35f4e76b87721342ca79214e4d090becfaf6cbb7b2aed0e12) - Bastiat's essays, including “That Which Is Seen, and That Which Is Not Seen” and “The Law”, the basis for this profile
@@ -13872,11 +13817,9 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis applying the knowledge-problem reading to the post-repeal supply response
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - focused author-on-topic article drawn from the "Planning vs. the Rule of Law" chapter of [[road-to-serfdom|The Road to Serfdom]]
 
-
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
-
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
@@ -13886,9 +13829,6 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - his triangle against the line, and the objection that conservatives ask who wields power
 ## Sources
 
@@ -14250,15 +14190,11 @@ Her value for this wiki is comparative. Arendt converges with libertarian source
 - [[violence-vs-power|Violence vs Power]] - reciprocal link.
 - [[vita-activa|Vita Activa]] - reciprocal link.
 
-
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt source currently present in the wiki; biographical context is included only to orient the author node
@@ -14319,8 +14255,6 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[libertarianism|Libertarianism]] - broader topic context
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - related concept
 
-
-
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical natural-law lineage behind Hoppe's "natural order"
 
@@ -14337,8 +14271,6 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[secession|Secession]]
 - [[ethics-vs-morality|Ethics vs Morality]]
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - his case that libertarians must be conservatives, in the spectrum debate
 - [[javier-milei|Javier Milei]]
 - [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
@@ -15448,9 +15380,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - related concept
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Mises's [[liberalism|Liberalism]] rent-ceiling and Vienna passages
 
-
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
-
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Hold and Its Dissents: Administered Credit]] - newsroom thesis backlink
 
@@ -15484,9 +15414,6 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his regression theorem as the premise of the contested Bitcoin application
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - his account of how the word liberal was taken over by its opponents
 ## Sources
 
@@ -15775,9 +15702,6 @@ Confidence is medium. The substance of Friedman's monetary and classical-liberal
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - **Capitalism and Freedom (Full Text)** - Friedman's 1962 statement of Chicago classical liberalism (clean digital text from a user-provided PDF; © University of Chicago)
@@ -15994,11 +15918,9 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Rothbard's [[power-and-market|Power and Market]] triangular-intervention analysis
 
-
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[economic-thought-before-adam-smith|Economic Thought Before Adam Smith]] - Rothbard's history of economic thought, Vol. 1
 - [[school-of-salamanca|School of Salamanca]] - the scholastics Rothbard frames as proto-Austrians
-
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Hold and Its Dissents: Administered Credit]] - newsroom thesis backlink
 
@@ -16035,15 +15957,11 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[richard-cantillon|Richard Cantillon]] - Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 
-
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[ethics-vs-morality|Ethics vs Morality]]
 - [[left-and-right|Left and Right]] - his reversed genealogy placing classical liberalism on the original Left
 - [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - his 1965 essay placing classical liberalism on the original Left
@@ -16440,9 +16358,6 @@ This should not be turned into libertarian doctrine. Arendt does not infer marke
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis updated with this distinction
 - [[eichmann-in-jerusalem|Eichmann in Jerusalem]] - reciprocal link.
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - OCR extraction from the Monoskop scan of *Crises of the Republic*
@@ -17259,9 +17174,6 @@ He occupies a precise position in the libertarian field. Against the individuali
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - **Anarchy, State, and Utopia (Full Text Aggregate)** - the basis for this profile (Basic Books, 1974; user-provided full text)
@@ -17364,9 +17276,6 @@ He is not a libertarian: he emphasized duty over rights and defended strong sove
 - [[sociality|Sociality]] - Pufendorf's foundational law of nature: because man is needy yet prone to harm, every person must so behave that others have no just cause to injure him
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Pufendorf, The Whole Duty of Man (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - the basis for this profile
@@ -19023,9 +18932,6 @@ Confidence is medium: the book can be summarized faithfully and directly from th
 - [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
 - [[secession|Secession]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - full OCR text from the Internet Archive; Chapters 1 (the four stages and the Sovereign Individual), 6 (the megapolitics of the information age), 7 (the cybereconomy and cybercash), and 10-12 for the political consequences and the conclusion
@@ -20885,6 +20791,234 @@ The wiki's position is that Bitcoin is real individual sovereignty and no collec
 - [Bitcoin Is Not Freedom: The Delusion of Digital Escape](https://mises.org/mises-wire/bitcoin-not-freedom-delusion-digital-escape) - Soleimani's Mises Wire critique: the digital-escape delusion, the economic-vs-kinetic register, the Iran and Venezuela cases, institutional capture, and the Rothbard micro/macro citation this thesis turns on
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - Davidson & Rees-Mogg's sovereignty-by-exit thesis, the target Soleimani names and the source of the megapolitical time-horizon reply
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - Lowery on proof-of-work as physical power projection, the basis for the claim that Bitcoin reaches the physical register at the individual scale
+
+---
+
+## The Coordination Objection: A Reply to an Ex-Libertarian
+URL: /theses/2026-07-22-dpc-coordination-objection
+Category: thesis
+
+# The Coordination Objection: A Reply to an Ex-Libertarian
+
+> The most instructive critique of libertarianism in this corpus comes not from a hostile outsider but from a developer who knows the arguments, builds the tools, and left anyway. dpc's three objections — that society binds harder than the state, that capitalism optimizes productivity rather than flourishing, that power re-consolidates whatever the design — land almost entirely on ground this corpus already concedes in its own voice. Traced across four years, his trajectory is not a clean exit from the tradition, but neither is it wholly inside it: it moves between libertarian constraints and coercive coordination remedies. His May 2024 remedy for Moloch — a voluntary group whose binding in-group rules work on the halal/kosher model — has the shape of the unifying meaning the adoption-problem thesis independently names as the movement's one unbuilt piece; his coordination-kernel government reads as minarchism only at its narrowest, his 2022 posts giving it a wider, coercive brief. And his sharpest conflict with his own logic — the June 2026 turn toward a higher-level holistic economic optimizer — reasserts the coercive coordination he also reached for in 2022, now on ground his irreducible-power premise forbids, because a central optimizer is the richest prize available for exactly the capture he says is inevitable.
+
+## The interlocutor
+
+Dawid Ciężarkiewicz, who writes as dpc (@dpc_pw), is a working Rust developer in [[bitcoin|Bitcoin]] and Fedimint — federated [[ecash|ecash]] — infrastructure. He knows the arguments and left anyway, so his departure cannot be answered by introducing him to arguments he already holds: his objection is not that the tradition lacks an account of property, prices, or aggression, but that those accounts do not solve the coordination problems that actually bind individuals. In September 2022 he declared the exit (the spelling in all quotations here is his own):
+
+> I'm an ex-libertarian. I eventually understood and accepted some things: 1) Social and economical pressures are far, far more dangerous and limiting to individual freedom than direct "violence". Humans are social animals and can't survive on their own.
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 12 Sep 2022
+
+The same thread continues:
+
+> Group will always impose its will overpowering the individual. Government is just a formalization of that. You maybe can get rid of government, but you can't get rid of the group. 4) Markets and individual choice are far more stupid and hopeless than what libertarians believe.
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 12 Sep 2022
+
+And, the same day, a self-description:
+
+> Note: I was (and am still strongly leaning) libertarian right ancap.
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 12 Sep 2022
+
+The label coexisted with heterodox positions already in the record: in the months before this post he had endorsed selective protectionism, assigned government a coercive role against coordination failures, once named an unspecified income-inequality intervention among a country's needs, and floated banning or taxing usury. Because those posts predate the self-description, they complicate the label rather than retract it — the weight placed on "still strongly leaning… ancap" is bounded to an affinity, not a doctrine. No later post of his retracts it.
+
+His political posts are a small fraction of a feed otherwise given to Rust, Nix, and Bitcoin engineering, and two limits follow from that. The record is incomplete, since some of what he wrote has been deleted and cannot be read, so the absence of a view is weak evidence. And the posts that remain are the asides of a working engineer, evidence of a trajectory rather than a worked-out program. This reply reads them as a first-person account of exit from anarcho-capitalism by someone fluent in the canon — which is what makes it a rare test case — and holds its conclusions with the modesty owed to a position reconstructed from asides.
+
+## What should be conceded first
+
+Nothing below is argued from a fortress. [[objections-to-libertarianism|Objections to Libertarianism]] names the empirical adoption and stability of a free society among the points where the corpus's answers are weakest. [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] rates its own confidence medium, holds [[robert-nozick|Nozick]]'s invisible-hand argument — that a dominant protective agency, and with it a minimal state, would legitimately re-emerge from anarchy — genuinely unresolved, and concedes that no institutional design is self-enforcing: durability rests on culture and ideas more than on formal structure. So when dpc presses on stability, consolidation, and adoption, he is pressing where the tradition, in its honest moments, already gives way. The task of a reply is to establish what his objections do and do not license.
+
+## First claim: society binds harder than the state
+
+*Stated at full strength: a society can respect every formal property title while coordinating so thoroughly against a minority that the minority loses meaningful social and economic agency. If libertarianism calls that society free because no one initiates violence, the non-aggression principle guards the wrong perimeter.*
+
+His test case, put to libertarians as a direct question:
+
+> Is a cast system in which super-majority of population forms a socially enforced consensus on treating an arbitrary minority like shit, denying them social and economic opportunities OK with libertarians, as long as NAP is not vilated?
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 12 Sep 2022
+
+The question is built as a reductio, and the honest answer is to bite it. Under [[nonaggression-and-property-rights|nonaggression and property rights]], yes: a caste order enforced purely through shunning, refusal to deal, and social consensus violates no one's rights. The canon's most systematic treatment of exactly this terrain — [[hans-hermann-hoppe|Hoppe]]'s account of [[forced-integration|forced integration]] in [[democracy-the-god-that-failed|Democracy: The God That Failed]] — does not deny the possibility. It treats state-mandated association as the aggression, answers it with voluntary separation, and accepts the illiberal consequence without flinching: covenant communities with entrance requirements, exclusion on whatever criteria their members set. A bullet bitten, not dodged.
+
+Where the objection is strongest is in what the rule measures. [[hannah-arendt|Arendt]]'s distinction in [[on-violence|On Violence]] between [[violence-vs-power|violence and power]] substantially concedes his premise from outside the tradition: power is what people have when they act in concert, and a supermajority's capacity to ruin someone without laying a finger on him is power in the primary sense — the state one formalization of it, which is very close to his own sentence about government. A rule indexed to violence is indexed to the derivative variable, exactly as he says. The concession is about scope, not truth — a rule about when force may be used was never a theory of everything that can go wrong in a human life — but it does make the answer that the NAP is not violated a jurisdictional reply rather than a moral one, and he is right to find it thin.
+
+What the concession does not establish is that a higher sovereign is the cure — and his own words close the escape route — "Government is just a formalization of that", of the group's will overpowering the individual. Grant it: then a state empowered to break the caste is the formalization of the very supermajority whose "socially enforced consensus" constitutes it — the group's instrument, not a neutral third party, and so no automatic cure. The NAP guards the violence perimeter not because its theorists judged social pressure harmless, but because that is the one line where the guard does not become the thing guarded against. His anthropological premise, meanwhile, is the tradition's own starting point rather than a discovery deployed against it: [[samuel-pufendorf|Pufendorf]] derives the whole interpersonal law of nature from [[sociality|sociality]] — man too needy to survive without his own kind — and would class the caste boycott as a genuine wrong that nonetheless cannot be exacted by force — though Pufendorf himself retains a civil sovereign, so the parallel is to his derivation, not his politics; the real disagreement is only the direction of the deduction, from the person's dependence outward or from the group's standing authority down, and the shared premise settles it for neither side.
+
+What remains is the practical question of what erodes a caste consensus, and the tradition's answer is narrower than he wants but not empty: competition, persuasion, exit, the standing cost [[milton-friedman|Friedman]] identifies in [[capitalism-and-freedom|Capitalism and Freedom]] — the man who discriminates pays for it, in a market where his rivals will hire and serve whomever he refuses — and the mechanism dpc himself later proposes: intolerant minorities can organize against a caste consensus as well as for one. Whether these instruments are sufficient against a determined supermajority is an empirical question the corpus does not settle. The reply is narrower than a victory: the non-aggression principle remains indispensable as a rule governing enforceable claims and insufficient as a complete theory of social freedom. He is entitled to find that unsatisfying; the question of who enforces the better answer remains either way.
+
+## Second claim: the wrong objective function
+
+*Stated at full strength: market competition is not neutral coordination but a selection process — a cybernetic system that rewards whatever captures revenue and survives, productivity rather than leisure, dignity, or flourishing. A system optimizing the wrong objective cannot be repaired by running it more consistently; it needs a higher-level coordinator.*
+
+His earliest formulation predates the exit:
+
+> There's no escaping the fact that capitalism is just a cybernetic system that maximizes productivity growth. Not "humanness", free time, well being or anything else. Only productivity.
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 30 Jul 2022
+
+A continuation of the same thread sharpens what he means by "maximizes":
+
+> And no this is not based on the idea of limited resources. You might be perfectly productive today, but someone more productive shows up tomorrow, and capitalism throws you away as obsolete, not worth maintenance cost anymore.
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 30 Jul 2022
+
+By 2026 it had compressed into aphorism — "Capitalism is a good servant, but bad master." — and the sharper charge that "capitalism is about the value you can capture, and not the value you create."
+
+Concede the capture point first, because the tradition already makes it at length. The corpus's name for returns that flow to political position rather than production is [[crony-capitalism|crony capitalism]]: [[frederic-bastiat|Bastiat]]'s legal plunder, [[murray-n-rothbard|Rothbard]]'s grants of monopoly privilege, and the [[public-choice-and-rational-ignorance|public-choice]] logic that makes rent-seeking a standing tendency rather than an occasional abuse. The libertarian move is to call this the [[political-means-and-economic-means|political means]] wearing a market mask and therefore not capitalism; he would reply that a distinction unenforceable in practice is not much of a distinction — and a distinction the corpus itself treats as contested. Applied to the Western hybrid that actually exists — the system his February 2026 post describes as "Government overtaken by capital" — his capture line is not an objection to the tradition's account. It is the tradition's account.
+
+The optimizer frame is where the disagreement actually lives. To say capitalism "maximizes productivity growth" is to attribute to the market a global objective function, and the claim of [[friedrich-a-hayek|Hayek]]'s [[spontaneous-order|spontaneous order]] and the [[knowledge-problem|knowledge problem]] is not that the market optimizes the right objective but that it has none: no place where a global objective is represented, only the differing ends of millions of people coordinated through prices. The continuation shows "maximizes" can name an emergent selection pressure rather than a target anyone set — concede that reading: competition can reward relative productivity and discard someone who is still productive, exactly as he says. But what competition selects for is whatever buyers actually pay for — including free time, quiet, and craft, to the exact extent people will part with money for them; productivity growth is a by-product of mutual adjustment, which is why no one can be found who set it as the goal. The system is silent about the ranking of ends rather than adversarial to it, and silence is a real limitation worth resenting — but it is not the same defect as optimizing the wrong thing, and only the second admits the fix he wants. Closing a higher loop above the price system would require human flourishing to be statable as an objective function at all — an aggregation over plural, often incompatible ends that exists nowhere as a fact to be known — supplied with knowledge that is local, tacit, and perishable, and able to evaluate trade-offs without the exchange-generated prices it overrides. None of this proves that emergent outcomes are good: markets depend on a designed framework of property and law, some valuable things stay outside prices, and diffuse externalities are among the corpus's admitted thin points. His critique therefore establishes a design requirement, not a case for comprehensive direction. By July 2024 the complaint is fully formed and the remedy left explicitly blank: humanity should "organize using tools of cybernetics, distributed systems, complexity theory, game theory, etc. serving our philosophical beliefs and goals", he writes, and "there's nothing remotely like that on a political horizon anywhere" — which is why, in the same post, liberal capitalism was still "the best we can do". Whether a comprehensive corrector could do better than what it overrides is the question the blank leaves open, and the one his June 2026 post answers in the affirmative.
+
+## Third claim: power always comes back
+
+*Stated at full strength: every arrangement contains decisions about rules, enforcement, admission, and change. Those decisions create power; organization concentrates it; sooner or later someone captures it — and no design has yet escaped it.*
+
+The mature statement came in July 2026:
+
+> "Real anarcho-capitalism have never been tried."
+>
+> The libertarians have instincts right, but refuse to accept/realize that potential of power is just there, irreducible, and someone sooner or later is going to consolidate it.
+>
+> Barely ever can have HoA or a chess club without power drama, and somehow we are supposed to have whole societies...
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 15 Jul 2026
+
+It had been building since 2023:
+
+> In practice 99% of the public has no idea what's going on and delegates power to a combination of aristocrats (developers) and oligarchs (businesses). Bitcoin is not exempt from the Iron Law of Oligarchy.
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 30 Jan 2023
+
+This is the objection that lands on the corpus's weakest ground, and the concessions above already grant most of it: his HoA-and-chess-club line is a compressed statement of the stability objection the corpus itself takes most seriously. It is the strongest of his three claims, and it is conceded.
+
+What is contestable is the word *regardless*. [[megapolitics|Megapolitics]] — the frame of [[the-sovereign-individual|The Sovereign Individual]] — and the [[offense-defense-balance-of-technology|offense–defense balance of technology]] treat the returns to consolidation as a technological variable rather than a constant: when the cost of projecting power falls, coercion concentrates; when it rises, predation stops paying and power scatters. On that reading the [[iron-law-of-oligarchy|Iron Law of Oligarchy]] is not repealed — someone still consolidates — but the scale at which consolidation pays is set by technology, and moving that scale is an engineering problem rather than a moral appeal. The wide historical variation in the scale and form of consolidation is what a technological reading explains and a fixed constant does not — which tempers the word *regardless* without denying that some tendency to consolidate is always present. This is a wager, not a law — but it is also the working premise of his own career. His fullest statement of the view:
+
+> Personal choice doesn't work collectively. [...] I am freedom loving, but at some point one needs to realize that voluntarily* restricting one's collective short-term freedom is beneficial for one's individual freedom in the long-term.
+>
+> Bitcoin works precisely because all its users agree to follow restrictive consensus rules. [...] World is full of coordination traps. Unless humans realize they need to navigate these balancing short term and long term, individual and collective, freedom and responsibility, we're doomed.
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 26 Sep 2024
+
+The important word is *voluntarily*. Bitcoin does not eliminate protocol power; it makes rules explicit, verification broadly available, and continued participation conditional on acceptance — a particular cost structure for changing the rules, which is a partial and real answer to who gets to change them. [[self-custody|Self-custody]] and [[proof-of-work|proof of work]] are bets that the cost of taking things and changing rules can be pushed up far enough to change who bothers. His Iron Law post says Bitcoin is not exempt — granted, and this corpus claims exemption for no one. But *not exempt* and *unaffected* are different claims: the design did not abolish the gradient; it moved the price of climbing it. A man who spends his working life on consensus rules built to make rule-change expensive is not in practice treating the potential for power as beyond design. Power cannot be abolished, but its concentration, scope, contestability, and returns can be changed — weaker than the anarchist promise of eliminating rule, stronger than the fatalist conclusion that every design converges on the same sovereign.
+
+## The convergence: his remedy has the shape of the tradition's open problem
+
+The post on which the convergence rests is from May 2024 — but it was not his first answer to Moloch. In July 2022 the same problem had the opposite solution:
+
+> There is an obvious role for governments and it's keeping Moloch at bay (preventing negative social outcomes of Prisoner's Dilemma). No, free markets can't do it, because it requires coercion. Spare me your libertarian tears.
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 12 Jul 2022
+
+That answer is governmental and explicitly coercive, markets declared incapable and the libertarian objection dismissed in advance. The May 2024 post, in the narrower context of freedom-preserving software, reaches instead for a voluntary group:
+
+> The only solution to Moloh is "religious fundamentalism" like coordination. The reason why software keeps enslaving is that Freedom preserving software can't compete (mostly economically) with larger economy of slave software.
+>
+> If we were able to create religion like group that one can join to gain benefits, but must respect in group rules, we could win. Think "halal" or "cosher" food, religious fundamentalism. Google Taleb's "the most intolerant win".
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 10 May 2024
+
+The remedy for Moloch — his shorthand for the coordination trap in which freedom-preserving options lose to better-funded unfree ones — is a group joined voluntarily for its benefits, whose in-group rules genuinely bind, propagating on the [[minority-rule|minority rule]] that [[nassim-taleb|Taleb]] names: halal and kosher observance spread because deviation costs more than compliance. That is a design, not a mood. Between the two posts, on his own signature problem, the remedy moved from state coercion to voluntary binding rules — and the later one runs toward the tradition's frontier, not away from it. He never says which it is: whether the 2024 proposal superseded the 2022 governmental remedy, supplemented it, or answered a narrower question about software. No later post retracts the 2022 position, and the 2024 "only solution" formulation displaces it without acknowledgment — a limit that travels with the claim.
+
+Now set beside it what this corpus said independently, from entirely different sources, in [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]]: the classic routes to a freer order are each necessary and none sufficient; what mobilizes people is belonging rather than argument; and the one thing the movement has never built is a unifying meaning capable of supplying the belonging [[nationalism-and-state-formation|nationalism]] supplies. These are the same shape at different resolutions — his describes the institutional rules, the thesis the belonging that makes people willing to follow them — and his is the more operational: benefits at the door, binding rules inside, an intolerant minority setting the standard. It even has a precedent in the tradition he left: Hoppe's covenant communities, territorial and proprietary where his model is non-territorial observance.
+
+Note the structural symmetry with his own caste case, because it is load-bearing: the halal/kosher device is a socially enforced consensus that binds individuals without violating property — precisely the mechanism his 2022 question presented as libertarianism's embarrassment. The two are not the same object — they differ in purpose, in heredity, in what happens to those outside, and voluntary entry distinguishes the 2024 proposal from a hereditary caste — so the convergence is the narrower, structural point: his proposed group operates in the same institutional space where the tradition locates voluntary association and exclusion, the space [[secession|secession]] and [[seasteading-and-network-states|network states]] occupy in this corpus. The post leaves exit and enforcement unspecified; on the reading that keeps them within voluntary exit and the owner's right to exclude, such in-group rules are associational conditions rather than binding contracts — and under the [[title-transfer-theory-of-contract|title-transfer theory of contract]], which enforces transferred title rather than a bare promise, that is the ordinary right to exclude the [[market-anarchism-and-private-law|private-law order]] is made of. Whether dpc's own group would stay within those bounds, the post does not say. What the position he left lacks is not permission but the artifact: nobody has built the thing.
+
+His other recurring formulations converge the same way. The one he repeats nearly verbatim two years later:
+
+> What libertarians don't get is that there is an obvious role for "the government", and it's the same as for OS kernel - coordination.
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 11 Sep 2022
+
+A minimal layer legitimated by function resembles [[minarchism|minarchism]] — the night-watchman state argued from systems architecture instead of natural rights. But the metaphor fixes a coordination *function*, not a night-watchman *scope*, and his 2022 posts show he had already filled that scope in with something larger. Two months before the kernel post, the same "obvious role for governments" formula named the role coercively: "keeping Moloch at bay (preventing negative social outcomes of Prisoner's Dilemma)", with markets declared unable to do it "because it requires coercion"; and the same spring he praised the "intelligent use of selective protectionism" of key industries. Minarchism is what the metaphor licenses at minimum, not what he meant — which is why the June 2026 turn reasserts a scope he had shown before rather than inventing one. One month after the exit declaration, he had also already stated the tradition's other answer to consolidation from scratch:
+
+> If you are a Bitcoiner you need to understand: we're all trapped by game theory: we have to support a terrible lying violent gang to protect us from other violent gangs. And having one global gang would be even bigger disaster because it would eliminate the competition
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 16 Oct 2022
+
+That is [[jurisdictional-competition|jurisdictional competition]] in its harshest vocabulary: the answer to irreducible power is not its abolition but its division, so that exit disciplines the price. He will need that argument again below. And his cultural conclusion at the end of 2024 — the ideal human civilization as space-faring Amish, keeping technology's useful parts while refusing modernity's self-destructive defaults — is the same voluntary, rule-bound, technologically selective shape a third time.
+
+None of this denies his chosen label. Several of his remedies — voluntary rule-bound association, competitive jurisdictions, protocol constraints, a common coordination layer — sit inside the tradition's unresolved institutional frontier; his 2022 posts show others that do not. On the voluntarist half of his thinking he is not returning to a problem libertarianism solved. He is working on the problem it has not solved.
+
+## Where the position is hardest to hold: the holistic optimizer
+
+In June 2026 he supplies a candidate for the higher-level corrector his objective-function critique had implied, and this is where his position is hardest to square with his own commitments:
+
+> In The Goal, it's well explained how the cardinal sin of system optimization is optimizing each part in separation. Capitalism is basically each part of the economy optimizing not only in separation but adversarialy to the whole...
+>
+> In Thermoeconomics in Time of Monsters, it's well explained how Chinese economic model is a combination of bottom level capitalism with higher-level holistic economic system optimization, all contrasted with western economic model.
+>
+> Quite clear to me that it's a superior way to think about economics, where western squables of naive capitalism with naive socialism now seem like backwater superstitions.
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 26 Jun 2026
+
+The systems insight is sound at the level of an engineered organization: optimizing each component's local metric can degrade a designed whole. The inference to an economy does not follow, because a factory has an owner, a defined output, and a purpose supplied from outside the system, while a society contains people with different purposes and no uncontested scalar measure of the whole.
+
+The Austrian objection has to be scoped honestly. [[ludwig-von-mises|Mises]]'s [[economic-calculation-problem|calculation problem]] is an in-principle result about full socialization: without private ownership and exchange of capital goods there are no money prices for them, and rational calculation is impossible rather than merely hard. A hybrid that keeps bottom-level capitalism keeps its prices, so the argument presents a dilemma instead: to the extent the higher level overrides ownership and capital allocation comprehensively, it destroys the price formation on which comparison depends; to the extent it defers to bottom-level prices, it is not holistic but an interventionist participant imposing selected political priorities — and the objection bites at each margin where an override displaces a price, harder the more the optimizer optimizes. The knowledge problem bites everywhere: the knowledge prices summarize is local, tacit, and perishable, and a holistic objective function presupposes a ranking of ends that exists nowhere as a fact to be known. Neither argument is a proof about any particular economy's growth statistics; both are reasons to expect the higher level to be systematically worse informed than what it overrides.
+
+The damaging objection, though, is not Austrian. It is his own, and he supplies it himself four months earlier:
+
+> As a very pro free markets and personal freedom loving person, I think it is a good time to take an L and acknowledge that just like communism in practice degenerates into totalitarian dystopia, free markets / capitalism degenerates into ... this ... what the West has right now. Government overtaken by capital, masses hypnotized by propaganda, secret societies worshiping Moloch, military industrial complex killing millions, social fabric dismantled.
+>
+> You might laugh at "real communism have never been tried", and then look at all that is happening and say... "acktually, this is not a real capitalism"? Basically "real capitalism have never been tried"?
+>
+> — Dawid Ciężarkiewicz (@dpc_pw), X post, 11 Feb 2026
+
+"Government overtaken by capital" is a capture diagnosis, delivered about a far less centralized arrangement than the Chinese model he now praises. He endorses that model as a superior way to think about economics rather than specifying an institution — but to the extent it means a central authority empowered to set the economy's higher-level objectives, and his own premise holds that power is irreducible and someone will eventually consolidate it (his sentence, nineteen days after the Chinese-model post), such an authority is the richest capture target on offer: a single control point whose capture pays off across the entire economy at once. Firms that seek captured rather than created value — his own description of the present — would rationally redirect their efforts toward capturing it. If the Iron Law reaches Bitcoin's developers, the ministry of holistic optimization does not stay clean either; and unlike the chess club, its drama binds everyone.
+
+His February post also supplies the discipline that should govern the comparison: he refuses to let capitalism be judged by its brochure — "real capitalism have never been tried" is, on his telling, a laugh line of the same species as its communist twin, and by July 2026 he extends the same mockery to "Real anarcho-capitalism have never been tried." Consistency asks that the third system face the same test. Judged by description, the Chinese model is bottom-level markets under benevolent holistic correction; judged by the record his own premise predicts, it is the largest concentration of the thing he says always gets consolidated. His own line closes the loop: "The question of power still remains: someone has to get to change (or not) the rules." Someone has to hold the objective function. He can hold that power always re-consolidates, or he can endorse the thing most worth consolidating; holding both requires an account of why this particular concentration is the one that stays clean, and no post in the corpus supplies it. The tension is left unresolved on the page — a working life spent making rule-change expensive on one side, the endorsement of holistic optimization on the other.
+
+## The record is not monotonic
+
+A fair reading notes the posts that cut the other way, because the drift is not a straight line. As late as September 2023, a year after the exit, he was still defending capitalism against its lazier critics — the people who never complain about it, he observed, are those who experienced its lack — and in July 2024 he still judged liberal capitalism, for all its flaws, "the best we can do". The competing-gangs post, as libertarian an argument as he has ever made, came one month after the exit declaration; and the 2022 record holds both strands at once — he could write "Sure ideally taxes would be 0%" in the same August 2022 in which he was already weighing whether to "Ban usury altogether" or "Tax usury", weeks after the coercive anti-Moloch post, and two years before the November 2024 post that rejects the libertarian objection directly — its self-description pragmatist rather than convert, its ground basic dignity rather than a rival system, and nothing general about markets following from it.
+
+An August 2025 post puts a third instrument on the same problem the 2024 remedy addressed. Against the prospect of Google and Apple removing Bitcoin apps, and with sideloading noted as itself revocable, he concludes that "the only real and lasting solution is political" — the remedy named being a constitutional amendment guaranteeing freedom of computing. On its visible text that is a limit on power rather than a mandate to coordinate, which would place the remedy inside the tradition rather than outside it. But only the opening of the post survives in readable form, cut off just as it turns to the companies themselves, and an amendment binding private platforms would be a mandate on private property of the kind the tradition refuses — so neither how far he carried the thought nor which way it finally cuts can be read. What is legible is a third answer to the problem, offered a year after the voluntary one.
+
+The pattern across four years is someone holding a market prior and a coordination prior at the same time and being visibly unable to reconcile them — which is not confusion but an accurate report of the state of the problem, until the 2026 step onto ground his own premises had come to forbid.
+
+## What remains contested
+
+Nothing here settles the disagreement, and several pieces of it cannot be settled from this corpus at all.
+
+- **Whether the non-coercive remedies are sufficient.** That competition, persuasion, and exit erode a caste order is a prediction, not a demonstration; voluntary separation shows a NAP-consistent answer exists, not that a society of exclusive covenants would be good to live in. The gap between a rights-answer and a flourishing-answer is the gap his objection names.
+- **Whether the state comes back anyway.** Nozick's re-emergence argument is unresolved on its merits; if the stability concession is fatal, it is fatal to minarchism and the holistic optimizer as well — but it is fatal to anarcho-capitalism first.
+- **Whether the cost asymmetry holds.** The defense-scaling claim is a wager backed by the operational survival of a few systems, an admittedly uncertain wager; the [[parallel-economy|parallel-economy]] strategy and [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] rest on it and are honest that it is a wager.
+- **Whether value capture is corrigible.** The standing objection is that the distinction between market profit and political favor is unenforceable in practice; the corpus does not resolve this, and his version of the complaint is the strong one.
+- **Whether a voluntary creed can bind without curdling.** A group strong enough to discipline defectors needs a theory of dissent, expulsion, rule change, and exit costs; without one, religion-like coordination can become a socially enforced caste in another form. His halal/kosher proposal and the corpus's unbuilt-creed problem are one question, and no one — not he, not the movement — has answered it by building the thing.
+
+What can be said plainly is narrower. His first and third claims are conceded here in the terms he set them. The second is conceded in its rent-seeking half and answered in its cybernetic half, where the answer stands or falls on whether a system with no place to represent a global objective can be said to be optimizing the wrong one. The sharpest documented conflict with his own premises is the holistic optimizer — not because Mises said so, but because the man who says power always re-consolidates has endorsed the most concentrated lever on offer. It is not, though, his only departure from libertarian policy: his 2022 posts also hold positions outside any strict anarcho-capitalist or minarchist frontier, coercive government against coordination failures and selective protectionism among them. His trajectory is therefore neither a clean exit nor an orbit wholly inside the tradition; it moves between libertarian constraints and coercive coordination remedies, and the honest description is that motion, not a single fixed position. The frontier the voluntarist half of his thinking works is not whether people need coordination — they do. It is whether coordination can become binding enough to defeat collective-action traps while remaining plural, contestable, and cheap to leave. Libertarianism has not shown that it can; centralizing the answer does not solve the problem, it hands the problem control of the system. Whatever he calls himself, on the voluntarist side of his thinking the problem he is working is the tradition's own unsolved one.
+
+## See Also
+
+- [[minority-rule|The Minority Rule]] - Taleb's mechanism behind "the most intolerant win", the enforcement engine of dpc's coordination remedy
+- [[iron-law-of-oligarchy|The Iron Law of Oligarchy]] - Michels's law behind dpc's "Bitcoin is not exempt", the source of his irreducible-power premise
+- [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - the thesis that independently names the unbuilt unifying meaning his Moloch remedy proposes
+- [[objections-to-libertarianism|Objections to Libertarianism]] - the steelman hub that names empirical adoption and stability among the corpus's weakest points
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - the stability and re-consolidation objections, Nozick's invisible hand, and the concession that no design is self-enforcing
+- [[forced-integration|Forced Integration]] - Hoppe's voluntary-separation answer to the association problem, and why its concrete program is illiberal
+- [[violence-vs-power|Violence vs Power]] - Arendt's power-as-acting-in-concert, which concedes that the group's pressure is power in the primary sense
+- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the perimeter under dispute in his first claim, and the consent line his own remedy relies on
+- [[spontaneous-order|Spontaneous Order]] - why a market has no place to represent a global objective function
+- [[knowledge-problem|Knowledge Problem]] - the epistemic case against a higher-level optimizer, independent of the calculation result
+- [[economic-calculation-problem|Economic Calculation Problem]] - the in-principle result that scopes the objection to the Chinese-model turn
+- [[crony-capitalism|Crony Capitalism]] - the value-capture-over-value-creation phenomenon, conceded in full
+- [[jurisdictional-competition|Jurisdictional Competition]] - the position his competing-gangs argument restates from game theory
+- [[minarchism|Minarchism]] - the narrowest reading of his OS-kernel formulation, wider in his 2022 posts
+- [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - the companion thesis on what protocol design can and cannot do about collective coordination
+
+## Sources
+
+- [dpc (@dpc_pw) — X Corpus, Ideological Extract (2022–2026)](https://x.com/dpc_pw) - verbatim ideological extract from a 3,769-post archive of @dpc_pw (Apr 2022 – Jul 2026, 194 ideological posts): the September 2022 exit declaration and caste question, the objective-function critique from 2022 through the June 2026 Chinese-model post, the May 2024 halal/kosher coordination remedy, the irreducibility-of-power posts from 2023 to 2026, the February 2026 recantation, and the countervailing pro-capitalism, competing-gangs, usury, and space-faring-Amish posts a fair reading requires
+- [dpc (@dpc_pw) — Recovered 2022 Tweets (Wayback)](https://x.com/dpc_pw ; recovered via the Wayback Machine (web.archive.org) from archived twitter.com/dpc_pw/status/ snapshots) - his 2022 posts, recovered from the Wayback Machine: the 12 July 2022 coercive-government answer to Moloch, the selective-protectionism and capital-vs-labor posts, the recovered continuation of the 30 July 2022 cybernetic-capitalism thread, and the usury and "taxes would be 0%" posts that place his interventionist strand as early as 2022
+- [dpc (@dpc_pw) — Recovered 2024–2026 Tweets (Syndication)](https://x.com/dpc_pw ; recovered via X's public syndication endpoint (cdn.syndication.twimg.com/tweet-result) by tweet ID) - his posts from 2024 to 2026 absent from the earlier archive: almost entirely engineering, with the November 2024 post on productive wealth and the August 2025 "freedom of computing" post as its only politically substantive content
+- **Anarchy, State, and Utopia (Full Text Aggregate)** - Robert Nozick's 1974 Anarchy, State, and Utopia: the landmark academic statement of libertarian minarchism
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Full text of Rothbard's The Ethics of Liberty
+- [Democracy: The God That Failed](https://archive.org/details/democracy-the-god-that-failed-hans-hermann-hoppe) - Hoppe's 2001 collection of thirteen essays arguing that the historical transition from monarchy to democracy systematically raised social time preference
+- **Capitalism and Freedom (Full Text)** - Milton Friedman's 1962 Capitalism and Freedom
+- [On Violence](https://monoskop.org/images/7/70/Arendt_Hannah_Crises_of_the_Republic.pdf) - OCR ingest of Hannah Arendt's On Violence, extracted from the Monoskop scan of Crises of the Republic; distinguishes power, strength, force, authority
+- [The Whole Duty of Man According to the Law of Nature (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - Pufendorf's De Officio Hominis et Civis (Latin 1673), in Andrew Tooke's English 'Whole Duty of Man According to the Law of Nature'
+- [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Consolidated full-text ingest of the Mises Institute PDF edition of Individualism and Economic Order, extracted from the 282-page PDF
+- [Socialism: An Economic and Sociological Analysis (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - Consolidated full text of Ludwig von Mises's Socialism: An Economic and Sociological Analysis
 
 ---
 

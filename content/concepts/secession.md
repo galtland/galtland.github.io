@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 compiled-from: conversation
 created: 2026-07-16
-updated: 2026-08-05
+updated: 2026-08-08
 verified: 2026-07-16
 confidence: medium
 tags: [secession, self-determination, exit, decentralization, jurisdictional-competition, hoppe, network-state]
@@ -50,7 +50,6 @@ Secession is the political-institutional face of the wiki's recurring theme that
 - [[the-sovereign-individual|The Sovereign Individual]] - individual jurisdictional arbitrage as one-person secession
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - where the secession regress ends: voluntary association all the way down
 - [[minarchism|Minarchism]] - the rival answer to how liberty is institutionally secured
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 
 ## Sources
 

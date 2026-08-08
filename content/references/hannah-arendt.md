@@ -3,7 +3,7 @@ title: "Hannah Arendt"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-30
+updated: 2026-08-08
 verified: 2026-05-30
 tags: [hannah-arendt, political-philosophy, totalitarianism, banality-of-evil, on-violence, the-human-condition, on-revolution, violence, power, republicanism, civic-humanism, continental-philosophy, non-libertarian]
 aliases: [Arendt, Hannah Arendt political philosophy]
@@ -66,15 +66,11 @@ Her value for this wiki is comparative. Arendt converges with libertarian source
 - [[violence-vs-power|Violence vs Power]] - reciprocal link.
 - [[vita-activa|Vita Activa]] - reciprocal link.
 
-
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - Arendt source currently present in the wiki; biographical context is included only to orient the author node

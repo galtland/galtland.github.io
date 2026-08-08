@@ -1,6 +1,7 @@
 ---
 title: "The Coordination Objection: A Reply to an Ex-Libertarian"
 volatility: warm
+category: thesis
 type: thesis
 created: 2026-07-22
 updated: 2026-08-05

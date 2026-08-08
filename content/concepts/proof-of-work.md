@@ -3,7 +3,7 @@ title: "Proof of Work"
 volatility: cold
 category: concept
 created: 2026-05-27
-updated: 2026-08-07
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [bitcoin, proof-of-work, hashcash, bit-gold, satoshi-nakamoto, cypherpunk]
 aliases: [PoW, proof-of-work, hash-based proof of work, cost function]
@@ -85,16 +85,12 @@ Proof of work is not free consensus. It burns energy, rewards specialized hardwa
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 
-
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - newsroom thesis backlink
 - [[byzantine-generals-and-double-spending|The Byzantine Generals Problem and Double-Spending]] - The problem Bitcoin solved: how a network of mutually-distrusting computers can agree on one ledger — and so stop a digital coin from being spent twice — without a trusted third party.
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
 - [[monero|Monero]] - The leading default-private cryptocurrency: Monero makes untraceability and unlinkability mandatory so every unit stays fungible
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://dspace.mit.edu/handle/1721.1/153030) - Lowery's thesis reading proof of work as physical power projection — the source for the Power Projection section

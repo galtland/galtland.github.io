@@ -3,7 +3,7 @@ title: "Hans-Hermann Hoppe"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-06-18
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [hoppe, austrian-economics, libertarianism, property-rights, democracy, regime-theory]
 aliases: [Hoppe, Hans Hoppe]
@@ -58,8 +58,6 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[libertarianism|Libertarianism]] - broader topic context
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - related concept
 
-
-
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the classical natural-law lineage behind Hoppe's "natural order"
 
@@ -76,8 +74,6 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[secession|Secession]]
 - [[ethics-vs-morality|Ethics vs Morality]]
 
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - his case that libertarians must be conservatives, in the spectrum debate
 - [[javier-milei|Javier Milei]]
 - [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]

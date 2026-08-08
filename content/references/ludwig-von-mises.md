@@ -3,7 +3,7 @@ title: "Ludwig von Mises"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-18
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [mises, austrian-economics, praxeology, classical-liberalism]
 aliases: [Ludwig Mises, Mises]
@@ -71,9 +71,7 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - related concept
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Mises's [[liberalism|Liberalism]] rent-ceiling and Vienna passages
 
-
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
-
 
 - [[2026-06-03-fomc-april-2026-rate-hold|The April 2026 FOMC Hold and Its Dissents: Administered Credit]] - newsroom thesis backlink
 
@@ -107,9 +105,6 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his regression theorem as the premise of the contested Bitcoin application
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - his account of how the word liberal was taken over by its opponents
 ## Sources
 

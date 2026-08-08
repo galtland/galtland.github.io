@@ -3,7 +3,7 @@ title: "The Sovereign Individual"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-08-07
+updated: 2026-08-08
 verified: 2026-06-26
 tags: [james-dale-davidson, william-rees-mogg, sovereign-individual, information-age, megapolitics, cybereconomy, digital-money, jurisdictional-competition, nation-state, cypherpunk, commercially-published, non-libertarian]
 aliases: [The Sovereign Individual, Mastering the Transition to the Information Age, Sovereign Individual, the sovereign individual thesis]
@@ -57,9 +57,6 @@ Confidence is medium: the book can be summarized faithfully and directly from th
 - [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
 - [[secession|Secession]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - [The Sovereign Individual (Full Text Aggregate)](https://archive.org/details/the-sovereign-individual-james-dale-davidson-william-rees-mogg) - full OCR text from the Internet Archive; Chapters 1 (the four stages and the Sovereign Individual), 6 (the megapolitics of the information age), 7 (the cybereconomy and cybercash), and 10-12 for the political consequences and the conclusion

@@ -3,7 +3,7 @@ title: "Capitalism and Freedom"
 volatility: cold
 category: reference
 created: 2026-06-16
-updated: 2026-06-18
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [milton-friedman, chicago-school, capitalism-and-freedom, classical-liberalism, competitive-capitalism, role-of-government, monetary-policy, k-percent-rule, school-vouchers, negative-income-tax, classical-liberal]
 aliases: [Capitalism and Freedom, Friedman Capitalism and Freedom]
@@ -45,9 +45,6 @@ This is the headline text of the Chicago counterpoint in [[austrian-economics-vs
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
-
-
-- [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]] - newsroom thesis backlink
 ## Sources
 
 - **Capitalism and Freedom (Full Text)** - Friedman's 1962 statement of Chicago classical liberalism; clean digital text from a user-provided PDF (© University of Chicago)
