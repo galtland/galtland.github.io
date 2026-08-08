@@ -24,7 +24,7 @@ This is the same Chaumian machinery that powered [[digital-cash-history|DigiCash
 
 ## Two Trust Models
 
-- **Cashu** uses **single-operator mints**. One operator runs the mint; users accept trust in that operator in exchange for simple setup and operation. Different Cashu mints experiment with different interfaces and integrations, and a user can spread risk across several small mints.
+- **Cashu** uses **single-operator mints**. One operator runs the mint; users accept trust in that operator in exchange for simple setup and operation. Different Cashu mints explore different trust models, user interfaces, and integration approaches.
 - **Fedimint** uses **federated custody**. Multiple *guardians* jointly control the deposited bitcoin through threshold signatures, so no single guardian can steal funds — a threshold must cooperate. This distributes the trust that Cashu concentrates in one operator, reducing single-point-of-failure risk while still falling short of self-custody.
 
 ## The Custody Tradeoff

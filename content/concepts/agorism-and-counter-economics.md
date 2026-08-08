@@ -3,7 +3,7 @@ title: "Agorism and Counter-Economics"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-08-06
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [samuel-edward-konkin, agorism, counter-economics, strategy, anarchism, black-market, grey-market, parallel-economy, libertarianism]
 summary: "Konkin's 1980 agorist strategy: grow the counter-economy — all peaceful exchange the state forbids, taxes, or regulates — until voluntary trade displaces the state. The strategy-by-exit answer to libertarian adoption, requiring no change in human nature; the ancestor of the cypherpunk parallel economy."
@@ -26,7 +26,7 @@ Konkin's wager is that the free society is reached by *doing* it, not by winning
 
 ## Why it fits the human-nature problem
 
-The standing objection to libertarianism — that it is correct but unadoptable because people will not rally to it the way they rally to a nation — agorism sidesteps rather than answers. It does not need mass ideological conversion or a shared identity; it needs people to keep trading, and to move more of their trade outside the state's observation. That reframes "winning" from persuasion to participation, which is also why it is the natural ancestor of the cypherpunk [[parallel-economy|Parallel Economy]]: [[max-hillebrand|Hillebrand]] updates Konkin's counter-economy with a cryptographic stack that makes the trade unobservable and therefore coercion uneconomic. It is the practical, do-it-now cousin of [[crypto-anarchy|Crypto Anarchy]] and shares the institutional endpoint of [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
+The standing objection to libertarianism — that it is correct but unadoptable because people will not rally to it the way they rally to a nation — agorism sidesteps rather than answers. It does not need mass ideological conversion or a shared identity; it needs people to keep trading, and to move more of their trade outside the state's observation. That reframes "winning" from persuasion to participation, which is also why it is the natural ancestor of the cypherpunk [[parallel-economy|Parallel Economy]]: [[max-hillebrand|Hillebrand]] updates Konkin's counter-economy with a cryptographic stack whose argument is about cost rather than invisibility: when observation becomes expensive enough, "the entire attack cycle becomes uneconomical." It is the practical, do-it-now cousin of [[crypto-anarchy|Crypto Anarchy]] and shares the institutional endpoint of [[market-anarchism-and-private-law|Market Anarchism and Private Law]].
 
 ## Relation to the obedience problem
 
@@ -52,9 +52,10 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 - [[samuel-edward-konkin-iii|Samuel Edward Konkin III]] - Short author reference for Samuel Edward Konkin III, the market-anarchist theorist who founded agorism and counter-economics and wrote the New Libertarian Manifesto.
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
-- [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
+- [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network states).
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 
 ## Sources
 
 - [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto) - Konkin's 1980 founding statement of agorism and counter-economics
+- [The Praxeology of Privacy](https://towardsliberty.com/pop) - Hillebrand's cryptographic update of the counter-economy, and the cost argument that observation expensive enough makes the attack cycle uneconomical

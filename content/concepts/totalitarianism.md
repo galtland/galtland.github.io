@@ -3,7 +3,7 @@ title: "Totalitarianism"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-08-06
+updated: 2026-08-08
 verified: 2026-06-09
 tags: [totalitarianism, hannah-arendt, ideology, terror, mass-society, nazism, stalinism, gulag, total-domination, banality-of-evil, state, central-planning, evolution-of-the-state, non-libertarian]
 aliases: [totalitarian rule, ideology and terror]
@@ -93,7 +93,7 @@ The useful synthesis is limited: libertarian sources explain why state monopoly 
 - [[state-of-exception|State of Exception]] - reciprocal link.
 - [[the-human-condition|The Human Condition]] - reciprocal link.
 - [[anthem|Anthem]] - Rand's 1938 anti-collectivist novella about a future that erased the word "I"
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Whether a state can suppress organized crime turns on its capacity, centralization, and willingness to override rights — not the size of the country. Large total-coercion states (China
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Whether a state can suppress organized crime turns on its capacity, centralization, and willingness to override rights — not the size of the country. Large total-coercion states (China, the USSR) suppress crime and dissent alike, while large rights-constrained federal states (Brazil, the United States) coexist with entrenched organized crime.
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
 ## Sources

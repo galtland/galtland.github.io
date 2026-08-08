@@ -3,7 +3,7 @@ title: "Jurisdictional Competition"
 volatility: warm
 category: concept
 created: 2026-06-09
-updated: 2026-08-06
+updated: 2026-08-08
 verified: 2026-06-09
 tags: [jurisdictional-competition, sovereignty-services, james-dale-davidson, william-rees-mogg, sovereign-individual, frederic-lane, nation-state, taxation, governments-as-firms]
 aliases: [jurisdictional competition, interjurisdictional competition, sovereignty services, governments as firms, citizens as customers, government controlled by its customers]
@@ -14,7 +14,7 @@ short: "Davidson and Rees-Mogg's claim that mobile cyberwealth forces government
 
 # Jurisdictional Competition
 
-> Jurisdictional competition, in [[james-dale-davidson|Davidson]] and [[william-rees-mogg|Rees-Mogg]]'s [[the-sovereign-individual|The Sovereign Individual]], is the prediction that once wealth and talent can move freely between territories, governments must compete for residents the way firms compete for customers. As the authors put it, governments "will have little choice but to treat populations in territories they serve more like customers, and less in the way that organized criminals treat the victims of a shakedown racket."
+> Jurisdictional competition, in [[james-dale-davidson|Davidson]] and [[william-rees-mogg|Rees-Mogg]]'s [[the-sovereign-individual|The Sovereign Individual]], is the prediction that once wealth and talent can move freely between territories, governments must compete for residents the way firms compete for customers. As the authors put it, governments "will ultimately have little choice but to treat populations in territories they serve more like customers, and less in the way that organized criminals treat the victims of a shakedown racket."
 
 ## From Subjects to Customers
 
@@ -50,7 +50,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - incentive analysis matching Lane's "employee-controlled" government
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
-- [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
+- [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network states).
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
 - [[john-perry-barlow|John Perry Barlow]]
 - [[secession|Secession]]

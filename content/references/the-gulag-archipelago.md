@@ -3,7 +3,7 @@ title: "The Gulag Archipelago"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-06-18
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [aleksandr-solzhenitsyn, gulag, soviet-union, stalinism, totalitarianism, mass-terror, labor-camps, ideology, dissident-literature, abridged, unabridged, non-libertarian]
 aliases: [Gulag Archipelago, The Gulag Archipelago 1918-1956, Gulag]
@@ -49,7 +49,7 @@ This does not make Solzhenitsyn a libertarian. His later political and religious
 - [[state-power-and-intervention|State Power and Intervention]] - broader state-power article now including the totalitarian pole
 - [[libertarianism|Libertarianism]] - topic map that uses this source only as non-libertarian testimony on totalitarian rule
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - reciprocal link.
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Whether a state can suppress organized crime turns on its capacity, centralization, and willingness to override rights — not the size of the country. Large total-coercion states (China
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Whether a state can suppress organized crime turns on its capacity, centralization, and willingness to override rights — not the size of the country. Large total-coercion states (China, the USSR) suppress crime and dissent alike, while large rights-constrained federal states (Brazil, the United States) coexist with entrenched organized crime.
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 
 ## Sources

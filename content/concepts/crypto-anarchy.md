@@ -3,7 +3,7 @@ title: "Crypto Anarchy"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-08-05
+updated: 2026-08-08
 verified: 2026-06-18
 tags: [cypherpunk, crypto-anarchy, cryptography, privacy, state-power, libertarianism]
 aliases: [Crypto-Anarchy, crypto anarchism, crypto anarchist thesis, Crypto Anarchist Manifesto, The Crypto Anarchist Manifesto]
@@ -84,7 +84,7 @@ The confidence level is medium because the article describes May's thesis accura
 - [[b-money|b-money]] - Wei Dai's 1998 proposal for pseudonymous digital money with proof-of-work issuance, signed broadcast transfers, and bonded contracts
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[censorship-resistance|Censorship Resistance]] - The property of a system that no gatekeeper can block — a payment no bank can freeze, a message no platform can delete
-- [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network
+- [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network states).
 - [[meditations-on-cypherpunk-nightmares|Meditations on Cypherpunk Nightmares]] - Goldstein's 2014 essay reads Tim May's crypto anarchy through the Stoics: anonymous information markets make leaks inevitable, so live as though your secrets are already public.
 - [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
 - [[julian-assange|Julian Assange]] - Founder of WikiLeaks; founding-generation cypherpunk whose 2006 conspiracy essays theorized leaks as a secrecy tax on unjust regimes
@@ -100,4 +100,4 @@ The confidence level is medium because the article describes May's thesis accura
 ## Sources
 
 - [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) - 1988 statement of the thesis, state-conflict forecast, and barbed-wire metaphor
-- [The Cyphernomicon: Full Text](https://nakamotoinstitute.org/library/cyphernomicon/) - especially Sections 4, 9, 12, and 16 on strong crypto, digital cash, policy conflict, and crypto anarchy
+- [The Cyphernomicon: Full Text](https://nakamotoinstitute.org/library/cyphernomicon/) - especially Sections 6, 9, 12, and 16 on strong crypto, policy conflict, digital cash, and crypto anarchy
