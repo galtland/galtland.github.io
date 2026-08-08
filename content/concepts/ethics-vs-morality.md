@@ -3,7 +3,7 @@ title: "Ethics vs Morality"
 volatility: cold
 category: concept
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-08
 verified: 2026-07-27
 confidence: high
 tags: [ethics, morality, moralitat, sittlichkeit, hegel, aristotle, natural-law, nonaggression-principle, argumentation-ethics, terminology, meta-ethics]
@@ -42,7 +42,7 @@ The honest caveat is that the division of labour is a convention of use, not a f
 
 > Morality and ethical observance, which are usually supposed to mean the same thing, are here taken in essentially different meanings. Meanwhile even imaginative thought seems to make a distinction between them.
 >
-> — G. W. F. Hegel, *Philosophy of Right*, trans. S. W. Dyde (1896)
+> — [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
 
 The distinction is a permission the philosopher takes, not a fact about the language: conceding the shared etymology, the same note holds that "these different words may be used for different conceptions". It also fixes the opposing pole — "In the usage of Kant the preference is given to the term morality", Hegel observes, and Kant's practical principles confine themselves wholly to that standpoint, "making impossible the standpoint of ethical observance, and indeed expressly destroying and abolishing it".
 
@@ -50,7 +50,7 @@ The distinction is a permission the philosopher takes, not a fact about the lang
 
 > But conscience is aware of itself as thought, and knows that my thought is for me the only thing that is binding.
 >
-> — Addition (compiled from student lecture records), in G. W. F. Hegel, *Philosophy of Right*, trans. S. W. Dyde (1896)
+> — Addition (compiled from student lecture records), in [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
 
 Yet taken alone the standpoint never escapes inwardness. A conscience that appeals only to itself has no content it did not put there: at the merely formal standpoint it is "devoid of objective content", "merely an infinite certitude of itself".
 
@@ -58,7 +58,7 @@ Yet taken alone the standpoint never escapes inwardness. A conscience that appea
 
 > The ethical, when simply identical with the reality of individuals, appears as a generally adopted mode of action, or an observance. This is the custom, which as a second nature has been substituted for the original and merely natural will, and has become the very soul, meaning, and reality of one's daily life.
 >
-> — G. W. F. Hegel, *Philosophy of Right*, trans. S. W. Dyde (1896)
+> — [[g-w-f-hegel|G. W. F. Hegel]], [[philosophy-of-right|Philosophy of Right]], trans. S. W. Dyde (1896)
 
 This substance exists in three concrete institutions: the family; the civic community — Dyde's rendering of what later translations call civil society, which an Addition notes "has frequently been taken for the state" although "the state does not arise until we reach the third stage"; and the state itself. And the two spheres are ranked, not merely juxtaposed. The same Addition holds that "Morality, like formal right, is also an abstraction, whose truth is reached only in ethical observance"; in Hegel's own text the "objective system of rules and duties and the union of them with the subjective consciousness appear first in the sphere of ethical observance"; and neither pole stands alone — a further Addition puts it that "In right is wanting the element of subjectivity, and in morality is wanting the objective, so that neither by itself has any actuality." To a father asking the best way to bring up his son, a Pythagorean in Hegel's anecdote replies: "Make him a citizen of a state which has good laws."
 

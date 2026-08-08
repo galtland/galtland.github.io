@@ -3,7 +3,7 @@ title: "The Gold Standard"
 volatility: warm
 category: concept
 created: 2026-07-15
-updated: 2026-08-06
+updated: 2026-08-08
 verified: 2026-08-03
 tags: [gold-standard, hard-money, sound-money, mises, ammous, friedman, monetary-history, bretton-woods, federal-reserve, fiat, bitcoin, austrian-economics, regression-theorem]
 aliases: [gold standard, the gold standard, classical gold standard, gold-exchange standard, gold coin standard]
@@ -46,7 +46,7 @@ For the Austrians the whole point of gold is that it binds the government. Becau
 
 > The gold standard makes the determination of money’s purchasing power independent of the changing ambitions and doctrines of political parties and pressure groups. This is not a defect of the gold standard; it is its main excellence.
 >
-> — Mises, *Human Action*
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]]
 
 That inversion is the crux of the Austrian defense: what critics count as gold's rigidity, Mises counts as its function. He read the metallic standard's very emergence as a political defeat — "The emergence of the gold standard was the manifestation of a crushing defeat of the governments and their cherished doctrines" — and dismissed the appetite for paper substitutes as "the superstition that omnipotent governments can create wealth out of little scraps of paper." The argument connects directly to the broader sound-money tradition: [[the-mystery-of-banking|Rothbard's 100%-reserve gold program]] pushes it furthest, insisting that only fully-backed commodity money is sound and that fractional-reserve claims debase the underlying metal.
 

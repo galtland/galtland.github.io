@@ -4,7 +4,7 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-08
 verified: 2026-07-02
 tags: [thesis, bitcoin, cypherpunk, agorism, sovereign-individual, monopoly-on-violence, self-custody, crypto-anarchy, mises-wire, individual-vs-collective, iran, venezuela]
 aliases: [Bitcoin is not freedom, bitcoin individual vs collective, delusion of digital escape, response to Soleimani, does bitcoin liberate]
@@ -41,7 +41,7 @@ Most tellingly, Soleimani quotes Rothbard's own critique of Konkin's counter-eco
 
 > . . .black marketeers might well benefit themselves in the micro sense, but they have no relevance to the “macro” struggle for liberty and against the State.
 >
-> — Murray Rothbard, quoted in Soleimani, “Bitcoin Is Not Freedom”
+> — [[murray-n-rothbard|Murray Rothbard]], quoted in Soleimani, “Bitcoin Is Not Freedom”
 
 That sentence is the hinge of the whole dispute — and, read carefully, it is where the critique quietly gives the game away.
 

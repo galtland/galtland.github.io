@@ -3,7 +3,7 @@ title: "The Regression Theorem"
 volatility: cold
 category: concept
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-08-08
 verified: 2026-07-15
 tags: [regression-theorem, mises, menger, austrian-economics, money, purchasing-power, saleableness, origin-of-money, sound-money, marginal-utility, bitcoin, hard-money]
 aliases: [regression theorem, Mises's regression theorem, regression theorem of money, Misesian regression theorem, Mises regression theorem]
@@ -26,13 +26,13 @@ The resolution turns on a distinction the critics slid past. The purchasing powe
 
 > It is erroneous to object to our theorem, which may be called the regression theorem, that it moves in a vicious circle.
 >
-> — Mises, *Human Action*
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]]
 
 The 1912 [[the-theory-of-money-and-credit|The Theory of Money and Credit]] — where the argument first appears, as the "Element of Continuity in the value of money" — states the same linkage in period language:
 
 > The money-prices of to-day are linked with those of yesterday and before, and with those of to-morrow and after.
 >
-> — Mises, *The Theory of Money and Credit*
+> — [[ludwig-von-mises|Mises]], [[the-theory-of-money-and-credit|The Theory of Money and Credit]]
 
 ## Why the Regress Terminates
 
@@ -40,13 +40,13 @@ The natural rejoinder is that this merely postpones the problem: explain yesterd
 
 > What these critics fail to see is that the regression does not go back endlessly. It reaches a point at which the explanation is completed and no further question remains unanswered.
 >
-> — Mises, *Human Action*
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]]
 
 Trace money's purchasing power back step by step and you arrive at the moment the good first served as a medium of exchange. At that moment its exchange value was fixed *purely* by non-monetary — industrial, ornamental, use — demand, by people who wanted the good for other employments. *The Theory of Money and Credit* frames the terminus as the boundary of the theory itself: "The theory of the value of money as such can trace back the objective exchange-value of money only to that point where it ceases to be the value of money and becomes merely the value of a commodity." Beyond that point the general theory of value takes over, because "The earliest value of money links up with the commodity-value of the monetary material." The corollary is the theorem's most-quoted line, the one every downstream Austrian argument leans on:
 
 > ...no good can be employed for the function of a medium of exchange which at the very beginning of its use for this purpose did not have exchange value on account of other employments.
 >
-> — Mises, *Human Action*
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]]
 
 ## Menger's Saleableness: The Ancestry
 
@@ -54,7 +54,7 @@ Mises did not start from nothing; he extended Menger backward in time. Menger's 
 
 > ...the almost unlimited saleableness of money is only a special case,—presenting only a difference of degree—of a generic phenomenon of economic life—namely, the difference in the saleableness of commodities in general.
 >
-> — Menger, *On the Origins of Money*
+> — [[carl-menger|Menger]], *On the Origins of Money*
 
 Menger explains how money *emerges* from the most saleable commodity; Mises adds that money's *value* must trace back to that same commodity origin. The two halves lock together. [[nick-szabo|Nick Szabo]] later carried the saleableness story into anthropology and then digital scarcity — see [[shelling-out|Shelling Out]].
 
@@ -64,7 +64,7 @@ The theorem is frequently overread. It is an *entry* or *existence* theorem: it 
 
 > It merely explains how a new kind of media of exchange can come into use and remain in use. In this sense it says that there is a historical component in money’s purchasing power.
 >
-> — Mises, *Human Action*
+> — [[ludwig-von-mises|Mises]], [[human-action|Human Action]]
 
 Today's price level is fixed by today's money relation; the theorem only insists that this whole apparatus had to have a non-monetary starting point. Confusing the historical entry-condition with the daily mechanism is the most common error made in the theorem's name.
 

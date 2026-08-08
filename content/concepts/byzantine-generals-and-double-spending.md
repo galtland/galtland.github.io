@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-08
 verified: 2026-07-03
 tags: [byzantine-generals, double-spending, nakamoto-consensus, proof-of-work, bitcoin, distributed-consensus, trusted-third-parties, satoshi-nakamoto, cypherpunk]
 aliases: [Byzantine Generals Problem, double-spending, double spend, Nakamoto consensus, distributed consensus, the double-spend problem]
@@ -23,7 +23,7 @@ Cash solves double-spending physically: handing you a coin means I no longer hav
 
 > We propose a solution to the double-spending problem using a peer-to-peer network.
 >
-> — [[satoshi-nakamoto|Satoshi Nakamoto]], *Bitcoin: A Peer-to-Peer Electronic Cash System*
+> — [[satoshi-nakamoto|Satoshi Nakamoto]], [[bitcoin-whitepaper|Bitcoin: A Peer-to-Peer Electronic Cash System]]
 
 ## The Byzantine Generals framing
 

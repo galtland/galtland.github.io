@@ -3,7 +3,7 @@ title: "Monero"
 volatility: warm
 category: concept
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-08-08
 verified: 2026-07-15
 tags: [monero, zcash, privacy-coins, fungibility, ring-signatures, zk-snarks, cryptonote, zerocash, stealth-addresses, ringct, censorship-resistance, cypherpunk, digital-cash]
 aliases: [Monero, XMR, Zcash, ZEC, privacy coins, privacy-coins]
@@ -40,7 +40,7 @@ Zcash is the first deployment (2016) of the [[zerocash|Zerocash]] scheme by Ben-
 
 > Anonymous transactions also ensure that the market value of a coin is independent of its history, thus ensuring that legitimate users' coins remain fungible.
 >
-> — Ben-Sasson et al., *Zerocash*
+> — Ben-Sasson et al., [[zerocash|Zerocash]]
 
 The catch is optionality. Zcash keeps transparent (t-address) and shielded (z-address) funds side by side, and for much of its history most value stayed transparent. Strong hiding over a small shielded pool means a *thin* anonymity set — which weakens fungibility precisely where Monero's mandatory design strengthens it. Early Zcash also required a trusted-setup ceremony to generate its parameters, the notorious toxic-waste problem: whoever kept the secret could counterfeit coins undetectably, though not de-anonymize anyone — a risk later engineering removed with the Halo 2 upgrade in 2022. Viewing keys, like CryptoNote's tracking key, provide selective disclosure. The Zerocash authors reported the scheme was already practical at deployment scale, with sub-kilobyte transactions verifying in a few milliseconds.
 
