@@ -3,7 +3,7 @@ title: "Nicomachean Ethics"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-08-06
+updated: 2026-08-09
 verified: 2026-06-09
 tags: [aristotle, natural-law, natural-justice, classical-canon, nicomachean-ethics, virtue-ethics, justice, teleology, eudaimonia]
 aliases: [Nicomachean Ethics, Ethics, Nichomachean Ethics, Aristotle's Ethics]
@@ -18,9 +18,9 @@ short: "Aristotle's ethics; Book V's distinction between natural and conventiona
 
 ## Natural vs. Conventional Justice
 
-In Book V Aristotle divides "political justice" into two kinds: "natural and conventional; the former being that which has everywhere the same force and does not depend upon being received or not; the latter being that which originally may be this way or that indifferently" until fixed by enactment (his examples: the price of a ransom, which animals to sacrifice). 
+In Book V Aristotle divides what this translation calls "the Social Just" into two kinds: "natural and conventional; the former being that which has everywhere the same force and does not depend upon being received or not; the latter being that which originally may be this way or that indifferently" until fixed by enactment (his examples: the price of a ransom, which animals to sacrifice). 
 
-Aristotle answers the skeptic who says *all* justice is merely conventional — because the just "is seen to change" from place to place — by insisting that "even amongst ourselves there is somewhat existing by nature", distinguishable in principle from what is merely enacted. This is the seed of the entire tradition: the claim that beneath the variety of human laws there is a standard *by nature* against which they can be measured. [[cicero|Cicero]], [[thomas-aquinas|Aquinas]], and the Scholastics all build on this distinction.
+Aristotle answers the skeptic who says *all* justice is merely conventional — because "the Justs they see changed in various places" — by insisting that "even amongst ourselves there is somewhat existing by nature", distinguishable in principle from what is merely enacted. This is the seed of the entire tradition: the claim that beneath the variety of human laws there is a standard *by nature* against which they can be measured. [[cicero|Cicero]], [[thomas-aquinas|Aquinas]], and the Scholastics all build on this distinction.
 
 ## The Teleological Frame
 
@@ -41,4 +41,4 @@ Aristotle is the **root** of the lineage, not a libertarian: his ethics is one o
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics (Full Text)](https://www.gutenberg.org/ebooks/8438) - Book V, natural vs. conventional justice; the teleological framework throughout; Peters 1893 translation
+- [Aristotle, Nicomachean Ethics (Full Text)](https://www.gutenberg.org/ebooks/8438) - Book V, natural vs. conventional justice; the teleological framework throughout; Chase translation (PG #8438; the Peters label this wiki previously used was wrong)

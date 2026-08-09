@@ -3,7 +3,7 @@ title: "The Gold Standard"
 volatility: warm
 category: concept
 created: 2026-07-15
-updated: 2026-08-08
+updated: 2026-08-09
 verified: 2026-08-03
 tags: [gold-standard, hard-money, sound-money, mises, ammous, friedman, monetary-history, bretton-woods, federal-reserve, fiat, bitcoin, austrian-economics, regression-theorem]
 aliases: [gold standard, the gold standard, classical gold standard, gold-exchange standard, gold coin standard]
@@ -60,7 +60,7 @@ The case against gold deserves a fair hearing, and it comes from free-market eco
 
 **The "golden fetters" thesis.** The mainstream verdict runs harder still. [[joseph-t-salerno|Salerno]] quotes Eichengreen's own summary of the thesis in order to argue against it.
 
-> The gold standard of the 1920s set the stage for the Depression of the 1930s by heightening the fragility of the international financial system. The gold standard was the mechanism transmitting the destabilizing impulse from the United States to the rest of the world. The gold standard magnified that initial destabilizing shock. ...
+> The gold standard of the 1920s set the stage for the Depression of the 1930s by heightening the fragility of the international financial system. The gold standard was the mechanism transmitting the destabilizing impulse from the United States to the rest of the world. The gold standard magnified that initial destabilizing shock. … Recovery proved possible, for these same reasons, only after abandoning the gold standard.
 >
 > — [[barry-eichengreen|Barry Eichengreen]], [[golden-fetters|Golden Fetters]], as quoted in [[joseph-t-salerno|Salerno]], [[money-sound-and-unsound|Money, Sound and Unsound]]
 
@@ -107,5 +107,5 @@ Whether *digital gold* truly succeeds gold is contested, and it reopens the very
 - [Roosevelt's Gold Program (Federal Reserve History)](https://www.federalreservehistory.org/essays/roosevelts-gold-program) - the Fed's account of the 1933-34 phases and the scholarship on recovery after suspension and reflation
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - Mises on the definition of the gold standard, its "main excellence", and the rejoinder that only a sabotaged standard fails.
-- [The Bitcoin Standard (Full Text Aggregate)](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - Ammous on the historical arc (1933 gold ban, Bretton Woods, the 1971 default) and Bitcoin as digital gold. The \$20.67→\$35 devaluation, the 1913 Federal Reserve creation, and the 1944/1971 dates are drawn from this narrative (Ammous's text misnames the 1914-era war as WWII at one point; the 1914 Fed inflation is WWI-era and is stated as such here).
+- [The Bitcoin Standard (Full Text Aggregate)](https://archive.org/details/the-bitcoin-standard-the-decentralized-alternative-to-central-banking_202205) - Ammous on the historical arc (1933 gold ban, Bretton Woods, the 1971 default) and Bitcoin as digital gold. The \$20.67→\$35 devaluation and the 1944/1971 dates are drawn from this narrative. The body's 1913 Federal Reserve date is not: Ammous writes "Established in 1914, the U.S. Federal Reserve" and dates the inflationism to 1914. Both are defensible — the Act was signed in December 1913, the Reserve Banks opened in 1914 — but the body follows the founding date rather than this source, and should not be cited to it. (Ammous's text also misnames the 1914-era war as WWII at one point; that inflation is WWI-era and is stated as such here.)
 - **Friedman, Capitalism and Freedom (Full Text)** - the Chicago critique: why a full automatic gold standard "has historically never proved feasible" and drifts into state-managed mixed standards.

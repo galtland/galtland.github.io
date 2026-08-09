@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-03
-updated: 2026-08-08
+updated: 2026-08-09
 verified: 2026-07-03
 tags: [byzantine-generals, double-spending, nakamoto-consensus, proof-of-work, bitcoin, distributed-consensus, trusted-third-parties, satoshi-nakamoto, cypherpunk]
 aliases: [Byzantine Generals Problem, double-spending, double spend, Nakamoto consensus, distributed consensus, the double-spend problem]
@@ -31,7 +31,7 @@ The deeper problem is one of *consensus among the untrusting* — the Byzantine 
 
 ## Nakamoto consensus
 
-Bitcoin's solution ties agreement to physical cost. Transactions are gathered into blocks, and each block is valid only if it carries a [[proof-of-work|proof of work]] — the solution to a computational puzzle that takes real energy to find. Nodes always treat the *longest* chain, the one with the most accumulated work, as the truth, and extend it. To rewrite a confirmed transaction — to double-spend — an attacker would have to produce an alternative chain with more accumulated work than the honest network's, which in the usual case means commanding a majority of the honest network's hashpower (a "51% attack"), though a smaller attacker can also succeed by a lucky catch-up from behind. Because outpacing the network is ruinously expensive and grows more so with each confirmation, honest behavior is the profitable strategy and agreement emerges without anyone being in charge. The security rests on [[unforgeable-costliness|unforgeable costliness]]: the ledger is expensive to write and therefore expensive to falsify.
+Bitcoin's solution ties agreement to physical cost. Transactions are gathered into blocks, and each block is valid only if it carries a [[proof-of-work|proof of work]] — the solution to a computational puzzle that takes real energy to find. Nodes always treat the *longest* chain, the one with the most accumulated work, as the truth, and extend it. To rewrite a confirmed transaction — to double-spend — an attacker would have to produce an alternative chain with more accumulated work than the honest network's, which in the usual case means assembling "more CPU power than all the honest nodes" combined — a majority of total hashpower, which is what the "51%" in "51% attack" names, though a smaller attacker can also succeed by a lucky catch-up from behind. Because outpacing the network is ruinously expensive and grows more so with each confirmation, honest behavior is the profitable strategy and agreement emerges without anyone being in charge. The security rests on [[unforgeable-costliness|unforgeable costliness]]: the ledger is expensive to write and therefore expensive to falsify.
 
 ## Why it mattered
 

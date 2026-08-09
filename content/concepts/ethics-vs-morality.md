@@ -3,7 +3,7 @@ title: "Ethics vs Morality"
 volatility: cold
 category: concept
 created: 2026-07-27
-updated: 2026-08-08
+updated: 2026-08-09
 verified: 2026-07-27
 confidence: high
 tags: [ethics, morality, moralitat, sittlichkeit, hegel, aristotle, natural-law, nonaggression-principle, argumentation-ethics, terminology, meta-ethics]
@@ -126,7 +126,7 @@ What survives every choice of vocabulary is the question the two words are used 
 
 ## Sources
 
-- [The Nicomachean Ethics of Aristotle (Full Text)](https://www.gutenberg.org/ebooks/8438) - F. H. Peters's 1893 translation. Book II on moral virtue as the product of custom and the derivation of its name; Book I on the variability of the subject matter; Book V on natural versus conventional justice and the fire-in-Persia objection
+- [The Nicomachean Ethics of Aristotle (Full Text)](https://www.gutenberg.org/ebooks/8438) - D. P. Chase's translation (Project Gutenberg #8438, which credits no translator; the Peters attribution this file previously carried was wrong). Book II on moral virtue as the product of custom and the derivation of its name; Book I on the variability of the subject matter; Book V on natural versus conventional justice and the fire-in-Persia objection
 - [Hegel's Philosophy of Right (Full Text, Dyde translation)](https://archive.org/details/cu31924014578979) - S. W. Dyde's 1896 translation, an OCR scan; quotations verified character by character against Dyde's wording, not Knox's later rendering. The division of the work and its note stipulating the morality/ethical-observance distinction; the Second Part on morality and conscience; the Third Part on ethical observance, custom as second nature, and the family, civic community, and state
 - [The Ethics of Liberty (Full Text)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - the preface on political philosophy as a subset of ethics; Part I on natural law established through reason and set against custom and positive law; the self-ownership axiom and the slavery case; Hoppe's introduction on the possibility of rational ethics
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - the realm-of-morals-or-ethics passage and the demand for a cognitive theory of ethics; the chapter on the ultimate justification of the ethics of private property; the a priori defense of the nonaggression principle; the recorded objections and replies
