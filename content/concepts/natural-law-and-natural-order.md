@@ -3,7 +3,7 @@ title: "Natural Law and Natural Order"
 volatility: cold
 category: concept
 created: 2026-06-09
-updated: 2026-08-07
+updated: 2026-08-09
 verified: 2026-06-25
 tags: [natural-law, natural-order, natural-rights, natural-justice, classical-canon, aristotle, cicero, thomas-aquinas, hugo-grotius, john-locke, lysander-spooner, rothbard, hoppe, jusnaturalism, classical-liberalism, libertarianism]
 aliases: [natural law, natural order, natural rights, natural justice, jus naturale, lex naturalis, the law of nature, jusnaturalism]
@@ -54,7 +54,7 @@ It is not the only branch. The wiki's [[liberalism|Mises]] deliberately *rejecte
 
 ## Critiques
 
-The tradition is contested. **Hume's is/ought gap** challenges any inference from what is natural to what ought to be done. **Legal positivism** (Bentham, who derided natural rights as nonsense; Austin, for whom "law" just means the sovereign's command; later Kelsen and Hart) holds that law and morality are separate, denying Aquinas's claim that an unjust law is no law. (Hart refined the tradition — replacing Austin's command-of-the-sovereign model with a "rule of recognition" — while keeping the separation of law and morals.) Within the libertarian camp, **[[ludwig-von-mises|Mises]] and the consequentialists** regard natural-rights talk as unscientific, while **Hoppe** tries to escape the is/ought problem altogether by replacing natural-rights intuition with *argumentation ethics* (a transcendental, not natural-law, argument). The natural-law claim is therefore best read as one powerful foundation for libertarian conclusions, not the only one or an uncontested one.
+The tradition is contested. **Hume's is/ought gap** challenges any inference from what is natural to what ought to be done. **Legal positivism** (Bentham, who derided natural rights as nonsense; Austin, for whom "law" just means the sovereign's command; later Kelsen and Hart) holds that law and morality are separate, denying Aquinas's claim that an unjust law is no law. (Hart refined the tradition — replacing Austin's command-of-the-sovereign model with a *rule of recognition* — while keeping the separation of law and morals.) Within the libertarian camp, **[[ludwig-von-mises|Mises]] and the consequentialists** regard natural-rights talk as unscientific, while **Hoppe** tries to escape the is/ought problem altogether by replacing natural-rights intuition with *argumentation ethics* (a transcendental, not natural-law, argument). The natural-law claim is therefore best read as one powerful foundation for libertarian conclusions, not the only one or an uncontested one.
 
 ## See Also
 

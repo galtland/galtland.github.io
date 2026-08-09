@@ -3,7 +3,7 @@ title: "Stateless Somalia"
 volatility: warm
 category: concept
 created: 2026-06-07
-updated: 2026-08-06
+updated: 2026-08-09
 verified: 2026-06-26
 tags: [peter-leeson, somalia, anarchy, statelessness, anarcho-capitalism, predatory-state, public-goods, development-economics]
 summary: "Leeson's empirical finding that post-1991 stateless Somalia outperformed its predatory predecessor government on nearly all of 18 welfare indicators — the canonical case that anarchy can beat a sufficiently predatory state."
@@ -48,4 +48,4 @@ This is descriptive development economics, not anarcho-capitalist political theo
 
 ## Sources
 
-- [Better Off Stateless: Somalia Before and After Government Collapse](https://www.peterleeson.com/Better_Off_Stateless.pdf) - Leeson's 2007 paper; the 18-indicator comparison and the "did more harm than good" verdict
+- [Better Off Stateless: Somalia Before and After Government Collapse](https://www.peterleeson.com/Better_Off_Stateless.pdf) - Leeson's 2007 paper; the 18-indicator comparison and the finding that Somalis are "better off under anarchy than they were under government"

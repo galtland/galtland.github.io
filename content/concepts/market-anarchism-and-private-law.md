@@ -3,7 +3,7 @@ title: "Market Anarchism and Private Law"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-08-08
+updated: 2026-08-09
 verified: 2026-06-09
 tags: [market-anarchism, private-law, arbitration, defense-agencies, classical-liberalism]
 aliases: [anarcho-capitalism, private law society, market provision of law]
@@ -55,7 +55,7 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the strategy-by-exit route toward this stateless order
-- [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's "sovereignty services" forecast approaching competitive provision of law and protection
+- [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's *sovereignty services* forecast approaching competitive provision of law and protection
 - [[spooner-natural-law|Natural Law; or The Science of Justice]] - Spooner's natural-rights case against legislation, ancestor of market-anarchist law
 - [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft

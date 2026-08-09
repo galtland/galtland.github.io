@@ -3,7 +3,7 @@ title: "Rights of Man"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-09
 verified: 2026-06-09
 tags: [thomas-paine, natural-law, natural-rights, classical-canon, rights-of-man, edmund-burke, french-revolution, consent, republicanism, american-founding]
 aliases: [Rights of Man, The Rights of Man, Paine's Rights of Man]
@@ -18,7 +18,7 @@ short: "Paine's 1791–92 reply to Burke: natural rights for the democratic age 
 
 ## The Argument
 
-Against Burke's defense of inherited authority and the "wisdom of ages," Paine grounds legitimacy in **natural rights** that belong to each living person:
+Against Burke's defense of inherited authority — government "is a contrivance of human wisdom", as Paine quotes him — Paine grounds legitimacy in **natural rights** that belong to each living person:
 
 > "Natural rights are those which appertain to man in right of his existence. Of this kind are all the intellectual rights, or rights of the mind, and also all those rights of acting as an individual for his own comfort and happiness, which are not injurious to the natural rights of others."
 >

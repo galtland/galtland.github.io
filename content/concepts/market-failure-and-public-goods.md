@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-09
 verified: 2026-07-02
 tags: [market-failure, public-goods, externalities, natural-monopoly, asymmetric-information, welfare-economics, government-failure, pigou, coase, objections]
 aliases: [Market Failure, market failure, public goods, externalities, natural monopoly, asymmetric information, the case for intervention]
@@ -41,7 +41,7 @@ A natural monopoly is said to arise where economies of scale are so large that o
 
 ## Asymmetric information
 
-If one side of a transaction knows more than the other — the used-car seller, the borrower, the insured — markets are said to fail: good products are driven out by bad ("the market for lemons"), and regulation, licensing, or disclosure mandates are offered as the cure.
+If one side of a transaction knows more than the other — the used-car seller, the borrower, the insured — markets are said to fail: good products are driven out by bad (Akerlof's *market for lemons*), and regulation, licensing, or disclosure mandates are offered as the cure.
 
 **The reply.** Libertarians argue that markets generate their own remedies for information problems — repeat purchase, brands and reputation, word of mouth, and consumer-research organizations — precisely because sellers profit by credibly signaling quality, and that mandatory licensing tends to be captured by incumbents to raise rivals' costs rather than to protect consumers (again the [[crony-capitalism|crony-capitalism]] pattern). Fraud, where it occurs, is a violation of rights the law should punish, not a market outcome to be managed.
 

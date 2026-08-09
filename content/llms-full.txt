@@ -1588,7 +1588,7 @@ The canonical Austrian statement is Mises's, in [[the-theory-of-money-and-credit
 >
 > — [[ludwig-von-mises|Ludwig von Mises]], [[the-theory-of-money-and-credit|The Theory of Money and Credit]]
 
-The conditional ("if credit means…") is the form Mises uses to state his own preferred definition: credit, *in the economic sense*, is the exchange of a present good or service for a future good or service. Mises uses this same definition to *include* ordinary purchase-on-credit and lending and to *exclude* deposits-against-redeemable-claims — they look juristically like credit but are not credit economically, since the depositor has surrendered no present good.
+The conditional — "If credit in the economic sense means…" — is the form Mises uses to state his own preferred definition: credit, *in the economic sense*, is the exchange of a present good or service for a future good or service. Mises uses this same definition to *include* ordinary purchase-on-credit and lending and to *exclude* deposits-against-redeemable-claims — they look juristically like credit but are not credit economically, since the depositor has surrendered no present good.
 
 Mises restates the definition in slightly different language earlier in the same book — in Part One Ch. I, §3 "The 'Secondary' Functions of Money" — in the course of dismissing the idea that money has a separate "medium of payment" function distinct from its medium-of-exchange function:
 
@@ -5314,7 +5314,7 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[parallel-economy|The Parallel Economy]] - Hillebrand's strategic synthesis: an integrated stack of privacy-preserving tools
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - the strategy-by-exit route toward this stateless order
-- [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's "sovereignty services" forecast approaching competitive provision of law and protection
+- [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's *sovereignty services* forecast approaching competitive provision of law and protection
 - [[spooner-natural-law|Natural Law; or The Science of Justice]] - Spooner's natural-rights case against legislation, ancestor of market-anarchist law
 - [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
 - [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's (after Evers) theory: a contract is a transfer of title to alienable property, enforceable only when breach is an implicit theft
@@ -5379,7 +5379,7 @@ A natural monopoly is said to arise where economies of scale are so large that o
 
 ## Asymmetric information
 
-If one side of a transaction knows more than the other — the used-car seller, the borrower, the insured — markets are said to fail: good products are driven out by bad ("the market for lemons"), and regulation, licensing, or disclosure mandates are offered as the cure.
+If one side of a transaction knows more than the other — the used-car seller, the borrower, the insured — markets are said to fail: good products are driven out by bad (Akerlof's *market for lemons*), and regulation, licensing, or disclosure mandates are offered as the cure.
 
 **The reply.** Libertarians argue that markets generate their own remedies for information problems — repeat purchase, brands and reputation, word of mouth, and consumer-research organizations — precisely because sellers profit by credibly signaling quality, and that mandatory licensing tends to be captured by incumbents to raise rivals' costs rather than to protect consumers (again the [[crony-capitalism|crony-capitalism]] pattern). Fraud, where it occurs, is a violation of rights the law should punish, not a market outcome to be managed.
 
@@ -6242,7 +6242,7 @@ It is not the only branch. The wiki's [[liberalism|Mises]] deliberately *rejecte
 
 ## Critiques
 
-The tradition is contested. **Hume's is/ought gap** challenges any inference from what is natural to what ought to be done. **Legal positivism** (Bentham, who derided natural rights as nonsense; Austin, for whom "law" just means the sovereign's command; later Kelsen and Hart) holds that law and morality are separate, denying Aquinas's claim that an unjust law is no law. (Hart refined the tradition — replacing Austin's command-of-the-sovereign model with a "rule of recognition" — while keeping the separation of law and morals.) Within the libertarian camp, **[[ludwig-von-mises|Mises]] and the consequentialists** regard natural-rights talk as unscientific, while **Hoppe** tries to escape the is/ought problem altogether by replacing natural-rights intuition with *argumentation ethics* (a transcendental, not natural-law, argument). The natural-law claim is therefore best read as one powerful foundation for libertarian conclusions, not the only one or an uncontested one.
+The tradition is contested. **Hume's is/ought gap** challenges any inference from what is natural to what ought to be done. **Legal positivism** (Bentham, who derided natural rights as nonsense; Austin, for whom "law" just means the sovereign's command; later Kelsen and Hart) holds that law and morality are separate, denying Aquinas's claim that an unjust law is no law. (Hart refined the tradition — replacing Austin's command-of-the-sovereign model with a *rule of recognition* — while keeping the separation of law and morals.) Within the libertarian camp, **[[ludwig-von-mises|Mises]] and the consequentialists** regard natural-rights talk as unscientific, while **Hoppe** tries to escape the is/ought problem altogether by replacing natural-rights intuition with *argumentation ethics* (a transcendental, not natural-law, argument). The natural-law claim is therefore best read as one powerful foundation for libertarian conclusions, not the only one or an uncontested one.
 
 ## See Also
 
@@ -7691,7 +7691,7 @@ This concept is narrower than [[market-anarchism-and-private-law|Market Anarchis
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
 - [[the-market-for-liberty|The Market for Liberty]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - Molinari's 1849 essay; founding text of the private-security argument
-- [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's proliferating jurisdictions and "sovereignty services" as a market for protection
+- [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's proliferating jurisdictions and *sovereignty services* as a market for protection
 - [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
@@ -8534,7 +8534,7 @@ Joseph [[joseph-t-salerno|Salerno]]'s [[mises-and-hayek-dehomogenized|"dehomogen
 
 ## Bottom Line
 
-The popular framing of *two Mises disciples with different economic ideas* is half right. They share the Misesian core, and they diverge on method, on the calculation-vs-knowledge framing, and on how much state is permissible. But they are not equidistant from Mises: Rothbard preserved Mises's praxeology, calculation argument, and uncompromising anti-statism, while Hayek qualified the method, reframed the socialism critique around knowledge, and stopped at limited government. The article presents this as the wiki's synthesis; the strong "two distinct paradigms" claim is Salerno's, and how sharply Mises and Hayek really divide is itself debated — some Austrians read more continuity than the dehomogenizers allow.
+The popular framing of *two Mises disciples with different economic ideas* is half right. They share the Misesian core, and they diverge on method, on the calculation-vs-knowledge framing, and on how much state is permissible. But they are not equidistant from Mises: Rothbard preserved Mises's praxeology, calculation argument, and uncompromising anti-statism, while Hayek qualified the method, reframed the socialism critique around knowledge, and stopped at limited government. The article presents this as the wiki's synthesis; the strong two-paradigms claim is Salerno's, and how sharply Mises and Hayek really divide is itself debated — some Austrians read more continuity than the dehomogenizers allow.
 
 ## See Also
 
@@ -9693,7 +9693,7 @@ This is descriptive development economics, not anarcho-capitalist political theo
 
 ## Sources
 
-- [Better Off Stateless: Somalia Before and After Government Collapse](https://www.peterleeson.com/Better_Off_Stateless.pdf) - Leeson's 2007 paper; the 18-indicator comparison and the "did more harm than good" verdict
+- [Better Off Stateless: Somalia Before and After Government Collapse](https://www.peterleeson.com/Better_Off_Stateless.pdf) - Leeson's 2007 paper; the 18-indicator comparison and the finding that Somalis are "better off under anarchy than they were under government"
 
 ---
 
@@ -11559,7 +11559,7 @@ Aquinas synthesizes [[nicomachean-ethics|Aristotle]] ("the Philosopher," cited o
 - [[aristotle-politics|Politics]] - Aristotle's natural teleology of the polis, cited throughout the Treatise on Law
 - [[cicero-de-re-publica|De Re Publica]] - the Ciceronian natural-reason vocabulary Aquinas inherits
 - [[the-rights-of-war-and-peace|The Rights of War and Peace]] - Grotius's secularizing successor
-- [[cicero-de-legibus|De Legibus]] - Cicero's "unjust law is no law" argument that Aquinas inherits
+- [[cicero-de-legibus|De Legibus]] - Cicero's *unjust law is no law* argument that Aquinas inherits
 - [[school-of-salamanca|School of Salamanca]] - the sixteenth-century scholastics who revived this Thomist natural law
 
 ## Sources
@@ -12018,7 +12018,7 @@ The connection is an inference from the texts rather than a citation: Bitcoin's 
 
 ## Limits
 
-Szabo is candid about the scheme's main flaw, which also makes it a sharp illustration of what "unforgeable costliness" requires. Proof of work depends on real machine architecture, not an abstract compute cycle, so an innovator with a far cheaper way to produce proofs could quietly swamp the market with bit gold — a hidden supply glut. Secure timestamping mitigates this: because each unit records when it was made and how hard the work was, the production cost during that period can usually be inferred after the fact.
+Szabo is candid about the scheme's main flaw, which also makes it a sharp illustration of what [[unforgeable-costliness|unforgeable costliness]] requires. Proof of work depends on real machine architecture, not an abstract compute cycle, so an innovator with a far cheaper way to produce proofs could quietly swamp the market with bit gold — a hidden supply glut. Secure timestamping mitigates this: because each unit records when it was made and how hard the work was, the production cost during that period can usually be inferred after the fact.
 
 A second consequence is that bit gold is not naturally fungible. Like collectors' items rather than fungible atoms of gold, strings made at different times and difficulties have different values, so dealers would have to bundle unequal pieces into larger units of roughly equal value — much as commodity dealers standardize lots today, with the bundle valuations independently verifiable by many parties. Szabo's closing claim is the monetary thesis the [[unforgeable-costliness|unforgeable costliness]] concept turns on: all money mankind has used has been insecure in some way — counterfeiting, theft, and above all inflation — and a money made of costly, verifiable bits could offer security from those dangers that earlier monies could not.
 
@@ -12560,7 +12560,7 @@ Category: reference
 
 ## The Argument of Book I
 
-Speaking in the dialogue, Marcus (Cicero) insists that law must be understood not from "the praetor's edict" or "the Twelve Tables" but "in the sublimest doctrines of philosophy". His thesis is that **law and justice are grounded in nature, not convention**:
+Speaking in the dialogue, Marcus (Cicero) insists that law is to be found not "in the edict of the praetors" nor in "the Twelve Tables" but "in the sublimest doctrines of philosophy". His thesis is that **law and justice are grounded in nature, not convention**:
 
 - Reason is "the common property of God and man," and "this right reason is what we call Law". Because reason is shared, gods and men form "one immeasurable Commonwealth", and law is the same for all.
 - Therefore "man is born for justice, and that law and equity are not a mere establishment of opinion, but an institution of nature." Cicero explicitly condemns the view "that all things are necessarily just, which are established by the civil laws and the institutions of the people" — utility cannot be the measure of justice, for "nature herself is the foundation of justice."
@@ -12577,7 +12577,7 @@ Book I grounds justice in nature and human fellowship; Books II and III apply th
 - [[cicero|Cicero]] - author reference
 - [[cicero-de-re-publica|De Re Publica]] - the companion dialogue, source of the famous definition
 - [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition this dialogue most fully argues
-- [[aquinas-treatise-on-law|Treatise on Law]] - the medieval synthesis carrying Cicero's "unjust law is no law" forward
+- [[aquinas-treatise-on-law|Treatise on Law]] - the medieval synthesis carrying Cicero's *unjust law is no law* forward
 
 ## Sources
 
@@ -14524,7 +14524,7 @@ The volume gathers twelve essays. The ones that matter most for this wiki are:
 - **Economics and knowledge** (1937) — Hayek's epistemological turn: the puzzle of how decentralized actors with partial information arrive at coordination at all, framed as the question equilibrium analysis must really answer.
 - **The use of knowledge in society** (1945) — the canonical statement of the **knowledge problem**: relevant economic knowledge exists only as the dispersed, tacit, time-and-place-specific knowledge of millions of actors, and the price system is the social mechanism that uses that knowledge without anyone possessing all of it.
 - **The meaning of competition** — competition as a discovery process rather than the static equilibrium condition of textbook microeconomics.
-- **The three "Socialist Calculation" essays** — Hayek's contributions to the debate [[ludwig-von-mises|Mises]] opened in [[socialism|Socialism]], reframing the impossibility argument in terms of the knowledge problem and replying to Lange and Lerner's "market socialism" reply to Mises.
+- **The three "Socialist Calculation" essays** — Hayek's contributions to the debate [[ludwig-von-mises|Mises]] opened in [[socialism|Socialism]], reframing the impossibility argument in terms of the knowledge problem and replying to Lange and Lerner's *market socialism* reply to Mises.
 - **The Ricardo Effect (*Profits, Interest and Investment*)** — applying the same framework to capital structure and the boom-and-bust cycle.
 
 The remaining essays — among them "The Facts of the Social Sciences", "Free Enterprise and Competitive Order," "A Commodity Reserve Currency", and *The Economic Conditions of Interstate Federalism* — round out the volume but are less central to the wiki's calculation/knowledge thread.
@@ -17028,7 +17028,7 @@ Category: reference
 
 ## The Argument
 
-Against Burke's defense of inherited authority and the "wisdom of ages," Paine grounds legitimacy in **natural rights** that belong to each living person:
+Against Burke's defense of inherited authority — government "is a contrivance of human wisdom", as Paine quotes him — Paine grounds legitimacy in **natural rights** that belong to each living person:
 
 > "Natural rights are those which appertain to man in right of his existence. Of this kind are all the intellectual rights, or rights of the mind, and also all those rights of acting as an individual for his own comfort and happiness, which are not injurious to the natural rights of others."
 >
@@ -19492,7 +19492,7 @@ Category: reference
 
 ## What the Article Argues
 
-[[walter-block|Walter Block]] places himself at the radical "everything is alienable" pole, against the mainstream libertarian view — held, on his account, by Rothbard, Randy Barnett, George Smith, Stephan Kinsella, David Gordon, and Richard Epstein — that some things, notably the will, cannot be sold even voluntarily. His argument runs directly from ownership: "if I own something, I can sell it (and should be allowed by law to do so). If I can't sell it, then, and to that extent, I really don't own it." From this he reaches his thesis — "No law should be enacted prohibiting or even limiting in any way people's rights to alienate those things they own," which he calls "full monte" alienability — and embraces the conclusion most libertarians treat as a *reductio*: "the thesis that voluntary slavery is compatible with libertarianism." He concedes the position is "not well accepted by libertarians" and notes that, to his knowledge, only [[robert-nozick|Robert Nozick]] had previously supported it. The body of the article works through the standard objections — the master who immediately demands his purchase price back, the supposed unsaleability of moral or legal responsibility — and argues that none defeats the validity of a freely made slave contract.
+[[walter-block|Walter Block]] places himself at the radical *everything is alienable* pole, against the mainstream libertarian view — held, on his account, by Rothbard, Randy Barnett, George Smith, Stephan Kinsella, David Gordon, and Richard Epstein — that some things, notably the will, cannot be sold even voluntarily. His argument runs directly from ownership: "if I own something, I can sell it (and should be allowed by law to do so). If I can't sell it, then, and to that extent, I really don't own it." From this he reaches his thesis — "No law should be enacted prohibiting or even limiting in any way people's rights to alienate those things they own," which he calls "full monte" alienability — and embraces the conclusion most libertarians treat as a *reductio*: "the thesis that voluntary slavery is compatible with libertarianism." He concedes the position is "not well accepted by libertarians" and notes that, to his knowledge, only [[robert-nozick|Robert Nozick]] had previously supported it. The body of the article works through the standard objections — the master who immediately demands his purchase price back, the supposed unsaleability of moral or legal responsibility — and argues that none defeats the validity of a freely made slave contract.
 
 ## Why It Matters in This Wiki
 
@@ -19782,7 +19782,7 @@ Category: reference
 
 ## Biographical Frame
 
-William Graham Sumner (1840-1910) was an American sociologist and political economist who taught at Yale. He was a forceful laissez-faire classical liberal — an opponent of protectionism, imperialism, and state planning, and the author of the phrase "the Forgotten Man" for the taxpayer who silently bears the cost of reformers' schemes. He also helped fix the sociological vocabulary of custom, popularizing the terms folkways, mores, and ethnocentrism.
+William Graham Sumner (1840-1910) was an American sociologist and political economist who taught at Yale. He was a forceful laissez-faire classical liberal — an opponent of protectionism, imperialism, and state planning, and the author of the phrase *the Forgotten Man* for the taxpayer who silently bears the cost of reformers' schemes. He also helped fix the sociological vocabulary of custom, popularizing the terms folkways, mores, and ethnocentrism.
 
 His framework is descriptive sociology, not libertarian theory: it explains how group loyalty and out-group hostility form, without arguing from nonaggression or natural rights. The wiki uses it the way it uses [[charles-tilly|Charles Tilly]] — an outside analyst whose mechanism is useful even though his program is not the wiki's.
 

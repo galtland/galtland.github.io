@@ -3,7 +3,7 @@ title: "William Graham Sumner"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-08-05
+updated: 2026-08-09
 verified: 2026-06-14
 tags: [william-graham-sumner, ethnocentrism, in-group, out-group, folkways, classical-liberalism, sociology, non-libertarian]
 aliases: [Sumner, William Graham Sumner, W. G. Sumner]
@@ -18,7 +18,7 @@ short: "Laissez-faire sociologist whose Folkways coined the we-group/out-group a
 
 ## Biographical Frame
 
-William Graham Sumner (1840-1910) was an American sociologist and political economist who taught at Yale. He was a forceful laissez-faire classical liberal — an opponent of protectionism, imperialism, and state planning, and the author of the phrase "the Forgotten Man" for the taxpayer who silently bears the cost of reformers' schemes. He also helped fix the sociological vocabulary of custom, popularizing the terms folkways, mores, and ethnocentrism.
+William Graham Sumner (1840-1910) was an American sociologist and political economist who taught at Yale. He was a forceful laissez-faire classical liberal — an opponent of protectionism, imperialism, and state planning, and the author of the phrase *the Forgotten Man* for the taxpayer who silently bears the cost of reformers' schemes. He also helped fix the sociological vocabulary of custom, popularizing the terms folkways, mores, and ethnocentrism.
 
 His framework is descriptive sociology, not libertarian theory: it explains how group loyalty and out-group hostility form, without arguing from nonaggression or natural rights. The wiki uses it the way it uses [[charles-tilly|Charles Tilly]] — an outside analyst whose mechanism is useful even though his program is not the wiki's.
 

@@ -3,7 +3,7 @@ title: "Credit and Deferred Payment"
 volatility: warm
 category: concept
 created: 2026-05-09
-updated: 2026-08-06
+updated: 2026-08-09
 verified: 2026-06-26
 tags: [credit, time-preference, debtor-creditor, book-credit, austrian-economics, money-and-banking]
 aliases: [credit transaction, trade credit, book credit, commercial credit, deferred payment]
@@ -26,7 +26,7 @@ The canonical Austrian statement is Mises's, in [[the-theory-of-money-and-credit
 >
 > — [[ludwig-von-mises|Ludwig von Mises]], [[the-theory-of-money-and-credit|The Theory of Money and Credit]]
 
-The conditional ("if credit means…") is the form Mises uses to state his own preferred definition: credit, *in the economic sense*, is the exchange of a present good or service for a future good or service. Mises uses this same definition to *include* ordinary purchase-on-credit and lending and to *exclude* deposits-against-redeemable-claims — they look juristically like credit but are not credit economically, since the depositor has surrendered no present good.
+The conditional — "If credit in the economic sense means…" — is the form Mises uses to state his own preferred definition: credit, *in the economic sense*, is the exchange of a present good or service for a future good or service. Mises uses this same definition to *include* ordinary purchase-on-credit and lending and to *exclude* deposits-against-redeemable-claims — they look juristically like credit but are not credit economically, since the depositor has surrendered no present good.
 
 Mises restates the definition in slightly different language earlier in the same book — in Part One Ch. I, §3 "The 'Secondary' Functions of Money" — in the course of dismissing the idea that money has a separate "medium of payment" function distinct from its medium-of-exchange function:
 

@@ -3,7 +3,7 @@ title: "Summa Theologica: Treatise on Law"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-08-06
+updated: 2026-08-09
 verified: 2026-06-18
 tags: [thomas-aquinas, natural-law, classical-canon, scholasticism, summa-theologica, eternal-law, human-law, divine-law, treatise-on-law]
 aliases: [Treatise on Law, Summa Theologica Treatise on Law, Aquinas on law, Prima Secundae 90-108, lex naturalis]
@@ -42,7 +42,7 @@ Aquinas synthesizes [[nicomachean-ethics|Aristotle]] ("the Philosopher," cited o
 - [[aristotle-politics|Politics]] - Aristotle's natural teleology of the polis, cited throughout the Treatise on Law
 - [[cicero-de-re-publica|De Re Publica]] - the Ciceronian natural-reason vocabulary Aquinas inherits
 - [[the-rights-of-war-and-peace|The Rights of War and Peace]] - Grotius's secularizing successor
-- [[cicero-de-legibus|De Legibus]] - Cicero's "unjust law is no law" argument that Aquinas inherits
+- [[cicero-de-legibus|De Legibus]] - Cicero's *unjust law is no law* argument that Aquinas inherits
 - [[school-of-salamanca|School of Salamanca]] - the sixteenth-century scholastics who revived this Thomist natural law
 
 ## Sources

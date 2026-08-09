@@ -3,7 +3,7 @@ title: "Toward a Libertarian Theory of Inalienability"
 volatility: cold
 category: reference
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-09
 verified: 2026-06-24
 tags: [walter-block, inalienability, alienability, voluntary-slavery, contract, self-ownership, title-transfer, rothbard-critique, journal-of-libertarian-studies, libertarian, austrian]
 aliases: [Toward a Libertarian Theory of Inalienability, Block on inalienability, Block inalienability, a libertarian theory of inalienability]
@@ -18,7 +18,7 @@ short: "Block's 2003 argument that true self-ownership entails full alienability
 
 ## What the Article Argues
 
-[[walter-block|Walter Block]] places himself at the radical "everything is alienable" pole, against the mainstream libertarian view — held, on his account, by Rothbard, Randy Barnett, George Smith, Stephan Kinsella, David Gordon, and Richard Epstein — that some things, notably the will, cannot be sold even voluntarily. His argument runs directly from ownership: "if I own something, I can sell it (and should be allowed by law to do so). If I can't sell it, then, and to that extent, I really don't own it." From this he reaches his thesis — "No law should be enacted prohibiting or even limiting in any way people's rights to alienate those things they own," which he calls "full monte" alienability — and embraces the conclusion most libertarians treat as a *reductio*: "the thesis that voluntary slavery is compatible with libertarianism." He concedes the position is "not well accepted by libertarians" and notes that, to his knowledge, only [[robert-nozick|Robert Nozick]] had previously supported it. The body of the article works through the standard objections — the master who immediately demands his purchase price back, the supposed unsaleability of moral or legal responsibility — and argues that none defeats the validity of a freely made slave contract.
+[[walter-block|Walter Block]] places himself at the radical *everything is alienable* pole, against the mainstream libertarian view — held, on his account, by Rothbard, Randy Barnett, George Smith, Stephan Kinsella, David Gordon, and Richard Epstein — that some things, notably the will, cannot be sold even voluntarily. His argument runs directly from ownership: "if I own something, I can sell it (and should be allowed by law to do so). If I can't sell it, then, and to that extent, I really don't own it." From this he reaches his thesis — "No law should be enacted prohibiting or even limiting in any way people's rights to alienate those things they own," which he calls "full monte" alienability — and embraces the conclusion most libertarians treat as a *reductio*: "the thesis that voluntary slavery is compatible with libertarianism." He concedes the position is "not well accepted by libertarians" and notes that, to his knowledge, only [[robert-nozick|Robert Nozick]] had previously supported it. The body of the article works through the standard objections — the master who immediately demands his purchase price back, the supposed unsaleability of moral or legal responsibility — and argues that none defeats the validity of a freely made slave contract.
 
 ## Why It Matters in This Wiki
 

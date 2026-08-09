@@ -3,7 +3,7 @@ title: "Bit Gold"
 volatility: cold
 category: reference
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-09
 verified: 2026-06-18
 tags: [bit-gold, nick-szabo, proof-of-work, digital-money, cypherpunk, unforgeable-costliness, timestamping, title-registry, trusted-third-parties]
 aliases: [Bit Gold, bit gold, Szabo Bit Gold]
@@ -46,7 +46,7 @@ The connection is an inference from the texts rather than a citation: Bitcoin's 
 
 ## Limits
 
-Szabo is candid about the scheme's main flaw, which also makes it a sharp illustration of what "unforgeable costliness" requires. Proof of work depends on real machine architecture, not an abstract compute cycle, so an innovator with a far cheaper way to produce proofs could quietly swamp the market with bit gold — a hidden supply glut. Secure timestamping mitigates this: because each unit records when it was made and how hard the work was, the production cost during that period can usually be inferred after the fact.
+Szabo is candid about the scheme's main flaw, which also makes it a sharp illustration of what [[unforgeable-costliness|unforgeable costliness]] requires. Proof of work depends on real machine architecture, not an abstract compute cycle, so an innovator with a far cheaper way to produce proofs could quietly swamp the market with bit gold — a hidden supply glut. Secure timestamping mitigates this: because each unit records when it was made and how hard the work was, the production cost during that period can usually be inferred after the fact.
 
 A second consequence is that bit gold is not naturally fungible. Like collectors' items rather than fungible atoms of gold, strings made at different times and difficulties have different values, so dealers would have to bundle unequal pieces into larger units of roughly equal value — much as commodity dealers standardize lots today, with the bundle valuations independently verifiable by many parties. Szabo's closing claim is the monetary thesis the [[unforgeable-costliness|unforgeable costliness]] concept turns on: all money mankind has used has been insecure in some way — counterfeiting, theft, and above all inflation — and a money made of costly, verifiable bits could offer security from those dangers that earlier monies could not.
 
