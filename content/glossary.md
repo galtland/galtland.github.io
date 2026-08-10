@@ -430,7 +430,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Whitfield Diffie](/references/whitfield-diffie)** — Cryptographer who, with Martin Hellman, invented public-key cryptography in 1976 — the primitive underlying encrypted messaging, digital signatures, and Bitcoin.
 - **[The Whole Duty of Man According to the Law of Nature](/references/the-whole-duty-of-man)** — Pufendorf's 1673 compendium of natural law, grounding it in human sociality — the systematizing bridge from Grotius to Locke.
 - **[William F. Shughart II](/references/william-f-shughart-ii)** — Public-choice economist whose Public Choice entry supplies this wiki's compact account of rational ignorance and concentrated benefits.
-- **[William Graham Sumner](/references/william-graham-sumner)** — Laissez-faire sociologist whose Folkways coined the we-group/out-group and ethnocentrism vocabulary this wiki draws on.
+- **[William Graham Sumner](/references/william-graham-sumner)** — Laissez-faire sociologist whose Folkways popularized the we-group/out-group and ethnocentrism vocabulary this wiki draws on.
 - **[William Rees-Mogg](/references/william-rees-mogg)** — British journalist and former Times editor who co-authored The Sovereign Individual, forecasting the rise of the sovereign individual.
 
 ## Y

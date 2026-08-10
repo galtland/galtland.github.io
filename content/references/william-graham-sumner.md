@@ -3,13 +3,13 @@ title: "William Graham Sumner"
 volatility: cold
 category: reference
 created: 2026-06-14
-updated: 2026-08-09
+updated: 2026-08-10
 verified: 2026-06-14
 tags: [william-graham-sumner, ethnocentrism, in-group, out-group, folkways, classical-liberalism, sociology, non-libertarian]
 aliases: [Sumner, William Graham Sumner, W. G. Sumner]
 confidence: medium
 summary: "Short author reference for William Graham Sumner, the American sociologist and laissez-faire classical liberal whose Folkways supplies this wiki's we-group/out-group and ethnocentrism vocabulary."
-short: "Laissez-faire sociologist whose Folkways coined the we-group/out-group and ethnocentrism vocabulary this wiki draws on."
+short: "Laissez-faire sociologist whose Folkways popularized the we-group/out-group and ethnocentrism vocabulary this wiki draws on."
 ---
 
 # William Graham Sumner

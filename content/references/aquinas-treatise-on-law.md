@@ -3,12 +3,12 @@ title: "Summa Theologica: Treatise on Law"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-08-09
+updated: 2026-08-10
 verified: 2026-06-18
 tags: [thomas-aquinas, natural-law, classical-canon, scholasticism, summa-theologica, eternal-law, human-law, divine-law, treatise-on-law]
 aliases: [Treatise on Law, Summa Theologica Treatise on Law, Aquinas on law, Prima Secundae 90-108, lex naturalis]
 confidence: medium
-summary: "Aquinas's Treatise on Law (Summa Theologica I-II, QQ. 90–108) — the systematic medieval natural-law text. Defines law as 'an ordinance of reason for the common good, made by him who has care of the community, and promulgated,' and distinguishes eternal, natural, human, and divine law, holding that a human law contrary to natural law 'is no longer a law but a perversion of law.'"
+summary: "Aquinas's Treatise on Law (Summa Theologica I-II, QQ. 90–108) — the systematic medieval natural-law text. Defines law as 'an ordinance of reason for the common good, made by him who has care of the community, and promulgated', and distinguishes eternal, natural, human, and divine law, holding that a human law contrary to natural law 'is no longer a law but a perversion of law.'"
 short: "Aquinas's systematic natural-law treatise: law as reason for the common good, and the eternal/natural/human/divine fourfold scheme."
 ---
 
@@ -18,7 +18,7 @@ short: "Aquinas's systematic natural-law treatise: law as reason for the common 
 
 ## The Definition and the Fourfold Scheme
 
-Aquinas defines law precisely (Q. 90): "an ordinance of reason for the common good, made by him who has care of the community, and promulgated." Each clause does work — law is an act of *reason* (not mere will), aimed at the *common good*, issued by legitimate *authority*, and *promulgated*.
+Aquinas defines law precisely (Q. 90): law "is nothing else than an ordinance of reason for the common good, made by him who has care of the community, and promulgated." Each clause does work — law is an act of *reason* (not mere will), aimed at the *common good*, issued by legitimate *authority*, and *promulgated*.
 
 He then distinguishes four kinds of law (QQ. 91–93):
 - **Eternal law** — God's rational governance of the whole created order.

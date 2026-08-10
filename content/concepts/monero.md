@@ -3,7 +3,7 @@ title: "Monero"
 volatility: warm
 category: concept
 created: 2026-07-15
-updated: 2026-08-09
+updated: 2026-08-10
 verified: 2026-07-15
 tags: [monero, zcash, privacy-coins, fungibility, ring-signatures, zk-snarks, cryptonote, zerocash, stealth-addresses, ringct, censorship-resistance, cypherpunk, digital-cash]
 aliases: [Monero, XMR, Zcash, ZEC, privacy coins, privacy-coins]
@@ -26,7 +26,7 @@ Monero's defining decision is to make both properties mandatory. Sender privacy 
 >
 > — Nicolas van Saberhagen, *CryptoNote v2.0*
 
-Because privacy is compulsory rather than optional, no transaction stands out as the private one: every output on the chain is a candidate decoy for everyone else's ring, so there is no transparent baseline against which a "shielded" coin looks suspicious. The per-transaction anonymity set is still bounded — a ring of decoys, currently sixteen, not the whole chain — but no coin advertises a legible history that an exchange or chain-analysis firm could read and taint. This is [[fungibility|fungibility]] by construction: Monero does not restore uniform money by scrubbing histories after the fact — it never writes a readable one down.
+Because privacy is compulsory rather than optional, no transaction stands out as the private one: every output on the chain is a candidate decoy for everyone else's ring, so there is no transparent baseline against which a "shielded" coin looks suspicious. The per-transaction anonymity set is still bounded — a ring of currently sixteen inputs, the real one plus fifteen decoys, not the whole chain — but no coin advertises a legible history that an exchange or chain-analysis firm could read and taint. This is [[fungibility|fungibility]] by construction: Monero does not restore uniform money by scrubbing histories after the fact — it never writes a readable one down.
 
 ## A design that keeps moving
 

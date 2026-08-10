@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-03
-updated: 2026-08-08
+updated: 2026-08-10
 verified: 2026-07-03
 tags: [self-custody, private-keys, bitcoin, censorship-resistance, bearer-asset, custodial, not-your-keys, cypherpunk, hard-money]
 aliases: [Self-Custody, self custody, not your keys not your coins, private key custody, non-custodial, hold your own keys]
@@ -31,7 +31,7 @@ Self-sovereignty is also self-responsibility, and this is the honest cost. There
 
 ## Where it is contested
 
-The custody gap is the strongest empirical point in the critique of crypto's political promise, though its size is asserted rather than measured. The Mises Wire essay claims it of "the overwhelming majority of its user base" — coins sitting in "heavily-compliant custodial architectures" and exchange-traded products rather than peer-to-peer hands — but offers no figure, and no source in this wiki measures the share. Take the direction as well evidenced and the magnitude as open. If most holders do keep coins on exchanges and, now, in custodial ETFs, then the censorship resistance and sovereignty the technology *can* provide belong to a competent and diligent minority, while the median user holds an ordinary, freezable claim and has simply swapped one set of institutions for another. Bitcoin's champions answer that the *option* of self-custody is itself the decisive change — a floor that, for fiat, exists only in physical cash, which the same source calls the only base money citizens can hold directly, and not at all for the bank balances most value now takes — and that tooling is making it steadily easier and safer. Both are true: self-custody is a genuine capability, and for money that must also move at a distance it is a new one, and it is one that a great many holders, on the critique's account, decline to use.
+The custody gap is the strongest empirical point in the critique of crypto's political promise, though its size is asserted rather than measured. The Mises Wire essay claims it of "the overwhelming majority of its user base" — coins sitting in "heavily-compliant custodial architectures" and exchange-traded products rather than peer-to-peer hands — but offers no figure, and no source in this wiki measures the share. Take the direction as well evidenced and the magnitude as open. If most holders do keep coins on exchanges and, now, in custodial ETFs, then the censorship resistance and sovereignty the technology *can* provide belong to a competent and diligent minority, while the median user holds an ordinary, freezable claim and has simply swapped one set of institutions for another. Bitcoin's champions answer that the *option* of self-custody is itself the decisive change — a floor that, for fiat, exists only in physical cash — which Hillebrand, in [[praxeology-of-privacy|The Praxeology of Privacy]], calls "the only base money citizens can hold directly", central bank reserves being open only to banks — and not at all for the bank balances most value now takes — and that tooling is making it steadily easier and safer. Both are true: self-custody is a genuine capability, and for money that must also move at a distance it is a new one, and it is one that a great many holders, on the critique's account, decline to use.
 
 ## See Also
 

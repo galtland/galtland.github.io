@@ -3,7 +3,7 @@ title: "The Sovereign Individual"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-08-08
+updated: 2026-08-10
 verified: 2026-06-26
 tags: [james-dale-davidson, william-rees-mogg, sovereign-individual, information-age, megapolitics, cybereconomy, digital-money, jurisdictional-competition, nation-state, cypherpunk, commercially-published, non-libertarian]
 aliases: [The Sovereign Individual, Mastering the Transition to the Information Age, Sovereign Individual, the sovereign individual thesis]
@@ -31,7 +31,7 @@ Their central forecast is that the microprocessor inverts the trend of the indus
 
 ## Place in This Wiki
 
-This is an external, popularly-published forecast, not a libertarian treatise, and not all of its predictions have aged equally well — its timeline, its determinism about violence, and its sometimes triumphalist treatment of inequality are contestable. But it sits at a hinge between two clusters of this wiki. On one side it shares the [[evolution-of-the-state|state-evolution]] and protection-pricing logic of [[franz-oppenheimer|Oppenheimer]], [[albert-jay-nock|Nock]], [[charles-tilly|Tilly]], and Frederic Lane (whom the authors cite directly). On the other it converges with the [[cypherpunk|cypherpunk]] program of escape through cryptography — not as a forerunner of it, since [[crypto-anarchy|crypto anarchy]] was already stated in 1988 and elaborated by 1994, a decade before this book reached its readers — while its cybercash forecast does run ahead to the Bitcoin debate. What it joins, more explicitly than anything else in this corpus, are those two lines: that the state is a protection racket whose price is set by the cost of violence, and that technology is about to crash that price.
+This is an external, popularly-published forecast, not a libertarian treatise, and not all of its predictions have aged equally well — its timeline, its determinism about violence, and its sometimes triumphalist treatment of inequality are contestable. But it sits at a hinge between two clusters of this wiki. On one side it shares the [[evolution-of-the-state|state-evolution]] and protection-pricing logic of [[franz-oppenheimer|Oppenheimer]], [[albert-jay-nock|Nock]], [[charles-tilly|Tilly]], and Frederic Lane (whom the authors cite directly). On the other it converges with the [[cypherpunk|cypherpunk]] program of escape through cryptography — not as a forerunner of it, since [[crypto-anarchy|crypto anarchy]] was already stated in 1988 and elaborated by 1994 — nine years and three years, respectively, before this book reached its readers — while its cybercash forecast does run ahead to the Bitcoin debate. What it joins, more explicitly than anything else in this corpus, are those two lines: that the state is a protection racket whose price is set by the cost of violence, and that technology is about to crash that price.
 
 ## Limits
 
@@ -45,11 +45,11 @@ Confidence is medium: the book can be summarized faithfully and directly from th
 - [[the-cybereconomy|The Cybereconomy]] - the untaxable digital economy and cybercash the book forecasts
 - [[jurisdictional-competition|Jurisdictional Competition]] - governments forced to compete for mobile citizens as customers
 - [[evolution-of-the-state|Evolution of the State]] - the state-origins lineage the book's decline thesis extends forward
-- [[crypto-anarchy|Crypto Anarchy]] - the cypherpunk escape-through-cryptography thesis the book anticipates
+- [[crypto-anarchy|Crypto Anarchy]] - the cypherpunk escape-through-cryptography thesis, stated in 1988 and elaborated by 1994, which this 1997 book converges with rather than anticipates
 - [[denationalisation-of-money|Denationalisation of Money]] - Hayek's currency-competition case the book's cybercash forecast invokes
 - [[power-projection|Power Projection]] - Lowery's later "costs and rewards of projecting power" frame, foreshadowed by megapolitics
 - [[softwar|Softwar]] - later national-security thesis that cites this book and shares the violence-cost lens
-- [[cypherpunk|Cypherpunk]] - topic map for the cryptographic-escape program the book prefigures
+- [[cypherpunk|Cypherpunk]] - topic map for the cryptographic-escape program already under way when the book appeared
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[a-lodging-of-wayfaring-men|A Lodging of Wayfaring Men]] - Paul Rosenberg's crypto-anarchist novel (2007): the Free Souls build an untraceable online free-market society beyond state control — the Crypto Anarchist's Bible.
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies

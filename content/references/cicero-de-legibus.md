@@ -3,12 +3,12 @@ title: "De Legibus (On the Laws)"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-08-09
+updated: 2026-08-10
 verified: 2026-06-12
 tags: [cicero, natural-law, natural-rights, classical-canon, stoicism, de-legibus, on-the-laws, right-reason, justice, roman-law]
 aliases: [De Legibus, On the Laws, Cicero On the Laws, Laws]
 confidence: medium
-summary: "Cicero's De Legibus (On the Laws, c. 52 BC) — the systematic companion to De Re Publica and the fullest classical statement of the natural-law argument: justice and law are rooted in nature and right reason, not in opinion or utility. 'Law is nothing else than right reason, enjoining what is good and forbidding what is evil'; man is 'born for justice.'"
+summary: "Cicero's De Legibus (On the Laws, c. 52 BC) — the systematic companion to De Re Publica and the fullest classical statement of the natural-law argument: justice and law are rooted in nature and right reason, not in opinion or utility. Nature has given us 'that law, which is nothing else than right reason enjoining what is good, and forbidding what is evil'; man is 'born for justice.'"
 short: "Cicero's On the Laws: the developed argument that law and justice are 'an institution of nature,' grounded in right reason — the systematic core of classical natural law."
 ---
 
@@ -18,11 +18,11 @@ short: "Cicero's On the Laws: the developed argument that law and justice are 'a
 
 ## The Argument of Book I
 
-Speaking in the dialogue, Marcus (Cicero) insists that law is to be found not "in the edict of the praetors" nor in "the Twelve Tables" but "in the sublimest doctrines of philosophy". His thesis is that **law and justice are grounded in nature, not convention**:
+In the dialogue it is Atticus who puts the position to Marcus (Cicero) as a question — that law is to be sought not "in the edict of the praetors, as the majority of our modern lawyers pretend, nor in the rules of the Twelve Tables of our Statutes, as the ancient Romans maintained, but in the sublimest doctrines of philosophy" (§ 1.17). Marcus does not dispute the summary; he answers that the discussion "soars far higher" than legal practice, to "the universal principles of equity and law". The thesis is that **law and justice are grounded in nature, not convention**:
 
 - Reason is "the common property of God and man," and "this right reason is what we call Law". Because reason is shared, gods and men form "one immeasurable Commonwealth", and law is the same for all.
 - Therefore "man is born for justice, and that law and equity are not a mere establishment of opinion, but an institution of nature." Cicero explicitly condemns the view "that all things are necessarily just, which are established by the civil laws and the institutions of the people" — utility cannot be the measure of justice, for "nature herself is the foundation of justice."
-- "Law, which is nothing else than right reason enjoining what is good, and forbidding what is evil," precedes any written statute; an unjust enactment is not truly law at all.
+- Nature has given us not merely reason but right reason, and so "that law, which is nothing else than right reason enjoining what is good, and forbidding what is evil". It precedes any written statute; an unjust enactment is not truly law at all.
 
 Book I grounds justice in nature and human fellowship; Books II and III apply the principle to religious law and to the magistracies of the ideal commonwealth.
 

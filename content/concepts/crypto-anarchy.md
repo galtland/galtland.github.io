@@ -3,7 +3,7 @@ title: "Crypto Anarchy"
 volatility: warm
 category: concept
 created: 2026-05-27
-updated: 2026-08-08
+updated: 2026-08-10
 verified: 2026-06-18
 tags: [cypherpunk, crypto-anarchy, cryptography, privacy, state-power, libertarianism]
 aliases: [Crypto-Anarchy, crypto anarchism, crypto anarchist thesis, Crypto Anarchist Manifesto, The Crypto Anarchist Manifesto]
@@ -24,9 +24,9 @@ The core claim is not that cryptography abolishes the state in a single politica
 
 ## Strong Crypto as Institutional Escape
 
-In *The Cyphernomicon*, especially Section 16 on crypto anarchy, May broadens the manifesto into a FAQ-style political and technical map. Strong cryptography becomes the "building material" for cyberspace: encryption protects content, digital signatures support durable pseudonymous identity, remailers and mixes protect routing, and digital cash supports trade without a bank ledger.
+In *The Cyphernomicon*, especially Section 16 on crypto anarchy, May broadens the manifesto into a FAQ-style political and technical map. Strong cryptography becomes the "building material" for cyberspace: encryption protects content, digital signatures support durable pseudonymous identity, remailers and mixes protect routing, and digital cash lets a payment clear without recording who made it. What May does *not* claim is that the bank disappears. His digital cash is issued and cleared by institutions he calls *digital banks*, and he gives a whole section of the FAQ to whether banking regulators would tolerate them — canvassing charter type, offshore access, money-laundering and know-your-customer law, and the incumbents' incentive to make newcomers jump through the same hoops, before concluding that such banks will not be launched without a great deal of work by lawyers, accountants, tax experts and lobbyists. What the cryptography removes is the legible link between a person and a transaction, not the settlement layer underneath it.
 
-That architecture makes crypto anarchy more than secrecy. Secrecy hides a fact; crypto anarchy tries to alter the institutional environment in which facts must be disclosed. A seller can prove control of a key without revealing a state identity. A buyer can pay without a custodial account. A publisher can distribute controversial information without a single obvious office to raid. The thesis therefore extends the privacy-as-selective-disclosure frame in [[praxeology-of-privacy|Praxeology of Privacy]] into a strategy for association and exchange.
+That architecture makes crypto anarchy more than secrecy. Secrecy hides a fact; crypto anarchy tries to alter the institutional environment in which facts must be disclosed. A seller can prove control of a key without revealing a state identity. A buyer can pay without the payment being attributable to them. A publisher can distribute controversial information without a single obvious office to raid. The thesis therefore extends the privacy-as-selective-disclosure frame in [[praxeology-of-privacy|Praxeology of Privacy]] into a strategy for association and exchange.
 
 ## The State's Expected Response
 

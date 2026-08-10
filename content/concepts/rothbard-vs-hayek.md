@@ -3,7 +3,7 @@ title: "Rothbard vs. Hayek: The Two Heirs of Mises"
 volatility: cold
 category: concept
 created: 2026-05-31
-updated: 2026-08-09
+updated: 2026-08-10
 verified: 2026-06-26
 tags: [hayek, rothbard, mises, austrian-economics, praxeology, knowledge-problem, dehomogenization, anarcho-capitalism, methodology]
 aliases: [Rothbard vs Hayek, Hayek vs Rothbard, two heirs of Mises, Mises-Rothbard vs Hayek-Kirzner, dehomogenization]
@@ -40,7 +40,7 @@ Joseph [[joseph-t-salerno|Salerno]]'s [[mises-and-hayek-dehomogenized|"dehomogen
 
 ## Bottom Line
 
-The popular framing of *two Mises disciples with different economic ideas* is half right. They share the Misesian core, and they diverge on method, on the calculation-vs-knowledge framing, and on how much state is permissible. But they are not equidistant from Mises: Rothbard preserved Mises's praxeology, calculation argument, and uncompromising anti-statism, while Hayek qualified the method, reframed the socialism critique around knowledge, and stopped at limited government. The article presents this as the wiki's synthesis; the strong two-paradigms claim is Salerno's, and how sharply Mises and Hayek really divide is itself debated — some Austrians read more continuity than the dehomogenizers allow.
+The popular framing of *two Mises disciples with different economic ideas* is half right. They share the Misesian core, and they diverge on method, on the calculation-vs-knowledge framing, and on how much state is permissible. But they are not equidistant from Mises: Rothbard preserved Mises's praxeology and calculation argument, while Hayek qualified the method and reframed the socialism critique around knowledge. On the state itself, though, neither simply inherited Mises. Mises was not an anarchist — he dismissed anarchism as failing to reckon with those "too narrow-minded or too weak" to keep the peace unaided — so Rothbard's private-property anarchism is a *correction* of his teacher on that point, not a preservation of him, while Hayek moved the other way and stopped at limited government. The article presents this as the wiki's synthesis; the strong two-paradigms claim is Salerno's, and how sharply Mises and Hayek really divide is itself debated — some Austrians read more continuity than the dehomogenizers allow.
 
 ## See Also
 
