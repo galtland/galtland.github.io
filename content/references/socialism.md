@@ -3,7 +3,7 @@ title: "Socialism"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-08-05
+updated: 2026-08-10
 verified: 2026-06-26
 tags: [mises, socialism, economic-calculation, austrian-economics]
 aliases: [Mises Socialism, Die Gemeinwirtschaft]
@@ -43,7 +43,7 @@ The current raw source is the Mises Institute's PDF edition (600 pages), extract
 - [[state-power-and-intervention|State Power and Intervention]] - state coercion as a special case of destructionism
 - [[liberalism|Liberalism]] - related work in this corpus
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis grounded in the 1922 calculation framework this book opens
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates a Bohm-Bawerk-to-Mises paradigm from a Wieser-to-Hayek one inside modern Austrian economics; it names Kirzner and White on the Hayekian side and does not place Rothbard on the Misesian side.
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the calculation argument invoked as the reply that holds whoever enforces property
 

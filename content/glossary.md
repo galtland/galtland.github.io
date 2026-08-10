@@ -95,7 +95,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 
 - **[David Chaum](/references/david-chaum)** — Cryptographer who invented blind signatures and the untraceable-payments program — the pre-cypherpunk foundation whose ecash and DigiCash ancestored later digital cash.
 - **[David Friedman](/references/david-friedman)** — The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
-- **[De Legibus (On the Laws)](/references/cicero-de-legibus)** — Cicero's On the Laws: the developed argument that law and justice are 'an institution of nature,' grounded in right reason — the systematic core of classical natural law.
+- **[De Legibus (On the Laws)](/references/cicero-de-legibus)** — Cicero's On the Laws: the developed argument that law and justice are 'an institution of nature', grounded in right reason — the systematic core of classical natural law.
 - **[De Re Publica (The Republic of Cicero)](/references/cicero-de-re-publica)** — Cicero's dialogue transmitting Stoic natural law as 'right reason in accordance with nature' — the most quoted classical formula of the tradition.
 - **[The Declaration of Independence](/references/declaration-of-independence)** — The 1776 Declaration: Lockean natural rights as a public political creed — unalienable rights, consent, and the right of revolution.
 - **[Deflation](/concepts/deflation)** — The Austrian case that falling prices aren't one thing: 'growth' deflation from productivity is benign, only credit-contraction deflation is painful — against the mainstream fear of deflation as such.
@@ -132,7 +132,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[The Fiat Standard](/references/the-fiat-standard)** — Ammous's 2021 companion book: fiat as debt-based monetary technology, and Bitcoin as the comparative hard-money alternative.
 - **[Financial Surveillance](/concepts/financial-surveillance)** — The KYC/AML/FATF regime that turns the payment system into surveillance and control by deputizing intermediaries; CBDCs are its culmination, fungible self-custody the counter.
 - **[Fog of CryptoWar](/references/fog-of-cryptowar)** — Logan's 2017 field map of Crypto War 2: the 'ban encryption' debate is a straw man while plaintext access arrives through vendor pressure, weak defaults, metadata retention, and lawful hacking.
-- **[Folkways](/references/folkways)** — Sumner's 1906 study coining ethnocentrism and the we-group/out-group distinction, cited here for the tribal sentiment nationalism mobilizes.
+- **[Folkways](/references/folkways)** — Sumner's 1906 study popularizing ethnocentrism and the we-group/out-group distinction, cited here for the tribal sentiment nationalism mobilizes.
 - **[For a New Liberty](/references/for-a-new-liberty)** — Rothbard's movement-level manifesto surveying libertarian doctrine, rights theory, and strategy across the full range of policy applications.
 - **[Forced Integration](/concepts/forced-integration)** — Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - **[Forward Secrecy](/concepts/forward-secrecy)** — A key-compromise limit: past sessions stay protected even if long-term keys are later stolen, usually by using and deleting ephemeral keys.
@@ -178,8 +178,8 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 
 ## I
 
-- **[Ideal Money](/concepts/ideal-money)** — Nash's claim that good money holds stable long-run value, approached by pegging issuance to a stable index rather than central-bank discretion — hard money's conclusion, outside Austrian theory.
-- **[Ideal Money and Asymptotically Ideal Money](/references/ideal-money-and-asymptotically-ideal-money)** — John Nash's lecture arguing for money of stable value via indexing issuance to industrial prices rather than central-bank discretion.
+- **[Ideal Money](/concepts/ideal-money)** — Nash's claim that good money holds stable long-run value, obtainable by pegging issuance to a stable index or approached asymptotically via competing inflation-targeting currencies — hard money's conclusion, outside Austrian theory.
+- **[Ideal Money and Asymptotically Ideal Money](/references/ideal-money-and-asymptotically-ideal-money)** — John Nash's lecture arguing for money of stable value — directly via an industrial price index, or asymptotically via competing inflation-targeting currencies.
 - **[In-Group/Out-Group Tribalism](/concepts/in-group-out-group-tribalism)** — Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility that nationalism mobilizes.
 - **[Individualism and Economic Order](/references/individualism-and-economic-order)** — Hayek's 1948 essay collection including 'The Use of Knowledge in Society' and the Socialist Calculation essays, his sharpest knowledge-problem critique of central planning.
 - **[Inflation](/concepts/inflation)** — In the Austrian sense, an increase in the money supply — of which rising prices are the symptom. Never neutral (the Cantillon effect makes it a hidden tax); at the limit it becomes the crack-up boom.
@@ -246,7 +246,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Milton Friedman](/references/milton-friedman)** — Milton Friedman (1912-2006), leader of the Chicago school and founder of monetarism, author of Capitalism and Freedom — the free-market ally the wiki's Austrians part with over money and method.
 - **[Minarchism](/concepts/minarchism)** — The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - **[The Minority Rule](/concepts/minority-rule)** — Nassim Taleb's claim that an intransigent minority of three to four percent, one that will not deviate while the majority is indifferent, can drag an entire population to its preference.
-- **[Mises and Hayek Dehomogenized](/references/mises-and-hayek-dehomogenized)** — Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
+- **[Mises and Hayek Dehomogenized](/references/mises-and-hayek-dehomogenized)** — Salerno's 1993 dehomogenization paper separates a Bohm-Bawerk-to-Mises paradigm from a Wieser-to-Hayek one, naming Kirzner and White as the Hayekian line's modern carriers.
 - **[Mises on Capital Consumption](/concepts/mises-on-capital-consumption)** — Mises's *Liberalism* claim that 'antiliberal policy is a policy of capital consumption' — present abundance bought by drawing down the productive stock that would fund future production.
 - **[Mises on Credit Expansion](/concepts/mises-on-credit-expansion)** — Mises's claim that credit expansion drops the gross market interest rate below its time-preference level, falsifying calculation and making unrealizable projects look profitable.
 - **[Mises on Minimum Wage](/concepts/mises-on-minimum-wage)** — Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.

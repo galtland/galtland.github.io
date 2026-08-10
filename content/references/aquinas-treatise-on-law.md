@@ -32,7 +32,7 @@ The Treatise's most quoted thesis for the rights tradition is that human law has
 
 ## Place in This Wiki
 
-Aquinas synthesizes [[nicomachean-ethics|Aristotle]] ("the Philosopher," cited on nearly every page) and the [[cicero-de-re-publica|Ciceronian]] / Roman-law vocabulary of natural reason. His "reason for the common good" framing and the unjust-law thesis pass to [[the-rights-of-war-and-peace|Grotius]] and the Late Scholastics, and onward to [[the-second-treatise-of-government|Locke]]. The wiki uses Aquinas as the medieval pillar of the lineage, not as a libertarian: his "common good" and his comfort with coercive human law are real differences from the rights-first moderns.
+Aquinas synthesizes [[nicomachean-ethics|Aristotle]] ("the Philosopher", cited on nearly every page) and the [[cicero-de-re-publica|Ciceronian]] / Roman-law vocabulary of natural reason. His "reason for the common good" framing and the unjust-law thesis pass to [[the-rights-of-war-and-peace|Grotius]] and the Late Scholastics, and onward to [[the-second-treatise-of-government|Locke]]. The wiki uses Aquinas as the medieval pillar of the lineage, not as a libertarian: his "common good" and his comfort with coercive human law are real differences from the rights-first moderns.
 
 ## See Also
 

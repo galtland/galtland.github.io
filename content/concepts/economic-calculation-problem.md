@@ -3,7 +3,7 @@ title: "Economic Calculation Problem"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-08-06
+updated: 2026-08-10
 verified: 2026-07-23
 tags: [calculation-problem, socialism, austrian-economics, central-planning]
 aliases: [Calculation Problem, Mises's Calculation Argument, Socialist Calculation Debate, Socialist Calculation]
@@ -54,7 +54,7 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - application of calculation concerns to politicized fiat credit allocation
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source connecting fiat incentives to price, science, fuel, and policy distortions
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source for the capitalism and calculation chapter
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates a Bohm-Bawerk-to-Mises paradigm from a Wieser-to-Hayek one inside modern Austrian economics; it names Kirzner and White on the Hayekian side and does not place Rothbard on the Misesian side.
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion, since planners must impose one ranking of ends on a population that disagrees
 - [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 - [[power-and-market|Power and Market]] - Rothbard's 1970 companion to Man, Economy, and State, developing the typology of intervention and the critique of taxation
@@ -73,7 +73,7 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
 - [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
-- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
+- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value — obtainable by pegging issuance to a stable index, or approached asymptotically through inflation targeting and competition among managed currencies
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 

@@ -8,8 +8,8 @@ verified: 2026-06-12
 tags: [cicero, natural-law, natural-rights, classical-canon, stoicism, de-legibus, on-the-laws, right-reason, justice, roman-law]
 aliases: [De Legibus, On the Laws, Cicero On the Laws, Laws]
 confidence: medium
-summary: "Cicero's De Legibus (On the Laws, c. 52 BC) — the systematic companion to De Re Publica and the fullest classical statement of the natural-law argument: justice and law are rooted in nature and right reason, not in opinion or utility. Nature has given us 'that law, which is nothing else than right reason enjoining what is good, and forbidding what is evil'; man is 'born for justice.'"
-short: "Cicero's On the Laws: the developed argument that law and justice are 'an institution of nature,' grounded in right reason — the systematic core of classical natural law."
+summary: "Cicero's De Legibus (On the Laws, c. 52 BC) — the systematic companion to De Re Publica and the fullest classical statement of the natural-law argument: justice and law are rooted in nature and right reason, not in opinion or utility. Nature has given us 'that law, which is nothing else than right reason enjoining what is good, and forbidding what is evil'; man is 'born for justice'."
+short: "Cicero's On the Laws: the developed argument that law and justice are 'an institution of nature', grounded in right reason — the systematic core of classical natural law."
 ---
 
 # De Legibus (On the Laws)

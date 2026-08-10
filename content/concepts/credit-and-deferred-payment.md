@@ -50,7 +50,7 @@ A few paragraphs later in the same section, Rothbard names the diagnostic featur
 
 The contrast with cash is then drawn out in MES Ch. 6, "Production: The Rate of Interest and Its Determination", §2 "The Determination of the Pure Rate of Interest: The Time Market":
 
-> "When a man buys a suit for cash, he transfers money in exchange for the suit. The transaction is finished. In a credit transaction he receives simply a written I.O.U., or note, entitling him to claim a certain amount of money at a future date. The transaction remains to be completed in the future".
+> "When a man buys a suit for cash, he transfers money in exchange for the suit. The transaction is finished. In a credit transaction he receives simply a written I.O.U., or note, entitling him to claim a certain amount of money at a future date. The transaction remains to be completed in the future, when B, the borrower, 'repays the loan' by transferring the agreed money to the creditor."
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[man-economy-and-state|Man, Economy, and State]]
 

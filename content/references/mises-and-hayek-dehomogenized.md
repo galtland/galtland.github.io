@@ -3,13 +3,13 @@ title: "Mises and Hayek Dehomogenized"
 volatility: cold
 category: reference
 created: 2026-05-28
-updated: 2026-08-05
+updated: 2026-08-10
 verified: 2026-06-18
 tags: [salerno, mises, hayek, austrian-economics, socialist-calculation, market-process, monetary-calculation, knowledge-problem]
 aliases: [Mises Hayek Dehomogenized, Dehomogenized, Salerno 1993]
 confidence: high
-summary: "Joseph T. Salerno's 1993 paper argues that modern Austrian economics contains two distinct paradigms, the Mises-Rothbard line and the Hayek-Kirzner line, with different source lineages, equilibrium treatments, and readings of the socialist-calculation debate."
-short: "Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics."
+summary: "Joseph T. Salerno's 1993 paper argues that modern Austrian economics contains two distinct paradigms, a Misesian line descending from Bohm-Bawerk and a Hayekian line descending from Wieser, with different source lineages, equilibrium treatments, and readings of the socialist-calculation debate."
+short: "Salerno's 1993 dehomogenization paper separates a Bohm-Bawerk-to-Mises paradigm from a Wieser-to-Hayek one, naming Kirzner and White as the Hayekian line's modern carriers."
 ---
 
 # Mises and Hayek Dehomogenized
@@ -20,7 +20,7 @@ short: "Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and H
 
 Salerno adapts William Jaffe's "dehomogenization" move in the history of marginalism. Just as [[carl-menger|Menger]], Jevons, and Walras founded different marginalist traditions, Salerno argues that modern Austrian economics inherited two different paradigms from Menger's students and successors.
 
-The Mises paradigm develops the Bohm-Bawerk-Mises-Rothbard line. The Hayek paradigm develops the Wieser-Hayek-Kirzner line. Salerno does not deny overlap, shared Austrian ancestry, or the quality of Hayekian work. His objection is to reading Mises through Hayekian categories and then treating the result as the Austrian position.
+The Mises paradigm develops the Bohm-Bawerk-Mises line; the Hayek paradigm develops the Wieser-Hayek-Kirzner line. Note that the paper names Kirzner (and, via Lawrence White, the free bankers) on the Hayekian side but does not place Rothbard on the Misesian side — reading him onto that map is this wiki's extension, made explicit in [[rothbard-vs-hayek|Rothbard vs. Hayek]]. Salerno does not deny overlap, shared Austrian ancestry, or the quality of Hayekian work. His objection is to reading Mises through Hayekian categories and then treating the result as the Austrian position.
 
 ## Equilibrium and Market Process
 
@@ -36,7 +36,7 @@ Hayek's argument, as Salerno presents it, is an impossibility claim about centra
 
 ## Why It Matters
 
-The paper matters because it sorts later Austrian debates about entrepreneurship, equilibrium, free banking, monetary theory, and calculation. It also clarifies why Salerno identifies himself with the Mises-Rothbard paradigm. It is a map for reading [[ludwig-von-mises|Ludwig von Mises]], [[friedrich-a-hayek|F. A. Hayek]], [[joseph-t-salerno|Joseph T. Salerno]], and the calculation-problem articles without flattening their differences.
+The paper matters because it sorts later Austrian debates about entrepreneurship, equilibrium, free banking, monetary theory, and calculation. It also clarifies why Salerno identifies himself with the Misesian paradigm — the paper's own label, and one it applies to a Bohm-Bawerk-to-Mises lineage rather than to a Mises-Rothbard pairing. It is a map for reading [[ludwig-von-mises|Ludwig von Mises]], [[friedrich-a-hayek|F. A. Hayek]], [[joseph-t-salerno|Joseph T. Salerno]], and the calculation-problem articles without flattening their differences.
 
 The article's confidence is high as a report of Salerno's own argument. Its broader historiographical thesis remains an interpretive position within Austrian economics rather than a neutral taxonomy accepted by every Austrian writer.
 

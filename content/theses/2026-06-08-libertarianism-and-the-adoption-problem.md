@@ -4,7 +4,7 @@ volatility: warm
 category: thesis
 type: thesis
 created: 2026-06-08
-updated: 2026-06-12
+updated: 2026-08-10
 verified: 2026-06-12
 tags: [thesis, libertarianism, adoption, strategy, obedience, nationalism, tribalism, public-choice, agorism, surveillance, cbdc, cryptography, monetary-collapse, creed, human-nature]
 aliases: [adoption problem, why libertarianism is hard to adopt, libertarianism and human nature, can libertarianism succeed, the surveillance objection]
@@ -61,7 +61,7 @@ The state refines that sentiment into national identity as part of its own conso
 
 ## The Internal Sects Are Real — But Share a Spine
 
-The reader is right that libertarianism is sect-ridden. [[rothbard-vs-hayek|Rothbard vs. Hayek]] charts the fault lines — praxeology vs. evolutionary empiricism, calculation vs. knowledge, anarcho-capitalism vs. limited government, natural-rights vs. consequentialist grounds — and [[mises-and-hayek-dehomogenized|Salerno's dehomogenization thesis]] calls them two paradigms, not one. But the same articles mark the limit: the schools share a property-and-exchange spine and divide over method, the role of the state, and moral grounding — not over the core voluntary-vs-coercive test. The orthodoxies raise the cost of entry; they are not evidence of incoherence. (They also bear on the reader's "creed" intuition below: a movement that argues this much internally is poorly shaped to become a unifying faith.)
+The reader is right that libertarianism is sect-ridden. [[rothbard-vs-hayek|Rothbard vs. Hayek]] charts the fault lines — praxeology vs. evolutionary empiricism, calculation vs. knowledge, anarcho-capitalism vs. limited government — and [[mises-and-hayek-dehomogenized|Salerno's dehomogenization thesis]] argues that the Misesian and Hayekian lines are two paradigms rather than one reading of a single doctrine — a Mises/Hayek contrast, not a Rothbard/Hayek one, so the sect split above is this wiki's application of that map rather than Salerno's own classification. But the same articles mark the limit: the schools share a property-and-exchange spine and divide over method, the role of the state, and moral grounding. They divide over the coercion test too, and it is worth not softening that: in [[the-ethics-of-liberty|The Ethics of Liberty]] Ch. 28 Rothbard calls Hayek's definition of coercion "the fundamental and grievous flaw in Hayek's system", because it reaches "peaceful and non-aggressive actions as well" rather than only the invasive use of force. What survives is narrower than a shared test: a shared subject matter. The orthodoxies raise the cost of entry; they are not evidence of incoherence. (They also bear on the reader's "creed" intuition below: a movement that argues this much internally is poorly shaped to become a unifying faith.)
 
 ## The Three Classic Routes — Each Necessary, None Sufficient
 
@@ -83,9 +83,9 @@ Third, **exit** — the strongest of the three. [[agorism-and-counter-economics|
 
 The reader's sharpest point: total payment tracking, AI analysis, and CBDCs make the state's observation so cheap and complete that exit is futile. The corpus takes this seriously rather than dismissing it. Its sharpest statement is [[max-hillebrand|Hillebrand]]'s critique of central-bank digital currency as *total intervention* — [[hillebrand-on-cbdcs|Hillebrand on CBDCs]] — that CBDCs are programmable money enabling comprehensive surveillance and control, not simple digital versions of existing currency.
 
-That is a contested argument, not a settled fact, and Hillebrand concedes the point himself:
+That is a contested argument, not a settled fact. Hillebrand supplies the reason it is contestable — but he offers it as an indictment, not as a concession, and the sentences that follow are the sharp end of it:
 
-> "Programmability is a design choice, not an inherent feature of digital currency. A CBDC could be designed to replicate cash's properties: anonymous, bearer-based, and free of spending restrictions."
+> "Programmability is a design choice, not an inherent feature of digital currency. A CBDC could be designed to replicate cash's properties: anonymous, bearer-based, and free of spending restrictions. That central banks consistently choose surveillance-enabling designs reflects institutional incentives, not technical necessity. The designs being deployed and piloted reveal the intended use."
 >
 > — [[max-hillebrand|Max Hillebrand]], [[the-praxeology-of-privacy|The Praxeology of Privacy]]
 
@@ -136,17 +136,17 @@ Liberty does not win by out-uniting nationalism on its own ground; it cannot. If
 - [[hard-money|Hard Money]] - the sound-money lifeboat
 - [[objectivism|Objectivism]] - a candidate liberty-as-creed
 - [[anatomy-of-the-state|Anatomy of the State]] - the war-ratchet and the ideological-legitimacy argument
-- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
+- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value — obtainable by pegging issuance to a stable index, or approached asymptotically through inflation targeting and competition among managed currencies
 - [[state-power-and-intervention|State Power and Intervention]] - Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, organized-crime/protection-racket sociology
 - [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged. A capitalist individualist adjacent to — but at odds with — the Austro-libertarian tradition.
 - [[charles-tilly|Charles Tilly]] - Short author reference for Charles Tilly, the American historical sociologist whose 1985 organized-crime essay and later *Coercion, Capital
 - [[etienne-de-la-boetie|Étienne de la Boétie]] - Short author reference for Étienne de la Boétie, the sixteenth-century French humanist whose Discourse of Voluntary Servitude supplies this wiki's foundational account of tyranny as something
-- [[folkways|Folkways]] - Reference guide to W. G. Sumner's Folkways (1906), the classic statement of the we-group/out-group distinction and the coinage of ethnocentrism
+- [[folkways|Folkways]] - Reference guide to W. G. Sumner's Folkways (1906), the classic statement of the we-group/out-group distinction and the work that popularized ethnocentrism
 - [[for-a-new-liberty|For a New Liberty]] - Reference guide to Rothbard's movement-level overview of libertarian doctrine, applications, and strategy, now ingested in full text.
 - [[hannah-arendt|Hannah Arendt]] - Author reference for Hannah Arendt, whose works now present in the wiki include Origins, Eichmann in Jerusalem, On Violence, The Human Condition, and On Revolution.
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - Reference guide to Hans-Hermann Hoppe's role in this wiki as a property theorist, Austrian economist, and major bridge from market theory to private-law anarchism.
 - [[max-hillebrand|Max Hillebrand]] - Short author reference for Max Hillebrand as represented in this wiki by *The Praxeology of Privacy*, a Towards Liberty public-domain book connecting Austrian economics
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates a Bohm-Bawerk-to-Mises paradigm from a Wieser-to-Hayek one inside modern Austrian economics; it names Kirzner and White on the Hayekian side and does not place Rothbard on the Misesian side.
 - [[murray-n-rothbard|Murray N. Rothbard]] - Reference guide to Rothbard's place in this wiki as system-builder, economist, anti-state theorist, and movement strategist.
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - Reference guide to Max Hillebrand's public-domain v0.2.0 book arguing that privacy is a structural feature of human action and that Austrian theory and cypherpunk implementation converge
 - [[william-f-shughart-ii|William F. Shughart II]] - Short author reference for William F. Shughart II, the American public-choice economist whose Concise Encyclopedia of Economics entry 'Public Choice' supplies this wiki's compact statement

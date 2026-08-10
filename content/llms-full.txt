@@ -307,7 +307,7 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[the-role-of-monetary-policy|The Role of Monetary Policy]] - Friedman's 1968 monetarist address: the limits of monetary policy, the natural rate, and the steady money-growth rule — the Chicago account of the cycle the Austrians dispute.
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
-- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
+- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value — obtainable by pegging issuance to a stable index, or approached asymptotically through inflation targeting and competition among managed currencies
 - [[cantillon-effect|The Cantillon Effect]] - The principle that new money is non-neutral: whoever receives it first gains real purchasing power at the expense of those who receive it last — the distributional injustice of inflation.
 - [[richard-cantillon|Richard Cantillon]] - Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
 - [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
@@ -1612,7 +1612,7 @@ A few paragraphs later in the same section, Rothbard names the diagnostic featur
 
 The contrast with cash is then drawn out in MES Ch. 6, "Production: The Rate of Interest and Its Determination", §2 "The Determination of the Pure Rate of Interest: The Time Market":
 
-> "When a man buys a suit for cash, he transfers money in exchange for the suit. The transaction is finished. In a credit transaction he receives simply a written I.O.U., or note, entitling him to claim a certain amount of money at a future date. The transaction remains to be completed in the future".
+> "When a man buys a suit for cash, he transfers money in exchange for the suit. The transaction is finished. In a credit transaction he receives simply a written I.O.U., or note, entitling him to claim a certain amount of money at a future date. The transaction remains to be completed in the future, when B, the borrower, 'repays the loan' by transferring the agreed money to the creditor."
 >
 > — [[murray-n-rothbard|Murray Rothbard]], [[man-economy-and-state|Man, Economy, and State]]
 
@@ -2715,7 +2715,7 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[fiat-as-engineered-system|Fiat as Engineered System]] - application of calculation concerns to politicized fiat credit allocation
 - [[the-fiat-standard|The Fiat Standard]] - Ammous source connecting fiat incentives to price, science, fuel, and policy distortions
 - [[principles-of-economics-ammous|Principles of Economics]] - textbook source for the capitalism and calculation chapter
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates a Bohm-Bawerk-to-Mises paradigm from a Wieser-to-Hayek one inside modern Austrian economics; it names Kirzner and White on the Hayekian side and does not place Rothbard on the Misesian side.
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is unworkable without dictatorial coercion, since planners must impose one ranking of ends on a population that disagrees
 - [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 - [[power-and-market|Power and Market]] - Rothbard's 1970 companion to Man, Economy, and State, developing the typology of intervention and the critique of taxation
@@ -2734,7 +2734,7 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
 - [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
-- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
+- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value — obtainable by pegging issuance to a stable index, or approached asymptotically through inflation targeting and competition among managed currencies
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 
@@ -4444,7 +4444,11 @@ This converges directly with [[fiat-as-engineered-system|Fiat as Engineered Syst
 
 ## "Asymptotically ideal money" — and the Austrian tension
 
-Nash's constructive proposal is where he parts company with the wiki's main tradition. He proposes approaching an *ideal* money — one of stable long-run value — **asymptotically**, by linking a currency to "an appropriate index" of value (drawn from internationally traded commodities, of which he notes gold and silver are only examples) rather than leaving it to central-bank discretion. He is scathing about the prevailing alternative, "inflation targeting", which he says lets officials *confess* that their currency is managed by a chosen, adjustable target. The aim is hard-money's: remove the issuer's discretion to inflate. But the mechanism is still a *managed index*, a technocratic peg — which the [[economic-calculation-problem|calculation]] and knowledge-problem critiques warn is itself a planning conceit: any chosen index is still an administered standard, not a market-discovered one. The Austrian preference is for money the market selects (see [[unforgeable-costliness|unforgeable costliness]] and the gold/Bitcoin lineage in [[hard-money|hard money]]), not a better-designed peg.
+Nash makes *two* proposals, and they are easy to run together — this article did, until the distinction was checked against the lecture.
+
+The first is **ideal money** proper: link a currency to "an appropriate index" of value, drawn from internationally traded commodities, of which he notes gold and silver are only examples, rather than leaving it to central-bank discretion. Nash judges that scheme sound but politically hard, saying it "would be politically difficult to arrive at the implementation of such a system".
+
+**Asymptotically ideal money** is the second and different route, and it runs *through* central banks rather than around them. Nash says the idea came from observing "inflation targeting" — which he reads not as a defect to be scorned but as a confession, an admission by officials that "it is indeed after all possible to control inflation by controlling the supply of money". From there the approach is incremental: value stabilization against a domestic price index, then international comparison among managed currencies — the euro, the dollar, the yen, the pound — which citizens can view "with critical eyes", so that competition drags quality upward over time. The aim is hard-money's: remove the issuer's discretion to inflate. But the mechanism is still a *managed index*, a technocratic peg — which the [[economic-calculation-problem|calculation]] and knowledge-problem critiques warn is itself a planning conceit: any chosen index is still an administered standard, not a market-discovered one. The Austrian preference is for money the market selects (see [[unforgeable-costliness|unforgeable costliness]] and the gold/Bitcoin lineage in [[hard-money|hard money]]), not a better-designed peg.
 
 The convergence is therefore on the *diagnosis* (stable-value money is good; managed inflation is a defect) and a divergence on the *cure* (administered index vs. market-chosen hard money). That asymmetry — same destination, contested route — is exactly why Nash is worth citing: he shows the anti-inflation conclusion does not depend on Austrian premises.
 
@@ -4899,7 +4903,7 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - sibling Hayek focused article on the political-philosophical companion to the epistemic argument
 
 
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates a Bohm-Bawerk-to-Mises paradigm from a Wieser-to-Hayek one inside modern Austrian economics; it names Kirzner and White on the Hayekian side and does not place Rothbard on the Misesian side.
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
 - [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 
@@ -4917,7 +4921,7 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 - [[methodological-dualism|Methodological Dualism]] - Mises's claim that human action, being purposive, cannot be studied with the methods of physics — splitting the study of action into a priori theory and the understanding of unique history
 - [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
-- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
+- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value — obtainable by pegging issuance to a stable index, or approached asymptotically through inflation targeting and competition among managed currencies
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
@@ -8512,7 +8516,7 @@ Category: concept
 
 # Rothbard vs. Hayek: The Two Heirs of Mises
 
-> [[rothbard-vs-hayek|Rothbard vs. Hayek]] maps the divergence between the two most influential carriers of the Misesian tradition. Both [[murray-n-rothbard|Murray Rothbard]] and [[friedrich-a-hayek|F. A. Hayek]] build on [[ludwig-von-mises|Mises]], but they diverge on method, on how to state the case against socialism, and on politics — and, importantly, they do not diverge *symmetrically*: on the standard "dehomogenization" reading Rothbard is the orthodox Misesian heir while Hayek developed a distinct paradigm.
+> [[rothbard-vs-hayek|Rothbard vs. Hayek]] maps the divergence between the two most influential carriers of the Misesian tradition. Both [[murray-n-rothbard|Murray Rothbard]] and [[friedrich-a-hayek|F. A. Hayek]] build on [[ludwig-von-mises|Mises]], but they diverge on method, on how to state the case against socialism, and on politics — and, importantly, they do not diverge *symmetrically*. Salerno's "dehomogenization" reading supplies the map on which that asymmetry rests — a Misesian paradigm descending from Böhm-Bawerk against a Hayekian one descending from Wieser — and this article's reading places Rothbard on the Misesian side of it, which Salerno's paper itself does not do.
 
 ## The Shared Inheritance
 
@@ -8534,7 +8538,7 @@ This is where Rothbard's criticism is most direct. In [[the-ethics-of-liberty|Th
 
 ## The Dehomogenization Map
 
-Joseph [[joseph-t-salerno|Salerno]]'s [[mises-and-hayek-dehomogenized|"dehomogenization"]] thesis (1993) gives the cleanest statement of why these are not two readings of one doctrine. Salerno argues that contemporary Austrian economics actually contains **two paradigms with different ancestries**: a *Mises paradigm* developing the [[eugen-von-bohm-bawerk|Böhm-Bawerkian]] line (calculation, the entrepreneur, real market prices, equilibrium as a foil) and a *Hayek paradigm* developing the Wieserian line (dispersed knowledge, the market as a discovery procedure, equilibration as the central process), with Kirzner — and, via Lawrence White, the modern free-banking school — as the principal modern carriers of the Hayekian side. On this map Rothbard sits squarely in the Misesian paradigm, which is why the divergence is asymmetric: Rothbard is the continuation, Hayek the branch.
+Joseph [[joseph-t-salerno|Salerno]]'s [[mises-and-hayek-dehomogenized|"dehomogenization"]] thesis (1993) gives the cleanest statement of why these are not two readings of one doctrine. Salerno argues that contemporary Austrian economics actually contains **two paradigms with different ancestries**: a *Mises paradigm* developing the [[eugen-von-bohm-bawerk|Böhm-Bawerkian]] line (calculation, the entrepreneur, real market prices, equilibrium as a foil) and a *Hayek paradigm* developing the Wieserian line (dispersed knowledge, the market as a discovery procedure, equilibration as the central process), with Kirzner — and, via Lawrence White, the modern free-banking school — as the principal modern carriers of the Hayekian side. Placing *Rothbard* on that map is this wiki's extension, not Salerno's: the 1993 paper contrasts Mises with Hayek and names Kirzner and White on the Hayekian side, but it does not assign Rothbard to the Misesian paradigm, and where it discusses him at all it is over a narrower dispute about whether Mises favoured free banking as a way of *suppressing* fiduciary media. The extension is short — Rothbard's calculation-first, praxeological commitments are the ones Salerno uses to define the Mises paradigm — but it is an inference, and the asymmetry it yields (Rothbard the continuation, Hayek the branch) should be read as the wiki's reading rather than a finding of the paper.
 
 ## Bottom Line
 
@@ -11553,7 +11557,7 @@ The Treatise's most quoted thesis for the rights tradition is that human law has
 
 ## Place in This Wiki
 
-Aquinas synthesizes [[nicomachean-ethics|Aristotle]] ("the Philosopher," cited on nearly every page) and the [[cicero-de-re-publica|Ciceronian]] / Roman-law vocabulary of natural reason. His "reason for the common good" framing and the unjust-law thesis pass to [[the-rights-of-war-and-peace|Grotius]] and the Late Scholastics, and onward to [[the-second-treatise-of-government|Locke]]. The wiki uses Aquinas as the medieval pillar of the lineage, not as a libertarian: his "common good" and his comfort with coercive human law are real differences from the rights-first moderns.
+Aquinas synthesizes [[nicomachean-ethics|Aristotle]] ("the Philosopher", cited on nearly every page) and the [[cicero-de-re-publica|Ciceronian]] / Roman-law vocabulary of natural reason. His "reason for the common good" framing and the unjust-law thesis pass to [[the-rights-of-war-and-peace|Grotius]] and the Late Scholastics, and onward to [[the-second-treatise-of-government|Locke]]. The wiki uses Aquinas as the medieval pillar of the lineage, not as a libertarian: his "common good" and his comfort with coercive human law are real differences from the rights-first moderns.
 
 ## See Also
 
@@ -14491,11 +14495,11 @@ Category: reference
 
 # Ideal Money and Asymptotically Ideal Money
 
-> [[ideal-money-and-asymptotically-ideal-money|Ideal Money and Asymptotically Ideal Money]] is [[john-nash|Nash]]'s lecture arguing that money should hold a stable value over the long run, and that such an "ideal money" can be approached asymptotically by tying issuance to an objective price index instead of leaving it to central-bank discretion.
+> [[ideal-money-and-asymptotically-ideal-money|Ideal Money and Asymptotically Ideal Money]] is [[john-nash|Nash]]'s lecture arguing that money should hold a stable value over the long run, and offering two distinct routes to it: an "ideal money" proper, obtained by linking issuance to "an appropriate index of the prices of internationally traded commodities" instead of leaving it to central-bank discretion, and a separate "asymptotically ideal" route that runs *through* central banks, via inflation targeting and competition among managed currencies.
 
 ## What the Lecture Argues
 
-Nash starts from the observation that a currency's usefulness as a store of value and unit of account depends on the stability of what it will buy over time, and that discretionary monetary management has historically failed to deliver that stability. His constructive proposal is an "ideal money" whose value is anchored to a broad, objectively measurable basket — he gestures at an industrial consumption price index — so that the standard is not a policy choice renegotiated by each administration but a defined target. Because a perfectly ideal money may be unattainable in practice, he frames the goal as one approached *asymptotically*: institutions can get closer to it by constraining issuance to the index rather than to political convenience. The argument is technocratic and design-oriented, reaching a hard-money-adjacent conclusion without invoking gold, praxeology, or the business cycle.
+Nash starts from the observation that a currency's usefulness as a store of value and unit of account depends on the stability of what it will buy over time, and that discretionary monetary management has historically failed to deliver that stability. His constructive proposal is an "ideal money" whose value is anchored to a broad, objectively measurable basket — he specifies "an appropriate index of the prices of internationally traded commodities", noting gold and silver as examples — so that the standard is not a policy choice renegotiated by each administration but a defined target. He judges that scheme sound but politically hard to reach. The *asymptotic* half of the title is a second, separate route, and it runs through central banks rather than around them: Nash reads the fashion for "inflation targeting" as a confession by officials that inflation can in fact be controlled, and argues that value stabilization against a domestic price index, followed by international comparison among managed currencies, lets the public press for better money over time. The argument is technocratic and design-oriented, reaching a hard-money-adjacent conclusion without invoking gold, praxeology, or the business cycle.
 
 ## Why It Matters in This Wiki
 
@@ -14508,7 +14512,7 @@ This lecture is the wiki's evidence that the case against discretionary fiat inf
 
 ## Sources
 
-- [Ideal Money and Asymptotically Ideal Money](https://www.cypherpunkbooks.com/book/ideal-money-and-asymptotically-ideal-money) - John F. Nash's Ideal Money lectures: inflation-targeting fiat as a Keynesian evasion, and an asymptotically ideal money disciplined by an index of prices
+- [Ideal Money and Asymptotically Ideal Money](https://www.cypherpunkbooks.com/book/ideal-money-and-asymptotically-ideal-money) - John F. Nash's Ideal Money lectures: the industrial-price-index proposal for an ideal money, and the separate asymptotic route in which inflation targeting is read as a confession that inflation is controllable, with currency competition doing the rest
 
 ---
 
@@ -14555,7 +14559,7 @@ In this volume Hayek explicitly takes up the question Mises had pressed: whether
 - [[road-to-serfdom|The Road to Serfdom]] - political application of the same argument
 - [[prices-and-production|Prices and Production]] - Hayek's monetary-theoretic companion volume
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis using the knowledge-problem layer to read the post-repeal supply response
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates a Bohm-Bawerk-to-Mises paradigm from a Wieser-to-Hayek one inside modern Austrian economics; it names Kirzner and White on the Hayekian side and does not place Rothbard on the Misesian side.
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
 - [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
@@ -15727,7 +15731,7 @@ Category: reference
 
 Salerno adapts William Jaffe's "dehomogenization" move in the history of marginalism. Just as [[carl-menger|Menger]], Jevons, and Walras founded different marginalist traditions, Salerno argues that modern Austrian economics inherited two different paradigms from Menger's students and successors.
 
-The Mises paradigm develops the Bohm-Bawerk-Mises-Rothbard line. The Hayek paradigm develops the Wieser-Hayek-Kirzner line. Salerno does not deny overlap, shared Austrian ancestry, or the quality of Hayekian work. His objection is to reading Mises through Hayekian categories and then treating the result as the Austrian position.
+The Mises paradigm develops the Bohm-Bawerk-Mises line; the Hayek paradigm develops the Wieser-Hayek-Kirzner line. Note that the paper names Kirzner (and, via Lawrence White, the free bankers) on the Hayekian side but does not place Rothbard on the Misesian side — reading him onto that map is this wiki's extension, made explicit in [[rothbard-vs-hayek|Rothbard vs. Hayek]]. Salerno does not deny overlap, shared Austrian ancestry, or the quality of Hayekian work. His objection is to reading Mises through Hayekian categories and then treating the result as the Austrian position.
 
 ## Equilibrium and Market Process
 
@@ -15743,7 +15747,7 @@ Hayek's argument, as Salerno presents it, is an impossibility claim about centra
 
 ## Why It Matters
 
-The paper matters because it sorts later Austrian debates about entrepreneurship, equilibrium, free banking, monetary theory, and calculation. It also clarifies why Salerno identifies himself with the Mises-Rothbard paradigm. It is a map for reading [[ludwig-von-mises|Ludwig von Mises]], [[friedrich-a-hayek|F. A. Hayek]], [[joseph-t-salerno|Joseph T. Salerno]], and the calculation-problem articles without flattening their differences.
+The paper matters because it sorts later Austrian debates about entrepreneurship, equilibrium, free banking, monetary theory, and calculation. It also clarifies why Salerno identifies himself with the Misesian paradigm — the paper's own label, and one it applies to a Bohm-Bawerk-to-Mises lineage rather than to a Mises-Rothbard pairing. It is a map for reading [[ludwig-von-mises|Ludwig von Mises]], [[friedrich-a-hayek|F. A. Hayek]], [[joseph-t-salerno|Joseph T. Salerno]], and the calculation-problem articles without flattening their differences.
 
 The article's confidence is high as a report of Salerno's own argument. Its broader historiographical thesis remains an interpretive position within Austrian economics rather than a neutral taxonomy accepted by every Austrian writer.
 
@@ -17554,7 +17558,7 @@ The current raw source is the Mises Institute's PDF edition (600 pages), extract
 - [[state-power-and-intervention|State Power and Intervention]] - state coercion as a special case of destructionism
 - [[liberalism|Liberalism]] - related work in this corpus
 - [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis grounded in the 1922 calculation framework this book opens
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates a Bohm-Bawerk-to-Mises paradigm from a Wieser-to-Hayek one inside modern Austrian economics; it names Kirzner and White on the Hayekian side and does not place Rothbard on the Misesian side.
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the calculation argument invoked as the reply that holds whoever enforces property
 
@@ -20506,7 +20510,7 @@ The state refines that sentiment into national identity as part of its own conso
 
 ## The Internal Sects Are Real — But Share a Spine
 
-The reader is right that libertarianism is sect-ridden. [[rothbard-vs-hayek|Rothbard vs. Hayek]] charts the fault lines — praxeology vs. evolutionary empiricism, calculation vs. knowledge, anarcho-capitalism vs. limited government, natural-rights vs. consequentialist grounds — and [[mises-and-hayek-dehomogenized|Salerno's dehomogenization thesis]] calls them two paradigms, not one. But the same articles mark the limit: the schools share a property-and-exchange spine and divide over method, the role of the state, and moral grounding — not over the core voluntary-vs-coercive test. The orthodoxies raise the cost of entry; they are not evidence of incoherence. (They also bear on the reader's "creed" intuition below: a movement that argues this much internally is poorly shaped to become a unifying faith.)
+The reader is right that libertarianism is sect-ridden. [[rothbard-vs-hayek|Rothbard vs. Hayek]] charts the fault lines — praxeology vs. evolutionary empiricism, calculation vs. knowledge, anarcho-capitalism vs. limited government — and [[mises-and-hayek-dehomogenized|Salerno's dehomogenization thesis]] argues that the Misesian and Hayekian lines are two paradigms rather than one reading of a single doctrine — a Mises/Hayek contrast, not a Rothbard/Hayek one, so the sect split above is this wiki's application of that map rather than Salerno's own classification. But the same articles mark the limit: the schools share a property-and-exchange spine and divide over method, the role of the state, and moral grounding. They divide over the coercion test too, and it is worth not softening that: in [[the-ethics-of-liberty|The Ethics of Liberty]] Ch. 28 Rothbard calls Hayek's definition of coercion "the fundamental and grievous flaw in Hayek's system", because it reaches "peaceful and non-aggressive actions as well" rather than only the invasive use of force. What survives is narrower than a shared test: a shared subject matter. The orthodoxies raise the cost of entry; they are not evidence of incoherence. (They also bear on the reader's "creed" intuition below: a movement that argues this much internally is poorly shaped to become a unifying faith.)
 
 ## The Three Classic Routes — Each Necessary, None Sufficient
 
@@ -20528,9 +20532,9 @@ Third, **exit** — the strongest of the three. [[agorism-and-counter-economics|
 
 The reader's sharpest point: total payment tracking, AI analysis, and CBDCs make the state's observation so cheap and complete that exit is futile. The corpus takes this seriously rather than dismissing it. Its sharpest statement is [[max-hillebrand|Hillebrand]]'s critique of central-bank digital currency as *total intervention* — [[hillebrand-on-cbdcs|Hillebrand on CBDCs]] — that CBDCs are programmable money enabling comprehensive surveillance and control, not simple digital versions of existing currency.
 
-That is a contested argument, not a settled fact, and Hillebrand concedes the point himself:
+That is a contested argument, not a settled fact. Hillebrand supplies the reason it is contestable — but he offers it as an indictment, not as a concession, and the sentences that follow are the sharp end of it:
 
-> "Programmability is a design choice, not an inherent feature of digital currency. A CBDC could be designed to replicate cash's properties: anonymous, bearer-based, and free of spending restrictions."
+> "Programmability is a design choice, not an inherent feature of digital currency. A CBDC could be designed to replicate cash's properties: anonymous, bearer-based, and free of spending restrictions. That central banks consistently choose surveillance-enabling designs reflects institutional incentives, not technical necessity. The designs being deployed and piloted reveal the intended use."
 >
 > — [[max-hillebrand|Max Hillebrand]], [[the-praxeology-of-privacy|The Praxeology of Privacy]]
 
@@ -20581,17 +20585,17 @@ Liberty does not win by out-uniting nationalism on its own ground; it cannot. If
 - [[hard-money|Hard Money]] - the sound-money lifeboat
 - [[objectivism|Objectivism]] - a candidate liberty-as-creed
 - [[anatomy-of-the-state|Anatomy of the State]] - the war-ratchet and the ideological-legitimacy argument
-- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value, approached asymptotically by pegging issuance to a stable index instead of central-bank discretion
+- [[ideal-money|Ideal Money]] - Nash's claim that good money is money of stable long-run value — obtainable by pegging issuance to a stable index, or approached asymptotically through inflation targeting and competition among managed currencies
 - [[state-power-and-intervention|State Power and Intervention]] - Libertarian account of the state as legalized privilege: conquest origin, political means, taxation, monopoly law, intervention, war-making, organized-crime/protection-racket sociology
 - [[ayn-rand|Ayn Rand]] - Novelist-philosopher (1905-1982), founder of Objectivism; author of The Fountainhead and Atlas Shrugged. A capitalist individualist adjacent to — but at odds with — the Austro-libertarian tradition.
 - [[charles-tilly|Charles Tilly]] - Short author reference for Charles Tilly, the American historical sociologist whose 1985 organized-crime essay and later *Coercion, Capital
 - [[etienne-de-la-boetie|Étienne de la Boétie]] - Short author reference for Étienne de la Boétie, the sixteenth-century French humanist whose Discourse of Voluntary Servitude supplies this wiki's foundational account of tyranny as something
-- [[folkways|Folkways]] - Reference guide to W. G. Sumner's Folkways (1906), the classic statement of the we-group/out-group distinction and the coinage of ethnocentrism
+- [[folkways|Folkways]] - Reference guide to W. G. Sumner's Folkways (1906), the classic statement of the we-group/out-group distinction and the work that popularized ethnocentrism
 - [[for-a-new-liberty|For a New Liberty]] - Reference guide to Rothbard's movement-level overview of libertarian doctrine, applications, and strategy, now ingested in full text.
 - [[hannah-arendt|Hannah Arendt]] - Author reference for Hannah Arendt, whose works now present in the wiki include Origins, Eichmann in Jerusalem, On Violence, The Human Condition, and On Revolution.
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - Reference guide to Hans-Hermann Hoppe's role in this wiki as a property theorist, Austrian economist, and major bridge from market theory to private-law anarchism.
 - [[max-hillebrand|Max Hillebrand]] - Short author reference for Max Hillebrand as represented in this wiki by *The Praxeology of Privacy*, a Towards Liberty public-domain book connecting Austrian economics
-- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates the Mises-Rothbard and Hayek-Kirzner paradigms inside modern Austrian economics.
+- [[mises-and-hayek-dehomogenized|Mises and Hayek Dehomogenized]] - Salerno's 1993 dehomogenization paper separates a Bohm-Bawerk-to-Mises paradigm from a Wieser-to-Hayek one inside modern Austrian economics; it names Kirzner and White on the Hayekian side and does not place Rothbard on the Misesian side.
 - [[murray-n-rothbard|Murray N. Rothbard]] - Reference guide to Rothbard's place in this wiki as system-builder, economist, anti-state theorist, and movement strategist.
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - Reference guide to Max Hillebrand's public-domain v0.2.0 book arguing that privacy is a structural feature of human action and that Austrian theory and cypherpunk implementation converge
 - [[william-f-shughart-ii|William F. Shughart II]] - Short author reference for William F. Shughart II, the American public-choice economist whose Concise Encyclopedia of Economics entry 'Public Choice' supplies this wiki's compact statement
