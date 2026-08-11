@@ -2,7 +2,7 @@
 
 > Curated concepts articles.
 
-Last updated: 2026-08-10
+Last updated: 2026-08-11
 
 ## Contents
 

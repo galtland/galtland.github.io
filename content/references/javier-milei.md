@@ -3,18 +3,18 @@ title: "Javier Milei"
 volatility: hot
 category: reference
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-11
 verified: 2026-07-31
 tags: [javier-milei, argentina, anarcho-capitalism, minarchism, austrian-economics, central-banking, deregulation, politics]
 aliases: [Milei, President Milei, el loco, La Libertad Avanza]
 confidence: medium
-summary: "Reference page for Javier Milei, the Argentine economist elected president in 2023 who describes himself as an anarcho-capitalist in principle and a minarchist in practice — the first head of state to claim the Austrian and Rothbardian tradition explicitly. Covers the doctrine he cites in his own words, the governing record that made him a test case, and the argument he provoked inside the Austro-libertarian world over whether his programme advances the tradition or trades on its name."
-short: "Argentine president since December 2023, self-described anarcho-capitalist in principle and minarchist in practice; the tradition's first head-of-state test case."
+summary: "Reference page for Javier Milei, the Argentine economist elected president in 2023 who describes himself as an anarcho-capitalist in principle and a minarchist in practice, and who claims the Austrian and Rothbardian tradition explicitly as his own doctrine. Covers the doctrine he cites in his own words, the governing record that made him a test case, and the argument he provoked inside the Austro-libertarian world over whether his programme advances the tradition or trades on its name."
+short: "Argentine president since December 2023, self-described anarcho-capitalist in principle and minarchist in practice; the tradition's test case in office."
 ---
 
 # Javier Milei
 
-> Javier Milei enters this wiki as a test case rather than as a theorist. He is the first head of state to claim the Austrian and Rothbardian tradition explicitly, which makes his governing record the closest thing the tradition has to a controlled experiment in what happens when its programme meets an office.
+> Javier Milei enters this wiki as a test case rather than as a theorist. He claims the Austrian and Rothbardian tradition explicitly as his own doctrine, and holds an office with the power to act on it — which is what makes his governing record a test of what happens when that programme meets the constraints of governing.
 
 ## Who He Is
 
@@ -38,7 +38,7 @@ His stated intellectual lineage runs through the [[austrian-economics|Austrian S
 
 ## Why the Tradition Argues About Him
 
-Milei is the first officeholder against whom the tradition's strategic doctrine has had to be applied at scale, and the Austro-libertarian world split over the result rather than over the facts.
+With Milei the tradition's strategic doctrine has had to be applied to an officeholder at scale, and the Austro-libertarian world split over the result rather than over the facts.
 
 The affirmative case rests on the record: a fiscal deficit of roughly five percent of GDP converted to a primary surplus within a year, monthly inflation cut from over twenty percent to low single digits, ministries reduced from eighteen to eight, extensive price decontrol, and — on Ian Vásquez's count for Cato — about two deregulations per day through the first year, with measurable price falls in the sectors touched.
 
