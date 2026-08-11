@@ -4,7 +4,7 @@ volatility: cold
 category: concept
 type: concept
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-11
 verified: 2026-07-02
 tags: [self-ownership, property-rights, rothbard, hoppe, natural-rights, homesteading, nonaggression, argumentation-ethics, libertarianism]
 aliases: [Self-Ownership, self ownership, you own yourself, property in one's own person, the self-ownership axiom]
@@ -58,6 +58,9 @@ Self-ownership is powerful precisely because so much rides on one premise, which
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the axiom used to show property is prior to the state, not its creature
 - [[ethics-vs-morality|Ethics vs Morality]]
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - the distinction between holding a right and being competent to exercise it
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - which treats self-ownership as the first application of boundary-drawing rather than a separate axiom
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a treatise deriving self-ownership from reflexive consciousness instead of assuming it
 
 ## Sources
 

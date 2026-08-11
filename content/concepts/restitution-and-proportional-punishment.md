@@ -4,7 +4,7 @@ volatility: cold
 category: concept
 type: concept
 created: 2026-07-03
-updated: 2026-08-07
+updated: 2026-08-11
 verified: 2026-07-03
 tags: [restitution, punishment, proportionality, rothbard, ethics-of-liberty, lex-talionis, victims-rights, self-ownership, libertarian-law]
 aliases: [Restitution and Proportional Punishment, restitution, proportional punishment, lex talionis, let the punishment fit the crime, victims rights, two teeth for a tooth]
@@ -47,6 +47,9 @@ The theory's difficulties are the ones proportionality has always faced. Fixing 
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - the source of the theory
 - [[murray-n-rothbard|Murray N. Rothbard]] - its author
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - an objective measure offered in place of proportionality
+- [[restitution-without-punishment|Restitution Without Punishment]] - the sharper position that drops the retributive element entirely
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - the 2026 treatise arguing punishment is not a legal category at all
 
 ## Sources
 

@@ -4,7 +4,7 @@ volatility: cold
 category: concept
 type: concept
 created: 2026-07-03
-updated: 2026-08-06
+updated: 2026-08-11
 verified: 2026-07-03
 tags: [georgism, henry-george, single-tax, land-value-tax, ground-rent, unearned-increment, rothbard, property-rights, land, taxation]
 aliases: [Georgism, geoism, single tax, land-value tax, land value tax, LVT, Henry George, geolibertarianism, ground-rent tax]
@@ -47,6 +47,7 @@ Georgism is the rare interventionist proposal that keeps recruiting from within 
 - [[power-and-market|Power and Market]] - Rothbard's chapter-length refutation of the single tax
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 - [[taxation|Taxation]]
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - an appropriation theory grounding land title in boundaries, and supplying no proviso limiting the taking
 
 ## Sources
 

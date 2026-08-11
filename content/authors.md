@@ -4,7 +4,7 @@ title: "Authors & Works"
 
 # Authors & Works
 
-An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (73 authors, 109 works).
+An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (73 authors, 110 works).
 
 ## A
 
@@ -240,6 +240,7 @@ Works, papers, and documents not catalogued under a single author page — co-au
 - [New Directions in Cryptography](/references/new-directions-in-cryptography)
 - [The North Atlantic Treaty](/references/north-atlantic-treaty)
 - [Of Cypherpunks and Sousveillance](/references/of-cypherpunks-and-sousveillance)
+- [Os Fundamentos Objetivos da Justiça](/references/os-fundamentos-objetivos-da-justica)
 - [The Politics of Obedience](/references/the-politics-of-obedience)
 - [The Production of Security](/references/the-production-of-security)
 - [Signal Double Ratchet](/references/signal-double-ratchet)

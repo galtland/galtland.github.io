@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-06-28
-updated: 2026-06-28
+updated: 2026-08-11
 verified: 2026-06-28
 tags: [homesteading, original-appropriation, property-rights, john-locke, murray-rothbard, labor-mixing, lockean-proviso, self-ownership, first-use]
 aliases: [Homesteading, homesteading principle, original appropriation, first-use-first-own, original acquisition]
@@ -15,7 +15,7 @@ confidence: high
 
 # Homesteading
 
-> Homesteading — original appropriation — is the libertarian answer to the most basic question in property theory: how does anything *become* owned in the first place? The answer is first use. An unowned scarce resource becomes a person's property when he mixes his labor with it and so puts it to use. It is the acquisition rule that sits beneath self-ownership, contract, and the non-aggression principle — the step that turns the unowned world into legitimate titles.
+> Homesteading — original appropriation — is the libertarian answer to the most basic question in property theory: how does anything *become* owned in the first place? The answer is first use. An unowned scarce resource becomes a person's property when he mixes his labor with it and so puts it to use. Self-ownership comes first and settles ownership of one's own body; homesteading is the acquisition rule that carries ownership outward into the unowned world, and that contract and the non-aggression principle then presuppose — the step that turns unowned nature into legitimate titles.
 
 ## The problem of original acquisition
 
@@ -55,6 +55,8 @@ Homesteading is the foundation the rest of the structure rests on. Self-ownershi
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - why first-use title needs no sovereign — the reply to the claim that private property requires the state
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - the rival account that denies use creates title, and would validate the unused-land claims first-use invalidates
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - the 2026 treatise that rejects labour, use and occupation alike as grounds of original appropriation
 
 ## Sources
 

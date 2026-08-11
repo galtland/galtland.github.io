@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-06-28
-updated: 2026-08-06
+updated: 2026-08-11
 verified: 2026-06-28
 tags: [hans-hermann-hoppe, argumentation-ethics, self-ownership, non-aggression-axiom, praxeology, a-priori, discourse-ethics, libertarian-ethics, murray-rothbard]
 aliases: [Argumentation Ethics, argumentation ethics, the a priori of argumentation, Hoppe's argumentation ethics]
@@ -53,6 +53,7 @@ Argumentation ethics is one of the most ambitious justificatory arguments in the
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[ethics-vs-morality|Ethics vs Morality]]
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a rival derivation locating the contradiction in the concepts themselves rather than in the act of arguing
 
 ## Sources
 

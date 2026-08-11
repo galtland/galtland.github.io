@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-11
 verified: 2026-07-02
 tags: [anarcho-capitalism, market-anarchism, criticism, minarchism, robert-nozick, public-goods, defense, warlords, night-watchman-state, objections]
 aliases: [Criticisms of Anarcho-Capitalism, objections to anarcho-capitalism, criticisms of market anarchism, the case against ancap, problems with anarcho-capitalism]
@@ -74,6 +74,7 @@ None of these objections is decisively refuted, and none decisively refutes the 
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the prior, conceptual objection — that property is constituted by state violence — answered before these empirical ones
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
+- [[restitution-without-punishment|Restitution Without Punishment]] - a restitution-only theory of criminal justice, and the deterrence and dangerousness objections it leaves open
 
 ## Sources
 

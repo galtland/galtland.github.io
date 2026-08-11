@@ -82,6 +82,7 @@ New to this hub? Read these five, in order:
 - [[banality-of-evil|Banality of Evil]] - Arendt's ordinary-participant diagnosis
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social-preconditions article for Arendt's totalitarianism thesis
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 Brazilian treatise deriving the same institutional order deductively, and breaking with Rothbard on property and punishment
 - [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
 - [[crypto-anarchy|Crypto Anarchy]] - cypherpunk strategy for moving voluntary exchange beyond ordinary state surveillance and control
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - Konkin's strategy-by-exit: grow the counter-economy until it displaces the state

@@ -3,7 +3,7 @@ title: "Natural Law and Natural Order"
 volatility: cold
 category: concept
 created: 2026-06-09
-updated: 2026-08-09
+updated: 2026-08-11
 verified: 2026-06-25
 tags: [natural-law, natural-order, natural-rights, natural-justice, classical-canon, aristotle, cicero, thomas-aquinas, hugo-grotius, john-locke, lysander-spooner, rothbard, hoppe, jusnaturalism, classical-liberalism, libertarianism]
 aliases: [natural law, natural order, natural rights, natural justice, jus naturale, lex naturalis, the law of nature, jusnaturalism]
@@ -38,7 +38,7 @@ The libertarian use of natural law is the endpoint of a long argument. This wiki
 
 **The School of Salamanca — the scholastic bridge.** Between Aquinas and [[john-locke|Locke]] stand the sixteenth-century Spanish scholastics mapped in [[school-of-salamanca|School of Salamanca]]. Vitoria carried Thomist natural law into the law of nations, while Suárez and Mariana developed consent and resistance theory — on Rothbard's account Suárez held that political power "by natural and divine law devolves solely on the people as a whole", and Mariana that subjects transferring power "from a state of nature to the king" reserved rights to themselves — anticipating Locke by decades. The same school, in [[murray-n-rothbard|Rothbard]]'s reading, were also proto-Austrian economists, tying natural law to subjective value and sound money.
 
-**[[john-locke|Locke]] — natural rights.** The [[the-second-treatise-of-government|Second Treatise of Government]] (1689) is the hinge between natural law and modern liberty. The state of nature "has a law of nature to govern it... and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions". Property arises pre-politically: "every man has a property in his own person", and by mixing his labour with the world he makes things his own. Government exists by consent to protect these rights, and forfeits its authority when it invades them — the right of revolution.
+**[[john-locke|Locke]] — natural rights.** The [[the-second-treatise-of-government|Second Treatise of Government]] (1689) is the hinge between natural law and modern liberty. The state of nature "has a law of nature to govern it... and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions...". Property arises pre-politically: "every man has a property in his own person", and by mixing his labour with the world he makes things his own. Government exists by consent to protect these rights, and forfeits its authority when it invades them — the right of revolution.
 
 **The political application — the [[declaration-of-independence|Declaration]] and [[rights-of-man|Paine]].** The tradition becomes practice in 1776. The Declaration of Independence states the Lockean syllogism as self-evident: that all men are created equal and endowed with "certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness", that "to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed," and that the people may "alter or to abolish" a government that becomes "destructive of these ends". [[thomas-paine|Thomas Paine]]'s *Rights of Man* (1791–92) carries the same premises into mass democratic politics against Burke, insisting that rights inhere in the living and that "every age and generation must be as free to act for itself in all cases as the age and generations which preceded it."
 
@@ -88,6 +88,8 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 - [[ethics-vs-morality|Ethics vs Morality]]
 - [[left-and-right|Left and Right]] - Hoppe’s natural-order conservatism and its claim on the Right
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a contemporary attempt to rebuild the whole chain deductively, from reflexive consciousness to a polycentric legal order
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics (Full Text)](https://www.gutenberg.org/ebooks/8438) - Book V, natural vs. conventional justice

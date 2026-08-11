@@ -3,7 +3,7 @@ title: "The Production of Security"
 volatility: warm
 category: reference
 created: 2026-05-06
-updated: 2026-08-05
+updated: 2026-08-11
 verified: 2026-07-23
 tags: [molinari, market-anarchism, private-security, classical-liberalism, private-law, evolution-of-the-state]
 aliases: [De la production de la sécurité, Molinari's Production of Security]
@@ -49,6 +49,7 @@ For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the cou
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - Molinari's market-supplied enforcement as the reply to the claim that private property requires the state
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a contemporary restatement of the case against a justice monopoly, argued from incentives
 
 ## Sources
 

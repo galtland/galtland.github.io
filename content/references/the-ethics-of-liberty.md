@@ -3,7 +3,7 @@ title: "The Ethics of Liberty"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-06-18
+updated: 2026-08-11
 verified: 2026-06-18
 tags: [rothbard, natural-rights, ethics, liberty, property-rights]
 aliases: [EoL, Rothbard's Ethics]
@@ -26,7 +26,7 @@ This is the natural-rights side of Rothbard's system. [[man-economy-and-state|Ma
 
 ## Scope of the Full-Text Ingest
 
-The raw source is the Mises Institute's PDF of the NYU Press 1998 edition (336 pages), extracted with `pdftotext -layout`. It contains Hoppe's introduction; all 30 chapters across Parts I–V ([[natural-law|Natural Law]]; A Theory of Liberty; The State Versus Liberty; Modern Alternative Theories of Liberty; Toward a Theory of Strategy for Liberty); and the bibliography and index. The full-text aggregate was added 2026-05-04 — earlier ingests had only the Mises catalog metadata page.
+The raw source is the Mises Institute's EPUB of the NYU Press 1998 edition, re-extracted on 2026-06-17 from the official XHTML — clean digital text, superseding an earlier `pdftotext -layout` pass over the PDF that carried split drop-caps, hyphenation breaks and font-encoding artefacts. Quotations are therefore verifiable verbatim against it. It contains Hoppe's introduction; all 30 chapters across Parts I–V ([[natural-law|Natural Law]]; A Theory of Liberty; The State Versus Liberty; Modern Alternative Theories of Liberty; Toward a Theory of Strategy for Liberty); and the bibliography and index. The full-text aggregate was added 2026-05-04 — earlier ingests had only the Mises catalog metadata page.
 
 ## Relation to Other Texts in This Wiki
 
@@ -57,8 +57,9 @@ This book is in dialogue with several other sources. The natural-law foundation 
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 - [[ethics-vs-morality|Ethics vs Morality]]
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 deductive treatise in the same natural-rights project, departing from Rothbard on property, punishment and legal capacity
 
 ## Sources
 
-- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - full NYU Press 1998 edition extracted from the Mises PDF
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - full NYU Press 1998 edition, re-extracted 2026-06-17 from the official Mises EPUB
 - [The Ethics of Liberty](https://mises.org/library/book/ethics-liberty) - Mises library page metadata and descriptive framing

@@ -3,7 +3,7 @@ title: "Intellectual Property"
 volatility: cold
 category: concept
 created: 2026-05-29
-updated: 2026-06-25
+updated: 2026-08-11
 verified: 2026-06-25
 confidence: medium
 tags: [intellectual-property, scarcity, property-rights, rivalry, kinsella, rothbard, austrian-economics, copyright, patents, information, libertarian]
@@ -54,6 +54,7 @@ The content/media distinction is the hinge of two other articles:
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - ch. 6 presents the Kinsella anti-IP framework used here
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 - [[free-software|Free Software]]
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - a theory making objective boundaries, rather than scarcity or labour, the condition of ownability
 
 ## Sources
 

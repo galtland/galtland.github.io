@@ -3,7 +3,7 @@ title: "Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract"
 volatility: cold
 category: concept
 created: 2026-06-24
-updated: 2026-08-06
+updated: 2026-08-11
 verified: 2026-06-24
 confidence: high
 tags: [voluntary-slavery, contract, title-transfer, inalienability, debt, debt-bondage, self-ownership, restitution, penal-bond, murray-n-rothbard, walter-block, libertarian, austrian]
@@ -111,6 +111,8 @@ The slavery-and-contract question is a good stress test of what libertarian cont
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - the source text (Ch. 19) for the theory of contracts, debt, and voluntary slavery
 - [[smart-contracts|Smart Contracts]] - protocol-embedded contract performance, a modern mechanism cousin to the penal bond
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - the prior question of when consent binds at all, answered by matching capacity to the act rather than to a status
+- [[restitution-without-punishment|Restitution Without Punishment]] - where the same reach into future income serves reparation for an aggression rather than a contracted debt
 
 ## Sources
 

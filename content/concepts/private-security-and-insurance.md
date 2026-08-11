@@ -3,7 +3,7 @@ title: "Private Security and Insurance"
 volatility: warm
 category: concept
 created: 2026-04-22
-updated: 2026-08-09
+updated: 2026-08-11
 verified: 2026-06-09
 tags: [private-security, insurance, defense-agencies, protection, classical-liberalism]
 aliases: [production of security, private defense agencies, competitive security]
@@ -59,6 +59,8 @@ This concept is narrower than [[market-anarchism-and-private-law|Market Anarchis
 - [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - the standard defence agencies would apply to judge legitimate force
+- [[restitution-without-punishment|Restitution Without Punishment]] - what enforcement aims at when confinement is execution of a debt rather than a penalty
 
 ## Sources
 

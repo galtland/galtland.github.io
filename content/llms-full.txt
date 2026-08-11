@@ -233,6 +233,7 @@ Argumentation ethics is one of the most ambitious justificatory arguments in the
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[ethics-vs-morality|Ethics vs Morality]]
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a rival derivation locating the contradiction in the concepts themselves rather than in the act of arguing
 
 ## Sources
 
@@ -1421,6 +1422,87 @@ That boundary matters because code can also be conduct, infrastructure, evidence
 
 ---
 
+## Cognitive Adequacy and Tutela
+URL: /concepts/cognitive-adequacy-and-tutela
+Category: concept
+
+# Cognitive Adequacy and Tutela
+
+> Libertarian theory rests consent-based obligation on the will of self-owning persons — which leaves it owing an account of the person whose will is not competent to the act in front of them: the child, the person in decline, the buyer of a contract they cannot parse. *Os Fundamentos Objetivos da Justiça* answers by refusing to treat capacity as a property of persons at all. Capacity is a relation between a particular mind and a particular act, and it is measured act by act.
+
+## Holding a right and exercising it
+
+The pivot is a distinction the book draws before anything else: being the holder of a right and being able to exercise it are different questions with different answers.
+
+Holding follows from being a subject of rights at all. Exercise requires the rational capacity to understand the act being performed. So a person may retain their rights in full while lacking the capacity to perform some particular legal act — and, symmetrically, someone perfectly competent to buy a sandwich may be incompetent to grant a security interest. The book's point is that these never collapse into one another: incapacity restricts what may be done, and never touches what is owned.
+
+That framing already rules out the two moves most legal systems make. Presuming full capacity for every decision ignores the second half; making capacity depend on a fixed threshold like chronological age ignores the first.
+
+## The Principle of Cognitive Adequacy
+
+The positive rule is stated directly:
+
+> O consentimento somente produzirá efeitos jurídicos quando a capacidade cognitiva do indivíduo for suficiente para compreender a natureza, os efeitos, os riscos e as consequências do ato praticado.
+>
+> — Luiz Liberatus and Pedro Távora, [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]]
+
+Consent produces legal effects only where the person's cognitive capacity suffices to understand the nature, effects, risks and consequences of the act performed. Capacity, in the authors' summary of their own rule, is not absolute and not binary; it is relative to the legal act performed.
+
+Age survives only as evidence. There is a statistical relation between age and cognitive development, but it is not the ground of capacity: two people of the same age may understand entirely differently, and people of different ages may be equally competent to a given act. Age is a practical indicium — convenient for organising legal relations, and never an explanation of why a particular consent should bind.
+
+## The test
+
+The book proposes a **Test of Cognitive Adequacy** to make this checkable without requiring expert assessment. It measures neither intelligence nor schooling, only whether the understanding was commensurate with the act. Seven elements must be understood:
+
+1. **Nature of the act** — which act this is: buying, selling, leasing, lending, associating, undertaking an obligation. Someone who believes they are signing a lease while executing a sale has not consented.
+2. **Object of the act** — which specific good, right or obligation the decision falls on. Understanding that one is contracting is not enough.
+3. **Immediate consequences** — that the seller ceases to be owner; that the obligor becomes answerable for performance.
+4. **Future consequences** — effects that run on in time, and the rule that the further they run, the greater the capacity required.
+5. **Risks assumed** — what may be lost if expectations fail; the larger the exposure, the more understanding is demanded.
+6. **Alternatives available** — that the decision was not inevitable. The alternatives need not be equally attractive; the person must simply grasp that a choice existed.
+7. **Irreversibility** — whether the act can be undone, with irreversible acts requiring the most capacity of all.
+
+The requirement scales rather than switching: risk, value at stake, duration of effects, irreversibility and legal complexity each raise the bar. That proportionality is meant to block both failure modes at once — voiding simple acts on paternalist grounds, and validating ruinous ones because a formality was observed.
+
+## Tutela
+
+Separating holding from exercise creates a gap, and *tutela* — guardianship — fills it. Its defining feature is what it is *not*:
+
+> A tutela não transfere a titularidade dos direitos.
+>
+> — Luiz Liberatus and Pedro Távora, [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]]
+
+Guardianship does not transfer ownership of the rights, and does not make the guardian an owner of the ward: *Pessoas são sujeitos de direitos e jamais podem constituir objeto de propriedade* — persons are subjects of rights and can never constitute an object of property. What the guardian receives is a right of their own whose object is the *competence* to exercise certain of the ward's rights while the ward cannot. The powers that follow — administering property, contracting, representing, authorising medical treatment, defending physical integrity — exist solely for the ward's protection, and carry correlative duties: the guardian may not use them for personal benefit, nor deliberately obstruct the ward's developing autonomy.
+
+Two routes create it. **Originary tutela** arises with the origination of a new subject of rights, from the objective fact of parenthood rather than from intention or planning; parents cannot simply abandon the position, though they may transfer it legitimately, and remain responsible until another guardian validly acquires it. **Derived tutela** covers capacity lost later to illness, accident, disability or age, and is acquired only by voluntary acceptance — objective preference criteria may order competing candidates, but create no duty to accept, and the position may remain vacant if no one takes it. The book is explicit that incapacity does not by itself impose a legal duty on third parties.
+
+Tutela is bounded in scope and duration by the incapacity that justifies it: partial where the incapacity is partial, permanent where the incapacity is permanent, and extinguished, in that domain, the moment the ward can exercise the right themselves. It also carries liability — the guardian answers for consequences within the duties the position imposes, by virtue of the position rather than of authorship of the act.
+
+## What it settles, and what it doesn't
+
+Against the tradition, this is a distinctive combination. Rothbard's treatment of children is among the most criticised parts of his system precisely because it derives strong parental rights from self-ownership while denying any positive obligation; the tutela construction reaches parental authority without ownership of the child, gets a non-abandonable original position out of the objective fact of parenthood, and keeps the ward's rights formally intact throughout. It generalises, too: the same apparatus handles dementia, disability and the sophisticated-investor problem without a separate doctrine for each.
+
+What it does not settle is enforcement against the vacancy it permits. If no one accepts derived tutela, the book allows the position to remain unfilled, and an incapacitated person with no guardian has rights that no one is competent to exercise. The authors treat that as a consequence of refusing to impose duties on non-consenting third parties — the same conclusion Rothbard reaches by a different route, and open to the same objection.
+
+The act-relative standard also has an obvious cost the book does not price: it trades the arbitrariness of a bright line for case-by-case assessment, which is more accurate and much less predictable. Determining after the fact whether a particular person understood a particular contract is exactly the kind of enquiry that fixed thresholds exist to avoid, and in a competitive legal order it would fall to the arbitration chambers described elsewhere in the same book.
+
+## See Also
+
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - the treatise this doctrine comes from
+- [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - what a contract transfers, once valid consent is established
+- [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - the inalienability question this book answers from the continuity of consent
+- [[self-ownership|Self-Ownership]] - the holding that cognitive adequacy governs the exercise of
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - the companion doctrine on what may be contracted over
+- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - consent's role in the normative core
+- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the institutions that would apply the test in practice
+- [[natural-law|Natural Law]] - the hub for reason-knowable justice above positive law, where this doctrine is adopted
+
+## Sources
+
+- [Os Fundamentos Objetivos da Justiça](https://easy-spot-fb6.notion.site/Os-Fundamentos-Objetivos-da-Justi-a-39b0f2b3d35c80f6ba28d56de2f902ed) - Chapters 4 and 5, on consent, autonomy, capacity and guardianship; Chapter 11 for the guardian's liability
+
+---
+
 ## CoinJoin and PayJoin
 URL: /concepts/coinjoin
 Category: concept
@@ -1932,6 +2014,7 @@ None of these objections is decisively refuted, and none decisively refutes the 
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the prior, conceptual objection — that property is constituted by state violence — answered before these empirical ones
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
+- [[restitution-without-punishment|Restitution Without Punishment]] - a restitution-only theory of criminal justice, and the deterrence and dangerousness objections it leaves open
 
 ## Sources
 
@@ -2263,6 +2346,67 @@ The Austrian case is strongest against the crudest version of deflation-phobia a
 
 - [Money, Sound and Unsound (Full Text Aggregate)](https://mises.org/library/book/money-sound-and-unsound) - Salerno's Austrian taxonomy of deflation distinguishing growth, cash-building, bank-credit, and confiscatory deflation
 - [America's Great Depression (Full Text Aggregate)](https://cdn.mises.org/Americas%20Great%20Depression_3.epub) - Rothbard on how resisting the corrective (bank-credit) deflation prolonged the 1930s depression
+
+---
+
+## Delimitation and the Origin of Property
+URL: /concepts/delimitation-and-the-origin-of-property
+Category: concept
+
+# Delimitation and the Origin of Property
+
+> Every theory of property must answer how an unowned thing becomes owned. The dominant libertarian answer is *use*: Locke's labour-mixing and Rothbard's first-use-first-own. *Os Fundamentos Objetivos da Justiça* gives a different one. Ownership is a legal relation, and a relation needs two determinate terms — so before a resource can be owned it must first *be a thing*, a unit distinguishable from everything else. What accomplishes that is the objective definition of its boundary. On this account use is evidence of possession, never a source of title.
+
+## The argument
+
+The book's starting move is to separate three things that the labour-mixing tradition tends to run together: the object, its boundary, and the legal relation that attaches to it. Property is none of the first two. It is the relation between a subject and a *previously individuated* unit — which means individuation is prior to ownership, not produced by it. First the unit is identified; only then can the relation hold. Never the reverse.
+
+That ordering is what generates the argument against use. A person can use a rented car, work with a borrowed tool, or live in a lent house, and in none of those cases does the using alter who owns the thing. So use cannot be what creates title; at most it demonstrates possession — that someone is *with* the thing, not that it is theirs. *O uso pode demonstrar posse* — use can demonstrate possession — but not ownership.
+
+Labour fares no better, and for a subtler reason. Transforming a resource changes its *content*; it does not explain why the resource constitutes a juridically distinct unit in the first place. The book's claim is that labour presupposes the individuation it is supposed to create: to work on *this* field rather than the surrounding world is already to have marked out which field it is.
+
+What remains is the boundary:
+
+> A propriedade nasce quando uma unidade da realidade passa a possuir limites objetivos suficientes para distingui-la das demais e permitir que sobre ela recaia uma relação jurídica.
+>
+> — Luiz Liberatus and Pedro Távora, [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]]
+
+Property arises, that is, when a unit of reality comes to have objective limits sufficient to distinguish it from the rest and to let a legal relation attach to it.
+
+## Perimeter, not interior
+
+The consequence the authors draw immediately is that appropriation works on the edge of a thing rather than throughout it. Delimitation operates on the perimeter; individuation then reaches everything enclosed within it. One need not know, or use, or transform what lies inside.
+
+This is where the theory does visible work. A farm is not property because someone cultivated its whole extent; it becomes an individuated unit because its limits were objectively defined. A territory does not depend on the continuous occupation of all of its points. And once established, title does not lapse for disuse: an abandoned lot is still an individuated lot, an empty house still a distinct unit, a car parked for years still the same thing. Ownership persists because the individuation persists, ending only by legitimate transfer, abandonment, or some other legal ground.
+
+The same principle runs backwards to the self. [[self-ownership|Self-ownership]] is, in this system, the first application of delimitation rather than a separate axiom: the reflexive consciousness that distinguishes the self from what is not the self performs exactly the boundary-drawing that external property later requires. Property theory and the theory of the person share one mechanism.
+
+## Where it collides with the tradition
+
+This is a genuine break with [[homesteading|homesteading]], not a restatement of it, and the disagreement is sharpest precisely where Rothbard's rule is most consequential.
+
+Rothbard's negative corollary is that ownership requires use, so a claim to land never put into production is void — which is the premise that lets him call whole classes of historical land title illegitimate. Delimitation removes that premise. The book is explicit that once established, title does not depend on continued use, and that a farm is individuated by its defined limits rather than by cultivation of its whole extent; what it never says is who acquires title when a boundary is first drawn. So it does not directly pronounce on the titles Rothbard voids. But it has removed the only test by which he voided them, and put nothing in its place — which is the next objection.
+
+The gap also runs the other way. The labour-mixing tradition has an answer, however contested, to *why* appropriation wrongs nobody: the appropriator adds something of his own, and the Lockean proviso limits the taking. Delimitation as stated in this book supplies no comparable constraint. Nothing in the account explains why one person's act of drawing a boundary binds everyone else who never consented to it — the question the proviso exists to answer — and no equivalent of the proviso appears. A critic would say the theory identifies the *conditions* under which a thing can be owned while leaving the *entitlement* unargued: boundaries make ownership possible without making any particular claimant's ownership just.
+
+The book's reply, so far as it makes one, is structural rather than direct: because justice is the coherent application of concepts, and because a delimited unit already has exactly one originary authority by definition, a competing claim would require the same sphere to have two originary authorities at once. Whether that is an argument or a redescription is the natural place to press the theory.
+
+## See Also
+
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - the treatise this theory comes from
+- [[homesteading|Homesteading]] - the first-use theory of original appropriation this account rejects
+- [[self-ownership|Self-Ownership]] - which the book treats as the first application of delimitation rather than a separate axiom
+- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the normative core whose property leg this theory reconstructs
+- [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - how titles move once a first owner exists
+- [[georgism|Georgism]] - the rival tradition that denies land can be appropriated on any such terms
+- [[intellectual-property|Intellectual Property]] - where the scarcity-and-boundary question is contested from the other direction
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - the same system's account of who may transact over what delimitation individuates
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - the objective tests measuring violations of the spheres delimitation creates
+- [[natural-law|Natural Law]] - the hub for reason-knowable justice above positive law, where this appropriation theory is adopted
+
+## Sources
+
+- [Os Fundamentos Objetivos da Justiça](https://easy-spot-fb6.notion.site/Os-Fundamentos-Objetivos-da-Justi-a-39b0f2b3d35c80f6ba28d56de2f902ed) - Chapters 3 and 6, on individuation, delimitation, and the origin of property
 
 ---
 
@@ -2992,6 +3136,84 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 
 ---
 
+## The Factual Potential of Harm
+URL: /concepts/factual-potential-of-harm
+Category: concept
+
+# The Factual Potential of Harm
+
+> Libertarian legal theory forbids initiated force and permits defensive force, which makes the boundary between them load-bearing — and it is usually drawn with the word *proportionality*. *Os Fundamentos Objetivos da Justiça* argues that this is not an answer. Proportionality is the conclusion one wants to reach; it is not a criterion for reaching it, and while it stands in for one, the limit of self-defence depends on the intuition of whoever judges afterwards. The book proposes a measurable quantity in its place.
+
+## Why proportionality is not a criterion
+
+The objection is methodological, and it is the same one the book makes against age thresholds for consent: a standard that cannot be applied without importing the judgement it was supposed to supply has not done any work. Saying a defence must be *proportionate* tells a defender nothing at the moment of decision and tells a tribunal nothing afterwards except to consult its own sense of the matter. For a theory whose entire ambition is to replace arbitrary criteria with demonstrable ones, that is a hole at a critical point.
+
+## The measure
+
+The replacement is defined in terms of capacity rather than outcome or intent:
+
+> O Potencial Factual de Dano corresponde ao maior nível de lesão que determinada conduta possui capacidade objetiva de produzir sobre a esfera jurídica de outro indivíduo, consideradas todas as circunstâncias concretas conhecidas no momento da defesa.
+>
+> — Luiz Liberatus and Pedro Távora, [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]]
+
+The factual potential of harm is the greatest level of injury a given course of conduct is objectively capable of producing on another's juridical sphere, given all the concrete circumstances known at the moment of defence. What enters the assessment is the means employed, the aggressor's objective capacity, the victim's vulnerability, physical or numerical superiority, the presence of weapons, the environment, and the information actually available in that instant.
+
+Two features of the definition matter. It is indexed to the moment of defence, not to what turns out afterwards to have been true — a defender is judged on the situation they faced, not on the one reconstructed later. And it is a measure of *capacity*, not of the aggressor's subjective intention. Intention enters only when it can be objectively known, and then merely as one more circumstance: the book's own illustration is that a teacher briefly confiscating a pupil's phone and a stranger snatching the same phone on the street are near-identical physical acts with entirely different factual potentials, because the surrounding facts differ.
+
+## The scale
+
+Within each category of right threatened — property, physical integrity, life — the book grades aggression into four levels by objective capacity to injure:
+
+- **Level I — violation without relevant injury.** Conduct that breaches the sphere without significant capacity to cause physical harm: throwing water, spitting, unauthorised touching, deliberately breaking the legitimate protective space.
+- **Level II — minor injury.** Conduct capable of producing pain or small injuries: light shoves, slaps, pulls, immobilisation.
+- **Level III — significant injury.** Conduct capable of fractures, cuts, trauma or serious incapacitation: heavy punches, kicks, blows with blunt objects.
+- **Level IV — lethal potential.** Conduct objectively capable of causing death: gunshots, knife strikes to vital regions, strangulation, objectively lethal group assaults.
+
+The grading attaches to circumstances rather than to gestures. The same shove has a completely different potential from a child, from a trained adult, and at the edge of a precipice.
+
+The book also recognises a **legitimate protective space** — a physical distance one may maintain to prevent bodily invasion. It is not a separate property but a functional extension of protecting one's physical integrity, and the book's claim about breaking through it is deliberately hedged: doing so *may* represent an intensification of the threat, not that it always does. This is what lets defence begin before contact, which the book argues it must: requiring the aggression to be completed first would mean rights can only be protected after they have been violated.
+
+## Who bears the uncertainty
+
+The most consequential rule in the chapter handles the ordinary case where the victim cannot actually measure the danger — the night-time home invasion, the approach of someone apparently armed, any situation offering no time to assess:
+
+> Quem cria objetivamente uma situação de incerteza sobre o Potencial Factual de Dano assume as consequências jurídicas dessa própria incerteza.
+>
+> — Luiz Liberatus and Pedro Távora, [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]]
+
+Whoever objectively creates a situation of uncertainty about the factual potential of harm assumes the legal consequences of that uncertainty. It is not for the victim to gamble their own juridical sphere to discover whether the threat was smaller than it appeared; the risk belongs to the aggressor who voluntarily produced it.
+
+This is paired with a burden-of-proof rule pointing the same way. Defensive excess is never presumed: whoever alleges that a defence exceeded the factual potential of harm must demonstrate it objectively, and absent sufficient proof the defensive action is presumed legitimate — because the aggressor is the one who originated the conflict. Together these place both the epistemic and the evidential cost of a violent situation on the person who created it.
+
+The limit remains real. Defence stays legitimate while its intensity is necessary to stop the aggression and consistent with the potential the threat objectively presented; past that point it stops preserving a sphere and becomes a fresh aggression of its own. And it ends when the threat does — force continued after the need has gone is assessed like any other intervention.
+
+## The twin test for externalities
+
+The same method is applied to a problem the non-aggression principle handles badly: pollution, noise and nuisance, where the harm is a by-product of legitimate activity on one's own property. The book's premise is that if every external effect counted as aggression, property could not be used at all — talking produces sound, cooking produces odours, and a factory alters everything around it.
+
+Its measure is the **Factual Impact of the Externality**: the degree of objective alteration an activity produces on others' juridical spheres, assessed through intensity, duration, frequency, predictability, extent of area affected, nature of the activity, the condition existing beforehand, and which right is touched. As the book's own summary has it, direct aggression is analysed by the factual potential of harm and externalities by the factual impact — the same move each time, replacing a vague notion with a graded objective one.
+
+Effects are then sorted by the right affected: no relevant legal harm (seeing a neighbour's construction, hearing ordinary sounds); reduced use of property (excessive noise, invasive lighting, persistent vibration); patrimonial damage (contaminated water, pollution degrading buildings or crops); and harm to physical integrity or life. The decisive question is never annoyance but whether an objective alteration of another's sphere occurred.
+
+A **priority principle** completes it: an externality already objectively present in an environment forms part of that reality, so someone who buys a house next to a church that rings its bells acquires it with the bells. But priority is not a licence to expand — an existing activity has no right to increase its externality indefinitely, and a significant change in its character is assessed afresh. This is close to the coming-to-the-nuisance reasoning familiar from Rothbardian treatments of pollution, derived here from the delimitation of spheres rather than from homesteaded easements.
+
+## See Also
+
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - the treatise this apparatus comes from
+- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the principle whose defensive boundary this is meant to make operational
+- [[restitution-without-punishment|Restitution Without Punishment]] - what follows once an aggression is established rather than repelled
+- [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's proportionality, which this replaces as a measure
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - the boundaries whose violation these tests measure
+- [[private-security-and-insurance|Private Security and Insurance]] - the agencies that would apply the standard in a non-state order
+- [[market-failure-and-public-goods|Market Failure and Public Goods]] - the externality problem as economics states it
+- [[natural-law|Natural Law]] - the hub for reason-knowable justice above positive law, where this standard is adopted
+
+## Sources
+
+- [Os Fundamentos Objetivos da Justiça](https://easy-spot-fb6.notion.site/Os-Fundamentos-Objetivos-da-Justi-a-39b0f2b3d35c80f6ba28d56de2f902ed) - Chapters 8, 9 and 10, on externalities, defence of the juridical sphere, and the factual potential of harm
+
+---
+
 ## Federal Reserve
 URL: /concepts/federal-reserve
 Category: concept
@@ -3688,6 +3910,7 @@ Georgism is the rare interventionist proposal that keeps recruiting from within 
 - [[power-and-market|Power and Market]] - Rothbard's chapter-length refutation of the single tax
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
 - [[taxation|Taxation]]
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - an appropriation theory grounding land title in boundaries, and supplying no proviso limiting the taking
 
 ## Sources
 
@@ -4200,7 +4423,7 @@ Category: concept
 
 # Homesteading
 
-> Homesteading — original appropriation — is the libertarian answer to the most basic question in property theory: how does anything *become* owned in the first place? The answer is first use. An unowned scarce resource becomes a person's property when he mixes his labor with it and so puts it to use. It is the acquisition rule that sits beneath self-ownership, contract, and the non-aggression principle — the step that turns the unowned world into legitimate titles.
+> Homesteading — original appropriation — is the libertarian answer to the most basic question in property theory: how does anything *become* owned in the first place? The answer is first use. An unowned scarce resource becomes a person's property when he mixes his labor with it and so puts it to use. Self-ownership comes first and settles ownership of one's own body; homesteading is the acquisition rule that carries ownership outward into the unowned world, and that contract and the non-aggression principle then presuppose — the step that turns unowned nature into legitimate titles.
 
 ## The problem of original acquisition
 
@@ -4240,6 +4463,8 @@ Homesteading is the foundation the rest of the structure rests on. Self-ownershi
 - [[mutualism|Mutualism and Individualist Anarchism]] - The market-anarchist tradition of Proudhon, Warren, Spooner, and Tucker: no state and free exchange, but with a labor-cost theory of value, mutual (interest-free) banking
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - why first-use title needs no sovereign — the reply to the claim that private property requires the state
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - the rival account that denies use creates title, and would validate the unused-land claims first-use invalidates
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - the 2026 treatise that rejects labour, use and occupation alike as grounds of original appropriation
 
 ## Sources
 
@@ -4626,6 +4851,7 @@ The content/media distinction is the hinge of two other articles:
 - [[the-praxeology-of-privacy|The Praxeology of Privacy]] - ch. 6 presents the Kinsella anti-IP framework used here
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 - [[free-software|Free Software]]
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - a theory making objective boundaries, rather than scarcity or labour, the condition of ownability
 
 ## Sources
 
@@ -5343,6 +5569,10 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - enforcement without a monopoly, the constructive reply to the claim that property requires the state
 
 - [[left-and-right|Left and Right]] - where this wiki’s own corner sits once the spectrum is set aside
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - the capacity test private arbitration would have to apply act by act
+- [[restitution-without-punishment|Restitution Without Punishment]] - what execution agencies would be enforcing if punishment were not a legal category
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 treatise deriving this architecture from first principles, separating investigation, arbitration, insurance, execution and registry
+
 ## Sources
 
 - [The Market for Liberty (Full Text Aggregate)](https://cdn.mises.org/the_market_for_liberty_2.epub) - most detailed institutional sketch of private courts, defense, insurance, and title
@@ -5410,6 +5640,7 @@ The libertarian replies are strongest on natural monopoly (historically a statut
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the property-rights reading of externalities
 - [[capitalism|Capitalism]] - the market order whose alleged failures this entry weighs
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - a rights-based test for when an externality becomes an aggression rather than a cost to be priced
 
 ## Sources
 
@@ -6234,7 +6465,7 @@ The libertarian use of natural law is the endpoint of a long argument. This wiki
 
 **The School of Salamanca — the scholastic bridge.** Between Aquinas and [[john-locke|Locke]] stand the sixteenth-century Spanish scholastics mapped in [[school-of-salamanca|School of Salamanca]]. Vitoria carried Thomist natural law into the law of nations, while Suárez and Mariana developed consent and resistance theory — on Rothbard's account Suárez held that political power "by natural and divine law devolves solely on the people as a whole", and Mariana that subjects transferring power "from a state of nature to the king" reserved rights to themselves — anticipating Locke by decades. The same school, in [[murray-n-rothbard|Rothbard]]'s reading, were also proto-Austrian economists, tying natural law to subjective value and sound money.
 
-**[[john-locke|Locke]] — natural rights.** The [[the-second-treatise-of-government|Second Treatise of Government]] (1689) is the hinge between natural law and modern liberty. The state of nature "has a law of nature to govern it... and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions". Property arises pre-politically: "every man has a property in his own person", and by mixing his labour with the world he makes things his own. Government exists by consent to protect these rights, and forfeits its authority when it invades them — the right of revolution.
+**[[john-locke|Locke]] — natural rights.** The [[the-second-treatise-of-government|Second Treatise of Government]] (1689) is the hinge between natural law and modern liberty. The state of nature "has a law of nature to govern it... and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions...". Property arises pre-politically: "every man has a property in his own person", and by mixing his labour with the world he makes things his own. Government exists by consent to protect these rights, and forfeits its authority when it invades them — the right of revolution.
 
 **The political application — the [[declaration-of-independence|Declaration]] and [[rights-of-man|Paine]].** The tradition becomes practice in 1776. The Declaration of Independence states the Lockean syllogism as self-evident: that all men are created equal and endowed with "certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness", that "to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed," and that the people may "alter or to abolish" a government that becomes "destructive of these ends". [[thomas-paine|Thomas Paine]]'s *Rights of Man* (1791–92) carries the same premises into mass democratic politics against Burke, insisting that rights inhere in the living and that "every age and generation must be as free to act for itself in all cases as the age and generations which preceded it."
 
@@ -6284,6 +6515,8 @@ The tradition is contested. **Hume's is/ought gap** challenges any inference fro
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 - [[ethics-vs-morality|Ethics vs Morality]]
 - [[left-and-right|Left and Right]] - Hoppe’s natural-order conservatism and its claim on the Right
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a contemporary attempt to rebuild the whole chain deductively, from reflexive consciousness to a polycentric legal order
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics (Full Text)](https://www.gutenberg.org/ebooks/8438) - Book V, natural vs. conventional justice
@@ -6461,6 +6694,10 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[ethics-vs-morality|Ethics vs Morality]]
 - [[left-and-right|Left and Right]] - the principle all three answers to the spectrum question defend
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - when consent is competent to the act, and who acts for those whose is not
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - a rival derivation of the property leg, grounded in objective boundaries rather than first use
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - an objective measure for the defensive force the principle permits
+
 ## Sources
 
 - [Second Treatise of Government](https://www.gutenberg.org/ebooks/7370) - the property-in-one's-person passage the self-ownership premise rests on
@@ -7703,6 +7940,8 @@ This concept is narrower than [[market-anarchism-and-private-law|Market Anarchis
 - [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - the standard defence agencies would apply to judge legitimate force
+- [[restitution-without-punishment|Restitution Without Punishment]] - what enforcement aims at when confinement is execution of a debt rather than a penalty
 
 ## Sources
 
@@ -8269,10 +8508,86 @@ The theory's difficulties are the ones proportionality has always faced. Fixing 
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - the source of the theory
 - [[murray-n-rothbard|Murray N. Rothbard]] - its author
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - an objective measure offered in place of proportionality
+- [[restitution-without-punishment|Restitution Without Punishment]] - the sharper position that drops the retributive element entirely
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - the 2026 treatise arguing punishment is not a legal category at all
 
 ## Sources
 
 - [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - Rothbard on punishment and proportionality: the criminal forfeits his rights to the extent he violated another's; the proportionality principle ("let the punishment fit the crime"); the "two teeth for a tooth" correction; restitution and victims' rights; and the rejection of deterrence and rehabilitation
+
+---
+
+## Restitution Without Punishment
+URL: /concepts/restitution-without-punishment
+Category: concept
+
+# Restitution Without Punishment
+
+> Most libertarian theories of criminal justice put restitution first and then argue about how much retribution may sit beside it. *Os Fundamentos Objetivos da Justiça* takes the further step of denying the second category any standing of its own. Punishment is never a ground in this system: every consequence that falls on an aggressor must be traceable to restoring or protecting the sphere he violated, and a measure that stops doing that and exists only to impose suffering has lost its legal foundation. Punishment is not quite abolished — the closing chapter permits it where it stays subordinate to those purposes — but it is stripped of any power to justify anything by itself.
+
+## The claim
+
+The book states it flatly:
+
+> A teoria desenvolvida nesta obra não reconhece a punição como categoria jurídica autônoma.
+>
+> — Luiz Liberatus and Pedro Távora, [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]]
+
+The theory developed in this work does not recognise punishment as an *autonomous* legal category — the qualifier is the authors' own, and it matters. The claim is not that no consequence may ever be called punishment; it is that punishment can never be the thing that justifies a consequence. The reasoning is continuous with everything before it. Justice was defined as the restoration of legal relations that aggression disturbed; reparation exists to put the victim where they would have been; and nothing in that chain generates a warrant for an additional consequence whose purpose is the aggressor's suffering. *A justiça não existe para produzir dor* — justice does not exist to produce pain — it exists to make the objective consequences of an aggression fall on the person who chose to commit it.
+
+The book is careful that this is not leniency. It separates reparation from punishment partly to protect victims: a system organised around punishing tends to spend its resources on the offender and leave the victim unrestored. Removing retribution is meant to redirect everything toward the person actually harmed.
+
+## Liability survives insolvency
+
+The obvious objection is that restitution-only justice collapses when the aggressor has nothing — that a person who kills and owns no property simply escapes. The book blocks this directly: the aggressor's lack of assets does not extinguish the duty to repair, since otherwise owning nothing would confer immunity from one's own aggression. Insolvency prevents immediate satisfaction of the debt; it does not touch its foundation.
+
+The reach of enforcement is then extended accordingly. A person's estate is not limited to what they hold at the time of judgment: their future capacity to produce wealth is itself a resource capable of satisfying the obligation, so execution runs against wealth produced later. This is the mechanism that lets a restitution-only theory address serious violent crime at all, and it is where the doctrine becomes institutionally demanding.
+
+## Restitution Centres
+
+Where reparation cannot be had voluntarily or from existing assets, the book proposes **Centros de Restituição** — Restitution Centres. The executed person remains in a supervised environment performing productive work suited to their physical and intellectual capacities, and the wealth produced goes, in order, to repairing the victims, to the costs of the execution itself, and to the person's own maintenance. Access to work is continuous, because the institution exists to let the obligation be discharged; the authors add that maintenance presupposes participation, and that a legal order does not oblige third parties to support indefinitely someone who could contribute to satisfying their own debt and refuses — while allowing that cooperation may be resumed at any time.
+
+The status of confinement follows from the same logic:
+
+> A restrição da liberdade não constitui uma pena.
+>
+> — Luiz Liberatus and Pedro Távora, [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]]
+
+Restriction of liberty is not a penalty; it is a consequence of patrimonial execution. As a building may be seized to satisfy a debt, freedom of movement may be restricted where that is necessary to make execution possible. Its ground is neither the gravity of the crime nor the dangerousness of the person, but only the existence of an unsatisfied obligation.
+
+Duration follows the same rule. It is not set by an abstract classification of the offence but by the reparation still outstanding — which means that for multiple homicides, or crimes causing permanent injury to many victims, the obligation may exceed everything the responsible person could produce in a lifetime. The authors accept the implication and characterise it precisely: an extremely long execution of that kind is not a perpetual sentence but the persistence of an obligation never fully satisfied.
+
+## The distance from Rothbard
+
+This is the sharpest divergence between the book and the tradition it otherwise inherits — a comparison drawn here rather than in the text, which names no predecessor and argues against no one by name. [[restitution-and-proportional-punishment|Rothbard's theory]] also centres restitution, but keeps a genuinely retributive element — the criminal forfeits his own rights to the extent he invaded another's, which licenses proportional punishment alongside repayment. Liberatus and Távora keep the forfeiture logic's *effects* while denying its retributive premise: what falls on the aggressor is grounded in restoration and protection, never in desert.
+
+The practical distance between the two is narrower than it first appears, since execution against lifetime earnings can be more onerous than a fixed sentence. The theoretical distance is not. Rothbard can say that a murderer deserves something; this book can only say a murderer owes something, and must locate the entire response inside a debt.
+
+## The objections it invites
+
+Three are worth stating plainly, and the book answers none of them fully.
+
+**The book does not settle whether prevention is a ground.** Chapter 16 is emphatic that the basis of confinement is neither the gravity of the offence nor the dangerousness of the person, but only an unsatisfied obligation — which implies that a wealthy aggressor who pays in full is released however likely they are to offend again, and that an aggressor with no capacity to produce may not be confinable at all. The closing chapter then says that punishment, where it exists, must be subordinate to the protection of violated rights and to *the need to prevent new aggressions* — which reintroduces exactly the forward-looking ground Chapter 16 excluded. The two passages are not obviously reconcilable: prevention either is or is not a legitimate reason to restrain someone, and a theory that admits it needs a measure for how much restraint it licenses, which the book supplies for defence but not here.
+
+**Restitution for the irreparable is unquantified.** The book concedes that death and permanent injury cannot be undone and asks for the greatest reparation objectively achievable — but supplies no method for converting a life into a sum, which is precisely the step at which restitution-only theories are usually challenged. Having replaced proportionality with a measurable standard for [[factual-potential-of-harm|self-defence]], it leaves the analogous measurement here undone.
+
+**Supervised compulsory labour is a hard thing to distinguish from punishment by its description alone.** The book's answer is that the distinction lies in the ground rather than the experience: the same restriction is execution when it tracks an unsatisfied obligation and a penalty when it tracks desert. That is consistent with how the book treats defensive force, where identical acts differ legally by their relation to a prior violation. Whether a distinction that a person subject to it could not detect can carry this much weight is the live question — and it is the one that most needs an answer, because the arrangement's safeguard against becoming a prison in all but name is entirely conceptual.
+
+## See Also
+
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - the treatise this doctrine comes from
+- [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's theory, which retains the retributive element this one denies
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - the companion standard governing force used to repel rather than to repair
+- [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - the debt-enforcement reasoning that reaching future income depends on
+- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the institutional setting the execution agencies belong to
+- [[private-security-and-insurance|Private Security and Insurance]] - how a non-state order handles the protective function this theory declines to serve
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - where the equal-justice and enforcement objections are stated at length
+- [[natural-law|Natural Law]] - the hub for reason-knowable justice above positive law, where this theory of corrective justice is adopted
+
+## Sources
+
+- [Os Fundamentos Objetivos da Justiça](https://easy-spot-fb6.notion.site/Os-Fundamentos-Objetivos-da-Justi-a-39b0f2b3d35c80f6ba28d56de2f902ed) - Chapters 12 and 16, on reparation, liability, insolvency and the Restitution Centres
 
 ---
 
@@ -9013,6 +9328,9 @@ Self-ownership is powerful precisely because so much rides on one premise, which
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the axiom used to show property is prior to the state, not its creature
 - [[ethics-vs-morality|Ethics vs Morality]]
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - the distinction between holding a right and being competent to exercise it
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - which treats self-ownership as the first application of boundary-drawing rather than a separate axiom
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a treatise deriving self-ownership from reflexive consciousness instead of assuming it
 
 ## Sources
 
@@ -10227,7 +10545,7 @@ From this it follows that what the law should enforce is not the keeping of a wo
 >
 > — [[murray-n-rothbard|Murray N. Rothbard]], [[the-ethics-of-liberty|The Ethics of Liberty]]
 
-Rothbard credits the framework to Williamson Evers: a "correct theory of contracts, however, termed by Williamson Evers the 'title-transfer' theory, states that the only valid (and therefore binding) contract is one that surrenders what is, in fact, philosophically alienable". Enforceability, on this view, is downstream of ownership — never of mere agreement.
+Rothbard credits the framework to Williamson Evers: a "correct theory of contracts, however, termed by Williamson Evers the 'title-transfer' theory, states that the only valid (and therefore binding) contract is one that surrenders what is, in fact, philosophically alienable...". Enforceability, on this view, is downstream of ownership — never of mere agreement.
 
 ## Why a Bare Promise Does Not Bind
 
@@ -10276,6 +10594,9 @@ The theory is deceptively consequential. It reshapes contract law around a singl
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - the prior question of whether the consent transferring title was competent to the act
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - what makes a thing an individuated unit before any title to it can move
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a parallel contract theory built on the continuity of consent, voiding enslavement clauses by another route
 
 ## Sources
 
@@ -10856,6 +11177,8 @@ The slavery-and-contract question is a good stress test of what libertarian cont
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - the source text (Ch. 19) for the theory of contracts, debt, and voluntary slavery
 - [[smart-contracts|Smart Contracts]] - protocol-embedded contract performance, a modern mechanism cousin to the penal bond
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - the prior question of when consent binds at all, answered by matching capacity to the act rather than to a status
+- [[restitution-without-punishment|Restitution Without Punishment]] - where the same reach into future income serves reparation for an aggression rather than a contracted debt
 
 ## Sources
 
@@ -16470,6 +16793,93 @@ The book should therefore be used as an upstream sociological source. It should 
 
 ---
 
+## Os Fundamentos Objetivos da Justiça
+URL: /references/os-fundamentos-objetivos-da-justica
+Category: reference
+
+# Os Fundamentos Objetivos da Justiça
+
+> *Os Fundamentos Objetivos da Justiça* — in English, *The Objective Foundations of Justice* — is a 2026 Portuguese-language treatise by Luiz Liberatus and Pedro Távora that tries to derive an entire legal order from a single starting point — the reflexive consciousness that lets a person recognise himself as distinct from the world — without appeal to authority, tradition, consensus or statute. It reaches conclusions familiar from the anarcho-capitalist tradition, but arrives at several of them by a different route, and breaks with [[murray-n-rothbard|Rothbard]] on the origin of property and on punishment.
+
+## What the Book Argues
+
+The book opens by refusing four candidate foundations for justice. Legality cannot be the criterion, because slavery, religious persecution and judicial torture were all lawful; social consensus cannot, because a majority may authorise the extermination of a minority; morality cannot, because it varies by culture; and authority cannot, because it merely relocates the question. What remains is reason, and the book commits itself to five methodological principles — identity, delimitation, non-contradiction, logical derivation and objectivity — under which no claim is accepted for its pedigree.
+
+The derivation then runs in a single chain. Consciousness makes experience possible; consciousness of consciousness makes reflection possible; reflection yields a continuous identity to which acts can be attributed, and therefore responsibility. Abstraction yields general concepts, reason relates them, and identification and delimitation carve the world into individuated units. Applied to the self, this produces self-ownership — the first property relation, and the one from which the rest follow. Applied to external scarce resources it produces property; applied to the meeting of two wills it produces contract; and its violation produces aggression, defence, liability and reparation in turn.
+
+Parts III and IV carry that chain into practice: how facts are proved, who may decide a dispute, how a decision is enforced, and what institutions can do this work without a monopolist.
+
+## Four Departures from the Tradition
+
+The book's interest to this corpus is not that it reaches anarcho-capitalist conclusions but where its derivation diverges from the standard ones.
+
+**Property comes from delimitation, not from labour or first use.** The book rejects use, labour and occupation alike as the ground of ownership, on the argument that none of them explains what makes a resource a *distinct unit* over which a legal relation can hold — a person can use a rented car, work a borrowed tool, or occupy a lent house without becoming owner of any of them. What individuates a thing is the objective definition of its boundary. This is a real break with the [[homesteading|homesteading]] tradition, and it is developed in [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]].
+
+**Self-ownership rests on species membership, not on present rationality.** Because the book grounds the right in the individual's ontological identity as a member of a rational kind rather than in any current exercise of reason, it holds for the sleeping, the comatose and the cognitively impaired without special pleading — and, the authors argue, from the point in gestation at which the organism can no longer divide. That is a different foundation from [[argumentation-ethics|Hoppe's argumentation ethics]], which locates the right in what a person must presuppose in order to argue at all, and so has always been awkward about those who cannot argue.
+
+**Consent is governed by cognitive adequacy rather than by status.** Holding a right and being able to exercise it are separated: capacity is neither absolute nor binary but relative to the specific act, and age is evidence rather than ground. Where capacity is insufficient the rights remain with their holder and only their exercise passes to a guardian. See [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]].
+
+**Punishment is denied any standing of its own.** The book refuses punishment the status of an autonomous legal category, so no consequence can be justified by desert: each must be traceable to restoring or protecting a violated sphere, and a measure that exists only to inflict suffering loses its legal foundation. The closing chapter still permits punishment where it stays subordinate to those purposes, so this is a demotion rather than an abolition — but it is a sharper position than [[restitution-and-proportional-punishment|Rothbard's]], which keeps proportional retribution alongside restitution. The consequences are worked out in [[restitution-without-punishment|Restitution Without Punishment]].
+
+A fifth contribution is methodological rather than doctrinal: the book replaces the notion of *proportionality* in self-defence with a measurable quantity, on the ground that proportionality is a conclusion rather than a criterion. That apparatus is set out in [[factual-potential-of-harm|The Factual Potential of Harm]].
+
+## Aggression as Incoherence
+
+Underneath the specific doctrines is an unusual account of *why* aggression is unjust. The book defines self-ownership as an originary and exclusive relation between an individual and his own juridical sphere. An aggressor asserts originary authority over a sphere whose authority still belongs to someone else, without any legitimating fact — consent, guardianship or liability — having occurred. So the wrong is not primarily that harm results; it is that the aggressor's claim requires the concept of self-ownership to be exclusive and not exclusive at the same time. Injustice is treated as a species of contradiction, and justice as the coherent application of legal concepts among rational agents.
+
+This is close in spirit to argumentation ethics without sharing its structure: Hoppe finds the contradiction in the act of arguing, this book finds it in the concepts themselves.
+
+## The Institutional Argument
+
+Chapters 17 through 19 apply the same criteria to institutions. Chapter 17 argues against a justice monopoly on incentive grounds rather than moral ones — without the possibility of substitution, the error-correcting mechanism disappears, accountability weakens, innovation depends on the monopolist's own decisions, and revenue detached from the satisfaction of those served breaks the link between quality and survival. The authors are careful to say this does not entail that a monopolist will serve badly, only that its structure removes the pressure not to.
+
+The positive proposal separates functions that are usually imagined as one: investigation agencies producing evidence, arbitration chambers deciding, legal insurers bearing and pricing risk, execution agencies enforcing, registries recording title, and security firms preventing. Each is disciplined by reputation and exit rather than by decree. The result is the familiar architecture of [[market-anarchism-and-private-law|market anarchism]], reached from the book's own premises.
+
+Chapter 19 then measures the state against the same criteria and finds unilateral creation of obligations, compulsory taxation, the coercive maintenance of the justice monopoly, and agent immunities each in tension with principles established earlier. The authors present this as an application of uniform criteria rather than a prior political commitment.
+
+## On Blockchain
+
+Chapter 20, the last substantive chapter before the conclusion, treats cryptographic infrastructure as a way of implementing the theory rather than as part of it:
+
+> A blockchain não constitui uma teoria da justiça.
+>
+> — Luiz Liberatus and Pedro Távora, *Os Fundamentos Objetivos da Justiça*
+
+Distributed registries can give property the publicity that delimitation requires; [[smart-contracts|smart contracts]] can automate what is objectively verifiable while leaving contested facts to human judgement; arbitration clauses can be chosen inside the contract rather than after the dispute; and a money whose supply does not depend on a discretionary authority makes long-term obligations measurable. The chapter is the book's least original — the wiki's own [[bitcoin|Bitcoin]] and smart-contract material covers the same ground in more depth — but it is consistent with the rest.
+
+## What Kind of Source This Is
+
+This is a self-published work hosted on a public Notion page, with no publisher, peer review or scholarly apparatus: it cites no sources, engages no opponent by name, and carries no biographical information about its authors beyond their signature. The date of 14 July 2026 is the document's own — it appears in the closing signature line and is not corroborated anywhere else; searches for the title, for either author, and for distinctive sentences from the text turn up no copy or discussion of the work outside this one page. A reader should treat the attribution and the date as the document's claims about itself rather than as established facts. It is included here as a primary statement of a position, not as an authority — a worked contemporary attempt to rebuild libertarian legal theory deductively, whose value lies in the specific places where a careful derivation lands somewhere other than Rothbard did. Its claims are reported in this wiki as the book's claims, and the points where it contradicts better-established texts are marked as disagreements rather than resolved.
+
+## Scope of the Full-Text Ingest
+
+The raw source is the complete text — prologue, twenty-one chapters across four parts, and conclusion — fetched from the public Notion page through the site's own chunk API and rendered to markdown. It is born-digital, so quotations are verifiable character-exact and no OCR caveat applies. The text is Portuguese throughout; English renderings in this wiki's articles are editorial translations and are not presented as the authors' words. The original numbers its thirteenth chapter "Capítulo 12+1" — that is the authors' numbering, not an extraction artefact.
+
+## See Also
+
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - the book's property theory, and its break with labour-mixing and first use
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - its account of when consent binds, and who exercises the rights of those who cannot
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - its replacement for proportionality in self-defence
+- [[restitution-without-punishment|Restitution Without Punishment]] - its rejection of punishment as a legal category, and the Restitution Centres that follow
+- [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's natural-rights treatise, the closest predecessor and the text this book most often departs from
+- [[homesteading|Homesteading]] - the first-use theory of original appropriation this book rejects
+- [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's theory, which keeps the retributive element this book discards
+- [[argumentation-ethics|Argumentation Ethics]] - Hoppe's a priori derivation, the rival route to the same starting point
+- [[natural-law-and-natural-order|Natural Law and Natural Order]] - the tradition of reason-knowable justice above positive law that this book writes within
+- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the institutional order Parts III and IV arrive at
+- [[title-transfer-theory-of-contract|The Title-Transfer Theory of Contract]] - Rothbard's contract theory, which this book's continuity-of-consent account parallels and modifies
+- [[the-market-for-liberty|The Market for Liberty]] - the Tannehills' case for market-provided law, arbitration and defence
+- [[the-production-of-security|The Production of Security]] - Molinari's founding argument against a security monopoly, the ancestor of Chapter 17
+- [[self-ownership|Self-Ownership]] - the axiom the book derives rather than assumes
+- [[natural-law|Natural Law]] - the natural-law hub this treatise is adopted into
+- [[libertarianism|Libertarianism]] - the political philosophy whose institutional argument Part IV reconstructs
+
+## Sources
+
+- [Os Fundamentos Objetivos da Justiça](https://easy-spot-fb6.notion.site/Os-Fundamentos-Objetivos-da-Justi-a-39b0f2b3d35c80f6ba28d56de2f902ed) - complete text of the treatise, fetched from the authors' public Notion page
+
+---
+
 ## Our Enemy, the State
 URL: /references/our-enemy-the-state
 Category: reference
@@ -18037,7 +18447,7 @@ This is the natural-rights side of Rothbard's system. [[man-economy-and-state|Ma
 
 ## Scope of the Full-Text Ingest
 
-The raw source is the Mises Institute's PDF of the NYU Press 1998 edition (336 pages), extracted with `pdftotext -layout`. It contains Hoppe's introduction; all 30 chapters across Parts I–V ([[natural-law|Natural Law]]; A Theory of Liberty; The State Versus Liberty; Modern Alternative Theories of Liberty; Toward a Theory of Strategy for Liberty); and the bibliography and index. The full-text aggregate was added 2026-05-04 — earlier ingests had only the Mises catalog metadata page.
+The raw source is the Mises Institute's EPUB of the NYU Press 1998 edition, re-extracted on 2026-06-17 from the official XHTML — clean digital text, superseding an earlier `pdftotext -layout` pass over the PDF that carried split drop-caps, hyphenation breaks and font-encoding artefacts. Quotations are therefore verifiable verbatim against it. It contains Hoppe's introduction; all 30 chapters across Parts I–V ([[natural-law|Natural Law]]; A Theory of Liberty; The State Versus Liberty; Modern Alternative Theories of Liberty; Toward a Theory of Strategy for Liberty); and the bibliography and index. The full-text aggregate was added 2026-05-04 — earlier ingests had only the Mises catalog metadata page.
 
 ## Relation to Other Texts in This Wiki
 
@@ -18068,10 +18478,11 @@ This book is in dialogue with several other sources. The natural-law foundation 
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[natural-law|Natural Law]] - The wiki's natural-law hub: the classical lineage of reason-knowable justice above positive law, from Aristotle and Cicero through Aquinas, Grotius, Locke
 - [[ethics-vs-morality|Ethics vs Morality]]
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 deductive treatise in the same natural-rights project, departing from Rothbard on property, punishment and legal capacity
 
 ## Sources
 
-- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - full NYU Press 1998 edition extracted from the Mises PDF
+- [The Ethics of Liberty (Full Text Aggregate)](https://cdn.mises.org/The%20Ethics%20of%20Liberty.epub) - full NYU Press 1998 edition, re-extracted 2026-06-17 from the official Mises EPUB
 - [The Ethics of Liberty](https://mises.org/library/book/ethics-liberty) - Mises library page metadata and descriptive framing
 
 ---
@@ -18451,6 +18862,7 @@ In this corpus, the Tannehills do for institutions what [[murray-n-rothbard|Roth
 - [[state-power-and-intervention|State Power and Intervention]] - critique to which this book supplies a constructive alternative
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 treatise reaching a similar institutional architecture from an explicitly deductive foundation
 
 ## Sources
 
@@ -18816,6 +19228,7 @@ For [[evolution-of-the-state|Evolution of the State]], Molinari supplies the cou
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - Molinari's market-supplied enforcement as the reply to the claim that private property requires the state
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a contemporary restatement of the case against a justice monopoly, argued from incentives
 
 ## Sources
 
@@ -21631,6 +22044,7 @@ New to this hub? Read these five, in order:
 - [[banality-of-evil|Banality of Evil]] - Arendt's ordinary-participant diagnosis
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social-preconditions article for Arendt's totalitarianism thesis
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 Brazilian treatise deriving the same institutional order deductively, and breaking with Rothbard on property and punishment
 - [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
 - [[crypto-anarchy|Crypto Anarchy]] - cypherpunk strategy for moving voluntary exchange beyond ordinary state surveillance and control
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - Konkin's strategy-by-exit: grow the counter-economy until it displaces the state
@@ -21813,6 +22227,10 @@ The tradition sharpens into anti-statism with **Spooner** ([[lysander-spooner|Ly
 
 Natural law is what makes the wiki's natural-rights branch a *moral* argument rather than only an economic one. From the objective-justice premise, the corpus derives [[self-ownership|self-ownership]] and the property and nonaggression rules collected in [[nonaggression-and-property-rights|Nonaggression and Property Rights]]. Bastiat's [[the-law|The Law]] states the same standard in the idiom of legal plunder, and the market-anarchist tradition in [[the-production-of-security|The Production of Security]] reads the state's monopoly as a standing violation of it. This is the branch [[libertarianism|Libertarianism]] sets against the consequentialist wing — same conclusions, a different foundation.
 
+## The Deductive Reconstruction
+
+The tradition's characteristic method — deriving justice from what reason can establish rather than from what a legislature enacts — is still being worked. [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]], a 2026 Brazilian treatise, rebuilds the whole chain from reflexive consciousness to a polycentric legal order, and is most useful here for the four places its derivation lands somewhere other than Rothbard's: property from [[delimitation-and-the-origin-of-property|objective delimitation]] rather than labour or first use; consent governed by [[cognitive-adequacy-and-tutela|cognitive adequacy]] rather than by status; self-defence measured by a [[factual-potential-of-harm|factual potential of harm]] instead of by proportionality; and [[restitution-without-punishment|restitution without punishment]] as the whole of what may fall on an aggressor. Where it contradicts the better-established texts above, this wiki records the disagreement rather than resolving it.
+
 ## The Salamanca Bridge
 
 The canon also connects to economics. The [[school-of-salamanca|School of Salamanca]] — the sixteenth-century Spanish scholastics who extended the Thomist natural-law tradition — were simultaneously natural-rights theorists of consent and resistance and proto-Austrian economists of subjective value, just price, and money. They are the historical hinge where this hub meets [[money-and-banking|Money and Banking]] and [[austrian-economics|Austrian Economics]]: the same tradition that grounds rights also seeded the analysis of markets.
@@ -21842,6 +22260,11 @@ New to this hub? Read these five, in order:
 - [[john-locke|John Locke]] - pre-political rights, consent, and revolution
 - [[lysander-spooner|Lysander Spooner]] - natural law turned against legislation itself
 - [[thomas-paine|Thomas Paine]] - the revolutionary popularizer of natural rights
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 deductive treatise rebuilding the natural-law chain, and departing from Rothbard at four points
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - the rival theory of original appropriation: boundaries rather than labour
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - when consent binds, and who exercises the rights of those who cannot
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - an objective measure offered in place of proportionality in self-defence
+- [[restitution-without-punishment|Restitution Without Punishment]] - the refusal of punishment as a legal category
 - [[libertarianism|Libertarianism]] - the political philosophy whose natural-rights branch this hub feeds
 
 ## Sources

@@ -3,7 +3,7 @@ title: "Natural Law"
 volatility: cold
 category: topic
 created: 2026-07-15
-updated: 2026-08-07
+updated: 2026-08-11
 verified: 2026-07-15
 tags: [natural-law, natural-rights, natural-order, classical-canon, self-ownership, aristotle, cicero, aquinas, grotius, locke, spooner, rothbard]
 aliases: [natural law, natural rights, natural law tradition, natural law canon]
@@ -31,6 +31,10 @@ The tradition sharpens into anti-statism with **Spooner** ([[lysander-spooner|Ly
 ## Into Libertarianism
 
 Natural law is what makes the wiki's natural-rights branch a *moral* argument rather than only an economic one. From the objective-justice premise, the corpus derives [[self-ownership|self-ownership]] and the property and nonaggression rules collected in [[nonaggression-and-property-rights|Nonaggression and Property Rights]]. Bastiat's [[the-law|The Law]] states the same standard in the idiom of legal plunder, and the market-anarchist tradition in [[the-production-of-security|The Production of Security]] reads the state's monopoly as a standing violation of it. This is the branch [[libertarianism|Libertarianism]] sets against the consequentialist wing — same conclusions, a different foundation.
+
+## The Deductive Reconstruction
+
+The tradition's characteristic method — deriving justice from what reason can establish rather than from what a legislature enacts — is still being worked. [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]], a 2026 Brazilian treatise, rebuilds the whole chain from reflexive consciousness to a polycentric legal order, and is most useful here for the four places its derivation lands somewhere other than Rothbard's: property from [[delimitation-and-the-origin-of-property|objective delimitation]] rather than labour or first use; consent governed by [[cognitive-adequacy-and-tutela|cognitive adequacy]] rather than by status; self-defence measured by a [[factual-potential-of-harm|factual potential of harm]] instead of by proportionality; and [[restitution-without-punishment|restitution without punishment]] as the whole of what may fall on an aggressor. Where it contradicts the better-established texts above, this wiki records the disagreement rather than resolving it.
 
 ## The Salamanca Bridge
 
@@ -61,6 +65,11 @@ New to this hub? Read these five, in order:
 - [[john-locke|John Locke]] - pre-political rights, consent, and revolution
 - [[lysander-spooner|Lysander Spooner]] - natural law turned against legislation itself
 - [[thomas-paine|Thomas Paine]] - the revolutionary popularizer of natural rights
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 deductive treatise rebuilding the natural-law chain, and departing from Rothbard at four points
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - the rival theory of original appropriation: boundaries rather than labour
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - when consent binds, and who exercises the rights of those who cannot
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - an objective measure offered in place of proportionality in self-defence
+- [[restitution-without-punishment|Restitution Without Punishment]] - the refusal of punishment as a legal category
 - [[libertarianism|Libertarianism]] - the political philosophy whose natural-rights branch this hub feeds
 
 ## Sources

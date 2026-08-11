@@ -3,7 +3,7 @@ title: "The Title-Transfer Theory of Contract"
 volatility: cold
 category: concept
 created: 2026-06-24
-updated: 2026-08-08
+updated: 2026-08-11
 verified: 2026-06-24
 confidence: high
 tags: [title-transfer, contract, property-rights, implicit-theft, mere-promise, alienability, fraud, debt, restitution, penal-bond, murray-n-rothbard, williamson-evers, libertarian, austrian]
@@ -32,7 +32,7 @@ From this it follows that what the law should enforce is not the keeping of a wo
 >
 > — [[murray-n-rothbard|Murray N. Rothbard]], [[the-ethics-of-liberty|The Ethics of Liberty]]
 
-Rothbard credits the framework to Williamson Evers: a "correct theory of contracts, however, termed by Williamson Evers the 'title-transfer' theory, states that the only valid (and therefore binding) contract is one that surrenders what is, in fact, philosophically alienable". Enforceability, on this view, is downstream of ownership — never of mere agreement.
+Rothbard credits the framework to Williamson Evers: a "correct theory of contracts, however, termed by Williamson Evers the 'title-transfer' theory, states that the only valid (and therefore binding) contract is one that surrenders what is, in fact, philosophically alienable...". Enforceability, on this view, is downstream of ownership — never of mere agreement.
 
 ## Why a Bare Promise Does Not Bind
 
@@ -81,6 +81,9 @@ The theory is deceptively consequential. It reshapes contract law around a singl
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[homesteading|Homesteading]] - The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
+- [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - the prior question of whether the consent transferring title was competent to the act
+- [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - what makes a thing an individuated unit before any title to it can move
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a parallel contract theory built on the continuity of consent, voiding enslavement clauses by another route
 
 ## Sources
 

@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (363 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (368 entries).
 
 ## #
 
@@ -72,6 +72,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Citizenship and State Bargaining](/concepts/citizenship-and-state-bargaining)** — Tilly's account of citizenship as a byproduct of rulers' bargaining with subjects for taxes, manpower, and compliance during war-making and direct rule.
 - **[Code as Speech](/concepts/code-as-speech)** — The Bernstein Crypto Wars thesis: encryption source code can be First Amendment expression, and export licensing can become unconstitutional prior restraint.
 - **[Coercion, Capital, and European States](/references/coercion-capital-and-european-states)** — Tilly's historical-sociological account of how war-making, extraction, and the capital/coercion typology forged the European state system.
+- **[Cognitive Adequacy and Tutela](/concepts/cognitive-adequacy-and-tutela)** — Consent binds only when the person's understanding matches the complexity of the act; where it doesn't, rights stay with their holder and only their exercise passes to a guardian.
 - **[CoinJoin and PayJoin](/concepts/coinjoin)** — Two Bitcoin privacy techniques: CoinJoin merges many users' inputs so outputs cannot be linked, while PayJoin disguises a payment to break the common-input-ownership heuristic.
 - **[Colophon — How This Wiki Is Made](/concepts/colophon)** — How the wiki is built and checked: the verbatim quote standard, the mechanical gate and its honest limits, adversarial review, provenance, and licensing.
 - **[The Concept of the Political](/references/the-concept-of-the-political)** — Schmitt's work centered on the friend/enemy criterion and its critique of liberal depoliticization.
@@ -100,6 +101,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[De Re Publica (The Republic of Cicero)](/references/cicero-de-re-publica)** — Cicero's dialogue transmitting Stoic natural law as 'right reason in accordance with nature' — the most quoted classical formula of the tradition.
 - **[The Declaration of Independence](/references/declaration-of-independence)** — The 1776 Declaration: Lockean natural rights as a public political creed — unalienable rights, consent, and the right of revolution.
 - **[Deflation](/concepts/deflation)** — The Austrian case that falling prices aren't one thing: 'growth' deflation from productivity is benign, only credit-contraction deflation is painful — against the mainstream fear of deflation as such.
+- **[Delimitation and the Origin of Property](/concepts/delimitation-and-the-origin-of-property)** — A rival theory of original appropriation: a thing becomes ownable when its boundary is objectively defined, not when it is used, worked, or occupied.
 - **[Democracy: The God That Failed](/references/democracy-the-god-that-failed)** — Hoppe's regime-comparison book arguing monarchy outperforms democracy on time preference and civilization, now backed by full-text ingest.
 - **[Denationalisation of Money](/references/denationalisation-of-money)** — Hayek's case for abolishing the state money monopoly and letting private 'concurrent currencies' compete — a forerunner of the Bitcoin debate, criticized by Rothbard and Hoppe.
 - **[Digital Euro](/concepts/digital-euro)** — The EU's retail CBDC project: a direct ECB liability with legal-tender status, bank-intermediated access, a holding cap, and a formal ban on 'programmable money' atop plumbing that would enable it.
@@ -127,6 +129,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 ## F
 
 - **[F. A. Hayek](/references/friedrich-a-hayek)** — Second pillar of mature Austrian economics: knowledge-problem theorist, business-cycle theorist, and classical-liberal critic of central planning.
+- **[The Factual Potential of Harm](/concepts/factual-potential-of-harm)** — Replaces 'proportionality' in self-defence with a measurable quantity — the maximum harm a course of conduct is objectively capable of producing — and applies a twin test to pollution and nuisance.
 - **[Farewell to Westphalia](/references/farewell-to-westphalia)** — Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
 - **[Federal Reserve](/concepts/federal-reserve)** — The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - **[Fiat as Engineered System](/concepts/fiat-as-engineered-system)** — Ammous's Fiat Standard frame: fiat as debt-based monetary engineering, with central banks as protocol nodes and Bitcoin as the comparative alternative.
@@ -290,6 +293,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Oppenheimer On Conquest](/concepts/oppenheimer-on-conquest)** — Oppenheimer's thesis: the state originates in conquest, not contract — a permanent institution of the political means (appropriating others' labor), not the economic means of production.
 - **[Organized Crime and State Capacity](/concepts/organized-crime-and-state-capacity)** — Suppressing organized crime turns on a state's capacity and willingness to override rights, not country size: total-coercion states crush crime and dissent alike; rights-constrained ones tolerate it.
 - **[The Origins of Totalitarianism](/references/the-origins-of-totalitarianism)** — Arendt's 1951 study tracing antisemitism and imperialism into totalitarianism as a wholly new form of rule built on terror and ideology.
+- **[Os Fundamentos Objetivos da Justiça](/references/os-fundamentos-objetivos-da-justica)** — A 2026 Brazilian deductive treatise on justice: property from objective delimitation, consent by cognitive adequacy, defence by factual potential of harm, and restitution without punishment.
 - **[Our Enemy, the State](/references/our-enemy-the-state)** — Nock's 1935 anti-state book applying Oppenheimer's political-means/economic-means distinction to American history and the New Deal.
 
 ## P
@@ -330,6 +334,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[The Regression Theorem](/concepts/regression-theorem)** — Mises's proof that money's value today traces back to a good's original non-monetary worth, dissolving the circularity of valuing money and forbidding a money with no prior value.
 - **[Resistance Axiom](/concepts/resistance-axiom)** — Voskuil's axiom, via Hillebrand, that systems can be designed to resist external control -- a methodological assumption, not a self-evident truth.
 - **[Restitution and Proportional Punishment](/concepts/restitution-and-proportional-punishment)** — Rothbard's theory of justice: crime invades a victim's rights; the criminal forfeits his own rights equally, and justice means restitution plus proportional retribution — not punishing 'society.
+- **[Restitution Without Punishment](/concepts/restitution-without-punishment)** — The position that punishment has no standing of its own: every consequence imposed on an aggressor must be traceable to restoring what was violated, including confinement, which becomes execution against future earnings.
 - **[Richard Cantillon](/references/richard-cantillon)** — Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
 - **[Rights of Man](/references/rights-of-man)** — Paine's 1791–92 reply to Burke: natural rights for the democratic age — no generation binds the next, and government is a delegated trust.
 - **[The Rights of War and Peace (De Jure Belli ac Pacis)](/references/the-rights-of-war-and-peace)** — Grotius's 1625 founding text of international law: natural law grounded in human nature, binding 'even if there were no God.
