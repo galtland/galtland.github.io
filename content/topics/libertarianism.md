@@ -3,7 +3,7 @@ title: "Libertarianism"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-08-05
+updated: 2026-08-10
 verified: 2026-07-15
 tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [libertarian thought, liberty tradition]
@@ -67,6 +67,7 @@ New to this hub? Read these five, in order:
 - [[minarchism|Minarchism]] - the minimal-state pole of the internal how-far-to-shrink-the-state debate
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - the strongest objections to the stateless-market conclusion, stated fairly
 - [[david-friedman|David Friedman]] - the consequentialist case for anarcho-capitalism, the efficiency-not-rights road to the same institutions
+- [[dawid-ciezarkiewicz|Dawid Ciężarkiewicz]] - developer whose documented objections foreground coordination, social power, and institutional durability
 - [[non-interventionism|Non-Interventionism]] - the libertarian foreign-policy conclusion about inter-State war
 - [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - the corpus's theory of justice: restitution plus proportional retribution
 - [[intellectual-property|Intellectual Property]] - the property-theory test case on whether non-rivalrous ideas can be owned

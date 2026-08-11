@@ -4,7 +4,7 @@ title: "Authors & Works"
 
 # Authors & Works
 
-An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (72 authors, 109 works).
+An index of every author, thinker, and organization in the wiki, each with the works catalogued under them — generated at publish time from the reference pages (73 authors, 109 works).
 
 ## A
 
@@ -51,6 +51,7 @@ An index of every author, thinker, and organization in the wiki, each with the w
   - [Blind Signatures for Untraceable Payments](/references/blind-signatures-for-untraceable-payments)
   - [Security Without Identification](/references/security-without-identification)
 - **[David Friedman](/references/david-friedman)**
+- **[Dawid Ciężarkiewicz](/references/dawid-ciezarkiewicz)**
 - **[The Declaration of Independence](/references/declaration-of-independence)**
 
 ## E
