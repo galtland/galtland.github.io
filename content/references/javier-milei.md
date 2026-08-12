@@ -3,7 +3,7 @@ title: "Javier Milei"
 volatility: hot
 category: reference
 created: 2026-07-31
-updated: 2026-08-11
+updated: 2026-08-12
 verified: 2026-07-31
 tags: [javier-milei, argentina, anarcho-capitalism, minarchism, austrian-economics, central-banking, deregulation, politics]
 aliases: [Milei, President Milei, el loco, La Libertad Avanza]
@@ -18,13 +18,13 @@ short: "Argentine president since December 2023, self-described anarcho-capitali
 
 ## Who He Is
 
-Javier Milei was born in Buenos Aires in 1970 and worked for years as an economist in banks and corporations before becoming a television commentator on economic policy. He was elected a national deputy for the city of Buenos Aires in 2021, and won the 2023 presidential run-off, taking office on 10 December 2023 with a narrow legislative base: his alliance La Libertad Avanza held 37 of 257 seats in the Chamber of Deputies and seven of 72 in the Senate, and no provincial governor. The October 2025 midterms changed that arithmetic substantially in his favour.
+Javier Milei was born in Buenos Aires in 1970 and worked for years as an economist in banks and corporations before becoming a television commentator on economic policy. He was elected a national deputy for the city of Buenos Aires in 2021, and won the 2023 presidential run-off, taking office on 10 December 2023 with a narrow legislative base: his alliance La Libertad Avanza held 37 of 257 seats in the Chamber of Deputies and seven of 72 in the Senate, and no provincial governor. The October 2025 midterms changed that arithmetic: his party outperformed expectations and took an unexpectedly strong plurality, strengthening his congressional hand — though not to a majority, which is why the reforms still pass by negotiation with the Peronist opposition and with Macri's conservatives.
 
 He campaigned with a chainsaw as the symbol of his intentions, and the shorthand stuck to the programme that followed.
 
 ## The Doctrine He Claims
 
-Milei's self-description separates the end he holds from the office he occupies:
+Milei's self-description separates the end he holds from the office he occupies. He gave the interview in Spanish through a simultaneous interpreter, so the English below is the published rendering of record rather than his own wording:
 
 > Strictly speaking, I am an anarcho-capitalist. I despise the state government. I despise violence.
 >
@@ -34,7 +34,7 @@ He defines the tradition through Alberto Benegas Lynch Jr.'s formula — unrestr
 
 On money he states the maximal Austrian position — currency competition and the elimination of the central bank, with dollarization as one possible outcome of individual choice rather than the goal itself. Claudia Zilla's profile records the same anti-state framing in his political rhetoric: the state portrayed as a criminal organisation, taxes as coercive extraction, and the political class — *la casta* — as parasitic on the productive.
 
-His stated intellectual lineage runs through the [[austrian-economics|Austrian School]], with [[murray-n-rothbard|Rothbard]] as the decisive influence on the anarcho-capitalist turn and [[ludwig-von-mises|Mises]] as the economist he cites most often.
+His stated intellectual lineage runs through the [[austrian-economics|Austrian School]], with [[murray-n-rothbard|Rothbard]] as the decisive influence on the anarcho-capitalist turn and [[ludwig-von-mises|Mises]] as the author of [[human-action|Human Action]], which he read straight through in a weekend and calls "a true revolution in my head".
 
 ## Why the Tradition Argues About Him
 
@@ -42,7 +42,9 @@ With Milei the tradition's strategic doctrine has had to be applied to an office
 
 The affirmative case rests on the record: a fiscal deficit of roughly five percent of GDP converted to a primary surplus within a year, monthly inflation cut from over twenty percent to low single digits, ministries reduced from eighteen to eight, extensive price decontrol, and — on Ian Vásquez's count for Cato — about two deregulations per day through the first year, with measurable price falls in the sectors touched.
 
-The critical case, argued from inside the same tradition, is that the means contradict the end in specific ways: the central bank retained rather than closed, an IMF facility and a US Treasury swap accepted instead of debt repudiation, an income-tax category restored and fuel levies raised while other taxes were cut, and a foreign policy of alignment rather than [[non-interventionism|non-interventionism]]. Kristoffer Mousten Hansen, working through Milei's reply to [[hans-hermann-hoppe|Hoppe]] on central banking, concludes that the reasoning behind the refusal — a version of the asset-backing theory of money — is not Austrian at all.
+The critical case, argued from inside the same tradition, is that the means contradict the end in specific ways: the central bank retained rather than closed, an IMF facility accepted instead of debt repudiation, fuel levies raised and a plan to restore an income-tax category while other taxes were cut, and a foreign policy of alignment rather than [[non-interventionism|non-interventionism]]. Kristoffer Mousten Hansen, working through Milei's reply to [[hans-hermann-hoppe|Hoppe]] on central banking, concludes that the reasoning behind the refusal — a version of the asset-backing theory of money — is not Austrian at all.
+
+One later episode sits outside that argument for a simple reason of timing. On 9 October 2025 the US Treasury announced a \$20 billion currency swap with Argentina's central bank, drawn on the Exchange Stabilization Fund, and intervened directly in the Buenos Aires foreign-exchange market. Argentina drew \$2.5 billion of that facility and repaid it in full by January 2026, using financing from a multilateral lender it declined to name. Every Austro-libertarian critique cited on this page was published before the swap was announced, so none of them addresses it; whether dollar support from a foreign treasury sits any better with the tradition than the IMF facility does is a question the sources here do not reach.
 
 Ryan McMaken's framing is the one that keeps the argument tractable: judge the policies rather than the man, since what a politician believes is unknowable from outside and what he enacts is not. This wiki scores the record on that basis in [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]].
 
@@ -65,3 +67,6 @@ Ryan McMaken's framing is the one that keeps the argument tractable: judge the p
 - [A Hoppean Dissection of Javier Milei](https://mises.org/power-market/hoppean-dissection-javier-milei) - the itemised critique from the Hoppean side
 - [We Can Praise Milei's Policies without Praising the Man](https://mises.org/power-market/we-can-praise-mileis-policies-without-praising-man) - the policies-not-persons standard
 - [Deregulation in Argentina: Milei Takes "Deep Chainsaw" to Bureaucracy and Red Tape](https://www.cato.org/free-society/spring-2025/deregulation-argentina-milei-takes-deep-chainsaw-bureaucracy-red-tape) - the deregulation record in detail
+- [The U.S. Loan to Argentina Is a Bet on Javier Milei's Reforms](https://reason.org/commentary/the-u-s-loan-to-argentina-is-a-bet-on-javier-mileis-reforms/) - the October 2025 Treasury currency swap, its mechanics and the midterm result behind it
+- [Argentina's Fragile Monetary Framework Risks Renewed Volatility](https://www.piie.com/blogs/realtime-economics/2026/argentinas-fragile-monetary-framework-risks-renewed-volatility) - the post-midterm monetary framework and the Treasury intervention that supported it
+- [Argentina Used Multilateral Funds to Repay US\$2.5 Billion US Swap](https://www.batimes.com.ar/news/economy/argentina-used-multilateral-funds-to-repay-us25-billion-us-swap.phtml) - the drawdown on the swap facility and its repayment

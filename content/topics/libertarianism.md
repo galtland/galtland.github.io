@@ -18,7 +18,7 @@ short: "Topic map of the wiki's libertarian corpus: property, voluntary exchange
 
 ## Moral Baseline
 
-Rothbard's full-text [[for-a-new-liberty|For a New Liberty]] makes the anti-aggression axiom the doctrine's plain starting point, and the other books largely build outward from that claim. [[nonaggression-and-property-rights|Nonaggression and Property Rights]] is therefore not a side issue in this wiki. It is the rule by which law, taxation, war, regulation, and social order are judged. Bastiat's [[the-law|The Law]] and [[hans-hermann-hoppe|Hoppe]]'s property-based works reinforce the same structure by treating liberty, property, and contract as mutually supporting rather than as separate spheres.
+Rothbard's full-text [[for-a-new-liberty|For a New Liberty]] makes the anti-aggression axiom the doctrine's plain starting point, and the wiki's Rothbardian and market-anarchist material builds outward from it. Much of the rest of the corpus does not: Mises and Hayek argue the classical-liberal case on other grounds, Friedman reaches the same stateless institutions by explicitly declining that axiom, and the Tilly, Arendt and Solzhenitsyn sources are not libertarian arguments at all. [[nonaggression-and-property-rights|Nonaggression and Property Rights]] is therefore not a side issue in this wiki. It is the rule by which law, taxation, war, regulation, and social order are judged. Bastiat's [[the-law|The Law]] and [[hans-hermann-hoppe|Hoppe]]'s property-based works reinforce the same structure by treating liberty, property, and contract as mutually supporting rather than as separate spheres.
 
 ## The State as Exception
 
@@ -163,3 +163,4 @@ New to this hub? Read these five, in order:
 - [The Origins of Totalitarianism](https://archive.org/details/hannah-arendt-the-origins-of-totalitarianism) - non-libertarian source distinguishing totalitarianism from tyranny, dictatorship, authoritarianism, and ordinary state coercion
 - [Eichmann in Jerusalem](https://archive.org/details/arendt-hannah-eichmann-in-jerusalem) - non-libertarian source for ordinary bureaucratic participation and banality of evil
 - [The Gulag Archipelago, 1918-1956 (Abridged)](https://archive.org/details/thegulagarchipelago19181956.abridged19731976aleksandrsolzhenitsyn) - non-libertarian Soviet camp-system witness for total domination
+- [The Machinery of Freedom (Full Text)](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) - Friedman's utilitarian route to stateless institutions, and his explicit refusal of the moral-axiom starting point
