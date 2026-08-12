@@ -1436,7 +1436,7 @@ The pivot is a distinction the book draws before anything else: being the holder
 
 Holding follows from being a subject of rights at all. Exercise requires the rational capacity to understand the act being performed. So a person may retain their rights in full while lacking the capacity to perform some particular legal act — and, symmetrically, someone perfectly competent to buy a sandwich may be incompetent to grant a security interest. The book's point is that these never collapse into one another: incapacity restricts what may be done, and never touches what is owned.
 
-That framing already rules out the two moves most legal systems make. Presuming full capacity for every decision ignores the second half; making capacity depend on a fixed threshold like chronological age ignores the first.
+That framing already rules out one move and narrows another. Presuming full capacity for every decision ignores the second half outright. A fixed threshold like chronological age is a subtler target: such rules do restrict exercise while leaving titularity intact, which is the distinction the book wants — its objection is that age is used as an exclusive *proxy for understanding*, which is the thing that actually does the work.
 
 ## The Principle of Cognitive Adequacy
 
@@ -1454,15 +1454,15 @@ Age survives only as evidence. There is a statistical relation between age and c
 
 The book proposes a **Test of Cognitive Adequacy** to make this checkable without requiring expert assessment. It measures neither intelligence nor schooling, only whether the understanding was commensurate with the act. Seven elements must be understood:
 
-1. **Nature of the act** — which act this is: buying, selling, leasing, lending, associating, undertaking an obligation. Someone who believes they are signing a lease while executing a sale has not consented.
+1. **Nature of the act** — which act this is: buying, selling, leasing, donating, lending, associating, undertaking an obligation. Someone who believes they are signing a lease while executing a sale has not consented.
 2. **Object of the act** — which specific good, right or obligation the decision falls on. Understanding that one is contracting is not enough.
 3. **Immediate consequences** — that the seller ceases to be owner; that the obligor becomes answerable for performance.
-4. **Future consequences** — effects that run on in time, and the rule that the further they run, the greater the capacity required.
+4. **Future consequences** — effects that continue after the act, with the rule keyed to how *significant* those effects are rather than to how long they last.
 5. **Risks assumed** — what may be lost if expectations fail; the larger the exposure, the more understanding is demanded.
 6. **Alternatives available** — that the decision was not inevitable. The alternatives need not be equally attractive; the person must simply grasp that a choice existed.
 7. **Irreversibility** — whether the act can be undone, with irreversible acts requiring the most capacity of all.
 
-The requirement scales rather than switching: risk, value at stake, duration of effects, irreversibility and legal complexity each raise the bar. That proportionality is meant to block both failure modes at once — voiding simple acts on paternalist grounds, and validating ruinous ones because a formality was observed.
+The requirement scales rather than switching: risk, value at stake, the significance of the future effects, irreversibility and legal complexity each raise the bar. That proportionality is meant to block both failure modes at once — voiding simple acts on paternalist grounds, and validating ruinous ones because a formality was observed.
 
 ## Tutela
 
@@ -2363,7 +2363,7 @@ The book's starting move is to separate three things that the labour-mixing trad
 
 That ordering is what generates the argument against use. A person can use a rented car, work with a borrowed tool, or live in a lent house, and in none of those cases does the using alter who owns the thing. So use cannot be what creates title; at most it demonstrates possession — that someone is *with* the thing, not that it is theirs. *O uso pode demonstrar posse* — use can demonstrate possession — but not ownership.
 
-Labour fares no better, and for a subtler reason. Transforming a resource changes its *content*; it does not explain why the resource constitutes a juridically distinct unit in the first place. The book's claim is that labour presupposes the individuation it is supposed to create: to work on *this* field rather than the surrounding world is already to have marked out which field it is.
+Labour fares no better, and the book's objection to it is narrow: transforming a resource changes its *content*, and that does not explain why the resource constitutes a juridically distinct unit in the first place. Work alters what a thing is like; it does not account for where the thing begins and ends.
 
 What remains is the boundary:
 
@@ -2389,7 +2389,7 @@ Rothbard's negative corollary is that ownership requires use, so a claim to land
 
 The gap also runs the other way. The labour-mixing tradition has an answer, however contested, to *why* appropriation wrongs nobody: the appropriator adds something of his own, and the Lockean proviso limits the taking. Delimitation as stated in this book supplies no comparable constraint. Nothing in the account explains why one person's act of drawing a boundary binds everyone else who never consented to it — the question the proviso exists to answer — and no equivalent of the proviso appears. A critic would say the theory identifies the *conditions* under which a thing can be owned while leaving the *entitlement* unargued: boundaries make ownership possible without making any particular claimant's ownership just.
 
-The book's reply, so far as it makes one, is structural rather than direct: because justice is the coherent application of concepts, and because a delimited unit already has exactly one originary authority by definition, a competing claim would require the same sphere to have two originary authorities at once. Whether that is an argument or a redescription is the natural place to press the theory.
+The book does not answer this. Its one structural argument of the right shape — that aggression is incoherent because a juridical sphere cannot have two originary authorities at once — is made about *self-ownership*, whose exclusivity follows from the individuation of the subject himself. Nothing extends it to a newly delimited external resource, where the question is precisely which of two claimants the boundary belongs to. The gap between the two cases is where the theory most needs work.
 
 ## See Also
 
@@ -8536,7 +8536,7 @@ The book states it flatly:
 
 The theory developed in this work does not recognise punishment as an *autonomous* legal category — the qualifier is the authors' own, and it matters. The claim is not that no consequence may ever be called punishment; it is that punishment can never be the thing that justifies a consequence. The reasoning is continuous with everything before it. Justice was defined as the restoration of legal relations that aggression disturbed; reparation exists to put the victim where they would have been; and nothing in that chain generates a warrant for an additional consequence whose purpose is the aggressor's suffering. *A justiça não existe para produzir dor* — justice does not exist to produce pain — it exists to make the objective consequences of an aggression fall on the person who chose to commit it.
 
-The book is careful that this is not leniency. It separates reparation from punishment partly to protect victims: a system organised around punishing tends to spend its resources on the offender and leave the victim unrestored. Removing retribution is meant to redirect everything toward the person actually harmed.
+The book is careful that this is not leniency. It separates reparation from punishment partly to protect victims: a system that prioritises punishing may end up directing resources at the offender and leaving the victim without adequate restoration. Removing retribution is meant to redirect everything toward the person actually harmed.
 
 ## Liability survives insolvency
 
@@ -16803,7 +16803,7 @@ Category: reference
 
 ## What the Book Argues
 
-The book opens by refusing four candidate foundations for justice. Legality cannot be the criterion, because slavery, religious persecution and judicial torture were all lawful; social consensus cannot, because a majority may authorise the extermination of a minority; morality cannot, because it varies by culture; and authority cannot, because it merely relocates the question. What remains is reason, and the book commits itself to five methodological principles — identity, delimitation, non-contradiction, logical derivation and objectivity — under which no claim is accepted for its pedigree.
+The book opens by refusing four candidate foundations for justice, which it names as law, morality, tradition and the will of the majority. Law cannot be the criterion, because slavery, religious persecution and judicial torture were all lawful; the will of the majority cannot, because a majority may authorise the extermination of a minority; morality cannot, because it varies by culture; and tradition cannot, because practices a society long accepted are among the ones now recognised as unjust. What remains is reason, and the book commits itself to five methodological principles — identity, delimitation, non-contradiction, logical derivation and objectivity — under which no claim is accepted for its pedigree.
 
 The derivation then runs in a single chain. Consciousness makes experience possible; consciousness of consciousness makes reflection possible; reflection yields a continuous identity to which acts can be attributed, and therefore responsibility. Abstraction yields general concepts, reason relates them, and identification and delimitation carve the world into individuated units. Applied to the self, this produces self-ownership — the first property relation, and the one from which the rest follow. Applied to external scarce resources it produces property; applied to the meeting of two wills it produces contract; and its violation produces aggression, defence, liability and reparation in turn.
 
@@ -16825,13 +16825,13 @@ A fifth contribution is methodological rather than doctrinal: the book replaces 
 
 ## Aggression as Incoherence
 
-Underneath the specific doctrines is an unusual account of *why* aggression is unjust. The book defines self-ownership as an originary and exclusive relation between an individual and his own juridical sphere. An aggressor asserts originary authority over a sphere whose authority still belongs to someone else, without any legitimating fact — consent, guardianship or liability — having occurred. So the wrong is not primarily that harm results; it is that the aggressor's claim requires the concept of self-ownership to be exclusive and not exclusive at the same time. Injustice is treated as a species of contradiction, and justice as the coherent application of legal concepts among rational agents.
+Underneath the specific doctrines is an unusual account of *why* aggression is unjust. The book defines self-ownership as an originary and exclusive relation between an individual and his own juridical sphere. An aggressor asserts originary authority over a sphere whose authority still belongs to someone else, without any legitimating fact — consent, guardianship, or another previously recognised ground — having occurred. So the wrong is not primarily that harm results; it is that the aggressor's claim requires the concept of self-ownership to be exclusive and not exclusive at the same time. Injustice is treated as a species of contradiction, and justice as the coherent application of legal concepts among rational agents.
 
 This is close in spirit to argumentation ethics without sharing its structure: Hoppe finds the contradiction in the act of arguing, this book finds it in the concepts themselves.
 
 ## The Institutional Argument
 
-Chapters 17 through 19 apply the same criteria to institutions. Chapter 17 argues against a justice monopoly on incentive grounds rather than moral ones — without the possibility of substitution, the error-correcting mechanism disappears, accountability weakens, innovation depends on the monopolist's own decisions, and revenue detached from the satisfaction of those served breaks the link between quality and survival. The authors are careful to say this does not entail that a monopolist will serve badly, only that its structure removes the pressure not to.
+Chapters 17 through 19 apply the same criteria to institutions. Chapter 17 argues against a justice monopoly on incentive grounds rather than moral ones — without the possibility of substitution, the error-correcting mechanism disappears, accountability weakens, innovation depends on the monopolist's own decisions, and revenue detached from the satisfaction of those served makes the relation between quality and institutional survival less direct. The authors are careful to say this does not entail that a monopolist will serve badly, only that its structure reduces the economic incentive to keep improving.
 
 The positive proposal separates functions that are usually imagined as one: investigation agencies producing evidence, arbitration chambers deciding, legal insurers bearing and pricing risk, execution agencies enforcing, registries recording title, and security firms preventing. Each is disciplined by reputation and exit rather than by decree. The result is the familiar architecture of [[market-anarchism-and-private-law|market anarchism]], reached from the book's own premises.
 
@@ -22044,7 +22044,7 @@ New to this hub? Read these five, in order:
 - [[banality-of-evil|Banality of Evil]] - Arendt's ordinary-participant diagnosis
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social-preconditions article for Arendt's totalitarianism thesis
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
-- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 Brazilian treatise deriving the same institutional order deductively, and breaking with Rothbard on property and punishment
+- [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 Portuguese-language treatise deriving the same institutional order deductively, and breaking with Rothbard on property and punishment
 - [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
 - [[crypto-anarchy|Crypto Anarchy]] - cypherpunk strategy for moving voluntary exchange beyond ordinary state surveillance and control
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - Konkin's strategy-by-exit: grow the counter-economy until it displaces the state
@@ -22229,7 +22229,7 @@ Natural law is what makes the wiki's natural-rights branch a *moral* argument ra
 
 ## The Deductive Reconstruction
 
-The tradition's characteristic method — deriving justice from what reason can establish rather than from what a legislature enacts — is still being worked. [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]], a 2026 Brazilian treatise, rebuilds the whole chain from reflexive consciousness to a polycentric legal order, and is most useful here for the four places its derivation lands somewhere other than Rothbard's: property from [[delimitation-and-the-origin-of-property|objective delimitation]] rather than labour or first use; consent governed by [[cognitive-adequacy-and-tutela|cognitive adequacy]] rather than by status; self-defence measured by a [[factual-potential-of-harm|factual potential of harm]] instead of by proportionality; and [[restitution-without-punishment|restitution without punishment]] as the whole of what may fall on an aggressor. Where it contradicts the better-established texts above, this wiki records the disagreement rather than resolving it.
+The tradition's characteristic method — deriving justice from what reason can establish rather than from what a legislature enacts — is still being worked. [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]], a 2026 Portuguese-language treatise, rebuilds the whole chain from reflexive consciousness to a polycentric legal order, and is most useful here for the four places its derivation lands somewhere other than Rothbard's: property from [[delimitation-and-the-origin-of-property|objective delimitation]] rather than labour or first use; consent governed by [[cognitive-adequacy-and-tutela|cognitive adequacy]] rather than by status; self-defence measured by a [[factual-potential-of-harm|factual potential of harm]] instead of by proportionality; and [[restitution-without-punishment|restitution without punishment]] as the whole of what may fall on an aggressor. Where it contradicts the better-established texts above, this wiki records the disagreement rather than resolving it.
 
 ## The Salamanca Bridge
 

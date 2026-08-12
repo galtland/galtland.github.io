@@ -4,11 +4,11 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-12
 verified: 2026-08-11
 tags: [restitution, punishment, criminal-justice, liability, insolvency, prisons, legal-theory, retribution]
 aliases: [Centros de Restituição, Restitution Centres, restitution centers, punishment as a legal category]
-confidence: medium
+confidence: low
 short: "The position that punishment has no standing of its own: every consequence imposed on an aggressor must be traceable to restoring what was violated, including confinement, which becomes execution against future earnings."
 summary: "Liberatus and Távora's sharpest divergence from Rothbard: punishment is denied the status of an autonomous legal category, so no consequence can be justified by desert alone. Liability survives insolvency by reaching the aggressor's future productive capacity, and the Restitution Centre replaces the prison as an instrument of execution rather than penalty. Sets out the argument, the treatment of grave crimes, and the objections it invites — including the book's own unresolved tension over whether preventing new aggressions counts as a ground."
 ---
@@ -27,7 +27,7 @@ The book states it flatly:
 
 The theory developed in this work does not recognise punishment as an *autonomous* legal category — the qualifier is the authors' own, and it matters. The claim is not that no consequence may ever be called punishment; it is that punishment can never be the thing that justifies a consequence. The reasoning is continuous with everything before it. Justice was defined as the restoration of legal relations that aggression disturbed; reparation exists to put the victim where they would have been; and nothing in that chain generates a warrant for an additional consequence whose purpose is the aggressor's suffering. *A justiça não existe para produzir dor* — justice does not exist to produce pain — it exists to make the objective consequences of an aggression fall on the person who chose to commit it.
 
-The book is careful that this is not leniency. It separates reparation from punishment partly to protect victims: a system organised around punishing tends to spend its resources on the offender and leave the victim unrestored. Removing retribution is meant to redirect everything toward the person actually harmed.
+The book is careful that this is not leniency. It separates reparation from punishment partly to protect victims: a system that prioritises punishing may end up directing resources at the offender and leaving the victim without adequate restoration. Removing retribution is meant to redirect everything toward the person actually harmed.
 
 ## Liability survives insolvency
 

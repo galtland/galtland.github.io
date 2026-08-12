@@ -293,7 +293,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Oppenheimer On Conquest](/concepts/oppenheimer-on-conquest)** — Oppenheimer's thesis: the state originates in conquest, not contract — a permanent institution of the political means (appropriating others' labor), not the economic means of production.
 - **[Organized Crime and State Capacity](/concepts/organized-crime-and-state-capacity)** — Suppressing organized crime turns on a state's capacity and willingness to override rights, not country size: total-coercion states crush crime and dissent alike; rights-constrained ones tolerate it.
 - **[The Origins of Totalitarianism](/references/the-origins-of-totalitarianism)** — Arendt's 1951 study tracing antisemitism and imperialism into totalitarianism as a wholly new form of rule built on terror and ideology.
-- **[Os Fundamentos Objetivos da Justiça](/references/os-fundamentos-objetivos-da-justica)** — A 2026 Brazilian deductive treatise on justice: property from objective delimitation, consent by cognitive adequacy, defence by factual potential of harm, and restitution without punishment.
+- **[Os Fundamentos Objetivos da Justiça](/references/os-fundamentos-objetivos-da-justica)** — A 2026 Portuguese-language deductive treatise on justice: property from objective delimitation, consent by cognitive adequacy, defence by factual potential of harm, and restitution without punishment.
 - **[Our Enemy, the State](/references/our-enemy-the-state)** — Nock's 1935 anti-state book applying Oppenheimer's political-means/economic-means distinction to American history and the New Deal.
 
 ## P

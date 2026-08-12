@@ -8,7 +8,7 @@ updated: 2026-08-11
 verified: 2026-08-11
 tags: [self-defense, proportionality, aggression, externalities, nuisance, legal-theory, nonaggression, burden-of-proof]
 aliases: [Potencial Factual de Dano, factual potential of harm, Impacto Factual da Externalidade, factual impact of externality]
-confidence: medium
+confidence: low
 short: "Replaces 'proportionality' in self-defence with a measurable quantity — the maximum harm a course of conduct is objectively capable of producing — and applies a twin test to pollution and nuisance."
 summary: "Liberatus and Távora's objective standard for how much force a defender may use: not proportionality, which they treat as a conclusion rather than a criterion, but the highest level of injury the aggression is objectively capable of inflicting given the circumstances. Includes the four-level scale, the rule that whoever creates uncertainty about the danger bears its legal consequences, the defensive presumption in the burden of proof, and the parallel Factual Impact test that decides when an externality becomes an aggression."
 ---

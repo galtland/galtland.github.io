@@ -4,11 +4,11 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-12
 verified: 2026-08-11
 tags: [consent, contract, legal-capacity, guardianship, children, self-ownership, autonomy, legal-theory]
 aliases: [Principle of Cognitive Adequacy, cognitive adequacy, tutela, adequação cognitiva, guardianship]
-confidence: medium
+confidence: low
 short: "Consent binds only when the person's understanding matches the complexity of the act; where it doesn't, rights stay with their holder and only their exercise passes to a guardian."
 summary: "Liberatus and Távora's answer to when consent is legally valid: capacity is neither absolute nor binary but relative to the specific act, measured by a seven-element test, with age as evidence rather than ground. Holding a right is separated from exercising it, and tutela — guardianship over the exercise, never over the person — covers the gap. A libertarian treatment of children, incapacity and old age that avoids both fixed status thresholds and ownership of persons."
 ---
@@ -23,7 +23,7 @@ The pivot is a distinction the book draws before anything else: being the holder
 
 Holding follows from being a subject of rights at all. Exercise requires the rational capacity to understand the act being performed. So a person may retain their rights in full while lacking the capacity to perform some particular legal act — and, symmetrically, someone perfectly competent to buy a sandwich may be incompetent to grant a security interest. The book's point is that these never collapse into one another: incapacity restricts what may be done, and never touches what is owned.
 
-That framing already rules out the two moves most legal systems make. Presuming full capacity for every decision ignores the second half; making capacity depend on a fixed threshold like chronological age ignores the first.
+That framing already rules out one move and narrows another. Presuming full capacity for every decision ignores the second half outright. A fixed threshold like chronological age is a subtler target: such rules do restrict exercise while leaving titularity intact, which is the distinction the book wants — its objection is that age is used as an exclusive *proxy for understanding*, which is the thing that actually does the work.
 
 ## The Principle of Cognitive Adequacy
 
@@ -41,15 +41,15 @@ Age survives only as evidence. There is a statistical relation between age and c
 
 The book proposes a **Test of Cognitive Adequacy** to make this checkable without requiring expert assessment. It measures neither intelligence nor schooling, only whether the understanding was commensurate with the act. Seven elements must be understood:
 
-1. **Nature of the act** — which act this is: buying, selling, leasing, lending, associating, undertaking an obligation. Someone who believes they are signing a lease while executing a sale has not consented.
+1. **Nature of the act** — which act this is: buying, selling, leasing, donating, lending, associating, undertaking an obligation. Someone who believes they are signing a lease while executing a sale has not consented.
 2. **Object of the act** — which specific good, right or obligation the decision falls on. Understanding that one is contracting is not enough.
 3. **Immediate consequences** — that the seller ceases to be owner; that the obligor becomes answerable for performance.
-4. **Future consequences** — effects that run on in time, and the rule that the further they run, the greater the capacity required.
+4. **Future consequences** — effects that continue after the act, with the rule keyed to how *significant* those effects are rather than to how long they last.
 5. **Risks assumed** — what may be lost if expectations fail; the larger the exposure, the more understanding is demanded.
 6. **Alternatives available** — that the decision was not inevitable. The alternatives need not be equally attractive; the person must simply grasp that a choice existed.
 7. **Irreversibility** — whether the act can be undone, with irreversible acts requiring the most capacity of all.
 
-The requirement scales rather than switching: risk, value at stake, duration of effects, irreversibility and legal complexity each raise the bar. That proportionality is meant to block both failure modes at once — voiding simple acts on paternalist grounds, and validating ruinous ones because a formality was observed.
+The requirement scales rather than switching: risk, value at stake, the significance of the future effects, irreversibility and legal complexity each raise the bar. That proportionality is meant to block both failure modes at once — voiding simple acts on paternalist grounds, and validating ruinous ones because a formality was observed.
 
 ## Tutela
 

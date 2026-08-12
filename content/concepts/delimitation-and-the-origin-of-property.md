@@ -4,11 +4,11 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-12
 verified: 2026-08-11
 tags: [property-rights, original-appropriation, homesteading, delimitation, individualization, legal-theory, self-ownership, boundaries]
 aliases: [delimitation, objective delimitation, delimitação, individualization]
-confidence: medium
+confidence: low
 short: "A rival theory of original appropriation: a thing becomes ownable when its boundary is objectively defined, not when it is used, worked, or occupied."
 summary: "Liberatus and Távora's claim that property originates in delimitation — the objective definition of a unit's limits — rather than in labour, use, or occupation. A resource must be individuated before any legal relation can attach to it, so the boundary does the work the labour-mixing tradition assigns to work. Sets out the argument, its consequences for idle and unused land, and where it collides with Locke's and Rothbard's first-use rule."
 ---
@@ -23,7 +23,7 @@ The book's starting move is to separate three things that the labour-mixing trad
 
 That ordering is what generates the argument against use. A person can use a rented car, work with a borrowed tool, or live in a lent house, and in none of those cases does the using alter who owns the thing. So use cannot be what creates title; at most it demonstrates possession — that someone is *with* the thing, not that it is theirs. *O uso pode demonstrar posse* — use can demonstrate possession — but not ownership.
 
-Labour fares no better, and for a subtler reason. Transforming a resource changes its *content*; it does not explain why the resource constitutes a juridically distinct unit in the first place. The book's claim is that labour presupposes the individuation it is supposed to create: to work on *this* field rather than the surrounding world is already to have marked out which field it is.
+Labour fares no better, and the book's objection to it is narrow: transforming a resource changes its *content*, and that does not explain why the resource constitutes a juridically distinct unit in the first place. Work alters what a thing is like; it does not account for where the thing begins and ends.
 
 What remains is the boundary:
 
@@ -49,7 +49,7 @@ Rothbard's negative corollary is that ownership requires use, so a claim to land
 
 The gap also runs the other way. The labour-mixing tradition has an answer, however contested, to *why* appropriation wrongs nobody: the appropriator adds something of his own, and the Lockean proviso limits the taking. Delimitation as stated in this book supplies no comparable constraint. Nothing in the account explains why one person's act of drawing a boundary binds everyone else who never consented to it — the question the proviso exists to answer — and no equivalent of the proviso appears. A critic would say the theory identifies the *conditions* under which a thing can be owned while leaving the *entitlement* unargued: boundaries make ownership possible without making any particular claimant's ownership just.
 
-The book's reply, so far as it makes one, is structural rather than direct: because justice is the coherent application of concepts, and because a delimited unit already has exactly one originary authority by definition, a competing claim would require the same sphere to have two originary authorities at once. Whether that is an argument or a redescription is the natural place to press the theory.
+The book does not answer this. Its one structural argument of the right shape — that aggression is incoherent because a juridical sphere cannot have two originary authorities at once — is made about *self-ownership*, whose exclusivity follows from the individuation of the subject himself. Nothing extends it to a newly delimited external resource, where the question is precisely which of two claimants the boundary belongs to. The gap between the two cases is where the theory most needs work.
 
 ## See Also
 

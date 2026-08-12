@@ -3,7 +3,7 @@ title: "Natural Law"
 volatility: cold
 category: topic
 created: 2026-07-15
-updated: 2026-08-11
+updated: 2026-08-12
 verified: 2026-07-15
 tags: [natural-law, natural-rights, natural-order, classical-canon, self-ownership, aristotle, cicero, aquinas, grotius, locke, spooner, rothbard]
 aliases: [natural law, natural rights, natural law tradition, natural law canon]
@@ -34,7 +34,7 @@ Natural law is what makes the wiki's natural-rights branch a *moral* argument ra
 
 ## The Deductive Reconstruction
 
-The tradition's characteristic method — deriving justice from what reason can establish rather than from what a legislature enacts — is still being worked. [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]], a 2026 Brazilian treatise, rebuilds the whole chain from reflexive consciousness to a polycentric legal order, and is most useful here for the four places its derivation lands somewhere other than Rothbard's: property from [[delimitation-and-the-origin-of-property|objective delimitation]] rather than labour or first use; consent governed by [[cognitive-adequacy-and-tutela|cognitive adequacy]] rather than by status; self-defence measured by a [[factual-potential-of-harm|factual potential of harm]] instead of by proportionality; and [[restitution-without-punishment|restitution without punishment]] as the whole of what may fall on an aggressor. Where it contradicts the better-established texts above, this wiki records the disagreement rather than resolving it.
+The tradition's characteristic method — deriving justice from what reason can establish rather than from what a legislature enacts — is still being worked. [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]], a 2026 Portuguese-language treatise, rebuilds the whole chain from reflexive consciousness to a polycentric legal order, and is most useful here for the four places its derivation lands somewhere other than Rothbard's: property from [[delimitation-and-the-origin-of-property|objective delimitation]] rather than labour or first use; consent governed by [[cognitive-adequacy-and-tutela|cognitive adequacy]] rather than by status; self-defence measured by a [[factual-potential-of-harm|factual potential of harm]] instead of by proportionality; and [[restitution-without-punishment|restitution without punishment]] as the whole of what may fall on an aggressor. Where it contradicts the better-established texts above, this wiki records the disagreement rather than resolving it.
 
 ## The Salamanca Bridge
 

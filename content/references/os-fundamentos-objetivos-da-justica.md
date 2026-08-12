@@ -3,13 +3,13 @@ title: "Os Fundamentos Objetivos da Justiça"
 volatility: warm
 category: reference
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-12
 verified: 2026-08-11
 tags: [legal-theory, natural-law, self-ownership, property-rights, contract, restitution, private-law, arbitration, anarcho-capitalism, portuguese]
 aliases: [The Objective Foundations of Justice, Fundamentos Objetivos da Justiça]
-confidence: medium
+confidence: low
 summary: "Reference guide to a 2026 Portuguese-language treatise by Luiz Liberatus and Pedro Távora that derives a theory of justice deductively — from consciousness and self-ownership through property, contract, aggression, defence and liability to a polycentric order of private arbitration. Covers its argument, the four points where it breaks with Locke, Rothbard and Hoppe, and the standing of a self-published text in this corpus."
-short: "A 2026 Brazilian deductive treatise on justice: property from objective delimitation, consent by cognitive adequacy, defence by factual potential of harm, and restitution without punishment."
+short: "A 2026 Portuguese-language deductive treatise on justice: property from objective delimitation, consent by cognitive adequacy, defence by factual potential of harm, and restitution without punishment."
 ---
 
 # Os Fundamentos Objetivos da Justiça
@@ -18,7 +18,7 @@ short: "A 2026 Brazilian deductive treatise on justice: property from objective 
 
 ## What the Book Argues
 
-The book opens by refusing four candidate foundations for justice. Legality cannot be the criterion, because slavery, religious persecution and judicial torture were all lawful; social consensus cannot, because a majority may authorise the extermination of a minority; morality cannot, because it varies by culture; and authority cannot, because it merely relocates the question. What remains is reason, and the book commits itself to five methodological principles — identity, delimitation, non-contradiction, logical derivation and objectivity — under which no claim is accepted for its pedigree.
+The book opens by refusing four candidate foundations for justice, which it names as law, morality, tradition and the will of the majority. Law cannot be the criterion, because slavery, religious persecution and judicial torture were all lawful; the will of the majority cannot, because a majority may authorise the extermination of a minority; morality cannot, because it varies by culture; and tradition cannot, because practices a society long accepted are among the ones now recognised as unjust. What remains is reason, and the book commits itself to five methodological principles — identity, delimitation, non-contradiction, logical derivation and objectivity — under which no claim is accepted for its pedigree.
 
 The derivation then runs in a single chain. Consciousness makes experience possible; consciousness of consciousness makes reflection possible; reflection yields a continuous identity to which acts can be attributed, and therefore responsibility. Abstraction yields general concepts, reason relates them, and identification and delimitation carve the world into individuated units. Applied to the self, this produces self-ownership — the first property relation, and the one from which the rest follow. Applied to external scarce resources it produces property; applied to the meeting of two wills it produces contract; and its violation produces aggression, defence, liability and reparation in turn.
 
@@ -40,13 +40,13 @@ A fifth contribution is methodological rather than doctrinal: the book replaces 
 
 ## Aggression as Incoherence
 
-Underneath the specific doctrines is an unusual account of *why* aggression is unjust. The book defines self-ownership as an originary and exclusive relation between an individual and his own juridical sphere. An aggressor asserts originary authority over a sphere whose authority still belongs to someone else, without any legitimating fact — consent, guardianship or liability — having occurred. So the wrong is not primarily that harm results; it is that the aggressor's claim requires the concept of self-ownership to be exclusive and not exclusive at the same time. Injustice is treated as a species of contradiction, and justice as the coherent application of legal concepts among rational agents.
+Underneath the specific doctrines is an unusual account of *why* aggression is unjust. The book defines self-ownership as an originary and exclusive relation between an individual and his own juridical sphere. An aggressor asserts originary authority over a sphere whose authority still belongs to someone else, without any legitimating fact — consent, guardianship, or another previously recognised ground — having occurred. So the wrong is not primarily that harm results; it is that the aggressor's claim requires the concept of self-ownership to be exclusive and not exclusive at the same time. Injustice is treated as a species of contradiction, and justice as the coherent application of legal concepts among rational agents.
 
 This is close in spirit to argumentation ethics without sharing its structure: Hoppe finds the contradiction in the act of arguing, this book finds it in the concepts themselves.
 
 ## The Institutional Argument
 
-Chapters 17 through 19 apply the same criteria to institutions. Chapter 17 argues against a justice monopoly on incentive grounds rather than moral ones — without the possibility of substitution, the error-correcting mechanism disappears, accountability weakens, innovation depends on the monopolist's own decisions, and revenue detached from the satisfaction of those served breaks the link between quality and survival. The authors are careful to say this does not entail that a monopolist will serve badly, only that its structure removes the pressure not to.
+Chapters 17 through 19 apply the same criteria to institutions. Chapter 17 argues against a justice monopoly on incentive grounds rather than moral ones — without the possibility of substitution, the error-correcting mechanism disappears, accountability weakens, innovation depends on the monopolist's own decisions, and revenue detached from the satisfaction of those served makes the relation between quality and institutional survival less direct. The authors are careful to say this does not entail that a monopolist will serve badly, only that its structure reduces the economic incentive to keep improving.
 
 The positive proposal separates functions that are usually imagined as one: investigation agencies producing evidence, arbitration chambers deciding, legal insurers bearing and pricing risk, execution agencies enforcing, registries recording title, and security firms preventing. Each is disciplined by reputation and exit rather than by decree. The result is the familiar architecture of [[market-anarchism-and-private-law|market anarchism]], reached from the book's own premises.
 
