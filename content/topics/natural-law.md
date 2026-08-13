@@ -3,7 +3,7 @@ title: "Natural Law"
 volatility: cold
 category: topic
 created: 2026-07-15
-updated: 2026-08-12
+updated: 2026-08-13
 verified: 2026-07-15
 tags: [natural-law, natural-rights, natural-order, classical-canon, self-ownership, aristotle, cicero, aquinas, grotius, locke, spooner, rothbard]
 aliases: [natural law, natural rights, natural law tradition, natural law canon]
@@ -24,7 +24,7 @@ The synthesis lives in [[natural-law-and-natural-order|Natural Law and Natural O
 
 **Aristotle** ([[aristotle|Aristotle]]) opens the canon by distinguishing natural from merely legal justice in the [[nicomachean-ethics|Nicomachean Ethics]] and rooting the good life in human nature and the *polis* in the *Politics* — though the wiki rejects his defense of natural slavery. **Cicero** ([[cicero|Cicero]]) gives the tradition its most quoted formula, carrying Stoic natural law — true law as right reason in agreement with nature — into the Western legal inheritance through [[cicero-de-legibus|De Legibus]] and [[cicero-de-re-publica|De Re Publica]]. **Aquinas** ([[thomas-aquinas|Thomas Aquinas]]) systematizes it in the [[aquinas-treatise-on-law|Treatise on Law]], ordering eternal, natural, human, and divine law and defining natural law as reason's participation in a rational order aimed at the common good.
 
-The early-modern turn secularizes the foundation. **Grotius** ([[hugo-grotius|Hugo Grotius]]) grounds natural law in human nature and sociability such that it would hold *etiamsi daremus* — even if we granted there were no God — and founds international law on it. **Pufendorf** ([[samuel-pufendorf|Samuel Pufendorf]]) systematizes the discipline between Grotius and Locke, deriving the duties of non-injury and contract from human [[sociality|sociality]]. **Locke** ([[john-locke|John Locke]]) then delivers the politically decisive version in the [[the-second-treatise-of-government|Second Treatise]]: pre-political rights to life, liberty, and property, government by consent, and a right of revolution when it breaks the trust — the lineage's bridge from moral philosophy to a theory of legitimate authority. **Thomas Paine** ([[thomas-paine|Thomas Paine]]) popularizes the rights tradition for a revolutionary public.
+The early-modern turn secularizes how natural law is *known*, more than what obliges us to obey it. **Grotius** ([[hugo-grotius|Hugo Grotius]]) grounds natural law in human nature and sociability such that it would hold *etiamsi daremus* — even if we granted, in a concession he calls a wickedness to make, that there were no God — and is conventionally credited with founding international law on it. **Pufendorf** ([[samuel-pufendorf|Samuel Pufendorf]]) systematizes the discipline between Grotius and Locke, deriving the duties of non-injury and contract from human [[sociality|sociality]]. **Locke** ([[john-locke|John Locke]]) then delivers the politically decisive version in the [[the-second-treatise-of-government|Second Treatise]]: pre-political rights to life, liberty, and property, government by consent, and a right of revolution when it breaks the trust — the lineage's bridge from moral philosophy to a theory of legitimate authority. **Thomas Paine** ([[thomas-paine|Thomas Paine]]) popularizes the rights tradition for a revolutionary public.
 
 The tradition sharpens into anti-statism with **Spooner** ([[lysander-spooner|Lysander Spooner]]), whose *Natural Law; or the Science of Justice* turns the doctrine against legislation itself: if justice is a natural science, man-made law adds nothing to it and derives no authority from it. **Rothbard** completes the arc, reconstructing a full libertarian ethics on this foundation in [[the-ethics-of-liberty|The Ethics of Liberty]].
 
@@ -77,7 +77,8 @@ New to this hub? Read these five, in order:
 - [Aristotle, Nicomachean Ethics (Full Text)](https://www.gutenberg.org/ebooks/8438) - natural vs legal justice in Book V
 - [Cicero, De Legibus (Full Text)](https://topostext.org/work/752) - the Stoic natural-law formula carried into Roman law
 - [Aquinas, Summa Theologica — Treatise on Law (Full Text)](https://www.newadvent.org/summa/2090.htm) - the systematic ordering of law and natural law
-- [Grotius, The Rights of War and Peace (Full Text)](https://www.gutenberg.org/ebooks/46564) - natural law grounded in human nature and sociability
+- [Grotius, The Rights of War and Peace (1738 Morrice/Barbeyrac Translation, Full Text)](https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-2005-ed-3-vols) - the Preliminary Discourse, where the *etiamsi daremus* formula appears at §XI
+- [Grotius, The Rights of War and Peace (Full Text)](https://www.gutenberg.org/ebooks/46564) - natural law grounded in human nature and sociability; Campbell translation, abridged
 - [Locke, Second Treatise of Government (Full Text)](https://www.gutenberg.org/ebooks/7370) - pre-political rights, consent, and the right of revolution
 - [Spooner, Natural Law; or the Science of Justice (Full Text)](https://en.wikisource.org/wiki/Natural_Law;_or_The_Science_of_Justice) - natural law as a science, turned against legislation
 - [Pufendorf, The Whole Duty of Man According to the Law of Nature (Full Text)](https://oll.libertyfund.org/titles/tooke-the-whole-duty-of-man-according-to-the-law-of-nature-1673-2003) - duties derived from human sociality

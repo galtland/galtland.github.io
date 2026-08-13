@@ -176,7 +176,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Homesteading](/concepts/homesteading)** — The libertarian theory of how unowned things first become property: by being put to use — Locke's labor-mixing, Rothbard's first-use-first-own.
 - **[Hoppe on Caretaker Capital Consumption](/concepts/hoppe-on-caretaker-capital-consumption)** — Hoppe's claim: a democratic caretaker owns only current use of state resources, not capital value, predicting continual capital consumption — unlike a king who can sell the estate outright.
 - **[Hoppe on Special Drawing Rights](/concepts/hoppe-on-sdrs)** — Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.
-- **[Hugo Grotius](/references/hugo-grotius)** — Dutch jurist whose De Jure Belli ac Pacis secularized natural law and founded international law, grounding rights in human nature alone.
+- **[Hugo Grotius](/references/hugo-grotius)** — Dutch jurist whose De Jure Belli ac Pacis made natural law's content discoverable by reason from human nature, and conventionally credited with founding modern international law on it.
 - **[Human Action](/references/human-action)** — Mises's 1949 praxeological treatise, the foundational text of modern Austrian economics and direct ancestor of Rothbard's Man, Economy, and State.
 - **[The Human Condition](/references/the-human-condition)** — Arendt's 1958 study of labor, work, and action, tracing how the rise of 'the social' eclipsed genuine public political life.
 
@@ -337,7 +337,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Restitution Without Punishment](/concepts/restitution-without-punishment)** — The position that punishment has no standing of its own: every consequence imposed on an aggressor must be traceable to restoring what was violated, including confinement, which becomes execution against future earnings.
 - **[Richard Cantillon](/references/richard-cantillon)** — Irish-French banker and economist (c. 1680s–1734) whose Essai first analyzed the non-neutral, step-by-step injection of money — the Cantillon effect.
 - **[Rights of Man](/references/rights-of-man)** — Paine's 1791–92 reply to Burke: natural rights for the democratic age — no generation binds the next, and government is a delegated trust.
-- **[The Rights of War and Peace (De Jure Belli ac Pacis)](/references/the-rights-of-war-and-peace)** — Grotius's 1625 founding text of international law: natural law grounded in human nature, binding 'even if there were no God.
+- **[The Rights of War and Peace (De Jure Belli ac Pacis)](/references/the-rights-of-war-and-peace)** — Grotius's 1625 founding text of international law: natural law's content grounded in human nature, holding even on a supposition Grotius calls a wickedness to make — that there is no God.
 - **[Ring Signatures](/concepts/ring-signatures)** — A privacy signature primitive: prove one key in a set signed, without revealing which key; CryptoNote uses it to hide senders.
 - **[The Rise of the Social](/concepts/the-rise-of-the-social)** — Arendt's diagnosis that the modern 'social' realm blurs public and private into collective household administration, crowding out genuine public action.
 - **[The Road to Serfdom](/references/road-to-serfdom)** — Hayek's 1944 warning that central economic planning destroys the rule of law and leads to authoritarian rule.
