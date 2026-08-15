@@ -3,7 +3,7 @@ title: "Capitalism: The Unknown Ideal"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-08-07
+updated: 2026-08-15
 verified: 2026-06-26
 tags: [ayn-rand, capitalism-the-unknown-ideal, objectivism, capitalism, laissez-faire, political-economy, alan-greenspan, nathaniel-branden]
 aliases: [Capitalism The Unknown Ideal, What Is Capitalism]
@@ -18,7 +18,7 @@ short: "Rand's 1966 collection defending laissez-faire capitalism as the only mo
 
 ## The central thesis: capitalism as the unknown ideal
 
-Rand's framing argument is that capitalism was defeated intellectually before it was ever properly understood. In her account, political economy "came into prominence in the nineteenth century, in the era of philosophy's post-Kantian disintegration," and "implicitly, uncritically, and by default... accepted as its axioms the fundamental tenets of collectivism" — treating a "community's" or "nation's" resources as the given and man as merely "one of the factors of production". The defenders of capitalism, she contends, made the same error: they "regarded it as compatible with government controls... ignoring the meaning and implications of the concept of laissez-faire," so what actually existed in the nineteenth century "was not pure capitalism, but variously mixed economies." Because "controls necessitate and breed further controls," she argues it was "the statist element of the mixtures that wrecked them" while "the free, capitalist element... took the blame." The title's "unknown" points at this: capitalism has never been given a moral defense, only a practical one, and so was "damned from the start" under the prevailing morality of altruism.
+Rand's framing argument is that capitalism was defeated intellectually before it was ever properly understood. In her account, political economy "came into prominence in the nineteenth century, in the era of philosophy's post-Kantian disintegration," and "implicitly, uncritically, and by default... accepted as its axioms the fundamental tenets of collectivism" — treating a "community's" or "nation's" resources as the given and man as merely "one of the factors of production". The defenders of capitalism, she contends, made the same error: they "regarded it as compatible with government controls... ignoring the meaning and implications of the concept of laissez-faire", so what actually existed in the nineteenth century "was not pure capitalism, but variously mixed economies." Because "controls necessitate and breed further controls," she argues it was "the statist element of the mixtures that wrecked them" while "the free, capitalist element... took the blame." The title's "unknown" points at this: capitalism has never been given a moral defense, only a practical one, and so was "damned from the start" under the prevailing morality of altruism.
 
 ## "What Is Capitalism?" and the moral case from rights
 
@@ -26,7 +26,7 @@ The opening essay (originally published in *The Objectivist Newsletter*, Novembe
 
 ## A multi-author collection
 
-The title page names Rand as author "with additional articles by Nathaniel Branden, Alan Greenspan, and Robert Hessen," published as "A Signet Book." The volume is organized as a collection of essays (the opening one sits under a "Theory and History" heading in the scan). Beyond the material present in the raw source, the book is generally cataloged as gathering pieces such as Rand's "What Is Capitalism?", *The Roots of War*, *America's Persecuted Minority: Big Business*, and *Notes on the History of American Free Enterprise*; Branden's psychological and economic essays; Robert Hessen's historical treatment of subjects like child labor and the "robber baron" charge; and Alan Greenspan's contributions, most notably *Gold and Economic Freedom* (a defense of the gold standard, written years before Greenspan chaired the U.S. [[federal-reserve|Federal Reserve]]) and an essay attacking "Antitrust." The multi-author format lets the book pair Rand's philosophical case with applied arguments about specific institutions and historical episodes.
+The title page names Rand as author "with additional articles by Nathaniel Branden, Alan Greenspan, and Robert Hessen", published as "A Signet Book". The volume is organized as a collection of essays (the opening one sits under a "Theory and History" heading in the scan). Beyond the material present in the raw source, the book is generally cataloged as gathering pieces such as Rand's "What Is Capitalism?", *The Roots of War*, *America's Persecuted Minority: Big Business*, and *Notes on the History of American Free Enterprise*; Branden's psychological and economic essays; Robert Hessen's historical treatment of subjects like child labor and the "robber baron" charge; and Alan Greenspan's contributions, most notably *Gold and Economic Freedom* (a defense of the gold standard, written years before Greenspan chaired the U.S. [[federal-reserve|Federal Reserve]]) and an essay attacking *Antitrust*. The multi-author format lets the book pair Rand's philosophical case with applied arguments about specific institutions and historical episodes.
 
 ## Relation to Objectivist ethics and the Austrian tradition
 
@@ -34,7 +34,7 @@ The book is the political-economic expression of [[objectivism|Objectivism]]: la
 
 ## Source Note
 
-The raw source for this article is a partial, non-official OCR scan (Internet Archive) of roughly 10,000 words. It reliably contains the title page, the contributor list (Nathaniel Branden, Alan Greenspan, Robert Hessen), the "Theory and History" section heading, and the complete opening essay "What Is Capitalism?" — direct quotations above are drawn from that text. It does NOT contain a full table of contents or the remaining essays, so all detail about the rest of the collection's structure (essay titles, authorship of specific pieces, Greenspan's "Gold and Economic Freedom" and *Antitrust*, Hessen's historical chapters) rests on established bibliography rather than on the scanned text, and confidence is set to medium accordingly. OCR may contain transcription errors; any quotation should be checked against an authorized edition.
+The raw source for this article is a partial, non-official OCR scan (Internet Archive) of roughly 10,000 words. It reliably contains the title page, the contributor list (Nathaniel Branden, Alan Greenspan, Robert Hessen), the "Theory and History" section heading, and the complete opening essay "What Is Capitalism?" — direct quotations above are drawn from that text. It does NOT contain a full table of contents or the remaining essays, so all detail about the rest of the collection's structure (essay titles, authorship of specific pieces, Greenspan's *Gold and Economic Freedom* and *Antitrust*, Hessen's historical chapters) rests on established bibliography rather than on the scanned text, and confidence is set to medium accordingly. OCR may contain transcription errors; any quotation should be checked against an authorized edition.
 
 ## See Also
 - [[ayn-rand|Ayn Rand]] - author reference

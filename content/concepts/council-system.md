@@ -3,7 +3,7 @@ title: "Council System"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-08-06
+updated: 2026-08-15
 verified: 2026-07-16
 tags: [hannah-arendt, council-system, revolution, public-freedom, self-government, republicanism]
 aliases: [council tradition, revolutionary councils, ward system]
@@ -30,7 +30,7 @@ Arendt's cases are concrete and span the modern revolutionary record: the revolu
 
 ## Libertarian Caution
 
-The council system should not be forced into [[market-anarchism-and-private-law|market anarchism]] or private-law theory. It is a republican, participatory idea, and its value to the wiki is precisely that it is *neither* market exchange *nor* state administration: it gives a non-state-centered vocabulary for public action without making the market carry every meaning of freedom. It belongs to the wiki's Arendt cluster in [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] as the *positive* counterpart to her analysis of totalitarian world-destruction — the form of "acting in concert" [[violence-vs-power|power]] that totalitarian rule exists to annihilate. Where the libertarian tradition answers "how should people cooperate without the state?" with contract and exchange, Arendt answers a different question — "where is public freedom actually experienced?" — and the two answers are worth keeping distinct rather than collapsing into one.
+The council system should not be forced into [[market-anarchism-and-private-law|market anarchism]] or private-law theory. It is a republican, participatory idea, and its value to the wiki is precisely that it is *neither* market exchange *nor* state administration: it gives a non-state-centered vocabulary for public action without making the market carry every meaning of freedom. It belongs to the wiki's Arendt cluster in [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] as the *positive* counterpart to her analysis of totalitarian world-destruction — the form of *acting in concert* [[violence-vs-power|power]] that totalitarian rule exists to annihilate. Where the libertarian tradition answers *how should people cooperate without the state?* with contract and exchange, Arendt answers a different question — *where is public freedom actually experienced?* — and the two answers are worth keeping distinct rather than collapsing into one.
 
 ## See Also
 
