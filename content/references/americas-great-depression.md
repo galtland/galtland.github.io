@@ -3,7 +3,7 @@ title: "America's Great Depression"
 volatility: warm
 category: reference
 created: 2026-05-06
-updated: 2026-08-07
+updated: 2026-08-18
 verified: 2026-06-18
 tags: [rothbard, great-depression, austrian-economics, business-cycle, economic-history, hoover, monetary-history]
 aliases: [AGD, America's Great Depression, Rothbard on the Depression]
@@ -60,6 +60,7 @@ The current raw source is the official Mises Institute EPUB, re-extracted 2026-0
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
+- [[bani-and-austrian-economics|BANI and Austrian Economics]] - uses this book's cluster-of-error argument to separate correlated failure from ordinary business error
 
 ## Sources
 

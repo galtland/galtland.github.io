@@ -3,7 +3,7 @@ title: "Human Action"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-08-05
+updated: 2026-08-18
 verified: 2026-06-09
 tags: [mises, austrian-economics, praxeology, economics]
 aliases: [Human Action, Mises's Treatise, Nationalökonomie]
@@ -18,7 +18,7 @@ short: "Mises's 1949 praxeological treatise, the foundational text of modern Aus
 
 ## What the Book Argues
 
-Mises's claim is that economics is a deductive science of human action (praxeology), not an empirical science of observed regularities. Action means purposeful behavior — the use of scarce means to achieve ends ranked by the actor. From this axiom and its corollaries (causality, time, uncertainty, value-scales) Mises derives the laws of marginal utility, the conditions of indirect exchange, the role of money prices in economic calculation, the structure of production and capital, the determination of interest, and the destabilizing effects of credit expansion and government intervention. The book also contains his canonical treatment of the impossibility of economic calculation under socialism — extending the argument first made in 1922.
+Mises's claim is that economics is a deductive science of human action (praxeology), not an empirical science of observed regularities. Action means purposeful behavior — the use of scarce means to achieve ends ranked by the actor. From this axiom and its corollaries (causality, time, uncertainty, value-scales) Mises derives the laws of marginal utility, the conditions of indirect exchange, the role of money prices in economic calculation, the structure of production and capital, the determination of interest, and the destabilizing effects of credit expansion and government intervention. The book also contains his canonical treatment of the impossibility of economic calculation under socialism — extending the argument first made in the 1920 essay "Economic Calculation in the Socialist Commonwealth".
 
 ## Why It Matters in This Wiki
 
@@ -26,7 +26,7 @@ This is the missing foundation that the Rothbardian core of the wiki was built o
 
 ## Scope of the Full-Text Ingest
 
-The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 952 pages, extracted with `pdftotext -layout`. It contains the seven parts of the treatise — Human Action, Action Within the Framework of Society, Economic Calculation, Catallactics or Economics of the Market Society, Social Cooperation Without a Market, the Hampered Market Economy, and the Place of Economics in Society — together with Joseph [[joseph-t-salerno|Salerno]]'s introduction.
+The current raw source was re-extracted on 2026-06-17 from the Mises Institute's official EPUB (clean XHTML), superseding an earlier `pdftotext -layout` run over the 952-page Scholar's Edition (1998) PDF that carried OCR-style artifacts. It contains the seven parts of the treatise — Human Action, Action Within the Framework of Society, Economic Calculation, Catallactics or Economics of the Market Society, Social Cooperation Without a Market, the Hampered Market Economy, and the Place of Economics in Society — together with the Introduction to the Scholar's Edition, co-signed by Jeffrey M. Herbener, [[hans-hermann-hoppe|Hans-Hermann Hoppe]] and Joseph T. [[joseph-t-salerno|Salerno]].
 
 ## Relation to Mises's Other Texts
 
@@ -39,7 +39,7 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[austrian-economics|Austrian Economics]] - topic map this treatise anchors
 - [[praxeology|Praxeology]] - the methodological core of the book
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - draws on Mises's pairing of "credit transactions and deferred payments" (Ch. XX) and the commodity-vs-circulation-credit distinction (Ch. XVII)
-- [[economic-calculation-problem|Economic Calculation Problem]] - argument first made in Socialism, fully integrated here
+- [[economic-calculation-problem|Economic Calculation Problem]] - argument first made in the 1920 essay, expanded in Socialism, fully integrated here
 - [[man-economy-and-state|Man, Economy, and State]] - Rothbard's continuation and elaboration
 - [[murray-n-rothbard|Murray N. Rothbard]] - principal student carrying Mises's system forward
 - [[liberalism|Liberalism]] - related work in this corpus
@@ -48,9 +48,9 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[americas-great-depression|America's Great Depression]] - related work in this corpus
 
 - [[principles-of-economics-ammous|Principles of Economics]] - later Austrian textbook drawing on Misesian action theory
-- [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: the purchasing power of money is determined by
-- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks must drop the loan rate to
-- [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its
+- [[cash-holding-and-the-demand-for-money|Cash Holding and the Demand for Money]] - Austrian-monetary-theory primitive: money's purchasing power is set by supply against the demand to hold it, i.e. by each person's subjective valuation of cash balances
+- [[credit-expansion-dynamics|Credit Expansion Dynamics]] - End-to-end mechanism of Austrian credit expansion: banks drop the loan rate, falsifying calculation and lengthening the structure of production until the boom ends
+- [[mises-on-credit-expansion|Mises on Credit Expansion]] - Mises's claim that credit expansion drops the gross market rate of interest below its time-preference level, making unrealizable projects look profitable
 - [[mises-on-minimum-wage|Mises on Minimum Wage]] - Mises's Human Action claim that wage floors above the unhampered market rate create institutional unemployment rather than generally higher real wages.
 
 
@@ -71,8 +71,9 @@ The current raw source is the Mises Institute's Scholar's Edition (1998) PDF, 95
 - [[henry-hazlitt|Henry Hazlitt]]
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the corollary at issue in the Bitcoin regression-theorem debate
+- [[bani-and-austrian-economics|BANI and Austrian Economics]] - draws on this treatise for the denial of constant relations, uncertainty as constitutive of action, and the boom as malinvestment
 
 ## Sources
 
-- [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - full Scholar's Edition PDF as a wiki-ingestable aggregate
+- [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - full text as a wiki-ingestable aggregate, re-extracted from the official Mises Institute EPUB
 - [Human Action: A Treatise on Economics](https://mises.org/library/book/human-action) - Mises library page metadata and descriptive framing
