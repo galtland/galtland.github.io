@@ -2,7 +2,7 @@
 
 > Curated references articles.
 
-Last updated: 2026-08-16
+Last updated: 2026-08-17
 
 ## Contents
 
