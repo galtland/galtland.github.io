@@ -3,7 +3,7 @@ title: "Austrian Economics"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-08-05
+updated: 2026-08-18
 verified: 2026-06-18
 tags: [austrian-economics, economics, praxeology, intervention, calculation-problem, knowledge-problem, business-cycle]
 aliases: [Austrian School, Austrian School of Economics]
@@ -22,7 +22,7 @@ The school's method is set out by [[ludwig-von-mises|Mises]] in [[human-action|H
 
 ## Calculation, Knowledge, and Central Planning
 
-Two of the school's most distinctive theses concern central planning. [[economic-calculation-problem|The economic-calculation problem]] — originating in Mises's 1920 essay and elaborated in [[socialism|Socialism]] (1922) — argues that planners without market prices for capital goods cannot perform the calculations needed to allocate resources rationally. [[knowledge-problem|Hayek's knowledge problem]] — set out in [[individualism-and-economic-order|Individualism and Economic Order]] — extends the case: even granting formal feasibility, the dispersed knowledge that real prices summarize is not available to planners as a unified body of facts. Together they form the mature Austrian critique of socialism that [[hans-hermann-hoppe|Hoppe]] restates in property-theoretic form in [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]].
+Two of the school's most distinctive theses concern central planning. [[economic-calculation-problem|The economic-calculation problem]] — originating in Mises's 1920 essay and elaborated in [[socialism|Socialism]] (1922) — argues that planners without market prices for capital goods cannot perform the calculations needed to allocate resources rationally. [[knowledge-problem|Hayek's knowledge problem]] — set out in [[individualism-and-economic-order|Individualism and Economic Order]] — extends the case: even granting formal feasibility, the dispersed knowledge that real prices summarize is not available to planners as a unified body of facts. Together they form the mature Austrian critique of socialism that [[hans-hermann-hoppe|Hoppe]] restates in property-theoretic form in [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]]. That knowledge argument keeps being rediscovered from outside the tradition: [[bani-and-austrian-economics|BANI and Austrian Economics]] reads a contemporary management framework whose central term, *incomprehensible*, names the dispersed-knowledge condition without drawing the decentralizing conclusion Hayek drew from it.
 
 ## Capital, Interest, and the Business Cycle
 
@@ -119,6 +119,7 @@ New to this hub? Read these five, in order:
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the intra-Austrian dispute over Bitcoin and the regression theorem
+- [[bani-and-austrian-economics|BANI and Austrian Economics]] - a futures-studies vocabulary that independently names three Austrian claims, and parts company on the prescription
 
 ## Sources
 

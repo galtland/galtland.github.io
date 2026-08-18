@@ -3,7 +3,7 @@ title: "The Pretence of Knowledge"
 volatility: cold
 category: reference
 created: 2026-05-31
-updated: 2026-06-12
+updated: 2026-08-18
 verified: 2026-06-12
 tags: [hayek, pretence-of-knowledge, nobel-lecture, scientism, knowledge-problem, spontaneous-order, complexity, methodology, austrian-economics]
 aliases: [The Pretence of Knowledge, The Pretense of Knowledge, Hayek Nobel lecture, Hayek 1974 Nobel lecture]
@@ -57,6 +57,7 @@ The confidence here is medium: the lecture text and its argument are reproduced 
 - [[denationalisation-of-money|Denationalisation of Money]] - the other major work of Hayek's late period
 - [[austrian-economics|Austrian Economics]] - the spontaneous-order tradition the lecture defends
 - [[rothbard-vs-hayek|Rothbard vs. Hayek: The Two Heirs of Mises]] - The intra-Austrian split: Rothbard as the orthodox Misesian (praxeology, calculation, anarcho-capitalism) vs. Hayek (knowledge, evolution, limited government)
+- [[bani-and-austrian-economics|BANI and Austrian Economics]]
 
 ## Sources
 

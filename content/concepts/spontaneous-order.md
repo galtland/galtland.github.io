@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-06-28
-updated: 2026-08-07
+updated: 2026-08-18
 verified: 2026-06-28
 tags: [friedrich-hayek, spontaneous-order, catallaxy, knowledge-problem, emergence, adam-ferguson, scottish-enlightenment, dispersed-knowledge, price-system]
 aliases: [Spontaneous Order, spontaneous order, catallaxy, grown order, the results of human action but not of human design]
@@ -55,6 +55,8 @@ Spontaneous order is the positive half of the Austrian case for liberty: where t
 - [[minority-rule|The Minority Rule]]
 - [[iron-law-of-oligarchy|The Iron Law of Oligarchy]]
 - [[left-and-right|Left and Right]] - the grown-institutions insight Hayek credits to conservative thinkers
+- [[bani-and-austrian-economics|BANI and Austrian Economics]]
+
 ## Sources
 
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - Hayek's “Individualism: True and False” (the Ferguson phrase and the Scottish-Enlightenment tradition) and “Economics and Knowledge” / “The Use of Knowledge in Society” (dispersed knowledge and the spontaneous interaction of dispersed minds)

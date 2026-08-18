@@ -3,7 +3,7 @@ title: "Austrian Business Cycle Theory"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-08-10
+updated: 2026-08-18
 verified: 2026-07-23
 tags: [business-cycle, austrian-economics, monetary-theory, capital-theory, great-depression]
 aliases: [ABCT, Austrian Theory of the Business Cycle, Hayek-Mises Business Cycle Theory]
@@ -84,6 +84,7 @@ This is the macroeconomic spine that the rest of the wiki's monetary discussion 
 - [[money-and-banking|Money and Banking]] - The wiki's money hub: the Austrian theory of money from Menger and Mises through sound money, banking and the business cycle, the fiat system and CBDCs, to Bitcoin as digital hard money.
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 - [[inflation|Inflation]]
+- [[bani-and-austrian-economics|BANI and Austrian Economics]]
 
 ## Sources
 
