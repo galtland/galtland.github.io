@@ -8,13 +8,13 @@ verified: 2026-06-26
 confidence: high
 tags: [austrian-economics, keynesianism, business-cycle, monetary-theory, credit-expansion, malinvestment, capital-theory, interest-rates, effective-demand, unemployment, wage-rates, full-employment, great-depression, macroeconomics, methodology]
 aliases: [Austrian vs Keynesian, Hayek vs Keynes, Mises vs Keynes, Keynes vs the Austrians, Austrians vs Keynesians, Austrian Critique of Keynesianism]
-summary: "The strong form of the Austrian case against Keynes: the two schools are not rival cures for one disease but opposites, because the credit expansion, suppressed interest rates, and stimulated consumption Keynes prescribed are, for Hayek and Rothbard after Mises, the precise mechanism that manufactures the boom and the depression that follows. The divide is finally methodological — Keynesian aggregates cannot even see the relative-price and capital-structure distortion the Austrians diagnose."
+summary: "The strong form of the Austrian case against Keynes: the two schools are not rival cures for one disease but opposites, because the credit expansion and suppressed interest rates Keynes prescribed are, for Hayek and Rothbard after Mises, the precise mechanism that manufactures the boom and the depression that follows — while the consumption stimulus and socialised investment obstruct the readjustment the bust exists to perform. The divide is finally methodological — Keynesian aggregates cannot even see the relative-price and capital-structure distortion the Austrians diagnose."
 short: "Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it."
 ---
 
 # Austrian Economics vs Keynesianism
 
-> Austrian economics and Keynesianism are usually filed as two toolkits for managing the same machine — one favouring restraint, the other intervention. The strong form of the Austrian argument rejects the framing itself. What Keynesianism prescribes as the cure — interest rates pressed downward (below what Austrians call their natural level), consumption stimulated, investment socialised — is, in the Austrian account, delivered through the very credit expansion that builds the boom and so guarantees the bust. They are not two prescriptions for one illness; one school's remedy is the other's pathogen. And the reason the dispute cannot be split into "more intervention" versus "less" is finally methodological: Keynes reasons in aggregates that cannot even see the distortion the Austrians diagnose.
+> Austrian economics and Keynesianism are usually filed as two toolkits for managing the same machine — one favouring restraint, the other intervention. The strong form of the Austrian argument rejects the framing itself. What Keynesianism prescribes as the cure — interest rates pressed downward, below what Austrians call their natural level — is, in the Austrian account, delivered through the very credit expansion that builds the boom and so guarantees the bust; and the rest of the programme, consumption stimulated and investment socialised, obstructs the readjustment the bust exists to perform. They are not two prescriptions for one illness; one school's remedy is the other's pathogen. And the reason the dispute cannot be split into "more intervention" versus "less" is finally methodological: Keynes reasons in aggregates that cannot even see the distortion the Austrians diagnose.
 
 ## Two diagnoses of the same slump
 
@@ -24,7 +24,7 @@ short: "Why Hayek and Rothbard hold that the Keynesian cure is the Austrian dise
 >
 > — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
-The cause of the shortfall is deficient effective demand. Because of what he called the "fundamental psychological law" that men "increase their consumption as their income increases, but not by as much as the increase in their income", income that is saved drains out of the circular flow unless investment takes it up — and investment, governed by volatile expectations of profit, may not. Output and employment can therefore be chronically demand-constrained, and the State must close the gap.
+The cause of the shortfall is deficient effective demand. Because of what he called the "fundamental psychological law" that men are "disposed, as a rule and on the average, to increase their consumption as their income increases, but not by as much as the increase in their income", income that is saved drains out of the circular flow unless investment takes it up — and investment, governed by volatile expectations of profit, may not. Output and employment can therefore be chronically demand-constrained, and the State must close the gap.
 
 The Austrian school — [[friedrich-a-hayek|Hayek]], extending the "Wicksell-Mises theory" he inherited from [[ludwig-von-mises|Ludwig von Mises]], and [[murray-n-rothbard|Murray Rothbard]] after — reads the same slump in reverse. The depression is not a shortfall of demand to be topped up; it is the liquidation of a boom that should never have happened. The interesting fight is therefore not over how much to intervene. It is over what the bust *is*.
 
@@ -44,7 +44,7 @@ But the remedies went well beyond emergency spending. Keynes wanted the rate of 
 >
 > — [[john-maynard-keynes|John Maynard Keynes]], [[the-general-theory|The General Theory of Employment, Interest and Money]]
 
-Hold that in mind: the cure is more spending, lower interest, and socialised investment. For the Austrians these are not treatments at all — cheap credit and stimulated consumption are the very mechanism that builds the cycle, and socialised investment is the further intervention that then obstructs the adjustment the bust exists to perform.
+Hold that in mind: the cure is more spending, lower interest, and socialised investment. For the Austrians these are not treatments at all. Cheap credit is the very mechanism that builds the cycle; the consumption stimulus and socialised investment are the further interventions that then obstruct the adjustment the bust exists to perform. The division matters, and Rothbard is explicit about it: it is credit expansion *to business* that drives the cycle, while loans to consumers "stimulate consumption rather than business spending" and so "do not set a boom–bust cycle into motion". Consumption stimulus earns its place on the Austrian charge sheet as an obstacle to recovery — the fifth of Rothbard's six anti-depression policies below — not as a cause of the boom.
 
 ## The Austrian inversion: the boom is the disease
 
@@ -66,16 +66,16 @@ This reverses the sign on Keynes's central variable. Where Keynes treated saving
 
 Here the two systems become not merely different but contradictory. If the boom is *caused* by credit expansion and suppressed interest, then meeting the bust with more credit and lower rates does not cure the depression — it re-commits the original error on a larger scale. Hayek said so without hedging:
 
-> "To combat the depression by a forced credit expansion is to attempt to cure the evil by the very means which brought it about; because we are suffering from a misdirection of production, we want to create further misdirection".
+> "To combat the depression by a forced credit expansion is to attempt to cure the evil by the very means which brought it about; because we are suffering from a misdirection of production, we want to create further misdirection … that can only lead to a much more severe crisis as soon as the credit expansion comes to an end".
 >
 > — [[friedrich-a-hayek|F. A. Hayek]], *Monetary Theory and the Trade Cycle*, in [[prices-and-production|Prices and Production and Other Works]]
 
-He pressed the point to its sharpest edge: the artificial capital accumulation of the boom — the "forced saving" the inflationists welcomed — is not a route out of the cycle but its origin — it is, he concludes, "more proper to regard forced saving as the cause of economic crises than to expect it to restore a balanced structure of production."
+He carried the point further, though with a hedge worth preserving: the artificial capital accumulation of the boom — the "forced saving" the inflationists welcomed — is not a route out of the cycle but its origin. It is, he judges, "probably more proper to regard forced saving as the cause of economic crises than to expect it to restore a balanced structure of production."
 
 Rothbard then supplies the demonstration that turns a disagreement into an indictment. Setting out to list "logically the various ways that government could hamper market adjustment," he found he had written out "the favorite “anti-depression” arsenal of government policy." His six headings are a general anti-intervention list, several of which overlap with the Keynesian demand-management programme — most directly the inflation and consumption-stimulus items:
 
 - "Prevent or delay liquidation" — lend to failing firms, keep the insolvent afloat.
-- "Inflate further" — block the necessary fall in prices and rates.
+- "Inflate further" — block the necessary fall in prices, and prevent the market's return to the higher interest rates it needs.
 - "Keep wage rates up" — the rigidity that converts readjustment into unemployment.
 - "Keep prices up" — sustaining unsalable surpluses.
 - "Stimulate consumption and discourage saving" — the demand-side reflex itself.
@@ -123,7 +123,7 @@ What matters, for Hayek, is never the general price level or total output but th
 
 From that one methodological divide, three concrete disagreements follow, and none can be split down the middle.
 
-**Aggregates vs. structure.** Keynes's idle resources are a homogeneous pool waiting for any spending to soak them up. The Austrians' are *specific* — half-built factories, capital goods and labour stranded in the wrong stages by the prior boom. Generic spending re-employs them in a structure that still does not match what consumers want; it does not heal the misallocation, it refreezes it.
+**Aggregates vs. structure.** Keynes grants that output is "a non-homogeneous complex which cannot be measured", and adopts homogeneous units — money-value and quantities of employment — as a measurement convention. The consequence for the argument is what matters here: idle resources enter it as a quantity that any spending can soak up, because the framework does not track which resources are idle or where they sit. The Austrians' are *specific* — half-built factories, capital goods and labour stranded in the wrong stages by the prior boom. Generic spending re-employs them in a structure that still does not match what consumers want; it does not heal the misallocation, it refreezes it.
 
 **Interest as price vs. interest as lever.** For Keynes the interest rate is a monetary quantity set by liquidity preference, low enough in social value to be a fair target to drive down toward the full-employment level. For the Austrians it is the intertemporal price that coordinates saving with investment across time; suppressing it is not stimulus but the falsification of the one signal that tells producers how far into the future to build.
 
