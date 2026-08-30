@@ -3,7 +3,7 @@ title: "Power and Market"
 volatility: warm
 category: reference
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-08-30
 verified: 2026-06-26
 tags: [rothbard, austrian-economics, intervention, taxation, power-and-market, political-means]
 aliases: [P&M, Power and Market Government and the Economy]
@@ -55,6 +55,7 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[georgism|Georgism and the Land-Value Tax]] - Henry George's proposal to fund government by a single tax on the unimproved value of land — and the Austro-libertarian critique that land is legitimately owned, speculation is useful
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - draws on binary intervention, the instability of the mixed economy, and the calculational limits of tax-financed provision
 
 ## Sources
 

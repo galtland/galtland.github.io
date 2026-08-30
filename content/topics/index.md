@@ -2,13 +2,13 @@
 
 > Curated topic articles.
 
-Last updated: 2026-08-28
+Last updated: 2026-08-30
 
 ## Contents
 
 | File | Summary | Tags | Updated |
 |------|---------|------|---------|
-| [Austrian Economics](austrian-economics.md) | Topic map of Austrian economics in this wiki: praxeology, calculation, the knowledge problem, capital and the business cycle, property, and the destabilizing logic of intervention. | austrian-economics, economics, praxeology, intervention, calculation-problem, knowledge-problem, business-cycle | 2026-08-18 |
+| [Austrian Economics](austrian-economics.md) | Topic map of Austrian economics in this wiki: praxeology, calculation, the knowledge problem, capital and the business cycle, property, and the destabilizing logic of intervention. | austrian-economics, economics, praxeology, intervention, calculation-problem, knowledge-problem, business-cycle | 2026-08-30 |
 | [Critiques of Sovereignty and Power](critiques-of-sovereignty-and-power.md) | This topic — the wiki's non-libertarian critiques of state power through Schmitt's sovereignty/exception/friend-enemy tradition and Foucault's discipline/biopower tradition — has been folded into the broader State Theory and Totalitarianism hub, which places the same material alongside the Oppenheimer/Tilly conquest-and-war-making account and Arendt's analysis of totalitarianism. Follow that hub for the full map; this page is retained as a redirect for stable links. | sovereignty, power, carl-schmitt, michel-foucault, state-of-exception, biopower, non-libertarian, redirect | 2026-07-15 |
 | [Cypherpunk](cypherpunk.md) | Topic map for the cypherpunk thread: a 1990s technical-political movement holding that strong cryptography, anonymous protocols, and verifiable scarcity move power from centralized institutions to individuals. This wiki reads cypherpunk through an Austrian-libertarian lens — one implementation thread where sound money meets strong cryptography — while noting that not every cypherpunk shares those politics. | cypherpunk, crypto-anarchy, cryptography, bitcoin, privacy, proof-of-work, austrian-economics, libertarianism | 2026-08-05 |
 | [Libertarianism](libertarianism.md) | Topic map of this wiki's libertarian corpus: private property, voluntary exchange, anti-statism, classical-liberal political economy, historical state formation, Tilly's protection-racket sociology, Arendt/Solzhenitsyn totalitarianism coverage, and non-state legal order. | libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism | 2026-08-12 |

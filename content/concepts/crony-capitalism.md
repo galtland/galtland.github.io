@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-08-30
 verified: 2026-07-01
 tags: [crony-capitalism, cronyism, corporatism, rent-seeking, regulatory-capture, monopoly-privilege, subsidies, bailouts, protectionism, public-choice, political-means, legal-plunder]
 aliases: [Crony Capitalism, cronyism, crony capitalist, corporate welfare, corporatism, political capitalism, pro-business vs pro-market]
@@ -86,6 +86,7 @@ There is also a genuine boundary problem: in a heavily regulated economy almost 
 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the state-shaped property the communist critique rightly targets, conceded and distinguished from property as such
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - Swedish firms petitioning for subsidy instead of serving the market, in the lagging years
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "Jurisdictional Competition"
 volatility: warm
 category: concept
 created: 2026-06-09
-updated: 2026-08-08
+updated: 2026-08-30
 verified: 2026-06-09
 tags: [jurisdictional-competition, sovereignty-services, james-dale-davidson, william-rees-mogg, sovereign-individual, frederic-lane, nation-state, taxation, governments-as-firms]
 aliases: [jurisdictional competition, interjurisdictional competition, sovereignty services, governments as firms, citizens as customers, government controlled by its customers]
@@ -56,6 +56,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 - [[secession|Secession]]
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[nassim-taleb|Nassim Nicholas Taleb]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - mobile tax bases as a threat the Nordic model's own economists name
 
 ## Sources
 

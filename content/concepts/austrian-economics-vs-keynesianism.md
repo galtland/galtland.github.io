@@ -3,7 +3,7 @@ title: "Austrian Economics vs Keynesianism"
 volatility: cold
 category: concept
 created: 2026-06-16
-updated: 2026-08-06
+updated: 2026-08-30
 verified: 2026-06-26
 confidence: high
 tags: [austrian-economics, keynesianism, business-cycle, monetary-theory, credit-expansion, malinvestment, capital-theory, interest-rates, effective-demand, unemployment, wage-rates, full-employment, great-depression, macroeconomics, methodology]
@@ -162,6 +162,7 @@ The contrast supplies the macro-political content of the wiki's monetary argumen
 - [[deflation|Deflation]] - The Austrian case that falling prices are not one thing: productivity-driven ('growth') deflation is benign or beneficial, and only the credit-contraction kind is painful
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the demand management behind Sweden's 1970s policy failures
 
 ## Sources
 

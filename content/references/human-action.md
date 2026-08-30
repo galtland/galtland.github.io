@@ -3,7 +3,7 @@ title: "Human Action"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-08-18
+updated: 2026-08-30
 verified: 2026-06-09
 tags: [mises, austrian-economics, praxeology, economics]
 aliases: [Human Action, Mises's Treatise, Nationalökonomie]
@@ -72,6 +72,7 @@ The current raw source was re-extracted on 2026-06-17 from the Mises Institute's
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the corollary at issue in the Bitcoin regression-theorem debate
 - [[bani-and-austrian-economics|BANI and Austrian Economics]] - draws on this treatise for the denial of constant relations, uncertainty as constitutive of action, and the boom as malinvestment
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - draws on this treatise for the hampered market economy, the instability of interventionism, and the denial of constant relations
 
 ## Sources
 

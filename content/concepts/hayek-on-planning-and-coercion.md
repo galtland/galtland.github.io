@@ -3,7 +3,7 @@ title: "Hayek on Planning and Coercion"
 volatility: warm
 category: concept
 created: 2026-05-19
-updated: 2026-08-18
+updated: 2026-08-30
 verified: 2026-06-09
 tags: [hayek, central-planning, coercion, dictatorship, rule-of-law, road-to-serfdom]
 summary: "Hayek's claim that central planning leads to dictatorship because dictatorship is the most effective instrument of coercion, and that democratic procedure alone does not keep power from becoming arbitrary."
@@ -45,6 +45,7 @@ The argument scales upward. Hayek's analysis of *national* planning carries over
 - [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
 - [[bani-and-austrian-economics|BANI and Austrian Economics]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - planning for competition as the criterion that sorts the Nordic model's parts
 
 ## Sources
 

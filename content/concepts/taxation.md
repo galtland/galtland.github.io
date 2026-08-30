@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 compiled-from: conversation
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-08-30
 verified: 2026-07-16
 confidence: high
 tags: [taxation, political-means, taxation-is-theft, tax-incidence, state, rothbard, oppenheimer, georgism]
@@ -53,3 +53,4 @@ Taxation is where the wiki's [[state-power-and-intervention|theory of the state]
 - [[state-power-and-intervention|State Power and Intervention]] - the broader theory of state coercion taxation anchors
 - [[inflation|Inflation]]
 - [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the tax wedge, the fiscal illusion and the coercion objection as they bear on the Nordic welfare state

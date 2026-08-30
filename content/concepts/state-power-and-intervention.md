@@ -3,7 +3,7 @@ title: "State Power and Intervention"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-08-05
+updated: 2026-08-30
 verified: 2026-06-09
 tags: [state, intervention, anti-statism, taxation, central-planning, abstract-power, evolution-of-the-state, political-means, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [state intervention, interventionism]
@@ -176,6 +176,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[taxation|Taxation]]
 - [[james-buchanan|James Buchanan]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - Sweden's 1970-95 third way as a partial instance of the ratchet, and the reversal that followed it
 
 ## Sources
 

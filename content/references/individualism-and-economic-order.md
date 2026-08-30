@@ -3,7 +3,7 @@ title: "Individualism and Economic Order"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-08-10
+updated: 2026-08-30
 verified: 2026-06-26
 tags: [hayek, knowledge-problem, spontaneous-order, socialist-calculation-debate, competition]
 aliases: [I&EO, Hayek's Individualism]
@@ -55,6 +55,7 @@ In this volume Hayek explicitly takes up the question Mises had pressed: whether
 - [[hayek-on-planning-and-coercion|Hayek on Planning and Coercion]] - Hayek's claim in *The Road to Serfdom* that comprehensive central planning is
 - [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not of human design: order that emerges without a designer.
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - draws on the dispersed-knowledge argument for the objection to unpriced public services
 
 ## Sources
 

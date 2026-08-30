@@ -3,7 +3,7 @@ title: "The Constitution of Liberty"
 volatility: cold
 category: reference
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-08-30
 verified: 2026-07-16
 confidence: high
 tags: [hayek, constitution-of-liberty, classical-liberalism, rule-of-law, liberty, coercion, knowledge-problem, spontaneous-order, conservatism]
@@ -56,6 +56,8 @@ The book is the constructive half of the wiki's Hayek cluster: where *The Road t
 - [[spontaneous-order|Spontaneous Order]] - the order free action produces
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the wing that goes further than Hayek's minimal state
 - [[left-and-right|Left and Right]] - its postscript *Why I Am Not a Conservative*, read against the spectrum
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - Hayek's book-length sorting of legitimate welfare aims, where the Nordic model is measured against it
+
 ## Sources
 
 - [The Constitution of Liberty (Full Text)](https://archive.org/details/TheConstitutionOfLiberty) - Hayek's 1960 treatise (Definitive Edition; Internet Archive, ABBYY OCR): the definition of liberty, the argument from ignorance, the rule of law, the policy applications, and "Why I Am Not a Conservative"

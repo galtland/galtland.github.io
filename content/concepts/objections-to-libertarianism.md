@@ -5,7 +5,7 @@ category: concept
 type: concept
 compiled-from: conversation
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-30
 verified: 2026-07-02
 tags: [objections, criticism, steelman, the-other-side, market-failure, distributive-justice, keynesianism, anarcho-capitalism, human-nature, sovereignty]
 aliases: [Objections to Libertarianism, criticisms of libertarianism, the case against libertarianism, steelman, the other side, arguments against libertarianism]
@@ -66,3 +66,4 @@ Stated plainly, the corpus's answers are strongest on monopoly (usually a state 
 - [[sanction-of-the-victim|The Sanction of the Victim]] - Rand's name, in Atlas Shrugged, for the moral consent the productive give to their own exploitation — and the insight that the strike is simply its withdrawal.
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[left-and-right|Left and Right]] - the companion question of where the doctrine sits on the political map
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the Nordic model as the strongest empirical case against the libertarian position, examined at length

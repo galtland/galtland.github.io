@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-30
 verified: 2026-07-02
 tags: [distributive-justice, john-rawls, robert-nozick, entitlement-theory, wilt-chamberlain, egalitarianism, social-justice, inequality, veil-of-ignorance, objections]
 aliases: [Distributive Justice, social justice, Rawls vs Nozick, entitlement theory, the difference principle, veil of ignorance, economic justice]
@@ -58,6 +58,7 @@ From the egalitarian side, the strongest replies are that the veil of ignorance 
 - [[ragnar-danneskjold|Ragnar Danneskjöld]] - Rand's philosopher-pirate in Atlas Shrugged and his deliberate inversion of the Robin Hood myth — an attack on the idea that need, not achievement, is the source of rights.
 - [[self-ownership|Self-Ownership]] - The libertarian first principle: each person is the full owner of his own body and, therefore, of his labor and its products — the axiom from which the whole structure of property rights is derived.
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - why a growth record cannot answer the ethical objection to a compulsory levy, in either direction
 
 ## Sources
 

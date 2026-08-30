@@ -3,7 +3,7 @@ title: "Public Choice and Rational Ignorance"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-08-08
+updated: 2026-08-30
 verified: 2026-06-12
 tags: [public-choice, james-buchanan, gordon-tullock, rational-ignorance, collective-action, special-interests, rent-seeking, government-failure, classical-liberalism]
 summary: "The public-choice diagnosis of why liberty is systematically under-supplied: rationally ignorant voters plus the logic of collective action (small concentrated interests out-organize the large diffuse public) make politics favor the few at the many's expense, regardless of who holds office."
@@ -64,6 +64,7 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[james-buchanan|James Buchanan]]
 - [[iron-law-of-oligarchy|The Iron Law of Oligarchy]]
 - [[robert-michels|Robert Michels]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - Sanandaji's fiscal-illusion evidence, in which Swedes underestimate their own tax burden by roughly half
 
 ## Sources
 

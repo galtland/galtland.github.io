@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (369 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (370 entries).
 
 ## #
 
@@ -278,6 +278,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Nicomachean Ethics](/references/nicomachean-ethics)** — Aristotle's ethics; Book V's distinction between natural and conventional justice is the classical seed of natural law.
 - **[Non-Interventionism](/concepts/non-interventionism)** — Rothbard's foreign-policy position: inter-State war aggresses against taxpayers, and modern war almost always against innocents too, so no State can wage it justly; the aim is non-intervention.
 - **[Nonaggression and Property Rights](/concepts/nonaggression-and-property-rights)** — The corpus's normative core: self-ownership, property, and the rule against initiated force, defended on natural-rights, argumentation-ethics, and utilitarian grounds.
+- **[The Nordic Model vs Austrian Economics](/concepts/nordic-model-vs-austrian-economics)** — What the Nordic model actually is, what Austrian theory actually claims, and where the two collide, converge, and argue past each other.
 - **[The North Atlantic Treaty](/references/north-atlantic-treaty)** — The 1949 founding treaty and 2014 Wales Defence Investment Pledge — the documents behind NATO's spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP, then raised to 3.5%.
 - **[Nostr](/concepts/nostr)** — A minimal protocol where identity is a keypair and content is signed, relay-distributed events, optimized for censorship resistance rather than anonymity.
 

@@ -3,7 +3,7 @@ title: "Hayek on the Rule of Law"
 volatility: warm
 category: concept
 created: 2026-05-17
-updated: 2026-08-06
+updated: 2026-08-30
 verified: 2026-06-09
 tags: [hayek, rule-of-law, central-planning, classical-liberalism, arbitrary-government, discretion]
 summary: "Hayek's account of the rule of law as government bound by fixed, pre-announced rules, and his argument that comprehensive planning requires the opposite — discretionary administration — making the two mutually exclusive."
@@ -50,6 +50,7 @@ Hayek's foreseeability condition sits at the level of [[state-power-and-interven
 - [[spontaneous-order|Spontaneous Order]] - Hayek's idea that the most important social institutions — language, law, markets, money — are the result of human action but not the result of human design: order that emerges without a designer.
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
 - [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - stable general rules against sheer budget size, tested on Swedish policy that changed yearly
 
 ## Sources
 

@@ -4,7 +4,7 @@ volatility: cold
 category: concept
 compiled-from: conversation
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-08-30
 verified: 2026-07-16
 confidence: high
 tags: [schools-of-economics, austrian-economics, chicago-school, keynesianism, public-choice, comparison, methodology, business-cycle, monetary-policy]
@@ -59,3 +59,4 @@ The wiki argues from the Austrian school — its economics articles are deductio
 - [[adam-smith|Adam Smith]]
 - [[the-wealth-of-nations|The Wealth of Nations]]
 - [[james-buchanan|James Buchanan]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the Austrian school set against a policy model rather than a rival school

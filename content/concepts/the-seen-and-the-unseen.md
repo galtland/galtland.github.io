@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-01
-updated: 2026-08-06
+updated: 2026-08-30
 verified: 2026-07-01
 tags: [frederic-bastiat, seen-and-unseen, broken-window-fallacy, opportunity-cost, henry-hazlitt, protectionism, make-work, free-trade, classical-liberalism]
 aliases: [The Seen and the Unseen, that which is seen and that which is not seen, broken window fallacy, the broken window, opportunity cost, seen and unseen]
@@ -54,6 +54,7 @@ The seen-and-the-unseen is a discipline of attention rather than a full theory: 
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - the interventions whose unseen costs the principle exposes
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - hidden payroll and consumption taxes as the unseen side of the Nordic ledger
 
 ## Sources
 

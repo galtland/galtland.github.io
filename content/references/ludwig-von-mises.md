@@ -3,7 +3,7 @@ title: "Ludwig von Mises"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-08-08
+updated: 2026-08-30
 verified: 2026-06-18
 tags: [mises, austrian-economics, praxeology, classical-liberalism]
 aliases: [Ludwig Mises, Mises]
@@ -106,6 +106,8 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - his regression theorem as the premise of the contested Bitcoin application
 
 - [[left-and-right|Left and Right]] - his account of how the word liberal was taken over by its opponents
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the hampered market economy and the interventionism argument, tested against the Nordic record
+
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/human_action.epub) - the central treatise

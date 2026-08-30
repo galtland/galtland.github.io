@@ -3,7 +3,7 @@ title: "Praxeology"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-07-16
+updated: 2026-08-30
 verified: 2026-07-16
 tags: [praxeology, methodology, austrian-economics, action-axiom, a-priori, methodological-dualism, methodological-individualism, catallactics, mises, rothbard]
 aliases: [The Action Axiom, Mises's Method, Austrian Methodology]
@@ -96,6 +96,7 @@ Both are modern *applications* rather than claims Mises himself made: the wiki t
 - [[says-law|Say's Law]] - The classical principle that production is the ultimate source of demand — goods are paid for with goods — so a general glut of everything is impossible
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
 - [[ethics-vs-morality|Ethics vs Morality]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - why cross-country Nordic data can neither confirm nor refute the Austrian claims
 
 ## Sources
 

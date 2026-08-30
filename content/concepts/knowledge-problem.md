@@ -3,7 +3,7 @@ title: "Knowledge Problem"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-08-18
+updated: 2026-08-30
 verified: 2026-07-23
 tags: [hayek, knowledge-problem, central-planning, spontaneous-order, austrian-economics]
 aliases: [Use of Knowledge in Society, Hayekian Knowledge Problem, Dispersed Knowledge]
@@ -70,6 +70,7 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[bani-and-austrian-economics|BANI and Austrian Economics]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the dispersed-knowledge premise applied to public services produced without prices
 
 ## Sources
 

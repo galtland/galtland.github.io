@@ -3,7 +3,7 @@ title: "Murray N. Rothbard"
 volatility: warm
 category: reference
 created: 2026-04-21
-updated: 2026-08-08
+updated: 2026-08-30
 verified: 2026-06-18
 tags: [rothbard, libertarianism, austrian-economics, anti-statism, economic-history]
 aliases: [Murray Rothbard, Rothbard]
@@ -114,6 +114,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[left-and-right|Left and Right]] - his reversed genealogy placing classical liberalism on the original Left
 - [[left-and-right-the-prospects-for-liberty|Left and Right: The Prospects for Liberty]] - his 1965 essay placing classical liberalism on the original Left
 - [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - taxation as coercion and government enterprise as an island of calculational chaos, applied to the Nordic welfare state
 
 ## Sources
 

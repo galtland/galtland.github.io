@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-08-30
 verified: 2026-07-01
 tags: [free-trade, comparative-advantage, law-of-association, ricardo, ludwig-von-mises, protectionism, division-of-labor, tariffs, austrian-economics]
 aliases: [Free Trade, Comparative Advantage, comparative advantage, law of association, law of comparative cost, Ricardian law of association]
@@ -47,6 +47,7 @@ The comparative-advantage case is exceptionally robust, and the objections clust
 - [[economics-in-one-lesson|Economics in One Lesson]]
 - [[adam-smith|Adam Smith]]
 - [[the-wealth-of-nations|The Wealth of Nations]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - openness as the half of the Nordic model its defenders say the welfare state buys consent for
 
 ## Sources
 

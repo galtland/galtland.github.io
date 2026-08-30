@@ -3,7 +3,7 @@ title: "Austrian Economics"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-08-18
+updated: 2026-08-30
 verified: 2026-06-18
 tags: [austrian-economics, economics, praxeology, intervention, calculation-problem, knowledge-problem, business-cycle]
 aliases: [Austrian School, Austrian School of Economics]
@@ -34,7 +34,7 @@ The school's macroeconomics is the [[austrian-business-cycle-theory|Austrian the
 
 ## Intervention as Process, Not Snapshot
 
-The [[power-and-market|Power and Market]] material in Rothbard's treatise treats intervention dynamically. Taxes, price controls, subsidies, monopoly grants, and inflation are not isolated knobs — they generate secondary distortions and pressures for further intervention. Mises, in [[liberalism|Liberalism]] and [[socialism|Socialism]], reaches the same conclusion via his analysis of "destructionism." Hayek, in [[road-to-serfdom|The Road to Serfdom]], reaches it via the rule-of-law and knowledge-problem arguments. The unified result feeds [[state-power-and-intervention|State Power and Intervention]]. Rothbard's [[sales-tax-incidence|Sales Tax Incidence]] is a concrete example of the same method applied to a standard textbook question.
+The [[power-and-market|Power and Market]] material in Rothbard's treatise treats intervention dynamically. Taxes, price controls, subsidies, monopoly grants, and inflation are not isolated knobs — they generate secondary distortions and pressures for further intervention. Mises, in [[liberalism|Liberalism]] and [[socialism|Socialism]], reaches the same conclusion via his analysis of "destructionism." Hayek, in [[road-to-serfdom|The Road to Serfdom]], reaches it via the rule-of-law and knowledge-problem arguments. The unified result feeds [[state-power-and-intervention|State Power and Intervention]]. Rothbard's [[sales-tax-incidence|Sales Tax Incidence]] is a concrete example of the same method applied to a standard textbook question. The hardest live case for that analysis is taken up in [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]]: economies that have taxed and transferred at world-leading levels for six decades without the drift the interventionism argument would lead one to expect — and where the tradition itself divides, since Hayek grants a guaranteed minimum that Rothbard's account of taxation rules out.
 
 ## Relation to the Political Corpus
 
@@ -120,6 +120,7 @@ New to this hub? Read these five, in order:
 
 - [[does-bitcoin-satisfy-the-regression-theorem|Does Bitcoin Satisfy the Regression Theorem?]] - the intra-Austrian dispute over Bitcoin and the regression theorem
 - [[bani-and-austrian-economics|BANI and Austrian Economics]] - a futures-studies vocabulary that independently names three Austrian claims, and parts company on the prescription
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - a policy model that keeps the market half the school defends while taxing away nearly half of national income, and where the two accounts actually collide
 
 ## Sources
 

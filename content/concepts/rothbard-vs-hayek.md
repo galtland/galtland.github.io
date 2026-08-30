@@ -3,7 +3,7 @@ title: "Rothbard vs. Hayek: The Two Heirs of Mises"
 volatility: cold
 category: concept
 created: 2026-05-31
-updated: 2026-08-10
+updated: 2026-08-30
 verified: 2026-06-26
 tags: [hayek, rothbard, mises, austrian-economics, praxeology, knowledge-problem, dehomogenization, anarcho-capitalism, methodology]
 aliases: [Rothbard vs Hayek, Hayek vs Rothbard, two heirs of Mises, Mises-Rothbard vs Hayek-Kirzner, dehomogenization]
@@ -59,6 +59,8 @@ The popular framing of *two Mises disciples with different economic ideas* is ha
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[left-and-right|Left and Right]] - the same two thinkers disagreeing about the political spectrum
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the split applied to a live case: Hayek's guaranteed minimum passes parts of the Nordic model that Rothbard's test fails outright
+
 ## Sources
 
 - [Mises and Hayek Dehomogenized (Salerno 1993)](https://mises.org/library/mises-and-hayek-dehomogenized) - the two-paradigm argument (Mises/Böhm-Bawerk vs Hayek/Wieser-Kirzner)

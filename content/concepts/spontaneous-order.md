@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-06-28
-updated: 2026-08-18
+updated: 2026-08-30
 verified: 2026-06-28
 tags: [friedrich-hayek, spontaneous-order, catallaxy, knowledge-problem, emergence, adam-ferguson, scottish-enlightenment, dispersed-knowledge, price-system]
 aliases: [Spontaneous Order, spontaneous order, catallaxy, grown order, the results of human action but not of human design]
@@ -56,6 +56,7 @@ Spontaneous order is the positive half of the Austrian case for liberty: where t
 - [[iron-law-of-oligarchy|The Iron Law of Oligarchy]]
 - [[left-and-right|Left and Right]] - the grown-institutions insight Hayek credits to conservative thinkers
 - [[bani-and-austrian-economics|BANI and Austrian Economics]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the price-system argument applied to services produced without prices
 
 ## Sources
 

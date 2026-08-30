@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-02
-updated: 2026-08-11
+updated: 2026-08-30
 verified: 2026-07-02
 tags: [market-failure, public-goods, externalities, natural-monopoly, asymmetric-information, welfare-economics, government-failure, pigou, coase, objections]
 aliases: [Market Failure, market failure, public goods, externalities, natural monopoly, asymmetric information, the case for intervention]
@@ -65,6 +65,7 @@ The libertarian replies are strongest on natural monopoly (historically a statut
 - [[capitalism|Capitalism]] - the market order whose alleged failures this entry weighs
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[factual-potential-of-harm|The Factual Potential of Harm]] - a rights-based test for when an externality becomes an aggression rather than a cost to be priced
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the framework the Nordic model's own economists use to justify public provision, set against the Austrian reply
 
 ## Sources
 

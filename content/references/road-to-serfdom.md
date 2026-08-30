@@ -3,7 +3,7 @@ title: "The Road to Serfdom"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-08-06
+updated: 2026-08-30
 verified: 2026-06-26
 tags: [hayek, central-planning, totalitarianism, rule-of-law, classical-liberalism]
 aliases: [Road to Serfdom, RTS]
@@ -56,6 +56,7 @@ This book is the popular front of Hayek's critique of central planning. Its theo
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 - [[the-pretence-of-knowledge|The Pretence of Knowledge]] - Hayek's 1974 Nobel lecture: the scientistic pretence that economics can predict and control complex social orders is false and dangerous; aim for pattern predictions and humility, not control.
 - [[austrian-economics-vs-keynesianism|Austrian Economics vs Keynesianism]] - Why Hayek and Rothbard hold that the Keynesian cure is the Austrian disease — and why reasoning in aggregates can't see it.
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - draws on the two kinds of security, the guaranteed minimum, and the 1956 and 1976 prefaces on the welfare state and Sweden
 
 ## Sources
 

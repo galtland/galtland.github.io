@@ -3,7 +3,7 @@ title: "Methodological Dualism"
 volatility: cold
 category: concept
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-08-30
 verified: 2026-06-17
 confidence: high
 tags: [methodological-dualism, mises, epistemology, methodology, praxeology, philosophy-of-history, scientism, positivism, historicism, verstehen, teleology, austrian-economics]
@@ -72,6 +72,7 @@ Methodological dualism is a central methodological foundation of Misesian Austri
 - [[austrian-economics-vs-the-chicago-school|Austrian Economics vs the Chicago School]] — the theory-vs-empiricism dispute, rooted in this dualism
 - [[austrian-economics|Austrian Economics]] — the school whose epistemology this is
 - [[subjective-value-vs-the-labor-theory-of-value|The Subjective Theory of Value vs. the Labor Theory of Value]] - The clash between value as objective embodied labor (Marx) and value as the subjective, marginal importance imputed by acting individuals (Menger, Böhm-Bawerk, Mises).
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the denial of constant relations, and what it costs both sides of the Nordic argument
 
 ## Sources
 

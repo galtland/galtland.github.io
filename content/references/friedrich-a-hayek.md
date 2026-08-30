@@ -3,7 +3,7 @@ title: "F. A. Hayek"
 volatility: warm
 category: reference
 created: 2026-05-05
-updated: 2026-08-08
+updated: 2026-08-30
 verified: 2026-06-18
 tags: [hayek, austrian-economics, classical-liberalism, knowledge-problem, business-cycle]
 aliases: [Hayek, Friedrich Hayek, F. A. Hayek]
@@ -80,6 +80,8 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[the-constitution-of-liberty|The Constitution of Liberty]]
 
 - [[left-and-right|Left and Right]] - his triangle against the line, and the objection that conservatives ask who wields power
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - his 1976 preface on Sweden, the guaranteed minimum, and the criterion that sorts a welfare state's parts
+
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - political application of the critique of planning

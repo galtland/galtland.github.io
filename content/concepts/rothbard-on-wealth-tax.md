@@ -3,7 +3,7 @@ title: "Rothbard on the Wealth Tax"
 volatility: warm
 category: concept
 created: 2026-05-18
-updated: 2026-07-08
+updated: 2026-08-30
 verified: 2026-07-08
 tags: [rothbard, wealth-tax, taxation, capital-consumption, accumulated-capital, power-and-market, oecd, wealth-tax-repeal]
 summary: "Rothbard's wealth-tax incidence analysis: a tax on accumulated wealth cannot be capitalized or shifted, so it penalizes saving and investment and directly consumes the capital stock."
@@ -37,6 +37,7 @@ The OECD's own comparative study — *The Role and Design of Net Wealth Taxes in
 - [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] — institutional companion: the democratic property structure that systematically rewards the policy class
 - [[state-power-and-intervention|State Power and Intervention]] — broader intervention-as-cumulative-process frame
 - [[intervention-taxonomy|Rothbard's Taxonomy of Intervention]] - Rothbard's three-way classification of coercive intervention in Power and Market
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the level-over-progressivity claim tested against Nordic tax design
 
 ## Sources
 

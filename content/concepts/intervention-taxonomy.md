@@ -3,7 +3,7 @@ title: "Rothbard's Taxonomy of Intervention"
 volatility: cold
 category: concept
 created: 2026-05-29
-updated: 2026-06-26
+updated: 2026-08-30
 verified: 2026-06-26
 confidence: high
 tags: [rothbard, intervention, austrian-economics, power-and-market, autistic-intervention, binary-intervention, triangular-intervention, taxation, price-controls, surveillance, cbdc]
@@ -58,6 +58,7 @@ Rothbard also stressed that intervention is **self-propagating**: each intervent
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
 - [[the-seen-and-the-unseen|The Seen and the Unseen]] - Bastiat's principle that sound economics reckons with the unseen — the foregone alternatives a policy destroys — not only its visible effect; the broken-window fallacy is its most famous illustration.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - taxation as binary intervention, applied to a welfare state that takes nearly half of national income
 
 ## Sources
 

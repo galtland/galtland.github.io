@@ -3,7 +3,7 @@ title: "Milton Friedman"
 volatility: cold
 category: reference
 created: 2026-06-16
-updated: 2026-08-08
+updated: 2026-08-30
 verified: 2026-06-18
 tags: [milton-friedman, chicago-school, monetarism, monetary-policy, natural-rate-of-unemployment, permanent-income-hypothesis, quantity-theory, k-percent-rule, money-supply, classical-liberalism, classical-liberal]
 aliases: [Friedman, Milton Friedman, Prof. Friedman]
@@ -55,6 +55,7 @@ Confidence is medium. The substance of Friedman's monetary and classical-liberal
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
 - [[gold-standard|The Gold Standard]] - Money as a fixed weight of redeemable gold — hard money's historical form, dismantled from 1913 to 1971, prized by Austrians as a check on state inflation and faulted by Chicago-school critics.
 - [[schools-of-economics|Schools of Economics: Austrian, Chicago, Keynesian, Public Choice]]
+- [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the Scandinavian-poverty exchange Sanandaji uses in his culture argument
 
 ## Sources
 
