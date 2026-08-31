@@ -3,7 +3,7 @@ title: "Evolution of the State"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-06-18
+updated: 2026-08-31
 verified: 2026-06-18
 tags: [state, evolution-of-the-state, conquest-theory, political-means, regime-theory, consent, legitimacy, war-and-state-formation, totalitarianism, mass-society, megapolitics, nation-state-decline]
 aliases: [state evolution, historical state formation, state formation, conquest theory of the state]
@@ -104,7 +104,7 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [[the-sovereign-individual|The Sovereign Individual]] - megapolitical forecast of the nation-state's information-age decline, the forward end of this arc
 - [[megapolitics|Megapolitics]] - violence-cost theory generalizing the war-and-state-formation logic to predict state decline
 - [[school-of-salamanca|School of Salamanca]] - Suárez and Mariana on consent, the state of nature, and resistance to tyranny, anticipating Locke
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower

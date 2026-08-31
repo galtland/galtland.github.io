@@ -3,7 +3,7 @@ title: "Market Anarchism and Private Law"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-08-11
+updated: 2026-08-31
 verified: 2026-06-09
 tags: [market-anarchism, private-law, arbitration, defense-agencies, classical-liberalism]
 aliases: [anarcho-capitalism, private law society, market provision of law]
@@ -79,6 +79,7 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - the capacity test private arbitration would have to apply act by act
 - [[restitution-without-punishment|Restitution Without Punishment]] - what execution agencies would be enforcing if punishment were not a legal category
 - [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 treatise deriving this architecture from first principles, separating investigation, arbitration, insurance, execution and registry
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - law produced for profit by courts selling to competing protection agencies
 
 ## Sources
 

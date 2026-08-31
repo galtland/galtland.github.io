@@ -3,7 +3,7 @@ title: "War and State Formation"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-08-07
+updated: 2026-08-31
 verified: 2026-07-23
 tags: [war-and-state-formation, charles-tilly, state, coercion, capital, taxation, protection-racket, organized-crime, evolution-of-the-state, political-means, historical-sociology, totalitarianism, non-libertarian]
 aliases: [war made the state and the state made war, states as protection rackets, Tilly state formation, capital coercion typology]
@@ -94,10 +94,11 @@ The 2026-05-12 gap-closure pass appended chapters 2, 4, 5, and 7 to the earlier 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 - [[stateless-somalia|Stateless Somalia]] - a collapse-then-order counter-case to war-builds-states
 - [[megapolitics|Megapolitics]] - Davidson and Rees-Mogg's violence-cost theory generalizing the war-builds-states logic to forecast state decline
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[north-atlantic-treaty|The North Atlantic Treaty]] - The 1949 founding treaty and the 2014 Wales Defence Investment Pledge — the primary documents behind NATO's defense-spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
+- [[private-security-and-insurance|Private Security and Insurance]] - Molinari's claim that a monopoly on security is what makes war profitable
 
 ## Sources
 

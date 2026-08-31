@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-08-31
 verified: 2026-07-16
 tags: [anarcho-capitalism, communism, marxism, private-property, the-state, anarchism, social-anarchism, mutualism, property-rights, political-means, economic-calculation, franz-oppenheimer]
 aliases: [Does Private Property Require the State?, property requires the state, anarchism and private property, is anarcho-capitalism really anarchism, the communist critique of private property, private property and the state, property presupposes the state]
@@ -59,7 +59,7 @@ Even a critic who won the whole enforcement dispute would still face a separate 
 
 The conceptual claim — that *true anarchy and private property are incompatible* — does not survive; enforcement is not the state, and property is not the state's creature. But the objection has a live residue that the honest answer must keep open.
 
-- **The mutualist land question.** The internal anarchist critique is not settled by the reply above. Whether the *legitimate* core of property is Lockean (first use plus indefinite absentee title, rent and interest included) or narrower and use-bound (occupancy-and-use, no absentee-owner claims) is a real and unresolved dispute — the same fault line as [[subjective-value-vs-the-labor-theory-of-value|subjective value versus the labor theory of value]] and the [[georgism|land-value]] debate, and it divides the [[libertarian-family|libertarian family]] itself. The mutualist may be right that an-cap absentee title, enforced against non-using claimants, needs an apparatus that starts to look state-like — without the communist being right that *all* property does.
+- **The mutualist land question.** The internal anarchist critique is not settled by the reply above. Whether the *legitimate* core of property is Lockean (first use plus indefinite absentee title, rent and interest included) or narrower and use-bound (Tucker's "personal occupancy and cultivation", no absentee-owner claims) is a real and unresolved dispute — the same fault line as [[subjective-value-vs-the-labor-theory-of-value|subjective value versus the labor theory of value]] and the [[georgism|land-value]] debate, and it divides the [[libertarian-family|libertarian family]] itself. The mutualist may be right that an-cap absentee title, enforced against non-using claimants, needs an apparatus that starts to look state-like — without the communist being right that *all* property does.
 - **Does stateless enforcement scale?** The rebuttal shows property does not *conceptually* require a state; it does not show that competing protectors would not fight, collude into a de facto monopoly, or fail to supply large-scale defense. Those are the standing [[criticisms-of-anarcho-capitalism|criticisms of anarcho-capitalism]] — the public-goods, warlord, and invisible-hand objections — and the historical evidence is fragmentary. *Property can be enforced without a state* is a claim about possibility that the market-anarchist argues but has not decisively demonstrated at scale.
 
 So the communist's *conceptual* thesis is false: private property is not simply a product of state violence, the two are not the same thing, and a norm's needing enforcement does not make it a state. What is true, and worth conceding, is that much existing property is state-privileged (and condemned by libertarians on their own principles), and that whether the legitimate remainder can actually be defended without something turning back into a state is an empirical question still under argument. The incompatibility is asserted; it is not proven.
@@ -82,6 +82,7 @@ So the communist's *conceptual* thesis is false: private property is not simply 
 - [[karl-marx|Karl Marx]] - source of the property-as-social-relation register of the critique
 - [[das-kapital|Capital]] - Marx's analysis of capitalist property relations
 - [[socialism|Socialism]] - Mises's systematic treatment, home of the calculation argument
+- [[private-security-and-insurance|Private Security and Insurance]] - the protective institutions that would enforce property without a monopoly enforcer
 
 ## Sources
 
@@ -91,6 +92,6 @@ So the communist's *conceptual* thesis is false: private property is not simply 
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Hoppe's argumentation-ethics grounding of property and the property-based treatment of public goods and defense
 - [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - Molinari's case that security and enforcement can be produced competitively rather than by a monopoly state
 - [What Is Property? — Scoped Excerpt (1840)](https://theanarchistlibrary.org/library/pierre-joseph-proudhon-what-is-property-an-inquiry-into-the-principle-of-right-and-of-government) - Proudhon's *property is robbery* thesis aimed at the proprietor's claim to unearned income, and his self-identification as an anarchist
-- [State Socialism and Anarchism (Full Text)](https://theanarchistlibrary.org/library/benjamin-r-tucker-state-socialism-and-anarchism) - Tucker's occupancy-and-use land rule and the charge that absentee title depends on state enforcement
+- [State Socialism and Anarchism (Full Text)](https://theanarchistlibrary.org/library/benjamin-r-tucker-state-socialism-and-anarchism) - Tucker's land rule of "personal occupancy and cultivation" and the charge that absentee title depends on state enforcement
 - [Capital, Volume I — Chapter 1: Commodities (Full Text)](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm) - Marx's commodity-fetishism analysis: value and property relations as social relations that come to appear as objective properties of things
 - [Socialism: An Economic and Sociological Analysis (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - Mises's economic-calculation argument against abolishing private ownership of the means of production

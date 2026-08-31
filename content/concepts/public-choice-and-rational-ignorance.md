@@ -3,7 +3,7 @@ title: "Public Choice and Rational Ignorance"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-08-30
+updated: 2026-08-31
 verified: 2026-06-12
 tags: [public-choice, james-buchanan, gordon-tullock, rational-ignorance, collective-action, special-interests, rent-seeking, government-failure, classical-liberalism]
 summary: "The public-choice diagnosis of why liberty is systematically under-supplied: rationally ignorant voters plus the logic of collective action (small concentrated interests out-organize the large diffuse public) make politics favor the few at the many's expense, regardless of who holds office."
@@ -58,7 +58,7 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[jurisdictional-competition|Jurisdictional Competition]] - Lane's employee-controlled-government category matches the public-choice account of bureaucratic incentives
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 - [[james-buchanan|James Buchanan]]

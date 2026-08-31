@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 type: concept
 created: 2026-06-28
-updated: 2026-08-06
+updated: 2026-08-31
 verified: 2026-06-29
 tags: [minarchism, minimal-state, night-watchman-state, ayn-rand, robert-nozick, limited-government, anarcho-capitalism, classical-liberalism, competing-governments]
 aliases: [Minarchism, minarchism, minimal state, night-watchman state, limited government, minarchist]
@@ -66,6 +66,7 @@ Most of this corpus argues from the anarcho-capitalist side; minarchism is the p
 - [[left-and-right|Left and Right]] - the spectrum question that the in-family debate over the state cuts across
 - [[javier-milei|Javier Milei]]
 - [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - the consequentialist argument for going past the minimal state
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "Political Means and Economic Means"
 volatility: warm
 category: concept
 created: 2026-05-10
-updated: 2026-08-08
+updated: 2026-08-31
 verified: 2026-07-23
 tags: [political-means, economic-means, state, exploitation, production, exchange, nonaggression, war-and-state-formation]
 aliases: [economic means, political means, Oppenheimer distinction, production versus predation]
@@ -85,7 +85,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[stateless-somalia|Stateless Somalia]] - the predatory-state case the means distinction predicts
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]] - Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.

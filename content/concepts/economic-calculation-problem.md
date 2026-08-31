@@ -3,7 +3,7 @@ title: "Economic Calculation Problem"
 volatility: warm
 category: concept
 created: 2026-05-05
-updated: 2026-08-30
+updated: 2026-08-31
 verified: 2026-07-23
 tags: [calculation-problem, socialism, austrian-economics, central-planning]
 aliases: [Calculation Problem, Mises's Calculation Argument, Socialist Calculation Debate, Socialist Calculation]
@@ -81,6 +81,7 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[bani-and-austrian-economics|BANI and Austrian Economics]]
 - [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - why the argument does not reach the Nordic economies as wholes, and the scaled-down form that does apply inside their tax-financed sector
+- [[private-security-and-insurance|Private Security and Insurance]] - the calculation argument applied to the inside of a police budget
 
 ## Sources
 

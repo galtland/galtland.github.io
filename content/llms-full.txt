@@ -1516,7 +1516,7 @@ The concept complicates a simple parasite metaphor. A parasite model highlights 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis whose Tilly gap this concept helps close
 - [[nationalism-and-state-formation|Nationalism and State Formation]] - reciprocal link.
 - [[jurisdictional-competition|Jurisdictional Competition]] - the reverse current in which mobile wealth unwinds the tax-for-rights bargain and turns citizens back into customers
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 
 ## Sources
 
@@ -2193,6 +2193,7 @@ None of these objections is decisively refuted, and none decisively refutes the 
 - [[does-private-property-require-the-state|Does Private Property Require the State?]] - the prior, conceptual objection — that property is constituted by state violence — answered before these empirical ones
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[restitution-without-punishment|Restitution Without Punishment]] - a restitution-only theory of criminal justice, and the deterrence and dangerousness objections it leaves open
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - the consequentialist answers to these objections, and the one Friedman concedes
 
 ## Sources
 
@@ -2894,7 +2895,7 @@ Even a critic who won the whole enforcement dispute would still face a separate 
 
 The conceptual claim — that *true anarchy and private property are incompatible* — does not survive; enforcement is not the state, and property is not the state's creature. But the objection has a live residue that the honest answer must keep open.
 
-- **The mutualist land question.** The internal anarchist critique is not settled by the reply above. Whether the *legitimate* core of property is Lockean (first use plus indefinite absentee title, rent and interest included) or narrower and use-bound (occupancy-and-use, no absentee-owner claims) is a real and unresolved dispute — the same fault line as [[subjective-value-vs-the-labor-theory-of-value|subjective value versus the labor theory of value]] and the [[georgism|land-value]] debate, and it divides the [[libertarian-family|libertarian family]] itself. The mutualist may be right that an-cap absentee title, enforced against non-using claimants, needs an apparatus that starts to look state-like — without the communist being right that *all* property does.
+- **The mutualist land question.** The internal anarchist critique is not settled by the reply above. Whether the *legitimate* core of property is Lockean (first use plus indefinite absentee title, rent and interest included) or narrower and use-bound (Tucker's "personal occupancy and cultivation", no absentee-owner claims) is a real and unresolved dispute — the same fault line as [[subjective-value-vs-the-labor-theory-of-value|subjective value versus the labor theory of value]] and the [[georgism|land-value]] debate, and it divides the [[libertarian-family|libertarian family]] itself. The mutualist may be right that an-cap absentee title, enforced against non-using claimants, needs an apparatus that starts to look state-like — without the communist being right that *all* property does.
 - **Does stateless enforcement scale?** The rebuttal shows property does not *conceptually* require a state; it does not show that competing protectors would not fight, collude into a de facto monopoly, or fail to supply large-scale defense. Those are the standing [[criticisms-of-anarcho-capitalism|criticisms of anarcho-capitalism]] — the public-goods, warlord, and invisible-hand objections — and the historical evidence is fragmentary. *Property can be enforced without a state* is a claim about possibility that the market-anarchist argues but has not decisively demonstrated at scale.
 
 So the communist's *conceptual* thesis is false: private property is not simply a product of state violence, the two are not the same thing, and a norm's needing enforcement does not make it a state. What is true, and worth conceding, is that much existing property is state-privileged (and condemned by libertarians on their own principles), and that whether the legitimate remainder can actually be defended without something turning back into a state is an empirical question still under argument. The incompatibility is asserted; it is not proven.
@@ -2917,6 +2918,7 @@ So the communist's *conceptual* thesis is false: private property is not simply 
 - [[karl-marx|Karl Marx]] - source of the property-as-social-relation register of the critique
 - [[das-kapital|Capital]] - Marx's analysis of capitalist property relations
 - [[socialism|Socialism]] - Mises's systematic treatment, home of the calculation argument
+- [[private-security-and-insurance|Private Security and Insurance]] - the protective institutions that would enforce property without a monopoly enforcer
 
 ## Sources
 
@@ -2926,7 +2928,7 @@ So the communist's *conceptual* thesis is false: private property is not simply 
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Hoppe's argumentation-ethics grounding of property and the property-based treatment of public goods and defense
 - [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - Molinari's case that security and enforcement can be produced competitively rather than by a monopoly state
 - [What Is Property? — Scoped Excerpt (1840)](https://theanarchistlibrary.org/library/pierre-joseph-proudhon-what-is-property-an-inquiry-into-the-principle-of-right-and-of-government) - Proudhon's *property is robbery* thesis aimed at the proprietor's claim to unearned income, and his self-identification as an anarchist
-- [State Socialism and Anarchism (Full Text)](https://theanarchistlibrary.org/library/benjamin-r-tucker-state-socialism-and-anarchism) - Tucker's occupancy-and-use land rule and the charge that absentee title depends on state enforcement
+- [State Socialism and Anarchism (Full Text)](https://theanarchistlibrary.org/library/benjamin-r-tucker-state-socialism-and-anarchism) - Tucker's land rule of "personal occupancy and cultivation" and the charge that absentee title depends on state enforcement
 - [Capital, Volume I — Chapter 1: Commodities (Full Text)](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm) - Marx's commodity-fetishism analysis: value and property relations as social relations that come to appear as objective properties of things
 - [Socialism: An Economic and Sociological Analysis (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_4.epub) - Mises's economic-calculation argument against abolishing private ownership of the means of production
 
@@ -3066,6 +3068,7 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[2026-07-22-dpc-coordination-objection|The Coordination Objection: A Reply to an Ex-Libertarian]]
 - [[bani-and-austrian-economics|BANI and Austrian Economics]]
 - [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - why the argument does not reach the Nordic economies as wholes, and the scaled-down form that does apply inside their tax-financed sector
+- [[private-security-and-insurance|Private Security and Insurance]] - the calculation argument applied to the inside of a police budget
 
 ## Sources
 
@@ -3297,7 +3300,7 @@ That counterfactual is why the evolution-of-the-state thread belongs next to [[s
 - [[the-sovereign-individual|The Sovereign Individual]] - megapolitical forecast of the nation-state's information-age decline, the forward end of this arc
 - [[megapolitics|Megapolitics]] - violence-cost theory generalizing the war-and-state-formation logic to predict state decline
 - [[school-of-salamanca|School of Salamanca]] - Suárez and Mariana on consent, the state of nature, and resistance to tyranny, anticipating Locke
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
@@ -5205,7 +5208,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - competitive provision of law and protection the "sovereignty services" forecast approaches
 - [[private-security-and-insurance|Private Security and Insurance]] - market protection adjacent to the book's proliferating jurisdictions
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - incentive analysis matching Lane's "employee-controlled" government
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network states).
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.
@@ -5765,6 +5768,7 @@ Not every libertarian tradition embraces full market anarchism, but it earns unu
 - [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - the capacity test private arbitration would have to apply act by act
 - [[restitution-without-punishment|Restitution Without Punishment]] - what execution agencies would be enforcing if punishment were not a legal category
 - [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 treatise deriving this architecture from first principles, separating investigation, arbitration, insurance, execution and registry
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - law produced for profit by courts selling to competing protection agencies
 
 ## Sources
 
@@ -5843,6 +5847,7 @@ The libertarian replies are strongest on natural monopoly (where the clearest ca
 - [[objections-to-libertarianism|Objections to Libertarianism]] - A map of the strongest objections to the libertarian and Austrian positions defended across this wiki — economic, institutional, distributive, macroeconomic, and philosophical
 - [[factual-potential-of-harm|The Factual Potential of Harm]] - a rights-based test for when an externality becomes an aggression rather than a cost to be priced
 - [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - the framework the Nordic model's own economists use to justify public provision, set against the Austrian reply
+- [[private-security-and-insurance|Private Security and Insurance]] - the public-goods objection as it bears on policing and on defence against states
 
 ## Sources
 
@@ -6114,6 +6119,7 @@ Most of this corpus argues from the anarcho-capitalist side; minarchism is the p
 - [[left-and-right|Left and Right]] - the spectrum question that the in-family debate over the state cuts across
 - [[javier-milei|Javier Milei]]
 - [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - the consequentialist argument for going past the minimal state
 
 ## Sources
 
@@ -6902,6 +6908,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - when consent is competent to the act, and who acts for those whose is not
 - [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - a rival derivation of the property leg, grounded in objective boundaries rather than first use
 - [[factual-potential-of-harm|The Factual Potential of Harm]] - an objective measure for the defensive force the principle permits
+- [[private-security-and-insurance|Private Security and Insurance]] - the right to hire a defender, and the limits on what a hired agent may do
 
 ## Sources
 
@@ -7576,7 +7583,7 @@ The state has a direct institutional interest in suppressing rival predation —
 
 The popular question hides two very different achievements, and conflating them is what makes the small-country intuition look plausible.
 
-The first is preventing any **rival claim to sovereignty** — stopping a warlord, militia, or criminal army from becoming an alternative ruler. Almost every viable state manages this; it is Tilly's "state making," and on Rothbard's account it is guaranteed by definition, since "Only one set of rulers can obtain a monopoly of coercion over any given territorial area at any one time". The United States, Brazil, China, and Rome alike face no rival sovereign.
+The first is preventing any **rival claim to sovereignty** — stopping a warlord, militia, or criminal army from becoming an alternative ruler. Almost every viable state manages this; it is Tilly's "state making." Rothbard makes the exclusivity point about rival *states* rather than internal rivals — "Only one set of rulers can obtain a monopoly of coercion over any given territorial area at any one time: complete power over a territory by State X can only be obtained by the expulsion of State Y" — and his own definition has the state only attempting to maintain its monopoly, so the internal case is an empirical achievement rather than a matter of definition. The United States, Brazil, China, and Rome alike face no rival sovereign.
 
 The second is **eliminating organized crime as an activity** — ending the gangs' territorial control, extortion, and trafficking, not merely their pretension to rule. This is far rarer, and it is here that states diverge. What separates the states that achieve it from those that do not is not how large they are but how much coercive capacity they can concentrate and how few constraints they place on its use.
 
@@ -7584,7 +7591,7 @@ The second is **eliminating organized crime as an activity** — ending the gang
 
 The cost of asserting the monopoly against entrenched criminal organizations depends on three things, none of which is reducible to territory.
 
-The first is **administrative penetration** — how far the state's machinery reaches from the center down into local life. Tilly's own comparison is decisive here, and it runs *against* the size intuition: the most complete penetration he records belongs to a vast empire, not a small state. "No European government approached the completeness of articulation from top to bottom achieved by imperial China"; Europe's comparatively small states governed *indirectly*, through local power-holders — "junkers, justices of the peace, lords" — and so reached less far into local life than the far larger Chinese empire did. Penetration is a property of centralization and administrative design, not of acreage. A large but deeply centralized state can monitor its population more thoroughly than a small but fragmented one.
+The first is **administrative penetration** — how far the state's machinery reaches from the center down into local life. Tilly's own comparison is decisive here, and it runs *against* the size intuition: the most complete penetration he records belongs to a vast empire, not a small state. "Before quite recently, no European government approached the completeness of articulation from top to bottom achieved by imperial China." Europe's comparatively small states governed *indirectly*, through local power-holders — "junkers, justices of the peace, lords" — and so reached less far into local life than the far larger Chinese empire did. Penetration is a property of centralization and administrative design, not of acreage. A large but deeply centralized state can monitor its population more thoroughly than a small but fragmented one.
 
 The second is **coercive capacity** — the security forces, prisons, and surveillance a state can bring to bear. The third, and in the El Salvador case the crucial one, is the **willingness to deploy that capacity unconstrained by rights** — to arrest without warrant, detain on suspicion, and override due process. The reference account of El Salvador's crackdown names exactly this cluster when it explains the policy's results: effectiveness turned on "specific factors, including the country's geography, demographics, security force capabilities, incarceration rates, and political context." Size (geography, demographics) is one term in that list, not the operative one; capacity and political context — regime type and the readiness to suspend rights — do the work.
 
@@ -7646,6 +7653,7 @@ The combined analysis cuts across the usual framing of the debate. It is neither
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]] - Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association.
 - [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its ultimate, and that every modern war leaves a permanent legacy of increased state burdens on society.
 - [[war-and-state-formation|War and State Formation]] - Tilly's historical-sociological thesis that European war-making, extraction, coercive consolidation, capital
+- [[private-security-and-insurance|Private Security and Insurance]] - the racketeer/protector test applied to non-state suppliers of protection
 
 ## Sources
 
@@ -7909,7 +7917,7 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[stateless-somalia|Stateless Somalia]] - the predatory-state case the means distinction predicts
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]] - Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association.
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
@@ -8347,61 +8355,272 @@ Category: concept
 
 # Private Security and Insurance
 
-> In this wiki's current source set, private security is not treated as an optional supplement to state policing. It is presented as a core institutional alternative to monopoly government. The recurring model is a network of fee-charging defense agencies, arbitration bodies, title and contract services, and insurance companies that coordinate protection without taxation or territorial monopoly.
+> Nothing in the libertarian argument is harder to state convincingly than the claim that protection itself can be bought and sold. Every other service can be imagined on a market; protection seems to be the service that makes markets possible, and therefore to stand outside them. The reply developed here runs from Molinari's 1849 essay to the present: security is not one good but thousands of marginal ones, a monopolist has no way to price any of them, and the institutions that would price them instead — subscription defense firms, arbitrators, and above all insurers — are already visible in embryo. That case is strong on incidence and pricing, weaker on equilibrium structure, and weakest of all on defence against other states. This article makes the argument at full strength and then states what it does not establish.
 
-## The Nineteenth-Century Origin
+## Security as a commodity
 
-The argument that security should be subject to market competition is not a recent libertarian invention. [[the-production-of-security|Gustave de Molinari's 1849 essay]] is its founding text: if free competition serves the consumer's interest for every other commodity, it serves the consumer's interest for security as well. Molinari sketched fee-based subscription firms operating side-by-side, and addressed the standard objections about outlaw firms and the supposed need for unified jurisdiction. The twentieth-century Tannehill, Rothbard, and Hoppe arguments in this wiki are elaborations of his framework, not departures from it.
+The claim that protection should be exposed to competition is not a twentieth-century invention. It was first argued in 1849 by Gustave de Molinari, in the essay published in translation as [[the-production-of-security|The Production of Security]], and his method was deliberately narrow. He did not begin from a moral objection to the state. He began from a proposition every economist of his circle already accepted — that free competition serves the consumer in every trade — and simply refused to grant the one exception everybody made:
 
-## Why the Argument Arises
+> "That no government should have the right to prevent another government from going into competition with it, or to require consumers of security to come exclusively to it for this commodity."
+>
+> — Gustave de Molinari, [[the-production-of-security|The Production of Security]]
 
-The argument begins from the broader libertarian claim that property owners retain ultimate responsibility for defending their persons and possessions. If that is true, then security cannot be conceptually exempt from ordinary market logic. [[hans-hermann-hoppe|Hoppe]]'s property-based works make this point abstractly: owners may contract for protection, but they cannot coherently alienate all final jurisdiction over their property to a monopolistic protector with the power to tax. That is why the current corpus treats the state not as the natural supplier of security, but as a privileged rival to competing suppliers.
+What made the essay explosive was not the conclusion but the observation that nobody had argued for the exception. Molinari noted that the economists who granted it — Charles Dunoyer above all — recorded it without investigating its grounds. That silence is still the shape of the debate. The exception is usually asserted rather than derived, and the burden of this article is to see what happens when it is refused.
 
-## The Basic Institutional Picture
+Molinari's own account of how the monopoly arose is unsentimental, and it is a theory of conquest rather than of consent. Security is among the most urgently needed of goods, and the people who supply it are by definition stronger than the people who need it, so it is the good most easily monopolised. "Every monopoly necessarily rests on force", he wrote, and a monopoly over force rests on itself. From that he drew a consequence that reads oddly against the usual claim that states exist to keep the peace: "War has been the necessary and inevitable consequence of the establishment of a monopoly on security." Monopolists of protection expand their territory because territory is market share. This is the same causal chain that [[war-and-state-formation|war and state formation]] traces from the other direction.
 
-[[the-market-for-liberty|The Market for Liberty]] provides the clearest practical sketch in the current wiki. Private defense agencies sell protection services to customers and survive only if they protect persons and property effectively. They compete rather than coerce, because any agency that tries to compel patronage stops behaving like a market firm and starts behaving like a government. In the Tannehills' model, these agencies focus first on prevention: guards, patrols, alarms, rapid response, investigation, and technical means of discouraging aggression.
+## The problem inside a police budget
 
-## Insurance as the Coordinating Core
+The modern form of the argument is not primarily about conquest. It is about pricing, and it is an application to protection of the [[economic-calculation-problem|calculation problem]].
 
-The most distinctive feature of this model is the role of insurance. Insurance companies do not appear merely as passive reimbursers after harm occurs. They set standards, reward effective precautions, direct clients toward reputable defense agencies, and impose market discipline on agencies that become abusive or unreliable. In the current source set, insurance is the mechanism that ties together protection, contract enforcement, title security, and reputation. It also serves as a check on "outlaw" agencies, because firms that tolerate aggression become costly liabilities in a competitive insurance market.
+[[murray-n-rothbard|Rothbard]] put the first move plainly: the thing a government is supposed to supply does not exist as a single quantity, because "there is no absolute commodity called “police protection” any more than there is an absolute single commodity called “food” or “shelter.”" What exists is an unbounded set of margins — a patrol once a night or twice an hour, a detective or a squad car, fingerprint equipment or an extra officer on foot. Every one of those is a distinct allocation, and every one displaces another.
 
-## Security, Law, and Arbitration
+That is where the difficulty bites. "The point is that the government has no rational way to make these allocations." A police department knows only that its budget is finite; nothing in its revenue tells it whether the last dollar bought more than it cost, because the revenue arrives whether or not it did. [[hans-hermann-hoppe|Hoppe]] develops the same point into a list of questions no monopolist can answer:
 
-Private security in this corpus is not separable from legal order. Arbitration agencies, contract insurance, and title services are part of the same institutional ecology. The point is not merely to hire guards. It is to replace monopoly policing and courts with a larger system of defense, adjudication, restitution, and record-keeping. That is why this topic connects directly to [[market-anarchism-and-private-law|Market Anarchism and Private Law]] rather than standing only as a policing proposal.
+> "Do we need one policeman and one judge, or 100,000 of each? Should they be paid \$100 a month or \$10,000? Should the policemen, however many we might have, spend more time patrolling the streets, chasing robbers, and recovering stolen loot, or spying on participants in victimless crimes such as prostitution, drug use, or smuggling?"
+>
+> — [[hans-hermann-hoppe|Hans-Hermann Hoppe]], [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]]
 
-## Why the Sources Prefer It to State Protection
+These questions have to be answered — scarcity does not wait — and they get answered. Hoppe's charge is about *how*: "The state must answer these questions, too, but whatever it does, it does it without being subject to the profit-and-loss criterion." The answers are therefore arbitrary in the technical sense. They are not random, and they are not necessarily bad; they are simply untested, because no signal returns from the consumer to say whether they were right. What fills the vacuum is the producers' own preferences — the easy assignment over the useful one, the post where authority is pleasant to exercise over the post where it is not.
 
-The current libertarian books make three recurrent claims in favor of private security. First, a tax-funded protector is seen as conceptually contradictory: an agency that violates property in order to defend property. Second, monopoly removes the competitive pressure that would otherwise discipline price and quality. Third, state policing is said to be entangled with victimless-crime enforcement, black markets, and political privilege in ways that distort its protective function. Whether or not one accepts those claims, they are central to how this source set imagines the creation of a non-state security order.
+The same argument identifies a structural conflict of interest that is easy to overlook because it is so familiar. In a monopoly system, disputes between a citizen and the police are adjudicated by an institution that shares an employer with one of the parties: it is "not assigned to an independent third party, but to another policeman or judge who shares employers with one party—the government—in the dispute". Under any other contract that arrangement would be called a defect. Here it is called the justice system.
 
-## The Protective Side of the Private-Law Order
+## Why the minimal state is the unstable position
 
-This concept is narrower than [[market-anarchism-and-private-law|Market Anarchism and Private Law]]. That article covers the whole non-state legal order. This one focuses on the protective side: defense agencies, insurers, and the production of security itself. It is also a concrete example of the more general anti-monopoly reasoning laid out in [[libertarianism|Libertarianism]] and [[state-power-and-intervention|State Power and Intervention]].
+Before the positive case, an intermediate position has to be disposed of, because most people who accept the pricing argument stop there. The classical liberal grants that markets should supply everything except protection, and hands protection to a strictly limited government. Rothbard's objection is that this position is not merely wrong but internally inconsistent — the laissez-faire theorist ends up sanctioning "massive invasion of property by the very agency (government) that is supposed to defend people against invasion!" A government confined to defending property must still seize its revenue by taxation and must still forbid competitors inside a territory it has drawn arbitrarily. Both acts are the very thing it exists to prevent.
+
+Morris and Linda Tannehill, whose [[the-market-for-liberty|The Market for Liberty]] contains the most detailed institutional sketch in the tradition, press the same point against the idea of a purely voluntary government: "An institution cannot at the same time be both coercive and voluntary." Their test is the prohibition of competitors rather than the mode of funding. "Even if it could manage to support itself without taxation, and even if it did not force people to buy its services, it would still have to prohibit competition in its area or it would cease to exist as a government." A grocer who lets you shop elsewhere is a grocer; a grocer who forbids it is something else, whatever he charges.
+
+Hoppe states the disjunction at its sharpest. Either the property rules the classical liberal defends are valid, in which case the monopolist that violates them is not exempt, or aggression is a legitimate basis for enterprise, in which case the rules were never binding on anyone:
+
+> "Either the principles of the natural property theory are valid, in which case the state as a privileged monopolist is immoral, or business built on and around aggression—the use of force and of noncontractual means of acquiring resources—is valid, in which case one must toss out the first theory."
+>
+> — [[hans-hermann-hoppe|Hans-Hermann Hoppe]], [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]]
+
+Whether that disjunction is as clean as Hoppe makes it is exactly what [[minarchism|minarchism]] disputes, and the reply that a minimal state is a lesser evil rather than a contradiction is not answered by the argument above. What the argument does establish is that the minimal-state position owes an account of why the exception holds. Molinari's complaint was that his own contemporaries never gave one; the later literature does give two — a natural-monopoly argument and a public-goods argument — and both are taken up below.
+
+There is also a reason the state will not permit the experiment, which Hoppe states without moralism. A protection agency is by construction an armed organisation, and therefore "would constitute a potential threat to a state’s ongoing policy of invading private people’s property rights." Monopolising protection is not incidental to statehood; it is the precondition of everything else a state does. It is also, on his account, why states are so intent on outlawing or controlling private possession of arms, and part of why the historical record of competitive protection is so thin: the experiment is suppressed, not merely untried.
+
+## What the firms would actually sell
+
+Rothbard is careful that no one can specify the industry in advance — the exact structure of a market is discoverable only by running it. But the general shape follows from how the service is paid for. "Most likely, such services would be sold on an advance subscription basis, with premiums paid regularly and services to be supplied on call." Note what the subscription form does: it converts protection from a lump into a priced flow, and it makes the supplier's revenue depend on renewal.
+
+The Tannehills work out the consequence in detail, and their central observation is about the *direction of effort*. "Since the main aim of defense service companies would be to protect their customers, their primary focus would be on preventing aggression." Their catalogue is prosaic — guards at premises, patrols on privately owned streets, alarms wired to a monitoring office, roving cars, personal alarm devices, competition to build better protective equipment than rivals — and all three writers observe that the market already supplies part of it. Friedman: "Protection from coercion is an economic good. It is presently sold in a variety of forms—Brinks guards, locks, burglar alarms." Hoppe notes that in many countries "there are various private security producers alongside the state: private investigators, insurance detectives, and private arbitrators". Rothbard puts a figure on it, from the President's Commission on Law Enforcement and the Administration of Justice: on its 1969 estimate, "private protection expenses amounted to over half the outlay on government police". What none of them can point to is the distinctive claim — insurers setting standards for defense agencies and withdrawing from abusive ones. Behind the catalogue is an incentive claim:
+
+> "For a private enterprise defense agency, prevention of aggression would be a profitable business, whereas punishment of aggressors in jails, government-style, would be a losing proposition."
+>
+> — Morris and Linda Tannehill, [[the-market-for-liberty|The Market for Liberty]]
+
+The claim is about revenue rather than motive: a firm paid to keep its client unharmed earns nothing from a supply of criminals, whereas a bureau paid to apprehend and punish has no revenue incentive to eliminate its supply of cases — which is why the Tannehills say the police "can hardly be expected to be too eager to get rid of the high crime rate and overflowing jails". [[david-friedman|David Friedman]] makes the same point without the moral framing, and with a warning against over-specifying: "How might such protection agencies protect? That would be an economic decision, depending on the costs and effectiveness of different alternatives." An agency might invest entirely in locks and alarms, or entirely in pursuit after the fact, or anywhere between; which it does is not something the theory predicts, and the theory is not damaged either way.
+
+Rothbard adds the observation that the shift from punishment to recovery is already visible wherever the incentive already exists. Insurance detectives, who work for a firm that must pay the claim, orient themselves differently from police: "To the insurance company and its detectives, on the other hand, the prime concern is recovery of the loot, and apprehension and punishment of the criminal is secondary to the prime purpose of aiding the victim of crime." That is the practical face of the shift toward [[restitution-and-proportional-punishment|restitution]] that the tradition argues for on ethical grounds — here it appears not as a moral preference but as what a payer of claims wants anyway.
+
+Both writers also expect diversification rather than a single product. Hoppe: "Instead of offering a uniform “security packet” to everyone, a characteristic of state production policy, a multitude of service packages would appear on the market." That is the direct answer to the pricing problem — not that a market computes the right answer, but that it produces many different answers and lets the ones nobody will pay for die.
+
+## Insurance as the load-bearing institution
+
+Everything above could be said of any competitive service. What makes the security argument distinctive is the claim that insurance, not the defense agency, is the institution that holds the order together. This is the part of the model that is most often skipped and most heavily loaded, and it does four separate jobs.
+
+**It prices the risk.** Rothbard's clearest statement of it appears, oddly, in the middle of an argument about taxation: "It is very likely that, in the purely free market, police and judicial services would be sold like insurance, with each member paying regular premiums in return for a call on the benefits of protection when needed." The premium is the number the monopolist could not compute. It varies by neighbourhood, by trade, by the precautions taken, by the value at stake — and the variation is not a defect but the whole point, since a uniform charge would over-supply protection where it is cheap and under-supply it where it is dear. A separate observation of Rothbard's is often mistaken for a prediction about premiums and is not one. Arguing against benefit-principle taxation, he points out that it costs less to police a bank vault than to guard a hundred acres of cheap land, so that on a strict benefit accounting a rich man would pay less than a poor one — which he offers as a reductio of the benefit principle, not as a description of what a market would charge. What a market would charge tracks risk; whether risk correlates with poverty is a further empirical question these texts do not settle. Whether that distribution is acceptable is the ability-to-pay objection, taken up below.
+
+**It writes the standards.** An insurer that pays for losses has a direct interest in how its clients protect themselves, and the Tannehills expect policies to specify required measures — an alarm wired to a defense agency's office, for instance — as a condition of the lowest rate. More consequentially, the insurer polices the protector:
+
+> "Policies would also state that the insured must buy his protection from a defense agency which met the standards of the insurance company, to avoid having him hire an inefficient or fly-by-night defense agency at a cheap price while counting on his insurance to make up for any loss which their ineffectiveness caused him."
+>
+> — Morris and Linda Tannehill, [[the-market-for-liberty|The Market for Liberty]]
+
+The requirement is a term of the policy rather than a discount condition — the insured *must* use an approved agency. This is private regulation with an enforcement mechanism attached, arising from the insurer's own exposure rather than from a statute. It is the closest thing in the model to a licensing authority, and it is still not one: it cannot stop anyone from buying bad protection, only from doing so and staying insured.
+
+**It aligns the incentive with prevention.** Because losses are the insurer's cost, the insurer wants fewer of them. Rothbard expects this to run all the way to vertical integration: "It seems likely, also, that supplies of police and judicial service would be provided by insurance companies, because it would be to their direct advantage to reduce the amount of crime as much as possible." The Tannehills expect the same, either through insurer-owned agencies or through standing relationships with independent ones.
+
+**It disciplines an abusive protector.** This is the load-bearing claim, and the model largely stands or falls on it. The argument is that an aggressor is expensive to everyone who touches him: "An unrestrained aggressor is a walking liability, and no insurance company, however remotely removed from his original aggression, would wish to sustain the risk that he might aggress against one of its own clients next." The sanction is not force but withdrawal:
+
+> "Insurance companies, without any resort to physical force, could be a very effective factor in bringing an unruly defense agency to its knees via boycott and business ostracism."
+>
+> — Morris and Linda Tannehill, [[the-market-for-liberty|The Market for Liberty]]
+
+The mechanism is second-order and that is its supposed strength: insurers refuse to cover not only the offending agency but anyone who deals with it, so that "it would be difficult, indeed, for any defense company to survive if the major insurance companies refused to sell insurance not only to it, but to anyone who dealt with it." An agency that responded with threats would only widen the circle of people trying to stay clear of it. Hoppe adopts the mechanism in his own words before reproducing the Tannehills' statement of it at length: "Naturally, insurance companies would assume a particularly important role in checking the emergence of outlaw companies." It is a rare case of the tradition's abstract and practical wings converging on one institution.
+
+Whether that mechanism actually bears the weight is the subject of the strongest objection in the literature, and it is taken up below.
+
+## Keeping conflict off the battlefield
+
+The oldest objection to competing protectors is that they will fight. It was made against Molinari immediately, and Rothbard's account of the 1849 reception distinguishes carefully between the two kinds of answer it drew. Charles Coquelin and Bastiat both replied that justice and security require a supreme authority, and did no more: "Neither commentator bothered to engage in a critique of Molinari's arguments." Dunoyer alone did — complaining that Molinari had been carried away by the "illusions of logic", and holding that competition among governmental companies was illusory because it would end in violent battles. The tradition's answer has four distinct parts, and they are worth separating, because they are not equally strong.
+
+**Wars are unprofitable.** This is Molinari's answer and Friedman's. Molinari: "Under the rule of free competition, war between the producers of security entirely loses its justification. Why would they make war? To conquer consumers? But the consumers would not allow themselves to be conquered." Friedman restages it as the most-quoted scene in the literature. My television set is stolen; my agency, Tannahelp, traces it to one Joe Bock, who turns out to be a client of Dawn Defense; six large Tannahelp employees are due at Joe's door in the morning, and eight Dawn employees are due to meet them. Then the arithmetic intrudes:
+
+> "But wars are very expensive, and Tannahelp and Dawn Defense are both profit-making corporations, more interested in saving money than face."
+>
+> — [[david-friedman|David Friedman]], [[the-machinery-of-freedom|The Machinery of Freedom]]
+
+The agents settle it by arbitration, because fighting would raise both firms' costs and hand their customers to a cheaper competitor. Friedman is explicit that the scene as told is a "very makeshift arrangement", and that the real institution is prior contract: "In practice, once anarcho-capitalist institutions were well established, protection agencies would anticipate such difficulties and arrange contracts in advance, before specific conflicts occurred, specifying the arbitrator who would settle them." The dispute-resolution machinery is agreed while nobody knows who will need it — which is also why it can be expected to be even-handed: neither firm knows which side of the next dispute it will be on.
+
+**Client exit is immediate economic pressure.** Hoppe's version is sharper than the profit argument, because it does not depend on managers being calculating — though note that what he claims is pressure, not a veto:
+
+> "Under a competitive system with each company dependent on the continuation of voluntary consumer payments, any battle would have to be deliberately supported by each and every client of both companies. If there were only one person who withdrew his payments because he was not convinced a battle was necessary in the particular conflict at hand, there would be immediate economic pressure on the company to look for a peaceful solution to the conflict."
+>
+> — [[hans-hermann-hoppe|Hans-Hermann Hoppe]], [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]]
+
+The contrast the argument actually rests on is narrower than it is usually made to sound. It is not that a state's subjects are trapped; it is that a firm's revenue is "dependent on the continuation of voluntary consumer payments" and a tax-funded body's is not, so a decision to fight has to be re-approved by the people paying for it, continuously, in a way a tax-financed one does not. The mechanism generalises: Hoppe argues that the same pressure runs through to the arbitrators, who depend on continued selection by both firms and therefore have to produce rulings the clients of both can live with, which is how a body of inter-agency law would converge without anyone legislating it.
+
+**There is a procedural cutoff without a supreme court.** The objection that someone must have the last word is met by Rothbard with a rule rather than an institution. A defendant who rejects his accuser's court may appeal to his own, or to one of the appeals courts that would arise to serve exactly this need; and the code can specify that the concurrence of any two courts is binding, since there are always exactly two parties. Rothbard's point is that a cutoff is genuinely necessary and a *monopoly* cutoff is not — the world already runs this way between jurisdictions, and Rothbard's own example is that an Argentine and a Uruguayan settle disputes through each other's courts without a common sovereign above them.
+
+**Adjudication competed before.** Rothbard's historical claim is that this is not speculative: "The law merchant, admiralty law, and much of the common law began to be developed by privately competitive judges, who were sought out by litigants for their expertise in understanding the legal areas involved." The fairs of Champagne and the medieval trading marts had competing courts, and merchants chose among them. The detailed treatment of what such a legal order looks like belongs to [[market-anarchism-and-private-law|Market Anarchism and Private Law]]; what matters here is that protection and adjudication are sold as a bundle, and an agency's choice of courts is part of the product its clients buy.
+
+## What checks the protector
+
+The question that survives every version of the argument is the old one: who guards the guards. The tradition offers four checks, and they are worth stating separately because they fail in different ways.
+
+**Exit.** Friedman's formulation is the crispest thing in the literature on the difference between a firm and a sovereign: "This is a fine description of governments, but protection agencies are not territorial sovereigns. An agency which settles its disputes on the battlefield has already lost, however many battles it wins." His compressed statement of the whole position — "We can change protectors without changing countries" — is what separates the model from [[jurisdictional-competition|jurisdictional competition]] between states, where changing protectors means moving house.
+
+**Liability without immunity.** In the model, an agent who commits an aggression is personally liable, and so is the manager who ordered it. Friedman's contrast with the status quo is concrete and does not depend on any anarchist premise: "In order to sue a policeman for false arrest I must prove not merely that I was innocent but that the policeman had no reason to suspect me." A private agency, on his account, has "no rights which individuals do not have" and therefore "cannot engage in legitimized coercion" — mistakes still occur, but they are torts rather than exercises of authority. The Tannehills draw the employment consequence: a firm that cannot indemnify its employees against retaliation cannot get employees to commit aggressions for it, and a job with no legal immunity attached does not attract the people a job with immunity attracts.
+
+**Insurance ostracism.** The mechanism set out above.
+
+**Number.** Friedman's least-noticed check may be the most important: the whole model is a function of how many agencies there are. "If there are only two or three agencies in the entire area now covered by the United States, a conspiracy among them may be practical. If there are 10,000, then when any group of them start acting like a government, their customers will hire someone else to protect them against their protectors." He guesses the efficient number is nearer ten thousand than three, on the ground that present police forces serving a million people are already far above optimum size — but he presents it as a guess, and the model's stability rides on it.
+
+Rothbard's summary concedes more than is usually noticed. He does not claim that private agencies would be honest. "Of course, some of the private defense agencies will become criminal, just as some people become criminal now." The claim is structural: that in a stateless order there is "no regular, legalized channel for crime and aggression, no government apparatus the control of which provides a secure monopoly for invasion of person and property", so that a would-be tyrant must build his instrument from nothing rather than capture one already built. And he states the residual honestly: "It is true that there can be no absolute guarantee that a purely market society would not fall prey to organized criminality." Friedman ends in the same register — "My conclusion is one of guarded optimism" — and Rothbard is explicit that the comparison he is making is with the historical record of limited government, "an idea that has never worked historically", rather than with an ideal.
+
+## Justice for those who cannot pay
+
+The objection raised first in most conversations is distributive: premiums track risk, the people at highest risk are often those least able to pay, and a market in protection therefore buys safety for those who already have it. The tradition concedes the mechanism without hesitation. Rothbard expects that "a more risky individual (such as one living in a crime area) would tend to pay a higher premium than individuals in another area", and treats the alternative as the defect: a uniform charge — his case is an equal tax — sits below the market price where crime is high and above it where crime is low, so "there would therefore be a shortage of police protection in the dangerous areas and a surplus of protection in the others". What the texts establish is only that higher-risk customers would pay more. How risk maps onto income they do not say, and the benefit-principle argument discussed earlier is a reductio of a tax rule rather than evidence about market prices.
+
+Three replies appear in the texts, and they are of unequal weight.
+
+The first is about the baseline rather than the model. A tax-funded force also distributes protection unequally — the difference is that the allocation is invisible, unpriced, and cannot be refused. That is a fair observation about the comparison and not an answer to the objection.
+
+The second is the Tannehills' provision for the uninsured, which is more concrete: "Even if a man had no coercion insurance and no contractual arrangement with any defense company, if he were attacked by a thug he would be helped by any nearby defense company agent and billed later." Their analogy is emergency medical care, which is candid about the limit — the bill still arrives, and the analogy points at a service whose affordability is a live problem in every country that provides it.
+
+The third is the general claim that competition drives price toward cost: "Companies competing in a free market would be forced to produce at the lowest feasible cost—i.e., they would keep their prices at market level—or their competitors would run them out of business." Cheaper protection helps the poor more than the rich, but this is an argument about the level of prices, not about the people who cannot meet any price.
+
+None of the three establishes that everyone would be protected. The narrower thing they do establish holds only for protection actually contracted for: that it would be priced, visible and switchable rather than allocated by a bureau the buyer cannot leave. The emergency provision is expressly not of that kind — a man helped and billed afterwards chose neither his protector nor his price. Whether the arrangement as a whole is preferable to a tax-funded force that under-serves him is an empirical question the tradition asserts rather than settles.
+
+## The strongest objection: Nozick's dominant agency
+
+The most serious argument against the model was made by someone sympathetic to much of it. [[robert-nozick|Robert Nozick]], in [[anarchy-state-and-utopia|Anarchy, State, and Utopia]], argues that a market in protection does not stay plural in the way the anarchist case needs — that competing agencies converge, by an invisible-hand process rather than by conquest, either on one dominant firm, on territorial division, or on a single shared adjudicative system.
+
+His question is precise: "Why is this market different from all other markets? Why would a virtual monopoly arise in this market without the government intervention that elsewhere creates and maintains it?" His answer is that protection is a *positional* good in a way bread is not:
+
+> "The worth of the product purchased, protection against others, is relative: it depends upon how strong the others are."
+>
+> — [[robert-nozick|Robert Nozick]], [[anarchy-state-and-utopia|Anarchy, State, and Utopia]]
+
+From that, two consequences. First, "the nature of the service brings different agencies not only into competition for customers’ patronage, but also into violent conflict with each other" — the competition is not merely for custom, since when two agencies reach different verdicts about the same case, one is trying to punish the man the other is trying to protect. Second, and more damaging, the market will not settle into diversity, because "since the worth of the less than maximal product declines disproportionately with the number who purchase the maximal product, customers will not stably settle for the lesser good, and competing companies are caught in a declining spiral". Buying the second-best protection is not like buying the second-best car; it is buying the losing side.
+
+Nozick then enumerates the exits. Either one agency wins the battles and the losers' clients defect to it; or the agencies separate geographically and each dominates its region; or they stop fighting and agree on standing arbitration — in which case, he observes, they have built "one unified federal judicial system of which they all are components". Every branch ends the same way: almost everyone in a territory is under a common system that judges between their claims, and "there arises something very much resembling a minimal state or a group of geographically distinct minimal states."
+
+He also lands the sharpest blow on the insurance mechanism specifically. Confronted with an agency that has turned predatory, he grants that others might combine against it and that people might boycott its clients — and then observes that this "boycott will seem an effective tool only on very optimistic assumptions about what cannot be kept secret, and about the costs to an individual of partial boycott as compared to the benefits of receiving the more extensive coverage offered by an “outlaw” agency". This is a direct hit on the Tannehills. Their argument assumes both that aggression becomes public knowledge and that the ostracism cost exceeds the value of superior protection. If an outlaw agency is genuinely better at protecting its own clients, some clients will pay the social price and buy it — which is, as far as it goes, an accurate description of how protection rackets recruit.
+
+The replies the tradition offers are real but partial, and none of the texts cited here was written as an answer to Nozick. Rothbard denies the territorial premise: because no firm holds a territorial monopoly, an efficient competitor can open branches wherever a local firm gets comfortable, so local dominance need not be durable. Friedman denies that battlefield victory is commercially survivable at all, and points out that Nozick's spiral assumes clients evaluate agencies by military strength rather than by price and service. Hoppe's pressure argument bites at the moment the spiral would begin, when a firm must fund a fight from subscriptions any client can stop. And the one branch Nozick treats as the peaceful outcome — standing arbitration agreements between agencies — is precisely what Friedman and Hoppe describe as the *normal* institution, not a degeneration. Whether a network of firms bound by advance arbitration contracts is "very much resembling a minimal state" or is simply what a legal order looks like without one is partly a dispute about words and partly a real dispute about whether such a network acquires the two features that make a state a state: compulsory funding, and a prohibition on exit. The argument is set out at survey level in [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]].
+
+What should be conceded is that Nozick and the anarchists are arguing about different things. Nozick argues about equilibrium structure — where the market tends. The replies argue about incentives at the margin — what each firm has reason to do next. Both can be right, and the honest reading is that nobody has shown the market for protection has a stable competitive equilibrium.
+
+## The hard problem: defence against states
+
+The weakest point in the case is not identified by its critics. It is conceded by its most rigorous advocate.
+
+Friedman devotes a chapter to national defence and titles it a hard problem, because he thinks it genuinely is one. The evasion he refuses is the claim that an anarchist society needs no national defence because it is not a nation: "Unfortunately, there will still be nations to defend against, unless we postpone the abolition of our government until anarchy is universal." Nor can defence be retailed village by village, because an invader with sufficient force simply informs each unit that resistance means destruction. His conclusion is unambiguous, and it uses the term the tradition normally spends its time disputing:
+
+> "So national defense—defense against nations—must defend areas of national size, whether or not they contain nations. It is thus a public good, and one with a very large public."
+>
+> — [[david-friedman|David Friedman]], [[the-machinery-of-freedom|The Machinery of Freedom]]
+
+This matters because it is a genuine disagreement inside the tradition, not a critic's objection. Friedman examines the Tannehills' proposal — insurers would cover clients against injury by foreign states and fund the defence out of the losses thereby avoided — and shows it cannot survive competition. "Such an insurance company, in order to pay the cost of defense, would have to charge rates substantially higher than the real risk justified, given the existence of its defense system." Since everyone in the defended territory is defended whether insured or not, the cheapest policy is one from an insurer that pays nothing toward defence, and so "the national defense insurance company would lose all its customers and go bankrupt". He applies the identical argument to Ayn Rand's proposal of funding a minimal state through court fees: a government that must load its fees to cover defence is undercut by private courts, unless it forbids them — at which point it is a coercive monopoly again.
+
+Friedman canvasses partial answers — permanently endowed local defence organisations, funding from the capital windfall insurers would receive once risk fell, selling separable components of defence to those who can be excluded from them — and does not claim any of them works. The honest position is that the public-goods argument, which the tradition dismantles convincingly for policing and adjudication (see [[market-failure-and-public-goods|Market Failure and Public Goods]]), has not been dismantled for defence against organised states. Rothbard's route, taken in [[rothbard-on-war-and-the-state|Rothbard on War and the State]], is to attack the demand rather than the supply — to argue that most of what states defend against is generated by states — but that is a different argument, and it does not tell a stateless society what to do about a neighbour that is not stateless.
+
+## What the record shows
+
+Three kinds of evidence bear on the question, and none of them is decisive.
+
+**Historical competition in adjudication.** The strongest evidence is the one already cited: the merchant law, admiralty law and much of the common law were developed by judges chosen by litigants rather than imposed on them. Hoppe extends the claim to competing courts in early Ireland and the Hanseatic League and to private police in the American West — and then, unusually, undercuts his own evidence in the next sentence: "However, this historical evidence is very much subject to dispute, in particular regarding whether any general information can be derived from it." That caution should be honoured. These were not stateless societies; they were societies in which one function was competitive.
+
+**A legal order that ran entirely on private enforcement.** Friedman's own historical case is medieval Iceland, which he offers as the closest thing to the model that the record contains: "the medieval Icelandic legal system comes closer than any other well-recorded historical society that I know of to being a real-world example of the sort of anarcho-capitalist system described in Part III". Its interest here is that it answers the objection about relative strength with an institution rather than an argument. "In medieval Iceland all law was civil. The victim was responsible for enforcing his claim, individually or with the assistance of others." The obvious failure mode is that a powerful man can ignore a weak man's claim, and the Icelandic answer was to make the claim itself tradeable: "A claim for damages was a piece of transferable property. If you had injured me and I was too weak to enforce my claim, I could sell or give it to someone stronger." The buyer then had his own reasons to press it, "in order both to collect the damages and to establish his own reputation for use in future conflicts". The victim gives up part or all of the damages and gets the thing he wants more, which is the demonstration that injuring him is expensive.
+
+The case has to be cited with its ending. "The Icelandic system finally collapsed in the thirteenth century, more than three hundred years after it was established." Friedman is careful about the scale of the violence that preceded it — by one scholar's body count, about one death per ten thousand per year over fifty years, which he compares to a modern highway death rate — and careful that the cause is unsettled: "It is not clear what the reason for the breakdown was. One possibility is that increasing concentration of wealth and power made the system less stable." If that first possibility is the right one, it is Nozick's mechanism showing up in a historical case rather than in a thought experiment — but Friedman does not claim it is, and neither should anyone citing him. What is not conjectural is that a treatise citing Iceland for the three centuries and not for the thirteenth would be doing the selective thing this article is trying not to do.
+
+**Contemporary statelessness.** Peter Leeson's study of Somalia after 1991 is the most-cited empirical case, and its finding is narrower than it is usually reported to be. Leeson leads with the qualification, not the headline: "The data suggest that while the state of this development remains low, on nearly all of 18 key indicators that allow pre- and post-stateless welfare comparisons, Somalis are better off under anarchy than they were under government." The security order that emerged is genuinely non-state — "law and order is provided privately by xeer, Somali customary law, which establishes rules regarding marriage, war, resource use, and social contracts between clans", with courts "funded by the donations of successful businessmen who benefit from the presence of this public good in urban centers", and protection sold by militias to businesses, ports and trade convoys. But it is not the model described above. It is clan-based rather than contractual, and Leeson's own qualification is blunt: "The justice system is still subject to abuse and the climate in a number of areas remained insecure even before the renewed conflict in late 2006." The comparison that yields the favourable verdict is with the Barre regime, a predatory state — which is exactly the comparison Rothbard says is the right one, and also a reminder that clearing that bar is not the same as clearing a Swiss one. The fuller treatment is in [[stateless-somalia|Stateless Somalia]].
+
+**Enforcement without violence, in the digital case.** The clearest modern demonstration that contracts can be enforced where courts are unavailable by construction is the darknet marketplace. Nicolas Christin's measurement study of [[silk-road|Silk Road]] documents the mechanism precisely: buyers paid the market rather than the seller, and "the escrow mechanism allows the market operator to accurately compute their commission fees, and to resolve disputes between sellers and buyers." Participation was not optional — the market "mandates all sellers and buyers use the escrow system", and "failure to do so is punishable by expulsion from the marketplace". Payment was released only on the buyer's confirmation, and reputation was carried by mandatory per-item feedback, which buyers defended so vigorously that the operators reversed a change that had degraded it. Every element of enforcement here is non-violent: escrow, reputation, and exclusion. The case is instructive in both directions, though. It shows that a market can produce enforcement institutions where the state offers none — and it shows them concentrating in a single trusted intermediary that made escrow compulsory. That is not evidence for Nozick's particular mechanism, which runs through relative strength and violent conflict rather than through convenience; and it is evidence about one platform's internal rules rather than about how many providers a market would sustain. What it does show is that a private order can choose centralised enforcement when centralisation is convenient.
+
+## The counterexample the model has to survive
+
+The theory's real test is not a hypothetical but an actual one: non-state protection suppliers exist, they arise exactly where the state has left a vacuum, and some of them are extremely violent.
+
+Brazil's Primeiro Comando da Capital is the cleanest case, because its origin story is almost a parody of the model. On the tertiary account available here, it "first appeared as an entity capable of maintaining order in the lawless Brazilian prison system, providing protection to prisoners, imposing rules and punishing crimes such as rapes, murders and extortions, as well as seeking a peaceful resolution to conflicts between inmates", funded by a monthly membership fee. It expanded from the prisons into neighbourhoods as a supplier of order and a resolver of conflicts. It runs "crime courts" that judge members who break its rules, with sentences running from beatings to summary executions. It prefers negotiation to turf war, on the reasoning that violence draws the state's attention — and on this account researchers see its dominance as one of the reasons behind the sharp fall in the state of São Paulo's homicide rate since the 2000s. A supplier of protection and adjudication that is not the state, charging a recurring fee, and credited with part of a fall in killings, has the outward shape the model predicts. It is also an extortion racket that took part in the murder of a judge, planned attacks on senior officials, and runs on drug revenue. And what it charges is described as a fee levied on members, not a price paid by customers: whether anyone was free to decline it, or to buy protection elsewhere, is not something this account establishes in either direction — which is precisely the fact the model needs and does not have.
+
+The right instrument for reading this case comes from outside the tradition. [[charles-tilly|Charles Tilly]] — no libertarian — supplies the distinction the argument needs:
+
+> "Someone who produces both the danger and, at a price, the shield against it is a racketeer. Someone who provides a needed shield but has little control over the danger's appearance qualifies as a legitimate protector, especially if his price is no higher than his competitors'."
+>
+> — [[charles-tilly|Charles Tilly]], [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]]
+
+Two tests, and neither of them is "public or private". Does the supplier control the danger it charges you to avoid? And is its price disciplined by competitors you are free to reach? Tilly applies it to states and reaches the libertarian conclusion from outside the tradition, calling war making and state making "quintessential protection rackets with the advantage of legitimacy". He is careful about the status of that claim in a way his libertarian citers often are not: his essay, he says, offers "tentative arguments" illustrating an analogy, and "brings with it few illustrations and no evidence worthy of the name." The two-part test survives that caution better than the analogy does, because a test can be applied to cases whether or not the analogy is proven. The wider argument is developed in [[tilly-on-protection-rackets|Tilly on Protection Rackets]].
+
+Applied to the PCC, both tests point the wrong way — as strong indications rather than as proof, since a tertiary account can carry only so much. On the first, protection rackets are listed among the organisation's own activities, and the violence its protection is worth having against is substantially the violence of the trade it runs; what the source does not establish is that the particular fee insures against dangers the PCC itself creates. On the second, it holds "a monopoly on violence and discipline" over its territory, its rivals are other gangs, and non-compliance is judged in its own courts, which leaves very little room for a client to take his custom elsewhere. What the case demonstrates is not that private protection collapses into racketeering, but something narrower and more useful: that the properties the model depends on — no control over the threat, and real exit — are *not* supplied by privateness. They are supplied by competition and by the absence of a captive clientele, and an organisation can lose them without ever becoming a state. This is the same structural point [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] makes from the state's side.
+
+The theory has an answer to this, and it is not an evasion: the conditions that produced the PCC — prohibition, a captive population inside state prisons, and an enormous illegal market — are the same conditions the Tannehills identify as the source of organized crime in the first place. Their argument is that a criminal gang large enough to field a defense agency needs a black market to fund it, and that black markets are created by prohibition. That reply is coherent, and it is not testable in São Paulo. It does mean the model's advocates should say plainly what they are claiming: not that private protection cannot become a racket, but that removing prohibition removes the revenue that makes rackets large.
+
+## What the argument establishes, and what it does not
+
+The case for market-produced security is strongest exactly where it is least discussed. The pricing argument is close to conclusive: a monopolist financed by taxation has no way to know whether it is supplying too much protection or too little, or of what kind, or where, and the answers it gives are untested by anything. The incidence argument is likewise strong: a supplier paid by the protected has different interests from one paid by the general fund, and the shift from punishment toward prevention and recovery follows from who writes the cheque. Parts of the institutional sketch were already observable when it was written: the writers themselves point to guards, locks, alarms, private detectives and private arbitrators sold alongside state policing, and Rothbard cites a 1969 estimate putting private protection spending at over half the government outlay. What none of them exhibits is the part that carries the argument's weight — insurers setting standards for protectors and withdrawing from abusive ones.
+
+The case is weaker on four points, and the weaknesses are structural rather than presentational.
+
+Nozick's argument that protection is a positional good with no stable competitive equilibrium has not been answered — only met by counter-considerations about incentives that do not address the equilibrium claim. Friedman's admission that defence against states is, "in the present state of military technology", a public good with a very large public has not been repaired: he shows that the insurance route to funding it fails to a free-rider problem, and of the alternatives he canvasses none is shown to work. That is a claim about what has been demonstrated, not an impossibility proof — his own formulation is that it is "not obvious how" the thing could be financed without coercion. The enforcement mechanism the whole order rests on — insurers boycotting an abusive protector — depends on assumptions about publicity and about the relative value of superior protection that Nozick was right to call optimistic, and that the behaviour of actual non-state protection suppliers does not support. And the distributive question is answered by comparison rather than by mechanism: the tradition shows that state protection is also unequally distributed, but not that a priced one would reach those who cannot pay.
+
+What survives is a strong negative result and a weaker positive one. Negatively: the exemption of security from the ordinary economics of monopoly is not self-evident, and for most of the tradition's history it was assumed rather than argued. The two arguments later offered for it — Nozick's positional-good case and the public-goods case for defence against states — are live and unrefuted, but each rests on a specific feature of protection, and neither licenses the general exception the minimal-state position takes for granted. Positively: a competitive order in protection is *conceivable*, its mechanisms are specifiable, and pieces of it are observable — but whether it is stable is an open empirical question on which the available evidence is thin, disputed by the people who cite it, and drawn mostly from societies that were not stateless.
 
 ## See Also
 
-- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - wider non-state legal and institutional framework
-- [[state-power-and-intervention|State Power and Intervention]] - critique of monopoly protection and tax-funded security
-- [[libertarianism|Libertarianism]] - broader doctrine from which the security argument emerges
-- [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - property theorist whose work helps ground the competitive-security argument
-- [[murray-n-rothbard|Murray N. Rothbard]] - central author node for the current corpus
-- [[for-a-new-liberty|For a New Liberty]] - Rothbard's movement-level overview of the same direction
-- [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
-- [[the-market-for-liberty|The Market for Liberty]] - related work in this corpus
-- [[the-production-of-security|The Production of Security]] - Molinari's 1849 essay; founding text of the private-security argument
-- [[jurisdictional-competition|Jurisdictional Competition]] - the Sovereign Individual's proliferating jurisdictions and *sovereignty services* as a market for protection
-- [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
-- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
-- [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - Rothbard's libertarian theory of justice: crime is an invasion of a victim's rights, the criminal forfeits his own rights only to the same extent
-- [[factual-potential-of-harm|The Factual Potential of Harm]] - the standard defence agencies would apply to judge legitimate force
-- [[restitution-without-punishment|Restitution Without Punishment]] - what enforcement aims at when confinement is execution of a debt rather than a penalty
+- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - the wider non-state legal order this article's protective side sits inside
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - the objections at survey level, including the ones this article treats at mechanism level
+- [[does-private-property-require-the-state|Does Private Property Require the State?]] - the prior question of whether property rights need a monopoly enforcer at all
+- [[minarchism|Minarchism]] - the position that the exception for protection does hold, and the state should be cut to it
+- [[market-failure-and-public-goods|Market Failure and Public Goods]] - the public-goods argument that defence is the hardest case for
+- [[restitution-and-proportional-punishment|Restitution and Proportional Punishment]] - what a victim-funded enforcement system aims at instead of punishment
+- [[restitution-without-punishment|Restitution Without Punishment]] - confinement as execution of a debt rather than a penalty
+- [[factual-potential-of-harm|The Factual Potential of Harm]] - the standard a defence agency would apply in judging legitimate force
+- [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - the racketeer/protector test this article uses to sort defence agencies from gangs
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - the same structural point approached from the state's side
+- [[stateless-somalia|Stateless Somalia]] - the fullest treatment of the empirical case cited here
+- [[silk-road|Silk Road]] - escrow, reputation and expulsion as non-violent enforcement where courts were unavailable by design
+- [[jurisdictional-competition|Jurisdictional Competition]] - competition between territorial protectors, which requires moving rather than switching
+- [[state-power-and-intervention|State Power and Intervention]] - the critique of monopoly protection and tax-funded security
+- [[war-and-state-formation|War and State Formation]] - Molinari's claim that a monopoly on security produces war, traced from the other direction
+- [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - the attack on the demand for national defence rather than its supply
+- [[economic-calculation-problem|Economic Calculation Problem]] - the general result this article applies to a police budget
+- [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the premise from which the right to hire a defender is derived
+- [[libertarianism|Libertarianism]] - the broader doctrine from which the security argument emerges
+- [[murray-n-rothbard|Murray N. Rothbard]] - the pricing and no-monopoly-cutoff arguments
+- [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - the calculation and client-veto arguments
+- [[david-friedman|David Friedman]] - the consequentialist version, and the national-defence concession
+- [[robert-nozick|Robert Nozick]] - the dominant-protective-agency objection
+- [[charles-tilly|Charles Tilly]] - the racketeer/protector distinction
+- [[the-production-of-security|The Production of Security]] - Molinari's 1849 founding statement
+- [[the-market-for-liberty|The Market for Liberty]] - the fullest institutional sketch, and the insurance mechanism
+- [[power-and-market|Power and Market]] - Ch. 1, "Defense Services on the Free Market"
+- [[for-a-new-liberty|For a New Liberty]] - Ch. 12 on police, law and the courts
+- [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - Ch. 1 on the public-goods theory and the production of security
+- [[a-theory-of-socialism-and-capitalism|A Theory of Socialism and Capitalism]] - why a state cannot tolerate a private protection agency
+- [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] - the invisible-hand route from protective agencies to a minimal state
+- [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] - states as protection rackets with the advantage of legitimacy
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - the source of the arbitration mechanism, the checks on a protector, and the national-defence concession
 
 ## Sources
 
-- [The Market for Liberty (Full Text Aggregate)](https://cdn.mises.org/the_market_for_liberty_2.epub) - most detailed account of defense agencies, policing functions, and the role of insurance
-- [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - theoretical case for competitive security production and insurance-based discipline
-- [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - property-theoretic route from ownership to private police and courts
-- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - Rothbard's broader political framing for non-state protection
-- [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - Molinari's 1849 founding statement of the private-security thesis
+- [The Production of Security (Full Text Aggregate)](https://cdn.mises.org/The%20Production%20of%20Security_3.pdf) - Molinari's 1849 essay in McCulloch's translation: the refusal of the exception, monopoly resting on force, the war/monopoly link, the buyer's three checks on a prospective protector, and the "Why would they make war?" argument. Rothbard's 1977 preface supplies the Dunoyer, Coquelin and Bastiat objections.
+- [The Market for Liberty (Full Text Aggregate)](https://cdn.mises.org/the_market_for_liberty_2.epub) - Ch. 8 for the coercive/voluntary argument against a "voluntary government", the prevention-first catalogue of services, and the four functions of insurance; Ch. 11 for business ostracism, the Mafia-defense-company argument, and the would-be tyrant.
+- [Power and Market: Government and the Economy (Full Text Aggregate)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - Ch. 1, "Defense Services on the Free Market": the contradiction in laissez-faire government, the subscription/premium form, insurers as police suppliers, the two-court cutoff, the historical competing judiciaries, and the concession that no guarantee is available. Ch. 4 supplies the premium-varies-by-risk point made against equal taxation.
+- [For a New Liberty: The Libertarian Manifesto (Full Text Aggregate)](https://cdn.mises.org/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto.epub) - Ch. 12: protection as an unbounded set of margins rather than a single commodity, the absence of any rational allocation rule inside a police budget, and insurance detectives' orientation toward recovery rather than punishment.
+- [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - Ch. 1: security as no different in kind from houses, cheese or insurance; the unanswerable allocation questions; the shared-employer defect in state adjudication; diversification of packages; the client-veto argument against inter-agency war; the outlaw-company discussion and the endorsement of the Tannehills' ostracism mechanism; and the caution that the historical evidence is disputed.
+- [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - Ch. 9 on why a state cannot leave security in private hands, and the footnote stating the disjunction between natural property theory and a privileged monopolist.
+- [The Machinery of Freedom (Full Text Aggregate)](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) - the Tannahelp/Dawn Defense illustration and prior arbitration contracts; agencies as non-territorial sovereigns; liability without immunity; the number-of-agencies condition; the guarded-optimism conclusion; and "National Defense: The Hard Problem", including the demonstration that the Tannehills' insurance-funded defence and Rand's court-fee funding both fail.
+- **Anarchy, State, and Utopia (Full Text Aggregate)** - the dominant protective association: protection as a relative good, the declining spiral, the three routes to a common system, and the objection that boycott of an outlaw agency rests on optimistic assumptions.
+- [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) - the racketeer/protector test used here to sort protection suppliers, and the "quintessential protection rackets with the advantage of legitimacy" formulation.
+- [Better Off Stateless: Somalia Before and After Government Collapse](https://www.peterleeson.com/Better_Off_Stateless.pdf) - the eighteen-indicator comparison, xeer and diya, business-funded courts, militia-supplied protection, and the author's own qualifications about abuse and insecurity.
+- [Traveling the Silk Road](https://arxiv.org/abs/1207.7139) - the escrow mechanism, its mandatory character, expulsion as the sanction, and buyer-defended per-item feedback: non-violent contract enforcement where courts were unavailable by design.
+- [Primeiro Comando da Capital (PCC)](https://en.wikipedia.org/wiki/Primeiro_Comando_da_Capital) - tertiary account (Wikipedia) of a non-state protection supplier arising in a security vacuum: origin as an order-keeping and protection body funded by member fees, expansion as a supplier of order into neighbourhoods, "crime courts", the homicide-decline finding, and the violence against judges and officials.
 
 ---
 
@@ -8547,7 +8766,7 @@ Public choice is a mostly non-libertarian, positive research program; it describ
 - [[jurisdictional-competition|Jurisdictional Competition]] - Lane's employee-controlled-government category matches the public-choice account of bureaucratic incentives
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[market-failure-and-public-goods|Market Failure and Public Goods]] - The standard economic case for government intervention — public goods, externalities, natural monopoly, and asymmetric information — stated fairly
 - [[james-buchanan|James Buchanan]]
@@ -9209,9 +9428,9 @@ Category: concept
 
 ## The Permanent-Burden Claim
 
-Rothbard's case in [[anatomy-of-the-state|Anatomy of the State]] is not the slogan that "war is the health of the State" — that is Randolph Bourne, whom Rothbard quotes — but the more specific historical claim: every modern war "has brought to the warring peoples a permanent legacy of increased State burdens upon society." The mechanism has two components. First, the slogans of "defense" and "emergency" suspend the resistance that comparable peacetime expansions would face. Second, the institutions built to wage the war — taxes, debt, conscription apparatus, surveillance, regulatory bodies, military-industrial procurement chains — survive the war that justified them. The bar for accepting state extension is lowered, the apparatus persists, and the new floor becomes the next baseline.
+Rothbard's case in [[anatomy-of-the-state|Anatomy of the State]] is not the slogan that "war is the health of the State" — that is Randolph Bourne, whom Rothbard quotes — but the more specific historical claim: every modern war "has brought to the warring peoples a permanent legacy of increased State burdens upon society." The mechanism has two components. First, the slogans of "defense" and "emergency" suspend the resistance that comparable peacetime expansions would face. Second, the extension outlives the emergency: what Rothbard asserts is the "permanent legacy", and the inference this article draws from it is that the machinery assembled to wage a war is what remains — an inference about mechanism that his text states only as a result. The bar for accepting state extension is lowered, the extension persists, and the new floor becomes the next baseline.
 
-The same chapter explains the demand side. Rothbard notes that the state has been "successful in recent centuries in instilling fear of other State rulers", so that "a war between rulers was converted into a war between peoples, with each people coming to the defense of its rulers in the erroneous belief that the rulers were defending them." The supply of "credible threats" required to justify the permanent-burden ratchet is endogenous: the state-system manufactures the demand for its own services.
+An earlier chapter, "How the State Preserves Itself", supplies the demand side. Rothbard notes that the state has been "successful in recent centuries in instilling fear of other State rulers", so that "a war between rulers was converted into a war between peoples, with each people coming to the defense of its rulers in the erroneous belief that the rulers were defending them." The threat that justifies the permanent-burden ratchet is thus endogenous to the state system: it manufactures the demand for its own services.
 
 ## Relation to the Wiki
 
@@ -9232,7 +9451,8 @@ The claim sits inside the broader [[state-power-and-intervention|State Power and
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 - [[non-interventionism|Non-Interventionism]] - the normative non-intervention stance that pairs with this war-power ratchet
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
+- [[private-security-and-insurance|Private Security and Insurance]] - the national-defence problem the market case has not solved
 
 ## Sources
 
@@ -9910,6 +10130,7 @@ The facts here are well documented; what stays contested is the normative readin
 - [[fungibility|Fungibility]] - the monetary property Silk Road's fall made an argument for
 - [[timothy-c-may|Timothy C. May]] - author of the crypto-anarchist vision Silk Road realized
 - [[the-cybereconomy|The Cybereconomy]] - the borderless-market idea Silk Road briefly instantiated
+- [[private-security-and-insurance|Private Security and Insurance]] - escrow, reputation and expulsion as non-violent enforcement where courts were unavailable
 
 ## Sources
 
@@ -10235,7 +10456,7 @@ The state-as-parasite thesis mainly concerns extraction and disguise. State of e
 - [[totalitarianism|Totalitarianism]] - distinct Arendt category not reducible to exception theory
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis briefly updated with exception language
 - [[society-must-be-defended|Society Must Be Defended]] - reciprocal link.
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[2026-07-31-is-mileis-government-libertarian|Is Milei's Government Libertarian?]]
 
 ## Sources
@@ -10405,7 +10626,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Invasion, Child Soldiers, and the Twenty-Year Foreign Presence: Analysis]] - newsroom thesis backlink
 - [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[price-controls|Price Controls]] - Concept page: legal price maxima or minima override the clearing price — ceilings produce shortages, floors produce surpluses, and a consistent policy of control collapses into central planning.
 - [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - Sumner's we-group/out-group distinction and ethnocentrism: each group takes itself as the center of everything, breeding internal cohesion and external hostility that nationalism mobilizes.
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
@@ -10452,9 +10673,11 @@ When Somalia's central government collapsed in 1991 it did not become a controll
 
 ## The finding
 
-Leeson assembles eighteen welfare indicators that allow pre- and post-collapse comparison and reports that on nearly all of them Somalis improved:
+Leeson assembles eighteen welfare indicators that allow pre- and post-collapse comparison and reports that on nearly all of them Somalis improved — while leading with the qualification that the absolute level remains poor:
 
-> on nearly all of 18 key indicators that allow pre- and post-stateless welfare comparisons, Somalis are better off under anarchy than they were under government.
+> "The data suggest that while the state of this development remains low, on nearly all of 18 key indicators that allow pre- and post-stateless welfare comparisons, Somalis are better off under anarchy than they were under government."
+>
+> — Peter Leeson, "Better Off Stateless: Somalia Before and After Government Collapse"
 
 The mechanism he credits is not anarchy as magic but the *removal of predation*: with the extractive apparatus gone, he attributes the gains to renewed economic vibrancy and "public goods in the absence of a predatory state". Telecoms, livestock export, and money-transfer networks grew under customary law (*xeer*) and clan-based dispute resolution rather than statute.
 
@@ -10479,6 +10702,7 @@ This is descriptive development economics, not anarcho-capitalist political theo
 - [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
+- [[private-security-and-insurance|Private Security and Insurance]] - the empirical case cited for privately produced law and protection
 
 ## Sources
 
@@ -10894,7 +11118,7 @@ Category: concept
 
 ## The Racketeer Definition
 
-Tilly's argument in [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] turns on a precise definition of the racketeer: "someone who creates a threat and then charges for its reduction." The framing flips the standard apologia in which states sell "protection from local and external violence" at a price that "barely cover[s] the costs." The empirical test is who controls the threat. Where "the threats against which a given government protects its citizens are imaginary or are consequences of its own activities, the government has organized a protection racket."
+Tilly's argument in [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] turns on a precise definition of the racketeer: "someone who creates a threat and then charges for its reduction." The framing flips the standard apologia in which states offer "protection from local and external violence" and claim that "the prices they charge barely cover the costs of protection". Tilly is more guarded about the status of the model than most of those who cite it: he presents "tentative arguments" illustrating an analogy, and says plainly that the essay "brings with it few illustrations and no evidence worthy of the name." The empirical test is who controls the threat. Where "the threats against which a given government protects its citizens are imaginary or are consequences of its own activities, the government has organized a protection racket."
 
 The 1985 essay specifies four interdependent activities that European states historically performed: war making (attacking rivals outside the territory), state making (attacking rivals inside it), protection (attacking enemies of one's clients), and extraction (drawing the means for the first three from the subject population). Tilly's claim is not that states "merely" engage in racketeering metaphorically; it is that the four-part model, plus the monopolization of violence, is descriptively how the European national state was assembled.
 
@@ -10921,10 +11145,11 @@ The broader [[war-and-state-formation|War and State Formation]] article situates
 - [[non-interventionism|Non-Interventionism]] - blowback as the threat-creation pattern abroad
 - [[megapolitics|Megapolitics]] - Davidson and Rees-Mogg generalize protection-pricing into a violence-cost theory of history
 - [[jurisdictional-competition|Jurisdictional Competition]] - what happens to the protection racket when mobile wealth can finally shop between jurisdictions
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[north-atlantic-treaty|The North Atlantic Treaty]] - The 1949 founding treaty and the 2014 Wales Defence Investment Pledge — the primary documents behind NATO's defense-spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]]
+- [[private-security-and-insurance|Private Security and Insurance]] - the test that separates a defence agency from a racket
 
 ## Sources
 
@@ -11738,10 +11963,11 @@ The 2026-05-12 gap-closure pass appended chapters 2, 4, 5, and 7 to the earlier 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 - [[stateless-somalia|Stateless Somalia]] - a collapse-then-order counter-case to war-builds-states
 - [[megapolitics|Megapolitics]] - Davidson and Rees-Mogg's violence-cost theory generalizing the war-builds-states logic to forecast state decline
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[north-atlantic-treaty|The North Atlantic Treaty]] - The 1949 founding treaty and the 2014 Wales Defence Investment Pledge — the primary documents behind NATO's defense-spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
+- [[private-security-and-insurance|Private Security and Insurance]] - Molinari's claim that a monopoly on security is what makes war profitable
 
 ## Sources
 
@@ -11935,10 +12161,11 @@ In the present graph, this book is the compact comparative-systems counterpart t
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
+- [[private-security-and-insurance|Private Security and Insurance]] - why a state cannot leave the production of security in private hands
 
 ## Sources
 
-- [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - full aggregated source extracted from the Mises EPUB edition
+- [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - full aggregated source extracted from the Mises Institute EPUB edition
 - [A Theory of Socialism and Capitalism](https://mises.org/library/book/theory-socialism-and-capitalism) - Mises page metadata and descriptive framing for the book
 
 ---
@@ -12209,6 +12436,8 @@ The book is the academic anchor of [[minarchism|minarchism]] and the principal p
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the rights premises the entitlement theory builds on
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
+- [[private-security-and-insurance|Private Security and Insurance]] - the invisible-hand route from protective agencies to a minimal state
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - the anarchist side of the same question, argued from consequences
 
 ## Sources
 
@@ -12266,7 +12495,7 @@ In the current reference set, this book is the compressed companion to [[for-a-n
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[north-atlantic-treaty|The North Atlantic Treaty]] - The 1949 founding treaty and the 2014 Wales Defence Investment Pledge — the primary documents behind NATO's defense-spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]]
 - [[taxation|Taxation]]
@@ -13313,8 +13542,9 @@ The strongest connection is to [[war-and-state-formation|War and State Formation
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - Tilly's 1985 claim that war making and state making are quintessential protection rackets with the advantage of legitimacy
+- [[private-security-and-insurance|Private Security and Insurance]] - the racketeer/protector distinction applied to private defence agencies
 
 ## Sources
 
@@ -13739,7 +13969,7 @@ Category: reference
 
 # David Friedman
 
-> David D. Friedman (b. 1945) is the economist who made the *consequentialist* case for anarcho-capitalism. In *The Machinery of Freedom: Guide to a Radical Capitalism* (1973; second edition) he argues for the same radical conclusion as the wiki's natural-rights anarchists — no state, with police and courts replaced by competing private firms — but reaches it from efficiency and outcomes rather than from a moral axiom. He is the son of the monetarist Milton Friedman and should not be confused with him: where the father wanted government cut to a rule-bound minimum, the son argues it can be dispensed with entirely.
+> David D. Friedman (b. 1945) is the economist who made the *consequentialist* case for anarcho-capitalism. In [[the-machinery-of-freedom|The Machinery of Freedom]] (1973; second edition) he argues for the same radical conclusion as the wiki's natural-rights anarchists — no state, with police and courts replaced by competing private firms — but reaches it from efficiency and outcomes rather than from a moral axiom. He is the son of the monetarist Milton Friedman and should not be confused with him: where the father wanted government cut to a rule-bound minimum, the son argues it can be dispensed with entirely.
 
 ## Who He Is
 
@@ -13771,7 +14001,7 @@ So Friedman argues from consequences on purpose. He is candid that this is a cho
 
 > As a moral philosopher I am a libertarian, insofar as I am anything. As an economist I am a utilitarian.
 >
-> — David Friedman, *The Machinery of Freedom*
+> — [[david-friedman|David Friedman]], [[the-machinery-of-freedom|The Machinery of Freedom]]
 
 The contrast with the wiki's natural-rights anarchists is exact. [[murray-n-rothbard|Murray Rothbard]] derives the identical institutions — private defense, private courts, no state — from the [[nonaggression-and-property-rights|nonaggression axiom]] and self-ownership, treating them as morally required whatever the cost. Friedman reaches the same destination by asking which rules leave people better off. Same map, opposite compass.
 
@@ -13789,6 +14019,8 @@ David Friedman fills a structural gap. The corpus derives anarcho-capitalism alm
 - [[stateless-somalia|Stateless Somalia]] - a real-world private-law order, the empirical companion to his model
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
+- [[private-security-and-insurance|Private Security and Insurance]] - the Tannahelp/Dawn Defense mechanism and the national-defence concession, in context
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - his book
 
 ## Sources
 
@@ -13924,7 +14156,7 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 - [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] - the book's central caretaker argument: a temporary democratic ruler maximizes current income at the expense of the state's capital value
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[secession|Secession]]
@@ -15106,7 +15338,7 @@ For the economic and comparative-systems side, start with [[a-theory-of-socialis
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[hoppe-on-sdrs|Hoppe on Special Drawing Rights]] - Hoppe's claim that IMF-issued Special Drawing Rights belong to the post-1971 movement toward world currency and world central banking.
 - [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] - Hoppe's claim in *Democracy: The God That Failed* that a democratic government caretaker owns only the current use of state resources, not their capital value
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
@@ -16794,7 +17026,7 @@ For a fast entry into Rothbard as represented in this wiki, start with [[anatomy
 - [[federal-reserve|Federal Reserve]] - The U.S. central bank, read here as a government-enforced banking cartel that fuels inflation and the boom-bust cycle.
 - [[great-depression|Great Depression]] - The 1929 crash and the depression that followed, and the Austrian-vs-monetarist dispute over its cause.
 - [[government-provision-and-the-conservation-appeal|Government Provision and the Conservation Appeal]] - Where the state both supplies a utility good and runs save-water or save-energy campaigns, the conservation appeal is the symptom of a compulsory monopoly that prices its output below market-clearing
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[voluntary-slavery-debt-and-contract|Voluntary Slavery, Debt, and the Title-Transfer Theory of Contract]] - On the title-transfer theory of contract, a clause enslaving you is void because the will is inalienable — but a debt is a transferred title to money, so non-payment is theft
 - [[walter-block|Walter Block]] - Author reference for Walter Block, the Austro-libertarian economist whose 'full alienability' thesis is this wiki's principal internal-libertarian dissent from the inalienability-of-the-will answer
 - [[toward-a-libertarian-theory-of-inalienability|Toward a Libertarian Theory of Inalienability]] - Work reference for Walter Block's Journal of Libertarian Studies article (17:2, 2003), the principal libertarian argument against inalienability. Reasoning from self-ownership
@@ -17744,7 +17976,7 @@ The split from [[man-economy-and-state|Man, Economy, and State]] matters because
 
 ## Provenance and Compile Value
 
-The raw source was assembled on 2026-05-16 from the Mises Institute online-book HTML export (Drupal `book/export/html/64039`), which yields the entire book in a single document with the original article/section nesting preserved. This gives the wiki the full text of all seven chapters plus the bibliography in the canonical heading structure — chapters as H2, lettered/numbered sections as H3, sub-subsections as H4. The full text supports direct quotation in downstream theses; prior to this ingest, [[power-and-market|Power and Market]] material was only present as part of the combined *MES + P&M* aggregate, which made citation provenance ambiguous.
+The raw source was first assembled on 2026-05-16 and re-extracted on 2026-06-17 from the official Mises Institute EPUB, which supersedes the earlier extraction with clean XHTML-derived text and yields the entire book in a single document with its section nesting preserved. This gives the wiki the full text of all seven chapters in reading order, with chapter and section titles carried as body lines rather than as markdown headings. The full text supports direct quotation in downstream theses; prior to this ingest, [[power-and-market|Power and Market]] material was only present as part of the combined *MES + P&M* aggregate, which made citation provenance ambiguous.
 
 ## See Also
 
@@ -17753,7 +17985,7 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[state-power-and-intervention|State Power and Intervention]] - intervention-as-cumulative-process concept article that draws directly on this book
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer distinction that [[power-and-market|Power and Market]] extends praxeologically
 - [[sales-tax-incidence|Sales Tax Incidence]] - focused article on Rothbard's Ch. 4 treatment of general sales tax incidence
-- [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused article on the Ch. 3 “Triangular Intervention: Price Control” treatment
+- [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused article on the Ch. 3 §1 “Price Control” treatment
 - [[economic-calculation-problem|Economic Calculation Problem]] - Misesian core the triangular-intervention analysis sits on
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - normative axiom Ch. 1 operationalizes for defense-on-the-market
 - [[austrian-economics|Austrian Economics]] - school whose intervention analysis this book is the canonical Rothbardian statement of
@@ -17761,7 +17993,7 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[ludwig-von-mises|Ludwig von Mises]] - Rothbard's methodological source; [[power-and-market|Power and Market]]'s praxeological critiques extend Mises's intervention chapter from [[human-action|Human Action]]
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's later natural-rights treatise; Ch. 6 of [[power-and-market|Power and Market]] prefigures its antimarket-ethics critique
 - [[for-a-new-liberty|For a New Liberty]] - Rothbard's movement-level overview that relies on this book's intervention analysis as its economic base
-- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the Ch. 3 “Triangular Intervention: Price Control” section
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the Ch. 3 §1 “Price Control” section
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article that applies the tripartite intervention typology to CBDCs
 - [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] - focused author-on-topic article on the ch. 4 §C "A Tax on Individual Wealth" treatment as a pure tax on accumulated capital
 
@@ -17772,10 +18004,11 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[georgism|Georgism and the Land-Value Tax]] - Henry George's proposal to fund government by a single tax on the unimproved value of land — and the Austro-libertarian critique that land is legitimately owned, speculation is useful
 - [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - draws on binary intervention, the instability of the mixed economy, and the calculational limits of tax-financed provision
+- [[private-security-and-insurance|Private Security and Insurance]] - Ch. 1, "Defense Services on the Free Market", in context
 
 ## Sources
 
-- [Power and Market: Government and the Economy (Full Text Aggregate)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - full aggregated source used for this reference article (7 chapters + bibliography, captured from the Mises online-book HTML export 2026-05-16)
+- [Power and Market: Government and the Economy (Full Text Aggregate)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - full aggregated source used for this reference article (7 chapters, re-extracted 2026-06-17 from the official Mises Institute EPUB)
 
 ---
 
@@ -18120,6 +18353,7 @@ He occupies a precise position in the libertarian field. Against the individuali
 - [[ayn-rand|Ayn Rand]] - the other major modern statement of the rights-protecting minimal state
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
+- [[private-security-and-insurance|Private Security and Insurance]] - the dominant-protective-agency objection, in context
 
 ## Sources
 
@@ -19315,6 +19549,68 @@ The tradeoff is operational complexity. Liquidity must be allocated to channels,
 
 ---
 
+## The Machinery of Freedom
+URL: /references/the-machinery-of-freedom
+Category: reference
+
+# The Machinery of Freedom
+
+> *The Machinery of Freedom: Guide to a Radical Capitalism* is [[david-friedman|David Friedman]]'s case for abolishing the state, argued from consequences rather than from rights. Most of it was written between 1967 and 1973; the second edition adds a long postscript. It is the consequentialist counterpart to the rights-based anarcho-capitalism of Rothbard and the Tannehills, and the place where the tradition states its own hardest problem most plainly.
+
+## The method
+
+Friedman does not begin from an axiom about aggression. He begins from institutions and asks what they produce, and his conclusion is stated as a judgement rather than a deduction: "I hold that there are no proper functions of government. In that sense I am an anarchist." The things governments do, he adds, divide into "those we could do away with today and those we hope to be able to do away with tomorrow", and most fall in the first category.
+
+The book's structure follows that division. Part I defends private property; Part II proposes reforms achievable inside present institutions; Part III describes a fully stateless order; Part IV is the second edition's expanded postscript, which adds the economic analysis of law and the historical material.
+
+## Police, courts and laws on the market
+
+Part III contains the passage the book is best known for. A theft leads two protection agencies — Tannahelp and Dawn Defense — toward a confrontation that neither wants, because "wars are very expensive, and Tannahelp and Dawn Defense are both profit-making corporations, more interested in saving money than face." They arbitrate instead. Friedman is explicit that this improvised settlement is not the institution: in a developed order, agencies "would anticipate such difficulties and arrange contracts in advance, before specific conflicts occurred, specifying the arbitrator who would settle them."
+
+From that follows his account of law as a produced good. Courts sell adjudication to protection agencies, agencies sell a package including a legal system to their clients, and the law under which a case is decided is fixed by prior agreement between the two agencies involved rather than by territory. Different agencies may patronise different courts, and convergence — where it happens — comes from customers preferring the same rules, not from a legislature.
+
+## The stability problem
+
+Friedman treats the objection that such a system collapses into a state as the serious one, and answers it with several considerations rather than one. In the last resort, he says, nothing prevents a power grab "save a populace possessing arms and willing, if necessary, to use them"; short of that, he compares who is selected for the job under each system, and then adds number as "another relevant factor". Agencies are not sovereigns: "An agency which settles its disputes on the battlefield has already lost, however many battles it wins." Exit is cheap in a way it is not between countries — "We can change protectors without changing countries." And number is what makes exit bite: "If there are only two or three agencies in the entire area now covered by the United States, a conspiracy among them may be practical. If there are 10,000, then when any group of them start acting like a government, their customers will hire someone else to protect them against their protectors." His guess is that the efficient number is nearer ten thousand than three, and his verdict on the whole question is "one of guarded optimism".
+
+The other structural claim is about rights rather than incentives. Private agencies, unlike governments, have "no rights which individuals do not have", so their mistakes are torts. His contrast is concrete: "In order to sue a policeman for false arrest I must prove not merely that I was innocent but that the policeman had no reason to suspect me."
+
+## National defence: the hard problem
+
+The chapter that gives the book its intellectual honesty concedes what most of the tradition disputes. An anarchist society still faces states — "there will still be nations to defend against, unless we postpone the abolition of our government until anarchy is universal" — and defence against them cannot be retailed only to those who pay for it. The concession is explicitly conditional on the weapons of the day: "Defense against nations, in the present state of military technology, is a public good." On that condition it follows that:
+
+> "So national defense—defense against nations—must defend areas of national size, whether or not they contain nations. It is thus a public good, and one with a very large public."
+>
+> — [[david-friedman|David Friedman]], [[the-machinery-of-freedom|The Machinery of Freedom]]
+
+Friedman then dismantles two proposals from his own side. The Tannehills' scheme of funding defence through an insurer collapses to free riding, because such a company "would have to charge rates substantially higher than the real risk justified, given the existence of its defense system", and would lose its customers to insurers carrying no defence burden. Ayn Rand's scheme of funding a minimal state through court fees fails the same way unless the state forbids competing courts, at which point it is coercive again. He canvasses endowed local defence organisations and other partial answers, and does not claim any of them works; his own summary of whether the good can be financed without coercion is "It is not obvious how."
+
+## Medieval Iceland
+
+The postscript supplies the book's historical case: "the medieval Icelandic legal system comes closer than any other well-recorded historical society that I know of to being a real-world example of the sort of anarcho-capitalist system described in Part III." Its distinguishing feature is that enforcement was entirely private — "In medieval Iceland all law was civil. The victim was responsible for enforcing his claim, individually or with the assistance of others" — and its elegant solution to the problem that a weak claimant cannot enforce against a strong offender was to make the claim itself property: it could be sold or given to someone stronger, who then had reason to press it "in order both to collect the damages and to establish his own reputation for use in future conflicts".
+
+Friedman gives the ending as well as the run. "The Icelandic system finally collapsed in the thirteenth century, more than three hundred years after it was established", and on the cause he does not overclaim: "It is not clear what the reason for the breakdown was. One possibility is that increasing concentration of wealth and power made the system less stable."
+
+## Place in this wiki
+
+The book is the consequentialist pillar beside the corpus's natural-rights anarcho-capitalism, and its arguments carry most of the mechanism in [[private-security-and-insurance|Private Security and Insurance]] — the inter-agency arbitration answer, the checks on a protector, and the national-defence concession that marks the limit of the case. Its account of competing legal systems belongs with [[market-anarchism-and-private-law|Market Anarchism and Private Law]], and the objections it takes seriously are catalogued in [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]].
+
+## See Also
+
+- [[david-friedman|David Friedman]] - the author
+- [[private-security-and-insurance|Private Security and Insurance]] - the protection-agency mechanism and the national-defence problem in context
+- [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - law produced on the market rather than legislated
+- [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - the objections this book answers, and the one it concedes
+- [[anarchy-state-and-utopia|Anarchy, State, and Utopia]] - the minimal-state argument on the other side of the same question
+- [[the-market-for-liberty|The Market for Liberty]] - the rights-based counterpart, whose insurance-funded defence this book refutes
+- [[minarchism|Minarchism]] - the position Friedman argues past
+
+## Sources
+
+- [The Machinery of Freedom (Full Text Aggregate)](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) - the second-edition text the author hosts free at daviddfriedman.com (`pdftotext` extraction of the born-digital PDF); every quotation on this page is from it.
+
+---
+
 ## The Market for Liberty
 URL: /references/the-market-for-liberty
 Category: reference
@@ -19348,6 +19644,7 @@ In this corpus, the Tannehills do for institutions what [[murray-n-rothbard|Roth
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 treatise reaching a similar institutional architecture from an explicitly deductive foundation
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - the consequentialist counterpart, which refutes this book's insurance-funded national defence
 
 ## Sources
 
@@ -20606,8 +20903,9 @@ The article is especially important for [[war-and-state-formation|War and State 
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
+- [[private-security-and-insurance|Private Security and Insurance]] - states as protection rackets, and the same test applied to private protectors
 
 ## Sources
 
@@ -20722,7 +21020,7 @@ Shughart is a citation anchor, not a tradition node: the encyclopedia entry give
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - the concept node his entry supplies: rational ignorance and concentrated-vs-dispersed interests
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[james-buchanan|James Buchanan]]
 
 ## Sources
@@ -22543,7 +22841,7 @@ New to this hub? Read these five, in order:
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social-preconditions article for Arendt's totalitarianism thesis
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
 - [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 Portuguese-language treatise deriving the same institutional order deductively, and breaking with Rothbard on property and punishment
-- [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
+- [[private-security-and-insurance|Private Security and Insurance]] - the full treatment of protection as a market service: subscription defense firms, insurers as the pricing and disciplining institution, and the objections that remain open
 - [[crypto-anarchy|Crypto Anarchy]] - cypherpunk strategy for moving voluntary exchange beyond ordinary state surveillance and control
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - Konkin's strategy-by-exit: grow the counter-economy until it displaces the state
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - why liberty is systematically under-supplied through the ballot box

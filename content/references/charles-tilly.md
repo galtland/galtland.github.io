@@ -3,7 +3,7 @@ title: "Charles Tilly"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-05-30
+updated: 2026-08-31
 verified: 2026-05-30
 tags: [charles-tilly, historical-sociology, state, war-and-state-formation, comparative-historical-sociology, non-libertarian]
 aliases: [Tilly, Charles Tilly historical sociology]
@@ -58,8 +58,9 @@ The strongest connection is to [[war-and-state-formation|War and State Formation
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - Tilly's 1985 claim that war making and state making are quintessential protection rackets with the advantage of legitimacy
+- [[private-security-and-insurance|Private Security and Insurance]] - the racketeer/protector distinction applied to private defence agencies
 
 ## Sources
 

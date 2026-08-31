@@ -3,7 +3,7 @@ title: "Stateless Somalia"
 volatility: warm
 category: concept
 created: 2026-06-07
-updated: 2026-08-09
+updated: 2026-08-31
 verified: 2026-06-26
 tags: [peter-leeson, somalia, anarchy, statelessness, anarcho-capitalism, predatory-state, public-goods, development-economics]
 summary: "Leeson's empirical finding that post-1991 stateless Somalia outperformed its predatory predecessor government on nearly all of 18 welfare indicators — the canonical case that anarchy can beat a sufficiently predatory state."
@@ -18,9 +18,11 @@ When Somalia's central government collapsed in 1991 it did not become a controll
 
 ## The finding
 
-Leeson assembles eighteen welfare indicators that allow pre- and post-collapse comparison and reports that on nearly all of them Somalis improved:
+Leeson assembles eighteen welfare indicators that allow pre- and post-collapse comparison and reports that on nearly all of them Somalis improved — while leading with the qualification that the absolute level remains poor:
 
-> on nearly all of 18 key indicators that allow pre- and post-stateless welfare comparisons, Somalis are better off under anarchy than they were under government.
+> "The data suggest that while the state of this development remains low, on nearly all of 18 key indicators that allow pre- and post-stateless welfare comparisons, Somalis are better off under anarchy than they were under government."
+>
+> — Peter Leeson, "Better Off Stateless: Somalia Before and After Government Collapse"
 
 The mechanism he credits is not anarchy as magic but the *removal of predation*: with the extractive apparatus gone, he attributes the gains to renewed economic vibrancy and "public goods in the absence of a predatory state". Telecoms, livestock export, and money-transfer networks grew under customary law (*xeer*) and clan-based dispute resolution rather than statute.
 
@@ -45,6 +47,7 @@ This is descriptive development economics, not anarcho-capitalist political theo
 - [[minarchism|Minarchism]] - The libertarian position that the state should be cut to a minimum — protecting rights against force, theft, and fraud — but not abolished: the minimal-state pole of the anarchism debate.
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
+- [[private-security-and-insurance|Private Security and Insurance]] - the empirical case cited for privately produced law and protection
 
 ## Sources
 

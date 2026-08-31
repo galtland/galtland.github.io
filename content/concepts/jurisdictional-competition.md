@@ -3,7 +3,7 @@ title: "Jurisdictional Competition"
 volatility: warm
 category: concept
 created: 2026-06-09
-updated: 2026-08-30
+updated: 2026-08-31
 verified: 2026-06-09
 tags: [jurisdictional-competition, sovereignty-services, james-dale-davidson, william-rees-mogg, sovereign-individual, frederic-lane, nation-state, taxation, governments-as-firms]
 aliases: [jurisdictional competition, interjurisdictional competition, sovereignty services, governments as firms, citizens as customers, government controlled by its customers]
@@ -48,7 +48,7 @@ Confidence is low. The customer/exit dynamic is real and visible at the margins 
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - competitive provision of law and protection the "sovereignty services" forecast approaches
 - [[private-security-and-insurance|Private Security and Insurance]] - market protection adjacent to the book's proliferating jurisdictions
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - incentive analysis matching Lane's "employee-controlled" government
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network states).
 - [[tor|Tor]] - The volunteer-run onion-routing overlay: the cypherpunk mix lineage reborn for real-time traffic, and the internet's principal anonymity and censorship-resistance infrastructure.

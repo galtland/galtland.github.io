@@ -3,7 +3,7 @@ title: "Nonaggression and Property Rights"
 volatility: warm
 category: concept
 created: 2026-04-21
-updated: 2026-08-11
+updated: 2026-08-31
 verified: 2026-07-23
 tags: [nonaggression, property-rights, ethics, liberty, classical-liberalism, political-means]
 aliases: [NAP, nonaggression principle, private property rights]
@@ -115,6 +115,7 @@ The natural-rights defense is itself the terminus of a long classical lineage, n
 - [[cognitive-adequacy-and-tutela|Cognitive Adequacy and Tutela]] - when consent is competent to the act, and who acts for those whose is not
 - [[delimitation-and-the-origin-of-property|Delimitation and the Origin of Property]] - a rival derivation of the property leg, grounded in objective boundaries rather than first use
 - [[factual-potential-of-harm|The Factual Potential of Harm]] - an objective measure for the defensive force the principle permits
+- [[private-security-and-insurance|Private Security and Insurance]] - the right to hire a defender, and the limits on what a hired agent may do
 
 ## Sources
 

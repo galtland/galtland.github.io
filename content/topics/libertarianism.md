@@ -3,7 +3,7 @@ title: "Libertarianism"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-08-12
+updated: 2026-08-31
 verified: 2026-07-15
 tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [libertarian thought, liberty tradition]
@@ -83,7 +83,7 @@ New to this hub? Read these five, in order:
 - [[mass-society-and-atomization|Mass Society and Atomization]] - social-preconditions article for Arendt's totalitarianism thesis
 - [[market-anarchism-and-private-law|Market Anarchism and Private Law]] - institutional alternative developed by several ingested books
 - [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 Portuguese-language treatise deriving the same institutional order deductively, and breaking with Rothbard on property and punishment
-- [[private-security-and-insurance|Private Security and Insurance]] - dedicated article on the corpus's model of defense agencies and insurance-based protection
+- [[private-security-and-insurance|Private Security and Insurance]] - the full treatment of protection as a market service: subscription defense firms, insurers as the pricing and disciplining institution, and the objections that remain open
 - [[crypto-anarchy|Crypto Anarchy]] - cypherpunk strategy for moving voluntary exchange beyond ordinary state surveillance and control
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - Konkin's strategy-by-exit: grow the counter-economy until it displaces the state
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - why liberty is systematically under-supplied through the ballot box

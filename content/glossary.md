@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (370 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (371 entries).
 
 ## #
 
@@ -236,6 +236,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 
 ## M
 
+- **[The Machinery of Freedom](/references/the-machinery-of-freedom)** — David Friedman's 1973 book: the case for a stateless market order argued from consequences rather than rights, with the competing-protection-agency mechanism, medieval Iceland as the historical case, and national defence conceded as the hard problem.
 - **[Man, Economy, and State](/references/man-economy-and-state)** — Rothbard's treatise building economics from action through exchange and money to the Power and Market analysis of state intervention.
 - **[Market Anarchism and Private Law](/concepts/market-anarchism-and-private-law)** — The libertarian vision of non-state courts, protection agencies, insurance, and title systems replacing state law and adjudication.
 - **[Market Failure and Public Goods](/concepts/market-failure-and-public-goods)** — The standard case for government intervention — public goods, externalities, natural monopoly, asymmetric information — with Austrian replies: benchmark problem, property rights, government failure.
@@ -322,7 +323,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Principles of Economics](/references/principles-of-economics-ammous)** — Ammous's 2023 Austrian economics textbook in five parts and eighteen chapters, positioned after The Bitcoin Standard and The Fiat Standard.
 - **[Principles of Economics (Menger)](/references/principles-of-economics-menger)** — Menger's 1871 founding text of the Austrian School: value is a subjective judgment of a good's importance for satisfying needs, not a property inherent in the good — cornerstone of subjective value.
 - **[Privacy and Cryptography](/topics/privacy-and-cryptography)** — Topic map of the wiki's privacy-and-cryptography thread: Austrian privacy theory, state surveillance, Bitcoin, and parallel-economy tools.
-- **[Private Security and Insurance](/concepts/private-security-and-insurance)** — How the libertarian corpus imagines policing without the state: defense agencies, insurance, arbitration, and competitive checks on abuse.
+- **[Private Security and Insurance](/concepts/private-security-and-insurance)** — How security would be produced without a state: competing defense firms funded by subscription, insurers as the institution that prices risk and disciplines protectors, the mechanisms that keep agency conflicts out of the battlefield — and the objections that remain open.
 - **[The Production of Security](/references/the-production-of-security)** — Molinari's 1849 essay founding the classical-liberal case for private, competitive production of security - the root of market anarchism.
 - **[Proof of Work](/concepts/proof-of-work)** — A publicly verifiable cost function used first to meter access to network resources, then adapted by Bit Gold and Bitcoin for digital scarcity and consensus.
 - **[Public Choice and Rational Ignorance](/concepts/public-choice-and-rational-ignorance)** — The public-choice account of why liberty is under-supplied: rationally ignorant voters let small concentrated interests out-organize the diffuse public, so politics favors the few over the many.

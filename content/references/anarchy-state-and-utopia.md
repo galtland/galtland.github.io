@@ -3,7 +3,7 @@ title: "Anarchy, State, and Utopia"
 volatility: cold
 category: reference
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-08-31
 verified: 2026-06-29
 tags: [robert-nozick, anarchy-state-and-utopia, minarchism, minimal-state, entitlement-theory, distributive-justice, wilt-chamberlain, invisible-hand, night-watchman-state, political-philosophy]
 aliases: [Anarchy State and Utopia, ASU, Anarchy, State, and Utopia]
@@ -44,6 +44,8 @@ The book is the academic anchor of [[minarchism|minarchism]] and the principal p
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - the rights premises the entitlement theory builds on
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[distributive-justice|Distributive Justice]] - How should wealth be shared? Rawls's egalitarian 'justice as fairness' versus Nozick's entitlement theory — the strongest challenge to libertarian property, stated fairly
+- [[private-security-and-insurance|Private Security and Insurance]] - the invisible-hand route from protective agencies to a minimal state
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - the anarchist side of the same question, argued from consequences
 
 ## Sources
 

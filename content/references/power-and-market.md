@@ -3,7 +3,7 @@ title: "Power and Market"
 volatility: warm
 category: reference
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-08-31
 verified: 2026-06-26
 tags: [rothbard, austrian-economics, intervention, taxation, power-and-market, political-means]
 aliases: [P&M, Power and Market Government and the Economy]
@@ -28,7 +28,7 @@ The split from [[man-economy-and-state|Man, Economy, and State]] matters because
 
 ## Provenance and Compile Value
 
-The raw source was assembled on 2026-05-16 from the Mises Institute online-book HTML export (Drupal `book/export/html/64039`), which yields the entire book in a single document with the original article/section nesting preserved. This gives the wiki the full text of all seven chapters plus the bibliography in the canonical heading structure — chapters as H2, lettered/numbered sections as H3, sub-subsections as H4. The full text supports direct quotation in downstream theses; prior to this ingest, [[power-and-market|Power and Market]] material was only present as part of the combined *MES + P&M* aggregate, which made citation provenance ambiguous.
+The raw source was first assembled on 2026-05-16 and re-extracted on 2026-06-17 from the official Mises Institute EPUB, which supersedes the earlier extraction with clean XHTML-derived text and yields the entire book in a single document with its section nesting preserved. This gives the wiki the full text of all seven chapters in reading order, with chapter and section titles carried as body lines rather than as markdown headings. The full text supports direct quotation in downstream theses; prior to this ingest, [[power-and-market|Power and Market]] material was only present as part of the combined *MES + P&M* aggregate, which made citation provenance ambiguous.
 
 ## See Also
 
@@ -37,7 +37,7 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[state-power-and-intervention|State Power and Intervention]] - intervention-as-cumulative-process concept article that draws directly on this book
 - [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer distinction that [[power-and-market|Power and Market]] extends praxeologically
 - [[sales-tax-incidence|Sales Tax Incidence]] - focused article on Rothbard's Ch. 4 treatment of general sales tax incidence
-- [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused article on the Ch. 3 “Triangular Intervention: Price Control” treatment
+- [[rothbard-on-price-controls|Rothbard on Price Controls]] - focused article on the Ch. 3 §1 “Price Control” treatment
 - [[economic-calculation-problem|Economic Calculation Problem]] - Misesian core the triangular-intervention analysis sits on
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - normative axiom Ch. 1 operationalizes for defense-on-the-market
 - [[austrian-economics|Austrian Economics]] - school whose intervention analysis this book is the canonical Rothbardian statement of
@@ -45,7 +45,7 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[ludwig-von-mises|Ludwig von Mises]] - Rothbard's methodological source; [[power-and-market|Power and Market]]'s praxeological critiques extend Mises's intervention chapter from [[human-action|Human Action]]
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - Rothbard's later natural-rights treatise; Ch. 6 of [[power-and-market|Power and Market]] prefigures its antimarket-ethics critique
 - [[for-a-new-liberty|For a New Liberty]] - Rothbard's movement-level overview that relies on this book's intervention analysis as its economic base
-- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the Ch. 3 “Triangular Intervention: Price Control” section
+- [[2026-05-19-argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing the Ch. 3 §1 “Price Control” section
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article that applies the tripartite intervention typology to CBDCs
 - [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] - focused author-on-topic article on the ch. 4 §C "A Tax on Individual Wealth" treatment as a pure tax on accumulated capital
 
@@ -56,7 +56,8 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[crony-capitalism|Crony Capitalism]] - The sale of political privilege to favored firms — subsidies, bailouts, protective tariffs, licensing barriers, regulatory advantage — dressed as free enterprise
 - [[georgism|Georgism and the Land-Value Tax]] - Henry George's proposal to fund government by a single tax on the unimproved value of land — and the Austro-libertarian critique that land is legitimately owned, speculation is useful
 - [[nordic-model-vs-austrian-economics|The Nordic Model vs Austrian Economics]] - draws on binary intervention, the instability of the mixed economy, and the calculational limits of tax-financed provision
+- [[private-security-and-insurance|Private Security and Insurance]] - Ch. 1, "Defense Services on the Free Market", in context
 
 ## Sources
 
-- [Power and Market: Government and the Economy (Full Text Aggregate)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - full aggregated source used for this reference article (7 chapters + bibliography, captured from the Mises online-book HTML export 2026-05-16)
+- [Power and Market: Government and the Economy (Full Text Aggregate)](https://cdn.mises.org/Power%20and%20Market%20Government%20and%20the%20Economy.epub) - full aggregated source used for this reference article (7 chapters, re-extracted 2026-06-17 from the official Mises Institute EPUB)

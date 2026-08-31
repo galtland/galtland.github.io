@@ -3,9 +3,9 @@ title: "Organized Crime and State Capacity"
 volatility: cold
 category: concept
 created: 2026-06-22
-updated: 2026-08-06
+updated: 2026-08-31
 verified: 2026-06-23
-confidence: high
+confidence: medium
 tags: [organized-crime, state-capacity, monopoly-of-force, centralization, collective-action, protection-racket, authoritarianism, totalitarianism, public-choice, el-salvador, brazil, china, charles-tilly, murray-n-rothbard, hans-hermann-hoppe, libertarian]
 aliases: [organized crime and state capacity, suppressing organized crime, state capacity and crime, why states crush or tolerate organized crime, crackdown and the monopoly of force, can the government crush the gangs, organized crime and the size of the country, organized crime and the size of the polity, small country crackdown]
 summary: "A public-choice and political-economy account of when a state can suppress organized crime. The binding variable is not the size of the country but the state's capacity, the centralization of its administrative reach, and its willingness to deploy coercion unconstrained by rights. A small concentrated gang out-organizes a diffuse public; the state defeats it only by being the larger, more concentrated monopoly of force (Tilly, Rothbard). Whether it does so turns on capacity and regime, not territory: large hyper-centralized total-coercion states (China, the USSR) suppress crime and dissent alike, while large rights-constrained federal states (Brazil, the United States) coexist with entrenched organized crime, and small El Salvador broke the gangs' grip only by suspending constitutional rights. The capacity that eliminates the gangs is the same monopoly the theory identifies as the largest organized-violence operation of all — so crime-crushing capacity and the capacity for tyranny are one thing seen twice."
@@ -48,7 +48,7 @@ The state has a direct institutional interest in suppressing rival predation —
 
 The popular question hides two very different achievements, and conflating them is what makes the small-country intuition look plausible.
 
-The first is preventing any **rival claim to sovereignty** — stopping a warlord, militia, or criminal army from becoming an alternative ruler. Almost every viable state manages this; it is Tilly's "state making," and on Rothbard's account it is guaranteed by definition, since "Only one set of rulers can obtain a monopoly of coercion over any given territorial area at any one time". The United States, Brazil, China, and Rome alike face no rival sovereign.
+The first is preventing any **rival claim to sovereignty** — stopping a warlord, militia, or criminal army from becoming an alternative ruler. Almost every viable state manages this; it is Tilly's "state making." Rothbard makes the exclusivity point about rival *states* rather than internal rivals — "Only one set of rulers can obtain a monopoly of coercion over any given territorial area at any one time: complete power over a territory by State X can only be obtained by the expulsion of State Y" — and his own definition has the state only attempting to maintain its monopoly, so the internal case is an empirical achievement rather than a matter of definition. The United States, Brazil, China, and Rome alike face no rival sovereign.
 
 The second is **eliminating organized crime as an activity** — ending the gangs' territorial control, extortion, and trafficking, not merely their pretension to rule. This is far rarer, and it is here that states diverge. What separates the states that achieve it from those that do not is not how large they are but how much coercive capacity they can concentrate and how few constraints they place on its use.
 
@@ -56,7 +56,7 @@ The second is **eliminating organized crime as an activity** — ending the gang
 
 The cost of asserting the monopoly against entrenched criminal organizations depends on three things, none of which is reducible to territory.
 
-The first is **administrative penetration** — how far the state's machinery reaches from the center down into local life. Tilly's own comparison is decisive here, and it runs *against* the size intuition: the most complete penetration he records belongs to a vast empire, not a small state. "No European government approached the completeness of articulation from top to bottom achieved by imperial China"; Europe's comparatively small states governed *indirectly*, through local power-holders — "junkers, justices of the peace, lords" — and so reached less far into local life than the far larger Chinese empire did. Penetration is a property of centralization and administrative design, not of acreage. A large but deeply centralized state can monitor its population more thoroughly than a small but fragmented one.
+The first is **administrative penetration** — how far the state's machinery reaches from the center down into local life. Tilly's own comparison is decisive here, and it runs *against* the size intuition: the most complete penetration he records belongs to a vast empire, not a small state. "Before quite recently, no European government approached the completeness of articulation from top to bottom achieved by imperial China." Europe's comparatively small states governed *indirectly*, through local power-holders — "junkers, justices of the peace, lords" — and so reached less far into local life than the far larger Chinese empire did. Penetration is a property of centralization and administrative design, not of acreage. A large but deeply centralized state can monitor its population more thoroughly than a small but fragmented one.
 
 The second is **coercive capacity** — the security forces, prisons, and surveillance a state can bring to bear. The third, and in the El Salvador case the crucial one, is the **willingness to deploy that capacity unconstrained by rights** — to arrest without warrant, detain on suspicion, and override due process. The reference account of El Salvador's crackdown names exactly this cluster when it explains the policy's results: effectiveness turned on "specific factors, including the country's geography, demographics, security force capabilities, incarceration rates, and political context." Size (geography, demographics) is one term in that list, not the operative one; capacity and political context — regime type and the readiness to suspend rights — do the work.
 
@@ -118,6 +118,7 @@ The combined analysis cuts across the usual framing of the debate. It is neither
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]] - Oppenheimer's conquest thesis treats the state as class domination institutionalized after conquest, not as a voluntary contract grown out of peaceful association.
 - [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - Rothbard's claim in *Anatomy of the State* that war pushes state power to its ultimate, and that every modern war leaves a permanent legacy of increased state burdens on society.
 - [[war-and-state-formation|War and State Formation]] - Tilly's historical-sociological thesis that European war-making, extraction, coercive consolidation, capital
+- [[private-security-and-insurance|Private Security and Insurance]] - the racketeer/protector test applied to non-state suppliers of protection
 
 ## Sources
 

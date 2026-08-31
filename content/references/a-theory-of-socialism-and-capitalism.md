@@ -3,7 +3,7 @@ title: "A Theory of Socialism and Capitalism"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-06-09
+updated: 2026-08-31
 verified: 2026-06-09
 tags: [hoppe, austrian-economics, socialism, property-rights]
 aliases: [Theory of Socialism and Capitalism]
@@ -43,8 +43,9 @@ In the present graph, this book is the compact comparative-systems counterpart t
 - [[the-ethics-of-liberty|The Ethics of Liberty]] - related work in this corpus
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[capitalism|Capitalism]] - The economic system of private property, voluntary exchange, and free prices — social cooperation through the market — routinely confused with the very things it forbids: crony privilege, fraud
+- [[private-security-and-insurance|Private Security and Insurance]] - why a state cannot leave the production of security in private hands
 
 ## Sources
 
-- [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - full aggregated source extracted from the Mises EPUB edition
+- [A Theory of Socialism and Capitalism (Full Text Aggregate)](https://cdn.mises.org/theory_of_socialism_and_capitalism_a_4.epub) - full aggregated source extracted from the Mises Institute EPUB edition
 - [A Theory of Socialism and Capitalism](https://mises.org/library/book/theory-socialism-and-capitalism) - Mises page metadata and descriptive framing for the book

@@ -3,12 +3,12 @@ title: "Tilly on Protection Rackets"
 volatility: warm
 category: concept
 created: 2026-05-16
-updated: 2026-06-09
+updated: 2026-08-31
 verified: 2026-06-09
 tags: [charles-tilly, protection-racket, war-and-state-formation, organized-crime, extraction, historical-sociology, non-libertarian]
 summary: "Charles Tilly's formulation that war-making and state-making are 'quintessential protection rackets with the advantage of legitimacy' — a sociological convergence with the Austrian state-as-predator thesis."
 aliases: [Tilly protection racket, war-making state-making protection extraction, Tilly 1985 on rackets]
-confidence: high
+confidence: medium
 short: "Tilly's 1985 claim: war making and state making are protection rackets with the advantage of legitimacy — governments producing both the danger and the shield against it qualify as racketeers."
 ---
 
@@ -20,7 +20,7 @@ short: "Tilly's 1985 claim: war making and state making are protection rackets w
 
 ## The Racketeer Definition
 
-Tilly's argument in [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] turns on a precise definition of the racketeer: "someone who creates a threat and then charges for its reduction." The framing flips the standard apologia in which states sell "protection from local and external violence" at a price that "barely cover[s] the costs." The empirical test is who controls the threat. Where "the threats against which a given government protects its citizens are imaginary or are consequences of its own activities, the government has organized a protection racket."
+Tilly's argument in [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] turns on a precise definition of the racketeer: "someone who creates a threat and then charges for its reduction." The framing flips the standard apologia in which states offer "protection from local and external violence" and claim that "the prices they charge barely cover the costs of protection". Tilly is more guarded about the status of the model than most of those who cite it: he presents "tentative arguments" illustrating an analogy, and says plainly that the essay "brings with it few illustrations and no evidence worthy of the name." The empirical test is who controls the threat. Where "the threats against which a given government protects its citizens are imaginary or are consequences of its own activities, the government has organized a protection racket."
 
 The 1985 essay specifies four interdependent activities that European states historically performed: war making (attacking rivals outside the territory), state making (attacking rivals inside it), protection (attacking enemies of one's clients), and extraction (drawing the means for the first three from the subject population). Tilly's claim is not that states "merely" engage in racketeering metaphorically; it is that the four-part model, plus the monopolization of violence, is descriptively how the European national state was assembled.
 
@@ -47,10 +47,11 @@ The broader [[war-and-state-formation|War and State Formation]] article situates
 - [[non-interventionism|Non-Interventionism]] - blowback as the threat-creation pattern abroad
 - [[megapolitics|Megapolitics]] - Davidson and Rees-Mogg generalize protection-pricing into a violence-cost theory of history
 - [[jurisdictional-competition|Jurisdictional Competition]] - what happens to the protection racket when mobile wealth can finally shop between jurisdictions
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[north-atlantic-treaty|The North Atlantic Treaty]] - The 1949 founding treaty and the 2014 Wales Defence Investment Pledge — the primary documents behind NATO's defense-spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP
 - [[state-theory-and-totalitarianism|State Theory and Totalitarianism]] - The wiki's state-theory hub: how state power originates, sustains itself, and turns total — Oppenheimer and Tilly on conquest and war-making, Schmitt on sovereignty, Foucault on biopower
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]]
+- [[private-security-and-insurance|Private Security and Insurance]] - the test that separates a defence agency from a racket
 
 ## Sources
 

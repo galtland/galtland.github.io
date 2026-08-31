@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 compiled-from: conversation
 created: 2026-07-16
-updated: 2026-08-05
+updated: 2026-08-31
 verified: 2026-08-03
 confidence: medium
 tags: [silk-road, ross-ulbricht, bitcoin, crypto-anarchy, darknet, censorship-resistance, monero, agorism]
@@ -49,6 +49,7 @@ The facts here are well documented; what stays contested is the normative readin
 - [[fungibility|Fungibility]] - the monetary property Silk Road's fall made an argument for
 - [[timothy-c-may|Timothy C. May]] - author of the crypto-anarchist vision Silk Road realized
 - [[the-cybereconomy|The Cybereconomy]] - the borderless-market idea Silk Road briefly instantiated
+- [[private-security-and-insurance|Private Security and Insurance]] - escrow, reputation and expulsion as non-violent enforcement where courts were unavailable
 
 ## Sources
 

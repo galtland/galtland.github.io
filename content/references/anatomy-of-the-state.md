@@ -3,7 +3,7 @@ title: "Anatomy of the State"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-06-09
+updated: 2026-08-31
 verified: 2026-07-23
 tags: [rothbard, state, anti-statism, political-theory, political-means, evolution-of-the-state]
 aliases: [Anatomy]
@@ -58,7 +58,7 @@ In the current reference set, this book is the compressed companion to [[for-a-n
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 
 - [[2026-06-08-libertarianism-and-the-adoption-problem|Libertarianism and Human Nature: The Adoption Problem]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[north-atlantic-treaty|The North Atlantic Treaty]] - The 1949 founding treaty and the 2014 Wales Defence Investment Pledge — the primary documents behind NATO's defense-spending ratchet: Article 3's open-ended obligation, operationalized as 2% of GDP
 - [[oppenheimer-on-conquest|Oppenheimer On Conquest]]
 - [[taxation|Taxation]]

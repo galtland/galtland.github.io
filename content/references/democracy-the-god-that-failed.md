@@ -3,7 +3,7 @@ title: "Democracy: The God That Failed"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-08-08
+updated: 2026-08-31
 verified: 2026-06-18
 tags: [hoppe, democracy, monarchy, time-preference, decivilization, natural-order, regime-theory, praxeology]
 aliases: [Democracy, The God That Failed, Democracy by Hoppe]
@@ -54,7 +54,7 @@ The raw source is now a full-text aggregate built from a non-official Internet A
 - [[hoppe-on-caretaker-capital-consumption|Hoppe on Caretaker Capital Consumption]] - the book's central caretaker argument: a temporary democratic ruler maximizes current income at the expense of the state's capital value
 
 - [[2026-06-12-mega-event-boondoggles|Mega-Event Boondoggles: Why Host-City Stadiums Rarely Pay Off — Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - The public-choice account of why liberty is systematically under-supplied: voters are rationally ignorant, and small concentrated interests out-organize the large diffuse public
 - [[forced-integration|Forced Integration]] - Hoppe's term for the state overriding owners' right to exclude — compelling association — with Friedman's narrower discrimination-as-costly-taste view as a contrast.
 - [[secession|Secession]]

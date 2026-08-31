@@ -3,7 +3,7 @@ title: "Rothbard on War and the State"
 volatility: warm
 category: concept
 created: 2026-05-16
-updated: 2026-08-06
+updated: 2026-08-31
 verified: 2026-06-09
 tags: [rothbard, war, state, defense, conscription, militarism, anatomy-of-the-state]
 summary: "Rothbard's claim in Anatomy of the State that war pushes state power to its ultimate, and that every modern war leaves a permanent legacy of increased state burdens on society."
@@ -20,9 +20,9 @@ short: "Rothbard's claim in *Anatomy of the State* that war pushes state power t
 
 ## The Permanent-Burden Claim
 
-Rothbard's case in [[anatomy-of-the-state|Anatomy of the State]] is not the slogan that "war is the health of the State" — that is Randolph Bourne, whom Rothbard quotes — but the more specific historical claim: every modern war "has brought to the warring peoples a permanent legacy of increased State burdens upon society." The mechanism has two components. First, the slogans of "defense" and "emergency" suspend the resistance that comparable peacetime expansions would face. Second, the institutions built to wage the war — taxes, debt, conscription apparatus, surveillance, regulatory bodies, military-industrial procurement chains — survive the war that justified them. The bar for accepting state extension is lowered, the apparatus persists, and the new floor becomes the next baseline.
+Rothbard's case in [[anatomy-of-the-state|Anatomy of the State]] is not the slogan that "war is the health of the State" — that is Randolph Bourne, whom Rothbard quotes — but the more specific historical claim: every modern war "has brought to the warring peoples a permanent legacy of increased State burdens upon society." The mechanism has two components. First, the slogans of "defense" and "emergency" suspend the resistance that comparable peacetime expansions would face. Second, the extension outlives the emergency: what Rothbard asserts is the "permanent legacy", and the inference this article draws from it is that the machinery assembled to wage a war is what remains — an inference about mechanism that his text states only as a result. The bar for accepting state extension is lowered, the extension persists, and the new floor becomes the next baseline.
 
-The same chapter explains the demand side. Rothbard notes that the state has been "successful in recent centuries in instilling fear of other State rulers", so that "a war between rulers was converted into a war between peoples, with each people coming to the defense of its rulers in the erroneous belief that the rulers were defending them." The supply of "credible threats" required to justify the permanent-burden ratchet is endogenous: the state-system manufactures the demand for its own services.
+An earlier chapter, "How the State Preserves Itself", supplies the demand side. Rothbard notes that the state has been "successful in recent centuries in instilling fear of other State rulers", so that "a war between rulers was converted into a war between peoples, with each people coming to the defense of its rulers in the erroneous belief that the rulers were defending them." The threat that justifies the permanent-burden ratchet is thus endogenous to the state system: it manufactures the demand for its own services.
 
 ## Relation to the Wiki
 
@@ -43,7 +43,8 @@ The claim sits inside the broader [[state-power-and-intervention|State Power and
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
 - [[non-interventionism|Non-Interventionism]] - the normative non-intervention stance that pairs with this war-power ratchet
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
+- [[private-security-and-insurance|Private Security and Insurance]] - the national-defence problem the market case has not solved
 
 ## Sources
 

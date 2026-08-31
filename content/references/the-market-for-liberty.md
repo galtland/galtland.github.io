@@ -3,7 +3,7 @@ title: "The Market for Liberty"
 volatility: warm
 category: reference
 created: 2026-04-25
-updated: 2026-08-11
+updated: 2026-08-31
 verified: 2026-06-09
 tags: [tannehill, market-anarchism, private-law, defense-agencies]
 aliases: [Market for Liberty]
@@ -41,6 +41,7 @@ In this corpus, the Tannehills do for institutions what [[murray-n-rothbard|Roth
 - [[the-production-of-security|The Production of Security]] - related work in this corpus
 - [[criticisms-of-anarcho-capitalism|Criticisms of Anarcho-Capitalism]] - The strongest objections to a stateless market order — public goods, the warlord/Hobbesian problem, Nozick's invisible-hand state, equal justice, and stability — each stated fairly
 - [[os-fundamentos-objetivos-da-justica|Os Fundamentos Objetivos da Justiça]] - a 2026 treatise reaching a similar institutional architecture from an explicitly deductive foundation
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - the consequentialist counterpart, which refutes this book's insurance-funded national defence
 
 ## Sources
 

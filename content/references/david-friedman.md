@@ -3,10 +3,10 @@ title: "David Friedman"
 volatility: warm
 category: reference
 created: 2026-07-15
-updated: 2026-08-06
+updated: 2026-08-31
 verified: 2026-07-15
 tags: [david-friedman, machinery-of-freedom, anarcho-capitalism, consequentialism, utilitarian, private-law, protection-agencies, market-anarchism, chicago-school]
-aliases: [David Friedman, David D. Friedman, The Machinery of Freedom, Machinery of Freedom]
+aliases: [David Friedman, David D. Friedman]
 confidence: medium
 short: "The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man."
 summary: "Author reference for David D. Friedman (b. 1945): the consequentialist anarcho-capitalist, whose The Machinery of Freedom argues for a stateless order — police and courts replaced by competing private firms — on efficiency/outcome grounds rather than a natural-rights axiom. Covers the competing-protection-agency mechanism (Tannahelp vs Dawn Defense; profit prices war out, contra Rand), private property as 'the machinery of freedom', 'selling the state in small pieces', and the explicit method choice to judge legal rules by consequences. The missing consequentialist pillar beside the wiki's natural-rights (Rothbard/Rand) ancap material; disambiguated from his father Milton."
@@ -14,7 +14,7 @@ summary: "Author reference for David D. Friedman (b. 1945): the consequentialist
 
 # David Friedman
 
-> David D. Friedman (b. 1945) is the economist who made the *consequentialist* case for anarcho-capitalism. In *The Machinery of Freedom: Guide to a Radical Capitalism* (1973; second edition) he argues for the same radical conclusion as the wiki's natural-rights anarchists — no state, with police and courts replaced by competing private firms — but reaches it from efficiency and outcomes rather than from a moral axiom. He is the son of the monetarist Milton Friedman and should not be confused with him: where the father wanted government cut to a rule-bound minimum, the son argues it can be dispensed with entirely.
+> David D. Friedman (b. 1945) is the economist who made the *consequentialist* case for anarcho-capitalism. In [[the-machinery-of-freedom|The Machinery of Freedom]] (1973; second edition) he argues for the same radical conclusion as the wiki's natural-rights anarchists — no state, with police and courts replaced by competing private firms — but reaches it from efficiency and outcomes rather than from a moral axiom. He is the son of the monetarist Milton Friedman and should not be confused with him: where the father wanted government cut to a rule-bound minimum, the son argues it can be dispensed with entirely.
 
 ## Who He Is
 
@@ -46,7 +46,7 @@ So Friedman argues from consequences on purpose. He is candid that this is a cho
 
 > As a moral philosopher I am a libertarian, insofar as I am anything. As an economist I am a utilitarian.
 >
-> — David Friedman, *The Machinery of Freedom*
+> — [[david-friedman|David Friedman]], [[the-machinery-of-freedom|The Machinery of Freedom]]
 
 The contrast with the wiki's natural-rights anarchists is exact. [[murray-n-rothbard|Murray Rothbard]] derives the identical institutions — private defense, private courts, no state — from the [[nonaggression-and-property-rights|nonaggression axiom]] and self-ownership, treating them as morally required whatever the cost. Friedman reaches the same destination by asking which rules leave people better off. Same map, opposite compass.
 
@@ -64,6 +64,8 @@ David Friedman fills a structural gap. The corpus derives anarcho-capitalism alm
 - [[stateless-somalia|Stateless Somalia]] - a real-world private-law order, the empirical companion to his model
 - [[libertarianism|Libertarianism]] - Topic map of the wiki's libertarian corpus: property, voluntary exchange, anti-statism, historical state formation, and non-state legal order.
 - [[libertarian-family|The Libertarian Family: Anarcho-Capitalist, Minarchist, Mutualist, Georgist]]
+- [[private-security-and-insurance|Private Security and Insurance]] - the Tannahelp/Dawn Defense mechanism and the national-defence concession, in context
+- [[the-machinery-of-freedom|The Machinery of Freedom]] - his book
 
 ## Sources
 

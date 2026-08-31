@@ -3,7 +3,7 @@ title: "Citizenship and State Bargaining"
 volatility: warm
 category: concept
 created: 2026-05-12
-updated: 2026-06-09
+updated: 2026-08-31
 verified: 2026-06-09
 tags: [charles-tilly, citizenship, state-formation, bargaining, taxation, rights, war-and-state-formation, non-libertarian]
 aliases: [states and citizens, citizen bargaining, state-citizen bargaining]
@@ -36,7 +36,7 @@ The concept complicates a simple parasite metaphor. A parasite model highlights 
 - [[2026-05-10-state-as-parasite-thesis|The State as Parasite: A Thesis]] - thesis whose Tilly gap this concept helps close
 - [[nationalism-and-state-formation|Nationalism and State Formation]] - reciprocal link.
 - [[jurisdictional-competition|Jurisdictional Competition]] - the reverse current in which mobile wealth unwinds the tax-for-rights bargain and turns citizens back into customers
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 
 ## Sources
 

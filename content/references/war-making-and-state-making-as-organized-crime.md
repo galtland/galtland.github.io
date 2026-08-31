@@ -3,7 +3,7 @@ title: "War Making and State Making as Organized Crime"
 volatility: warm
 category: reference
 created: 2026-05-10
-updated: 2026-08-06
+updated: 2026-08-31
 verified: 2026-06-18
 tags: [charles-tilly, state, war-and-state-formation, protection-racket, organized-crime, historical-sociology, coercion, extraction, non-libertarian]
 aliases: [War Making and State Making, State Making as Organized Crime, Tilly 1985, protection rackets with legitimacy]
@@ -64,8 +64,9 @@ The article is especially important for [[war-and-state-formation|War and State 
 - [[2026-06-04-trump-ceasefire-moderate-shooting|The June 2026 'Moderate Shooting' Ceasefire Remark: Analysis]] - newsroom thesis backlink
 
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention and the Unended Foreign Presence: Analysis]] - newsroom thesis backlink
-- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime is structurally easier in a small, centralized polity than in a large, federal one — concentrated criminal interests out-organize diffuse populations
+- [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - Why suppressing organized crime turns on a state's capacity and willingness to override rights rather than on country size — total-coercion states crush crime and dissent alike, rights-constrained ones tolerate it
 - [[offense-defense-balance-of-technology|The Offense–Defense Balance of Technology]] - Every technology tilts power toward attack or defense by changing the cost of predation versus protection — and state formation and dissolution track the shifts. Gunpowder built the state
+- [[private-security-and-insurance|Private Security and Insurance]] - states as protection rackets, and the same test applied to private protectors
 
 ## Sources
 
