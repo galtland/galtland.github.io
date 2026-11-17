@@ -4,7 +4,7 @@ title: "Glossary"
 
 # Glossary
 
-An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (371 entries).
+An A–Z glossary of every article in the wiki, generated at publish time from each page’s one-line summary (372 entries).
 
 ## #
 
@@ -136,6 +136,7 @@ An A–Z glossary of every article in the wiki, generated at publish time from e
 - **[Fiat as Engineered System](/concepts/fiat-as-engineered-system)** — Ammous's Fiat Standard frame: fiat as debt-based monetary engineering, with central banks as protocol nodes and Bitcoin as the comparative alternative.
 - **[The Fiat Standard](/references/the-fiat-standard)** — Ammous's 2021 companion book: fiat as debt-based monetary technology, and Bitcoin as the comparative hard-money alternative.
 - **[Financial Surveillance](/concepts/financial-surveillance)** — The KYC/AML/FATF regime that turns the payment system into surveillance and control by deputizing intermediaries; CBDCs are its culmination, fungible self-custody the counter.
+- **[Flag Theory](/concepts/flag-theory)** — Spreading passport, tax residence, business, assets and living place across different countries so no single government controls them all: Harry Schultz's 'three flags', now extended to Bitcoin and servers.
 - **[Fog of CryptoWar](/references/fog-of-cryptowar)** — Logan's 2017 field map of Crypto War 2: the 'ban encryption' debate is a straw man while plaintext access arrives through vendor pressure, weak defaults, metadata retention, and lawful hacking.
 - **[Folkways](/references/folkways)** — Sumner's 1906 study popularizing ethnocentrism and the we-group/out-group distinction, cited here for the tribal sentiment nationalism mobilizes.
 - **[For a New Liberty](/references/for-a-new-liberty)** — Rothbard's movement-level manifesto surveying libertarian doctrine, rights theory, and strategy across the full range of policy applications.

@@ -3,7 +3,7 @@ title: "Libertarianism"
 volatility: warm
 category: topic
 created: 2026-04-21
-updated: 2026-08-31
+updated: 2026-11-17
 verified: 2026-07-15
 tags: [libertarianism, liberty, anti-statism, property-rights, classical-liberalism, evolution-of-the-state, war-and-state-formation, protection-racket, banality-of-evil, gulag, totalitarianism]
 aliases: [libertarian thought, liberty tradition]
@@ -86,6 +86,7 @@ New to this hub? Read these five, in order:
 - [[private-security-and-insurance|Private Security and Insurance]] - the full treatment of protection as a market service: subscription defense firms, insurers as the pricing and disciplining institution, and the objections that remain open
 - [[crypto-anarchy|Crypto Anarchy]] - cypherpunk strategy for moving voluntary exchange beyond ordinary state surveillance and control
 - [[agorism-and-counter-economics|Agorism and Counter-Economics]] - Konkin's strategy-by-exit: grow the counter-economy until it displaces the state
+- [[flag-theory|Flag Theory]] - individual exit by spreading passport, residence, business and assets across countries so no one state holds them all
 - [[public-choice-and-rational-ignorance|Public Choice and Rational Ignorance]] - why liberty is systematically under-supplied through the ballot box
 - [[in-group-out-group-tribalism|In-Group/Out-Group Tribalism]] - the we-group/ethnocentrism sentiment nationalism mobilizes and individualism works against
 - [[timothy-c-may|Timothy C. May]] - author of the Crypto Anarchist Manifesto and the Cyphernomicon

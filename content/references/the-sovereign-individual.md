@@ -3,7 +3,7 @@ title: "The Sovereign Individual"
 volatility: cold
 category: reference
 created: 2026-06-09
-updated: 2026-08-10
+updated: 2026-11-17
 verified: 2026-06-26
 tags: [james-dale-davidson, william-rees-mogg, sovereign-individual, information-age, megapolitics, cybereconomy, digital-money, jurisdictional-competition, nation-state, cypherpunk, commercially-published, non-libertarian]
 aliases: [The Sovereign Individual, Mastering the Transition to the Information Age, Sovereign Individual, the sovereign individual thesis]
@@ -56,6 +56,7 @@ Confidence is medium: the book can be summarized faithfully and directly from th
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network states).
 - [[farewell-to-westphalia|Farewell to Westphalia]] - Hope & Ludlow's 2025 book: the nation-state is a 380-year-old governance technology; blockchain communities — voluntary, exit-based, borderless — are the successor under construction.
 - [[secession|Secession]]
+- [[flag-theory|Flag Theory]] - an individual practice of the exit the book forecasts for mobile capital
 
 ## Sources
 

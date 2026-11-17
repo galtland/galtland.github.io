@@ -3,7 +3,7 @@ title: "Oppenheimer On Conquest"
 volatility: warm
 category: concept
 created: 2026-06-07
-updated: 2026-07-16
+updated: 2026-11-17
 verified: 2026-07-16
 tags: [franz-oppenheimer, conquest-theory, state, political-means, economic-means, exploitation]
 aliases: [Oppenheimer conquest thesis, conquest origin of the state, state by conquest]
@@ -53,6 +53,7 @@ The conquest thesis is a strong causal claim, and it is not the only story. Soci
 - [[organized-crime-and-state-capacity|Organized Crime and State Capacity]] - a related state-capacity analysis
 - [[2026-06-07-somalia-2006-intervention-blowback|Somalia's 2006 Intervention: Analysis]] - newsroom thesis applying the conquest/racket frame
 - [[taxation|Taxation]]
+- [[flag-theory|Flag Theory]] - the modern answer to the immobile peasant: hold the legal pieces of life in several states
 
 ## Sources
 

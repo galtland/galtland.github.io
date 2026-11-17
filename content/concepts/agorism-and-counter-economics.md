@@ -3,7 +3,7 @@ title: "Agorism and Counter-Economics"
 volatility: warm
 category: concept
 created: 2026-06-08
-updated: 2026-08-08
+updated: 2026-11-17
 verified: 2026-06-18
 tags: [samuel-edward-konkin, agorism, counter-economics, strategy, anarchism, black-market, grey-market, parallel-economy, libertarianism]
 summary: "Konkin's 1980 agorist strategy: grow the counter-economy — all peaceful exchange the state forbids, taxes, or regulates — until voluntary trade displaces the state. The strategy-by-exit answer to libertarian adoption, requiring no change in human nature; the ancestor of the cypherpunk parallel economy."
@@ -54,6 +54,7 @@ The manifesto is a strategic and polemical text, not an economic treatise; its e
 - [[2026-07-02-bitcoin-frees-the-individual-not-the-collective|Bitcoin Frees the Individual, Not the Collective]] - A response to Soleimani's Mises Wire critique: Bitcoin does not dismantle any state and never could, but it delivers real if bounded freedom to the individual who self-custodies
 - [[seasteading-and-network-states|Seasteading and Network States]] - Two proposals for building new polities that compete with the nation-state: floating ocean settlements (seasteading) and internet communities that crowdfund territory and seek recognition (network states).
 - [[david-friedman|David Friedman]] - The economist who made the consequentialist case for anarcho-capitalism — competing private protection and courts defended by efficiency, not natural rights. Milton Friedman's son, not the same man.
+- [[flag-theory|Flag Theory]]
 
 ## Sources
 

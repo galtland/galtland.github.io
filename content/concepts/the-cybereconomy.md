@@ -3,7 +3,7 @@ title: "The Cybereconomy"
 volatility: warm
 category: concept
 created: 2026-06-09
-updated: 2026-08-10
+updated: 2026-11-17
 verified: 2026-06-18
 tags: [cybereconomy, cybercash, cybermoney, digital-money, james-dale-davidson, william-rees-mogg, sovereign-individual, information-age, denationalized-money, cypherpunk]
 aliases: [cybereconomy, cybercash, cybermoney, the cybereconomy, digital cash]
@@ -54,6 +54,7 @@ Confidence is medium. The cybercash prediction was substantially vindicated by t
 - [[john-perry-barlow|John Perry Barlow]]
 - [[silk-road|Silk Road]]
 - [[peer-to-peer|Peer-to-Peer and the BitTorrent Lineage]]
+- [[flag-theory|Flag Theory]]
 
 ## Sources
 

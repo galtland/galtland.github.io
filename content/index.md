@@ -8,8 +8,8 @@ Last updated: 2026-08-18
 
 ## Statistics
 
-- Sources: 228 raw documents (+ 4 news-lens items)
-- Articles: 371 compiled wiki articles (167 concepts, 184 references, 10 theses, 10 topics)
+- Sources: 234 raw documents (+ 4 news-lens items)
+- Articles: 372 compiled wiki articles (168 concepts, 184 references, 10 theses, 10 topics)
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-06-26
 - Last lint: 2026-06-26
@@ -33,6 +33,10 @@ Last updated: 2026-08-18
 - [Theses](theses/)
 
 ## Recent Changes
+
+- 2026-11-17: compile -- added concept `flag-theory` from the 6 Flag Theory sources; adopted by the Libertarianism hub with reciprocal See Also on 9 related pages.
+
+- 2026-11-17: ingest -- added 6 Flag Theory sources (W. G. Hill's *PT* excerpt with Harry Schultz's three-to-five-flags account, Starchild 1995, AIER 2026, Bitcoin Magazine 2022, IMI Daily 2026, Wikipedia "Perpetual traveler"). Source count 228 -> 234. Not yet compiled.
 
 - 2026-07-31: thesis -- added `2026-07-31-is-mileis-government-libertarian`; regenerated newsroom indexes and backlinks.
 

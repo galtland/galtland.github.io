@@ -4,7 +4,7 @@ volatility: warm
 category: concept
 compiled-from: conversation
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-11-17
 verified: 2026-07-16
 confidence: high
 tags: [financial-surveillance, kyc, aml, fatf, cbdc, financial-privacy, censorship-resistance, chokepoint, monero]
@@ -49,3 +49,4 @@ Financial surveillance is where the wiki's [[privacy-and-cryptography|privacy]] 
 - [[self-custody|Self-Custody]] - removing the deputized reporting intermediary
 - [[political-means-and-economic-means|Political Means and Economic Means]] - control through the gatekeeper as the political means applied to money
 - [[privacy-and-cryptography|Privacy and Cryptography]] - the hub this regime is the adversary of
+- [[flag-theory|Flag Theory]] - automatic tax-information exchange, which industry writers say ended the opaque perpetual traveler
